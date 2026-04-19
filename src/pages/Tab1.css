@@ -1,7 +1,8 @@
 .vision-content {
 	--background:
-		linear-gradient(rgba(248, 241, 225, 0.93), rgba(239, 227, 204, 0.93) 52%, rgba(229, 209, 178, 0.93)),
-		url('/art/scholastic-witnesses.svg') center top / cover no-repeat;
+		linear-gradient(rgba(248, 241, 225, 0.88), rgba(239, 227, 204, 0.88) 52%, rgba(229, 209, 178, 0.9)),
+		url('/art/fathers.svg') left top / 54% auto no-repeat,
+		url('/art/aquinas.svg') right top / 54% auto no-repeat;
 }
 
 .vision-shell {
@@ -14,7 +15,7 @@
 .chat-panel,
 .info-panel,
 .tagline-panel {
-	background: rgba(255, 251, 243, 0.72);
+	background: rgba(255, 251, 243, 0.8);
 	border: 1px solid rgba(92, 52, 26, 0.12);
 	border-radius: 28px;
 	box-shadow: 0 20px 60px rgba(69, 37, 18, 0.12);
@@ -327,6 +328,13 @@
 	.info-panel,
 	.tagline-panel {
 		border-radius: 22px;
+	}
+
+	.vision-content {
+		--background:
+			linear-gradient(rgba(248, 241, 225, 0.9), rgba(239, 227, 204, 0.9) 52%, rgba(229, 209, 178, 0.92)),
+			url('/art/fathers.svg') left top / 90% auto no-repeat,
+			url('/art/aquinas.svg') right top / 90% auto no-repeat;
 	}
 
 	.chat-panel-header {
