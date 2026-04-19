@@ -1,21 +1,41 @@
 .pathways-content {
 	--background:
-		linear-gradient(rgba(252, 246, 235, 0.87), rgba(242, 231, 213, 0.89)),
-		url('/art/fathers.svg') left top / 68% auto no-repeat,
 		radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
 		linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
 }
 
 .pathways-shell {
+	position: relative;
+	isolation: isolate;
+	overflow: hidden;
 	max-width: 1120px;
 	margin: 0 auto;
 	padding: 104px 20px 120px;
 }
 
+.pathways-shell::before {
+	content: "";
+	position: absolute;
+	top: 30px;
+	left: -20px;
+	bottom: 40px;
+	width: min(44vw, 560px);
+	background: url('/art/fathers.svg') left top / contain no-repeat;
+	opacity: 0.36;
+	filter: sepia(0.28) saturate(0.94);
+	pointer-events: none;
+	z-index: 0;
+}
+
+.pathways-shell > * {
+	position: relative;
+	z-index: 1;
+}
+
 .pathways-hero,
 .pathway-card,
 .flow-panel {
-	background: rgba(255, 251, 245, 0.88);
+	background: rgba(255, 251, 245, 0.92);
 	border: 1px solid rgba(96, 58, 28, 0.12);
 	border-radius: 28px;
 	box-shadow: 0 22px 70px rgba(71, 48, 26, 0.08);
@@ -135,10 +155,17 @@
 
 	.pathways-content {
 		--background:
-			linear-gradient(rgba(252, 246, 235, 0.89), rgba(242, 231, 213, 0.91)),
-			url('/art/fathers.svg') center top / 96% auto no-repeat,
 			radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
 			linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
+	}
+
+	.pathways-shell::before {
+		top: 18px;
+		left: -22px;
+		bottom: auto;
+		width: 76vw;
+		height: 320px;
+		opacity: 0.3;
 	}
 
 	.pathways-hero,

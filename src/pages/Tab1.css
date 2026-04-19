@@ -1,21 +1,55 @@
 .vision-content {
-	--background:
-		linear-gradient(rgba(248, 241, 225, 0.88), rgba(239, 227, 204, 0.88) 52%, rgba(229, 209, 178, 0.9)),
-		url('/art/fathers.svg') left top / 54% auto no-repeat,
-		url('/art/aquinas.svg') right top / 54% auto no-repeat;
+	--background: linear-gradient(180deg, #f8f1e1 0%, #efe3cc 52%, #e5d1b2 100%);
 }
 
 .vision-shell {
+	position: relative;
+	isolation: isolate;
+	overflow: hidden;
 	max-width: 1120px;
 	margin: 0 auto;
 	padding: 104px 20px 120px;
+}
+
+.vision-shell::before,
+.vision-shell::after {
+	content: "";
+	position: absolute;
+	top: 40px;
+	bottom: 40px;
+	width: min(34vw, 420px);
+	border-radius: 36px;
+	pointer-events: none;
+	opacity: 0.34;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 50% 0;
+	filter: sepia(0.3) saturate(0.9);
+	z-index: 0;
+}
+
+.vision-shell::before {
+	left: -18px;
+	background-image: url('/art/fathers.svg');
+	background-position: 0 0;
+}
+
+.vision-shell::after {
+	right: -18px;
+	background-image: url('/art/aquinas.svg');
+	background-position: 100% 0;
+}
+
+.vision-shell > * {
+	position: relative;
+	z-index: 1;
 }
 
 .hero-card,
 .chat-panel,
 .info-panel,
 .tagline-panel {
-	background: rgba(255, 251, 243, 0.8);
+	background: rgba(255, 251, 243, 0.9);
 	border: 1px solid rgba(92, 52, 26, 0.12);
 	border-radius: 28px;
 	box-shadow: 0 20px 60px rgba(69, 37, 18, 0.12);
@@ -331,10 +365,24 @@
 	}
 
 	.vision-content {
-		--background:
-			linear-gradient(rgba(248, 241, 225, 0.9), rgba(239, 227, 204, 0.9) 52%, rgba(229, 209, 178, 0.92)),
-			url('/art/fathers.svg') left top / 90% auto no-repeat,
-			url('/art/aquinas.svg') right top / 90% auto no-repeat;
+		--background: linear-gradient(180deg, #f8f1e1 0%, #efe3cc 52%, #e5d1b2 100%);
+	}
+
+	.vision-shell::before,
+	.vision-shell::after {
+		top: 18px;
+		bottom: auto;
+		width: 54vw;
+		height: 280px;
+		opacity: 0.28;
+	}
+
+	.vision-shell::before {
+		left: -28px;
+	}
+
+	.vision-shell::after {
+		right: -28px;
 	}
 
 	.chat-panel-header {

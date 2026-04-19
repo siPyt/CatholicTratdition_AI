@@ -1,21 +1,41 @@
 .authority-content {
 	--background:
-		linear-gradient(rgba(245, 239, 227, 0.87), rgba(240, 230, 212, 0.89)),
-		url('/art/aquinas.svg') right top / 62% auto no-repeat,
 		radial-gradient(circle at top, rgba(214, 182, 134, 0.32), transparent 38%),
 		linear-gradient(180deg, #f5efe3 0%, #f0e6d4 100%);
 }
 
 .authority-shell {
+	position: relative;
+	isolation: isolate;
+	overflow: hidden;
 	max-width: 1120px;
 	margin: 0 auto;
 	padding: 104px 20px 120px;
 }
 
+.authority-shell::before {
+	content: "";
+	position: absolute;
+	top: 28px;
+	right: -12px;
+	bottom: 36px;
+	width: min(40vw, 500px);
+	background: url('/art/aquinas.svg') right top / contain no-repeat;
+	opacity: 0.38;
+	filter: sepia(0.28) saturate(0.94);
+	pointer-events: none;
+	z-index: 0;
+}
+
+.authority-shell > * {
+	position: relative;
+	z-index: 1;
+}
+
 .authority-hero,
 .tree-node,
 .protocol-block {
-	background: rgba(255, 249, 238, 0.88);
+	background: rgba(255, 249, 238, 0.92);
 	border: 1px solid rgba(71, 48, 26, 0.12);
 	border-radius: 28px;
 	box-shadow: 0 22px 70px rgba(71, 48, 26, 0.08);
@@ -139,10 +159,17 @@
 
 	.authority-content {
 		--background:
-			linear-gradient(rgba(245, 239, 227, 0.89), rgba(240, 230, 212, 0.91)),
-			url('/art/aquinas.svg') center top / 96% auto no-repeat,
 			radial-gradient(circle at top, rgba(214, 182, 134, 0.32), transparent 38%),
 			linear-gradient(180deg, #f5efe3 0%, #f0e6d4 100%);
+	}
+
+	.authority-shell::before {
+		top: 18px;
+		right: -18px;
+		bottom: auto;
+		width: 70vw;
+		height: 320px;
+		opacity: 0.32;
 	}
 
 	.authority-hero,
