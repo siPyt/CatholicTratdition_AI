@@ -140,7 +140,6 @@ const Tab1: React.FC = () => {
   const [copiedItemId, setCopiedItemId] = useState<string | null>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
-  const speechUtteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const audioRequestIdRef = useRef(0);
   const copyFeedbackTimeoutRef = useRef<number | null>(null);
   const audioUnlockedRef = useRef(false);
@@ -167,12 +166,6 @@ const Tab1: React.FC = () => {
       audioRef.current.currentTime = 0;
       audioRef.current = null;
     }
-
-    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-    }
-
-    speechUtteranceRef.current = null;
 
     setActiveAudioMessageId(null);
   };
@@ -423,36 +416,6 @@ const Tab1: React.FC = () => {
     await sendPrompt(draft);
   };
 
-  const speakWithBrowserVoice = async (message: StoredChatMessage) => {
-    if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
-      throw new Error('Voice playback is unavailable right now.');
-    }
-
-    const utterance = new SpeechSynthesisUtterance(message.content);
-    utterance.volume = 1;
-    utterance.rate = 1;
-    utterance.pitch = 1;
-    speechUtteranceRef.current = utterance;
-    setActiveAudioMessageId(message.id);
-
-    await new Promise<void>((resolve, reject) => {
-      utterance.onend = () => {
-        speechUtteranceRef.current = null;
-        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
-        resolve();
-      };
-
-      utterance.onerror = () => {
-        speechUtteranceRef.current = null;
-        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
-        reject(new Error('Voice playback is unavailable right now.'));
-      };
-
-      window.speechSynthesis.cancel();
-      window.speechSynthesis.speak(utterance);
-    });
-  };
-
   const playAudioForMessage = async (message: StoredChatMessage) => {
     if (message.role !== 'assistant') {
       return;
@@ -506,14 +469,9 @@ const Tab1: React.FC = () => {
       audio.onerror = clearPlaybackState;
       await audio.play();
     } catch (caughtError) {
-      try {
-        await speakWithBrowserVoice(message);
-        setError('');
-      } catch {
-        const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
-        setError(messageText);
-        setActiveAudioMessageId(null);
-      }
+      const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
+      setError(messageText);
+      setActiveAudioMessageId(null);
     }
   };
 
