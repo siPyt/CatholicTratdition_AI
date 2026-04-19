@@ -13,6 +13,11 @@ interface ChatRequestBody {
   mode?: unknown;
 }
 
+interface ChatUpstreamConfig {
+  url: string;
+  model: string;
+}
+
 function tryParseJson(text: string): unknown {
   try {
     return JSON.parse(text);
@@ -21,13 +26,39 @@ function tryParseJson(text: string): unknown {
   }
 }
 
+function resolveChatUpstream(apiKey: string, requestedModel: unknown): ChatUpstreamConfig {
+  const explicitBaseUrl = process.env.OPENAI_BASE_URL?.trim();
+  const usesVercelGateway =
+    apiKey.startsWith('vck_') ||
+    explicitBaseUrl === 'https://ai-gateway.vercel.sh/v1' ||
+    process.env.OPENAI_PROVIDER?.trim() === 'vercel-gateway';
+
+  const defaultModel = usesVercelGateway ? 'openai/gpt-4.1-mini' : 'gpt-4.1-mini';
+  const candidateModel = typeof requestedModel === 'string' && requestedModel.trim().length > 0
+    ? requestedModel.trim()
+    : process.env.OPENAI_MODEL?.trim() || defaultModel;
+
+  const model = usesVercelGateway && !candidateModel.includes('/')
+    ? `openai/${candidateModel}`
+    : candidateModel;
+
+  const baseUrl = explicitBaseUrl || (usesVercelGateway
+    ? 'https://ai-gateway.vercel.sh/v1'
+    : 'https://api.openai.com/v1');
+
+  return {
+    url: `${baseUrl}/chat/completions`,
+    model
+  };
+}
+
 export default async function handler(request: ApiRequest, response: ApiResponse): Promise<void> {
   try {
     if (!ensurePostMethod(request, response)) {
       return;
     }
 
-    const apiKey = requireEnv(response, ['OPENAI_API_KEY', 'open_ai_key']);
+    const apiKey = requireEnv(response, ['OPENAI_API_KEY', 'open_ai_key', 'dragon_key']);
     if (!apiKey) {
       return;
     }
@@ -42,9 +73,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       return;
     }
 
-    const model = typeof body?.model === 'string' && body.model.trim().length > 0
-      ? body.model.trim()
-      : process.env.OPENAI_MODEL?.trim() || 'gpt-4.1-mini';
+    const upstreamConfig = resolveChatUpstream(apiKey, body?.model);
 
     const temperature = typeof body?.temperature === 'number' ? body.temperature : 0.2;
     const retrievalContext = latestUserMessage
@@ -54,14 +83,14 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       ? `${buildTheologySystemPrompt(mode)}\n\n${retrievalContext}`
       : buildTheologySystemPrompt(mode);
 
-    const upstreamResponse = await fetch('https://api.openai.com/v1/chat/completions', {
+    const upstreamResponse = await fetch(upstreamConfig.url, {
       method: 'POST',
       headers: {
         Authorization: `Bearer ${apiKey}`,
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        model,
+        model: upstreamConfig.model,
         temperature,
         messages: [
           { role: 'system', content: systemPrompt },
@@ -87,7 +116,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
 
     response.status(200).json({
       content: typeof content === 'string' ? content : '',
-      model: payload?.model ?? model,
+      model: payload?.model ?? upstreamConfig.model,
       usage: payload?.usage ?? null,
       mode
     });

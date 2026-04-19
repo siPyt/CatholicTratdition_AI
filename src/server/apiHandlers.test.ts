@@ -115,6 +115,47 @@ describe('server handlers', () => {
     expect(response.statusCode).toBe(200);
   });
 
+  it('routes vck gateway keys through the Vercel AI Gateway endpoint', async () => {
+    process.env.OPENAI_API_KEY = 'vck_test_gateway_key';
+    delete process.env.OPENAI_MODEL;
+
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'openai/gpt-4.1-mini',
+        choices: [{ message: { content: 'Gateway reply.' } }],
+        usage: { total_tokens: 9 }
+      })
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'apologetics',
+          messages: [{ role: 'user', content: 'Explain confession.' }]
+        }
+      },
+      response
+    );
+
+    expect(fetchMock.mock.calls[0][0]).toBe('https://ai-gateway.vercel.sh/v1/chat/completions');
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      model: string;
+    };
+
+    expect(upstreamPayload.model).toBe('openai/gpt-4.1-mini');
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      content: 'Gateway reply.'
+    });
+  });
+
   it('returns a deterministic JSON error when chat upstream fails', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: false,
@@ -161,7 +202,7 @@ describe('server handlers', () => {
 
     expect(response.statusCode).toBe(500);
     expect(response.payload).toMatchObject({
-      error: 'Missing required environment variable: OPENAI_API_KEY or open_ai_key'
+      error: 'Missing required environment variable: OPENAI_API_KEY or open_ai_key or dragon_key'
     });
   });
 
