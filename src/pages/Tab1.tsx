@@ -12,6 +12,21 @@ interface ChatResponse {
   error?: string;
 }
 
+interface RetrievalResult {
+  id: string;
+  citation: string;
+  summary: string;
+  text: string;
+  score: number;
+}
+
+interface RetrievalResponse {
+  results?: RetrievalResult[];
+  count?: number;
+  error?: string;
+  details?: unknown;
+}
+
 interface TtsResponse {
   audioBase64?: string;
   contentType?: string;
@@ -98,6 +113,9 @@ const Tab1: React.FC = () => {
   const [messages, setMessages] = useState<StoredChatMessage[]>(storedSession?.messages.length ? storedSession.messages : [starterAssistantMessage]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
+  const [retrievalResults, setRetrievalResults] = useState<RetrievalResult[]>([]);
+  const [retrievalQuery, setRetrievalQuery] = useState('');
+  const [isRetrieving, setIsRetrieving] = useState(false);
   const [voiceRepliesEnabled, setVoiceRepliesEnabled] = useState(storedSession?.voiceRepliesEnabled ?? true);
   const [listeningSupported, setListeningSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
@@ -179,6 +197,49 @@ const Tab1: React.FC = () => {
 
   const selectedMode = getChatModeOption(mode);
 
+  const loadRetrievalPreview = async (query: string) => {
+    const trimmedQuery = query.trim();
+    if (!trimmedQuery) {
+      setRetrievalQuery('');
+      setRetrievalResults([]);
+      return [] as RetrievalResult[];
+    }
+
+    setIsRetrieving(true);
+
+    try {
+      const response = await fetch('/api/retrieve', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          query: trimmedQuery,
+          mode,
+          limit: 3
+        })
+      });
+
+      const payload = await parseApiResponse<RetrievalResponse>(response);
+      if (!response.ok) {
+        throw new Error(formatApiError(payload, 'Source retrieval is unavailable right now.'));
+      }
+
+      const results = Array.isArray(payload.results) ? payload.results : [];
+      setRetrievalQuery(trimmedQuery);
+      setRetrievalResults(results);
+      return results;
+    } catch (caughtError) {
+      const message = caughtError instanceof Error ? caughtError.message : 'Source retrieval failed.';
+      setError(message);
+      setRetrievalQuery(trimmedQuery);
+      setRetrievalResults([]);
+      return [] as RetrievalResult[];
+    } finally {
+      setIsRetrieving(false);
+    }
+  };
+
   const sendPrompt = async (prompt: string) => {
     const trimmedPrompt = prompt.trim();
     if (!trimmedPrompt || isSubmitting) {
@@ -198,6 +259,8 @@ const Tab1: React.FC = () => {
     setIsSubmitting(true);
 
     try {
+      await loadRetrievalPreview(trimmedPrompt);
+
       const response = await fetch('/api/chat', {
         method: 'POST',
         headers: {
@@ -303,6 +366,8 @@ const Tab1: React.FC = () => {
     setMessages([starterAssistantMessage]);
     setDraft('');
     setError('');
+    setRetrievalQuery('');
+    setRetrievalResults([]);
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current = null;
@@ -374,6 +439,50 @@ const Tab1: React.FC = () => {
               ))}
             </div>
 
+            <section className="retrieval-panel" aria-live="polite">
+              <div className="retrieval-panel-header">
+                <div>
+                  <p className="section-label">Grounding preview</p>
+                  <h3>Canonical sources for this question</h3>
+                </div>
+                <IonButton
+                  fill="outline"
+                  size="small"
+                  disabled={draft.trim().length === 0 || isRetrieving || isSubmitting}
+                  onClick={() => void loadRetrievalPreview(draft)}
+                >
+                  {isRetrieving ? 'Loading Sources...' : 'Preview Sources'}
+                </IonButton>
+              </div>
+
+              {retrievalQuery ? (
+                <p className="retrieval-panel-copy">
+                  Query preview: <strong>{retrievalQuery}</strong>
+                </p>
+              ) : (
+                <p className="retrieval-panel-copy">
+                  Preview the canonical sources before you send, or send normally and the same retrieval pass will ground the answer.
+                </p>
+              )}
+
+              {retrievalResults.length > 0 ? (
+                <div className="retrieval-grid">
+                  {retrievalResults.map((result) => (
+                    <article key={result.id} className="retrieval-card">
+                      <div className="retrieval-card-meta">
+                        <span>{result.citation}</span>
+                        <IonChip>Score {result.score}</IonChip>
+                      </div>
+                      <p className="retrieval-summary">{result.summary}</p>
+                      <p className="retrieval-text">{result.text}</p>
+                    </article>
+                  ))}
+                </div>
+              ) : retrievalQuery && !isRetrieving ? (
+                <p className="retrieval-empty">No indexed passages matched this exact prompt yet.</p>
+              ) : null}
+            </section>
+
             <div className="chat-thread" aria-live="polite">
               {messages.map((message) => (
                 <article key={message.id} className={`chat-bubble chat-bubble-${message.role}`}>
@@ -422,6 +531,15 @@ const Tab1: React.FC = () => {
                 >
                   <IonIcon slot="start" icon={micOutline} />
                   {listeningSupported ? (isListening ? 'Stop Listening' : 'Voice Input') : 'Voice Input Unavailable'}
+                </IonButton>
+
+                <IonButton
+                  type="button"
+                  fill="clear"
+                  disabled={draft.trim().length === 0 || isRetrieving || isSubmitting}
+                  onClick={() => void loadRetrievalPreview(draft)}
+                >
+                  Preview Grounding
                 </IonButton>
               </div>
 

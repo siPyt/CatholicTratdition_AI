@@ -9,8 +9,8 @@
       "fathers",
       "apologetics"
     ],
-    "summary": "Augustine describes his conversion as a movement of grace, repentance, and interior surrender.",
-    "text": "Augustine recounts the moment of conversion in the garden, where the command to take and read leads him from hesitation into repentance, trust, and a decisive return to God.",
+    "summary": "Augustine records the decisive moment of conversion, where grace cuts through doubt and brings interior certainty.",
+    "text": "No farther would I read; nor needed I: for instantly, as the sentence ended, by a light as it were of security infused into my heart, all the darkness of doubt vanished away.",
     "keywords": [
       "conversion",
       "grace",
@@ -20,9 +20,9 @@
       "confession"
     ],
     "provenance": {
-      "sourceLabel": "Local seed text",
+      "sourceLabel": "Public-domain excerpt, manually reviewed",
       "rightsStatus": "public-domain",
-      "rightsNotes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      "rightsNotes": "Public-domain excerpt manually prepared for approved retrieval use."
     }
   },
   {
@@ -35,8 +35,8 @@
       "fathers",
       "apologetics"
     ],
-    "summary": "Ignatius treats the Eucharist as truly bound to the incarnate flesh of Christ and not as a mere symbol.",
-    "text": "Ignatius warns against those who deny that the Eucharist is the flesh of Jesus Christ, using sacramental realism as a sign of orthodox belief and ecclesial communion.",
+    "summary": "Ignatius identifies Eucharistic realism as a mark of orthodox belief in the flesh of Christ.",
+    "text": "They abstain from the Eucharist and from prayer, because they confess not the Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again.",
     "keywords": [
       "eucharist",
       "real presence",
@@ -45,9 +45,9 @@
       "communion"
     ],
     "provenance": {
-      "sourceLabel": "Local seed text",
+      "sourceLabel": "Public-domain excerpt, manually reviewed",
       "rightsStatus": "public-domain",
-      "rightsNotes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      "rightsNotes": "Public-domain excerpt manually prepared for approved retrieval use."
     }
   },
   {
@@ -60,8 +60,8 @@
       "proofs",
       "apologetics"
     ],
-    "summary": "Aquinas argues from motion and causality to a first unmoved mover and first efficient cause.",
-    "text": "Aquinas presents ways of reasoning from motion, causality, contingency, gradation, and governance, arguing that finite chains point beyond themselves to a first cause and ultimate source of order.",
+    "summary": "Aquinas opens the First Way by arguing that whatever is moved is moved by another, leading toward a first mover.",
+    "text": "The first and more manifest way is the argument from motion. It is certain, and evident to our senses, that in the world some things are in motion. Now whatever is in motion is put in motion by another.",
     "keywords": [
       "five ways",
       "first cause",
@@ -71,9 +71,9 @@
       "proof"
     ],
     "provenance": {
-      "sourceLabel": "Local seed text",
+      "sourceLabel": "Public-domain excerpt, manually reviewed",
       "rightsStatus": "public-domain",
-      "rightsNotes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      "rightsNotes": "Public-domain excerpt manually prepared for approved retrieval use."
     }
   }
 ]

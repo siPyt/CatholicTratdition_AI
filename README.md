@@ -31,9 +31,9 @@ Do not ingest sources marked `restricted` in the manifest. If you discover a tex
 The committed scaffold consists of:
 
 - [data/sources/approved-sources.json](data/sources/approved-sources.json): the ingestion manifest.
-- [data/raw/augustine-confessions-book-8-chapter-12.txt](data/raw/augustine-confessions-book-8-chapter-12.txt): a local seed text.
-- [data/raw/ignatius-smyrnaeans-chapter-7.txt](data/raw/ignatius-smyrnaeans-chapter-7.txt): a local seed text.
-- [data/raw/aquinas-summa-theologiae-i-q2-a3.txt](data/raw/aquinas-summa-theologiae-i-q2-a3.txt): a local seed text.
+- [data/raw/augustine-confessions-book-8-chapter-12.txt](data/raw/augustine-confessions-book-8-chapter-12.txt): an approved public-domain excerpt.
+- [data/raw/ignatius-smyrnaeans-chapter-7.txt](data/raw/ignatius-smyrnaeans-chapter-7.txt): an approved public-domain excerpt.
+- [data/raw/aquinas-summa-theologiae-i-q2-a3.txt](data/raw/aquinas-summa-theologiae-i-q2-a3.txt): an approved public-domain excerpt.
 - [api/\_lib/generatedCorpus.ts](api/_lib/generatedCorpus.ts): the generated runtime corpus used by Vercel functions.
 
 Each manifest segment defines:
@@ -90,6 +90,8 @@ The response includes:
 ## Chat Integration
 
 The chat handler at [api/chat.ts](api/chat.ts) now runs a lightweight local retrieval pass against the generated corpus before sending the request upstream. Matching passages are inserted into the system prompt as retrieved canonical context so the assistant can ground answers in the local corpus while still following the citation policy.
+
+The chat UI at [src/pages/Tab1.tsx](src/pages/Tab1.tsx) also exposes a grounding preview so users can inspect the canonical passages the app is matching before or during a conversation.
 
 ## Environment
 

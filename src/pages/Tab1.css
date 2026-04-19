@@ -185,6 +185,104 @@
 	text-transform: none;
 }
 
+.retrieval-panel {
+	margin-top: 20px;
+	padding: 22px;
+	border: 1px solid rgba(92, 52, 26, 0.12);
+	border-radius: 24px;
+	background: rgba(255, 249, 239, 0.78);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.55);
+}
+
+.retrieval-panel-header {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 16px;
+}
+
+.retrieval-panel-header h3 {
+	margin: 0;
+	color: #2b190d;
+	font-family: "Cormorant Garamond", "Baskerville", "Times New Roman", serif;
+	font-size: clamp(1.55rem, 3vw, 2.05rem);
+	line-height: 1.05;
+}
+
+.retrieval-panel-header ion-button {
+	--border-radius: 999px;
+	--border-color: #7f4f28;
+	--color: #7f4f28;
+	flex-shrink: 0;
+	font-weight: 700;
+}
+
+.retrieval-panel-copy,
+.retrieval-summary,
+.retrieval-text,
+.retrieval-empty {
+	margin: 0;
+	color: #513722;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 0.98rem;
+	line-height: 1.65;
+}
+
+.retrieval-panel-copy {
+	margin-top: 10px;
+}
+
+.retrieval-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+	gap: 14px;
+	margin-top: 18px;
+}
+
+.retrieval-card {
+	padding: 18px;
+	border: 1px solid rgba(92, 52, 26, 0.12);
+	border-radius: 20px;
+	background: rgba(255, 253, 248, 0.88);
+	box-shadow: 0 10px 24px rgba(69, 37, 18, 0.06);
+}
+
+.retrieval-card-meta {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 12px;
+	margin-bottom: 12px;
+	color: #7c5736;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 800;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+}
+
+.retrieval-card-meta ion-chip {
+	--background: rgba(127, 79, 40, 0.1);
+	--color: #6b431f;
+	font-weight: 700;
+}
+
+.retrieval-summary {
+	font-weight: 700;
+}
+
+.retrieval-text {
+	margin-top: 10px;
+	font-size: 0.94rem;
+	color: #6a4a31;
+	white-space: pre-wrap;
+}
+
+.retrieval-empty {
+	margin-top: 14px;
+	color: #7a5a3f;
+}
+
 .chat-thread {
 	display: flex;
 	flex-direction: column;
@@ -386,6 +484,10 @@
 	}
 
 	.chat-panel-header {
+		flex-direction: column;
+	}
+
+	.retrieval-panel-header {
 		flex-direction: column;
 	}
 
