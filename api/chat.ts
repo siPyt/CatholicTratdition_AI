@@ -1,0 +1,67 @@
+import { theologySystemPrompt } from '../src/config/openAiPrompt';
+import { ApiRequest, ApiResponse, ensurePostMethod, parseJsonBody, requireEnv, sanitizeMessages } from './_lib/runtime';
+
+interface ChatRequestBody {
+  messages?: unknown;
+  model?: unknown;
+  temperature?: unknown;
+}
+
+export default async function handler(request: ApiRequest, response: ApiResponse): Promise<void> {
+  if (!ensurePostMethod(request, response)) {
+    return;
+  }
+
+  const apiKey = requireEnv(response, ['OPENAI_API_KEY', 'open_ai_key']);
+  if (!apiKey) {
+    return;
+  }
+
+  const body = parseJsonBody<ChatRequestBody>(request.body);
+  const messages = sanitizeMessages(body?.messages);
+
+  if (messages.length === 0) {
+    response.status(400).json({ error: 'At least one user message is required.' });
+    return;
+  }
+
+  const model = typeof body?.model === 'string' && body.model.trim().length > 0
+    ? body.model.trim()
+    : process.env.OPENAI_MODEL?.trim() || 'gpt-4.1-mini';
+
+  const temperature = typeof body?.temperature === 'number' ? body.temperature : 0.2;
+
+  const upstreamResponse = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      model,
+      temperature,
+      messages: [
+        { role: 'system', content: theologySystemPrompt },
+        ...messages
+      ]
+    })
+  });
+
+  const payload = await upstreamResponse.json();
+
+  if (!upstreamResponse.ok) {
+    response.status(upstreamResponse.status).json({
+      error: 'OpenAI request failed.',
+      details: payload
+    });
+    return;
+  }
+
+  const content = payload?.choices?.[0]?.message?.content;
+
+  response.status(200).json({
+    content: typeof content === 'string' ? content : '',
+    model: payload?.model ?? model,
+    usage: payload?.usage ?? null
+  });
+}
