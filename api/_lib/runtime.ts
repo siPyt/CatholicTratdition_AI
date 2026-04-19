@@ -1,5 +1,23 @@
 type EnvMap = Record<string, string | undefined>;
 
+function normalizeEnvValue(value: string | undefined): string | undefined {
+  const trimmed = value?.trim();
+
+  if (!trimmed) {
+    return undefined;
+  }
+
+  const isWrappedInDoubleQuotes = trimmed.length >= 2 && trimmed.startsWith('"') && trimmed.endsWith('"');
+  const isWrappedInSingleQuotes = trimmed.length >= 2 && trimmed.startsWith("'") && trimmed.endsWith("'");
+
+  if (isWrappedInDoubleQuotes || isWrappedInSingleQuotes) {
+    const unwrapped = trimmed.slice(1, -1).trim();
+    return unwrapped || undefined;
+  }
+
+  return trimmed;
+}
+
 export interface ApiRequest {
   method?: string;
   body?: unknown;
@@ -19,7 +37,7 @@ export interface ChatMessage {
 
 export function getEnv(envNames: string[], env: EnvMap = process.env): string | undefined {
   for (const envName of envNames) {
-    const value = env[envName]?.trim();
+    const value = normalizeEnvValue(env[envName]);
     if (value) {
       return value;
     }

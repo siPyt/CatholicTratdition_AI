@@ -106,6 +106,29 @@ describe('server handlers', () => {
     });
   });
 
+  it('treats quoted-empty OpenAI keys as missing configuration', async () => {
+    process.env.OPENAI_API_KEY = '""';
+    delete process.env.open_ai_key;
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'apologetics',
+          messages: [{ role: 'user', content: 'Why confession?' }]
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(500);
+    expect(response.payload).toMatchObject({
+      error: 'Missing required environment variable: OPENAI_API_KEY or open_ai_key'
+    });
+  });
+
   it('returns audio metadata for the tts handler', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
