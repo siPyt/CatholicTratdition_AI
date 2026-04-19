@@ -1,5 +1,7 @@
 .vision-content {
-	--background: linear-gradient(180deg, #f8f1e1 0%, #efe3cc 52%, #e5d1b2 100%);
+	--background:
+		linear-gradient(rgba(248, 241, 225, 0.93), rgba(239, 227, 204, 0.93) 52%, rgba(229, 209, 178, 0.93)),
+		url('/art/scholastic-witnesses.svg') center top / cover no-repeat;
 }
 
 .vision-shell {
@@ -12,7 +14,6 @@
 .chat-panel,
 .info-panel,
 .tagline-panel {
-	backdrop-filter: blur(18px);
 	background: rgba(255, 251, 243, 0.72);
 	border: 1px solid rgba(92, 52, 26, 0.12);
 	border-radius: 28px;

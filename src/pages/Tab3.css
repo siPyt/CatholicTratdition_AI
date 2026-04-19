@@ -1,5 +1,7 @@
 .pathways-content {
 	--background:
+		linear-gradient(rgba(252, 246, 235, 0.92), rgba(242, 231, 213, 0.92)),
+		url('/art/scholastic-witnesses.svg') center top / cover no-repeat,
 		radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
 		linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
 }

@@ -1,5 +1,7 @@
 .authority-content {
 	--background:
+		linear-gradient(rgba(245, 239, 227, 0.92), rgba(240, 230, 212, 0.92)),
+		url('/art/scholastic-witnesses.svg') center top / cover no-repeat,
 		radial-gradient(circle at top, rgba(214, 182, 134, 0.32), transparent 38%),
 		linear-gradient(180deg, #f5efe3 0%, #f0e6d4 100%);
 }
@@ -61,7 +63,9 @@
 .tree-node::before {
 	content: "";
 	position: absolute;
-	inset: 0 0 auto;
+	top: 0;
+	left: 0;
+	right: 0;
 	height: 6px;
 }
 

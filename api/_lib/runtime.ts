@@ -76,7 +76,7 @@ export function sanitizeMessages(messages: unknown): ChatMessage[] {
 
   return messages
     .filter((message): message is { role: unknown; content: unknown } => Boolean(message) && typeof message === 'object')
-    .map((message) => ({
+    .map((message): ChatMessage => ({
       role: message.role === 'assistant' ? 'assistant' : 'user',
       content: typeof message.content === 'string' ? message.content.trim() : ''
     }))
