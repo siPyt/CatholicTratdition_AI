@@ -1,0 +1,104 @@
+.pathways-content {
+	--background:
+		radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
+		linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
+}
+
+.pathways-shell {
+	max-width: 1120px;
+	margin: 0 auto;
+	padding: 104px 20px 120px;
+}
+
+.pathways-hero,
+.pathway-card,
+.flow-panel {
+	background: rgba(255, 251, 245, 0.82);
+	border: 1px solid rgba(96, 58, 28, 0.12);
+	border-radius: 28px;
+	box-shadow: 0 22px 70px rgba(71, 48, 26, 0.08);
+}
+
+.pathways-hero {
+	padding: 30px;
+}
+
+.pathways-hero h1,
+.pathway-card h2 {
+	margin: 0;
+	color: #29190f;
+	font-family: "Cormorant Garamond", "Baskerville", serif;
+}
+
+.pathways-hero h1 {
+	font-size: clamp(2.8rem, 6vw, 4.4rem);
+	line-height: 0.97;
+}
+
+.pathways-hero p,
+.pathway-card p,
+.flow-panel li,
+.section-label {
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+}
+
+.pathways-hero p,
+.pathway-card p,
+.flow-panel li {
+	color: #4e3828;
+	font-size: 1rem;
+	line-height: 1.7;
+}
+
+.section-label {
+	margin: 0 0 10px;
+	color: #7c5736;
+	font-size: 0.78rem;
+	font-weight: 800;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+}
+
+.pathway-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 18px;
+	margin-top: 20px;
+}
+
+.pathway-card {
+	padding: 24px;
+}
+
+.pathway-card h2 {
+	font-size: clamp(1.8rem, 3vw, 2.4rem);
+	line-height: 1.03;
+}
+
+.flow-panel {
+	margin-top: 20px;
+	padding: 28px;
+}
+
+.flow-panel ol {
+	margin: 14px 0 0;
+	padding-left: 18px;
+}
+
+@media (max-width: 900px) {
+	.pathway-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media (max-width: 768px) {
+	.pathways-shell {
+		padding: 92px 16px 112px;
+	}
+
+	.pathways-hero,
+	.pathway-card,
+	.flow-panel {
+		border-radius: 22px;
+	}
+}

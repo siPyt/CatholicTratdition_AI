@@ -1,0 +1,121 @@
+.authority-content {
+	--background:
+		radial-gradient(circle at top, rgba(214, 182, 134, 0.32), transparent 38%),
+		linear-gradient(180deg, #f5efe3 0%, #f0e6d4 100%);
+}
+
+.authority-shell {
+	max-width: 1120px;
+	margin: 0 auto;
+	padding: 104px 20px 120px;
+}
+
+.authority-hero,
+.tree-node,
+.protocol-block {
+	background: rgba(255, 249, 238, 0.82);
+	border: 1px solid rgba(71, 48, 26, 0.12);
+	border-radius: 28px;
+	box-shadow: 0 22px 70px rgba(71, 48, 26, 0.08);
+}
+
+.authority-hero {
+	padding: 30px;
+}
+
+.authority-hero h1,
+.protocol-block h3,
+.tree-node h2 {
+	margin: 0;
+	color: #29190f;
+	font-family: "Cormorant Garamond", "Baskerville", serif;
+}
+
+.authority-hero h1 {
+	font-size: clamp(2.8rem, 6vw, 4.6rem);
+	line-height: 0.97;
+}
+
+.authority-hero p,
+.tree-node p,
+.protocol-block p {
+	color: #4b3526;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1rem;
+	line-height: 1.7;
+}
+
+.authority-tree {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 18px;
+	margin-top: 20px;
+}
+
+.tree-node {
+	position: relative;
+	overflow: hidden;
+	padding: 26px;
+}
+
+.tree-node::before {
+	content: "";
+	position: absolute;
+	inset: 0 0 auto;
+	height: 6px;
+}
+
+.roots-node::before {
+	background: linear-gradient(90deg, #87603b, #c79f72);
+}
+
+.trunk-node::before {
+	background: linear-gradient(90deg, #5f421f, #8c6336);
+}
+
+.fruit-node::before {
+	background: linear-gradient(90deg, #9a6129, #d28a3d);
+}
+
+.tree-kicker,
+.section-label {
+	margin: 0 0 10px;
+	color: #7c5736;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 0.78rem;
+	font-weight: 800;
+	letter-spacing: 0.16em;
+	text-transform: uppercase;
+}
+
+.tree-node h2,
+.protocol-block h3 {
+	font-size: clamp(1.9rem, 3.5vw, 2.6rem);
+	line-height: 1.02;
+}
+
+.protocol-panel {
+	margin-top: 20px;
+}
+
+.protocol-block {
+	padding: 28px;
+}
+
+@media (max-width: 900px) {
+	.authority-tree {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media (max-width: 768px) {
+	.authority-shell {
+		padding: 92px 16px 112px;
+	}
+
+	.authority-hero,
+	.tree-node,
+	.protocol-block {
+		border-radius: 22px;
+	}
+}

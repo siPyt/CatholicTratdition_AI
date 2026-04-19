@@ -1,2 +1,39 @@
 /* For information on how to create your own theme, please refer to:
 http://ionicframework.com/docs/theming/ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+	--ion-color-primary: #7f4f28;
+	--ion-color-primary-rgb: 127, 79, 40;
+	--ion-color-primary-contrast: #fff9f0;
+	--ion-color-primary-contrast-rgb: 255, 249, 240;
+	--ion-color-primary-shade: #704624;
+	--ion-color-primary-tint: #8c623d;
+
+	--ion-color-secondary: #d4a46a;
+	--ion-color-secondary-rgb: 212, 164, 106;
+	--ion-color-secondary-contrast: #2a1a0d;
+	--ion-color-secondary-contrast-rgb: 42, 26, 13;
+	--ion-color-secondary-shade: #bb905d;
+	--ion-color-secondary-tint: #d9ad79;
+
+	--ion-color-light: #fff9f0;
+	--ion-color-light-rgb: 255, 249, 240;
+	--ion-color-light-contrast: #2b190d;
+	--ion-color-light-contrast-rgb: 43, 25, 13;
+	--ion-color-light-shade: #e0dbd3;
+	--ion-color-light-tint: #fffaf2;
+
+	--ion-background-color: #f8f1e1;
+	--ion-background-color-rgb: 248, 241, 225;
+	--ion-text-color: #2b190d;
+	--ion-text-color-rgb: 43, 25, 13;
+	--ion-font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+
+	--ion-toolbar-background: rgba(248, 241, 225, 0.84);
+	--ion-toolbar-color: #2b190d;
+	--ion-tab-bar-background: rgba(255, 250, 242, 0.88);
+	--ion-tab-bar-color: #7c5736;
+	--ion-tab-bar-color-selected: #7f4f28;
+}
