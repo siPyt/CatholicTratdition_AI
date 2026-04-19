@@ -1,0 +1,7 @@
+{
+  "name": "CatholicTraditionAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
