@@ -96,7 +96,7 @@ function normalizeAquinasCitations(text: string): string {
 }
 
 function buildDogmaticScopeRefusal(prompt: string): string {
-  return `This mode is limited to Ludwig Ott and Denzinger only, so I cannot answer from other authorities in this chat. Rephrase the question in terms of what Ott and Denzinger say about ${prompt.trim() || 'the doctrine in question'}, and I will stay within that scope.`;
+  return `This mode is limited to the approved handbook source set, so I cannot answer from other authorities in this chat. Rephrase the question in terms of the doctrine or its theological note regarding ${prompt.trim() || 'the doctrine in question'}, and I will stay within that scope.`;
 }
 
 function shouldRefuseDogmaticSourcesRequest(prompt: string): boolean {

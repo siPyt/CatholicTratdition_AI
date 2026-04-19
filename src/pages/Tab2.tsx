@@ -78,7 +78,7 @@ const Tab2: React.FC = () => {
             <article className="tree-node fruit-node">
 	            <p className="tree-kicker">Source set</p>
 	            <h2>Handbook of Dogmatic Sources</h2>
-	            <p>Constrains the answer to Ott and Denzinger without showing formal citations in the reply.</p>
+              <p>Lets the user ask doctrinal questions, identify the theological note, and receive handbook-style answers from the approved dogmatic source set.</p>
             </article>
           </section>
 
@@ -108,14 +108,14 @@ const Tab2: React.FC = () => {
 
           <section className="ott-reference-panel">
             <div className="ott-reference-header">
-              <p className="section-label">Ott reference</p>
+              <p className="section-label">Theological notes</p>
               <h3>How the handbook mode should speak about certainty</h3>
               <p>
-                In Handbook of Dogmatic Sources, the AI should connect its answer to Ott\'s level of certainty whenever that grade is clear enough to name responsibly.
+                In Handbook of Dogmatic Sources, the AI should connect its answer to the proper theological note whenever that grade is clear enough to name responsibly.
               </p>
             </div>
 
-            <div className="ott-grade-grid" aria-label="Ott certainty grades">
+            <div className="ott-grade-grid" aria-label="Theological notes reference">
               {ottGrades.map((grade) => (
                 <article key={grade.title} className="ott-grade-card">
                   <p className="tree-kicker">{grade.subtitle}</p>
@@ -127,7 +127,7 @@ const Tab2: React.FC = () => {
               ))}
             </div>
 
-            <div className="ott-table-wrap" aria-label="Ott certainty comparison table">
+            <div className="ott-table-wrap" aria-label="Theological notes comparison table">
               <table className="ott-table">
                 <thead>
                   <tr>

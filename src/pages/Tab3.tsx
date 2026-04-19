@@ -61,9 +61,9 @@ const Tab3: React.FC = () => {
 
             <article className="pathway-card">
               <h2>Handbook of Dogmatic Sources</h2>
-              <p>Open the chat constrained to Ott and Denzinger, with concise answers and no formal citations in the reply.</p>
-              <p className="pathway-example">Starter question: What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?</p>
-              <IonButton routerLink={`/tab1?mode=dogmaticSources&prompt=${encodeURIComponent('What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?')}`} expand="block">
+              <p>Ask doctrinal questions, identify the theological note, and receive concise handbook answers from the approved dogmatic source set.</p>
+              <p className="pathway-example">Starter question: What is the theological note on sanctifying grace, actual grace, and justification?</p>
+              <IonButton routerLink={`/tab1?mode=dogmaticSources&prompt=${encodeURIComponent('What is the theological note on sanctifying grace, actual grace, and justification?')}`} expand="block">
                 Open Chat
               </IonButton>
             </article>

@@ -37,10 +37,10 @@ export const chatModeOptions: ChatModeOption[] = [
   {
     mode: 'dogmaticSources',
     label: 'Handbook of Dogmatic Sources',
-    promptHint: 'What do Ott and Denzinger put on grace?',
-    summary: 'Constrain the answer to Ott and Denzinger, and surface Ott-style certainty levels when they are clear.',
-    starterGuidance: 'This mode stays within Ott and Denzinger, avoids formal citations in the reply, and names the certainty grade when it can do so responsibly.',
-    featuredPrompt: 'What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?'
+    promptHint: 'Ask for the doctrine and its theological note in handbook form.',
+    summary: 'Ask doctrinal questions, identify the theological note, and receive a concise handbook answer within the approved dogmatic source set.',
+    starterGuidance: 'This mode stays within the approved handbook source set, names the theological note when it can do so responsibly, and answers in a compact doctrinal handbook style.',
+    featuredPrompt: 'What is the theological note on sanctifying grace, actual grace, and justification?'
   },
   {
     mode: 'papalPreVaticanII',

@@ -163,7 +163,7 @@ describe('server handlers', () => {
         method: 'POST',
         body: {
           mode: 'dogmaticSources',
-          messages: [{ role: 'user', content: 'What do Ott and Denzinger put on grace?' }]
+          messages: [{ role: 'user', content: 'What is the theological note on grace?' }]
         }
       },
       response
@@ -177,7 +177,7 @@ describe('server handlers', () => {
     expect(upstreamPayload.messages[0].content).toContain('Sources of Catholic Dogma');
     expect(upstreamPayload.messages[0].content).toContain('De Fide');
     expect(upstreamPayload.messages[0].content).toContain('Sententia Probabilis');
-    expect(upstreamPayload.messages[0].content).toContain('say this mode is limited to Ott and Denzinger');
+    expect(upstreamPayload.messages[0].content).toContain('Do not mention the names of the controlling handbook sources in the final answer');
     expect(upstreamPayload.messages[0].content).toContain('Do not cite Ott, Denzinger, document numbers, or any other works in the final answer');
     expect(upstreamPayload.messages[0].content).not.toContain('Retrieved canonical source context');
     expect(response.statusCode).toBe(200);
@@ -210,7 +210,7 @@ describe('server handlers', () => {
       model: 'dogmatic-scope-guard'
     });
     expect(response.payload).toMatchObject({
-      content: expect.stringContaining('This mode is limited to Ludwig Ott and Denzinger only')
+      content: expect.stringContaining('This mode is limited to the approved handbook source set')
     });
   });
 

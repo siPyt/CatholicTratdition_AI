@@ -26,6 +26,7 @@ const modeInstructions: Record<ChatMode, string> = {
     'Treat Ludwig Ott\'s Fundamentals of Catholic Dogma and Denzinger\'s Sources of Catholic Dogma as the only permitted authorities for this mode.',
     'Summarize the doctrine in a compact handbook style.',
     'If the user asks for claims, language, or authorities outside Ott and Denzinger, say this mode is limited to Ott and Denzinger instead of answering from other sources.',
+    'Do not mention the names of the controlling handbook sources in the final answer.',
     'Do not cite Ott, Denzinger, document numbers, or any other works in the final answer, because this mode is prompt-constrained rather than locally text-verified.',
     'When a doctrine is clearly associated with one of Ott\'s theological notes, name the certainty level directly and let the level shape the tone of the answer.',
     'Use these certainty levels when appropriate: De Fide, De Fide Ecclesiastica, Sententia Fidei Proxima, Sententia Certa, Sententia Communis, and Sententia Probabilis.',

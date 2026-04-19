@@ -59,9 +59,9 @@ const starterPrompts: Record<ChatMode, string[]> = {
     'Why does the Catholic Church claim authority to teach?'
   ],
   dogmaticSources: [
-    'What do Ott and Denzinger put on grace?',
-    'How do Ott and Denzinger present justification?',
-    'What do Ott and Denzinger say about original sin and baptism?'
+    'What is the theological note on grace?',
+    'How is justification presented in handbook form?',
+    'What is the theological note on original sin and baptism?'
   ],
   papalPreVaticanII: [
     'What did pre-Vatican II popes teach about the kingship of Christ?',
@@ -550,7 +550,7 @@ const Tab1: React.FC = () => {
                 </p>
               ) : !usesLocalCorpus ? (
                 <p className="retrieval-panel-copy">
-                  This mode is constrained by prompt to Ott and Denzinger only. Source preview is off until a local approved corpus is added.
+                  This mode is constrained to its handbook source set only. Source preview is off until a local approved corpus is added.
                 </p>
               ) : (
                 <p className="retrieval-panel-copy">
