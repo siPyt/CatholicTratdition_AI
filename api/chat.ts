@@ -1,5 +1,9 @@
-import { buildTheologySystemPrompt, ChatMode } from '../src/config/openAiPrompt';
+import { buildTheologySystemPrompt, ChatMode, sanitizeChatMode } from './_lib/theologyPrompt';
 import { ApiRequest, ApiResponse, ensurePostMethod, parseJsonBody, requireEnv, sanitizeMessages } from './_lib/runtime';
+
+export const config = {
+  runtime: 'nodejs'
+};
 
 interface ChatRequestBody {
   messages?: unknown;
@@ -16,14 +20,6 @@ function tryParseJson(text: string): unknown {
   }
 }
 
-function sanitizeMode(mode: unknown): ChatMode {
-  if (mode === 'fathers' || mode === 'proofs' || mode === 'apologetics') {
-    return mode;
-  }
-
-  return 'apologetics';
-}
-
 export default async function handler(request: ApiRequest, response: ApiResponse): Promise<void> {
   try {
     if (!ensurePostMethod(request, response)) {
@@ -37,7 +33,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
 
     const body = parseJsonBody<ChatRequestBody>(request.body);
     const messages = sanitizeMessages(body?.messages);
-    const mode = sanitizeMode(body?.mode);
+    const mode = sanitizeChatMode(body?.mode);
 
     if (messages.length === 0) {
       response.status(400).json({ error: 'At least one user message is required.' });

@@ -8,6 +8,10 @@ import {
   toNumber
 } from './_lib/runtime';
 
+export const config = {
+  runtime: 'nodejs'
+};
+
 interface TtsRequestBody {
   text?: unknown;
   voiceId?: unknown;

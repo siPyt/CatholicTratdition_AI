@@ -70,11 +70,19 @@ async function parseApiResponse<T extends { error?: string; details?: unknown }>
 }
 
 function formatApiError(payload: { error?: string; details?: unknown }, fallback: string): string {
+  if (typeof payload.error === 'string' && payload.error.includes('FUNCTION_INVOCATION_FAILED')) {
+    return 'The serverless function failed before it could answer. Redeploy the app or review the Vercel function logs.';
+  }
+
   if (typeof payload.error === 'string' && payload.error.trim().length > 0) {
     return payload.error;
   }
 
   if (typeof payload.details === 'string' && payload.details.trim().length > 0) {
+    if (payload.details.includes('FUNCTION_INVOCATION_FAILED')) {
+      return 'The serverless function failed before it could answer. Redeploy the app or review the Vercel function logs.';
+    }
+
     return payload.details;
   }
 
