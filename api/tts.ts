@@ -6,7 +6,7 @@ import {
   requireEnv,
   toBoolean,
   toNumber
-} from './_lib/runtime';
+} from './_lib/runtime.js';
 
 export const config = {
   runtime: 'nodejs'

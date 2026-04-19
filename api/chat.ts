@@ -1,5 +1,6 @@
-import { buildTheologySystemPrompt, ChatMode, sanitizeChatMode } from './_lib/theologyPrompt';
-import { ApiRequest, ApiResponse, ensurePostMethod, parseJsonBody, requireEnv, sanitizeMessages } from './_lib/runtime';
+import { buildTheologySystemPrompt, ChatMode, sanitizeChatMode } from './_lib/theologyPrompt.js';
+import { buildRetrievalContext } from './_lib/retrieval.js';
+import { ApiRequest, ApiResponse, ensurePostMethod, parseJsonBody, requireEnv, sanitizeMessages } from './_lib/runtime.js';
 
 export const config = {
   runtime: 'nodejs'
@@ -34,6 +35,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
     const body = parseJsonBody<ChatRequestBody>(request.body);
     const messages = sanitizeMessages(body?.messages);
     const mode = sanitizeChatMode(body?.mode);
+    const latestUserMessage = [...messages].reverse().find((message) => message.role === 'user');
 
     if (messages.length === 0) {
       response.status(400).json({ error: 'At least one user message is required.' });
@@ -45,6 +47,12 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       : process.env.OPENAI_MODEL?.trim() || 'gpt-4.1-mini';
 
     const temperature = typeof body?.temperature === 'number' ? body.temperature : 0.2;
+    const retrievalContext = latestUserMessage
+      ? buildRetrievalContext(latestUserMessage.content, mode, 3)
+      : '';
+    const systemPrompt = retrievalContext
+      ? `${buildTheologySystemPrompt(mode)}\n\n${retrievalContext}`
+      : buildTheologySystemPrompt(mode);
 
     const upstreamResponse = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST',
@@ -56,7 +64,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
         model,
         temperature,
         messages: [
-          { role: 'system', content: buildTheologySystemPrompt(mode) },
+          { role: 'system', content: systemPrompt },
           ...messages
         ]
       })

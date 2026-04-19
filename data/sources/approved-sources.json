@@ -1,0 +1,73 @@
+{
+  "sources": [
+    {
+      "id": "augustine-confessions-seed",
+      "author": "Augustine",
+      "work": "Confessions",
+      "tier": "patristics",
+      "provenance": {
+        "sourceLabel": "Local seed text"
+      },
+      "rights": {
+        "status": "public-domain",
+        "notes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      },
+      "segments": [
+        {
+          "id": "augustine-confessions-book-8-chapter-12",
+          "location": "Book 8, Chapter 12",
+          "modeTags": ["fathers", "apologetics"],
+          "summary": "Augustine describes his conversion as a movement of grace, repentance, and interior surrender.",
+          "keywords": ["conversion", "grace", "repentance", "garden", "take and read", "confession"],
+          "filePath": "data/raw/augustine-confessions-book-8-chapter-12.txt"
+        }
+      ]
+    },
+    {
+      "id": "ignatius-smyrnaeans-seed",
+      "author": "Ignatius of Antioch",
+      "work": "Letter to the Smyrnaeans",
+      "tier": "patristics",
+      "provenance": {
+        "sourceLabel": "Local seed text"
+      },
+      "rights": {
+        "status": "public-domain",
+        "notes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      },
+      "segments": [
+        {
+          "id": "ignatius-smyrnaeans-chapter-7",
+          "location": "Chapter 7",
+          "modeTags": ["fathers", "apologetics"],
+          "summary": "Ignatius treats the Eucharist as truly bound to the incarnate flesh of Christ and not as a mere symbol.",
+          "keywords": ["eucharist", "real presence", "incarnation", "orthodoxy", "communion"],
+          "filePath": "data/raw/ignatius-smyrnaeans-chapter-7.txt"
+        }
+      ]
+    },
+    {
+      "id": "aquinas-summa-seed",
+      "author": "Thomas Aquinas",
+      "work": "Summa Theologiae",
+      "tier": "aquinas",
+      "provenance": {
+        "sourceLabel": "Local seed text"
+      },
+      "rights": {
+        "status": "public-domain",
+        "notes": "Seed excerpt prepared from a public-domain tradition for retrieval scaffolding."
+      },
+      "segments": [
+        {
+          "id": "aquinas-summa-theologiae-i-q2-a3",
+          "location": "I, q. 2, a. 3",
+          "modeTags": ["proofs", "apologetics"],
+          "summary": "Aquinas argues from motion and causality to a first unmoved mover and first efficient cause.",
+          "keywords": ["five ways", "first cause", "motion", "efficient cause", "god", "proof"],
+          "filePath": "data/raw/aquinas-summa-theologiae-i-q2-a3.txt"
+        }
+      ]
+    }
+  ]
+}

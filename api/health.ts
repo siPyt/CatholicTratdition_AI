@@ -1,4 +1,4 @@
-import { getEnv } from './_lib/runtime';
+import { getEnv } from './_lib/runtime.js';
 
 interface ApiRequest {
   method?: string;

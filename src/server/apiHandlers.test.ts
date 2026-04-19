@@ -1,6 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import chatHandler from '../../api/chat';
 import healthHandler from '../../api/health';
+import retrieveHandler from '../../api/retrieve';
 import ttsHandler from '../../api/tts';
 
 interface MockResponse {
@@ -77,6 +78,41 @@ describe('server handlers', () => {
       content: 'A reply from the assistant.',
       mode: 'proofs'
     });
+  });
+
+  it('injects retrieved canonical context into the chat system prompt when matches exist', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'gpt-4.1-mini',
+        choices: [{ message: { content: 'A retrieval-grounded reply.' } }],
+        usage: { total_tokens: 12 }
+      })
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'proofs',
+          messages: [{ role: 'user', content: 'Give me a proof for God as first cause.' }]
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      messages: Array<{ role: string; content: string }>;
+    };
+
+    expect(upstreamPayload.messages[0].role).toBe('system');
+    expect(upstreamPayload.messages[0].content).toContain('Retrieved canonical source context');
+    expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, I, q. 2, a. 3');
+    expect(response.statusCode).toBe(200);
   });
 
   it('returns a deterministic JSON error when chat upstream fails', async () => {
@@ -166,5 +202,33 @@ describe('server handlers', () => {
       elevenLabsKeyPresent: true,
       elevenLabsVoicePresent: true
     });
+  });
+
+  it('returns citation-aware retrieval matches from the retrieve handler', () => {
+    const response = createMockResponse();
+
+    retrieveHandler(
+      {
+        method: 'GET',
+        query: {
+          q: 'What is the Eucharist according to the Fathers?',
+          mode: 'fathers',
+          limit: '2'
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      mode: 'fathers',
+      count: 2
+    });
+
+    const payload = response.payload as {
+      results: Array<{ citation: string }>;
+    };
+
+    expect(payload.results[0]?.citation).toBe('Ignatius of Antioch, Letter to the Smyrnaeans, Chapter 7');
   });
 });
