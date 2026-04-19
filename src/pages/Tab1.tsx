@@ -53,6 +53,15 @@ const Tab1: React.FC = () => {
                 The first is the stronger front-door line because it is broader, clearer, and more welcoming to non-specialists.
               </p>
             </article>
+
+            <article className="citation-panel">
+              <p className="section-label">Citation discipline</p>
+              <h2>Quote the tradition, not the website.</h2>
+              <p>
+                Answers should cite works like <strong>Summa Theologiae I, q. 2, a. 3</strong> or <strong>Confessions, Book 8,
+                Chapter 12</strong>, never the site that supplied the text.
+              </p>
+            </article>
           </section>
         </div>
       </IonContent>

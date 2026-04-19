@@ -10,7 +10,8 @@
 
 .hero-card,
 .info-panel,
-.tagline-panel {
+.tagline-panel,
+.citation-panel {
 	backdrop-filter: blur(18px);
 	background: rgba(255, 251, 243, 0.72);
 	border: 1px solid rgba(92, 52, 26, 0.12);
@@ -108,12 +109,14 @@
 }
 
 .info-panel,
-.tagline-panel {
+.tagline-panel,
+.citation-panel {
 	padding: 28px;
 }
 
 .info-panel h2,
-.tagline-panel h2 {
+.tagline-panel h2,
+.citation-panel h2 {
 	font-size: clamp(2rem, 4vw, 3rem);
 	line-height: 1.02;
 }
@@ -133,6 +136,17 @@
 	line-height: 1.15;
 }
 
+.citation-panel {
+	grid-column: 1 / -1;
+}
+
+.citation-panel p {
+	color: #513722;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1.02rem;
+	line-height: 1.7;
+}
+
 @media (max-width: 768px) {
 	.vision-shell {
 		padding: 92px 16px 112px;
@@ -140,7 +154,8 @@
 
 	.hero-card,
 	.info-panel,
-	.tagline-panel {
+	.tagline-panel,
+	.citation-panel {
 		border-radius: 22px;
 	}
 
