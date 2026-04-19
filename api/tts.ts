@@ -102,6 +102,13 @@ function normalizePapalSpeech(text: string): string {
   });
 }
 
+function normalizeCitationSpeech(text: string): string {
+  return text
+    .replace(/\bart\.?\s*(\d+)\b/gi, 'Article $1')
+    .replace(/(^|[\s,;(])q\.?\s*(\d+)\b/gi, '$1Question $2')
+    .replace(/(^|[\s,;(])a\.?\s*(\d+)\b/gi, '$1Answer $2');
+}
+
 export default async function handler(request: ApiRequest, response: ApiResponse): Promise<void> {
   try {
     if (!ensurePostMethod(request, response)) {
@@ -137,7 +144,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
     const style = toNumber(process.env.ELEVENLABS_STYLE, 0.28);
     const speakerBoost = toBoolean(process.env.ELEVENLABS_SPEAKER_BOOST, true);
 
-    const spokenText = normalizePapalSpeech(text);
+    const spokenText = normalizeCitationSpeech(normalizePapalSpeech(text));
 
     const upstreamResponse = await fetch(
       `https://api.elevenlabs.io/v1/text-to-speech/${voiceId}?output_format=${encodeURIComponent(outputFormat)}`,

@@ -44,6 +44,16 @@
 	padding: 30px;
 }
 
+.brand-masthead {
+	margin: 0 0 14px;
+	color: #2b1408;
+	font-family: "UnifrakturCook", "Old English Text MT", "Goudy Text MT", serif;
+	font-size: clamp(2.9rem, 8vw, 5.8rem);
+	line-height: 0.98;
+	letter-spacing: 0.02em;
+	text-shadow: 0 1px 0 rgba(255, 247, 236, 0.72);
+}
+
 .pathways-hero h1,
 .pathway-card h2 {
 	margin: 0;
@@ -152,6 +162,10 @@
 	.pathways-hero,
 	.pathway-card {
 		border-radius: 22px;
+	}
+
+	.brand-masthead {
+		font-size: clamp(2.5rem, 12vw, 4.4rem);
 	}
 
 	.pathway-card {

@@ -137,6 +137,19 @@ const Tab1: React.FC = () => {
   const [activeAudioMessageId, setActiveAudioMessageId] = useState<string | null>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioRequestIdRef = useRef(0);
+
+  const stopAudioPlayback = () => {
+    audioRequestIdRef.current += 1;
+
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+      audioRef.current = null;
+    }
+
+    setActiveAudioMessageId(null);
+  };
 
   useEffect(() => {
     const recognitionFactory = window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -175,10 +188,7 @@ const Tab1: React.FC = () => {
     return () => {
       recognition.stop();
       recognitionRef.current = null;
-      if (audioRef.current) {
-        audioRef.current.pause();
-        audioRef.current = null;
-      }
+      stopAudioPlayback();
     };
   }, []);
 
@@ -262,6 +272,8 @@ const Tab1: React.FC = () => {
       return;
     }
 
+    stopAudioPlayback();
+
     const nextUserMessage: StoredChatMessage = {
       id: `user-${Date.now()}`,
       role: 'user',
@@ -330,8 +342,15 @@ const Tab1: React.FC = () => {
       return;
     }
 
+    if (activeAudioMessageId === message.id) {
+      stopAudioPlayback();
+      return;
+    }
+
+    stopAudioPlayback();
     setError('');
     setActiveAudioMessageId(message.id);
+    const playbackRequestId = audioRequestIdRef.current;
 
     try {
       const response = await fetch('/api/tts', {
@@ -347,9 +366,8 @@ const Tab1: React.FC = () => {
         throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
       }
 
-      if (audioRef.current) {
-        audioRef.current.pause();
-        audioRef.current = null;
+      if (playbackRequestId !== audioRequestIdRef.current) {
+        return;
       }
 
       const contentType = payload.contentType || 'audio/mpeg';
@@ -358,6 +376,9 @@ const Tab1: React.FC = () => {
       audioRef.current = audio;
       audio.onended = () => {
         setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        if (audioRef.current === audio) {
+          audioRef.current = null;
+        }
       };
       await audio.play();
     } catch (caughtError) {
@@ -390,11 +411,7 @@ const Tab1: React.FC = () => {
     setError('');
     setRetrievalQuery('');
     setRetrievalResults([]);
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current = null;
-      setActiveAudioMessageId(null);
-    }
+    stopAudioPlayback();
   };
 
   return (
@@ -512,10 +529,9 @@ const Tab1: React.FC = () => {
                         className="speak-aloud-button"
                         fill="clear"
                         onClick={() => void playAudioForMessage(message)}
-                        disabled={activeAudioMessageId === message.id}
                       >
                         <IonIcon slot="start" icon={volumeHighOutline} />
-                        {activeAudioMessageId === message.id ? 'Speaking...' : 'Speak Aloud'}
+                        {activeAudioMessageId === message.id ? 'Stop Audio' : 'Speak Aloud'}
                       </IonButton>
                     ) : null}
                   </div>
@@ -540,6 +556,16 @@ const Tab1: React.FC = () => {
                 <IonButton type="submit" disabled={isSubmitting || draft.trim().length === 0}>
                   <IonIcon slot="start" icon={sendOutline} />
                   {isSubmitting ? 'Sending...' : 'Send'}
+                </IonButton>
+
+                <IonButton
+                  type="button"
+                  fill="outline"
+                  disabled={!activeAudioMessageId}
+                  onClick={stopAudioPlayback}
+                >
+                  <IonIcon slot="start" icon={volumeHighOutline} />
+                  Stop Audio
                 </IonButton>
 
                 <IonButton

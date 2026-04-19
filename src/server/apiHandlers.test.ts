@@ -374,6 +374,34 @@ describe('server handlers', () => {
     expect(upstreamPayload.text).toBe('Pope Leo the thirteenth wrote on social doctrine.');
   });
 
+  it('normalizes citation abbreviations for spoken TTS output', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      arrayBuffer: async () => new TextEncoder().encode('audio').buffer
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await ttsHandler(
+      {
+        method: 'POST',
+        body: {
+          text: 'See Q64, art 3, and A 2 in the disputed reply.'
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      text: string;
+    };
+
+    expect(response.statusCode).toBe(200);
+    expect(upstreamPayload.text).toBe('See Question 64, Article 3, and Answer 2 in the disputed reply.');
+  });
+
   it('reports safe booleans in the health handler', () => {
     const response = createMockResponse();
 

@@ -13,6 +13,7 @@ const Tab3: React.FC = () => {
         <div className="pathways-shell">
           <section className="pathways-hero">
             <p className="section-label">Choose a chat</p>
+            <p className="brand-masthead">Catholic Tradition AI</p>
             <h1>Open the source set you want, then ask the question in chat.</h1>
             <p>Each card opens the same clean chat window with a different authority profile behind it.</p>
           </section>
