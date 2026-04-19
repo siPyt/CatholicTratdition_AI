@@ -122,9 +122,31 @@
 	gap: 16px;
 }
 
+.chat-panel-controls {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	gap: 10px;
+}
+
 .chat-panel-header ion-button {
 	--border-radius: 999px;
 	flex-shrink: 0;
+}
+
+.prompt-strip {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin-top: 18px;
+}
+
+.prompt-strip ion-button {
+	--border-color: rgba(127, 79, 40, 0.24);
+	--color: #6c4521;
+	--border-radius: 999px;
+	font-weight: 700;
+	text-transform: none;
 }
 
 .chat-thread {
@@ -308,6 +330,10 @@
 
 	.chat-panel-header {
 		flex-direction: column;
+	}
+
+	.chat-panel-controls {
+		justify-content: flex-start;
 	}
 
 	.chat-bubble-user {

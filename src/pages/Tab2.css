@@ -98,12 +98,32 @@
 	margin-top: 20px;
 }
 
+.operations-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 18px;
+	margin-top: 20px;
+}
+
 .protocol-block {
 	padding: 28px;
 }
 
+.method-list {
+	margin: 14px 0 0;
+	padding-left: 18px;
+	color: #4b3526;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1rem;
+	line-height: 1.7;
+}
+
 @media (max-width: 900px) {
 	.authority-tree {
+		grid-template-columns: 1fr;
+	}
+
+	.operations-grid {
 		grid-template-columns: 1fr;
 	}
 }

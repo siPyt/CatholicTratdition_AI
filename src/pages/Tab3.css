@@ -75,18 +75,53 @@
 	line-height: 1.03;
 }
 
+.pathway-card ion-button {
+	--background: #7f4f28;
+	--background-hover: #6d4321;
+	--border-radius: 18px;
+	margin-top: 16px;
+	font-weight: 700;
+}
+
+.pathway-example {
+	padding-top: 8px;
+	border-top: 1px solid rgba(96, 58, 28, 0.12);
+	color: #6a4b30;
+	font-size: 0.95rem;
+}
+
 .flow-panel {
 	margin-top: 20px;
 	padding: 28px;
 }
 
-.flow-panel ol {
-	margin: 14px 0 0;
-	padding-left: 18px;
+.launch-grid {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 16px;
+	margin-top: 16px;
+}
+
+.launch-grid h3 {
+	margin: 0;
+	color: #2d190e;
+	font-family: "Cormorant Garamond", "Baskerville", serif;
+	font-size: 1.65rem;
+}
+
+.launch-grid p {
+	color: #4e3828;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1rem;
+	line-height: 1.7;
 }
 
 @media (max-width: 900px) {
 	.pathway-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.launch-grid {
 		grid-template-columns: 1fr;
 	}
 }

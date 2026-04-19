@@ -1,4 +1,5 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { IonButton, IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { chatModeOptions } from '../config/chatModes';
 import './Tab3.css';
 
 const Tab3: React.FC = () => {
@@ -6,44 +7,52 @@ const Tab3: React.FC = () => {
     <IonPage className="pathways-page">
       <IonHeader translucent>
         <IonToolbar>
-          <IonTitle>Public Entry Points</IonTitle>
+          <IonTitle>Launch</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen className="pathways-content">
         <div className="pathways-shell">
           <section className="pathways-hero">
-            <p className="section-label">Accessible entry points</p>
-            <h1>The app should feel public-facing, clear, and persuasive before it feels scholastic.</h1>
+            <p className="section-label">Start from here</p>
+            <h1>Launch straight into the mode and question style that matches the user in front of you.</h1>
             <p>
-              The product works best when a visitor can choose a mode of explanation that matches their background, especially
-              when they are curious, skeptical, or not Catholic at all.
+              These cards are no longer just labels. Each one can send the user back into Chat with the right mode selected and
+              a starter question loaded for immediate use.
             </p>
           </section>
 
           <section className="pathway-grid">
-            <article className="pathway-card">
-              <h2>Ask a Father</h2>
-              <p>Bias retrieval toward early Church voices when the user wants patristic witness and tone.</p>
-            </article>
-
-            <article className="pathway-card">
-              <h2>Logical Proofs</h2>
-              <p>Route the answer through Thomistic demonstration, objections, and replies when precision matters.</p>
-            </article>
-
-            <article className="pathway-card">
-              <h2>Apologetic Answers</h2>
-              <p>Answer in a popular, intelligible mode that helps non-Catholics and first-time inquirers grasp the point without jargon.</p>
-            </article>
+            {chatModeOptions.map((option) => (
+              <article key={option.mode} className="pathway-card">
+                <h2>{option.label}</h2>
+                <p>{option.summary}</p>
+                <p className="pathway-example">Starter question: {option.featuredPrompt}</p>
+                <IonButton
+                  routerLink={`/tab1?mode=${option.mode}&prompt=${encodeURIComponent(option.featuredPrompt)}`}
+                  expand="block"
+                >
+                  Open In Chat
+                </IonButton>
+              </article>
+            ))}
           </section>
 
           <section className="flow-panel">
-            <p className="section-label">Question flow</p>
-            <ol>
-              <li>The user chooses a human-readable entry point instead of navigating academic categories.</li>
-              <li>The system retrieves across Scripture, Fathers, councils, and trusted teachers.</li>
-              <li>The final synthesis stays publicly intelligible while still yielding to Thomistic coherence before the answer is returned.</li>
-            </ol>
+            <p className="section-label">What happens next</p>
+            <div className="launch-grid">
+              <article>
+                <h3>1. Choose the mode</h3>
+                <p>Pick the tone and explanatory depth before the first message is even sent.</p>
+              </article>
+              <article>
+                <h3>2. Land in chat</h3>
+                <p>The app opens the main conversation screen with the right mode and a starter question ready to refine or send.</p>
+              </article>
+              <article>
+                <h3>3. Continue the thread</h3>
+                <p>The conversation persists locally, so the user can keep exploring without losing context between tabs.</p>
+              </article>
+            </div>
           </section>
         </div>
       </IonContent>

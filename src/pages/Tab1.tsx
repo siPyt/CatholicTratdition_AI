@@ -1,14 +1,11 @@
 import { IonButton, IonChip, IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { micOutline, sendOutline, volumeHighOutline } from 'ionicons/icons';
 import { FormEvent, useEffect, useRef, useState } from 'react';
+import { useHistory, useLocation } from 'react-router-dom';
+import { chatModeOptions, getChatModeOption } from '../config/chatModes';
 import { ChatMode } from '../config/openAiPrompt';
+import { loadChatSession, saveChatSession, StoredChatMessage } from '../utils/chatSession';
 import './Tab1.css';
-
-interface ChatMessage {
-  id: string;
-  role: 'assistant' | 'user';
-  content: string;
-}
 
 interface ChatResponse {
   content?: string;
@@ -19,47 +16,81 @@ interface TtsResponse {
   audioBase64?: string;
   contentType?: string;
   error?: string;
+  details?: unknown;
 }
 
 type SpeechRecognitionConstructor = new () => SpeechRecognition;
 
-const modeOptions: Array<{ mode: ChatMode; label: string; promptHint: string }> = [
-  {
-    mode: 'fathers',
-    label: 'Ask a Father',
-    promptHint: 'What did the early Fathers say about the Eucharist?'
-  },
-  {
-    mode: 'proofs',
-    label: 'Logical Proofs',
-    promptHint: 'Give me a Thomistic argument for God as first cause.'
-  },
-  {
-    mode: 'apologetics',
-    label: 'Apologetic Answers',
-    promptHint: 'How would you explain Marian devotion to a Protestant friend?'
-  }
-];
-
-const starterMessages: Record<ChatMode, string> = {
-  fathers: 'Use the Fathers when helpful and explain their witness in a way a modern reader can follow.',
-  proofs: 'Use a more academic register and show the logic clearly.',
-  apologetics: 'Explain the answer clearly for someone outside the Catholic tradition.'
+const starterAssistantMessage: StoredChatMessage = {
+  id: 'assistant-intro',
+  role: 'assistant',
+  content: 'Choose a mode, ask your question by typing or voice, and I will answer in text. If voice replies are enabled, I can also read the answer aloud.'
 };
 
+const starterPrompts: Record<ChatMode, string[]> = {
+  fathers: [
+    'How did the Fathers interpret John 6?',
+    'What did Ignatius of Antioch say about Church unity?',
+    'How did Augustine speak about grace and conversion?'
+  ],
+  proofs: [
+    'Give me a Thomistic proof for God as first cause.',
+    'Explain the difference between essence and existence.',
+    'Show the objections and reply on faith and reason.'
+  ],
+  apologetics: [
+    'Why do Catholics pray to saints?',
+    'How would you explain confession to a Protestant friend?',
+    'Why does the Catholic Church claim authority to teach?'
+  ]
+};
+
+function sanitizeMode(mode: string | null): ChatMode | null {
+  if (mode === 'fathers' || mode === 'proofs' || mode === 'apologetics') {
+    return mode;
+  }
+
+  return null;
+}
+
+async function parseApiResponse<T extends { error?: string; details?: unknown }>(response: Response): Promise<T> {
+  const rawBody = await response.text();
+
+  if (!rawBody) {
+    return {} as T;
+  }
+
+  try {
+    return JSON.parse(rawBody) as T;
+  } catch {
+    return {
+      error: rawBody.trim() || `Request failed with status ${response.status}.`
+    } as T;
+  }
+}
+
+function formatApiError(payload: { error?: string; details?: unknown }, fallback: string): string {
+  if (typeof payload.error === 'string' && payload.error.trim().length > 0) {
+    return payload.error;
+  }
+
+  if (typeof payload.details === 'string' && payload.details.trim().length > 0) {
+    return payload.details;
+  }
+
+  return fallback;
+}
+
 const Tab1: React.FC = () => {
-  const [mode, setMode] = useState<ChatMode>('apologetics');
+  const history = useHistory();
+  const location = useLocation();
+  const storedSession = loadChatSession();
+  const [mode, setMode] = useState<ChatMode>(storedSession?.mode ?? 'apologetics');
   const [draft, setDraft] = useState('');
-  const [messages, setMessages] = useState<ChatMessage[]>([
-    {
-      id: 'assistant-intro',
-      role: 'assistant',
-      content: 'Choose a mode, ask your question by typing or voice, and I will answer in text. If voice replies are enabled, I can also read the answer aloud.'
-    }
-  ]);
+  const [messages, setMessages] = useState<StoredChatMessage[]>(storedSession?.messages.length ? storedSession.messages : [starterAssistantMessage]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
-  const [voiceRepliesEnabled, setVoiceRepliesEnabled] = useState(true);
+  const [voiceRepliesEnabled, setVoiceRepliesEnabled] = useState(storedSession?.voiceRepliesEnabled ?? true);
   const [listeningSupported, setListeningSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [activeAudioMessageId, setActiveAudioMessageId] = useState<string | null>(null);
@@ -110,7 +141,35 @@ const Tab1: React.FC = () => {
     };
   }, []);
 
-  const selectedMode = modeOptions.find((option) => option.mode === mode) ?? modeOptions[2];
+  useEffect(() => {
+    saveChatSession({
+      mode,
+      voiceRepliesEnabled,
+      messages
+    });
+  }, [messages, mode, voiceRepliesEnabled]);
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    const requestedMode = sanitizeMode(params.get('mode'));
+    const requestedPrompt = params.get('prompt')?.trim();
+
+    if (!requestedMode && !requestedPrompt) {
+      return;
+    }
+
+    if (requestedMode) {
+      setMode(requestedMode);
+    }
+
+    if (requestedPrompt) {
+      setDraft(requestedPrompt);
+    }
+
+    history.replace('/tab1');
+  }, [history, location.search]);
+
+  const selectedMode = getChatModeOption(mode);
 
   const sendPrompt = async (prompt: string) => {
     const trimmedPrompt = prompt.trim();
@@ -118,7 +177,7 @@ const Tab1: React.FC = () => {
       return;
     }
 
-    const nextUserMessage: ChatMessage = {
+    const nextUserMessage: StoredChatMessage = {
       id: `user-${Date.now()}`,
       role: 'user',
       content: trimmedPrompt
@@ -145,12 +204,12 @@ const Tab1: React.FC = () => {
         })
       });
 
-      const payload = (await response.json()) as ChatResponse;
+      const payload = await parseApiResponse<ChatResponse & { details?: unknown }>(response);
       if (!response.ok || !payload.content) {
-        throw new Error(payload.error || 'The assistant could not answer that question.');
+        throw new Error(formatApiError(payload, 'The assistant could not answer that question.'));
       }
 
-      const assistantMessage: ChatMessage = {
+      const assistantMessage: StoredChatMessage = {
         id: `assistant-${Date.now()}`,
         role: 'assistant',
         content: payload.content
@@ -174,7 +233,7 @@ const Tab1: React.FC = () => {
     await sendPrompt(draft);
   };
 
-  const playAudioForMessage = async (message: ChatMessage) => {
+  const playAudioForMessage = async (message: StoredChatMessage) => {
     if (message.role !== 'assistant') {
       return;
     }
@@ -191,9 +250,9 @@ const Tab1: React.FC = () => {
         body: JSON.stringify({ text: message.content })
       });
 
-      const payload = (await response.json()) as TtsResponse;
+      const payload = await parseApiResponse<TtsResponse>(response);
       if (!response.ok || !payload.audioBase64) {
-        throw new Error(payload.error || 'Voice playback is unavailable right now.');
+        throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
       }
 
       if (audioRef.current) {
@@ -232,6 +291,17 @@ const Tab1: React.FC = () => {
     setIsListening(true);
   };
 
+  const resetConversation = () => {
+    setMessages([starterAssistantMessage]);
+    setDraft('');
+    setError('');
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current = null;
+      setActiveAudioMessageId(null);
+    }
+  };
+
   return (
     <IonPage className="vision-page">
       <IonHeader translucent>
@@ -248,7 +318,7 @@ const Tab1: React.FC = () => {
               Type or speak in one conversation view, receive a written answer, and optionally hear that answer spoken back in the same flow.
             </p>
             <div className="hero-actions" role="group" aria-label="Response modes">
-              {modeOptions.map((option) => (
+              {chatModeOptions.map((option) => (
                 <IonButton
                   key={option.mode}
                   size="default"
@@ -271,16 +341,29 @@ const Tab1: React.FC = () => {
               <div>
                 <p className="section-label">Live conversation</p>
                 <h2>{selectedMode.label}</h2>
-                <p className="chat-panel-copy">{starterMessages[mode]}</p>
+                <p className="chat-panel-copy">{selectedMode.starterGuidance}</p>
               </div>
-              <IonButton
-                fill={voiceRepliesEnabled ? 'solid' : 'outline'}
-                size="small"
-                onClick={() => setVoiceRepliesEnabled((currentValue) => !currentValue)}
-              >
-                <IonIcon slot="start" icon={volumeHighOutline} />
-                {voiceRepliesEnabled ? 'Voice Replies On' : 'Voice Replies Off'}
-              </IonButton>
+              <div className="chat-panel-controls">
+                <IonButton
+                  fill={voiceRepliesEnabled ? 'solid' : 'outline'}
+                  size="small"
+                  onClick={() => setVoiceRepliesEnabled((currentValue) => !currentValue)}
+                >
+                  <IonIcon slot="start" icon={volumeHighOutline} />
+                  {voiceRepliesEnabled ? 'Voice Replies On' : 'Voice Replies Off'}
+                </IonButton>
+                <IonButton fill="clear" size="small" onClick={resetConversation}>
+                  New Thread
+                </IonButton>
+              </div>
+            </div>
+
+            <div className="prompt-strip" aria-label="Suggested prompts">
+              {starterPrompts[mode].map((prompt) => (
+                <IonButton key={prompt} fill="outline" size="small" onClick={() => setDraft(prompt)}>
+                  {prompt}
+                </IonButton>
+              ))}
             </div>
 
             <div className="chat-thread" aria-live="polite">
@@ -345,25 +428,20 @@ const Tab1: React.FC = () => {
 
           <section className="content-grid">
             <article className="info-panel">
-              <p className="section-label">Why the wrapper works</p>
-              <h2>Broad enough for search, precise enough for trust.</h2>
+              <p className="section-label">What this does</p>
+              <h2>Three modes, one ongoing conversation.</h2>
               <ul>
-                <li><strong>Catholic</strong> makes the promise legible to people searching for answers and teaching.</li>
-                <li><strong>Tradition</strong> signals continuity with the Church rather than a personality-driven feed.</li>
-                <li><strong>AI</strong> clarifies that this is an interactive guide, not a static archive.</li>
+                <li><strong>Ask a Father</strong> prioritizes patristic witness and early Christian tone.</li>
+                <li><strong>Logical Proofs</strong> serves users who want arguments, distinctions, and academic structure.</li>
+                <li><strong>Apologetic Answers</strong> explains Catholic teaching in a clear public-facing register.</li>
               </ul>
             </article>
 
             <article className="tagline-panel">
-              <p className="section-label">Positioning options</p>
-              <blockquote>
-                Catholic Tradition AI: 2,000 Years of Wisdom, One Conversation.
-              </blockquote>
-              <blockquote>
-                Catholic Tradition AI: From the Church Fathers to the Angelic Doctor.
-              </blockquote>
+              <p className="section-label">Current session</p>
+              <blockquote>{selectedMode.summary}</blockquote>
               <p>
-                The first is the stronger front-door line because it is broader, clearer, and more welcoming to non-specialists.
+                The conversation persists in your browser, so you can move between tabs without losing the thread.
               </p>
             </article>
           </section>

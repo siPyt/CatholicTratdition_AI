@@ -68,11 +68,11 @@ const App: React.FC = () => (
           </IonTabButton>
           <IonTabButton tab="tab2" href="/tab2">
             <IonIcon aria-hidden="true" icon={libraryOutline} />
-            <IonLabel>Authority</IonLabel>
+            <IonLabel>Method</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab3" href="/tab3">
             <IonIcon aria-hidden="true" icon={compassOutline} />
-            <IonLabel>Pathways</IonLabel>
+            <IonLabel>Launch</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>
