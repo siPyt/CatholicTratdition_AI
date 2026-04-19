@@ -18,12 +18,55 @@ interface ChatUpstreamConfig {
   model: string;
 }
 
+const romanNumeralValues: Record<string, number> = {
+  I: 1,
+  V: 5,
+  X: 10,
+  L: 50,
+  C: 100,
+  D: 500,
+  M: 1000
+};
+
 function tryParseJson(text: string): unknown {
   try {
     return JSON.parse(text);
   } catch {
     return null;
   }
+}
+
+function romanToArabic(token: string): number | null {
+  const normalized = token.trim().toUpperCase();
+  if (!/^[IVXLCDM]+$/.test(normalized)) {
+    return null;
+  }
+
+  let total = 0;
+  let previousValue = 0;
+
+  for (let index = normalized.length - 1; index >= 0; index -= 1) {
+    const currentValue = romanNumeralValues[normalized[index]];
+    if (!currentValue) {
+      return null;
+    }
+
+    if (currentValue < previousValue) {
+      total -= currentValue;
+    } else {
+      total += currentValue;
+      previousValue = currentValue;
+    }
+  }
+
+  return total;
+}
+
+function normalizeCitationNumerals(text: string): string {
+  return text.replace(/\b([IVXLCDM]+)(?=,\s*(q\.|a\.|sec\.|disp\.|dist\.|can\.|cap\.|bk\.|book\b|chapter\b))/gi, (match) => {
+    const arabicValue = romanToArabic(match);
+    return arabicValue ? String(arabicValue) : match;
+  });
 }
 
 function resolveChatUpstream(apiKey: string, requestedModel: unknown): ChatUpstreamConfig {
@@ -114,8 +157,10 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       ? (payload.choices[0] as { message?: { content?: unknown } })?.message?.content
       : '';
 
+    const normalizedContent = typeof content === 'string' ? normalizeCitationNumerals(content) : '';
+
     response.status(200).json({
-      content: typeof content === 'string' ? content : '',
+      content: normalizedContent,
       model: payload?.model ?? upstreamConfig.model,
       usage: payload?.usage ?? null,
       mode

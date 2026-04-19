@@ -80,6 +80,35 @@ describe('server handlers', () => {
     });
   });
 
+  it('normalizes Roman numerals to Arabic numerals in returned citations', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'gpt-4.1-mini',
+        choices: [{ message: { content: 'See Summa Theologiae, I, q. 2, a. 3 for the argument.' } }],
+        usage: { total_tokens: 10 }
+      })
+    }));
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'proofs',
+          messages: [{ role: 'user', content: 'Cite the First Cause proof.' }]
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      content: 'See Summa Theologiae, 1, q. 2, a. 3 for the argument.'
+    });
+  });
+
   it('injects retrieved canonical context into the chat system prompt when matches exist', async () => {
     const fetchMock = vi.fn().mockResolvedValue({
       ok: true,
