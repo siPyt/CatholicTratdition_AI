@@ -38,8 +38,8 @@ export const chatModeOptions: ChatModeOption[] = [
     mode: 'dogmaticSources',
     label: 'Handbook of Dogmatic Sources',
     promptHint: 'What do Ott and Denzinger put on grace?',
-    summary: 'Constrain the answer to Ott and Denzinger without citing either work in the reply.',
-    starterGuidance: 'This mode stays within Ott and Denzinger. It gives a summary answer without formal citations and says when a point is uncertain.',
+    summary: 'Constrain the answer to Ott and Denzinger, and surface Ott-style certainty levels when they are clear.',
+    starterGuidance: 'This mode stays within Ott and Denzinger, avoids formal citations in the reply, and names the certainty grade when it can do so responsibly.',
     featuredPrompt: 'What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?'
   },
   {

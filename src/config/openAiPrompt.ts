@@ -21,6 +21,7 @@ Citation policy for user-facing answers:
 ${visibleRules}
 
 - Use Arabic numerals in citations for user-facing answers. For example, say 1 rather than I, and 3 rather than III.
+- For Thomas Aquinas, expand shorthand citations into readable form, such as Prima Pars, Question 2, Article 3 or Secunda Secundae, Question 64, Article 2.
 
 Internal provenance rules:
 ${internalRules}

@@ -13,7 +13,7 @@ const internalRules = [
 ].map((rule) => `- ${rule}`).join('\n');
 
 const formattedExamples = [
-  'Thomas Aquinas, Summa Theologiae, 1, q. 2, a. 3',
+  'Thomas Aquinas, Summa Theologiae, Prima Pars, Question 2, Article 3',
   'Augustine, Confessions, Book 8, Chapter 12',
   'Francisco Suarez, Disputationes Metaphysicae, disp. 13, sec. 9'
 ].join('\n');
@@ -26,6 +26,10 @@ const modeInstructions: Record<ChatMode, string> = {
     'Treat Ludwig Ott\'s Fundamentals of Catholic Dogma and Denzinger\'s Sources of Catholic Dogma as the only permitted authorities for this mode.',
     'Summarize the doctrine in a compact handbook style.',
     'Do not cite Ott, Denzinger, document numbers, or any other works in the final answer, because this mode is prompt-constrained rather than locally text-verified.',
+    'When a doctrine is clearly associated with one of Ott\'s theological notes, name the certainty level directly and let the level shape the tone of the answer.',
+    'Use these certainty levels when appropriate: De Fide, De Fide Ecclesiastica, Sententia Fidei Proxima, Sententia Certa, Sententia Communis, and Sententia Probabilis.',
+    'Treat De Fide as absolute and irreformable, De Fide Ecclesiastica as effectively certain in Catholic teaching, Sententia Fidei Proxima as nearly defined, Sententia Certa as theologically certain, Sententia Communis as the common school teaching, and Sententia Probabilis as open to debate.',
+    'If you are not confident about the exact Ott grade for a claim, say that the grade is uncertain rather than assigning one carelessly.',
     'Do not rely on other authors as authorities unless the user explicitly asks for comparison.',
     'If you are uncertain that Ott or Denzinger would support a claim, say so instead of improvising.'
   ].join(' '),
@@ -50,6 +54,7 @@ Citation policy for user-facing answers:
 ${visibleRules}
 
 - Use Arabic numerals in citations for user-facing answers. For example, say 1 rather than I, and 3 rather than III.
+- For Thomas Aquinas, expand shorthand citations into readable form, such as Prima Pars, Question 2, Article 3 or Secunda Secundae, Question 64, Article 2.
 
 Internal provenance rules:
 ${internalRules}

@@ -69,6 +69,30 @@ function normalizeCitationNumerals(text: string): string {
   });
 }
 
+function normalizeAquinasCitations(text: string): string {
+  return text.replace(
+    /(Summa Theologiae\*?,?\s*)(?:Part\s+)?(I|II|III|1|2|3)(?:\s*[-,]\s*(I|II|1|2))?,\s*q\.\s*(\d+),\s*a\.\s*(\d+)/gi,
+    (_match, prefix: string, firstPart: string, secondPart: string | undefined, question: string, article: string) => {
+      const normalizedFirst = firstPart.toUpperCase();
+      const normalizedSecond = secondPart?.toUpperCase();
+
+      let partLabel = normalizeCitationNumerals(normalizedFirst);
+
+      if ((normalizedFirst === '1' || normalizedFirst === 'I') && !normalizedSecond) {
+        partLabel = 'Prima Pars';
+      } else if ((normalizedFirst === '2' || normalizedFirst === 'II') && (normalizedSecond === '1' || normalizedSecond === 'I')) {
+        partLabel = 'Prima Secundae';
+      } else if ((normalizedFirst === '2' || normalizedFirst === 'II') && (normalizedSecond === '2' || normalizedSecond === 'II')) {
+        partLabel = 'Secunda Secundae';
+      } else if ((normalizedFirst === '3' || normalizedFirst === 'III') && !normalizedSecond) {
+        partLabel = 'Tertia Pars';
+      }
+
+      return `${prefix}${partLabel}, Question ${question}, Article ${article}`;
+    }
+  );
+}
+
 function resolveChatUpstream(apiKey: string, requestedModel: unknown): ChatUpstreamConfig {
   const explicitBaseUrl = process.env.OPENAI_BASE_URL?.trim();
   const usesVercelGateway =
@@ -157,7 +181,9 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       ? (payload.choices[0] as { message?: { content?: unknown } })?.message?.content
       : '';
 
-    const normalizedContent = typeof content === 'string' ? normalizeCitationNumerals(content) : '';
+    const normalizedContent = typeof content === 'string'
+      ? normalizeAquinasCitations(normalizeCitationNumerals(content))
+      : '';
 
     response.status(200).json({
       content: normalizedContent,

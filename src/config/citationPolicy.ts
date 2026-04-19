@@ -30,7 +30,7 @@ export const citationExamples: CanonicalCitation[] = [
   {
     author: 'Thomas Aquinas',
     work: 'Summa Theologiae',
-    location: '1, q. 2, a. 3',
+    location: 'Prima Pars, Question 2, Article 3',
     tier: 'aquinas'
   },
   {
@@ -90,6 +90,41 @@ export function normalizeCitationLocation(location: string): string {
   });
 }
 
+function normalizeAquinasLocation(location: string): string {
+  const normalized = location.trim().replace(/\s+/g, ' ');
+  const pattern = /^(?:Part\s+)?(I|II|III|IV|V|1|2|3|4|5)(?:\s*[-,]\s*(I|II|III|1|2|3))?,\s*q\.\s*(\d+),\s*a\.\s*(\d+)$/i;
+  const match = normalized.match(pattern);
+
+  if (!match) {
+    return normalizeCitationLocation(location)
+      .replace(/\bq\.\s*(\d+)/gi, 'Question $1')
+      .replace(/\ba\.\s*(\d+)/gi, 'Article $1');
+  }
+
+  const firstPart = match[1].toUpperCase();
+  const secondPart = match[2]?.toUpperCase();
+  const question = match[3];
+  const article = match[4];
+
+  let partLabel = normalizeCitationLocation(firstPart);
+
+  if ((firstPart === '1' || firstPart === 'I') && !secondPart) {
+    partLabel = 'Prima Pars';
+  } else if ((firstPart === '2' || firstPart === 'II') && (secondPart === '1' || secondPart === 'I')) {
+    partLabel = 'Prima Secundae';
+  } else if ((firstPart === '2' || firstPart === 'II') && (secondPart === '2' || secondPart === 'II')) {
+    partLabel = 'Secunda Secundae';
+  } else if ((firstPart === '3' || firstPart === 'III') && !secondPart) {
+    partLabel = 'Tertia Pars';
+  }
+
+  return `${partLabel}, Question ${question}, Article ${article}`;
+}
+
 export function formatCanonicalCitation(citation: CanonicalCitation): string {
-	return `${citation.author}, ${citation.work}, ${normalizeCitationLocation(citation.location)}`;
+	const location = citation.tier === 'aquinas'
+		? normalizeAquinasLocation(citation.location)
+		: normalizeCitationLocation(citation.location);
+
+	return `${citation.author}, ${citation.work}, ${location}`;
 }

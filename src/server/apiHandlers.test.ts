@@ -80,12 +80,12 @@ describe('server handlers', () => {
     });
   });
 
-  it('normalizes Roman numerals to Arabic numerals in returned citations', async () => {
+  it('normalizes and expands Aquinas citations in returned chat content', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
       text: async () => JSON.stringify({
         model: 'gpt-4.1-mini',
-        choices: [{ message: { content: 'See Summa Theologiae, I, q. 2, a. 3 for the argument.' } }],
+        choices: [{ message: { content: 'See Summa Theologiae, II-II, q. 64, a. 2 for the argument.' } }],
         usage: { total_tokens: 10 }
       })
     }));
@@ -105,7 +105,7 @@ describe('server handlers', () => {
 
     expect(response.statusCode).toBe(200);
     expect(response.payload).toMatchObject({
-      content: 'See Summa Theologiae, 1, q. 2, a. 3 for the argument.'
+      content: 'See Summa Theologiae, Secunda Secundae, Question 64, Article 2 for the argument.'
     });
   });
 
@@ -140,7 +140,7 @@ describe('server handlers', () => {
 
     expect(upstreamPayload.messages[0].role).toBe('system');
     expect(upstreamPayload.messages[0].content).toContain('Retrieved canonical source context');
-    expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, 1, q. 2, a. 3');
+    expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, Prima Pars, Question 2, Article 3');
     expect(response.statusCode).toBe(200);
   });
 
@@ -175,6 +175,8 @@ describe('server handlers', () => {
 
     expect(upstreamPayload.messages[0].content).toContain('Fundamentals of Catholic Dogma');
     expect(upstreamPayload.messages[0].content).toContain('Sources of Catholic Dogma');
+    expect(upstreamPayload.messages[0].content).toContain('De Fide');
+    expect(upstreamPayload.messages[0].content).toContain('Sententia Probabilis');
     expect(upstreamPayload.messages[0].content).toContain('Do not cite Ott, Denzinger, document numbers, or any other works in the final answer');
     expect(upstreamPayload.messages[0].content).not.toContain('Retrieved canonical source context');
     expect(response.statusCode).toBe(200);
@@ -313,10 +315,12 @@ describe('server handlers', () => {
   });
 
   it('returns audio metadata for the tts handler', async () => {
-    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+    const fetchMock = vi.fn().mockResolvedValue({
       ok: true,
       arrayBuffer: async () => new TextEncoder().encode('audio').buffer
-    }));
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
 
     const response = createMockResponse();
 
@@ -330,11 +334,44 @@ describe('server handlers', () => {
       response
     );
 
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      text: string;
+    };
+
     expect(response.statusCode).toBe(200);
+    expect(upstreamPayload.text).toBe('The voice answer.');
     expect(response.payload).toMatchObject({
       contentType: 'audio/mpeg',
       voiceId: 'voice-123'
     });
+  });
+
+  it('normalizes papal Roman numerals for spoken TTS output', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      arrayBuffer: async () => new TextEncoder().encode('audio').buffer
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await ttsHandler(
+      {
+        method: 'POST',
+        body: {
+          text: 'Pope Leo XIII wrote on social doctrine.'
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      text: string;
+    };
+
+    expect(response.statusCode).toBe(200);
+    expect(upstreamPayload.text).toBe('Pope Leo the thirteenth wrote on social doctrine.');
   });
 
   it('reports safe booleans in the health handler', () => {

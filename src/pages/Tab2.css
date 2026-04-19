@@ -34,7 +34,9 @@
 
 .authority-hero,
 .tree-node,
-.protocol-block {
+.protocol-block,
+.ott-reference-panel,
+.ott-grade-card {
 	background: rgba(255, 249, 238, 0.92);
 	border: 1px solid rgba(71, 48, 26, 0.12);
 	border-radius: 28px;
@@ -47,7 +49,9 @@
 
 .authority-hero h1,
 .protocol-block h3,
-.tree-node h2 {
+.tree-node h2,
+.ott-reference-panel h3,
+.ott-grade-card h4 {
 	margin: 0;
 	color: #29190f;
 	font-family: "Cormorant Garamond", "Baskerville", serif;
@@ -60,7 +64,10 @@
 
 .authority-hero p,
 .tree-node p,
-.protocol-block p {
+.protocol-block p,
+.ott-reference-panel p,
+.ott-grade-card p,
+.ott-table {
 	color: #4b3526;
 	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
 	font-size: 1rem;
@@ -133,6 +140,70 @@
 	padding: 28px;
 }
 
+.ott-reference-panel {
+	margin-top: 20px;
+	padding: 28px;
+}
+
+.ott-reference-header p:last-child {
+	margin-top: 12px;
+}
+
+.ott-grade-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 18px;
+	margin-top: 18px;
+}
+
+.ott-grade-card {
+	padding: 24px;
+}
+
+.ott-grade-card h4 {
+	font-size: clamp(1.5rem, 2.6vw, 2rem);
+	line-height: 1.05;
+}
+
+.ott-grade-logic {
+	padding-top: 10px;
+	border-top: 1px solid rgba(71, 48, 26, 0.12);
+	font-weight: 700;
+}
+
+.ott-table-wrap {
+	overflow-x: auto;
+	margin-top: 18px;
+	border: 1px solid rgba(71, 48, 26, 0.12);
+	border-radius: 20px;
+	background: rgba(255, 252, 246, 0.92);
+}
+
+.ott-table {
+	width: 100%;
+	border-collapse: collapse;
+	min-width: 560px;
+}
+
+.ott-table th,
+.ott-table td {
+	padding: 14px 16px;
+	border-bottom: 1px solid rgba(71, 48, 26, 0.12);
+	text-align: left;
+}
+
+.ott-table th {
+	color: #7c5736;
+	font-size: 0.82rem;
+	font-weight: 800;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.ott-table tbody tr:last-child td {
+	border-bottom: 0;
+}
+
 .method-list {
 	margin: 14px 0 0;
 	padding-left: 18px;
@@ -148,6 +219,10 @@
 	}
 
 	.operations-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.ott-grade-grid {
 		grid-template-columns: 1fr;
 	}
 }
@@ -174,7 +249,9 @@
 
 	.authority-hero,
 	.tree-node,
-	.protocol-block {
+	.protocol-block,
+	.ott-reference-panel,
+	.ott-grade-card {
 		border-radius: 22px;
 	}
 }
