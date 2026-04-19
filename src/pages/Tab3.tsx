@@ -6,17 +6,17 @@ const Tab3: React.FC = () => {
     <IonPage className="pathways-page">
       <IonHeader translucent>
         <IonToolbar>
-          <IonTitle>Common-Man Interface</IonTitle>
+          <IonTitle>Public Entry Points</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen className="pathways-content">
         <div className="pathways-shell">
           <section className="pathways-hero">
             <p className="section-label">Accessible entry points</p>
-            <h1>The interface should lower the barrier without flattening the theology.</h1>
+            <h1>The app should feel public-facing, clear, and persuasive before it feels scholastic.</h1>
             <p>
-              Your instinct here is sound. The product wins when a user can choose the mode of help they need before they know
-              the technical names for the tradition behind it.
+              The product works best when a visitor can choose a mode of explanation that matches their background, especially
+              when they are curious, skeptical, or not Catholic at all.
             </p>
           </section>
 
@@ -32,8 +32,8 @@ const Tab3: React.FC = () => {
             </article>
 
             <article className="pathway-card">
-              <h2>Explain Like I&apos;m 10</h2>
-              <p>Keep the doctrine intact while simplifying vocabulary, analogies, and pacing for first-time learners.</p>
+              <h2>Apologetic Answers</h2>
+              <p>Answer in a popular, intelligible mode that helps non-Catholics and first-time inquirers grasp the point without jargon.</p>
             </article>
           </section>
 
@@ -42,7 +42,7 @@ const Tab3: React.FC = () => {
             <ol>
               <li>The user chooses a human-readable entry point instead of navigating academic categories.</li>
               <li>The system retrieves across Scripture, Fathers, councils, and trusted teachers.</li>
-              <li>The final synthesis yields to Thomistic coherence before the answer is returned.</li>
+              <li>The final synthesis stays publicly intelligible while still yielding to Thomistic coherence before the answer is returned.</li>
             </ol>
           </section>
         </div>

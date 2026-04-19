@@ -21,7 +21,7 @@ const Tab1: React.FC = () => {
             <div className="hero-actions">
               <IonButton size="default">Ask a Father</IonButton>
               <IonButton fill="outline" size="default">Logical Proofs</IonButton>
-              <IonButton fill="clear" size="default">Explain Like I&apos;m 10</IonButton>
+              <IonButton fill="clear" size="default">Apologetic Answers</IonButton>
             </div>
             <div className="hero-chips" aria-label="Suggested domains">
               <IonChip>tradition.ai</IonChip>
@@ -51,15 +51,6 @@ const Tab1: React.FC = () => {
               </blockquote>
               <p>
                 The first is the stronger front-door line because it is broader, clearer, and more welcoming to non-specialists.
-              </p>
-            </article>
-
-            <article className="citation-panel">
-              <p className="section-label">Citation discipline</p>
-              <h2>Quote the tradition, not the website.</h2>
-              <p>
-                Answers should cite works like <strong>Summa Theologiae I, q. 2, a. 3</strong> or <strong>Confessions, Book 8,
-                Chapter 12</strong>, never the site that supplied the text.
               </p>
             </article>
           </section>
