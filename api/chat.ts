@@ -18,6 +18,8 @@ interface ChatUpstreamConfig {
   model: string;
 }
 
+const dogmaticOutOfScopeAuthorityPattern = /\b(vatican\s*ii|vatican\s*2|augustine|aquinas|thomas\s+aquinas|church\s+fathers?|fathers\b|council\s+of\s+trent|trent\b|catechism\b|ccc\b|leo\s+xiii|pius\s+(?:ix|x|xi|xii)|john\s+paul\s+ii|benedict\s+xvi|francis\b|paul\s+vi|dei\s+verbum|lumen\s+gentium|gaudium\s+et\s+spes)\b/i;
+
 const romanNumeralValues: Record<string, number> = {
   I: 1,
   V: 5,
@@ -93,6 +95,23 @@ function normalizeAquinasCitations(text: string): string {
   );
 }
 
+function buildDogmaticScopeRefusal(prompt: string): string {
+  return `This mode is limited to Ludwig Ott and Denzinger only, so I cannot answer from other authorities in this chat. Rephrase the question in terms of what Ott and Denzinger say about ${prompt.trim() || 'the doctrine in question'}, and I will stay within that scope.`;
+}
+
+function shouldRefuseDogmaticSourcesRequest(prompt: string): boolean {
+  const normalizedPrompt = prompt.trim();
+  if (!normalizedPrompt) {
+    return false;
+  }
+
+  if (/\bott\b/i.test(normalizedPrompt) || /\bdenzinger\b/i.test(normalizedPrompt)) {
+    return false;
+  }
+
+  return dogmaticOutOfScopeAuthorityPattern.test(normalizedPrompt);
+}
+
 function resolveChatUpstream(apiKey: string, requestedModel: unknown): ChatUpstreamConfig {
   const explicitBaseUrl = process.env.OPENAI_BASE_URL?.trim();
   const usesVercelGateway =
@@ -137,6 +156,16 @@ export default async function handler(request: ApiRequest, response: ApiResponse
 
     if (messages.length === 0) {
       response.status(400).json({ error: 'At least one user message is required.' });
+      return;
+    }
+
+    if (mode === 'dogmaticSources' && latestUserMessage && shouldRefuseDogmaticSourcesRequest(latestUserMessage.content)) {
+      response.status(200).json({
+        content: buildDogmaticScopeRefusal(latestUserMessage.content),
+        model: 'dogmatic-scope-guard',
+        usage: null,
+        mode
+      });
       return;
     }
 

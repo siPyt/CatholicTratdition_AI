@@ -186,6 +186,34 @@ describe('server handlers', () => {
     });
   });
 
+  it('refuses out-of-scope authorities in the Handbook of Dogmatic Sources mode', async () => {
+    const fetchMock = vi.fn();
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'dogmaticSources',
+          messages: [{ role: 'user', content: 'Use Vatican II and Augustine to explain justification.' }]
+        }
+      },
+      response
+    );
+
+    expect(fetchMock).not.toHaveBeenCalled();
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      mode: 'dogmaticSources',
+      model: 'dogmatic-scope-guard'
+    });
+    expect(response.payload).toMatchObject({
+      content: expect.stringContaining('This mode is limited to Ludwig Ott and Denzinger only')
+    });
+  });
+
   it('supports the pre-Vatican II papal documents mode without retrieval injection', async () => {
     const fetchMock = vi.fn().mockResolvedValue({
       ok: true,
