@@ -67,6 +67,17 @@
 	text-shadow: 0 1px 0 rgba(255, 247, 236, 0.72), 0 18px 38px rgba(60, 28, 10, 0.1);
 }
 
+.brand-masthead-ai {
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 0.48em;
+	font-weight: 800;
+	letter-spacing: 0.18em;
+	text-transform: uppercase;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 0.12em;
+}
+
 .pathway-card h2 {
 	margin: 0;
 	color: #29190f;

@@ -36,6 +36,8 @@ interface TtsResponse {
 
 type SpeechRecognitionConstructor = new () => SpeechRecognition;
 
+const silentAudioDataUri = 'data:audio/mp3;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU4LjI5LjEwMAAAAAAAAAAAAAAA//tQxAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAAFAAAGbAAODg4ODhQUFBQUHBwcHBwiIiIiIigoKCgoLi4uLi40NDQ0NDs7Ozs7QUFBQUFHR0dHR05OTk5OVFRUVFRaWlpaWmBgYGBgZ2dnZ2dtbW1tbXNzc3NzeXl5eXmAgICAgIaGhoaGjIyMjIySkpKSkpmZmZmZn5+fn5+lpZWVlZWrq6urq7GxsbGxt7e3t7e9vb29vcPDw8PDycnJycnPz8/Pz9bW1tbW3Nzc3Nzi4uLi4ujq6urq7vLy8vL8/Pz8/P////////////8AAAAATGF2YzU4LjU0AAAAAAAAAAAAAAAAJAV8AAAAAAAABmw1JINLAAAAAAAAAAAAAAAAAAAA//tQxAADwAABpAAAACAAADSAAAAEtNKKqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/+xDEAAPAAAGkAAAAIAAANIAAAAQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0ND';
+
 const starterAssistantMessage: StoredChatMessage = {
   id: 'assistant-intro',
   role: 'assistant',
@@ -138,8 +140,10 @@ const Tab1: React.FC = () => {
   const [copiedItemId, setCopiedItemId] = useState<string | null>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const speechUtteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const audioRequestIdRef = useRef(0);
   const copyFeedbackTimeoutRef = useRef<number | null>(null);
+  const audioUnlockedRef = useRef(false);
 
   const clearConversationState = (nextDraft = '') => {
     setMessages([starterAssistantMessage]);
@@ -164,7 +168,31 @@ const Tab1: React.FC = () => {
       audioRef.current = null;
     }
 
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      window.speechSynthesis.cancel();
+    }
+
+    speechUtteranceRef.current = null;
+
     setActiveAudioMessageId(null);
+  };
+
+  const unlockAudioPlayback = async () => {
+    if (audioUnlockedRef.current || typeof Audio === 'undefined') {
+      return;
+    }
+
+    try {
+      const probeAudio = new Audio(silentAudioDataUri);
+      probeAudio.muted = true;
+      probeAudio.setAttribute('playsinline', 'true');
+      await probeAudio.play();
+      probeAudio.pause();
+      probeAudio.currentTime = 0;
+      audioUnlockedRef.current = true;
+    } catch {
+      audioUnlockedRef.current = false;
+    }
   };
 
   useEffect(() => {
@@ -391,13 +419,46 @@ const Tab1: React.FC = () => {
 
   const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
+    await unlockAudioPlayback();
     await sendPrompt(draft);
+  };
+
+  const speakWithBrowserVoice = async (message: StoredChatMessage) => {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
+      throw new Error('Voice playback is unavailable right now.');
+    }
+
+    const utterance = new SpeechSynthesisUtterance(message.content);
+    utterance.volume = 1;
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    speechUtteranceRef.current = utterance;
+    setActiveAudioMessageId(message.id);
+
+    await new Promise<void>((resolve, reject) => {
+      utterance.onend = () => {
+        speechUtteranceRef.current = null;
+        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        resolve();
+      };
+
+      utterance.onerror = () => {
+        speechUtteranceRef.current = null;
+        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        reject(new Error('Voice playback is unavailable right now.'));
+      };
+
+      window.speechSynthesis.cancel();
+      window.speechSynthesis.speak(utterance);
+    });
   };
 
   const playAudioForMessage = async (message: StoredChatMessage) => {
     if (message.role !== 'assistant') {
       return;
     }
+
+    await unlockAudioPlayback();
 
     if (activeAudioMessageId === message.id && audioRef.current) {
       stopAudioPlayback();
@@ -429,6 +490,7 @@ const Tab1: React.FC = () => {
       const contentType = payload.contentType || 'audio/mpeg';
       const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
       audio.volume = 1;
+      audio.setAttribute('playsinline', 'true');
       audioRef.current = audio;
       setActiveAudioMessageId(message.id);
 
@@ -444,9 +506,14 @@ const Tab1: React.FC = () => {
       audio.onerror = clearPlaybackState;
       await audio.play();
     } catch (caughtError) {
-      const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
-      setError(messageText);
-      setActiveAudioMessageId(null);
+      try {
+        await speakWithBrowserVoice(message);
+        setError('');
+      } catch {
+        const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
+        setError(messageText);
+        setActiveAudioMessageId(null);
+      }
     }
   };
 
@@ -509,7 +576,12 @@ const Tab1: React.FC = () => {
                 <IonButton
                   fill={voiceRepliesEnabled ? 'solid' : 'outline'}
                   className="voice-toggle-button"
-                  onClick={() => setVoiceRepliesEnabled((currentValue) => !currentValue)}
+                  onClick={() => {
+                    if (!voiceRepliesEnabled) {
+                      void unlockAudioPlayback();
+                    }
+                    setVoiceRepliesEnabled((currentValue) => !currentValue);
+                  }}
                 >
                   <IonIcon slot="start" icon={volumeHighOutline} />
                   {voiceRepliesEnabled ? 'Speak Replies: On' : 'Speak Replies: Off'}
