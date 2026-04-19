@@ -111,8 +111,85 @@ describe('server handlers', () => {
 
     expect(upstreamPayload.messages[0].role).toBe('system');
     expect(upstreamPayload.messages[0].content).toContain('Retrieved canonical source context');
-    expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, I, q. 2, a. 3');
+    expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, 1, q. 2, a. 3');
     expect(response.statusCode).toBe(200);
+  });
+
+  it('supports the Handbook of Dogmatic Sources mode without retrieval citations', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'gpt-4.1-mini',
+        choices: [{ message: { content: 'A handbook-style reply.' } }],
+        usage: { total_tokens: 12 }
+      })
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'dogmaticSources',
+          messages: [{ role: 'user', content: 'What do Ott and Denzinger put on grace?' }]
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      messages: Array<{ role: string; content: string }>;
+    };
+
+    expect(upstreamPayload.messages[0].content).toContain('Fundamentals of Catholic Dogma');
+    expect(upstreamPayload.messages[0].content).toContain('Sources of Catholic Dogma');
+    expect(upstreamPayload.messages[0].content).toContain('Do not cite Ott, Denzinger, document numbers, or any other works in the final answer');
+    expect(upstreamPayload.messages[0].content).not.toContain('Retrieved canonical source context');
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      mode: 'dogmaticSources'
+    });
+  });
+
+  it('supports the pre-Vatican II papal documents mode without retrieval injection', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'gpt-4.1-mini',
+        choices: [{ message: { content: 'A papal reply.' } }],
+        usage: { total_tokens: 12 }
+      })
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'papalPreVaticanII',
+          messages: [{ role: 'user', content: 'What did pre-Vatican II popes teach about the kingship of Christ?' }]
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      messages: Array<{ role: string; content: string }>;
+    };
+
+    expect(upstreamPayload.messages[0].content).toContain('pre-Vatican II popes only');
+    expect(upstreamPayload.messages[0].content).toContain('English Vatican papal archive');
+    expect(upstreamPayload.messages[0].content).not.toContain('Retrieved canonical source context');
+    expect(response.statusCode).toBe(200);
+    expect(response.payload).toMatchObject({
+      mode: 'papalPreVaticanII'
+    });
   });
 
   it('routes vck gateway keys through the Vercel AI Gateway endpoint', async () => {

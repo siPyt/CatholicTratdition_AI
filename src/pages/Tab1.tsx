@@ -39,7 +39,7 @@ type SpeechRecognitionConstructor = new () => SpeechRecognition;
 const starterAssistantMessage: StoredChatMessage = {
   id: 'assistant-intro',
   role: 'assistant',
-  content: 'Choose a mode, ask your question by typing or voice, and I will answer in text. If voice replies are enabled, I can also read the answer aloud.'
+  content: 'Pick a source set, ask a question, and continue the thread here.'
 };
 
 const starterPrompts: Record<ChatMode, string[]> = {
@@ -57,11 +57,26 @@ const starterPrompts: Record<ChatMode, string[]> = {
     'Why do Catholics pray to saints?',
     'How would you explain confession to a Protestant friend?',
     'Why does the Catholic Church claim authority to teach?'
+  ],
+  dogmaticSources: [
+    'What do Ott and Denzinger put on grace?',
+    'How do Ott and Denzinger present justification?',
+    'What do Ott and Denzinger say about original sin and baptism?'
+  ],
+  papalPreVaticanII: [
+    'What did pre-Vatican II popes teach about the kingship of Christ?',
+    'How did Leo XIII and Pius XII speak about grace and society?',
+    'What did pre-Vatican II popes teach about Church authority?'
+  ],
+  papalAll: [
+    'How have papal documents explained grace across the centuries?',
+    'How have popes taught on faith and reason?',
+    'What themes stay consistent across papal teaching on the Church?'
   ]
 };
 
 function sanitizeMode(mode: string | null): ChatMode | null {
-  if (mode === 'fathers' || mode === 'proofs' || mode === 'apologetics') {
+  if (mode === 'fathers' || mode === 'proofs' || mode === 'apologetics' || mode === 'dogmaticSources' || mode === 'papalPreVaticanII' || mode === 'papalAll') {
     return mode;
   }
 
@@ -196,6 +211,7 @@ const Tab1: React.FC = () => {
   }, [history, location.search]);
 
   const selectedMode = getChatModeOption(mode);
+  const usesLocalCorpus = mode === 'fathers' || mode === 'proofs' || mode === 'apologetics';
 
   const loadRetrievalPreview = async (query: string) => {
     const trimmedQuery = query.trim();
@@ -259,7 +275,12 @@ const Tab1: React.FC = () => {
     setIsSubmitting(true);
 
     try {
-      await loadRetrievalPreview(trimmedPrompt);
+      if (usesLocalCorpus) {
+        await loadRetrievalPreview(trimmedPrompt);
+      } else {
+        setRetrievalQuery('');
+        setRetrievalResults([]);
+      }
 
       const response = await fetch('/api/chat', {
         method: 'POST',
@@ -333,6 +354,7 @@ const Tab1: React.FC = () => {
 
       const contentType = payload.contentType || 'audio/mpeg';
       const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
+      audio.volume = 1;
       audioRef.current = audio;
       audio.onended = () => {
         setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
@@ -385,11 +407,9 @@ const Tab1: React.FC = () => {
       <IonContent fullscreen className="vision-content">
         <div className="vision-shell">
           <section className="hero-card">
-            <p className="eyebrow">2,000 years of wisdom, one conversation</p>
-            <h1>Catholic Tradition AI</h1>
-            <p className="hero-copy">
-              Type or speak in one conversation view, receive a written answer, and optionally hear that answer spoken back in the same flow.
-            </p>
+            <p className="eyebrow">Source-selected chat</p>
+            <h1>{selectedMode.label}</h1>
+            <p className="hero-copy">{selectedMode.summary}</p>
             <div className="hero-actions" role="group" aria-label="Response modes">
               {chatModeOptions.map((option) => (
                 <IonButton
@@ -402,28 +422,23 @@ const Tab1: React.FC = () => {
                 </IonButton>
               ))}
             </div>
-            <div className="hero-chips" aria-label="Suggested domains">
-              <IonChip>tradition.ai</IonChip>
-              <IonChip>catholiclogic.ai</IonChip>
-              <IonChip>YieldToThomas()</IonChip>
-            </div>
           </section>
 
           <section className="chat-panel">
             <div className="chat-panel-header">
               <div>
-                <p className="section-label">Live conversation</p>
-                <h2>{selectedMode.label}</h2>
+                <p className="section-label">Chat</p>
+                <h2>Ask and continue</h2>
                 <p className="chat-panel-copy">{selectedMode.starterGuidance}</p>
               </div>
               <div className="chat-panel-controls">
                 <IonButton
                   fill={voiceRepliesEnabled ? 'solid' : 'outline'}
-                  size="small"
+                  className="voice-toggle-button"
                   onClick={() => setVoiceRepliesEnabled((currentValue) => !currentValue)}
                 >
                   <IonIcon slot="start" icon={volumeHighOutline} />
-                  {voiceRepliesEnabled ? 'Voice Replies On' : 'Voice Replies Off'}
+                  {voiceRepliesEnabled ? 'Speak Replies: On' : 'Speak Replies: Off'}
                 </IonButton>
                 <IonButton fill="clear" size="small" onClick={resetConversation}>
                   New Thread
@@ -439,16 +454,16 @@ const Tab1: React.FC = () => {
               ))}
             </div>
 
-            <section className="retrieval-panel" aria-live="polite">
+            {usesLocalCorpus ? <section className="retrieval-panel" aria-live="polite">
               <div className="retrieval-panel-header">
                 <div>
-                  <p className="section-label">Grounding preview</p>
-                  <h3>Canonical sources for this question</h3>
+                  <p className="section-label">Sources</p>
+                  <h3>Preview the indexed passages</h3>
                 </div>
                 <IonButton
                   fill="outline"
                   size="small"
-                  disabled={draft.trim().length === 0 || isRetrieving || isSubmitting}
+                  disabled={!usesLocalCorpus || draft.trim().length === 0 || isRetrieving || isSubmitting}
                   onClick={() => void loadRetrievalPreview(draft)}
                 >
                   {isRetrieving ? 'Loading Sources...' : 'Preview Sources'}
@@ -458,6 +473,10 @@ const Tab1: React.FC = () => {
               {retrievalQuery ? (
                 <p className="retrieval-panel-copy">
                   Query preview: <strong>{retrievalQuery}</strong>
+                </p>
+              ) : !usesLocalCorpus ? (
+                <p className="retrieval-panel-copy">
+                  This mode is constrained by prompt to Ott and Denzinger only. Source preview is off until a local approved corpus is added.
                 </p>
               ) : (
                 <p className="retrieval-panel-copy">
@@ -481,7 +500,7 @@ const Tab1: React.FC = () => {
               ) : retrievalQuery && !isRetrieving ? (
                 <p className="retrieval-empty">No indexed passages matched this exact prompt yet.</p>
               ) : null}
-            </section>
+            </section> : null}
 
             <div className="chat-thread" aria-live="polite">
               {messages.map((message) => (
@@ -490,13 +509,13 @@ const Tab1: React.FC = () => {
                     <span>{message.role === 'assistant' ? 'Catholic Tradition AI' : 'You'}</span>
                     {message.role === 'assistant' ? (
                       <IonButton
+                        className="speak-aloud-button"
                         fill="clear"
-                        size="small"
                         onClick={() => void playAudioForMessage(message)}
                         disabled={activeAudioMessageId === message.id}
                       >
                         <IonIcon slot="start" icon={volumeHighOutline} />
-                        {activeAudioMessageId === message.id ? 'Speaking...' : 'Read Aloud'}
+                        {activeAudioMessageId === message.id ? 'Speaking...' : 'Speak Aloud'}
                       </IonButton>
                     ) : null}
                   </div>
@@ -536,40 +555,20 @@ const Tab1: React.FC = () => {
                 <IonButton
                   type="button"
                   fill="clear"
-                  disabled={draft.trim().length === 0 || isRetrieving || isSubmitting}
+                  disabled={!usesLocalCorpus || draft.trim().length === 0 || isRetrieving || isSubmitting}
                   onClick={() => void loadRetrievalPreview(draft)}
                 >
-                  Preview Grounding
+                  Preview Sources
                 </IonButton>
               </div>
 
               {error ? <p className="chat-error">{error}</p> : null}
               <p className="chat-hint">
                 {listeningSupported
-                  ? 'Voice input uses your browser speech recognition when available. Typed and spoken questions stay in the same thread.'
-                  : 'Voice input depends on browser speech recognition. Typing is available everywhere.'}
+                  ? 'Voice input stays in the same thread as typed questions.'
+                  : 'Typing is always available.'}
               </p>
             </form>
-          </section>
-
-          <section className="content-grid">
-            <article className="info-panel">
-              <p className="section-label">What this does</p>
-              <h2>Three modes, one ongoing conversation.</h2>
-              <ul>
-                <li><strong>Ask a Father</strong> prioritizes patristic witness and early Christian tone.</li>
-                <li><strong>Logical Proofs</strong> serves users who want arguments, distinctions, and academic structure.</li>
-                <li><strong>Apologetic Answers</strong> explains Catholic teaching in a clear public-facing register.</li>
-              </ul>
-            </article>
-
-            <article className="tagline-panel">
-              <p className="section-label">Current session</p>
-              <blockquote>{selectedMode.summary}</blockquote>
-              <p>
-                The conversation persists in your browser, so you can move between tabs without losing the thread.
-              </p>
-            </article>
           </section>
         </div>
       </IonContent>

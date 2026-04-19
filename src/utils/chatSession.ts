@@ -15,7 +15,7 @@ export interface StoredChatSession {
 const CHAT_SESSION_KEY = 'catholic-tradition-ai/chat-session/v1';
 
 function isValidMode(value: unknown): value is ChatMode {
-  return value === 'fathers' || value === 'proofs' || value === 'apologetics';
+  return value === 'fathers' || value === 'proofs' || value === 'apologetics' || value === 'dogmaticSources' || value === 'papalPreVaticanII' || value === 'papalAll';
 }
 
 export function loadChatSession(): StoredChatSession | null {

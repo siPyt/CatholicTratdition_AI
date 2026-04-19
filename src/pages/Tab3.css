@@ -33,8 +33,7 @@
 }
 
 .pathways-hero,
-.pathway-card,
-.flow-panel {
+.pathway-card {
 	background: rgba(255, 251, 245, 0.92);
 	border: 1px solid rgba(96, 58, 28, 0.12);
 	border-radius: 28px;
@@ -59,14 +58,12 @@
 
 .pathways-hero p,
 .pathway-card p,
-.flow-panel li,
 .section-label {
 	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
 }
 
 .pathways-hero p,
-.pathway-card p,
-.flow-panel li {
+.pathway-card p {
 	color: #4e3828;
 	font-size: 1rem;
 	line-height: 1.7;
@@ -83,13 +80,15 @@
 
 .pathway-grid {
 	display: grid;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
+	grid-template-columns: repeat(2, minmax(0, 1fr));
 	gap: 18px;
 	margin-top: 20px;
 }
 
 .pathway-card {
 	padding: 24px;
+	display: flex;
+	flex-direction: column;
 }
 
 .pathway-card h2 {
@@ -101,8 +100,19 @@
 	--background: #7f4f28;
 	--background-hover: #6d4321;
 	--border-radius: 18px;
+	--min-height: 50px;
+	--padding-start: 18px;
+	--padding-end: 18px;
 	margin-top: 16px;
+	font-size: 0.98rem;
 	font-weight: 700;
+}
+
+.pathway-actions {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 12px;
+	margin-top: auto;
 }
 
 .pathway-example {
@@ -110,40 +120,11 @@
 	border-top: 1px solid rgba(96, 58, 28, 0.12);
 	color: #6a4b30;
 	font-size: 0.95rem;
-}
-
-.flow-panel {
-	margin-top: 20px;
-	padding: 28px;
-}
-
-.launch-grid {
-	display: grid;
-	grid-template-columns: repeat(3, minmax(0, 1fr));
-	gap: 16px;
-	margin-top: 16px;
-}
-
-.launch-grid h3 {
-	margin: 0;
-	color: #2d190e;
-	font-family: "Cormorant Garamond", "Baskerville", serif;
-	font-size: 1.65rem;
-}
-
-.launch-grid p {
-	color: #4e3828;
-	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
-	font-size: 1rem;
-	line-height: 1.7;
+	margin-top: auto;
 }
 
 @media (max-width: 900px) {
 	.pathway-grid {
-		grid-template-columns: 1fr;
-	}
-
-	.launch-grid {
 		grid-template-columns: 1fr;
 	}
 }
@@ -169,8 +150,21 @@
 	}
 
 	.pathways-hero,
-	.pathway-card,
-	.flow-panel {
+	.pathway-card {
 		border-radius: 22px;
+	}
+
+	.pathway-card {
+		padding: 22px;
+	}
+
+	.pathway-card ion-button {
+		width: 100%;
+		--min-height: 56px;
+		font-size: 1rem;
+	}
+
+	.pathway-actions {
+		grid-template-columns: 1fr;
 	}
 }

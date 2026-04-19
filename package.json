@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "bootstrap:work-index": "node scripts/bootstrap-work-index.mjs",
     "ingest:corpus": "node scripts/ingest-approved-sources.mjs",
     "test.e2e": "cypress run",
     "test.unit": "vitest",

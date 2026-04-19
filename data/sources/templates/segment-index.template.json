@@ -1,0 +1,12 @@
+{
+  "segments": [
+    {
+      "id": "your-work-book-1-chapter-1",
+      "location": "Book 1, Chapter 1",
+      "modeTags": ["fathers", "apologetics"],
+      "summary": "A concise reviewed summary of this passage.",
+      "keywords": ["keyword-1", "keyword-2"],
+      "filePath": "data/raw/your-work/book-1-chapter-1.txt"
+    }
+  ]
+}

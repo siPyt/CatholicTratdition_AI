@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "id": "your-work-id",
+      "author": "Author Name",
+      "work": "Work Title",
+      "tier": "patristics",
+      "provenance": {
+        "sourceLabel": "Approved public-domain or licensed export"
+      },
+      "rights": {
+        "status": "public-domain",
+        "notes": "Document why this text may be stored and indexed."
+      },
+      "segmentIndexFile": "data/sources/indexes/your-work-index.json"
+    }
+  ]
+}

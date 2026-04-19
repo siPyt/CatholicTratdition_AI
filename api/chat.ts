@@ -76,7 +76,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
     const upstreamConfig = resolveChatUpstream(apiKey, body?.model);
 
     const temperature = typeof body?.temperature === 'number' ? body.temperature : 0.2;
-    const retrievalContext = latestUserMessage
+    const retrievalContext = latestUserMessage && (mode === 'fathers' || mode === 'proofs' || mode === 'apologetics')
       ? buildRetrievalContext(latestUserMessage.content, mode, 3)
       : '';
     const systemPrompt = retrievalContext

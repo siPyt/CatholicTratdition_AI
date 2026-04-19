@@ -26,6 +26,8 @@ Do not ingest a source into the committed corpus unless one of these is true:
 
 Do not ingest sources marked `restricted` in the manifest. If you discover a text through a website such as New Advent, treat that host as discovery or provenance unless and until you have confirmed reuse rights for the underlying edition and translation.
 
+This repo is intentionally set up for approved exports and reviewed corpus files. It is not set up to mirror a third-party website wholesale.
+
 ## Corpus Scaffold
 
 The committed scaffold consists of:
@@ -48,7 +50,7 @@ Each manifest segment defines:
 
 ## Ingestion Command
 
-Run this after editing the manifest or the raw seed files:
+Run this after editing the manifests or the raw approved text files:
 
 ```bash
 npm run ingest:corpus
@@ -58,6 +60,29 @@ That command regenerates:
 
 - [data/corpus/library.json](data/corpus/library.json)
 - [api/\_lib/generatedCorpus.ts](api/_lib/generatedCorpus.ts)
+
+The ingestion script now scans all JSON manifests under [data/sources](data/sources), excluding templates, so the corpus can be split across many per-work manifest files instead of one monolithic file.
+
+## Bulk Corpus Workflow
+
+For large approved corpora such as the Fathers or the Summa, use one manifest per work and one segment index per work.
+
+- Work manifest template: [data/sources/templates/work-manifest.template.json](data/sources/templates/work-manifest.template.json)
+- Segment index template: [data/sources/templates/segment-index.template.json](data/sources/templates/segment-index.template.json)
+
+Recommended structure:
+
+- `data/sources/fathers/*.json` for per-work manifests
+- `data/sources/indexes/*.json` for segment indexes
+- `data/raw/<work>/*.txt` for approved text files
+
+If you already have a directory full of approved `.txt` files for one work, you can bootstrap a segment index skeleton with:
+
+```bash
+npm run bootstrap:work-index -- --inputDir data/raw/your-work --output data/sources/indexes/your-work-index.json --modeTags fathers,apologetics --idPrefix your-work-
+```
+
+That creates a starter index from filenames. You still need to review and fill in the canonical locations, summaries, and keywords before ingestion.
 
 ## Retrieval API
 

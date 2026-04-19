@@ -58,21 +58,21 @@ const App: React.FC = () => (
             <Tab3 />
           </Route>
           <Route exact path="/">
-            <Redirect to="/tab1" />
+            <Redirect to="/tab3" />
           </Route>
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
+          <IonTabButton tab="tab3" href="/tab3">
+            <IonIcon aria-hidden="true" icon={compassOutline} />
+            <IonLabel>Chats</IonLabel>
+          </IonTabButton>
           <IonTabButton tab="tab1" href="/tab1">
             <IonIcon aria-hidden="true" icon={sparklesOutline} />
             <IonLabel>Chat</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab2" href="/tab2">
             <IonIcon aria-hidden="true" icon={libraryOutline} />
-            <IonLabel>Method</IonLabel>
-          </IonTabButton>
-          <IonTabButton tab="tab3" href="/tab3">
-            <IonIcon aria-hidden="true" icon={compassOutline} />
-            <IonLabel>Launch</IonLabel>
+            <IonLabel>Sources</IonLabel>
           </IonTabButton>
         </IonTabBar>
       </IonTabs>

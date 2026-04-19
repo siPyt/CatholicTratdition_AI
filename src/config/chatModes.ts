@@ -33,6 +33,30 @@ export const chatModeOptions: ChatModeOption[] = [
     summary: 'Answer in a clear public-facing style for non-Catholics, skeptics, and first-time inquirers.',
     starterGuidance: 'Explain the answer clearly for someone outside the Catholic tradition.',
     featuredPrompt: 'How would you explain Marian devotion to a Protestant friend without using insider jargon?'
+  },
+  {
+    mode: 'dogmaticSources',
+    label: 'Handbook of Dogmatic Sources',
+    promptHint: 'What do Ott and Denzinger put on grace?',
+    summary: 'Constrain the answer to Ott and Denzinger without citing either work in the reply.',
+    starterGuidance: 'This mode stays within Ott and Denzinger. It gives a summary answer without formal citations and says when a point is uncertain.',
+    featuredPrompt: 'What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?'
+  },
+  {
+    mode: 'papalPreVaticanII',
+    label: 'Papal Documents: Pre-Vatican II',
+    promptHint: 'What did pre-Vatican II popes teach about the social kingship of Christ?',
+    summary: 'Constrain the answer to pre-Vatican II papal documents represented in the Vatican English archive.',
+    starterGuidance: 'This mode stays with pre-Vatican II popes and answers from papal teaching rather than general commentary.',
+    featuredPrompt: 'What did pre-Vatican II popes teach about grace, society, and the kingship of Christ?'
+  },
+  {
+    mode: 'papalAll',
+    label: 'Papal Documents: All Popes',
+    promptHint: 'How have papal documents explained faith and reason across the centuries?',
+    summary: 'Constrain the answer to papal documents across the Vatican English archive.',
+    starterGuidance: 'This mode answers from papal documents across the archive, including both pre- and post-Vatican II teaching.',
+    featuredPrompt: 'How have papal documents explained grace, the Church, and salvation across the centuries?'
   }
 ];
 

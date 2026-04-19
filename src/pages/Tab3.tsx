@@ -1,5 +1,4 @@
 import { IonButton, IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import { chatModeOptions } from '../config/chatModes';
 import './Tab3.css';
 
 const Tab3: React.FC = () => {
@@ -7,52 +6,66 @@ const Tab3: React.FC = () => {
     <IonPage className="pathways-page">
       <IonHeader translucent>
         <IonToolbar>
-          <IonTitle>Launch</IonTitle>
+          <IonTitle>Chats</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen className="pathways-content">
         <div className="pathways-shell">
           <section className="pathways-hero">
-            <p className="section-label">Start from here</p>
-            <h1>Launch straight into the mode and question style that matches the user in front of you.</h1>
-            <p>
-              These cards are no longer just labels. Each one can send the user back into Chat with the right mode selected and
-              a starter question loaded for immediate use.
-            </p>
+            <p className="section-label">Choose a chat</p>
+            <h1>Open the source set you want, then ask the question in chat.</h1>
+            <p>Each card opens the same clean chat window with a different authority profile behind it.</p>
           </section>
 
           <section className="pathway-grid">
-            {chatModeOptions.map((option) => (
-              <article key={option.mode} className="pathway-card">
-                <h2>{option.label}</h2>
-                <p>{option.summary}</p>
-                <p className="pathway-example">Starter question: {option.featuredPrompt}</p>
-                <IonButton
-                  routerLink={`/tab1?mode=${option.mode}&prompt=${encodeURIComponent(option.featuredPrompt)}`}
-                  expand="block"
-                >
-                  Open In Chat
-                </IonButton>
-              </article>
-            ))}
-          </section>
+            <article className="pathway-card">
+              <h2>Logical Proofs</h2>
+              <p>Open a scholastic chat centered on argument, distinctions, and indexed source support.</p>
+              <p className="pathway-example">Starter question: Give me a Thomistic argument for the existence of God and explain each step.</p>
+              <IonButton routerLink={`/tab1?mode=proofs&prompt=${encodeURIComponent('Give me a Thomistic argument for the existence of God and explain each step.')}`} expand="block">
+                Open Chat
+              </IonButton>
+            </article>
 
-          <section className="flow-panel">
-            <p className="section-label">What happens next</p>
-            <div className="launch-grid">
-              <article>
-                <h3>1. Choose the mode</h3>
-                <p>Pick the tone and explanatory depth before the first message is even sent.</p>
-              </article>
-              <article>
-                <h3>2. Land in chat</h3>
-                <p>The app opens the main conversation screen with the right mode and a starter question ready to refine or send.</p>
-              </article>
-              <article>
-                <h3>3. Continue the thread</h3>
-                <p>The conversation persists locally, so the user can keep exploring without losing context between tabs.</p>
-              </article>
-            </div>
+            <article className="pathway-card">
+              <h2>Ask a Father</h2>
+              <p>Open a patristic chat focused on the voice and witness of the early Church.</p>
+              <p className="pathway-example">Starter question: How did the early Church Fathers speak about the Eucharist as the real presence of Christ?</p>
+              <IonButton routerLink={`/tab1?mode=fathers&prompt=${encodeURIComponent('How did the early Church Fathers speak about the Eucharist as the real presence of Christ?')}`} expand="block">
+                Open Chat
+              </IonButton>
+            </article>
+
+            <article className="pathway-card">
+              <h2>Apologetic Answers</h2>
+              <p>Open a public-facing Catholic chat for clear explanations without heavy jargon.</p>
+              <p className="pathway-example">Starter question: How would you explain Marian devotion to a Protestant friend without using insider jargon?</p>
+              <IonButton routerLink={`/tab1?mode=apologetics&prompt=${encodeURIComponent('How would you explain Marian devotion to a Protestant friend without using insider jargon?')}`} expand="block">
+                Open Chat
+              </IonButton>
+            </article>
+
+            <article className="pathway-card">
+              <h2>Papal Documents</h2>
+              <p>Choose whether the chat should stay with pre-Vatican II popes or span the full papal archive.</p>
+              <div className="pathway-actions">
+                <IonButton routerLink={`/tab1?mode=papalPreVaticanII&prompt=${encodeURIComponent('What did pre-Vatican II popes teach about the kingship of Christ?')}`} expand="block">
+                  Pre-Vatican II
+                </IonButton>
+                <IonButton routerLink={`/tab1?mode=papalAll&prompt=${encodeURIComponent('How have papal documents explained grace across the centuries?')}`} expand="block" fill="outline">
+                  All Popes
+                </IonButton>
+              </div>
+            </article>
+
+            <article className="pathway-card">
+              <h2>Handbook of Dogmatic Sources</h2>
+              <p>Open the chat constrained to Ott and Denzinger, with concise answers and no formal citations in the reply.</p>
+              <p className="pathway-example">Starter question: What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?</p>
+              <IonButton routerLink={`/tab1?mode=dogmaticSources&prompt=${encodeURIComponent('What do Ott and Denzinger put on sanctifying grace, actual grace, and justification?')}`} expand="block">
+                Open Chat
+              </IonButton>
+            </article>
           </section>
         </div>
       </IonContent>
