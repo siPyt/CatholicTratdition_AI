@@ -64,7 +64,7 @@ const App: React.FC = () => (
         <IonTabBar slot="bottom">
           <IonTabButton tab="tab1" href="/tab1">
             <IonIcon aria-hidden="true" icon={sparklesOutline} />
-            <IonLabel>Vision</IonLabel>
+            <IonLabel>Chat</IonLabel>
           </IonTabButton>
           <IonTabButton tab="tab2" href="/tab2">
             <IonIcon aria-hidden="true" icon={libraryOutline} />

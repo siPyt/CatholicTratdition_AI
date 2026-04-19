@@ -9,6 +9,7 @@
 }
 
 .hero-card,
+.chat-panel,
 .info-panel,
 .tagline-panel {
 	backdrop-filter: blur(18px);
@@ -20,6 +21,11 @@
 
 .hero-card {
 	padding: 32px;
+}
+
+.chat-panel {
+	margin-top: 20px;
+	padding: 28px;
 }
 
 .eyebrow,
@@ -34,6 +40,7 @@
 }
 
 .hero-card h1,
+.chat-panel h2,
 .info-panel h2,
 .tagline-panel h2 {
 	margin: 0;
@@ -44,7 +51,15 @@
 	line-height: 0.95;
 }
 
+.chat-panel h2,
+.info-panel h2,
+.tagline-panel h2 {
+	font-size: clamp(2rem, 4vw, 3rem);
+	line-height: 1.02;
+}
+
 .hero-copy,
+.chat-panel-copy,
 .info-panel p,
 .tagline-panel p,
 .info-panel li {
@@ -52,6 +67,10 @@
 	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
 	font-size: 1.02rem;
 	line-height: 1.7;
+}
+
+.chat-panel-copy {
+	margin: 8px 0 0;
 }
 
 .hero-copy {
@@ -72,18 +91,14 @@
 	font-weight: 700;
 }
 
-.hero-actions ion-button:first-child {
+.hero-actions ion-button[fill='solid'] {
 	--background: #7f4f28;
 	--background-hover: #6d4321;
 	--color: #fff9f0;
 }
 
-.hero-actions ion-button:nth-child(2) {
+.hero-actions ion-button[fill='outline'] {
 	--border-color: #7f4f28;
-	--color: #7f4f28;
-}
-
-.hero-actions ion-button:last-child {
 	--color: #7f4f28;
 }
 
@@ -100,6 +115,158 @@
 	font-weight: 700;
 }
 
+.chat-panel-header {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 16px;
+}
+
+.chat-panel-header ion-button {
+	--border-radius: 999px;
+	flex-shrink: 0;
+}
+
+.chat-thread {
+	display: flex;
+	flex-direction: column;
+	gap: 14px;
+	max-height: 520px;
+	margin-top: 22px;
+	padding: 6px 4px 6px 0;
+	overflow-y: auto;
+}
+
+.chat-bubble {
+	padding: 18px 18px 16px;
+	border-radius: 22px;
+	box-shadow: 0 12px 28px rgba(69, 37, 18, 0.08);
+}
+
+.chat-bubble-assistant {
+	background: rgba(255, 249, 239, 0.92);
+	border: 1px solid rgba(92, 52, 26, 0.12);
+}
+
+.chat-bubble-user {
+	align-self: flex-end;
+	background: linear-gradient(135deg, #7f4f28, #a46b3c);
+	max-width: 85%;
+}
+
+.chat-bubble-meta {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	margin-bottom: 8px;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 800;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+}
+
+.chat-bubble-assistant .chat-bubble-meta {
+	color: #7c5736;
+}
+
+.chat-bubble-user .chat-bubble-meta {
+	color: rgba(255, 249, 240, 0.82);
+}
+
+.chat-bubble-meta ion-button {
+	--color: #7f4f28;
+	font-size: 0.76rem;
+	font-weight: 700;
+	text-transform: none;
+}
+
+.chat-bubble p {
+	margin: 0;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1rem;
+	line-height: 1.7;
+	white-space: pre-wrap;
+}
+
+.chat-bubble-assistant p {
+	color: #4c3421;
+}
+
+.chat-bubble-user p {
+	color: #fff9f0;
+}
+
+.chat-composer {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	margin-top: 22px;
+	padding-top: 20px;
+	border-top: 1px solid rgba(92, 52, 26, 0.12);
+}
+
+.chat-label,
+.chat-hint,
+.chat-error {
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+}
+
+.chat-label {
+	color: #523723;
+	font-size: 0.92rem;
+	font-weight: 700;
+}
+
+.chat-input {
+	width: 100%;
+	padding: 16px 18px;
+	border: 1px solid rgba(92, 52, 26, 0.14);
+	border-radius: 20px;
+	background: rgba(255, 253, 248, 0.9);
+	color: #2b190d;
+	font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+	font-size: 1rem;
+	line-height: 1.6;
+	resize: vertical;
+}
+
+.chat-input:focus {
+	outline: 2px solid rgba(127, 79, 40, 0.2);
+	border-color: #7f4f28;
+}
+
+.chat-actions-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+}
+
+.chat-actions-row ion-button {
+	--border-radius: 999px;
+	font-weight: 700;
+}
+
+.chat-actions-row ion-button[fill='outline'] {
+	--border-color: #7f4f28;
+	--color: #7f4f28;
+}
+
+.chat-error {
+	margin: 0;
+	color: #9b2c2c;
+	font-size: 0.95rem;
+	font-weight: 600;
+}
+
+.chat-hint {
+	margin: 0;
+	color: #7a5a3f;
+	font-size: 0.92rem;
+	line-height: 1.6;
+}
+
 .content-grid {
 	display: grid;
 	grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -110,12 +277,6 @@
 .info-panel,
 .tagline-panel {
 	padding: 28px;
-}
-
-.info-panel h2,
-.tagline-panel h2 {
-	font-size: clamp(2rem, 4vw, 3rem);
-	line-height: 1.02;
 }
 
 .info-panel ul {
@@ -139,9 +300,18 @@
 	}
 
 	.hero-card,
+	.chat-panel,
 	.info-panel,
 	.tagline-panel {
 		border-radius: 22px;
+	}
+
+	.chat-panel-header {
+		flex-direction: column;
+	}
+
+	.chat-bubble-user {
+		max-width: 100%;
 	}
 
 	.content-grid {
