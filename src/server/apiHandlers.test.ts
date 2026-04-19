@@ -177,6 +177,7 @@ describe('server handlers', () => {
     expect(upstreamPayload.messages[0].content).toContain('Sources of Catholic Dogma');
     expect(upstreamPayload.messages[0].content).toContain('De Fide');
     expect(upstreamPayload.messages[0].content).toContain('Sententia Probabilis');
+    expect(upstreamPayload.messages[0].content).toContain('say this mode is limited to Ott and Denzinger');
     expect(upstreamPayload.messages[0].content).toContain('Do not cite Ott, Denzinger, document numbers, or any other works in the final answer');
     expect(upstreamPayload.messages[0].content).not.toContain('Retrieved canonical source context');
     expect(response.statusCode).toBe(200);

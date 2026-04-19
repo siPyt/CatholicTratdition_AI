@@ -1,5 +1,7 @@
 .pathways-content {
 	--background:
+		radial-gradient(circle at top, rgba(255, 252, 247, 0.72), rgba(255, 252, 247, 0) 34%),
+		url('/art/chi-rho.svg') center top / 190px auto repeat-x,
 		radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
 		linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
 }
@@ -13,18 +15,28 @@
 	padding: 104px 20px 120px;
 }
 
-.pathways-shell::before {
+.pathways-shell::before,
+.pathways-shell::after {
 	content: "";
 	position: absolute;
-	top: 30px;
-	left: -20px;
+	top: 24px;
 	bottom: 40px;
-	width: min(44vw, 560px);
-	background: url('/art/fathers.svg') left top / contain no-repeat;
-	opacity: 0.36;
-	filter: sepia(0.28) saturate(0.94);
+	width: min(24vw, 240px);
+	background: url('/art/chi-rho.svg') center top / contain no-repeat;
+	opacity: 0.16;
+	filter: sepia(0.3) saturate(0.82);
 	pointer-events: none;
 	z-index: 0;
+}
+
+.pathways-shell::before {
+	left: -24px;
+	transform: rotate(-8deg);
+}
+
+.pathways-shell::after {
+	right: -24px;
+	transform: rotate(8deg);
 }
 
 .pathways-shell > * {
@@ -42,28 +54,36 @@
 
 .pathways-hero {
 	padding: 30px;
+	text-align: center;
 }
 
 .brand-masthead {
-	margin: 0 0 14px;
+	margin: 0;
 	color: #2b1408;
 	font-family: "UnifrakturCook", "Old English Text MT", "Goudy Text MT", serif;
-	font-size: clamp(2.9rem, 8vw, 5.8rem);
-	line-height: 0.98;
-	letter-spacing: 0.02em;
-	text-shadow: 0 1px 0 rgba(255, 247, 236, 0.72);
+	font-size: clamp(4rem, 9vw, 7.2rem);
+	line-height: 0.9;
+	letter-spacing: 0.03em;
+	text-shadow: 0 1px 0 rgba(255, 247, 236, 0.72), 0 18px 38px rgba(60, 28, 10, 0.1);
 }
 
-.pathways-hero h1,
 .pathway-card h2 {
 	margin: 0;
 	color: #29190f;
 	font-family: "Cormorant Garamond", "Baskerville", serif;
 }
 
-.pathways-hero h1 {
-	font-size: clamp(2.8rem, 6vw, 4.4rem);
-	line-height: 0.97;
+.hero-instruction,
+.pathway-card h2 {
+	color: #29190f;
+	font-family: "Cormorant Garamond", "Baskerville", serif;
+}
+
+.hero-instruction {
+	max-width: 860px;
+	margin: 18px auto 0;
+	font-size: clamp(2.2rem, 5vw, 3.7rem);
+	line-height: 1.02;
 }
 
 .pathways-hero p,
@@ -77,6 +97,11 @@
 	color: #4e3828;
 	font-size: 1rem;
 	line-height: 1.7;
+}
+
+.pathways-hero > p:last-child {
+	max-width: 760px;
+	margin: 18px auto 0;
 }
 
 .section-label {
@@ -146,17 +171,27 @@
 
 	.pathways-content {
 		--background:
+			radial-gradient(circle at top, rgba(255, 252, 247, 0.72), rgba(255, 252, 247, 0) 34%),
+			url('/art/chi-rho.svg') center top / 128px auto repeat-x,
 			radial-gradient(circle at 20% 0%, rgba(168, 117, 63, 0.18), transparent 32%),
 			linear-gradient(180deg, #fcf6eb 0%, #f2e7d5 100%);
 	}
 
-	.pathways-shell::before {
+	.pathways-shell::before,
+	.pathways-shell::after {
 		top: 18px;
-		left: -22px;
 		bottom: auto;
-		width: 76vw;
+		width: 34vw;
 		height: 320px;
-		opacity: 0.3;
+		opacity: 0.15;
+	}
+
+	.pathways-shell::before {
+		left: -12px;
+	}
+
+	.pathways-shell::after {
+		right: -12px;
 	}
 
 	.pathways-hero,
@@ -165,7 +200,11 @@
 	}
 
 	.brand-masthead {
-		font-size: clamp(2.5rem, 12vw, 4.4rem);
+		font-size: clamp(3rem, 14vw, 4.8rem);
+	}
+
+	.hero-instruction {
+		font-size: clamp(1.9rem, 8vw, 3rem);
 	}
 
 	.pathway-card {

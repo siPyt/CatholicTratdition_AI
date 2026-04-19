@@ -1,5 +1,5 @@
 import { IonButton, IonChip, IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import { micOutline, sendOutline, volumeHighOutline } from 'ionicons/icons';
+import { copyOutline, micOutline, sendOutline, volumeHighOutline } from 'ionicons/icons';
 import { FormEvent, useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { chatModeOptions, getChatModeOption } from '../config/chatModes';
@@ -135,9 +135,25 @@ const Tab1: React.FC = () => {
   const [listeningSupported, setListeningSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [activeAudioMessageId, setActiveAudioMessageId] = useState<string | null>(null);
+  const [copiedItemId, setCopiedItemId] = useState<string | null>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const audioRequestIdRef = useRef(0);
+  const copyFeedbackTimeoutRef = useRef<number | null>(null);
+
+  const clearConversationState = (nextDraft = '') => {
+    setMessages([starterAssistantMessage]);
+    setDraft(nextDraft);
+    setError('');
+    setRetrievalQuery('');
+    setRetrievalResults([]);
+    stopAudioPlayback();
+  };
+
+  const switchMode = (nextMode: ChatMode, nextDraft = '') => {
+    setMode(nextMode);
+    clearConversationState(nextDraft);
+  };
 
   const stopAudioPlayback = () => {
     audioRequestIdRef.current += 1;
@@ -189,8 +205,51 @@ const Tab1: React.FC = () => {
       recognition.stop();
       recognitionRef.current = null;
       stopAudioPlayback();
+      if (copyFeedbackTimeoutRef.current) {
+        window.clearTimeout(copyFeedbackTimeoutRef.current);
+      }
     };
   }, []);
+
+  const showCopyFeedback = (itemId: string) => {
+    setCopiedItemId(itemId);
+
+    if (copyFeedbackTimeoutRef.current) {
+      window.clearTimeout(copyFeedbackTimeoutRef.current);
+    }
+
+    copyFeedbackTimeoutRef.current = window.setTimeout(() => {
+      setCopiedItemId((currentValue) => (currentValue === itemId ? null : currentValue));
+      copyFeedbackTimeoutRef.current = null;
+    }, 1800);
+  };
+
+  const fallbackCopyText = (text: string) => {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.setAttribute('readonly', 'true');
+    textArea.style.position = 'absolute';
+    textArea.style.left = '-9999px';
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textArea);
+  };
+
+  const copyText = async (text: string, itemId: string) => {
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+      } else {
+        fallbackCopyText(text);
+      }
+
+      setError('');
+      showCopyFeedback(itemId);
+    } catch {
+      setError('Copy failed. Select the text manually and copy it from the browser.');
+    }
+  };
 
   useEffect(() => {
     saveChatSession({
@@ -210,10 +269,8 @@ const Tab1: React.FC = () => {
     }
 
     if (requestedMode) {
-      setMode(requestedMode);
-    }
-
-    if (requestedPrompt) {
+      switchMode(requestedMode, requestedPrompt ?? '');
+    } else if (requestedPrompt) {
       setDraft(requestedPrompt);
     }
 
@@ -342,14 +399,13 @@ const Tab1: React.FC = () => {
       return;
     }
 
-    if (activeAudioMessageId === message.id) {
+    if (activeAudioMessageId === message.id && audioRef.current) {
       stopAudioPlayback();
       return;
     }
 
     stopAudioPlayback();
     setError('');
-    setActiveAudioMessageId(message.id);
     const playbackRequestId = audioRequestIdRef.current;
 
     try {
@@ -374,12 +430,18 @@ const Tab1: React.FC = () => {
       const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
       audio.volume = 1;
       audioRef.current = audio;
-      audio.onended = () => {
-        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+      setActiveAudioMessageId(message.id);
+
+      const clearPlaybackState = () => {
         if (audioRef.current === audio) {
           audioRef.current = null;
         }
+        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
       };
+
+      audio.onended = clearPlaybackState;
+      audio.onpause = clearPlaybackState;
+      audio.onerror = clearPlaybackState;
       await audio.play();
     } catch (caughtError) {
       const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
@@ -406,12 +468,7 @@ const Tab1: React.FC = () => {
   };
 
   const resetConversation = () => {
-    setMessages([starterAssistantMessage]);
-    setDraft('');
-    setError('');
-    setRetrievalQuery('');
-    setRetrievalResults([]);
-    stopAudioPlayback();
+    clearConversationState();
   };
 
   return (
@@ -433,7 +490,7 @@ const Tab1: React.FC = () => {
                   key={option.mode}
                   size="default"
                   fill={mode === option.mode ? 'solid' : 'outline'}
-                  onClick={() => setMode(option.mode)}
+                  onClick={() => switchMode(option.mode)}
                 >
                   {option.label}
                 </IonButton>
@@ -507,7 +564,17 @@ const Tab1: React.FC = () => {
                     <article key={result.id} className="retrieval-card">
                       <div className="retrieval-card-meta">
                         <span>{result.citation}</span>
-                        <IonChip>Score {result.score}</IonChip>
+                        <div className="retrieval-card-actions">
+                          <IonChip>Score {result.score}</IonChip>
+                          <IonButton
+                            fill="clear"
+                            size="small"
+                            onClick={() => void copyText(`${result.citation}\n\n${result.summary}\n\n${result.text}`, `retrieval-${result.id}`)}
+                          >
+                            <IonIcon slot="start" icon={copyOutline} />
+                            {copiedItemId === `retrieval-${result.id}` ? 'Copied' : 'Copy'}
+                          </IonButton>
+                        </div>
                       </div>
                       <p className="retrieval-summary">{result.summary}</p>
                       <p className="retrieval-text">{result.text}</p>
@@ -524,16 +591,26 @@ const Tab1: React.FC = () => {
                 <article key={message.id} className={`chat-bubble chat-bubble-${message.role}`}>
                   <div className="chat-bubble-meta">
                     <span>{message.role === 'assistant' ? 'Catholic Tradition AI' : 'You'}</span>
-                    {message.role === 'assistant' ? (
+                    <div className="chat-bubble-actions">
                       <IonButton
-                        className="speak-aloud-button"
+                        className="copy-text-button"
                         fill="clear"
-                        onClick={() => void playAudioForMessage(message)}
+                        onClick={() => void copyText(message.content, message.id)}
                       >
-                        <IonIcon slot="start" icon={volumeHighOutline} />
-                        {activeAudioMessageId === message.id ? 'Stop Audio' : 'Speak Aloud'}
+                        <IonIcon slot="start" icon={copyOutline} />
+                        {copiedItemId === message.id ? 'Copied' : 'Copy'}
                       </IonButton>
-                    ) : null}
+                      {message.role === 'assistant' ? (
+                        <IonButton
+                          className="speak-aloud-button"
+                          fill="clear"
+                          onClick={() => void playAudioForMessage(message)}
+                        >
+                          <IonIcon slot="start" icon={volumeHighOutline} />
+                          {activeAudioMessageId === message.id ? 'Stop Audio' : 'Speak Aloud'}
+                        </IonButton>
+                      ) : null}
+                    </div>
                   </div>
                   <p>{message.content}</p>
                 </article>

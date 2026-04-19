@@ -267,10 +267,25 @@
 	text-transform: uppercase;
 }
 
+.retrieval-card-actions {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: 8px;
+	flex-wrap: wrap;
+}
+
 .retrieval-card-meta ion-chip {
 	--background: rgba(127, 79, 40, 0.1);
 	--color: #6b431f;
 	font-weight: 700;
+}
+
+.retrieval-card-meta ion-button {
+	--color: #7f4f28;
+	font-size: 0.76rem;
+	font-weight: 700;
+	text-transform: none;
 }
 
 .retrieval-summary {
@@ -329,6 +344,14 @@
 	text-transform: uppercase;
 }
 
+.chat-bubble-actions {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: 8px;
+	flex-wrap: wrap;
+}
+
 .chat-bubble-assistant .chat-bubble-meta {
 	color: #7c5736;
 }
@@ -342,6 +365,24 @@
 	font-size: 0.76rem;
 	font-weight: 700;
 	text-transform: none;
+}
+
+.copy-text-button {
+	--background: rgba(127, 79, 40, 0.08);
+	--background-hover: rgba(127, 79, 40, 0.14);
+	--color: #6d4321;
+	--border-radius: 999px;
+	--min-height: 44px;
+	--padding-start: 14px;
+	--padding-end: 14px;
+	border: 1px solid rgba(127, 79, 40, 0.14);
+	font-size: 0.9rem;
+	font-weight: 800;
+	letter-spacing: 0.01em;
+}
+
+.copy-text-button ion-icon {
+	font-size: 1rem;
 }
 
 .speak-aloud-button {
@@ -517,6 +558,12 @@
 
 	.chat-bubble-user {
 		max-width: 100%;
+	}
+
+	.chat-bubble-actions,
+	.retrieval-card-actions {
+		width: 100%;
+		justify-content: flex-start;
 	}
 
 	.chat-bubble-meta {
