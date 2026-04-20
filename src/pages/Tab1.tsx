@@ -1,4 +1,4 @@
-import { IonButton, IonChip, IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { IonButton, IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { copyOutline, micOutline, sendOutline, volumeHighOutline } from 'ionicons/icons';
 import { FormEvent, useCallback, useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
@@ -12,24 +12,10 @@ interface ChatResponse {
   error?: string;
 }
 
-interface RetrievalResult {
-  id: string;
-  citation: string;
-  summary: string;
-  text: string;
-  score: number;
-}
-
-interface RetrievalResponse {
-  results?: RetrievalResult[];
-  count?: number;
-  error?: string;
-  details?: unknown;
-}
-
 interface TtsResponse {
   audioBase64?: string;
   contentType?: string;
+  truncated?: boolean;
   error?: string;
   details?: unknown;
 }
@@ -37,6 +23,7 @@ interface TtsResponse {
 type SpeechRecognitionConstructor = new () => SpeechRecognition;
 
 const silentAudioDataUri = 'data:audio/mp3;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU4LjI5LjEwMAAAAAAAAAAAAAAA//tQxAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAAFAAAGbAAODg4ODhQUFBQUHBwcHBwiIiIiIigoKCgoLi4uLi40NDQ0NDs7Ozs7QUFBQUFHR0dHR05OTk5OVFRUVFRaWlpaWmBgYGBgZ2dnZ2dtbW1tbXNzc3NzeXl5eXmAgICAgIaGhoaGjIyMjIySkpKSkpmZmZmZn5+fn5+lpZWVlZWrq6urq7GxsbGxt7e3t7e9vb29vcPDw8PDycnJycnPz8/Pz9bW1tbW3Nzc3Nzi4uLi4ujq6urq7vLy8vL8/Pz8/P////////////8AAAAATGF2YzU4LjU0AAAAAAAAAAAAAAAAJAV8AAAAAAAABmw1JINLAAAAAAAAAAAAAAAAAAAA//tQxAADwAABpAAAACAAADSAAAAEtNKKqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/+xDEAAPAAAGkAAAAIAAANIAAAAQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0ND';
+const browserVoiceSupportDetected = typeof window !== 'undefined' && 'speechSynthesis' in window;
 
 const starterAssistantMessage: StoredChatMessage = {
   id: 'assistant-intro',
@@ -97,10 +84,7 @@ const Tab1: React.FC = () => {
   const [messages, setMessages] = useState<StoredChatMessage[]>(storedSession?.messages.length ? storedSession.messages : [starterAssistantMessage]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState('');
-  const [retrievalResults, setRetrievalResults] = useState<RetrievalResult[]>([]);
-  const [retrievalQuery, setRetrievalQuery] = useState('');
-  const [isRetrieving, setIsRetrieving] = useState(false);
-  const [voiceRepliesEnabled, setVoiceRepliesEnabled] = useState(storedSession?.voiceRepliesEnabled ?? true);
+  const [voiceRepliesEnabled, setVoiceRepliesEnabled] = useState(storedSession?.voiceRepliesEnabled ?? false);
   const [listeningSupported, setListeningSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [activeAudioMessageId, setActiveAudioMessageId] = useState<string | null>(null);
@@ -134,8 +118,6 @@ const Tab1: React.FC = () => {
     setMessages([starterAssistantMessage]);
     setDraft(nextDraft);
     setError('');
-    setRetrievalQuery('');
-    setRetrievalResults([]);
     stopAudioPlayback();
   }, [stopAudioPlayback]);
 
@@ -271,50 +253,6 @@ const Tab1: React.FC = () => {
   }, [history, location.search, switchMode]);
 
   const selectedMode = getChatModeOption(mode);
-  const usesLocalCorpus = mode === 'fathers' || mode === 'proofs' || mode === 'apologetics';
-
-  const loadRetrievalPreview = async (query: string) => {
-    const trimmedQuery = query.trim();
-    if (!trimmedQuery) {
-      setRetrievalQuery('');
-      setRetrievalResults([]);
-      return [] as RetrievalResult[];
-    }
-
-    setIsRetrieving(true);
-
-    try {
-      const response = await fetch('/api/retrieve', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          query: trimmedQuery,
-          mode,
-          limit: 3
-        })
-      });
-
-      const payload = await parseApiResponse<RetrievalResponse>(response);
-      if (!response.ok) {
-        throw new Error(formatApiError(payload, 'Source retrieval is unavailable right now.'));
-      }
-
-      const results = Array.isArray(payload.results) ? payload.results : [];
-      setRetrievalQuery(trimmedQuery);
-      setRetrievalResults(results);
-      return results;
-    } catch (caughtError) {
-      const message = caughtError instanceof Error ? caughtError.message : 'Source retrieval failed.';
-      setError(message);
-      setRetrievalQuery(trimmedQuery);
-      setRetrievalResults([]);
-      return [] as RetrievalResult[];
-    } finally {
-      setIsRetrieving(false);
-    }
-  };
 
   const sendPrompt = async (prompt: string) => {
     const trimmedPrompt = prompt.trim();
@@ -337,13 +275,6 @@ const Tab1: React.FC = () => {
     setIsSubmitting(true);
 
     try {
-      if (usesLocalCorpus) {
-        await loadRetrievalPreview(trimmedPrompt);
-      } else {
-        setRetrievalQuery('');
-        setRetrievalResults([]);
-      }
-
       const response = await fetch('/api/chat', {
         method: 'POST',
         headers: {
@@ -371,9 +302,6 @@ const Tab1: React.FC = () => {
 
       setMessages((currentMessages) => [...currentMessages, assistantMessage]);
 
-      if (voiceRepliesEnabled) {
-        await playAudioForMessage(assistantMessage);
-      }
     } catch (caughtError) {
       const message = caughtError instanceof Error ? caughtError.message : 'Something went wrong while contacting the assistant.';
       setError(message);
@@ -393,9 +321,15 @@ const Tab1: React.FC = () => {
       throw new Error('Voice playback is unavailable right now.');
     }
 
+    const availableVoices = window.speechSynthesis.getVoices();
     const utterance = new SpeechSynthesisUtterance(message.content);
+    const preferredVoice = availableVoices.find((voice) => voice.lang.toLowerCase().startsWith('en')) ?? availableVoices[0];
+    if (preferredVoice) {
+      utterance.voice = preferredVoice;
+    }
+
     utterance.volume = 1;
-    utterance.rate = 1;
+    utterance.rate = 1.03;
     utterance.pitch = 1;
     speechUtteranceRef.current = utterance;
     setActiveAudioMessageId(message.id);
@@ -425,7 +359,7 @@ const Tab1: React.FC = () => {
 
     await unlockAudioPlayback();
 
-    if (activeAudioMessageId === message.id && audioRef.current) {
+    if (activeAudioMessageId === message.id) {
       stopAudioPlayback();
       return;
     }
@@ -434,49 +368,61 @@ const Tab1: React.FC = () => {
     setError('');
     const playbackRequestId = audioRequestIdRef.current;
 
-    try {
-      const response = await fetch('/api/tts', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ text: message.content })
-      });
+    let browserVoiceFailure: string | null = null;
 
-      const payload = await parseApiResponse<TtsResponse>(response);
-      if (!response.ok || !payload.audioBase64) {
-        throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
-      }
+    try {
+      await speakWithBrowserVoice(message);
+      return;
+    } catch (browserVoiceError) {
+      browserVoiceFailure = browserVoiceError instanceof Error ? browserVoiceError.message : 'Voice playback is unavailable right now.';
 
       if (playbackRequestId !== audioRequestIdRef.current) {
         return;
       }
 
-      const contentType = payload.contentType || 'audio/mpeg';
-      const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
-      audio.volume = 1;
-      audio.setAttribute('playsinline', 'true');
-      audioRef.current = audio;
-      setActiveAudioMessageId(message.id);
-
-      const clearPlaybackState = () => {
-        if (audioRef.current === audio) {
-          audioRef.current = null;
-        }
-        setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
-      };
-
-      audio.onended = clearPlaybackState;
-      audio.onpause = clearPlaybackState;
-      audio.onerror = clearPlaybackState;
-      await audio.play();
-    } catch (caughtError) {
       try {
-        await speakWithBrowserVoice(message);
-        setError('');
-      } catch {
-        const messageText = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
-        setError(messageText);
+        const response = await fetch('/api/tts', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ text: message.content })
+        });
+
+        const payload = await parseApiResponse<TtsResponse>(response);
+        if (!response.ok || !payload.audioBase64) {
+          throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
+        }
+
+        if (payload.truncated) {
+          setError('Audio was limited to a shorter excerpt to reduce ElevenLabs usage.');
+        }
+
+        if (playbackRequestId !== audioRequestIdRef.current) {
+          return;
+        }
+
+        const contentType = payload.contentType || 'audio/mpeg';
+        const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
+        audio.volume = 1;
+        audio.setAttribute('playsinline', 'true');
+        audioRef.current = audio;
+        setActiveAudioMessageId(message.id);
+
+        const clearPlaybackState = () => {
+          if (audioRef.current === audio) {
+            audioRef.current = null;
+          }
+          setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        };
+
+        audio.onended = clearPlaybackState;
+        audio.onpause = clearPlaybackState;
+        audio.onerror = clearPlaybackState;
+        await audio.play();
+      } catch (caughtError) {
+        const rootError = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
+        setError(rootError || browserVoiceFailure || 'Voice playback failed.');
         setActiveAudioMessageId(null);
       }
     }
@@ -549,71 +495,13 @@ const Tab1: React.FC = () => {
                   }}
                 >
                   <IonIcon slot="start" icon={volumeHighOutline} />
-                  {voiceRepliesEnabled ? 'Speak Replies: On' : 'Speak Replies: Off'}
+                  {voiceRepliesEnabled ? 'Manual Audio Ready' : 'Manual Audio Only'}
                 </IonButton>
                 <IonButton fill="clear" size="small" onClick={resetConversation}>
                   New Thread
                 </IonButton>
               </div>
             </div>
-
-            {usesLocalCorpus ? <section className="retrieval-panel" aria-live="polite">
-              <div className="retrieval-panel-header">
-                <div>
-                  <p className="section-label">Sources</p>
-                  <h3>Preview the indexed passages</h3>
-                </div>
-                <IonButton
-                  fill="outline"
-                  size="small"
-                  disabled={!usesLocalCorpus || draft.trim().length === 0 || isRetrieving || isSubmitting}
-                  onClick={() => void loadRetrievalPreview(draft)}
-                >
-                  {isRetrieving ? 'Loading Sources...' : 'Preview Sources'}
-                </IonButton>
-              </div>
-
-              {retrievalQuery ? (
-                <p className="retrieval-panel-copy">
-                  Query preview: <strong>{retrievalQuery}</strong>
-                </p>
-              ) : !usesLocalCorpus ? (
-                <p className="retrieval-panel-copy">
-                  This mode is constrained to its handbook source set only. Source preview is off until a local approved corpus is added.
-                </p>
-              ) : (
-                <p className="retrieval-panel-copy">
-                  Preview the canonical sources before you send, or send normally and the same retrieval pass will ground the answer.
-                </p>
-              )}
-
-              {retrievalResults.length > 0 ? (
-                <div className="retrieval-grid">
-                  {retrievalResults.map((result) => (
-                    <article key={result.id} className="retrieval-card">
-                      <div className="retrieval-card-meta">
-                        <span>{result.citation}</span>
-                        <div className="retrieval-card-actions">
-                          <IonChip>Score {result.score}</IonChip>
-                          <IonButton
-                            fill="clear"
-                            size="small"
-                            onClick={() => void copyText(`${result.citation}\n\n${result.summary}\n\n${result.text}`, `retrieval-${result.id}`)}
-                          >
-                            <IonIcon slot="start" icon={copyOutline} />
-                            {copiedItemId === `retrieval-${result.id}` ? 'Copied' : 'Copy'}
-                          </IonButton>
-                        </div>
-                      </div>
-                      <p className="retrieval-summary">{result.summary}</p>
-                      <p className="retrieval-text">{result.text}</p>
-                    </article>
-                  ))}
-                </div>
-              ) : retrievalQuery && !isRetrieving ? (
-                <p className="retrieval-empty">No indexed passages matched this exact prompt yet.</p>
-              ) : null}
-            </section> : null}
 
             <div className="chat-thread" aria-live="polite">
               {messages.map((message) => (
@@ -684,21 +572,13 @@ const Tab1: React.FC = () => {
                   {listeningSupported ? (isListening ? 'Stop Listening' : 'Voice Input') : 'Voice Input Unavailable'}
                 </IonButton>
 
-                <IonButton
-                  type="button"
-                  fill="clear"
-                  disabled={!usesLocalCorpus || draft.trim().length === 0 || isRetrieving || isSubmitting}
-                  onClick={() => void loadRetrievalPreview(draft)}
-                >
-                  Preview Sources
-                </IonButton>
               </div>
 
               {error ? <p className="chat-error">{error}</p> : null}
               <p className="chat-hint">
                 {listeningSupported
-                  ? 'Voice input stays in the same thread as typed questions.'
-                  : 'Typing is always available.'}
+                  ? `Voice input stays in the same thread as typed questions. ${browserVoiceSupportDetected ? 'Replies only play when you press Speak Aloud.' : 'Replies only play when you press Speak Aloud, and browser voice may fall back to ElevenLabs.'}`
+                  : 'Typing is always available. Replies only play when you press Speak Aloud.'}
               </p>
             </form>
           </section>

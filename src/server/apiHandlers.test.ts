@@ -408,8 +408,40 @@ describe('server handlers', () => {
     expect(upstreamPayload.text).toBe('The voice answer.');
     expect(response.payload).toMatchObject({
       contentType: 'audio/mpeg',
+      truncated: false,
       voiceId: 'voice-123'
     });
+  });
+
+  it('truncates long tts requests before forwarding to ElevenLabs', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      arrayBuffer: async () => new TextEncoder().encode('audio').buffer
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+    const longText = `${'A very long theological answer. '.repeat(80)}Final sentence.`;
+
+    await ttsHandler(
+      {
+        method: 'POST',
+        body: {
+          text: longText
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      text: string;
+    };
+
+    expect(response.statusCode).toBe(200);
+    expect(upstreamPayload.text.length).toBeLessThanOrEqual(930);
+    expect(upstreamPayload.text).toContain('[Audio excerpt truncated.]');
+    expect(response.payload).toMatchObject({ truncated: true });
   });
 
   it('normalizes papal Roman numerals for spoken TTS output', async () => {
@@ -590,5 +622,44 @@ describe('server handlers', () => {
     expect(payload.count).toBeGreaterThan(0);
     expect(payload.results.some((result) => result.author === 'Francisco Suarez')).toBe(true);
     expect(payload.results.some((result) => result.citation.includes('sydneypenner'))).toBe(false);
+  });
+
+  it('removes website citations from returned chat content', async () => {
+    const originalFetch = global.fetch;
+    const response = createMockResponse();
+
+    global.fetch = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'test-model',
+        choices: [
+          {
+            message: {
+              content: 'Aquinas gives the argument in Summa Theologiae I, q. 2, a. 3 (New Advent). Suarez addresses it in De Anima, disp. 12, q. 2 (https://www.sydneypenner.ca/example).'
+            }
+          }
+        ]
+      })
+    }) as typeof fetch;
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'proofs',
+          messages: [{ role: 'user', content: 'Show the proof with citations.' }]
+        }
+      },
+      response
+    );
+
+    global.fetch = originalFetch;
+
+    expect(response.statusCode).toBe(200);
+
+    const payload = response.payload as { content: string };
+    expect(payload.content).toContain('Summa Theologiae');
+    expect(payload.content).toContain('De Anima');
+    expect(payload.content).not.toMatch(/Sydney Penner|New Advent|https?:\/\//i);
   });
 });

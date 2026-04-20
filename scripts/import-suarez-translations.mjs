@@ -23,6 +23,23 @@ function normalizeWhitespace(text) {
     .trim();
 }
 
+function stripSuarezSourceBoilerplate(text) {
+  return normalizeWhitespace(
+    text
+      .replace(/^Sydney Penner\s*$/gim, '')
+      .replace(/^Last revis(?:ed|ion):.*$/gim, '')
+      .replace(/^©\s*Sydney Penner.*$/gim, '')
+      .replace(/^NB:\s*For a decently formatted pdf version, click here\.?\s*$/gim, '')
+      .replace(/^File translated from\s*$/gim, '')
+      .replace(/^TEX\s*$/gim, '')
+      .replace(/^by\s*$/gim, '')
+      .replace(/^TTH, version.*$/gim, '')
+      .replace(/^On\s+\d{1,2}\s+\w+\s+\d{4}.*$/gim, '')
+      .replace(/^--\s*\d+\s+of\s+\d+\s*--\s*$/gim, '')
+      .replace(/^https?:\/\/\S+\s*$/gim, '')
+  );
+}
+
 function slugify(text) {
   return text
     .normalize('NFKD')
@@ -298,10 +315,10 @@ async function collectSuarezEntries() {
 
 async function downloadEntryText(entry) {
   if (entry.sourceUrl.endsWith('.pdf')) {
-    return extractPdfText(entry.sourceUrl);
+    return stripSuarezSourceBoilerplate(await extractPdfText(entry.sourceUrl));
   }
 
-  return extractHtmlText(entry.sourceUrl);
+  return stripSuarezSourceBoilerplate(await extractHtmlText(entry.sourceUrl));
 }
 
 async function main() {

@@ -17,6 +17,33 @@ interface TtsRequestBody {
   voiceId?: unknown;
 }
 
+const MAX_TTS_CHARACTERS = 900;
+
+function normalizeWhitespace(text: string): string {
+  return text
+    .replace(/\r/g, '')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+function clampTtsText(text: string): { text: string; truncated: boolean } {
+  const normalized = normalizeWhitespace(text);
+
+  if (normalized.length <= MAX_TTS_CHARACTERS) {
+    return { text: normalized, truncated: false };
+  }
+
+  const excerpt = normalized.slice(0, MAX_TTS_CHARACTERS);
+  const sentenceBoundary = Math.max(excerpt.lastIndexOf('. '), excerpt.lastIndexOf('? '), excerpt.lastIndexOf('! '), excerpt.lastIndexOf('\n\n'));
+  const trimmedExcerpt = sentenceBoundary >= 400 ? excerpt.slice(0, sentenceBoundary + 1).trim() : excerpt.trim();
+
+  return {
+    text: `${trimmedExcerpt} [Audio excerpt truncated.]`,
+    truncated: true
+  };
+}
+
 const romanNumeralValues: Record<string, number> = {
   I: 1,
   V: 5,
@@ -121,7 +148,9 @@ export default async function handler(request: ApiRequest, response: ApiResponse
     }
 
     const body = parseJsonBody<TtsRequestBody>(request.body);
-    const text = typeof body?.text === 'string' ? body.text.trim() : '';
+    const rawText = typeof body?.text === 'string' ? body.text.trim() : '';
+
+    const { text, truncated } = clampTtsText(rawText);
 
     if (!text) {
       response.status(400).json({ error: 'Text is required for speech synthesis.' });
@@ -181,6 +210,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
     response.status(200).json({
       audioBase64: audioBuffer.toString('base64'),
       contentType: 'audio/mpeg',
+      truncated,
       outputFormat,
       voiceId
     });

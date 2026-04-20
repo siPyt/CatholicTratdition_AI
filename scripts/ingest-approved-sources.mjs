@@ -33,6 +33,37 @@ function assertKeywords(value, label) {
   return value.map((entry, index) => assertString(entry, `${label}[${index}]`));
 }
 
+function normalizeWhitespace(text) {
+  return text
+    .replace(/\u00a0/g, ' ')
+    .replace(/\r/g, '')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .replace(/[ \t]{2,}/g, ' ')
+    .trim();
+}
+
+function sanitizeCorpusText(text, tier) {
+  if (tier !== 'suarez') {
+    return normalizeWhitespace(text);
+  }
+
+  return normalizeWhitespace(
+    text
+      .replace(/^Sydney Penner\s*$/gim, '')
+      .replace(/^Last revis(?:ed|ion):.*$/gim, '')
+      .replace(/^©\s*Sydney Penner.*$/gim, '')
+      .replace(/^NB:\s*For a decently formatted pdf version, click here\.?\s*$/gim, '')
+      .replace(/^File translated from\s*$/gim, '')
+      .replace(/^TEX\s*$/gim, '')
+      .replace(/^by\s*$/gim, '')
+      .replace(/^TTH, version.*$/gim, '')
+      .replace(/^On\s+\d{1,2}\s+\w+\s+\d{4}.*$/gim, '')
+      .replace(/^--\s*\d+\s+of\s+\d+\s*--\s*$/gim, '')
+      .replace(/^https?:\/\/\S+\s*$/gim, '')
+  );
+}
+
 async function listManifestFiles(directoryPath) {
   const entries = await readdir(directoryPath, { withFileTypes: true });
   const manifestFiles = [];
@@ -122,7 +153,10 @@ async function main() {
 
       for (const segment of segments) {
         const filePath = path.join(repoRoot, assertString(segment.filePath, `${source.id}.${segment.id}.filePath`));
-        const text = assertString(await readFile(filePath, 'utf8'), `${source.id}.${segment.id}.text`);
+        const text = sanitizeCorpusText(
+          assertString(await readFile(filePath, 'utf8'), `${source.id}.${segment.id}.text`),
+          tier
+        );
 
         chunks.push({
           id: assertString(segment.id, `${source.id}.segment.id`),

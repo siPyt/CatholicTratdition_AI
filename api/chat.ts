@@ -95,6 +95,17 @@ function normalizeAquinasCitations(text: string): string {
   );
 }
 
+function stripWebsiteCitationMentions(text: string): string {
+  return text
+    .replace(/\s*\((?:[^()]*?)?(?:https?:\/\/\S+|www\.\S+|[a-z0-9-]+\.(?:com|org|net|edu|gov|ca)\b)[^()]*\)/gi, '')
+    .replace(/\b(?:Sydney Penner|New Advent)\b/gi, '')
+    .replace(/https?:\/\/\S+/gi, '')
+    .replace(/\bwww\.\S+/gi, '')
+    .replace(/[ \t]{2,}/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 function buildDogmaticScopeRefusal(prompt: string): string {
   return `This mode is limited to the approved handbook source set, so I cannot answer from other authorities in this chat. Rephrase the question in terms of the doctrine or its theological note regarding ${prompt.trim() || 'the doctrine in question'}, and I will stay within that scope.`;
 }
@@ -211,7 +222,7 @@ export default async function handler(request: ApiRequest, response: ApiResponse
       : '';
 
     const normalizedContent = typeof content === 'string'
-      ? normalizeAquinasCitations(normalizeCitationNumerals(content))
+      ? stripWebsiteCitationMentions(normalizeAquinasCitations(normalizeCitationNumerals(content)))
       : '';
 
     response.status(200).json({

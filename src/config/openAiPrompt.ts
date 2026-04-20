@@ -30,9 +30,9 @@ Good citation examples:
 ${formattedExamples}
 
 Bad citation examples:
-- New Advent
-- sydneypenner.ca
-- https://example.com/path/to/text
+- website hostnames
+- retrieval URLs
+- provenance links
 
 When answering, prefer concise canonical citations attached to the relevant claims. Do not expose ingestion URLs or website names.`;
 
