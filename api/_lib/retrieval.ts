@@ -1,5 +1,39 @@
-import { CorpusModeTag, RetrievalMatch, formatChunkCitation } from './corpusSchema.js';
+import { AuthorityTier, CorpusModeTag, RetrievalMatch, formatChunkCitation } from './corpusSchema.js';
 import { generatedCorpus } from './generatedCorpus.js';
+
+const stopWords = new Set([
+  'about',
+  'according',
+  'also',
+  'and',
+  'are',
+  'but',
+  'can',
+  'did',
+  'does',
+  'for',
+  'from',
+  'how',
+  'into',
+  'its',
+  'not',
+  'that',
+  'the',
+  'their',
+  'them',
+  'there',
+  'these',
+  'they',
+  'this',
+  'what',
+  'when',
+  'where',
+  'which',
+  'who',
+  'why',
+  'with',
+  'would'
+]);
 
 function normalizeText(text: string): string {
   return text
@@ -12,10 +46,10 @@ function normalizeText(text: string): string {
 function tokenize(text: string): string[] {
   return normalizeText(text)
     .split(' ')
-    .filter((token) => token.length >= 3);
+    .filter((token) => token.length >= 3 && !stopWords.has(token));
 }
 
-function scoreChunk(queryTokens: string[], haystack: string, keywordHaystack: string, mode: CorpusModeTag): number {
+function scoreChunk(queryTokens: string[], haystack: string, keywordHaystack: string): number {
   if (queryTokens.length === 0) {
     return 0;
   }
@@ -34,11 +68,19 @@ function scoreChunk(queryTokens: string[], haystack: string, keywordHaystack: st
     }
   }
 
-  if (haystack.includes(mode)) {
-    score += 1;
+  return score;
+}
+
+function getProofsTierPreference(tier: AuthorityTier): number {
+  if (tier === 'aquinas') {
+    return 0;
   }
 
-  return score;
+  if (tier === 'suarez') {
+    return 1;
+  }
+
+  return 2;
 }
 
 export function searchCorpus(query: string, mode: CorpusModeTag, limit = 5): RetrievalMatch[] {
@@ -50,6 +92,7 @@ export function searchCorpus(query: string, mode: CorpusModeTag, limit = 5): Ret
   const safeLimit = Math.max(1, Math.min(limit, 8));
 
   return generatedCorpus
+    .filter((chunk) => chunk.modeTags.includes(mode))
     .map((chunk) => {
       const haystack = normalizeText([
         chunk.author,
@@ -60,8 +103,7 @@ export function searchCorpus(query: string, mode: CorpusModeTag, limit = 5): Ret
         ...chunk.modeTags
       ].join(' '));
       const keywordHaystack = normalizeText(chunk.keywords.join(' '));
-      const modeBoost = chunk.modeTags.includes(mode) ? 2 : 0;
-      const score = scoreChunk(queryTokens, haystack, keywordHaystack, mode) + modeBoost;
+      const score = scoreChunk(queryTokens, haystack, keywordHaystack);
 
       return {
         ...chunk,
@@ -70,7 +112,17 @@ export function searchCorpus(query: string, mode: CorpusModeTag, limit = 5): Ret
       };
     })
     .filter((chunk) => chunk.score > 0)
-    .sort((left, right) => right.score - left.score)
+    .sort((left, right) => {
+      if (right.score !== left.score) {
+        return right.score - left.score;
+      }
+
+      if (mode === 'proofs') {
+        return getProofsTierPreference(left.tier) - getProofsTierPreference(right.tier);
+      }
+
+      return left.citation.localeCompare(right.citation);
+    })
     .slice(0, safeLimit);
 }
 

@@ -1,0 +1,571 @@
+Last revision: March 25, 2019
+Francisco Suárez, S. J.
+DM XIII.91
+© Sydney Penner 2019
+<428, col. a>2
+SECTION IX.
+What the causality of matter is.
+1. There are various opinions about this matter. For some say
+that the causality of matter is nothing other than the matter itself,
+which presents itself to the composite and through itself sustains
+the form. For its causality does not consist in the production of
+some thing distinct from itself, as the causality of the efficient cause
+[does], but only in the fact that it provides itself to its effect. <col.
+b> But this view cannot be true. For, although it is true that matter The causality of matter
+is not the entity itself of
+matter.
+does not cause otherwise than by sustaining or composing that
+which it causes, nevertheless, the fact that it sustains or composes
+something is in reality distinct from the matter itself. For the matter
+can be in rerum natura and yet not cause this form or this composite.
+It can also successively vary its casuality concerning different effects
+while its entity remains unchanged. Therefore, the causation itself
+is something else than its entity. In fact, by absolute power matter
+can be conserved without any form, as we will show below, and in
+that case it actually causes nothing, but would of itself only have
+the potential to cause. For by this reason alone we prove that in an
+agent cause action is something different from the potentiality of
+the agent. But if someone perhaps says that matter causing does
+not add something to the matter itself but connotes the existence
+of a form in it, this will not satisfy. For, whatever the case may be
+with that having been added, which we will see later, that a form
+exists in matter is not for the matter to cause, formally and precisely
+speaking, but rather for it to be caused or to be informed. Therefore,
+something must be designated from whih that denomination of
+causing is taken, and it must be shown whether that is intrinsic or
+extrinsic to matter.
+1Translation is based on the 1597 edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for
+ease of reference, given that it is the most widely used edition.
+
+-- 1 of 13 --
+
+Suárez, DM XIII.9 2
+2. Second, others say that actual causality adds nothing to
+matter beyond the relation of cause to effect. But if the discussion
+is about a proper categorial relation, this view cannot be true, since The causality of matter
+cannot be a categorial
+relation.
+this relation follows an effect that already has been caused, with
+the foundation and terminus having been posited. Therefore, it
+presupposes the causality as the proximate ratio on which it follows.
+Therefore, causality cannot consist in this ratio. That and what was
+said above about cause in general and what was said about all the
+causes is understood, lest it be necessary to repeat it more. But if
+the discussion is about some transcendental relation, this opinion
+coincides with the fourth one that is to be mentioned shortly.
+3. The third view can be the one asserting that this causality
+of matter is the very effect itself, but signified and conceived in
+a different way. For this suffices to explain this causality, and
+one can hardly imagine or think of anything else. But although The causality of matter
+is not the same as
+every effect of it.
+this is perhaps true of some effect—for example, of generation and
+union, as I will show shortly (for these are related just as action
+to an <429> agent cause, which also can be called its effect)—
+this cannot, however, be universally true, both because causality
+in all causes is some medium between the cause and effect, and
+also because a material form is an effect of matter and cannot
+be its causality. For the soul of a horse, for example, which now
+is materially caused by its matter, can be conserved in the thing
+without such causality. Therefore, that causality is something other
+in the thing than that soul and its entity. Just as the quantity of
+the Eucharist that earlier was conserved by means of the material
+causality of the substance of the bread is afterwards conserved even
+though that causality has ceased. This is a sign that that causality
+is something different from the reality of the quantity. But if a form
+according to its absolute entity is not the causality of matter, then
+neither can the whole composite be, especially since the matter
+itself is included in the composite, but is not caused by itself. And
+in any composite—certainly, in a human being—the form is also
+included, which is not caused by the matter. How, then, could the
+whole composite be the causality of matter?
+4. The fourth opinion can be that the causality of matter is a The opinion of certain
+people.	certain real mode of the matter that is ex natura rei distinct from
+it. For if the entity of the matter is considered absolutely, only this
+mode is contained in potentiality in it. For if the occasion of an agent
+inducing a form is offered, the matter also actually exhibits this
+mode that it receives in itself, it fosters the form, and, consequently,
+composes the composite. But if such a form withdraws with another
+
+-- 2 of 13 --
+
+Suárez, DM XIII.9 3
+form a, the matter also dismisses the former mode and exhibits
+another one with respect to the arriving form. The Conimbricenses-
+think this in Physics II, q. 6 and 8. The foundation is taken Conimbricenses.
+both from a sufficient enumeration of the parts and also because
+such a mode is necessary, since it was shown that this causality is
+something but it is not necessary that it be a distinct entity, since
+matter is through itself immediately united to form. Therefore, it
+must be some mode that in fact is really identified with matter, but
+is modally and ex natura rei distinct since it is separable from it.
+The resolution of the question.
+5. Nevertheless, this view seems false in part and doubtful in part.
+In order to show that and to make my view clear, I distinguish four
+things that I said above are caused by matter: generation, the union
+<col. b> of the form, the entity of the form, and the composite itself.
+With respect to generation, then, I think that it is directly caused
+by matter without any other thing or mode added to the matter
+beyond the generation itself that inheres in it. And for this reason
+the causality of the generation itself from the matter is nothing
+other than the generation itself as it is an eduction from the matter.
+Just as action comes from an agent not through another action
+but through itself and has the ratio of an action insofar as it as an
+emanation from the agent cause and as such is the very causality
+of the agent, as I will say below, so likewise eduction or passive
+generation insofar as it essentially depends on the subject and
+through itself is necessarily conjoined to it is materially caused by it
+not through another causality but through itself. This is especially The causality of matter
+with respect to
+generation is the
+generation itself.
+shown by the explanation itself of the subject. For the causality of
+matter with respect to generation is very well understood in this
+way, and nothing else is necessary. Therefore, imaging something
+else is superfluous.
+It is shown, second, from accidental changes and unions. For
+when wood heats, the heating is in such a subject and from the
+subject. There are not, however, two changes in that subject, one of
+which is the passive heating itself and the other of which is some
+mode by which such a subject materially causes heating or is united
+to it. For multiplying these changes is superfluous. The very fact
+that there is such a heating as intrinsical implies a disposition
+(habitudo) of actual union and dependence on such a subject in
+the genus of material cause. It itself is caused by the subject, the
+subject causes it, it is united to the subject, and the subject remains
+
+-- 3 of 13 --
+
+Suárez, DM XIII.9 4
+united to it. It is superfluous, then, to add another change in the
+subject. The same, therefore, is the case in the material causality of
+substantial generation.
+Hence, it is confirmed, third: for the cause causes through
+the same thing or through the same mode by which the effect is
+caused, since causation itself as such essentially includes this two-
+fold disposition: to the cause as to a principle and to the effect
+as to a terminus. For this reason it denominates both, the one
+as causing and the other as caused. But by the very fact that
+generation depends intrinsically and essentially on matter, it is
+directly caused by it. Therefore, for the same reason, matter is
+denominated as causing something insofar as that thing is from
+matter. Therefore, no other thing or mode is necessary in order for
+matter to be denominated as actually causing generation. In fact, it
+is also unintelligible how matter would cause generation through
+another mode.
+Which is explained, fourth: for matter causing generation is
+nothing other <430> than to sustain it as a subject. But it sustains
+it immediately in entity and through its entity by the fact that gen-
+eration comes to be in it. Therefore, every other mode is irrelevant
+for this causality, nor can it confer anything to this sustaining.
+6. I argue, last, that if the causality of matter were some distinct
+real mode beyond generation itself, it would have to be made by
+some agent. For every new real mode must be made by a new cause.
+But there is no agent by which such a mode is made. Therefore.
+The minor is proven: for just as an agent only acts through its
+substantial or accidental form, so in that way it also does not
+concur effectively except for the eduction of a form—which is, for
+example, heating—or for generation. Therefore, it does not make
+some mode beyond that. You will say: although it does not directly A response to an
+objection.	make another mode, one results, nevertheless, since by the very fact
+that this thing is united to that, a union of this to that results. But
+to the contrary, first, because it was shown that there is no necessity
+for such a resultancy for causality, nor does it seem necessary for
+the union. For another thing can be denominated united through a
+union of another thing to itself, without a new mode of union in it,
+as theologians say of the mystery ofthe Incarnation. And in natural
+cases when, for example, a human being sits, the sitting is united
+to the human being and the human being to the sitting. Would
+someone imagine that the human being is denominated united to
+the sitting through a new mode distinct from the sitting rather
+than through the sitting itself that is directly united to the subject?
+
+-- 4 of 13 --
+
+Suárez, DM XIII.9 5
+Otherwise, there would be an infinite regress. Likewise, then, matter
+is denominated united to generation because the generation comes
+to be in it. Nor any other mode that results in the matter necessary.
+Hence, I will inquire what kind of thing that resultancy is and from
+where it is. For it can be understood in two ways. The first [way
+is] that that mode results from the matter once the action of the
+agent educing form is posited in the matter. But in this way matter
+effectively makes its material causality, which cannot be said even
+if that efficiency is said to be through a natural resultancy. Second,
+it can be thought a resultancy that is made by an extrinsic agent
+by means of a form that it induces in the matter. In this way the
+induced form effects the material causality through which it itself is
+caused and it would be prior in nature in the matter to the mode
+that results. From this it is easy to be convinced that such a mode
+is irrelevant to the causality of matter.
+7. <col. b> From these things, therefore, as I think, it is clear
+enough that in the case of the material causality of generation the
+causality of this kind is not distinguished from the generation itself
+as it is in the matter and by which the matter is denominated as
+actually causing insofar as it is from that, just as from the same
+thing the generating thing is denominated actually acting insofar
+as it is from that. Hence, just as the denomination of agent is not
+from some mode that is in the agent itself but is extrinsic to the
+action, so also the denomination of actually causing in the matter
+itself is not from some mode that is intrinsic to it in such a way that
+is identical to it in reality but from the generation itself insofar as
+it is from that. For this reason such a denomination can be called
+extrinsic, even though, since the generation is in the matter itself,
+it can for that reason be called intrinsic. In that it differs from the
+denomination of agent.
+You will say: it is possible for God to conserve numerically the
+same generation separately from the matter, but in that case it
+would not be caused by the matter. Consequently, it would not
+denominate that as actually causing. Therefore, it is not denom-
+inated as actually causing precisely from the generation as such.
+Therefore, some other mode must be added. It is responded that, Generation cannot be
+conserved outside a
+subject even
+supernaturally.
+in the first place, the assumption is false, since it implies that an
+action of generation is or is conserved outside a subject and apart
+from the causality of matter. This is both because generation es-
+sentially is change and change cannot3 be understood without a
+subject, and also because generation in all cases other than human
+3I am omitting a duplicated ‘potest’ in the 1597 edition.
+
+-- 5 of 13 --
+
+Suárez, DM XIII.9 6
+beings essentially is an eduction of a potentiality in matter. But
+in the human case it is a uniting of the form with the matter. In
+either way it is repugnant to understand it without the concurrence
+of matter. Finally, also because an action without the concurrence
+of a subject is a creation, whether productive (if it is new) or con-
+servative (if it concerns a pre-existing thing). Therefore, the action
+is necessarily changed by the very fact that the form that was in
+the subject and was depending on the subject is conserved outside
+the subject. Hence, it is concluded that the change that is genera-
+tion essentially includes a union to matter and the causality of the
+matter. For this reason matter is denominated as causing from that
+[generation] precisely taken. Furthermore, even if we gratuitously
+granted what is assumed, one could not thereby infer that a special
+mode is necessary in the matter for that denomination, but that
+in the generation is distinguished the entity and the formality of
+generation from its union with the matter, just as we will say below
+about the form itself. But since that is not true in the change that
+is generation, we will not linger on this point here. <431>
+8. From these things it is further concluded that the causality Matter influences the
+form and the composite
+by generation as by
+causality.
+of matter insofar as it is a cause in becoming, whether of the form
+or of the composite, is nothing other than the generation itself as
+essentially depending on the matter. For by its mediation matter
+concurs in the eduction of the form or in the composition of the
+composite. But the causality of a cause is nothing other than its
+concurrence. Furthermore, since to cause some thing in becoming
+is nothing other than that the coming to be of such a thing is from
+such a cause, therefore, a thing in becoming is caused through the
+same causality as that through which the coming to be of the thing
+is caused. This is clear by similarity with the agent cause. For the
+very same action that is directly from the agent is its active causality
+with respect to the terminus or to the thing in becoming. Therefore,
+the same relationship should be preserved in the case of material
+causality.
+Finally, many of the arguments already made can be applied
+here, especially the one about this ratio of causing being sufficient
+for that denomination by which matter is said to cause the thing that
+is generated, and that once that ratio of causing is posited—and with
+any other mode set aside through the intellect—that denomination
+necessarily follows. Therefore, anything else that someone comes
+up with is superfluous and without foundation.
+One should only note the differences in this causality with
+respect to the form and with respect to the composite. With respect
+
+-- 6 of 13 --
+
+Suárez, DM XIII.9 7
+to the form matter remains extrinsic in a certain way, insofar as
+it sustains the form in itself as informing, but not intrinsically
+composing it. For this reason, it seems most obvious that the
+causality of matter with respect to a form in becoming is nothing
+other than its eduction or uniting insofar as it is from matter, which
+we show is nothing other in reality than the generation itself. But
+with respect to the composite, matter is related more intrinsically,
+since it through itself composes that. For this reason, with respect to
+the composite it seems necessary that the matter itself be included
+intrinsically. But this is indeed true with respect to inclusion in the
+caused effect, but not, however, with respect to the path or with
+respect to the coming to be by which it tends to such an effect in
+this genus of material cause. For matter is not a cause in becoming
+of the produced thing in such a way that it itself also comes to
+be. For it was always presupposed to have been made. It only
+communicates to the composite what is generated in its genus of
+cause. And, insofar as this communication is in becoming and
+matter is its cause, it is said to be the cause of the produced thing
+in becoming. But this communication is not in becoming except by
+means of eduction or generation. And for this reason, this whole
+causality, insofar as it is understood to be <col. b> a medium
+between matter and the effect or composite, in reality is nothing
+other than the generation itself insofar as it is from matter.
+The causality of matter persevering after motion.
+9. It remains to speak about the causality of matter in the case
+of being already having been made. In order to explain that, one
+should begin with the causality of the union of form with matter.
+For we say that this [union] is also caused by matter, but we add
+now that it is not caused through some causality distinct from such
+a union but through itself. This can be demonstrated easily from The union of form to
+matter is caused
+through itself by matter
+and depends on matter.
+what was said about generation, since the reasoning is proportional.
+We show it in this way: for this union of form with matter is also
+conjoined to matter in the way in which it can be. Therefore, it
+through itself depends on matter in the way in which it can depend.
+Therefore, it is caused through itself. For it is caused to the extent
+that it depends. Therefore, conversely, matter causes that union
+through itself. For, as I said, it is the same causality by which the
+effect is denominated as being caused and the cause as causing. All
+of the proven consequences are above, but the antecedent is clear,
+first, a posteriori. For it is impossible for that union to be conserved
+
+-- 7 of 13 --
+
+Suárez, DM XIII.9 8
+without the concurrence of matter or rather it being in matter in
+the way that it can. This, therefore, is a sign that it through itself
+immediately and essentially depends on matter. For if it were to
+depend by the mediation of some mode distinct ex natura rei, God
+could conserve that union without the matter by removing that
+mode. This is the reason he can conserve the form, as I will say
+below. The antecedent is clear, because union cannot remain unless
+it actually unites, but it cannot actually unite unless the extremes
+are conjoined and it reaches each in the way that it can and must.
+And this it the reason a priori on account of which that union in itself
+depends essentially both on the form and on the matter, on each
+in its genus, since it is as their actual bond and does not require
+any other intervening bond or mode by which it reaches them or
+is conjoined to them, lest there be an infinite regress. Finally, this
+is confirmed by the reasoning given above, since this is sufficient
+for this causality and cannot be posited without it. But once it has
+been posited and with every other mode set aside, such causality
+of matter is sufficiently understood. Therefore, everything else is
+fictitious and without foundation. Nor is there any difficulty with
+this beyond what should be touched on at once. <432>
+10. From here I add further that the causality of matter in the The enduring causality
+of matter in the case of
+a material form is
+union.
+form itself (when the form is such that it is caused by the matter
+and depends on it) is nothing other than the proper union of such a
+form with the matter, insofar as the union itself materially depends
+on the matter and by means of that form itself also depends on the
+matter. I said ‘is nothing other than the proper union of such a
+form’ because not just any union suffices for this causality. For
+a rational soul has a proper union with matter, where the union
+is also materially caused by the matter and yet the soul itself is
+not caused [by it]. Therefore, not just any union is the causality of
+the form itself, but those that are through the eduction of the form.
+From which, incidentally, we understand the union of the rational What the nexus of a
+rational soul with
+matter is.
+soul with matter to be singular and of a different essential ratio
+from every union of a material form, which we can call substantial
+inhesion. And this we say is the causality through which matter
+causes such a form.
+11. You will say: why can we not distinguish two modes in the An objection is
+resisted.	material form, one of which is the mere union of form and matter
+(of which kind is the one in the rational soul, and that form does
+not through it depend on the matter but is only united to it for
+composing the composite), while the other mode is the dependence
+of such a form on matter? I respond: because to distinguish and
+
+-- 8 of 13 --
+
+Suárez, DM XIII.9 9
+multiply such modes is either plainly impossible or entirely super-
+fluous. First, because we do not distinguish two modes in the case
+of an accident, one of which is union and the other is inherence or
+the dependence of the accident on the subject. Rather, by the same
+inherence it is united and depends, and so on. Second, because
+proper dependence on a material cause intrinsically and essentially
+includes union such that it can neither come to be nor be under-
+stood except it intimately includes that. Therefore, inhesion, which
+is the same as that material dependence, is not a mode that is ex
+natura rei distinct from the union of the inhering form but is like a
+species of union in general . For one is inhesive, but the other is
+not. Therefore, just as genus and species are not modes that are
+distinct ex natura rei in the same individual, so union and inhesion
+or material dependence are not distinct modes in the same form.
+From these easily proven things, then, the posited assertion is left.
+For this form depends on matter through its union. Therefore, by
+the mediation of that it is caused by matter in its genus. Therefore,
+matter also <col. b> causes the form by the mediation of that, ac-
+cording to the principle posited above that to be caused and to cause
+express the same causation under different respects. Therefore, this
+very union is the causality of matter with respect to such a form.
+Second, because the causality of a cause mediates in a certain way
+between it and the effect. But nothing mediates between matter and
+form except this union and, as it were, inhesion. Therefore, that is
+the causality of matter in the form. Third, because this suffices for
+this genus of causality, even with everything else whatever having
+been set aside through the intellect.
+12. You will say: this also does not seem necessary, since
+form and matter are immediately united, as was said above. It is
+responded: an immediate union does not exclude a mode of union
+really or ex natura rei distinct from the extremes, but excludes an
+intermediate form that stands in between as a common terminus in
+which the extremes are conjoined. But a mode of union cannot be
+excluded when the extremes are such that they can be separated.
+For, unless one or the other of them holds itself differently than
+when they are divided, they could not be really united. For this
+reason theologians posit a mode of union on the part of humanity
+even in the mystery of the Incarnation.
+How many unions in a material composite.
+13. But from here another difficulty arises, which seems to be
+
+-- 9 of 13 --
+
+Suárez, DM XIII.9 10
+of some import only in this view, which is why we said that the
+fourth opinion is doubtful in part: namely, because if the form is
+united to the matter through a proper mode of union, then the
+matter is also united through a proper mode of union. Therefore,
+matter causes not only through the union or inhesion of the form,
+but much more through its proper union by which it is conjoined
+to the form. And thus the causality of matter will be the proper
+mode of the matter itself rather than [the proper mode] of the form.
+In response to this difficulty, I confess that it is a doubtful issue
+whether matter has a proper mode of union distinct from the union
+of form in a composition of matter and form. Nevertheless, I say
+two things. One is that the denying side is very probable, since one
+simple mode of union is sufficient for the union of two extremes
+that are immediately united to each other, and a special reason can
+be assigned for why such a mode pertains more to the form and is
+really identical to it rather than to the matter. Therefore, it is not
+necessary to multiply multiple modes of this sort.
+The major is proven: for every mode of union <433> is a bond
+between two extremes. Hence, it expresses a disposition to each
+one, without which it could not be. Therefore, any mode of union
+whatever unites two extremes, of which it is the union. Therefore,
+one is sufficient for conjoining extremes of this kind. And for this
+reason we said above that the union of form to matter cannot be
+or be understood in the nature of things without conjunction or
+dependence not only on form but also on matter. And therefore, if
+through the intellect we prescind from every other mode identified
+with matter, we will understand matter and form to be perfectly
+united to each other through the union of form to matter alone, and
+we will understand matter to exercise the whole causality it has in
+the form. Therefore, two modes of union are not necessary; one is
+sufficient.
+But the minor—namely, that this mode pertains to the form
+rather than to the matter—is proven: for the entire efficiency of a
+natural agent formally and proximately has its terminus in a form,
+in educing it or in uniting it to matter. Therefore, whatever new
+is made is in the form as in the formal terminus of action, but in
+matter only as in a subject. For this reason, it does not unite matter
+to form by directly effecting a special mode in the matter, but only
+by uniting the form to the matter and by effecting informing and
+union or inherence in it. And this is fitting for the way that matter
+and form relate and concur. For matter stands under the action
+of an agent and under the advening and recess of forms. Hence, it
+
+-- 10 of 13 --
+
+Suárez, DM XIII.9 11
+remains unvaried with respect to its own entity and with respect
+to all of its intrinsic modes. It is only varied or changed by reason
+of privation, either of a form receding or advening again. John
+of Damascus seems to say this by these words in his Physics, ch. John of Damascus.
+3, where he says of matter: ‘in order for it to possess the ratio of
+subject and insofar as it attains to the fact that it is potentiality, it
+is furnished with substance and exists with privation; and with a
+form actually present, it remains and conserves the former [that
+it, potentiality] free from every change, and from this it happens
+that it does not migrate from its being a potentiality to actuality,
+but remaining true in its state, it receives the form, and, if the form
+recedes, it again retains its former state’. But form is what advenes
+to matter and recedes from it. For this reason, every change that
+comes to be in matter is by reason of a form, and, likewise, every
+union is through the conjunction of the form with it. This is further
+explained through a material example: for the base that supports a
+column is not in itself changed and it does not change location or
+any <col. b> other mode from the fact that a column is placed on
+it, removed from it, or changed. Rather, the whole change is in the
+column that is placed above, from which arises every denomination
+in the base that is said to support the column. And likewise in the
+case of accidental changes. For example, in the case of wood that
+heats, there are not two changes in the wood, one in the adhesion
+of heat and the other in the union of the wood to the heat. Rather,
+there is only one, which consists in the introduction of heat.
+14. I add, second, that, even if we were to admit gratuitously
+that there is a proper mode of union in matter that is distinct from
+the union of the form, nevertheless, one could not attribute to it
+that it is the causality through which matter causes the form. For
+the matter does not sustain the form through such a mode nor
+does the form depend on matter through such a mode. The former
+part is clear, since matter does not sustain form through a mode
+but through its entity. The latter part is proven: for form depends
+through its inhesion on matter. Hence, if there is such a mode of
+union in matter, it would instead be as an effect following on the
+informing, and, insofar as it itself is concerned, it will be of the
+same ratio whether the form depends on matter or not. Another
+discussion about the union of matter will come up when treating
+the formal cause.4
+15. From these things is further concluded that the causality of By what causality the
+matter constitutes the
+composite.
+matter with respect to the composite adds absolutely nothing to the
+4See especially DM 15.6.
+
+-- 11 of 13 --
+
+Suárez, DM XIII.9 12
+matter itself beyond the union of the form, and thus the causality
+of the composite is nothing other than the causality of the form or
+of the union. It only adds with respect to the composite that the
+matter by means of the union offers itself for intrinsically composing
+the composite. Hence, if the very entity of matter more intimately
+enters into the causality of the composite than of the form or of the
+union, in reality, nevertheless, nothing else comes up other than
+the entity of the matter and the union or causality of the form.
+16. Lastly, it is understood from what has been said what was Matter contributes two
+distinct causalities.	suggested above: that there are only two causalities of matter that
+are ex natura rei distinct, although more can be distinguished by
+reason. For material causality with respect to a thing in becoming or
+in having been made are ex natura rei distinct, just as generation is
+ex natura rei distinct from the form or from the produced thing, and
+uniting in becoming from union as having been made. But we show
+that the causality of a thing in becoming is not distinct in reality
+from generation itsel of from the uniting. But the causality of a thing
+having been made <434> likewise is not distinguished from a union
+as having been made and formally serving as the terminus of the
+uniting. Therefore, it is necessary that the causalities of this sort
+be ex natura rei distinct from each other. You will say: these two An objection is
+addressed.	causalities can be reduced to one, since a thing in having been made
+is not caused except by the mediation of action. Therefore, its whole
+causality consists in the action and in the generation itself as it is in
+matter. For all that is left is what is caused rather than causalities,
+just the whole causality with respect to an agent consists in the
+action or the uniting, and a union in having been made is not the
+causality of the agent but what is caused. It is responded: these are
+not equivalent, since a material cause is through itself the cause of
+the thing in having been made, even if every action ceases, such that
+if per impossibile a material composite does not depend on some
+agent in becoming or in being conserved, matter would, nevertheless,
+have its causality with respect to such a composite or with respect
+to its form. There is, therefore, in matter a certain proper causality
+which is not directed at action or at change and does not come about
+through that, but is immediately directed at the being of the whole
+composite, insofar as it includes the union of matter with form. And
+from the following section it will be clear that sometimes matter is
+the cause of a thing and not of the production of the thing. Therefore,
+these causalities are ex natura rei distinct. But each of them can
+be compared and precisely conceived in relation to different things
+and can be explained according to different dispositions in relation
+
+-- 12 of 13 --
+
+Suárez, DM XIII.9 13
+to the form or the composite. Nevertheless, that whole distinction
+is inadequate through reason or through our concepts, as is clear
+from the above.
+
+-- 13 of 13 --

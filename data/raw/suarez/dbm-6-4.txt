@@ -1,0 +1,331 @@
+Last revision: June 18, 2018	Francisco Suárez, S. J.
+DE BONITATE ET MALITIA HUMANORUM ACTUUM, DISP. 6, SECT. 41
+© Sydney Penner 2018
+<365, col. b>2
+Quid sit bonitas accidentalis ex fine in actu interiori What the accidental goodness from the end in an interior act
+voluntatis. of the will is.
+1. Opinio in
+hac
+quaestione.
+1. Duo possunt esse modi dicendi. Prior est hanc 1. There can be two ways of speaking. The first one is The first
+opinion on
+this question.
+bonitatem esse rem aliquam, vel realem modum in- that this good is some thing or real mode intrinsically su-
+5 trinsece superadditum actui bono ex obiecto, ratione 5R peradded to a good act from its object, by reason of which
+cuius tendit in finem. Cui sententiae favere videtur it tends to the end. St. Thomas appears to favour this
+D. Thomas 1. 2. q. 18. art. 4. ad 2. dicens, quod view in ST IaIIae.18.4 ad 2, saying that although the end
+licet finis sit <366> causa extrinseca, tamen relatio is an extrinsic cause, the relation to the end, nonetheless,
+Suadetur 1. in finem inhaeret actioni, et potest suaderi primo, inheres in the action. [This view] can be argued for, first, First
+argument.	10 Quia actus voluntatis sic bonus, vere, ac proprie 10R because an act of the will is good in such a way that it
+est propter finem illum, a quo sumit hanc bonitatem; truly and properly is for the sake of that end from which it
+ergo revera tendit in illum; ergo ab illo accipit aliquem takes up this goodness. Therefore, it really tends to that
+modum, vel specificationem intrinsecam, et realem end. Therefore, it receives some real and intrinsic mode or
+respectu cuius ille finis se habet, ut ratio formalis specification from it, as a result of which it is related to that
+15	Secundo. specificans. Secundo, quia omnis bonitas volun- 15R end as to a formal specifying ratio. Second, because every Second.
+tatis oportet, ut sit aliquid reale, alioqui vel nihil goodness of the will requires [that] in order to be something
+erit, nisi denominatio extrinseca, vel relatio ratio- real. Otherwise it would be nothing other than an extrinsic
+nis: haec autem non possunt habere rationem for- denomination or a relation of reason. But these cannot
+malis bonitatis, quia per haec non efficimur boni, have the formal ratio of goodness, since we do not bring
+20 sed realibus actibus, quibus aliquid volumus. Et 20R about good things through these but by real acts by which
+Confirmatur. confirmatur, nam si haec bonitas solum esset denom- we will something. It is confirmed: for if this goodness were It is confirmed.
+inatio quaedam, nihil magis referret ad virtutem, vel only a kind of denomination, it would no more relate to
+meritum, quam bonitas exterioris actus; hoc autem virtue or merit than the goodness of an exterior act would.
+videtur esse contra rationem bonitatis interioris vol- But this seems to be contrary to the ratio of the goodness
+25 untatis, quia bonitas voluntatis debet esse intrinseca, 25R of an interior act, since the goodness of the will must be
+et in hoc differt ab aliis exterioribus actibus. Ter- intrinsic, and it differs in this from other, exterior acts.
+1Latin text by and large follows the 1628 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+text against the Vivès edition for significant variations. For recorded variants, A = 1628 edition and V = Vivès edition. Emendations not supported by
+either of these editions are enclosed in square brackets. Note that the Vivès edition does not have marginal notes; many, though not all, of the marginal
+notes from the 1628 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 7 --
+
+Suárez, DBM 6, sect. 4 2
+Tertio. tio; nam si haec bonitas est denominatio, peto a quo Third: for if this goodness is a denomination, I ask from Third.
+actu sumenda sit; aut enim ab intentione ipsius finis, what act it is taken. It might be [i] from the intention for
+et hoc non, alioqui eadem ratione dicendum esset the end itself. But not from this. Otherwise, it should
+30 omnem electionem esse bonam tantum per denom- 30R for the same reason be said that every choice is good only
+inationem extrinsecam ab intentione finis, quia ab through an extrinsic denomination from the intention for
+illa manat, et imperatur eodem modo; aut ab actu the end, because it flows from that and is commanded in
+imperante, qui respiciat directe actum imperatum in- the same way. Or it might be [ii] from a commanded act that
+teriorem, et obiectum. Et hoc etiam non videtur dici directly respects the commanded interior act and object.
+35 posse, alias numquam haec bonitas ex fine reperire- 35R But it seems that this cannot be said either. Otherwise this
+tur in actu voluntatis, nisi quando voluntas reflec- goodness from an end would never be found in an act of will
+titur per unum actum supra alium, quod videtur except when the will through one act reflects on another
+falsum; nam si quis velit dare eleemosynam propter act. That seems false. For if someone wishes to give alms
+satisfactionem, ibi bonitas est accidentalis ex fine, et in order to make satisfaction, the goodness in this case is
+40 tamen nulla est reflexio actus interioris supra alium, 40R accidental from the end and yet there is no reflection of one
+sed tendentia directa in exteriorem actum. interior act over another but a direct tending to an exterior
+act.
+2. Opinio
+verior.
+2. Secundus modus dicendi est actum interi- 2. The second way of speaking is that an interior act of The second,
+truer, opinion.	orem voluntatis solum dici bonum ab extrinseco fine the will is called good from an extrinsic end only through
+per denominationem extrinsecam ab alio actu eius- 45R an extrinsic denomination from some other act of the same
+45 dem voluntatis, a quo aliquo modo imperatur; loquor will by which it is in some way commanded. Moreover, I am
+autem de actu alias bono ex obiecto, nam solum speaking about an act otherwise good from its object, for
+respectu illius est proprie hic finis extrinsecus, et only with respect to it is this end properly extrinsic and the
+bonitas ex illo sumpta accidentalis est. Haec senten- goodness taken from it accidental. This view seems truer
+tia mihi verior videtur, quam indicavit Caietanus 2. 2. 50R to me. Cajetan declares this view in ST IIaIIae.44.4, saying
+50 q. 44. art. 4. dicens hanc bonitatem esse extrinsecum that this goodness is an extrinsic mode of the act. It can
+modum actus; sumitur etiam ex eodem Caietano 1. 2. also be taken from the first three articles of IaIIae.20 in the
+q. 20. tribus primis articulis iuncta doctrina eiusdem same work in conjunction with the teaching in IaIIae.18.6.
+in 1. 2. q. 18. art. 6. nam ibi dicit omnem bonitatem For there he says that all goodness from an end is per se
+ex fine per se primo esse in interiori actu, in exteri- 55R first in the interior act, but in the exterior act through a
+55 ori vero per denominationem ab illo; hic autem dicit denomination from the interior act. But in the latter place
+<col. b> actus imperatos a voluntate, ut sic, quoad he says that acts commanded by the will, as such, with
+hoc numerandos esse inter actus exteriores, quamvis respect to this should be numbered among the exterior acts,
+alioqui sint eliciti, potest etiam haec sententia sumi although in another way they are elicited. This view can
+ex eodem D. Thoma 1. 2. q. 13. art. 1. Clarius ex q. 60R also be taken from St. Thomas, ST IaIIae.13.1, and more
+60 2. De malo art. 4. ad 9. Item ex omnibus locis, in clearly from De malo q. 2, art. 4, ad 9. The same thing [can
+quibus docet huiusmodi finem non esse obiectum, be gathered] in all the places in which he teaches that an
+36 actu ] actus V.
+49 2. 2. ] 1. 2. V.
+
+-- 2 of 7 --
+
+Suárez, DBM 6, sect. 4 3
+sed circumstantiam etiam respectu interioris actus end of this kind is not the object but the circumstance even
+voluntatis. with respect to the interior act of the will.
+Eius 1. ratio
+a priori.
+3. Atque hinc sumi potest ratio a priori huius sen- 65R 3. And an a priori argument for this view can be taken The first,
+a priori,
+argument for
+this view.
+65 tentiae, quia huiusmodi finis nullo modo est obiec- from here, since an end of this kind is in no way the object—
+tum nec materiale, nec formale illius actus, qui de- neither material nor formal—of the act that is accidentally
+nominatur accidentaliter bonus ex tali fine; ergo in denominated good from such an end. Therefore, there is
+illo actu nulla est intrinseca tendentia, vel habitudo no intrinsic tendency or disposition to such an end in that
+ad talem finem. Patet consequentia; quia interior 70R act. The consequence is clear, because an interior act only
+70 actus solum habet intrinsecam habitudinem, et ten- has an intrinsic disposition and tendency to the object. [It
+dentiam ad obiectum; item quia si hoc modo tenderet is clear] also because if it were to tend to that end in this
+in illum finem, esset volendo illum, vel propter il- way, it would be by willing it or [by willing something] for
+lum tanquam ad rationem obiectivam: si ergo ille the sake of it as an objective ratio. Therefore, if that end
+finis non est obiectum, neque in actu esse potest 75R is not the object, then there also cannot be an intrinsic
+75 intrinseca tendentia in illum: ergo bonitas illa ex fine tendency to it in the act. Therefore, that goodness from the
+non potest esse aliquid intrinsecum in tali actu, quia end cannot be something intrinsic in such an act, because
+necessario dicere deberet habitudinem, et tenden- it would necessarily express a disposition or tendency to
+tiam in illum finem. Superest probandum primum that end.
+antecedens, quod primo declaratur exemplo. Nam 80R What remains is to prove the first antecedent. This
+80 quando aliquis vult amare Deum propter meritum; is shown first by example. For when someone wills to
+licet illa voluntas prior habeat pro obiecto amorem love God for the sake of merit, even though the willing
+Dei, tamen ipse amor, qui ex vi illius exercetur, solum first has for its object love for God, that love, nevertheless,
+habet Deum pro materiali obiecto, quia solum Dei which is exercised from the force of that [willing], only
+amor est: similiter, quamvis bonitas meriti ut sic, sit 85R has God for its material object, since the love is only for
+85 formalis ratio obiectiva prioris voluntatis, non tamen God. Likewise, although the goodness of merit as such
+ipsius amoris Dei; nam si est verus amor charitatis, is the formal objective ratio of the former willing, it is not,
+solum amat Deum propter bonitatem ipsius: ergo however, [the object] of that love for God. For if it is true
+respectu huius actus ille finis non se habet ut obiec- charity love, it only loves God for the sake of his goodness.
+tum, sed ut causa movens remote, ut significavit D. 90R Therefore, that end is not related to this act as its object
+90 Thomas 1. 2. q. 18. art. 4. Ratio autem est, quia unus but as a remote moving cause, as St. Thomas indicates
+actus unum tantum habet materiale obiectum, et for- in ST IaIIae.18.4. The reason is because one act only has
+male; quando ergo hoc est intrinsecum, totum id, one material and formal object. Therefore, when this is
+quod extrinsecum est, non habet rationem formalis intrinsic, that whole, which is extrinsic, does not have the
+obiecti. 95R formal ratio of object.
+95	2. Ratio, seu
+dilemma.
+4. Secunda principalis ratio confici posset ex 4. The second principal argument can be made from The second
+argument, or
+dilemma.
+longo discursu supra posito disp. 4. sect. 3. de spec- the long discussion placed above in disp. 4, sect. 3, about
+ificatione ex obiecto, et de pura electione, quia id, specification by the object and about pure choice. For that
+quod dicitur intrinsece addi actui ex fine, non potest which is said to be intrinsically added to the act from the
+86 ipsius ] om. V.
+
+-- 3 of 7 --
+
+Suárez, DBM 6, sect. 4 4
+esse partialis entilas, nec modus realis intrinsece 100R end cannot be a partial entity nor a real mode intrinsically
+100	Eius prior
+excluditur.
+illi inhaerens. Primum constat ex rationibus supra inhering in it. The first is clear from the arguments given The first part
+is ruled out.	factis, quae hic breviter urgeri possunt. Nam si ibi above, which can be pressed briefly here. For if there are
+sunt duae entitates. Una est, verbi gratia poeniten- two entities here—for example, one is penitence and the
+tiae; alia est misericordiae elicientis, quia suppono other is eliciting mercy, since I assume that the object and
+obiectum, et finem ad virtutes diver- <367> sas per- 105R the end belong to different virtues—then there will not be
+105 tinere; ergo non erunt duae partiales entitates, sed two partial entities but two distinct acts. For why or in what
+duo actus distincti. Cur enim, aut in quo unirentur? would they be united? Or why would they not generate one
+aut cur non generarent unum habitum similiter com- habit likewise composed of two virtues? Also, in reality the
+positum ex duplici virtute? Item revera illa entitas, entity that would be specified by the end of penitence would
+quae specificaretur ex fine poenitentiae, non esset 110R not be commanded but would be elicited by the virtue of
+110 imperata, sed elicita a virtute poenitentiae; esset ergo penitence. Therefore, that act would be elicited by two
+ille actus elicitus a duplici virtute secundum partes virtues according to different parts, which is all absurd.
+diversas, quae omnia absurda sunt.
+Posterior pars
+excluditur
+etiam. Primo.
+5. Altera vero pars de modo intrinseco, facile 5. But the other part about the intrinsic mode is also The latter part
+is also ruled
+out. First.
+etiam excluditur ratione proxime facta, et quia si easily ruled out by the argument just made and also be-
+115 daretur talis modus, ille haberet propriam speciem 115R cuase, if there were such a mode, it would have a proper
+a fine, quem respiceret ut obiectum proprium, fi- species from the end that it respects as its proper object.
+nis autem, qui ita habet rationem obiecti, est per se But an end that in that way has the ratio of a proper object
+sufficiens ad constituendum proprium actum distinc- is per se sufficient for constituting a proper act distinct
+tum ab omni alio; numquam ergo dat accidentalem from all others. Therefore, it would never give an accidental
+120	Secundo. modum alteri actui. Quod ita potest etiam intelligi, 120R mode to another act. This can also be understood in the Second.
+quia si ille esset modus intrinsecus accidentalisque following way, because if it were an intrinsic and accidental
+actus, supponeret substantiam eius, et superveniret mode of the act, it would assume the substance of the act
+illi; hoc autem esse non potest respectu finis, quia and supervene on it. But this cannot be the case with
+omnis tendentia intrinseca voluntatis in finem est respect to the end, because every intrinsic tendency of the
+125	Tertio. prior quocumque actu imperato ex tali fine. Ultimo 125R will to the end is prior to any act commanded as a result
+est apud me sufficiens ratio, quia haec denomina- of such an end. The last is a sufficient argument for me, Third.
+tio sufficit ad omnia quae possunt convenire huic because this denomination suffices for everything that can
+actui; et ex vi imperii voluntatis, ut sic, nihil aliud apply to this act. And from the force of the command of
+necessario additur actui imperato praeter substan- the will, as such, nothing else is necessarily added to the
+130 tiam eius, quam habet ex propria facultate, et obiecto 130R commanded act beyond its substance, which it has from
+eius; ergo nihil aliud fingendum est, neque est nec- its proper faculty and object. Therefore, nothing else is
+essarium. Maior patet, quia hoc ipso quod intellig- necessary or can be imagined. The major is clear, because
+itur actus ex obiecto bonus, et imperatus ab alio by the fact that it is understood that the act is good from
+etiam bono tendente in bonum finem extrinsecum, its object and is commanded by another [act] also good
+135 et ordinante actum imperatum in illum, intelligitur 135R that is tending to a good extrinsic end and ordering the
+100 illi ] illi primum V.
+
+-- 4 of 7 --
+
+Suárez, DBM 6, sect. 4 5
+sufficienter bonitas intrinseca utriusque actus, et commanded act to it, the intrinsic goodness of each act is
+extrinseca informatio, vel denominatio unius ab alio. sufficiently understood, as well as the extrinsic informing
+Minor vero patet in actibus externis a voluntate im- or denomination of one by the other. But the minor is clear
+peratis, quia ab illo imperio denominantur boni, etsi in the case of external acts commanded by the will, because
+140 nihil in eis ponat praeter substantiam eorum, et ratio 140R they are denominated good from that command, even if it
+est, quia hoc imperium non consistit nisi in quadam places nothing in them beyond their substance. The reason
+efficientia, fortasse non physica, sed moraliter per is because this command does not consist in anything other
+consensionem et subordinationem potentiarum eius- than a certain efficiency, perhaps not physical, but morally
+dem animae: haec ergo ratio imperii nihil ponit in through the accord and subordination of the powers of the
+145 actu imperato, nisi dependentiam quamdam, quasi 145R same soul. Therefore, this ratio of command places nothing
+applicationem ad opus, ratione cuius unus actus de- in the commanded act except a certain dependency, an
+nominatur ab alio, et refertur in finem suum; ergo application as it were to the work, by reason of which one
+idem est iudicium de bonitate solum fundata in hoc act is denominated by another and referred to its end. The
+imperio. judgement is the same, therefore, about the goodness that
+150R is grounded only in this command.
+150	Ad 1.
+argumentum
+in n. 1.
+6. Ad primum argumentum in principio fac- 6. To the first argument made in the beginning, I re- To the 1st
+argument
+in n. 1.
+tum, respondetur finem extrinsecum respectu ac- spond that an extrinsic end with respect to an act that is
+tus <col. b> imperati, et extrinsecus ordinati in ip- commanded and extrinsically ordered to it does not have
+sum non habere rationem obiecti, nec materialis, nec the ratio of an object, whether material or formal, but rather
+formalis, sed circumstantiae, seu causae remotae 155R [has the ratio] of circumstance or of a remote cause moving
+155 moventis, et applicantis voluntatem ad talem actum and applying the will to such an act by means of an act
+medio actu intentionis, seu electionis, ut satis sig- of intention or of choice. St. Thomas indicates this in ST
+nificavit D. Thomas 1. 2. q. 18. art. 4. distinguens IaIIae.18.4 when he distinguishes the end from the object
+finem ab obiecto, et dicens a fine sumi bonitatem, and says that goodness is taken from an end as from a
+ut a causa bonitatis, et q. 19. art. 2. ad 1. dicens 160R cause of goodness, and in 19.2 ad 1 when he says that
+160 respectu actus voluntatis, finem habere rationem an end has the ratio of an object with respect to an act
+obiecti, praeterquam cum finis ordinatur ad finem, et of will except ‘when an end is ordered to an end and an
+intentio ad intentionem; quapropter in actu sic ordi- intention to an intention’. For this reason, one should not
+nato non oportet intelligere intrinsecam tendentiam understand there to be an intrinsic tendency to such an
+in talem finem, sed solum dependentiam ab alio actu 165R end in an act ordered in this way, but only a dependency
+165 respiciente illum finem; et hoc modo dicitur esse on another act that respects that end. In this way it is said
+propter finem denominatione extrinseca, sicut actus to be for the sake of the end by an extrinsic denomination,
+exterior; quapropter ille actus non proprie habet ra- just as an exterior act. For this reason, that act does not
+tionem electionis, sed potius medii eliciti, et quasi properly have the ratio of choice but rather of an elicited
+usus passivi. 170R means and, as it were, a passive use.
+170	Ad 2. ibidem. 7. Ad secundum respondetur ex actu imperante, 7. To the second argument, I respond that out of a To the 2nd
+argument in
+the same
+place.
+152 imperati ] imperari A.
+152 ordinati ] ordinari A.
+
+-- 5 of 7 --
+
+Suárez, DBM 6, sect. 4 6
+et imperato, ut sic, quodammodo componi actum commanding act and a commanded act, as such, an act
+moraliter unum, sicut ex actu interiori, et exteriori, that is morally one is composed in a certain way, as from
+et hoc modo dicitur ille actus meritorius, et formaliter an interior act and an exterior act. In this way that act is
+bonus, et efficere hominem bonum; sed hoc totum 175R meritorious and formally good, and makes the human being
+175 habet ratione actus imperantis, actui tamen imper- good. But the whole has this by reason of the commanding
+ato, ut sic conveniunt haec per denominationem ex- act. Nevertheless, they apply to the commanded act as
+trinsecam, seclusa bonitate, quam talis actus potest such through an extrinsic denomination, apart from the
+habere ex suo obiecto, nam ut sic, habet rationem goodness that such an act can have from its object. For, To the
+confirmation
+in the same
+place.
+actus interioris eliciti a voluntate, et in hoc est differ- 180R as such, it has the ratio of an interior act elicited from the
+180	Ad confirm.
+ibidem.
+entia inter illum, et exteriorem, per quod responsum will. In this lies the difference between it and an exterior
+est ad confirmationem. act. This addresses the confirmation.
+Unus modus
+quo satis fit
+argumento 3.
+in eodem n. 1.
+8. Tertium argumentum petit, quis sit actus vol- 8. The third argument asks what the act of the will is One way in
+which the 3rd
+argument in
+the same place
+is satisfied.
+untatis, a quo sumitur haec denominatio, ad quod re- from which this denomination is taken. I respond that this
+spondetur denominationem hanc posse sumi duobus 185R denomination can be taken in two ways in the suggested
+185 modis in argumento insinuatis. Primus, et clarior argument. The first and clearer way is when a formal com-
+est, quando intercedit formale imperium unius actus mand of one act of the will by another stands in between:
+voluntatis ab alio scilicet, quia unus actus cadit in namely, because one act falls under a formally willed object
+obiectum formaliter volitum sua propria ratione, et by its own reason and motive. This way of operating hap-
+motivo, qui modus operandi facilius contingit quando 190R pens easily when the commanded act is truly interior, as
+190 actus imperatus est vere interior, ut cum volo amare, when I will to love, to suffer, etc. In this case the response to
+dolere, etc. Et tunc facilis est responsio ad argumen- the argument is easy, and there is no difficulty in a willing
+tum, nec difficultatem ullam habet, quod voluntas of this kind easily making a reflection.
+huiusmodi reflexionem facile faciat; quando autem But when the commanded act is exterior—for example,
+actus imperatus est exterior, ut eleemosyna, ieiunia, 195R giving alms, fasting, etc.—then it can often happen that
+195 etc., tunc frequenter potest accidere, ut ab eodem such an exterior act is also commanded by the very same
+actu electionis efficacis, quae immediate fit propter act of efficacious choice that is immediately made for the
+finem operantis, imperetur etiam talis actus exterior, sake of the agent’s end. In this case there will be no good-
+et tunc in actu interiori nulla erit bonitas sumpta ab ness in the interior act that is taken from another, exterior
+alio <368> actu exteriori, ut ab obiecte, ut supra dic- 200R act as from an object, as was said above. Consequently,
+200 tum est, et consequenter neque actus exterior, ut ac- neither will the exterior act, insofar as it is an act, be de-
+tus est, denominabitur bonus, nisi bonitate sumpta nominated good, except by the goodness taken from the
+ex fine media electione; aliquando vero potest ac- end by means of the choice. But sometimes an exterior act
+tus exterior, et propter se, et propter extrinsecum can be commanded immediately both for its own sake and
+finem imperari immediate, et tunc erunt in voluntate 205R for the sake of an extrinsic end. In that case there will be
+205 duo actus sese concomitantes, et eumdem exteri- two concomitant acts in the will, and the same exterior act
+orem actum dupliciter denominantes; tandem potest will be denominated twice. Finally, now and then the will
+interdum voluntas per electionem factam ob finem can command a whole act as composed of an exterior and
+extrinsecum imperare totum actum alterius virtutis, an interior act of another power through a choice made on
+
+-- 6 of 7 --
+
+Suárez, DBM 6, sect. 4 7
+ut compositum ex exteriori, et interiori, ut quando ex 210R account of an extrinsic end, as when from an intention for
+210 intentione merendi impero mihi actum misericordiae, meriting I command to myself an act of mercy, not only
+non tantum externum, sed etiam voluntatem mis- the external act but also the willing of having compassion,
+erendi, quia etiam illa est aptum medium ad talem which is also an apt means towards such an end. And in
+finem; et tunc eadem est ratio de tali actu, quae de this case the reasoning is the same for such an act as for
+medio interiori: quando autem voluntas operetur uno, 215R interior means. But when the will operates in one or the
+215 vel alio modo, non potest facile discerni, nisi in his, other way, matters may not be easy to discern, except in
+qui magna animadversione, et reflexione operantur; those cases where things are done with great attention and
+potest autem coniectura sumi considerata ratione fi- reflection. But a reasonable inference can be drawn once
+nis, et mediorum, seu actuum, et proportione eorum the ratio of the end, the means or acts, and the proportion
+inter se. 220R between them has been considered.
+220	Alter modus. 9. Alter modus, quo potest hoc imperium, seu 9. The second way in which this command or relation The second
+way.	relatio in finem excogitari est ex vi solius intentionis to the end can be thought about is as from the force of
+immediate transeundo ad eliciendum actum alterius the intention alone immediately passing to eliciting the act
+virtutis, omissa formali electione media: ut si quis of another power, having omitted the means by a formal
+habeat intentionem bene merendi coram Deo, et con- 225R choice. For example, if someone has the intention to merit
+225 sulat de mediis, seu modo, et iudicet amorem Dei well before the face of God, consults about means or about
+propter se ipsum et super omnia esse aptissimum the way, and judges that loving God for his own sake and
+ad illum finem consequendum, potest, ut videtur, above all other things is most apt for attaining that end,
+voluntas pro libertate sua statim elicere amorem Dei the will can, it seems, through its freedom choose at once
+propter seipsum, in quo apparet magna differentia in- 230R the love of God for his own sake. A great difference appears
+230 ter actum exteriorem et interiorem, nam exterior pen- here between the exterior act and the interior act, for the
+det omnino a formali applicatione voluntatis, et ideo exterior act depends entirely on the formal application of
+quamvis voluntas intendat finem, et intellectus iu- the will. For this reason, although the will intends the
+dicet motionem manus esse aptum medium ad illum end and the intellect judges a motion of the hand to be
+finem, nunquam manus movebitur, donec voluntas 235R an apt means for that end, nevertheless, the hand will be
+235 eligat, et utatur illa: at vero voluntas potest se ipsam moved for as long as the will chooses and uses it. The will,
+determinare immediate ad actus suos, et acciden- however, can determine itself immediately to its acts, and
+tarium est, quod per unum actum determinetur ad it is accidental that it is determined through one act to
+alium quoad exercitium, et ideo si ex parte intellectus another act with respect to exercise. For this reason, if the
+sit obiectum sufficienter propositum, potest imme- 240R object is sufficiently proposed on the part of the intellect,
+240 diate exire in actum elicitum ante actum formaliter [the will] can immediately issue an elicited act before a
+imperantem, et forte hic operandi modus frequentis- formally commanding act. In fact, perhaps this way of
+simus est. operating is most frequent.
+210 impero ] imperio V.
+212 aptum ] actum V.
+
+-- 7 of 7 --

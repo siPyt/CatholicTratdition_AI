@@ -1,0 +1,337 @@
+Sydney Penner
+Last revised: May 17, 2008
+Francisco Su´	arez, S. J.
+Disputationes Metaphysicæ III1
+Sect. II
+How many attributes of being there are and what order they preserve between themselves (Quot sint
+passiones entis et quem ordinem inter se servent)
+1. The reasons delivered for the unsettled question.—People are generally accustomed to number six
+transcendentals: being, thing, something, one, true, and good. From which it seems to be inferred that
+there are five attributes of being, because so many, but not more, are predicated which are converted
+with it. It is to the contrary, however, because not all those can have the character of an attribute
+and besides those others can be thought of by us. The first can be shown from what was said, because
+a thing only expresses the quiddity by the formal [nature] of the thing, and the established or real
+essence of being. [This, however, is not a property, but rather the essence, of being.] Hence, many
+suppose that thing is more essentially predicated rather than being itself. Similarly something, when
+it is distinguished immediately from nothing, it seems that nothing else most formally is signified than
+the very being itself. For in the same way the word seems something and having some quiddity; this
+formal signification, however, coincides with the signification of thing and of being.
+Rationes reddunt quaestionem ancipitem.—Solent communiter sex transcendentia numer-
+ari, ens, res, aliquid, unum, verum, bonum; ex quibus videtur colligi quinque esse passiones
+entis, quia tot sunt praedicata quae cum illo convertuntur, et non plura. In contrarium
+autem est, quia neque illa omnia possunt habere rationem passionis et praeter illa possunt
+alia a nobis excogitari. Primum probari potest ex dictis, quia res solum dicit de formali
+rei quidditatem, et ratam seu realem essentiam entis;2 unde multi censent magis essentiale
+praedicatum esse rem quam ipsum ens. Similiter aliquid, cum distinguatur immediate
+contra nihil, nihil aliud formalissime significare videtur quam ipsummet ens; perinde enim
+dictum videtur aliquid ac habens aliquam quidditatem; haec autem formalis significatio
+coincidit cum significatione rei et entis.
+2. Secondly it is proven, because it seems that besides those other common [attributes] are predicated
+of all being, as, for example, to endure and to be somewhere. For these are necessarily concomitant
+to all being. If you say that these do not agree with being except insofar as it exists and this
+being a discussion of being according to itself abstracted from actual existence, it is contrary to this
+because even these properties of endurance or local presence can be considered according to themselves
+abstracting from actual existence and as such are understood to have connection through themselves
+with being. Hence, just as this predication ‘being is one’ is perpetually true freed from the bond with
+time, so also is this: ‘being has endurance or local presence’. There is, however, a special difficulty
+concerning itself being of actual existence, for it seems to be a certain property of being itself according
+to itself having been taken up, because it does not agree with it essentially not entirely per accidens.
+1Latin text is from: http://homepage.ruhr-uni-bochum.de/Michael.Renemann/suarez/suarez dm3.html .
+2Cf. editionem Biblioteca Hispanica de Filosof´ıa, Madrid 1960, Bd. I, S. 464, Fussnote: “En algunas ediciones, por
+ejemplo en la de B. Colosino, sigue a entis esta cl´ausula: haec autem non est proprietas, sed potius essentia entis.
+(N. de los EE.)”
+
+-- 1 of 7 --
+
+Su´arez, DM III 2
+On the other hand, besides these simple attributes, it seems that there are other complex or disjunctive
+[attributes]. For just as it can be called a property of number that it is equal or inequal and of quantity
+that it is finite or infinite, so also it can be called an attribute of being that it is finite or infinite,
+actual or potential, and so on.
+Lastly, if, as was said, negations or habitudes of reason suffice for attributes of being, these will be
+able to be multiplied to infinity. For example: being the same, not being impossible, being lovable,
+being intelligible, etc.
+Secundum probatur, quia praeter illa praedicata videntur alia communia omni enti, ut
+verbi gratia, durare et esse alicubi; haec enim necessario comitantur omnia entia. Quod si
+dicas haec non convenire enti nisi ut existenti, hic autem esse sermonem de ente secundum
+se abstrahendo ab actuali existentia, contra hoc est quia etiam illae proprietates durationis
+vel localis praesentiae possunt secundum se considerari abstrahendo ab actuali existentia,
+et ut sic intelligentur habere connexionem per se cum ente; unde, sicut haec praedicatio:
+Ens est unum est perpetuae veritatis absolvendo copulam a tempore, ita et haec: Ens
+habet durationem vel praesentiam localem. Est autem specialis difficultas de ipso esse
+actualis existentiae, nam videtur esse proprietas quaedam ipsius entis secundum se sumpti,
+quia non convenit ei essentialiter nec omnino per accidens. Rursus praeter has passiones
+simplices videntur esse aliae complexae seu disiunctae; sicut enim proprietas numeri dici
+potest quod sit par vel impar, et quantitatis quod sit finita vel infinita, ita entis passio
+dici potest quod sit finitum vel infinitum, actu vel potentia, aut similia. Ultimo, si ad
+passiones entis, ut dictum est, sufficiunt negationes seu habitudines rationis, hae poterunt
+in infinitum multiplicari, ut esse idem, non esse impossibile, esse amabile, esse intelligibile,
+etc.
+The resolution of the question (Quaestionis resolutio)
+3. The attributes of being are only three.—This question alone is proposed so that we may recall this
+discussion concerning the attributes of being in certain chapters, and therefore it should briefly be
+said, if we speak strictly and do not insufficiently devise the necessary distinctions, such three are the
+proper attributes of being, namely, one, true, and good. For that these three are distinct from each
+other at least by a formal concept that is either negative or positive, either real or conceptual, anyone
+can easily persuade himself.
+First, from the common opinion of all who write about this matter. Second, from the common way
+of conceiving and from the signification and interpretation of the very words. For ‘one’ as such only
+signifies that the thing is in itself complete and undivided. Hence, it formally adds a negation, by
+which it is distinguished from the true and the good. These, moreover, are distinguished from each
+other, because ‘true’ expresses an adaptation or disposition to the intellect; ‘good’, however, to the will
+or appetite as agreeable to it. It expresses this either formally or fundamentally. These, however, are
+very different natures or dispositions. Which, moreover, can easily be declared from the contraries:
+for unity is opposed to multitude, goodness to badness, truth to falsity. These, however, are very
+distinct. Finally, from the things which we will say in particular concerning these attributes, this will
+stand more evidently. And at the same time we will show that whichever of these attributes agrees
+with all being and this is converted with being. Therefore, there are these three attributes of being.
+Passiones entis tres tantum.—Haec quaestio solum proponitur ut tractationem hanc de
+passionibus entis ad certa capita revocemus, et ideo breviter dicendum est, si proprie loqua-
+mur et non fingamus distinctiones minime necessarias, tres tantum esse proprias passiones
+entis, scilicet, unum,3 verum et bonum. Quod enim hae tres inter se distinctae sint saltem
+3Replacing the period with a comma here, in accordance with the Viv´es edition.
+
+-- 2 of 7 --
+
+Su´arez, DM III 3
+ratione formali, sive illa sit negativa, sive positiva, sive realis, sive rationis, facile quis sibi
+persuadebit. Primo, ex communi sententia omnium scribentium de hac materia. Secundo,
+ex communi modo concipiendi et significatione ac interpretatione ipsarum vocum; nam
+unum ut sic solum significat quod res sit in se integra et indivisa; unde formaliter nega-
+tionem addit, in quo distinguitur a vero et bono. Haec autem inter se distinguuntur, quia
+verum dicit adaequationem vel habitudinem ad intellectum, bonum autem ad voluntatem
+seu appetitum tamquam conveniens illi, sive hoc dicat formaliter sive fundamentaliter; hae
+autem sunt rationes vel habitudines valde diversae. Quod etiam a contrariis facile declarari
+potest: nam unitas opponitur multitudini, bonitas malitiae, veritas falsitati; haec autem
+valde distincta sunt. Tandem ex his, quae in particulari de his passionibus dicemus, hoc ev-
+identius constabit, simulque ostendemus, quodlibet istorum attributorum convenire omni
+enti atque ita converti cum ente; sunt ergo hae tres passiones entis.
+4. Thing and being do not hold themselves just as essence and attribute.—Moreover, that besides these
+there are no others can be gathered from the doctrine of St. Thomas. For although he often numbers
+these six transcendentals and declares their nature and sufficiency (for example in de Verit. q. 1, a. 1,
+q. 21, a. 1, and many other places), nevertheless, when he deals in particular with these properties,
+he never discusses any but these three, as is clear from [ST ] Ia.5.11 and 16 and in the mentioned
+disputed questions . . .
+Res et ens non se habent sicut essentia et passio.—Quod autem praeter has non sint aliae,
+colligi potest ex D. Thomae doctrina; licet enim saepe numeret illa sex transcendentia,
+eorumque rationem et sufficientiam declaret, ut q. 1 de Verit., a. 1, q. 21, a. 1, et saepe
+alias, tamen, cum in particulari agit de his proprietatibus, nunquam tractat nisi de illis
+tribus, ut patet ex I, q. 5, 11 et 16, et in dictis quaestionibus disputatis. Potestque
+in hunc modum declarari ex dictis: nam res et ens iuxta communem usum tamquam
+synonyma usurpantur; et interdum de ente actu existente dicuntur, interdum vero ab
+actuali existentia praescindunt, quare neutrum est passio alterius. Cuius etiam signum est
+quod unum nunquam praedicatur de alio, et si ita praedicetur, censetur esse nugatio seu
+identica praedicatio. Alia vero praedicantur de ente, illique adiunguntur, ut adiectivum
+substantivo; sic enim dicitur ens unum, ens verum, etc.; ens autem et res substantiva sunt,
+neque possunt eo modo coniungi; signum est ergo unum non esse passionem alterius. Quod
+si velimus haec duo in eo rigore distinguere quo D. Thomas supra ex Avicenna illa distinxit,
+quod res praescindat ab existentia actuali et meram quidditatem significet, ens autem
+sumptum sit ab esse et solum dicat ens actualiter existens, sic constat rem non significare
+passionem entis, sed esse praedicatum maxime quidditativum. Et potius ens significabit
+aliquid extra essentiam, saltem in creaturis. Tamen etiam ens non poterit dici passio rei;
+existentia enim non est passio creaturae existentis, vel quia non manat ex principiis eius
+intrinsecis, sed ab extrinseco illi provenit, vel quia non convenit illi necessario ac per se;
+unde neque sub scientiam proprie cadit actualis existentia creaturae, quatenus actu pendet
+a voluntate libera creatoris; quid autem sit haec existentia et quomodo distinguatur ab
+essentia creaturae, res est obscura, quam infra tractando de ente creato in particulari
+disputabimus. Si autem, iuxta opinionem quamdam supra tractatam, ens non solum ut
+dicit actu existens, sed etiam ut dicit aptum ad existendum, distingueretur a re, prout
+absolute dicit habens quidditatem realem, sic ens esset prima passio rei; sed hoc supra
+improbatum est, quia in prima ratione quidditatis realis intrat aptitudo ad existendum, et
+in hoc primo distinguitur quidditas realis a non reali seu ficta. In his ergo duobus nulla
+passio entis continetur. Scio Averr., in sua paraphrasi, c. de Re, dicere rem significare
+non solum rem veram, sed fictam; sed hoc commune est enti, et solum est secundum
+aequivocam significationem. De qua et de aliis aequivocis significationibus harum vocum
+dicam in sequentibus.
+
+-- 3 of 7 --
+
+Su´arez, DM III 4
+5. ‘Something’, according to variant etymologies of the word, is a synonym of ‘being’ or of ‘one’.
+‘Something’, on the other hand, can have a twofold etymology or interpretation. One is that the same
+thing is something which has some quiddity. For either this was the first derivation of the word or
+not, nevertheless, it seems by now to be accepted in general use in this sense. For ‘something’ and
+‘nothing’ are considered to be opposed contradictorily or privatively . . .
+Aliquid, iuxta varias vocis etymologias, vel entis vel unius est synonymum.—Rursus aliquid
+duplicem etymologiam seu interpretationem habere potest. Una est quod idem sit aliquid
+quod habens quidditatem aliquam; sive enim haec fuerit prima derivatio vocis sive non,
+tamen iam in communi usu in hoc sensu accipi videtur; aliquid enim et nihil contradictorie
+seu privative opponi censentur; nihil autem idem significat quod non ens vel non habens
+entitatem ullam; aliquid ergo idem est quod habens aliquam entitatem vel quidditatem. In
+hac ergo significatione constat aliquid non esse passionem, sed synonymum entis; idemque
+censetur etiam secundum formalem rationem et conceptum dicere de aliquo esse aliquid
+et dicere ens, et ita opinatur de hoc attributo Fonsec., IV Metaph., c. 2, q. 5, sect. 2.
+6. But another etymology of this attribute is what St. Thomas mentions . . .
+Alia vero etymologia huius attributi est quam tangit D. Thomas, cit. locis, scilicet, ut
+aliquid dicatur quasi aliud quid, quae videtur conformior primae impositioni huius vocis,
+ut constat ex latinis auctoribus, iuxta quam haec vox significat de formali aliquid dis-
+tinctum ab ente, scilicet, distinctionem ab alio seu negationem identitatis cum alio. Hoc
+tamen sensu attributum hoc vel non est diversum ab uno, vel in eo includitur tamquam
+consequens illud. Unum enim dicitur quod est indivisum in se et divisum a quolibet alio,
+ut infra videbimus; ergo in ratione unius includitur illa negatio quae importatur in voce
+aliquid, vel ad illam revocatur, et ideo hoc attributum non ita auget numerum harum
+passionum ut oporteat de illo aliquid specialiter tractare; sed explicata ratione unius, et
+consequenter multitudinis, quae illi opponitur, et identitatis vel distinctionis, quae in eius
+ratione aliquo modo fundantur, explicatum manebit hoc praedicatum aliquid. Nam, licet
+negatio in illo conclusa possit distingui ratione a negatione inclusa in uno, quod unum
+dicat negationem multitudinis, aliquid vero solum dicat negationem identitatis cum alio,
+quomodo distinguuntur unum et aliquid a D. Thoma, q. 1 de Verit., a. 1, tamen quia
+posterior negatio in priori fundatur, et nullam specialem habet difficultatem in doctrina
+de his passionibus tradenda, non oportet eas distinguere. Dicunt vero aliqui, ut Iavellus,
+in tract. de Transcend., c. 3, aliquid dicere actualem divisionem ab alio ente, ita ut ante
+mundi creationem Deus esset unus, non autem aliquid. Sed hoc impropriissime dictum est;
+quis enim dicat ens non esse aliquid, propterea quod alia non existant? Immo in illo sensu
+aliquid non potest esse passio entis, cum non conveniat omni enti; ergo ut est passio solum
+dicit negationem illam in aptitudine et respectu alterius entis existentis vel possibilis, et
+hoc modo, ut dixi, in unitate fundatur et cum illa simul explicatur.
+7. From what has been said, therefore, from the six transcendentals only the three numbered above
+are left, which can be attributes of being, of which St. Thomas deals sufficiently in the cited passages
+of De Veritate and q. 21, art. 1, because attributes of being should add something to being and cannot
+add something positive and real. Therefore, [it must add] either [something] negative or conceptually
+positive, either through denomination or agreeability to something extrinsic. The attribute of oneness
+is constituted in the first way, because that negation, [i.e.,] of indivision in itself and division from
+whatever else, follows every being in accordance with itself and considered absolutely. And there is
+no other which necessarily agrees with every being as such. The other two attributes are constituted
+in the latter way: one through respect or agreeability to intellect, the other through a disposition or
+
+-- 4 of 7 --
+
+Su´arez, DM III 5
+agreeability to appetite and will. For these two faculties and no other are universal and respect every
+being under different concepts.
+Ex dictis ergo sex transcendentibus tantum relinquuntur tria supra numerata, quae possint
+esse passiones entis, quorum sufficientiam tradit D. Thomas, cit. loco de Verit., et q. 21,
+a. 1, quia passiones entis debent aliquid addere supra ens et non possunt addere aliquid
+positivum reale; ergo vel negativum vel positivum rationis seu per denominationem aut
+convenientiam ad aliquid extrinsecum. Priori modo constituitur passio unius, quia negatio
+illa indivisionis in se et divisionis a quolibet alio consequitur omne ens secundum se et
+absolute consideratum, et nulla alia est quae necessario conveniat omni enti ut sic. Pos-
+teriori modo constituuntur duae aliae passiones, una per respectum seu convenientiam ad
+intellectum; alia per habitudinem et convenientiam ad appetitum et voluntatem; nam hae
+duae facultates et nullae aliae sunt universales, et respiciunt omne ens sub diversa ratione.
+8.
+Qualis inter passiones entis ordo servetur.—Atque hinc colligunt auctores, ex his tribus
+passionibus unitatem esse primam, quia est absoluta; convenit enim omni enti ex se, et
+non per denominationem ab alio extrinseco, neque proprie per relationem ad aliud, quam
+significant aliquo modo verum et bonum, quatenus convenientiam cum alio dicunt; absoluta
+autem sunt priora respectivis ex genere suo. Dices, etiam unum, ut dicit divisionem ab
+alio, importare habitudinem ad aliud. Respondetur primum de ratione unius non esse
+illam negationem, quod sit aliud a quo distinguatur, sed solum consequi ad unum quod
+sit aptum distingui: Deus enim unus erit, etiam si nihil sit a quo dividatur. Deinde illa
+negatio non est relatio, sed potius negatio relationis; nam potius identitas est relatio, et
+illa est negatio identitatis vel certe est fundamentum eius, et consequenter non esse potest
+fundamentum alicuius relationis rationis. Denique, etiam si fingamus illam per modum
+habitudinis ad aliud, est de se prior aliis relationibus veri aut boni, quia est quodammodo
+abstractior, quia solum respicit aliud sub ratione entis, sic enim dicitur unum divisum a
+quolibet alio, cuiuscumque alterius rationis illud sit. Itaque Aristoteles, IV Metaph., c. 1,
+unum coniungit cum ente tamquam primam passionem; et D. Thom., I, q. 11, a. 2 ad 4,
+sentit post ens unum esse quod prius de unoquoque ente cognoscitur, quae latius tractant
+Soncin., IV Metaph., q. 24, et Iavel., tract. de Transcendentibus, c. 1.
+9. The collation between the attributes of being in perfection.—Moreover of the other two transcen-
+dentals or attributes of being, true is prior to good, as St. Thomas teaches in [ST ] Ia.16.4. And it is
+clear, because goodness is founded in a certain way in truth; for as health is good, it is supposed to
+be true health. For if it were imagined health, it would not be good. And likewise for other [goods].
+Hence, true expresses order to the intellect, good to the will. The intellect, however, is a prior power
+to the will. That if anyone wishes also to compare these attributes in perfection and to ask which
+of them is more perfect, it can in the first place easily be responded, concerning formal [nature] and
+according to that which they add to being, neither expresses perfection, because they express or add
+nothing real to being itself. Hence, that which they compare is not under this concept, because the
+comparison supposes [something] positive. But where they signify in some way being itself and declare
+its nature, they copy entirely the same perfection of being, and thus even from this part they cannot
+be compared, because the comparison requires a distinciton.
+Collatio inter passiones entis in perfectione.—Ex aliis autem duobus transcendentibus seu
+passionibus entis, verum est prius bono, ut docuit D. Thomas, I, q. 16, a. 4. Et patet,
+quia bonitas quodammodo fundatur in veritate; ut enim sanitas bona sit, supponitur esse
+
+-- 5 of 7 --
+
+Su´arez, DM III 6
+veram sanitatem; nam si sit ficta, non erit bona, et sic de aliis. Unde verum dicit ordinem
+ad intellectum, bonum ad voluntatem, intellectus autem est prior potentia quam voluntas.
+Quod si quis velit has passiones in perfectione etiam comparare et interroget quaenam
+illarum perfectior sit, potest imprimis facile responderi, de formali et secundum id quod
+addunt supra ens, nullam dicere perfectionem, quia nihil reale dicunt seu addunt ipsi enti;
+unde sub hac ratione non est quod comparentur, quia comparatio supponit positivum;
+quatenus vero significant aliquo modo ipsum ens eiusque naturam declarant, eamdem
+omnino perfectionem entis exprimunt, et ita ex hac etiam parte comparari non possunt,
+quia comparatio distinctionem requirit.
+The arguments are answered (Satisfit argumentis)
+10. Why six transcendentals are numbered.—Therefore, to the first reason for doubting posed in
+the beginning it is responded the transcendentals are not numbered six because all signify distinct
+attributes of being, but some are distinguished for this reason but others only by diverse etymology
+or imposition of words . . .
+Quare sex transcendentia numerentur.—Ad rationem ergo dubitandi in principio positam
+respondetur non ideo sex transcendentia numerari, quia omnia significent distinctas pas-
+siones entis, sed aliqua distingui hac ratione, aliqua vero solum ex diversa etymologia vel
+impositione vocis. Et ita distinguuntur res et ens, quia hoc ab esse, illud a quidditate reali
+sumptum est. Et similiter aliquid et unum ex prima impositione distinguuntur, quod unum
+ex negatione divisionis in se, aliquid vero ex negatione identitatis cum alio dicta sunt; in
+re vero eamdem passionem significant, quia illa duo ad perfectam unitatem requiruntur.
+11.
+Ad aliam vero partem qua probatur has passiones esse plures, respondetur primum de du-
+ratione fortasse non esse quid diversum ab existentia actuali; et ita eadem erit de utraque
+ratio. Quod si forte ex natura rei distincta est in creaturis, merito non numeratur in-
+ter passiones entis, quia est speciale quoddam ens, ut infra suo loco videbimus. Et idem
+dicendum est de praesentia locali; nam ut est modus aliquorum entium, speciale praedica-
+mentum constituit, ut infra etiam dicemus. De illis autem disiunctis, finitum vel infinitum,
+etc., dicendum est, vel proprie non esse passiones entis in communi, sed potius esse divi-
+siones eius: quia vel essentialiter contrahunt ipsum ens, quatenus ens est, vel certe neutrum
+membrum dividens illi convenit, nisi ut contracto seu determinato ad specialem aliquam
+rationem entis, ut de finito et infinito infra videbimus; vel certe significant diversos status
+eiusdem entis, ut esse in actu vel in potentia, ut infra etiam dicturi sumus; ubi etiam
+declarabimus quomodo existentia creaturae non sit passio eius. Vel certe hae proprietates
+disiunctae reducuntur ad simplices ut idem vel diversum ad unitatem.
+12.
+Aliquot rationis habitudines omnibus entibus communes, cur non passiones entis.—Ad
+ultimum respondetur posse quidem plures negationes vel habitudines rationis excogitari
+a nobis in ente, quae illis passionibus quae a nobis numeratae sunt, formaliter non ex-
+plicantur, quomodo nonnulli dicunt rem esse passionem quae formaliter addit supra ens
+negationem entis ficti seu chymerici. Alii addunt idem et diversum, nam quodlibet ens ha-
+bet relationem rationis identitatis ad se ipsum et relationem diversitatis ab alio, saltem a
+non ente seu ab ente rationis. Item fingi potest relatio similitudinis ad alterum, saltem fun-
+damentaliter, ut, sicut aequale ponitur passio quantitatis, ita assimilabile (ut sic dicam) sit
+
+-- 6 of 7 --
+
+Su´arez, DM III 7
+passio entis; nullum enim est ens, quod non possit habere aliquid sibi simile aliquo modo,
+saltem analogice; et infinitae aliae denominationes huiusmodi possunt multiplicari, ut in
+argumento tactum est. Dicendum nihilominus est illas passiones sufficienter numerari, vel
+quia illae solae conducunt ad naturam entis explicandam et habent, tum in rebus, tum
+in usu hominum, sufficientem causam et utilitatem ob quam excogitatae sint et distinc-
+tae; vel, si quae aliae huismodi excogitari possunt, in his virtute continentur, vel ad eas
+revocantur.
+13.
+Res non dicit formaliter negationem entis ficti.—Quod igitur res de formali dicat nega-
+tionem aliquam entis ficti, fictum quidem est et praeter omnem latinam significationem
+vocis et communem conceptionem hominum; nam res non est terminus negativus seu pri-
+vativus, sed omnino positivus. Est etiam impertinens illa negatio, tum quia obscurius
+est ad explicandum quid sit ens fictum quam quid sit res; tum etiam quia si illa negatio
+necessaria est ad passiones entis, potius in vero fundanda est; dicitur enim verum ens quod
+non est fictum; vel, si formaliter sumatur in uno seu aliquo includitur; quia in negatione,
+quam dicit aliquid, includitur, ut sit divisum a quolibet alio, et consequenter etiam ab
+ente ficto. Eo vel maxime quod ratio entis ficti ut sic in negatione consistit; illud enim
+est proprie ens fictum, quod ita mente apprehendi potest ut in se involvat repugnantiam
+et impossibilitatem, quae est negatio quaedam, et ideo reale ens non proprie dividitur ab
+illo per negationem, sed formaliter per suam realitatem, ut latius disputatione sequenti in
+simili dicemus. Et eadem ratione excluduntur similes negationes, quae ex sola reflexione
+intellectus fieri possunt, ut non esse diversum a se, esse diversum ab ente rationis, non esse
+sibi inaequale et similes, quae et inutiles sunt et in infinitum multiplicari possunt et sunt
+mera opera rationis, quae non sufficiunt ad passiones entis, ut diximus.
+14.
+Atque hinc etiam constat non oportere addere inter passiones entis identitatem vel diversi-
+tatem, quia ut haec possunt formaliter dicere relationes rationis, non pertinent ad passiones
+entis, ut supra dictum est generaliter; quia tales relationes non per se conveniunt enti, sed
+extrinsecus tantum per cogitationem, reflexionem, aut comparationem mentis; si autem
+sumantur quatenus in re habent aliquod fundamentum positivum vel privativum, sic suffi-
+cienter continentur sub unitate, ut infra dicemus. Et eodem modo reducitur ad unitatem
+similitudo (si haec communis est omni enti), nam si sumatur pro vera relatione, illa sine
+dubio non est passio, quia nec convenit semper omni enti, et cui convenit, non per se,
+sed ex accidente convenit. Et si forte dicatur creaturae existenti semper convenire, tamen
+etiam respectu illius erit quoddam accidens, sicut relatio creaturae. Si autem sumatur
+fundamentaliter, sic ad unitatem reducenda est; sic enim dixit Aristoteles similitudinem in
+unitate fundari. Denique iuxta hunc modum, ad veritatem reducitur denominatio intelli-
+gibilis, significabilis; ad bonum reducitur ratio integri, et perfecti, et denominatio amabilis,
+appetibilis, et similes; non est ergo necesse plures passiones confingere.
+
+-- 7 of 7 --

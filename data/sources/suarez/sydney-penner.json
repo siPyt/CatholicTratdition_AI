@@ -1,0 +1,1866 @@
+{
+  "sources": [
+    {
+      "id": "suarez-de-angelis",
+      "author": "Francisco Suarez",
+      "work": "De Angelis",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-angelis-lib-vii-c-6",
+          "location": "Lib. VII, c. 6",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether every sin of the will presupposes some defect in the practical intellect.",
+          "keywords": [
+            "angelis",
+            "every",
+            "will",
+            "presupposes",
+            "some",
+            "defect",
+            "practical",
+            "intellect"
+          ],
+          "filePath": "data/raw/suarez/de-angelis-7-6.txt"
+        },
+        {
+          "id": "suarez-de-angelis-lib-vii-c-10",
+          "location": "Lib. VII, c. 10",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the first sin of pride in Lucifer was an excessive or inordinate appetite for his own natural happiness.",
+          "keywords": [
+            "angelis",
+            "first",
+            "pride",
+            "lucifer",
+            "excessive",
+            "inordinate",
+            "appetite",
+            "natural"
+          ],
+          "filePath": "data/raw/suarez/de-angelis-7-10.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-anima",
+      "author": "Francisco Suarez",
+      "work": "De anima",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-anima-disp-12-q-2",
+          "location": "Disp. 12, q. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the will is free in its acts.",
+          "keywords": [
+            "anima",
+            "will",
+            "free",
+            "acts",
+            "disp"
+          ],
+          "filePath": "data/raw/suarez/da-d12q2.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-bonitate-et-malitia-humanorum-actuum",
+      "author": "Francisco Suarez",
+      "work": "De bonitate et malitia humanorum actuum",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-bonitate-et-malitia-humanorum-actuum-disp-6-sect-1",
+          "location": "Disp. 6, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether a good end is necessary in order for an act of the will to be good.",
+          "keywords": [
+            "bonitate",
+            "malitia",
+            "humanorum",
+            "actuum",
+            "good",
+            "necessary",
+            "order",
+            "will"
+          ],
+          "filePath": "data/raw/suarez/tract3disp6sec1.txt"
+        },
+        {
+          "id": "suarez-de-bonitate-et-malitia-humanorum-actuum-disp-6-sect-4",
+          "location": "Disp. 6, sect. 4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the accidental goodness from the end in an interior act of the will is.",
+          "keywords": [
+            "bonitate",
+            "malitia",
+            "humanorum",
+            "actuum",
+            "accidental",
+            "goodness",
+            "from",
+            "interior"
+          ],
+          "filePath": "data/raw/suarez/dbm-6-4.txt"
+        },
+        {
+          "id": "suarez-de-bonitate-et-malitia-humanorum-actuum-disp-6-sect-5",
+          "location": "Disp. 6, sect. 5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what kind of relation to the end is required for this goodness.",
+          "keywords": [
+            "bonitate",
+            "malitia",
+            "humanorum",
+            "actuum",
+            "kind",
+            "relation",
+            "required",
+            "this"
+          ],
+          "filePath": "data/raw/suarez/dbm-6-5.txt"
+        },
+        {
+          "id": "suarez-de-bonitate-et-malitia-humanorum-actuum-disp-7-sect-1",
+          "location": "Disp. 7, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether there is some act of the will that is of itself and by its own nature evil even apart from an extrinsic prohibition.",
+          "keywords": [
+            "bonitate",
+            "malitia",
+            "humanorum",
+            "actuum",
+            "some",
+            "will",
+            "that",
+            "itself"
+          ],
+          "filePath": "data/raw/suarez/dbm-7-1.txt"
+        },
+        {
+          "id": "suarez-de-bonitate-et-malitia-humanorum-actuum-disp-11-sect-2",
+          "location": "Disp. 11, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the human will, in order to be right, must be conformed to the divine will that orders the actions of the human will itself.",
+          "keywords": [
+            "bonitate",
+            "malitia",
+            "humanorum",
+            "actuum",
+            "human",
+            "will",
+            "order",
+            "right"
+          ],
+          "filePath": "data/raw/suarez/tract3disp11sec2.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-deo-uno-et-trino",
+      "author": "Francisco Suarez",
+      "work": "De Deo Uno et Trino",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-deo-uno-et-trino-tract-iii-lib-3-cap-1",
+          "location": "Tract. III, lib. 3, cap. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on it is shown that the divine persons are really distinguished from each other.",
+          "keywords": [
+            "trino",
+            "shown",
+            "that",
+            "divine",
+            "persons",
+            "really",
+            "distinguished",
+            "from"
+          ],
+          "filePath": "data/raw/suarez/dedeounoettrino-3-3-1.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-fine-hominis",
+      "author": "Francisco Suarez",
+      "work": "De Fine Hominis",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-fine-hominis-introduction",
+          "location": "Introduction",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on *Introduction.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "introduction"
+          ],
+          "filePath": "data/raw/suarez/tract1proem.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-1",
+          "location": "Disp. 1, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez in what the causality of an end consists with respect to human will.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "causality",
+            "consists",
+            "respect",
+            "human",
+            "will",
+            "disp"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-2",
+          "location": "Disp. 1, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the causality of an end in our will is only with respect to means or also with respect to the end itself.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "causality",
+            "will",
+            "only",
+            "respect",
+            "means",
+            "also"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-3",
+          "location": "Disp. 1, sect. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether an end exercises causality under the aspect of cognized good.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "exercises",
+            "causality",
+            "under",
+            "aspect",
+            "cognized",
+            "good"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-4",
+          "location": "Disp. 1, sect. 4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on under what aspect of good an end moves and, consequently, whether means participate in the causality of an end.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "under",
+            "aspect",
+            "good",
+            "moves",
+            "consequently",
+            "means"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec4.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-5",
+          "location": "Disp. 1, sect. 5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez how the end is related to the adequate object of the will.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "related",
+            "adequate",
+            "object",
+            "will",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec5.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-1-sect-6",
+          "location": "Disp. 1, sect. 6",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what kinds of ends there are.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "kinds",
+            "ends",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract1disp1sec6.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-2-sect-1",
+          "location": "Disp. 2, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning actions of the will which are on account of an end.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "concerning",
+            "actions",
+            "will",
+            "account",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract1disp2sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-2-sect-2",
+          "location": "Disp. 2, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether acts of the will are necessarily for the sake of an end and consequently whether they are properly human acts.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "acts",
+            "will",
+            "necessarily",
+            "sake",
+            "consequently",
+            "they"
+          ],
+          "filePath": "data/raw/suarez/tract1disp2sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-2-sect-3",
+          "location": "Disp. 2, sect. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether a human being acts for the sake of an end in actions which do not proceed from the will.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "human",
+            "being",
+            "acts",
+            "sake",
+            "actions",
+            "proceed"
+          ],
+          "filePath": "data/raw/suarez/tract1disp2sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-2-sect-4",
+          "location": "Disp. 2, sect. 4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on in how many ways it happens that the will of a human acts for the sake of an end.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "many",
+            "ways",
+            "happens",
+            "that",
+            "will",
+            "human"
+          ],
+          "filePath": "data/raw/suarez/tract1disp2sec4.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-1",
+          "location": "Disp. 3, sects. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it is necessary to set up some ultimate end for humans and their actions.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "necessary",
+            "some",
+            "ultimate",
+            "humans",
+            "their",
+            "actions"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-2",
+          "location": "Disp. 3, sects. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether one can intend in his actions two particular ultimate ends as such.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "intend",
+            "actions",
+            "particular",
+            "ultimate",
+            "ends",
+            "such"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-3",
+          "location": "Disp. 3, sects. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether someone can at the same time intend two ultimate ends, strictly speaking and positively, and act on account of these.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "someone",
+            "same",
+            "time",
+            "intend",
+            "ultimate",
+            "ends"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-4",
+          "location": "Disp. 3, sects. 4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether someone can at the same time intend two ultimate ends, one unqualifiedly ultimate and the other qualifiedly ultimate.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "someone",
+            "same",
+            "time",
+            "intend",
+            "ultimate",
+            "ends"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec4.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-5",
+          "location": "Disp. 3, sects. 5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it is necessary that a human being always act for the sake of an unqualifiedly ultimate end that he himself intends.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "necessary",
+            "that",
+            "human",
+            "being",
+            "always",
+            "sake"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec5.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-3-sects-6",
+          "location": "Disp. 3, sects. 6",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether all human actions are on account of an ultimate end strictly speaking at least by inclination.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "human",
+            "actions",
+            "account",
+            "ultimate",
+            "strictly",
+            "speaking"
+          ],
+          "filePath": "data/raw/suarez/tract1disp3sec6.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-4-sect-1",
+          "location": "Disp. 4, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning happiness in general: whether it exists and what it is.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "concerning",
+            "happiness",
+            "general",
+            "exists",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract1disp4sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-4-sect-2",
+          "location": "Disp. 4, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it can be shown that human happiness is possible or is going to be.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "shown",
+            "that",
+            "human",
+            "happiness",
+            "possible",
+            "going"
+          ],
+          "filePath": "data/raw/suarez/tract1disp4sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-4-sect-3",
+          "location": "Disp. 4, sect. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what kinds of happiness there are.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "kinds",
+            "happiness",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract1disp4sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-5-sect-1",
+          "location": "Disp. 5, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether all created things without God could be a sufficient object of human happiness.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "created",
+            "things",
+            "without",
+            "could",
+            "sufficient",
+            "object"
+          ],
+          "filePath": "data/raw/suarez/tract1disp5sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-5-sect-2",
+          "location": "Disp. 5, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether God alone without the association of any creatures is a sufficient object of happiness.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "alone",
+            "without",
+            "association",
+            "creatures",
+            "sufficient",
+            "object"
+          ],
+          "filePath": "data/raw/suarez/tract1disp5sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-5-sect-3",
+          "location": "Disp. 5, sect. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether God is the object of human happiness according to everything that he is or according to a special attribute.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "object",
+            "human",
+            "happiness",
+            "according",
+            "everything",
+            "that"
+          ],
+          "filePath": "data/raw/suarez/tract1disp5sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-6-sect-3",
+          "location": "Disp. 6, sect. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether happiness is one simple activity of the intellective soul or a collection of multiple activities.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "happiness",
+            "simple",
+            "activity",
+            "intellective",
+            "soul",
+            "collection"
+          ],
+          "filePath": "data/raw/suarez/tract1disp6sec3.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-7-sect-1",
+          "location": "Disp. 7, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether formal happiness is essentially an act of the intellect or of the will.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "formal",
+            "happiness",
+            "essentially",
+            "intellect",
+            "will",
+            "disp"
+          ],
+          "filePath": "data/raw/suarez/tract1disp7sec1.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-7-sect-2",
+          "location": "Disp. 7, sect. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez in what act the essential imperfect happiness that can be had in this life consists.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "essential",
+            "imperfect",
+            "happiness",
+            "that",
+            "this",
+            "life"
+          ],
+          "filePath": "data/raw/suarez/tract1disp7sec2.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-15-sect-1-2",
+          "location": "Disp. 15, sect. 1-2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on 2 - In what this natural happiness properly consists; In what way a human being can acquire natural happiness.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "this",
+            "natural",
+            "happiness",
+            "properly",
+            "consists",
+            "human"
+          ],
+          "filePath": "data/raw/suarez/tract1disp15.txt"
+        },
+        {
+          "id": "suarez-de-fine-hominis-disp-16-sect-1",
+          "location": "Disp. 16, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether a human being desires with an innate desire natural happiness in particular and in general.",
+          "keywords": [
+            "fine",
+            "hominis",
+            "human",
+            "being",
+            "desires",
+            "innate",
+            "desire",
+            "natural"
+          ],
+          "filePath": "data/raw/suarez/tract1disp16sec1.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-generatione-et-corruptione",
+      "author": "Francisco Suarez",
+      "work": "De generatione et corruptione",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-generatione-et-corruptione-disp-1-q-1",
+          "location": "Disp. 1, q. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether there is substantial generation and corruption and what it is.",
+          "keywords": [
+            "generatione",
+            "corruptione",
+            "substantial",
+            "generation",
+            "corruption",
+            "disp"
+          ],
+          "filePath": "data/raw/suarez/dgc-1-1.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-gratia-pars-i",
+      "author": "Francisco Suarez",
+      "work": "De gratia, pars I",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-gratia-pars-i-prol-1-cap-1",
+          "location": "Prol. 1, cap. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on the names 'nature' and 'freewill.",
+          "keywords": [
+            "gratia",
+            "pars",
+            "names",
+            "nature",
+            "freewill",
+            "prol"
+          ],
+          "filePath": "data/raw/suarez/degratia-prol-1-1.txt"
+        },
+        {
+          "id": "suarez-de-gratia-pars-i-prol-1-cap-2",
+          "location": "Prol. 1, cap. 2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what things are necessary for a power to be free and to operate freely?.",
+          "keywords": [
+            "gratia",
+            "pars",
+            "things",
+            "necessary",
+            "power",
+            "free",
+            "operate",
+            "freely"
+          ],
+          "filePath": "data/raw/suarez/degratia-prol-1-2.txt"
+        },
+        {
+          "id": "suarez-de-gratia-pars-i-prol-1-cap-3",
+          "location": "Prol. 1, cap. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether a power that after all the prerequisites for acting have been posited can both act and not act is rightly described as being free.",
+          "keywords": [
+            "gratia",
+            "pars",
+            "power",
+            "that",
+            "after",
+            "prerequisites",
+            "acting",
+            "have"
+          ],
+          "filePath": "data/raw/suarez/degratia-prol-1-3.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-legibus",
+      "author": "Francisco Suarez",
+      "work": "De legibus",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-legibus-lib-1-cap-13",
+          "location": "Lib. 1, cap. 13",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the effect intended by law is to make subordinates good.",
+          "keywords": [
+            "legibus",
+            "effect",
+            "intended",
+            "make",
+            "subordinates",
+            "good"
+          ],
+          "filePath": "data/raw/suarez/dl-1-13.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-libertate-divinae-voluntatis",
+      "author": "Francisco Suarez",
+      "work": "De libertate divinae voluntatis",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-libertate-divinae-voluntatis-disp-1",
+          "location": "Disp. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on the true sense of Paul's statement that God works all things according to the counsel of his will.",
+          "keywords": [
+            "libertate",
+            "divinae",
+            "voluntatis",
+            "true",
+            "sense",
+            "paul",
+            "statement",
+            "that"
+          ],
+          "filePath": "data/raw/suarez/dldv-1.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-scientia-dei-futurorum-contingentium",
+      "author": "Francisco Suarez",
+      "work": "De scientia Dei futurorum contingentium",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-scientia-dei-futurorum-contingentium-lib-1-cap-8",
+          "location": "Lib. 1, cap. 8",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez in what way, finally, God cognizes future contingents.",
+          "keywords": [
+            "scientia",
+            "futurorum",
+            "contingentium",
+            "finally",
+            "cognizes",
+            "future",
+            "contingents"
+          ],
+          "filePath": "data/raw/suarez/dsdfc-1-8.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-de-voluntario-et-involuntario",
+      "author": "Francisco Suarez",
+      "work": "De voluntario et involuntario",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-de-voluntario-et-involuntario-disp-6-sect-1",
+          "location": "Disp. 6, sect. 1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning the objects, natures, and differences of will and intention.",
+          "keywords": [
+            "voluntario",
+            "involuntario",
+            "concerning",
+            "objects",
+            "natures",
+            "differences",
+            "will",
+            "intention"
+          ],
+          "filePath": "data/raw/suarez/tract2disp6sec1.txt"
+        },
+        {
+          "id": "suarez-de-voluntario-et-involuntario-disp-8",
+          "location": "Disp. 8",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what election is, what its object is, and of what power it is an act; Whether consent is an act of the will distinct from election; How election and consent are distinguished from the intention for an end and, at the same time, how they turn concerning the end; Whether an act of choice is free; Concerning the cognition necessary for election.",
+          "keywords": [
+            "voluntario",
+            "involuntario",
+            "election",
+            "object",
+            "power",
+            "consent",
+            "will",
+            "distinct"
+          ],
+          "filePath": "data/raw/suarez/tract2disp8.txt"
+        },
+        {
+          "id": "suarez-de-voluntario-et-involuntario-disp-8-sect-4",
+          "location": "Disp. 8, sect. 4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether an act of choice is free.",
+          "keywords": [
+            "voluntario",
+            "involuntario",
+            "choice",
+            "free",
+            "disp",
+            "sect"
+          ],
+          "filePath": "data/raw/suarez/tract2disp8sec4.txt"
+        },
+        {
+          "id": "suarez-de-voluntario-et-involuntario-disp-9",
+          "location": "Disp. 9",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what use is and what its object is; Whether use is an act distinct from election; What act of the intellect precedes use and, at the same time, what command is and how it is distinguished from use.",
+          "keywords": [
+            "voluntario",
+            "involuntario",
+            "object",
+            "distinct",
+            "from",
+            "election",
+            "intellect",
+            "precedes"
+          ],
+          "filePath": "data/raw/suarez/tract2disp9.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-disputationes-metaphysicae",
+      "author": "Francisco Suarez",
+      "work": "Disputationes Metaphysicae",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-disputationes-metaphysicae-ii-1-1",
+          "location": "II.1.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on formal and objective concepts.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "formal",
+            "objective",
+            "concepts"
+          ],
+          "filePath": "data/raw/suarez/dm-2-1-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-ii-4",
+          "location": "II.4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez in what the nature of being insofar as [it is] being consists and how it agrees with lower beings.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "nature",
+            "being",
+            "insofar",
+            "consists",
+            "agrees",
+            "lower"
+          ],
+          "filePath": "data/raw/suarez/dm-2-4.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-iii-2",
+          "location": "III.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez how many attributes of being there are and what order they preserve between themselves.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "many",
+            "attributes",
+            "being",
+            "order",
+            "they",
+            "preserve"
+          ],
+          "filePath": "data/raw/suarez/dm-3-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-viii-2",
+          "location": "VIII.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the truth of cognition is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "truth",
+            "cognition",
+            "viii"
+          ],
+          "filePath": "data/raw/suarez/dm-8-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-viii-7",
+          "location": "VIII.7",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether truth is something in things which is an attribute of beings.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "truth",
+            "something",
+            "things",
+            "attribute",
+            "beings",
+            "viii"
+          ],
+          "filePath": "data/raw/suarez/dm-8-7.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-x-1",
+          "location": "X.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what good or goodness is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "good",
+            "goodness"
+          ],
+          "filePath": "data/raw/suarez/dm-10-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xii-1",
+          "location": "XII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether cause and principle are entirely the same.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "cause",
+            "principle",
+            "entirely",
+            "same"
+          ],
+          "filePath": "data/raw/suarez/dm-12-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xii-2",
+          "location": "XII.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether there is some common ratio of cause, and what it is and of what kind it is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "some",
+            "common",
+            "ratio",
+            "cause",
+            "kind"
+          ],
+          "filePath": "data/raw/suarez/dm-12-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xii-3",
+          "location": "XII.3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez how many kinds of causes there are.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "many",
+            "kinds",
+            "causes"
+          ],
+          "filePath": "data/raw/suarez/dm-12-3.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xiii-1",
+          "location": "XIII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it is evident to natural reason that there is given in beings a material cause of substances, which we name prime matter.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "evident",
+            "natural",
+            "reason",
+            "that",
+            "given",
+            "beings"
+          ],
+          "filePath": "data/raw/suarez/dm-13-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xiii-2",
+          "location": "XIII.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the material cause of generable and corruptible substances is single or multiple.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "material",
+            "cause",
+            "generable",
+            "corruptible",
+            "substances",
+            "single"
+          ],
+          "filePath": "data/raw/suarez/dm-13-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xiii-3",
+          "location": "XIII.3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the single first material cause of generable substances is some simple body or a whole substance.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "single",
+            "first",
+            "material",
+            "cause",
+            "generable",
+            "substances"
+          ],
+          "filePath": "data/raw/suarez/dm-13-3.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xiii-5",
+          "location": "XIII.5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether matter is pure potentiality and in what sense that should be accepted.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "matter",
+            "pure",
+            "potentiality",
+            "sense",
+            "that",
+            "should"
+          ],
+          "filePath": "data/raw/suarez/dm-13-5.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xiii-9",
+          "location": "XIII.9",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the causality of matter is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "causality",
+            "matter",
+            "xiii"
+          ],
+          "filePath": "data/raw/suarez/dm-13-9.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-1",
+          "location": "XXIII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether an end is a true real cause.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "true",
+            "real",
+            "cause",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-2",
+          "location": "XXIII.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what kinds of ends there are.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "kinds",
+            "ends",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-3",
+          "location": "XXIII.3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what effects the final cause has.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "effects",
+            "final",
+            "cause",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-3.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-4",
+          "location": "XXIII.4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the nature of causing or the causality of the final cause is or consists in.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "nature",
+            "causing",
+            "causality",
+            "final",
+            "cause",
+            "consists"
+          ],
+          "filePath": "data/raw/suarez/dm-23-4.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-5",
+          "location": "XXIII.5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the proximate nature of causing in the final end is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "proximate",
+            "nature",
+            "causing",
+            "final",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-5.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-6",
+          "location": "XXIII.6",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what things can exercise final causality.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "things",
+            "exercise",
+            "final",
+            "causality",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-6.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-7",
+          "location": "XXIII.7",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it is a necessary condition for the end to be cognized so that it can cause finally.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "necessary",
+            "condition",
+            "cognized",
+            "that",
+            "cause",
+            "finally"
+          ],
+          "filePath": "data/raw/suarez/dm-23-7.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-8",
+          "location": "XXIII.8",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the end moves according to its own real being or according to being cognized.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "moves",
+            "according",
+            "real",
+            "being",
+            "cognized",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-8.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-9",
+          "location": "XXIII.9",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether causality of the end has a place in divine actions and effects.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "causality",
+            "place",
+            "divine",
+            "actions",
+            "effects",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-9.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-10",
+          "location": "XXIII.10",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether true final causality intercedes in the actions of natural and irrational agents.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "true",
+            "final",
+            "causality",
+            "intercedes",
+            "actions",
+            "natural"
+          ],
+          "filePath": "data/raw/suarez/dm-23-10.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiv",
+          "location": "XXIV",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning the ultimate final cause or the ultimate end (Whether it can be sufficiently shown by natural reason that some ultimate end is given and that a procession into infinity is not given in final causes; Whether an ultimate end per se and properly concurs with all proximate ends for causing finally and consequently whether all agents intend an ultimate end in all their actions)..",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "concerning",
+            "ultimate",
+            "final",
+            "cause",
+            "sufficiently",
+            "shown"
+          ],
+          "filePath": "data/raw/suarez/dm-24.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-1",
+          "location": "XXIII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether an end is a true real cause.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "true",
+            "real",
+            "cause",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-2",
+          "location": "XXIII.2",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what kinds of ends there are.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "kinds",
+            "ends",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-2.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-3",
+          "location": "XXIII.3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what effects the final cause has.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "effects",
+            "final",
+            "cause",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-3.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-4",
+          "location": "XXIII.4",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the nature of causing or the causality of the final cause is or consists in.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "nature",
+            "causing",
+            "causality",
+            "final",
+            "cause",
+            "consists"
+          ],
+          "filePath": "data/raw/suarez/dm-23-4.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-5",
+          "location": "XXIII.5",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what the proximate nature of causing in the final end is.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "proximate",
+            "nature",
+            "causing",
+            "final",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-5.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-6",
+          "location": "XXIII.6",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez what things can exercise final causality.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "things",
+            "exercise",
+            "final",
+            "causality",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-6.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-7",
+          "location": "XXIII.7",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it is a necessary condition for the end to be cognized so that it can cause finally.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "necessary",
+            "condition",
+            "cognized",
+            "that",
+            "cause",
+            "finally"
+          ],
+          "filePath": "data/raw/suarez/dm-23-7.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-8",
+          "location": "XXIII.8",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether the end moves according to its own real being or according to being cognized.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "moves",
+            "according",
+            "real",
+            "being",
+            "cognized",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-8.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-9",
+          "location": "XXIII.9",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether causality of the end has a place in divine actions and effects.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "causality",
+            "place",
+            "divine",
+            "actions",
+            "effects",
+            "xxiii"
+          ],
+          "filePath": "data/raw/suarez/dm-23-9.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiii-10",
+          "location": "XXIII.10",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether true final causality intercedes in the actions of natural and irrational agents.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "true",
+            "final",
+            "causality",
+            "intercedes",
+            "actions",
+            "natural"
+          ],
+          "filePath": "data/raw/suarez/dm-23-10.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxiv",
+          "location": "XXIV",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning the ultimate final cause or the ultimate end (Whether it can be sufficiently shown by natural reason that some ultimate end is given and that a procession into infinity is not given in final causes; Whether an ultimate end per se and properly concurs with all proximate ends for causing finally and consequently whether all agents intend an ultimate end in all their actions)..",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "concerning",
+            "ultimate",
+            "final",
+            "cause",
+            "sufficiently",
+            "shown"
+          ],
+          "filePath": "data/raw/suarez/dm-24.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxvi-1",
+          "location": "XXVI.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether every cause is more noble than its effect.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "every",
+            "cause",
+            "more",
+            "noble",
+            "than",
+            "effect"
+          ],
+          "filePath": "data/raw/suarez/dm-26-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxvii",
+          "location": "XXVII",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez on the comparison of the causes to each other.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "comparison",
+            "causes",
+            "each",
+            "other",
+            "xxvii"
+          ],
+          "filePath": "data/raw/suarez/dm-27.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxx-1",
+          "location": "XXX.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether it belongs to God to be a wholly perfect being (includes bit about eminent containment).",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "belongs",
+            "wholly",
+            "perfect",
+            "being",
+            "includes",
+            "about"
+          ],
+          "filePath": "data/raw/suarez/dm-30-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxxii-1",
+          "location": "XXXII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether being is proximately and sufficiently divided into substance and accident.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "being",
+            "proximately",
+            "sufficiently",
+            "divided",
+            "into",
+            "substance"
+          ],
+          "filePath": "data/raw/suarez/dm-32-1.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xxxix",
+          "location": "XXXIX",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez concerning the division of accidents into the nine highest genera (Whether accident in general is immediately divided into quantity, quality, and the other highest genera of accidents; Whether the division of accidents into nine genera is sufficient; Whether the stated division is univocal or analogical).",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "concerning",
+            "division",
+            "accidents",
+            "into",
+            "nine",
+            "highest"
+          ],
+          "filePath": "data/raw/suarez/dm-39.txt"
+        },
+        {
+          "id": "suarez-disputationes-metaphysicae-xlviii-1",
+          "location": "XLVIII.1",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether action essentially expresses a respect to the principle of acting.",
+          "keywords": [
+            "disputationes",
+            "metaphysicae",
+            "action",
+            "essentially",
+            "expresses",
+            "respect",
+            "principle",
+            "acting"
+          ],
+          "filePath": "data/raw/suarez/dm-48-1.txt"
+        }
+      ]
+    },
+    {
+      "id": "suarez-quaestiones-de-legibus",
+      "author": "Francisco Suarez",
+      "work": "Quaestiones de legibus",
+      "tier": "suarez",
+      "provenance": {
+        "sourceLabel": "Sydney Penner translations, used with permission"
+      },
+      "rights": {
+        "status": "licensed",
+        "notes": "Used with direct permission for local storage, indexing, and retrieval, confirmed by the project owner on 2026-04-20."
+      },
+      "segments": [
+        {
+          "id": "suarez-quaestiones-de-legibus-disp-3-q-3",
+          "location": "Disp. 3, q. 3",
+          "modeTags": [
+            "proofs"
+          ],
+          "summary": "Suarez whether natural law is only one.",
+          "keywords": [
+            "quaestiones",
+            "legibus",
+            "natural",
+            "only",
+            "disp"
+          ],
+          "filePath": "data/raw/suarez/qdl-3-3.txt"
+        }
+      ]
+    }
+  ]
+}

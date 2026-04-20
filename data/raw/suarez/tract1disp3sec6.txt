@@ -1,0 +1,217 @@
+Last revision: February 5, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 3, SECT. 61
+© Sydney Penner 2010
+<37>2
+Utrum omnes actiones hominis sint propter ultimum finem sim- Whether all the actions of a human being are for the sake of an unqualifiedly
+pliciter, saltem ex inclinatione. ultimate end, at least by inclination.
+Arguitur pro
+parte neg.
+1. Ratio dubitandi est, quia vel est sermo de fine ultimo for- 1. The reason for doubting is that the discussion is either about the formal It is argued for
+the negative side.	mali, aut de fine ultimo materiali, seu de re illa, ad quam homo ultimate end or about the material ultimate end or that thing to which a
+5 natura sua tendit ut ad ultimum finem, neutro autem modo vide- 5R human being tends by his nature as to an ultimate end, but a human being
+tur homo operari semper propter <col. b> ultimum finem. De does not seem always to act for the sake of an ultimate end in either case.
+primo patet, quia, ut supra dixi, sectione 1, num. 6, intentio finis It is clear concerning the first, because, as I said above in sect. 1, n. 6, an
+ultimi formalis non sufficit ad electiones faciendas: atque adeo intention for a formal ultimate end is not enough to choose what needs
+nec ad operandum propter finem ex propria intentione ipsius to be done. And therefore it is also not enough for acting for the sake of
+10 hominis operantis: ergo nec etiam naturalis proportio ad hunc 10R the end by a proper intention of the acting human being. Nor, therefore,
+finem formalem sufficit ut homo in omni actu suo dicatur op- is a natural proportion to this formal end enough for a human being to
+erari propter ultimum finem hunc, ex inclinatione naturæ, quia be said in all his acts to act for the sake of this ultimate end from an
+non omnia, quæ amat, sunt media ad hunc finem. Altera pars inclination of nature, because not everything that he loves is a means to
+probatur, quia finis ultimus, ad quem homo natura sua tendit, est this end. The other part is shown, because the ultimate end to which a
+15 Deus; sed non omnia, quæ homo operatur, tendunt in Deum, ut 15R human being tends by his nature is God, but not all acts which a human
+patet maxime de actibus malis, seu peccatis: ergo. being performs tend to God, as is most clear concerning bad acts or sins.
+Therefore.
+2. Hæc quæstio facillime expediri potest, suppositis his, quæ 2. This question can be resolved most easily by first considering those
+supra dicta sunt, in disp. 2, sect. 4, de variis modis operandi things which I said above in disp. 2, sect. 4, concerning the various ways
+propter finem: nam hic modus, de quo nunc agimus, non re- 20R of acting for the sake of an end. For the way with which we are concerned
+20 quirit propriam intentionem ipsius operantis vel præsentem, vel now does not require the agent to have a proper intention, either present
+præteritam, sed solum interpretativam, quæ censetur contineri or past, but only an interpretative intention. An interpretative intention
+in ipso objecto proximo humanæ operationis, seu voluntatis is thought to be contained in the proximate object itself of human action
+quatenus illud natura sua tendit in aliud, vel tanquam medium or will insofar as the object by its nature tends to another [object], either
+1. Assertio
+affirm. de fine
+formali probatur
+auctorit.
+ad finem, vel tanquam pars ad totum. Unde dicendum est primo, 25R as a means to an end or as a part to a whole.
+25 hominem in omnibus actibus suis, tam bonis, quam malis, oper- Hence, it should be said, firstly, that a human being in all his ac- The first
+assertion
+affirmative about
+the formal end is
+proven by
+authority.
+ari aliquo modo propter ultimum finem formalem ex naturali tions, good as well as bad, acts in some way for the sake of a formal ul-
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the 1628
+edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès
+edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 6 2
+connexione cujuscumque objecti voluntatis cum tali fine. Ita est timate end by a natural connection between any object of the will what-
+intelligendus D. Thomas 1, 2, q. 1, art. 6, ut clarius idem ex- ever and such an end. This is how St. Thomas should be understood in
+plicuit in 4, dist. 49, q. 1, art. 3, quæstiunc. 4, ubi cæteri theologi 30R [ST ] IaIIæ.1.6, as he has more clearly explained in [Sent.] IV, dist. 49,
+30 idem sentiunt præter eos, qui existimant voluntatem posse ferri q. 1, art. 3, quæstiunc. 4, where other theologians think the same (besides
+in malum sub ratione mali, quod improbabile est, ut nunc sup- those who think that the will can be brought to bad under the aspect of
+pono. Et colligitur eadem conclusio ex Aristotele 1, Ethicorum, bad, which is improbable, as I currently assume). And the same conclu-
+cap. 4 et 7, et 1, Rhetor., cap. 5, et est frequens apud Augustinum sion is gathered from Aristotle, EN I, c. 4 and 7, and Rhetor. I, c. 5, and
+10, Confess., cap. 20 et 21, et lib. 11, de Trinit., cap. 6, lib. 19, 35R is frequently in Augustine in Conf. 10, c. 20 and 21, and De Trin. XI, c. 6,
+35 de Civit., cap. 1, et lib. de Epicureis et Stoicis. Nam qui et bonus and De Civ. XIX, c. 1, and the book concerning the Epicureans and Sto-
+est, inquit, ideo bonus est, ut beatus sit: et qui malus est, malus ics. ‘For also he who is good’, he says, ‘is good in order to be happy; and
+Item ratione. non esset, nisi inde beatum se posse esse speraret. Secundo, ratio he who is bad would not be bad except that he hopes he can thereby be
+est clara, quia homo naturaliter appetit complementum omnis happy.’3
+boni; in omni autem voluntate sua appetit saltem partem, seu 40R Secondly, the reason is clear: a human being naturally desires a com- The same
+assertion proven
+by reason.
+40 inchoationem aliquam hujus boni: ergo implicite et interpreta- plement of all good. In his every willing, moreover, he desires at least a
+tive appetit quidquid appetit, quatenus confert aliquo modo ad part of or some beginning of this good. Therefore, whatever he desires,
+suum completum bonum; et hoc est amare illud interpretative he desires implicitly and interpretatively insofar as it contributes in some
+Confirmatur. propter ultimum finem formalem. Confirmatur et explicatur, way to his complete good. And this is to love the former interpretatively
+quia licet non præcedat in <38> homine intentio elicita hujus 45R for the sake of the formal ultimate end. It is confirmed and explained: It is confirmed.
+45 finis, præcedit tamen naturalis propensio in illum, et ab hoc pro- because although an elicited intention for this end does not precede in the
+cedunt omnes actus circa particularia bona: ergo saltem impetu human being, yet a natural propensity to it does precede. And all acts
+Explicatur. naturæ omnes tendunt in hujusmodi finem. In quibus rationibus concerning particular goods proceed from this propensity. Therefore, all
+intelligitur hoc non solum procedere in actionibus liberis, sed [actions] tend to an end of this kind at least by an impetus of nature.
+etiam in naturalibus, et in omni appetitu cujuscumque boni. In- 50R In these arguments it is understood that not only does this proceed in It is explained.
+50 telligitur etiam hanc habitudinem particularium finium, seu ob- free actions, but also in natural actions and in every desire for whatever
+jectorum ad ultimum finem formalem, non tam esse medii ad good. It is also understood that this relation (habitudinem) of particular
+finem proprie loquendo, quam partis ad totum secundum ver- ends or objects to the formal ultimate end is not so much of a means to
+itatem, aut saltem secundum apparentiam et similitudinem, ut an end, properly speaking, as of a part to a whole, according to truth or
+recte D. Thomas explicuit: nam quando homo appetit, verbi gra- 55R at least according to appearance and similitude, as St. Thomas rightly ex-
+55 tia, voluptatem, aliquo modo eam existimat partem sui completi plained:4 for when a human being desires, for example, pleasure, in some
+boni, quia licet talis voluptas non semper sit illa, quæ vere per- way he thinks of it as a part of his complete good, because although such
+tinet ad perfectionem felicitatis humanæ, habet tamen quamdam pleasure is not always that which truly pertains to the perfect happiness
+similitudinem cum illa. of a human, nevertheless, it has a certain similitude to that.
+Obiectio Scoti
+diluitur.
+3. Sed objicit Scotus, nam si homo in omni actu suo ap- 60R 3. But Scotus objects: for if a human being in all his acts desired Scotus’s
+objection refuted.	60 peteret hoc modo finem ultimum formalem postquam consti- the formal ultimate end in this way after he establishes that end in some
+3Sermon 150, n. 4: Nam et qui bonus est, ideo bonus est ut beatus sit; et qui malus est, malus non esset, nisi inde se beatum esse posse speraret.
+4Sent. IV, dist. 49, q. 1, art. 3, qc. 4, ad 1.
+49 naturalibus, et in ] om. V.
+
+-- 2 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 6 3
+tuit finem illum in aliqua re determinata, non posset non oper- determinate thing, he would not be able not to act for the sake of that hap-
+ari propter illam beatitudinem in particulari, consequens autem piness in a particular [case]. The consequence, however, is clearly false,
+constat esse falsum, nam fidelis cognoscens et credens suam beat- for the faithful person, cognizing and believing that his happiness consists
+itudinem consistere in visione Dei, non omnia operatur propter 65R in the vision of God, does not do everything for the sake of that vision
+65 illam, imo potius multa contra illam. Respondetur negando ma- but rather does many things against it. I respond by denying the major,
+jorem, quia in hoc modo operandi propter finem non est atten- because in this way of acting for the sake of the end there is no particular
+denda particularis intentio hominis, ut terminatur ad particu- intention of the human being to be noticed, so that it is terminated in a
+larem finem, quia non semper operatur ex illa, semper tamen particular end. For one does not always act from that; nevertheless, one
+operatur ex intentione alicujus boni. 70R always acts from an intention for some good or other.
+70	2. Assertio affir.
+de fine materiali.
+4. Secundo dicendum est, hominem in omnibus suis ac- 4. Secondly, it should be said, that a human being in all his actions of The second
+assertion
+affirmative about
+the material end.
+tionibus virtutis interpretative operari propter ultimum finem virtue interpretatively acts for the sake of a particular or real ultimate end
+particularem, seu realem propter quem est conditus, id est, on account of which he is preserved, that is, on account of God. In this
+propter Deum. In hoc etiam omnes conveniunt, quia omne also everyone agrees, because every moral good5 has proportion with the
+bonum honestum habet proportionem cum ultimo fine vero, et 75R true ultimate end, from itself tends to God, and can be a suitable means
+75 ex se tendit in Deum, et potest esse aptum medium ut referatur in [to God] so that it is referred to God and true felicity. And in this way
+Deum et veram felicitatem, atque hoc modo quicumque honeste whatever is done in a morally good way can be said to be done for the sake
+Dubium circa
+proximam assert.
+discutitur.
+operatur, dici potest operari propter Deum. Sed difficultas est of God. But the difficulty concerns certain bad [actions], even sins. Can A doubt
+concerning the
+last assertion is
+discussed.
+de quibusdam malis etiam peccati, an in his etiam possit homo a human being in these also be said in some way to act for the sake of the
+dici aliquo modo operari propter finem, atque adeo propter rem 80R end and even for the sake of that which is the true ultimate end of human
+80 illam, quæ est verus ultimus finis humanæ natura: quibusdam nature? For with certain [actions] it seems impossible to affirm this in
+enim videtur non posse hoc affirmari ullo modo cum peccatum any way since sin is an aversion or directing away from God. But others
+sit aversio vel deordinatio a Deo, alii vero <col. b> contrar- show the contrary, because a human being seeks a certain similitude to
+ium probant, quia homo etiam in his actionibus quærit quam- God even in these actions.
+dam similitudinem cum Deo.
+85	3. Assertio
+decisiva proximi
+dubii.
+5. Breviter tamen dico tertio, hominem, dum peccat, per ip- 85R 5. Nevertheless, I briefly say, thirdly, that a human being, while he The third
+assertion that
+decides the last
+doubt.
+summet actum peccati, aliquo modo operari propter Deum, non sins, through the very act itself of sin, in some way acts for the sake of
+tamen eo quo per actum honestum. Intelligitur conclusio de pec- God, yet not in that [way] in which [he does] through a morally good
+cato ratione actus positivi, nam malitia nullo modo est propter act. The conclusion is understood concerning sin by reason of a positive
+finem ultimum, imo nec propter finem, quia ipsa non est intenta, act, for malice is in no way for the sake of the ultimate end. Indeed, it
+90	Ostenditur
+assertio ex
+convenientia
+actus turpis &
+honesti.
+Primo.
+sed per accidens consecuta. Probatur ergo utraque pars conclu- 90R is not for the sake of any end, because it itself was not intended but was
+sionis, explicando convenientiam et differentiam, quæ in hoc attained per accidens. Therefore, each part of the conclusion is shown, by The assertion is
+shown by the
+agreement
+between
+shameful and
+virtuous acts.
+First.
+convenire potest inter actum turpem et honestum: nam primo explaining the agreement and difference which can come together in this
+si uterque comparetur ad Deum, uterque est ex causalitate et ef- between shameful and morally good actions. For, firstly, if each is com-
+ficientia Dei. Unde ex hac parte necesse est, ut uterque aliquo pared to God, each exists by the causality and efficacy of God. Hence,
+95 modo ordinetur in Deum, nam sicut Deus propter seipsum om- 95R from this part it is necessary that each in some way is ordered to God,
+nia creavit, ita etiam propter seipsum concurrit ad actum peccati, for just as God created everything for the sake of himself, so also he con-
+5In this text I will translate ‘honestum’ and cognates with ‘moral good’ and cognates. I am not sure that would always be a good translation but it is close enough in the present
+context.
+
+-- 3 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 6 4
+et in hoc ipso ostendit bonitatem suam. Et hoc generaliter docet curs with an act of sin for the sake of himself. And in this very thing
+Secundo. D. Thomas 3, contra Gentes, cap. 17. Secundo conveniunt, quod he reveals his goodness. St. Thomas teaches this in general in SCG III,
+uterque actus habet necessariam connexionem et dependentiam c. 17. Secondly, they agree in that each act has a necessary connection Second.
+100 cum Deo: unde fit ut peccator dum appetit aliquod bonum, quod 100R with and dependency on God. Hence it happens that when the sinner
+sine Deo habere non potest, implicite appetat Deum esse: quan- desires some good—which he cannot have without God—he implicitly
+quam in hoc non tam respiciat Deum ut finem, quam ut prin- desires for God to exist. Nevertheless, in this he does not so much re-
+cipium, et quasi medium necessarium ad suum appetitum im- spect God as end than as principle and as a necessary means, as it were,
+Tertio. plendum. Tertio vero conveniunt, quod in utroque reperitur to satisfying his desire. And, thirdly, they agree in that in each is found a Third.
+105 quædam participatio divinæ bonitatis et felicitatis, nam peccator 105R certain participation in divine goodness and felicity, for when the sinner
+dum peccat appetit etiam aliquo modo felicitatem, et in hoc ipso sins he also desires felicity in some way. And in this very thing he desires
+appetit assimilari Deo, quod commune est omnibus creaturis, ut to imitate God, which is common to all creatures, as St. Thomas said in
+divus Thomas dixit 1, 2, quæst. 1, articulis 7 et 8. Et ita exponit [ST ] IaIIæ.1.7 and 8. And in this way St. Thomas explains that locution
+divus Thomas hanc locutionem in 4, distinct. 49, quæst. 1, artic- in [Sent.] IV, dist. 49, q. 1, art. 3, qc. 4, ad 2 and 3. It is also Augustine’s
+110 ulo 3, quæstiunc. 4, ad 2 et 3, et etiam est sententia Augustini, 110R view in Conf. II, c. 4 and 6.
+lib. 2, Conf., cap. 4 et 6.
+Explicatur eadem
+assertio ex
+disconvenientia
+eorumdem
+actuum.
+Primo.
+6. Differunt tamen inter se actus pravus et honestus, quod 6. Yet corrupt and morally good acts differ from each other in that The same
+assertion is
+explained from
+the disagreement
+of the same acts.
+First.
+actus peccati revera nullo modo pertinet ad veram hominis beat- the acts of sin in no way really pertain to the true happiness of a human
+itudinem, quæ in Deo consistit, nec tanquam pars ejus, nec tan- being, which consists in God, nor to so much as a part of it nor to an
+115 quam perfectio accidentalis illius; actus autem honestas, secun- accidental perfection of it. But a morally good act, considered according
+dum suam honestatem et speciem consideratus, pertinet aliquo 115R to its moral goodness and its species, pertains in some way to the beauty
+Secundo. modo ad decorem et perfectionem beatitudinis. Unde fit se- (decorem) and perfection of happiness. Hence it happens, secondly, that Second.
+cundo, ut actus malus ex natura sua non sit medium ad conse- a bad act by its nature is not a means to following God, insofar as he is
+quendum Deum, quatenus est finis <39> ultimus hominis: actus the ultimate end for a human being. But a morally good act of itself is
+120 autem honestus de se sit accommodatus ad consequendum hunc suitable for following this end. And, hence, finally, [it happens] that an Third.
+finem: atque hinc tandem actus honestus simpliciter dici potest 120R morally good act can be said without qualification by its nature to tend
+Tertio. natura sua tendere in Deum tanquam in finem sibi proportion- to God as to an end proportionate to itself, both because it pleases God
+atum, et quia ex se placet Deo, et ad ipsum est referibilis: actus by itself and is referrible to him. A corrupt act, however, cannot be said
+autem pravus non dici potest proprie, et simpliciter esse propter properly and without qualification to be for the sake of God, when all the
+125 Deum, cum prædicta omnia in illum non conveniant, sed tan- just-mentioned things do not agree with him. Rather, it may be said to be
+tum secundum quid ac remote dicetur esse propter imitationem 125R only with qualification and remotely for the sake of a certain imitation
+quamdam divinas perfectionis, quam suo modo intendunt om- of divine perfection, which all natural agents intend in their way—in this
+nia naturalia agentia, in quo est quodammodo peccator inferior the sinner is in a certain way inferior to the natural agents, because of the
+illis, quoniam debito modo, et juxta ordinem divinæ providen- way he ought [to be]—and according to the order of divine providence
+130 tiæ intendunt omnia naturalia agentia assimilari Deo: peccator all natural agents intend to imitate God. But the sinner as such [intends]
+vero ut sic, indebito modo, ut præter ordinem quærit assimilari 130R it in an undue way, so that he seeks to imitate God in a way contrary to
+Deo, et ideo impropriissime dicitur operari propter Deum. the order. And so he is said most improperly to act for the sake of God.
+110 2 ] 1 V.
+124 autem ] om. V.
+
+-- 4 of 4 --

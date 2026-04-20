@@ -1,0 +1,596 @@
+Last revision: November 14, 2014
+Francisco Suárez, S. J.
+DM XIII.51
+© Sydney Penner 2014
+<414, col. b>
+SECTION V.
+Whether matter is pure potentia and in what sense that should be
+accepted.
+1. The solution to the arguments that were presented in the
+previous section against our view depend on the resolution to the
+present question. For it should not be denied by us that matter
+is pure potentia2 since all the philosophers seem to agree in that
+assertion. But the true meaning of that locution needs to be
+explained.
+Various views.
+2. The disciples of St. Thomas, then, are commonly interpreted Capreolus in I, dist. 3,
+q. 3, art. 2, and II, dist.
+13, art. 3, and
+Soncinas and Iavellus
+in Metaphysics IX, q. 2
+and in the other places
+cited above.
+as saying that matter is pure potentia because it does not have
+any existence from itself or in itself except through form. On the
+other hand, Scotus, Henry, and others cited above distinguish
+two actus, namely, a formal actus and an entitative actus. And
+they teach that matter has an entitative actus of itself but not a
+formal actus. Consequently, they say that matter is called pure
+potentia in relation to the formal actus but not in relation to the
+entitative actus.
+3. But certain modern authors, who do not dissent from Fonseca, Metaphysics I,
+ch. 7, q. 3, §§7–8, and
+the Coimbrans in
+Physics I, ch. 9, q. 3,
+art. 1.
+1Translation is based on the 1597 edition. Paragraph numbering, however,
+in which the 1597 and Vivés editions do not agree in this case, follows the
+Vivés edition, since it is the most widely used edition (The 1597 paragraph
+numbers are included in square brackets). Numbers in angle brackets also
+indicate page numbers in the Vivés edition for ease of reference.
+2Because they are the key technical terms and because it is unclear how
+best to translate them, I will leave ‘actus’ and ‘potentia’ untranslated in this
+section. Generally, ‘actus’ could have been translated either with ‘act’ or with
+‘actuality’, while ‘potentia’ could have been translated either with ‘potency’ or
+‘potentiality’. In other contexts, ‘potentia’ can also mean ‘power’ but that is
+probably not the right translation in this context. Suárez also uses ‘actuali-
+tas’, ‘potentialitas’, and cognates; these I will render into their closest English
+cognates.
+
+-- 1 of 13 --
+
+Suárez, DM XIII.5 2
+Scotus in reality, do, nevertheless, disapprove of that way of
+speaking. For they admit that matter has a proper existence
+distinct from the existence of the form. Consequently, they teach
+that matter actually is other than nothing. Yet they deny that
+it should be called an entitative actus, first on account of the
+argument made above that <415> there is neither an informing
+actus nor a subsisting actus and also because, although matter
+has an actus of existence proper to itself, it, nevertheless, is
+not its own existence, since in every created thing existence is
+distinguished ex natura rei at least from essence.
+4 [3]. But still, if the thing that these authors teach does not
+displease, I do not see why the way of speaking can displease.
+For Aristotle does not oppose such a way of speaking, as we will
+show, and it is not out of keeping with the common and received
+use of the terms. For in as many ways as potentia can be said, in
+so many ways actus can also be said. But a thing is said to be
+in potentia, either in passive potentia because it can receive an
+actus, in active potentia because it can effect, or in objective or
+logical potentia because it would not be repugnant to be although
+it is not. In the same way, therefore, a thing can be said to
+be an actus or to be in actus either with respect to a receptive
+potentia or with respect to an objective potentia, omitting active
+potentia for now since it is not relevant at present. Therefore,
+although prime matter is pure receptive potentia and thus in its
+essence includes no formal actus (which is signified through the
+expression ‘pure’), it can, nevertheless, after it is created not be
+said to be in pure objective potentia. For this reason, therefore, it
+is rightly said to be or to have an entitative actus.
+5 [4]. Nor is it relevant that it is or is not by its own existence.
+First, indeed, because when matter is called pure potentia, what
+is denied is not only that it is actus but also that it is consti-
+tuted from actus and potentia. Moreover, if matter has a proper
+existence, even though in the end it is not its own existence,
+nevertheless we cannot deny that it is constituted from its own
+essence and existence. Therefore, it includes actus, for actual
+existence is actus of an essence, according to everyone and espe-
+cially according to that opinion. Therefore, matter cannot be said
+to be pure potentia in relation to an entitative actus.
+Also, according to that view, actus is not sufficiently divided
+into formal and subsistent. For beyond those there is also the
+actus of existence which is not subsistence since it is received
+in the essence and it is not properly formal since it is not a
+
+-- 2 of 13 --
+
+Suárez, DM XIII.5 3
+form. But it can be said to be a terminative actus of essence.
+Therefore, since matter insofar as it is really distinguished from
+form includes this actus, it cannot be called pure potentia in
+relation to entitative actus.
+Furthermore, according to that view about the real or ex
+natura rei distinction of existence from actual essence it cannot
+be denied that actual essence as co-distinguished from existence
+has some actuality that an essence <col. b> conceived only in
+objective potentia does not have. Therefore, an actual essence,
+even if it is not by its own existence, is some entitative actus,
+that is, something other beyond pure objective potentia. In fact,
+unless an actual essence is conceived in this way, one cannot
+understand that opinion which distinguishes it from existence,
+either as thing from thing or as from a real mode.
+6 [5]. Whatever we think about the distinction between
+essence and existence, then, matter as distinct from a form
+in a thing is certainly some entitative actus, yet in a different
+way. For those who do not distinguish ex natura rei existence
+from essence but only in reason say that matter insofar as it is
+an actual entity is by its own existence and actual essence which
+are the same in the thing. And since, according to this opinion,
+the entitative actus of a thing is nothing other than existence or
+its actual entity, for this reason one rightly concludes that matter
+is some entitative actus. But according to that other opinion
+which distinguishes ex natura rei existence from actual essence
+yet admits that prime matter has its own proper existence which
+it retains under whatever form, one should say that matter is its
+own actual essence beyond the actus of form and that it has a
+proper actus of existence. But those who posit a real distinction
+between essence and existence such that they deny that matter
+has proper existence beyond the existence that is bestowed by
+form consequently say that matter is pure potentia in relation to
+formal actus as much as in relation to entitative actus or to the
+actus of existence. Nevertheless, they cannot deny that there is
+some actual entity in the being of the essence. Although, since
+they think that the actuality of the essence wholly depends on
+a distinct existence, for that reason they can say that matter,
+even if in the thing it has the entity of an essence, nevertheless,
+it is potential in such a way that it is not capable of existence
+except by means of a form. And in this sense they can call it pure
+potentia, even in relation to entitative actus.
+7 [6]. Since, therefore, we think that matter has its own Matter existing per se
+in a thing is an
+entitative actus.
+
+-- 3 of 13 --
+
+Suárez, DM XIII.5 4
+partial existence and that the existence is not distinguished on the
+part of the thing from the actual essence but is only distinguished
+by our way of conceiving it, we also think it most true that matter
+as it is an actual entity in the thing is also some entitative actus
+in the thing. And according to reason or our way of conceiving
+it is composed from being and essence as from a terminating
+actus and an objective, as it were, potentia. <416> Each point
+is sufficiently clear from what was just said about the preceding
+view. Moreover, I always speak about matter as it is an actual
+entity, since if it is conceived according to only that which it has
+of itself, excluding every efficiency, in that way it has no actuality
+in itself and is only in the force of a cause and of itself only has
+a non-repugnancy to being. But this is not proper to matter,
+for even form—in fact, every created thing considered in itself—
+is pure potentia in this way. Therefore, one must speak about
+matter as it is an actual entity, or, what is the same, insofar as it
+has in itself a proper actus of existing distinct from the actus of a
+form.
+8 [7]. But in order to resolve the difficulties touched on in the
+previous section and to explain the philosophers’ way of speaking
+and to remove every ambiguity from the terms, I note that the
+name ‘actus’ can be taken in different ways. For sometimes
+it is said absolutely and sometimes respectively. Sometimes
+something is called an actus because it actualizes something.
+This is the way in which form is the actus of matter. And I call
+this a respective actus, since it is the actus of something else.
+But sometimes something is called an actus because it is in itself
+something actual rather than potential, even though it does not
+actualize anything else. This is the way in which God is called an
+actus. And this I call an actus absolutely speaking.
+In turn each of these actus can be subdivided. For a physical
+and formal actualizing actus (for example, a physical form) is one
+thing, but a metaphysical actus is another thing. The latter is
+multiple: for one is the actus of essence (e.g., difference), another
+is the actus of existence (e.g., existence), and the actus or mode
+of subsistence can also be added. But actus said absolutely is
+sometimes the actus of something else without qualification, but
+sometimes the actus of something else with qualification. The
+former is that actus which in the genus of being without qual-
+ification or of substance is complete in such a way that it is
+neither constituted through a physical actus distinct from it nor
+actualized through it or requiring it for existence. Or it can be
+
+-- 4 of 13 --
+
+Suárez, DM XIII.5 5
+explained differently: that being is called an actus without qualifi-
+cation which by the force of its own actuality includes the formal
+perfection that other composite beings usually have through a
+substantial informing actus. Hence although an absolute actus
+of this sort is not an actualizing or informing actus, it can, nev-
+ertheless, not be called a formal actus in the most eminent way,
+that is, as having per se that complement of perfection that is
+usually conferred through an informing actus on those things
+that are completed through composition. But that being is called
+a qualified actus which has some actuality insofar as it actually
+is beyond nothing, yet has incomplete <col. b> and imperfect
+actus, because it is not sufficient in such a way that it does not
+need another actus both in order to be completed in the ratio of
+being without qualification and also in order to exist.
+The resolution of the question.
+9 [8]. Therefore, it should be said, first, that matter is not called Matter does not
+exclude every actus.	pure potentia with respect to every metaphysical actus, that is,
+because it includes no metaphysical actus. For this cannot be
+true. First, because prime matter in its essential concept cannot
+be understood to be composed from genus and differences, as, for
+example, if the matter of the heavens and of these lower things
+were distinguished in species, the matter of generable things that
+we are talking about now would be composed of the genus of
+matter in general and the proper difference that can be taken
+from its relation to the form of generable being. This matter,
+therefore, has its own metaphysical formal actus, by which it is
+constituted in its essence.
+And it is confirmed: for matter by its nature has some per-
+fection and transcendental goodness, as St. Thomas also teaches St. Thomas.
+in SCG 3 ch. 20. For it is certain that a composite of matter and
+form is something more perfect than a form by itself.3 Therefore,
+matter has something of perfection that it adds to the composite.
+Likewise, matter itself is desirable and agreeable, not only as a
+means but per se, since by reason of its perfection it is agreeable
+to this form or composite. Matter, therefore, has by its own nature
+some proper perfection. But perfection cannot be understood
+without some actuality, at least transcendental actuality.
+Furthermore, matter has a proper actus of existence, as was
+shown.
+3See DM 15.7.6.
+
+-- 5 of 13 --
+
+Suárez, DM XIII.5 6
+Finally, it has a partial and proportionate actus of subsis-
+tence. For it entirely needs that in order to be a first subject. For
+a first subject stands underneath everything, but to subsist in
+itself comes before standing under other things. We will say more
+about this below when discussing subsistence. Therefore, prime
+matter cannot be pure potentia in such a way that it excludes
+every metaphysical actuating actus.
+10 [9]. I say, second: matter is not such a pure potentia Which actus matter
+admits.	that there is not some qualified entitative actus. This assertion
+was sufficiently shown and proven from what was said about the
+opinion of Scotus. And it is sufficiently gathered from the ratio of
+a first subject: for it is necessary that in a first subject there be a
+real passive potentia, or, rather, it itself essentially is a passive
+potentia. Nor can a real passive potentia be understood without
+some <417> entitative actuality. For how can it be understood
+that something truly and really is receptive to something else
+without itself being something? Hence, the Commentator rightly Commentator.
+says in On the Heavens III, comm. 29, that every passive poten-
+tiality is grounded in some actuality. And St. Thomas says in
+ST Ia.46.1 ad 1 that matter is not called being in potentia in the
+way in which possible being is called in potentia solely from the
+non-repugnance of the terms. He, therefore, presupposes that
+there is some being actually grounding the real passive poten-
+tia, or, rather, that there is a real passive power in the genus of
+substance.
+11 [10]. I say, third: matter is said to be pure potentia with In what way matter is
+pure potentia.	respect to informing or actualizing actus and with respect to
+actus speaking absolutely and without qualification. It is shown:
+for in the first place, matter is neither an actualizing nor an
+informing actus, as is clear per se from the ratio of a first subject.
+Furthermore, it does not include in its intrinsic and essential
+concept a physical informing actus. For we showed that it is
+a simple entity, which is also gathered from the ratio of a first
+subject. In addition, matter is such an entity that it is not per
+se sufficient for existing without a substantial actus perfecting
+and actualizing it. Hence, it formally or eminently includes no
+formal actus by the force of its own precise entity. And, therefore,
+it is not an actus absolutely and without qualification. Finally,
+whatever the entity is in prime matter, it is entirely for exercising
+the function (munus) of a power receptive to a substantial form.
+For this is what it was primarily and per se made for. For this
+reason, as we said above, it includes in its essential ratio a
+
+-- 6 of 13 --
+
+Suárez, DM XIII.5 7
+transcendental disposition (habitudinem) to form.
+From these things, therefore, it is clear that it is deservedly
+called pure potentia in the genus of substance and is best ex-
+plained in the stated way. For, since matter is a simple entity
+and is in its entirety a receptive potentia, it is very well called
+pure potentia. Moreover, just as it is customarily said that an
+exclusive expression does not exclude concomitants, so also the
+expression ‘pure’ does not exclude the qualified entity and actual-
+ity necessary for the ratio of a real potentia. But it does exclude
+in particular every other function besides passive potentialities
+and, furthermore, it excludes the ratio of a completed actus or an
+unqualified actus, speaking absolutely. And, what comes to the
+same thing, it excludes every formal actus, both as properly in-
+forming and as unqualifiedly constituting a perfect and complete
+actus.
+12 [11]. <col. b> But for the sake of considering the use of What the difference is
+between being potentia
+and being in potentia.
+words, speaking strictly, one thing is signified when matter is
+called pure potentia and another thing if it said to be in pure
+potentia. For the first is strictly true and has the legitimate sense
+just explained. But the second is at the very least ambiguous.
+For to be in pure potentia taken strictly signifies the privation of
+actual existence. For this reason it is usually said only of that
+which actually is nothing yet could be. But that cannot be said of
+matter after it is created or co-created. For although it is nearly
+nothing, it nevertheless is not nothing but a true thing, as we
+said earlier with Augustine.
+We can distinguish in a similar way between the locutions ‘to ‘Being actus’ and ‘being
+in actus’ differ.	be in actus’ and ‘to be actus’. For ‘matter is in actus’ is strictly
+true, since it signifies nothing other than that there is matter
+in the nature of things and that it exists, which is true, just as
+it is true that matter is created, receives form, and composes
+a composite. All of those include its existing. But ‘matter is
+actus’ is at the very least ambiguous. For in an absolute sense it
+seems to signify that it is an actualizing actus or certainly that
+it is an unqualified actus. And for this reason it should not be
+taken absolutely, but it should be taken with some diminishing
+addition, namely, that it is an entitative actus that is imperfect
+and qualified.
+13 [12]. Moreover, that this explanation of matter in the The just given
+explanation of the
+potentia of matter
+agrees with Aristotle.
+nature of pure potentia is harmonious with what Aristotle and
+other philosophers said is obvious. For in Physics I, text. 69,
+when comparing prime matter to the matter of artefacts, he says
+
+-- 7 of 13 --
+
+Suárez, DM XIII.5 8
+that it is related to form and essence strictly speaking as wood
+to a statue or to the form of a statue. From this he concludes
+that matter is what is formless. Through this and other similar
+expressions he only excludes from matter every formal and com-
+plete actus, but not the entitative actus, incomplete and inchoate,
+as it were, without which it could not be a real receptive potentia.
+Furthermore, it is understood from the definition of matter
+that he gives in Physics I.9, text. 82, where he says that matter is
+‘the first subject, from which something per se comes to be, since
+it is in it’. For matter is said to be in the produced thing, since it
+remains through its own entity in the produced thing, composing
+the latter through itself. And in that very place Aristotle says
+that matter according to its own entity is prior to the produced
+thing and is ungenerable and incorruptible. And, finally, he says
+that matter is a being per se, but per accidens is not a being by
+reason of privation.4 Therefore, he does not exclude <418> every
+entitative actuality from matter, but only the formal [actuality] to
+which it is in potentia.
+Finally, in Metaphysics VII and in other places, when he says
+that matter is not a certain quantity or a certain kind or a this
+something, he only excludes the composition resulting from an
+informing actus and every formal actus from the entity of the
+matter. Nor is anything else really necessary for the function
+and office of matter, as is clear from the reason that Plato also Plato.
+Aristotle.	reports in Timaeus and from him Aristotle in On the Heavens
+III.8, namely, because that which is receptive to other things
+must not actually have that to which it is susceptible but only
+have it potentially. But matter is susceptible to formal actus and
+complete being. Therefore, it must be said to be pure potentia
+with respect to these, but not with respect to the entity properly
+its own.
+In addition, Averroes says in the same sense that matter Averroes.
+St. Thomas.	substands through being able, since it substance such that its
+whole [entity] is ordered to receiving, and for this reason it is
+essentially incomplete and potential. And St. Thomas explains
+the potentiality of matter in the same way in De spiritualibus
+creaturis, art. 1, citing Augustine, De Genesi ad litteram I.14–15.
+The arguments remaining from the previous section are resolved.
+4Compare to modern translations of 192a4–5.
+
+-- 8 of 13 --
+
+Suárez, DM XIII.5 9
+14 [13]. Through these things, then, there is a sufficient response Matter is
+metaphysically
+composed from actus
+and potentia, but not
+physically.
+to all the testimonies that were presented against our view in the
+preceding section. Indeed, even the arguments are also almost
+resolved, for they at best show that matter is pure potentia, but
+not in any other sense that the one that we explained. This will
+become clearer by responding in form to the argument made
+there.
+For when it is said that matter is not composed of actus and
+potentia, we concede that that is true concerning proper physical
+actus and potentia. But it must be conceded that metaphysically
+matter is composed from actus and potentia proportionate to it,
+that is, from genus and difference, essence and existence, nature
+and incomplete subsistence. But when it is inferred that there
+is a potentia prior to matter, it is responded that with respect
+to physical potentia this is disagreeable and plainly repugnant.
+Nevertheless, that does not follow from what was said, since we
+do not say that matter is composed of physical potentia and actus.
+But if the discussion is about metaphysical potentia, it thus is
+true that matter in general is conceived as prior than this species
+of matter, and the essence of matter is conceived as prior to its
+existence, not insofar as it is a being actually but absolutely.
+Likewise, the nature <col. b> of matter is in some genus prior to
+its partial subsistence. Nevertheless, taken strictly, it does not
+follow that there is given in the thing itself some potentia prior
+to matter, but in the matter itself there is given one ratio prior
+to another. Yet in that ratio that is conceived as prior there is
+always included the potentia of matter itself, either confusedly
+(as in the concept of matter in general) or as possible (as in the
+precise concept of the essence of matter or through the mode of
+a partial nature only, considered apart from the partial mode of
+subsisting).
+15 [14]. But to the second part by which it was proved
+that matter in no way is an actus, we concede that it is not
+an actualizing or informing actus and that it is not an actus
+unqualifiedly complete and perfect in itself. What the arguments
+by which this was proven there show at most is that matter is not
+a subsisting actus, but they do not show that matter is not an
+incomplete and entitative actus. In this sense, therefore, I deny
+that a partial entity or subsisting actus is more perfect than any
+informing actus whatever since that partial entity participates less
+in the ratio of actus than an informing actus does. Furthermore, I
+deny that an incomplete subsisting actus cannot be given. For the
+
+-- 9 of 13 --
+
+Suárez, DM XIII.5 10
+very subsisting essence of matter is a proper partial subsistence,
+and with that having been added it can be designated an actus
+in a respect, that is, with respect to its own entity, by which it is
+separated from nothing and from [merely] possible being.
+But all the remaining things that were brought up there
+proceed with respect to complete actus subsisting and including
+formal actus through a simple and more excellent mode. And
+in the same sense what was supplied in a certain confirmation Whether every actus is
+a principle of some
+operation.
+in that very place—namely, that every actus is the principle of
+some operation—is true. For that is true concerning actus that
+are formal or informing or subsisting completely. Yet it is not
+necessary that it be universally true of every partial and entitative
+actus, since it is not necessary that every entity be the principle of
+some operation properly and in the genus of efficient cause. For it
+could have been made for exercising another genus of cause. And
+thus the entity of matter is for receiving rather than for acting.
+Objections to the above resolution.
+16 [15]. But there are still some other objections yet to be resolved,
+objections that are customarily made against the last assertion
+of this section. First, because apart from being there is no actus,
+since nothing has actuality except insofar as it is. For this reason
+being itself is the actuality of all things,<419> as St. Thomas says
+in ST Ia.4.1 ad 3. But matter does not have being except through
+a form, as Avicenna says in Metaphysics II.2. And Boethius says
+in On Unity and the One5 that all being in created things is from
+form. Therefore.
+Second, because otherwise nothing per se one would come
+about from matter and form. For something per se one does not
+come to be from two beings in actus. This is the reason why
+nothing per se one comes to be from a subject and an accident,
+since it is one thing to be a subject and another thing to be an
+accident.
+Third, physical matter is entirely simple. Therefore, either it is
+entirely actus or entirely potentia, since a simple entity cannot be
+composed of a physical actus and potentia. But that it is entirely
+actus cannot be said, since it is essentially potentia. Therefore, it
+is entirely potentia and includes no actus.
+Fourth, because pure actus is actus in such a way that it has
+5This work is now ascribed to Domenicus Gundissalinus, a twelfth century
+philosopher in Spain.
+
+-- 10 of 13 --
+
+Suárez, DM XIII.5 11
+nothing of potentiality or receptive potentia mixed in. Therefore,
+contrariwise, pure potentia is potentia in such a way that it has
+nothing of actuality mixed in. For they have the character of
+opposites, and pure potentia must stand maximally apart from
+pure actus. But pure potentia would not stand maximally apart
+if it were to include something of actuality.
+Fifth, because if matter is something actual, then it is either
+a substance or an accident. But it is not the second, as is
+obvious per se. But neither is it the first, since it is a potentia
+for substance. But that which is a potentia for something is not
+actually that, since these two are repugnant [to each other].
+Last, because otherwise matter could be cognized per se and
+directly and by a proper cognition, which the philosophers seem
+universally to deny with Aristotle and Plato in the cited passages.
+17 [16]. The first and second objections will receive a full In what way every
+being is from form.	explicit treatment below in the disputation on the essence and
+being of creatures.6 For now the principle that ‘every being is
+from form’ can briefly be explained in two ways. The first is about
+specific and complete being. The second is that every being is
+from form either intrinsically giving and composing it or at least
+terminating its dependency in some way. And in this way the
+being of matter can be said to be from form insofar as it depends
+on it, as was said.
+But the other axiom that ‘something per se one does not come How one should
+understand that
+something per se one
+does not come to be
+from two entities in
+actus.
+to be from two beings in actus’ cannot be understood about any
+actual entities. Rather, it is impossible that a being per se and
+complete actually be composed except from incomplete actual
+beings. For what is nothing, as we have often said, cannot really
+compose [anything] and, in particular, not a being per se one.
+<col. b> Therefore, the axiom must be understood as concerning
+beings complete in actus in their genera. For those are not order
+per se and do not cohere in the right way for composing a being
+per se one. We do not say, however, that matter is in this way a See DM 4 concerning
+per se unity.	being in actus, but instead we say that it is, as it were, a certain
+kind of inchoate being that is naturally inclined to and per se
+conjoined with form as completing an integral being, as we will
+explain more fully later.
+18 [17]. To the third objection, it is responded that matter is
+entirely potentia and entirely actus in the way that we explained,
+not through a composition of actus with potentia but through
+identity and (if I may speak in this way) through intimate and
+6DM 31.
+
+-- 11 of 13 --
+
+Suárez, DM XIII.5 12
+transcendental inclusion. For not every potentia is opposed to
+every actus, but with proportion. Consequently, receptive po-
+tentia is not opposed to incomplete entitative actus, but rather
+essentially includes it.
+19 [18]. To the fourth objection, it is said, first, that just as How pure potentia is
+equal to pure actus.	pure actus includes no potentia receptive to another actus, so also
+pure potentia includes no actus actualizing something. In this
+respect the analogy holds, but not with respect to entitative actus.
+Hence, if this is what the discussion is about, the consequence
+is denied, since it involves the repugnance that there is a real
+receptive potentia, however pure, without intimately including
+the actuality of being.
+But, the other way around, it is not repugnant to include the
+actuality of being in such a way that it involves no potentiality.
+For potentiality expresses imperfection, but it is not repugnant for
+there to be perfection so pure that it excludes every imperfection.
+But it is repugnant for there to be real imperfection so pure that it
+is without any perfection. For it would rather be nothing and the
+pure negation of every perfection. Hence, just as the theologians
+say that there is a highest good that includes no evil and yet there
+is no highest evil such that it has no goodness or is not founded
+in it. Thus, although a pure actus that excludes all potentia be
+given, yet a pure potentia that excludes all actuality, including
+entitative and incomplete actuality, cannot be given.
+But the objection was also raised concerning the highest
+distance between pure potentia and pure actus. This can be
+resolved, first, by denying that it belongs to the ratio of pure
+potentia to be maximally distance from pure actus. For celestial
+matter is pure potentia and yet is not maximally distant from
+pure actus. For the matter of these lower things is more distant,
+since it is more imperfect. And so far it is uncertain whether
+there could be other matter less perfect than this lower matter
+and consequently <420> even farther from the perfection of God
+than prime matter. Accidents are also more distant than prime
+matter from divine perfection. Two kinds of distance can also
+be distinguished: one can be called negative, which is the sort
+of distance there is between being and nothing, and the other
+positive on the part of two extremes. Therefore, it does not belong
+to the ratio of pure potentia to be distant from God in the first
+way, but rather in the second way. And for this reason, although
+we admit that pure potentia is maximally distant from pure actus,
+it does not follow that pure potentia includes no actuality, since
+
+-- 12 of 13 --
+
+Suárez, DM XIII.5 13
+that distance is not the highest compared to a negative but [a
+comparison] between two positives. For this reason it requires
+some agreement between the extremes in entity, even if that
+agreement is minimal.
+20 [19]. To the fifth objection, it is responded that matter is
+a substance, as Aristotle explicitly teaches in Metaphysics VIII
+from the beginning, and in many other places. Hence, matter is
+not in potentia for the whole breadth of substance but for form
+and for the being of the composite. But it is not in potentia for
+the substantial entity of matter, but actually is such entity. For
+it is repugnant that there be given a real potentia receptive with
+respect to the entire genus and breadth of substance so that it
+includes complete and incomplete substance. For substance is
+prior to accident. And for this reason such a potentia, since it is
+the first subject, cannot be an accident but must be a substance.
+Nor can it be in potentia to itself. Therefore, it cannot be in
+potentia to the entire breadth of substance. In this there is a
+great difference between substantial form and accidental form.
+For an accidental form presupposes a being of a more noble
+genus, namely, substance. For this reason it can happen that
+a subject or potentia for an accident not be an accident in any
+way, that is neither complete nor incomplete. But a substantial
+form does not presuppose a being of a more noble genus. For
+this reason a potentia for such a form cannot be anything other
+than some substance, at least incomplete.
+
+-- 13 of 13 --

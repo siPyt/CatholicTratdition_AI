@@ -1,0 +1,310 @@
+Last revision: February 4, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 2, SECT. 11
+© Sydney Penner 2011
+<15, col. b>2
+De actionibus voluntatis, quæ sunt propter finem. Concerning actions of the will which are on account of the end.
+Ex dictis in disputatione præcedenti satis constat, voluntatem It is clear enough that our will acts for the sake of an end from what was said
+nostram operari propter finem: quod etiam est tanquam per in the preceding disputation. It is also per se notum, as it were, among the
+se notum apud philosophes, et ex modo loquendi Sacræ Scrip- philosophers and from the way of speaking in the Holy Scriptures, whereby
+5 turæ, ubi etiam in sectione 4, numero 6, confirmatum est. Et 5R it was also confirmed in sec. 4, n. 6 [of the preceding disputation]. And it is
+ratione patet; quia, cum homo utatur ratione, cognoscit in fine evident by reason, given that when a human being uses reason, he cognizes
+propriam <16> rationem finis, propter quam est appetibilis, et in the end [i] the proper nature of the end for the sake of which it is desirable
+proportionem mediorum in finem, et ita potest ordinare unum and [ii] the relation of means to the end. As a result, he can order one
+ad alterum, atque adeo operari propter finem. Duo ergo expli- thing to another and to that extent act for the sake of the end. Two things,
+10 canda supersunt, primo in quibus actionibus: secundo, quot 10R therefore, remain to be explained: in what actions? and, in how many ways
+modis operetur homo propter finem. can a human act for the sake of an end?
+SECTIO I. SECTION I.
+Utrum omnes actus liberi voluntatis humanæ sint propter finem? Are all free acts of the human will are for the sake of an end?
+1. Ratio
+dubitnadi pro
+neg. parte.
+1. Ratio dubitandi est primo, quia tantum media, quæ ordinan- 1. The reason for doubting is, first, that only the means which are ordered The first reason
+for doubting for
+the negative side.
+tur ad consequendum finem, videntur esse propter finem: hoc to the pursuit of the end seem to be for the sake of the end. For the phrase
+enim in rigore significat illa particula, propter: sed non omnes ‘for the sake of’ taken rigorously signifies this. But not all free acts of the
+5 actus liberi voluntatis sunt media ad finem consequendum, ut 5R will are means for the pursuit of the end, as is especially clear concerning
+patet primo de actu electionis: ille enim habet pro objecto an act of election. For it has a means for an object (for it is an election of
+medium (est enim electio de mediis): non potest autem ipsa dici means). Moreover, it cannot be called a means. Next, much less does the
+medium: Deinde, multo minus intentio finis, quæ antecedit intention for the end, which precedes election, have the nature of a means.
+Secunda. electionem, habet rationem medii. Secundo, quia id fit propter Secondly, [one can doubt] because what is done for the sake of an end The second
+reason.	10 finem, quod fit ex amore finis: sed non omnis actus voluntatis 10R is that which is done from a love for the end. But not every act of the will is
+fit ex amore finis, ut constat saltem de ipsomet amore, quia done from a love for the end, as is clear at least of the very love itself, since it
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not always
+in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+2 quæ ] qua V.
+
+-- 1 of 6 --
+
+Suárez, De fine hominis disp. 2, sec. 1 2
+non supponit alium amorem. Unde fieri potest aliter argumen- does not suppose another love. Hence, the argument can be made in another
+tum: nam primus actus circa finem, qui est amor, seu simplex way: for the first act concerning an end, which is love or simple will, does
+voluntas, non procedit ab alio actu, a quo ordinatur in finem: not proceed from another act by which it is ordered to the end. Therefore,
+15 ergo non est propter finem: nam esse propter dicit quamdam 15R it is not for the sake of the end, for ‘to be for the sake of’ expresses a certain
+ordinationem ad finem, sicut in actu intellectus, quamvis as- ordering to an end, just as in the case of acts of the intellect the assent to the
+sensus conclusionis sit propter principia, tamen assensus prin- principles cannot be said to be for the sake of the principles, even though
+cipiorum non potest dici esse propter principia. Atque ex the assent to a conclusion is for the sake of the principles.
+his rationibus videtur enervari divus Thomas, discursus 1, 2, And for these reasons St. Thomas seems to be weakened in the discus-
+20 quæst. 1, art. 1. Nam licet verum sit omnes actus voluntatis 20R sion in [ST ] IaIIæ.1.1. For although it is true that all acts of the will are
+versari circa finem aliquo modo, quod tantum concludit sua ra- directed to an end in some way, that hardly finishes his argument. And it
+tione: patetque ex dictis, disputat. 1, tamen inde non fit omnes is clear from what was said in disp. 1 that it does not follow from that that
+actus esse propter finem, quia non omnes sunt media ad finem, every act is for the sake of an end, since not all [acts] are means to an end
+nec omnes ordinantur ad finem ex priori intentione, seu affectu and not all [acts] are ordered to an end by a prior intention or affect for the
+25	Notatio pro
+resolutione.
+ad finem. In contrarium vero est D. Thomas: et ideo observan- 25R end. But St. Thomas disagrees. It should, therefore, be observed that among A note towards a
+resolution.	dum inter actus liberæ voluntatis quosdam esse imperatos, qu- acts of free will one kind has been commanded and and another kind has
+osdam elicitos: et inter hos, quosdam esse qui versantur circa been elicited. And among the elicited acts, there is one kind that is directed
+media, ut electio, et usus: alios, qui circa finem: inter eos autem to means (e.g., election and use) and another that is directed to the end.
+quidam antecedunt consecutionem finis, ut sunt amor, et inten- Among the latter, moreover, some precede the attainment of the end (e.g.,
+30 tio, quidam vero consequuntur, ut delectatio: et amor etiam 30R love and intention), but others follow (e.g., delight). Love can remain even
+tunc durare potest: de hoc ultimo dicam disputat. sequenti, de then. I will speak about this last one in the following disputation, but about
+cæteris in præsenti. <col. b> the rest in the present one.
+1. Assertio
+affirm. de actibus
+imperatis.
+2. Primo ergo de actionibus imperatis a voluntate lib- 2. First, therefore, concerning acts having been commanded by a free The first
+assertion:
+affirmative about
+commanded acts.
+era, certa res est esse propter finem, quia hujusmodi actiones will, it is certain that they are for the sake of an end, since actions of this kind
+35 esse solent potissima media ad finem consequendum. Item 35R are usually chiefly means for the pursuit of the end and since they proceed
+quia procedunt ex intentione finis, media electione amati: ergo from an intention for the end by means of an election of the thing loved.
+Observatio una
+pro hac
+assertione.
+propter finem: ergo propter eumdem fiunt. Sed in his action- Therefore, for the sake of the end. Therefore, they are done for the sake of
+ibus imperatis hæc breviter observanda sunt; primo interdum the same.
+eas esse media ad finem, non solum ratione ipsarum prout sunt But a couple of things should be noted about these commanded actions.
+40 in fieri, sed etiam ratione terminorum prout permanent in 40R First, sometimes they are means to an end not only by reason of themselves An observation
+on behalf of this
+assertion.
+facto esse, ut, verbi gratia, cum fit domus, non solum ædifica- as they are in coming to be but also by reason of the termini as they remain
+tio, sed domus ipsa facta dicitur esse propter finem: quomodo in having been made. For example, when a house is made, both the building
+dixit bene Aristoteles instrumenta artis esse media: solum in process and the house that has been made are said to be for the sake of the
+modo loquendi est notanda differentia, quia propter finem fieri, end, as Aristotle rightly says that the instruments of art are means. A dif-
+45 solum dicitur de actione proprie, vel de termino, quamdiu sunt 45R ference in the way of speaking should, however, be noted, since ‘being done
+in fieri: res autem jam factæ cessantibus actionibus dicuntur for the sake of an end’ is properly said only of action or of a terminus as long
+esse, vel factæ esse propter finem, non vero tunc fieri. Secundo as they are in the stage of becoming. But things already having been done
+Observatio
+altera.
+vero observandum est, interdum actionem imperatam non or- by actions that have ceased are said to be or to have been done for the sake
+32 in præsenti. ] in hoc ultimo dicam, disputat. sequenti, de cæteris in præsenti. V.
+
+-- 2 of 6 --
+
+Suárez, De fine hominis disp. 2, sec. 1 3
+dinari ad alium finem, sed ipsam intendi ut finem, ut patet ex of the end, not as being done now.
+50 distinctione Aristotelis supra tacta, disputat. præcedenti, sec- 50R It should be observed, secondly, that sometimes a commanded action A second
+observation.	tione 6, n. 9, et tunc si illa actio habeat objectum ut contem- is not ordered to another end, but is itself intended as end, as is clear from
+platio, ratione illius potest dici illa fieri propter finem, sive lo- Aristotle’s distinction mentioned above in the preceding disputation, sec. 6,
+quamur proprie et formaliter de actu ut actio est seu ut est ac- n. 9. And so if that action has an object like contemplation, it can for that
+tus immanens, seu intrinsecus terminus actionis: si vero actio reason be said that it is done for the sake of an end or we may speak properly
+55 non habet objectum, ut est, verbi gratia, citharizatio, tunc illa 55R and formally of the act as it is an action either as it is an immanent act or
+actio quatenus est actio, et fit ratione sui termini, poterit dici an intrinsic terminus of an action. But if an action does not have an object,
+fieri propter finem, ut revera fit: terminus autem ipse non est as is the case, for example, with playing a cithara, then that action to the
+propter finem, quia est ipsemet finis. Et hæc sunt addenda his, extent that it is an action and is done by reason of its terminus will be able
+Observatio 3. quæ dicit divus Thomas, citato articulo 1, ad 2. Ultimo est to be said to be done for the sake of the end, as it really happens. Moreover,
+60 observandum in his actionibus esse propter finem non esse aliq- 60R the terminus itself is not for the sake of the end, because it is the end itself.
+uid intrinsecum inhærens ipsis, sed tantum denominationem And these observations should be added to what St. Thomas says in the
+ab actibus voluntatis, a quibus procedunt, et ordinantur, nec cited art. 1, ad 2. Lastly, it should be noted that in these actions ‘being for A third
+observation.	aliter causantur a fine, nisi mediante voluntate quam finis im- the sake of an end’ is not something intrinsic inhering in them, but only a
+mediate movet sive allicit. denomination from the acts of the will from which they proceed and are
+65R ordered. Nor would they by caused by the end otherwise except except by
+means of the will which the end immediately moves or entices.
+65	2. Assertio affir.
+de actibus, qui
+versantur circa
+media.
+3. Secundo dicendum est actus elicitos a voluntate, qui ver- 3. Secondly, it should be said about acts elicited by the will that are di- The second
+assertion:
+affirmative about
+acts directed to
+means.
+santur circa media, maxime proprie esse propter finem, ut est, rected to means that they are most properly for the sake of an end. Election
+verbi gratia, electio. Probatur, quia hujusmodi actus procedunt is an example. It is proven from the fact that acts of this kind proceed from
+ex intentione finis. Item omnino ordinantur ad finem conse- 70R an intention of the end. Likewise, they are entirely ordered to the pursuit
+quendum. Denique actus imperati per hos actus elicitos, dicun- of the end. Finally, acts commanded through these elicited acts are said to
+70 tur esse propter finem ratione illorum: ergo multo magis ipsi. be for the sake of an end by reason of them. Therefore, much more they
+Quo- <17> circa isti actus non immerito dici possunt media themselves [are for the sake of an end]. Wherefore, these acts can not with-
+ad finem consequendum: nam qui dat verbi gratia, eleemosy- out cause be called means to the pursuit of an end. For he who, for example,
+nam ut satisfaciat, vel mereatur gloriam, non solum ipsum dare, 75R gives alms in order to make amends or earn glory assumes not only to give
+sed etiam velle dare assumit ut medium ad tale medium, quia alms but to wish to give as a means to such a means, because it is no less
+75 non est minus necessarium velle quam dare, atque adeo nec mi- necessary to wish than to give and therefore no less useful. And thus in the
+nus utile: et ita in dicto exemplo ratio meriti magis in interna stated example the reason for the merit is placed more in the internal will
+voluntate posita est, quam in externa actione; ad id vero non than in the external action. But for that it is not necessary that such a means
+est necesse, ut tale medium sit directum objectum electionis, 80R is the direct object of election, but it is enough that it is intrinsically a vol-
+sed satis est quod intrinsece sit actus voluntarius seipso volitus, untary act having been willed by itself as if through an intrinsic reflection.
+80 quasi per intrinsecam reflexionem.
+3. Assertio
+affirm. de
+intentione finis.
+4. Dico tertio, etiam actus intentionis finis est proprie 4. I say, thirdly, that even an act of intention for an end is properly The third
+assertion:
+affirmative about
+the intention for
+an end.
+propter finem, propter quod imprimis intentio ex se procedit for the sake of the end for the sake of which the intention in the first place
+ex amore finis: ergo hoc satis est ut dicatur esse propter finem, proceeds of itself from the love for the end. Therefore, this is enough so
+seu gratia finis, quia id fit gratia alicujus, quod fit ex amore il- 85R that it is said to be for the sake of the end or thanks to the end, because that
+
+-- 3 of 6 --
+
+Suárez, De fine hominis disp. 2, sec. 1 4
+85 lius. Deinde, quia illa actio proprie humana: ergo fit ab ef- which happens thanks to something happens from a love for that. Next,
+ficiente propter aliquem finem, non enim fit temere, vel casu, because that action is properly human. Therefore, it is done by effectiveness
+sed tendit ad definitum scopum, et hoc non habet ex directione, for the sake of some end, for it does not happen blindly or by chance but
+seu motione extrinseca superioris agentis, sed ex interna direc- tends to a definite target. And it does not have this from the direction or
+tione ipsius hominis operantis: ergo in eo actu propriissime 90R extrinsic motion of a further agent but from the internal direction of the
+90 operatur homo propter finem tanquam se movens in finem for- acting human being himself. Therefore, in that act the human being most
+malem ejus cognitionem. Denique hoc magis, et a fortiori con- properly acts for the sake of an end just as a formal cognition of it moves him
+stabit ex sequenti dubio. to the end. Finally, this will be clearer and even stronger from the following
+doubt.
+De affectu
+simplici circa
+finem
+quorumdam
+placitum.
+Vasquez 1.2.
+disp. 3. cap. 2.
+5. Est autem specialis difficultas de actu amoris, seu vol- 95R 5. But there is a special difficulty concerning the simple act of love or About the simple
+affect for an end
+pleasing to
+certain people.
+Vasquez IaIIæ,
+disp. 3, cap. 2.
+untatis simplicis circa finem: quidam enim gravis auctor exis- will directed to an end. For a certain author of importance judges that this is
+95 timat, hunc autem nec esse propter finem ut a voluntate pro- not for the sake of the end as it proceeds from the will nor is from that end
+cedit, nec esse ab ipso fine formaliter, sed effective, atque ita formally, but effectively and so it is for the sake of the end only by respect
+solum esse propter finem respecta ipsius objecti ut efficientis, of that object as effective object in the way in which the actions of natural
+eo modo quo actiones agentium naturalium sunt propter finem 100R agents are for the sake of an end by the institution of nature. His foundation
+ex naturæ institutione. Fundamentum ejus est supra tactum, was mentioned above, because that act is not done from a love for the end.
+100	Reiicitur 1. quia ille actus non fit ex amore finis. Hæc sententia mihi non This view is not pleasing to me. First, because this author without cause It is rejected, first.
+placet, et primo quia sine causa hic auctor miscuit præsentem mixed up the present difficulty with another one, i.e., whether a desirable
+difficultatem cum alia an objectum appetibile concurrat effec- object concurs effectively with the act of will. For this question not only
+tive ad actum voluntatis: hæc enim quæstio, non solum habet 105R has a place with respect to love but also with respect to intention and any
+locum respectu amoris, sed etiam respectu intentionis, et cu- act whatever. And, insofar as it touches on the present matter, that efficiency
+105 juscumque actus, et quantum ad præsens attinet, illa efficientia is not necessary, because, since love or desire is not by way of likeness but
+non est necessaria, quia cum amor seu appetitio non sit per by way of impetus, the desire itself is a sufficient principle of it. Nor is it
+modum assimilationis, sed per modum impetus ipse appetitus sufficiently understood in what way good cognized before it exists can have
+est sufficiens principium illius, nec satis intelligi- <col. b> tur 110R effective causality.
+quo modo bonum cognitum priusquam existat possit habere Secondly, whatever is the case regarding efficiency, it is bad to deny that It is rejected,
+secondly.	110	Reiicitur 2. effectivam causalitatem. Secundo, quidquid sit de efficientia, the desirable object has final causality with respect to simple love. For it
+male negatur objectum appetibile habere causalitatem finalem moves metaphorically and draws the will to itself, as was shown above.
+respectu simplicis amoris: nam metaphorice movet, et trahit Thirdly, when it is said that a good of this kind or desirable object moves It is rejected,
+thirdly.	Reiicitur 3. voluntatem ad se, ut supra probatum est. Tertio, cum dici- 115R the will for the sake of an end, I ask what that end is. For either it is that
+tur hujusmodi bonum, seu objectum appetibile movere vol- very good itself that moves to the loving of it for its own sake—and then it
+115 untatem propter finem inquiro quis sit ille finis: nam vel est follows that the good itself is the end of such a desire and concurs with it in
+ipsummet bonum quod movet ad amandum se propter se, et the genus of cause (final, which we intended)—or it is some other extrinsic
+tunc sequitur ipsummet bonum esse finem talis appetitionis, et end, as the author of that view very much suggests. And this really is false,
+concurrere ad illam in genere causæ finalis, quod intendimus: 120R because an end as end does not move to loving it for the sake of something
+vel est aliquis alius finis extrinsecus, ut magis insinuant auc- else but to loving it for the sake of its own goodness and others for its sake,
+120 tores illius sententiæ: et hoc revera falsum est, quia finis ut fi- for when it is loved for the sake of something else it is no longer loved as an
+96 formaliter ] formaliliter V.
+
+-- 4 of 6 --
+
+Suárez, De fine hominis disp. 2, sec. 1 5
+nis non movet ad amandum se propter aliud, sed ad amandum end, but rather, as a means, and such a love arises more from the motion of
+se propter suam bonitatem et alia propter se, nam quando ipse another extrinsic end than from this, which is said to be loved for the sake
+amatur propter aliud jam non amatur ut finis, sed potius, ut 125R of something else.
+medium, et talis amor potius oritur ex motione finis alterius ex- Fourthly, whatever concerns the efficiency of the object, it cannot be It is rejected,
+fourthly.	125	Reiicitur 4. trinseci, quam hujus, qui dicitur amari propter aliud. Quarto, denied that love is from the will itself, for when it is an act of life it is nec-
+quidquid sit de efficientia objecti, negari non potest quod amor essary that the will effect such an act for the sake of the end, because every
+sit ab ipsa voluntate, nam cum sit actus vitæ, necesse est ut agent acts for the sake of an end. Therefore, such an act is for the sake of
+voluntas efficiat talem actum propter finem, quia omne agens 130R an end not so much as it is from the object but rather as it is from the will.
+agit propter finem: ergo talis actus non tantum ut est ab ob- Nor can it be said to be for the sake of the end in that imperfect way by
+130 jecto: sed etiam ut a voluntate, est propter finem; nec dici which the actions of natural agents are for the sake of an end, because that
+potest esse propter finem illo imperfecto modo, quo actiones action proceeds from a perfect cognition of the end and tends to that not
+agentium naturalium sunt propter finem, quia illa actio pro- only by motion or by the ordination of higher agent, but from an intrinsic
+cedit ex perfecta cognitione finis, et in eum tendit non tantum 135R cognition and faculty and by the ordination of the one loving. And this is
+motione, seu ordinatione superioris agentis, sed ex intrinseca properly to act for the sake of an end. Hence, St. Thomas says in SCG III,
+135 cognitione et facultate, et ordinatione amantis, et hoc est agere c. 2 that there is no doubt but that agents act for the sake of an end through
+propter finem proprie. Unde divus Thomas 3, cont. Gent., intellect, since they act by preconceiving in the intellect that for the sake of
+cap. 2, dicit, agentia per intellectum non esse dubium quin which they act and they act from such a preconception.
+agant propter finem, quia agunt præconcipiendo in intellectu,
+id, propter quod agunt, et ex tali præconceptione agunt.
+140	4. Assertio
+affir. de prædicto
+actu simplicis
+amoris.
+Probatur 1. ex
+D. Thom.
+6. Quare dicendum est, hujusmodi actum amoris non mi- 140R 6. Wherefore it should be said that an act of love of this kind is no less The fourth
+assertion:
+affirmative about
+the just
+mentioned act of
+simple love.
+It is proven first
+from St. Thomas.
+nus esse propter finem, quam actum intentionis, et utrumque for the sake of an end than an act of intention. And both are for the sake
+esse propter finem, nisi fortasse de nomine sit disputatio. Est of an end, unless perhaps there is a dispute about the name. The view of
+aperta D. Thomæ sententia 1, 2, quæst. 1, art. 1, in cor- St. Thomas is clear in [ST ] IaIIæ.1.1 co., where he universally teaches that
+pore, ubi universaliter docet omnem actum humanum volun- every human act of will is for the sake of an end. Moreover, it is certain
+145 tatis esse propter finem; certum autem est simplicem amorem, 145R that simple love, for example, for God as the ultimate end freely elicited, is
+verbi gratia, Dei ut ultimi finis libere elicitum, esse actum hu- a human act.
+manum. Deinde in ratione sua ait non aliter actum esse <18> Next, in his argument he does not say otherwise than that an act is for
+propter finem, nisi quia est sub ratione finis, qui est objec- the sake of an end, except because it is under the nature of an end, which is
+tum voluntatis, sentiens ut actus humanus sit propter finem the object of the will, thinking that a human act being for the sake of an end
+150 satis esse quod sit ex propria causalitate finis; ostensum est 150R is enough for it to be from the proper causality of an end. Moreover, it was
+autem amorem esse ex causalitate finis, et negari non potest shown that love is from the causality of an end and it cannot be denied that
+quin fiat sub propria et perfecta ratione objecti voluntatis: ac it does not come about beneath a proper and perfect character of an object
+denique in solutione ad primum expresse docet voluntatem of the will. And, finally, in ad 1 he expressly teaches that the will for an
+2. Ex communi
+modo loquendi.
+ultimi finis esse propter finem. Probatur etiam ex communi ultimate end is for the sake of the end.
+155 modo loquendi, dicimur enim recte amare Deum ut ultimum 155R It is proven also by the common way of speaking, for we say rightly Secondly, from
+the common way
+of speaking.
+finem, propter se ipsum, et quia ultimus finis noster est. Item, to love God as the ultimate end for the sake of him himself and because he
+amamus finem propter bonitatem illius; sed ratio boni est ra- is our ultimate end. Likewise, we love an end for the sake of its goodness,
+tio finis: ergo eodem modo amamus finem propter ipsum but the nature of good is the nature of an end. Therefore, in the same way
+
+-- 5 of 6 --
+
+Suárez, De fine hominis disp. 2, sec. 1 6
+finem, sicut in assensu primorum principiorum, assentimur il- we love an end for the sake of the end itself, just as in assenting to first
+160 lis propter immediatam connexionem ipsorum. 160R principles, we assent to them for the sake of the immediate connection of
+them.
+3. Ex ratione. 7. Denique, ut rationem explicemus, hujusmodi actus 7. Finally, so that we may explain this argument, an act of love of this Thirdly, from
+reason.	amoris considerari potest, vel ut directe tendit in objectum, vel kind can be considered either as it tends directly to the object or as it includes
+ut includit reflexionem supra se ipsum quatenus ipse est voli- reflection beyond it of itself to the extent that it itself is willed when it is
+tus, cum sit voluntarius. Priori modo est propter finem, non 165R voluntary.
+165 quod sit propter extrinsecam rationem volendi talem finem, In the first way it is for the sake of an end. Not that it is for the sake
+sed quia est propter intrinsecam bonitatem ejus, et propria of an extrinsic reason for willing such an end, but because it is for the sake
+motione, et causalitate illius: in quo eadem est ratio de inten- of its intrinsic goodness, both by a proper motion and by its causality, in
+tione et amore, ut numero 5, dicebam, contra ultimam sen- which is the same nature of intention and love, as I said in n. 5 against the
+tentiam, quia etiam intentio versatur circa finem propter se ip- 170R last view. Because an intention also turns concerning an end for the sake
+170 sum, et non propter extrinsecam rationem. Nec probari potest of it itself and not for the sake of an extrinsic reason. Nor can it be shown
+quod particula illa, propter, significet extrinsecam rationem that that particle ‘for the sake of’ (propter) signifies an extrinsic reason for
+volendi, ut ex communi loquendi modo ostensum est. Si vero willing, as was shown from the common way of speaking.
+ille actus consideretur posteriori ratione, sic amari potest et But if that act is considered in the latter characterization, then it can
+propter se ipsum, vel propter suam bonitatem et propter objec- 175R be loved even for its own sake or for the sake of its goodness and for the
+175 tum, scilicet quia est tendentia in illud, ut in simili recte dixit sake of its object, namely, because there is a tendency to that St. Thomas
+D. Thomas, in 4, dist. 49, quæst. 1, art. 1, quæst. 2, et ex illo rightly says in parallel in [Sent.] IV, dist. 49, q. 1, art. 1, q. 2, and from that
+Capreolus, in 1, dist. 1, quæst. 1, a. 3, ad argumenta contra Capreolus in [Sent.] I, dist. 1, q. 1, a. 3 against the common view. And,
+sententiam communem. Ac denique esse potest propter ipsum finally, it can be for the sake of the one acting himself as for the sake of a
+operantem ut propter finem cui, vel ut ipsum perficiat: ergo, 180R finis cui or as it perfects him. Therefore, etc.
+180 etc.
+Ad 1. rationem
+dubitandi in
+num. 1.
+8. Ad rationes ergo dubii in principio positas facilis est 8. Therefore, the response to the reasons for doubting posited in the To the first
+reason for
+doubting in n. 1.
+responsio ex dictis. Ad primum enim negatur solum media beginning is easy from what has been said. For regarding the first, it is
+esse propter finem, nam hoc solum est verum, quando finis denied that only means are for the sake of an end, for this is only true when
+est extrinseca ratio volendi: tamen simpliciter omnis actus, qui the end is an extrinsic reason for willing. Yet, strictly speaking, every act
+185 est ex propria causalitate finis præconcepti, est propter finem. 185R which is from the proper causality of an end preconceived is for the sake of
+Ad secundum negatur esse propter finem esse ex amore finis, the end. Regarding the second, it is denied that to be for the sake of an end is
+ita ut amor necessario supponendus sit ante actionem quæ est to be from the love for the end, so that love must necessarily be presupposed
+propter finem, sed sufficit ut actio sit ex bonitate ipsius finis before the action which is for the sake of the end. Rather, it is sufficient that
+trahentis <col. b> voluntatem ad sui amorem: nam quod ex an action is from the goodness of the end itself drawing the will to love for
+190 parte voluntatis intercedat diversitas actuum, et quod unus sup- 190R it. For the fact that a diversity of acts comes between on the part of the will,
+ponat, non refert ad causalitatem finis, sed potius pertinet ad and that one supposes that, does not refer to the causality of the end but
+quamdam efficientiam inter ipsos actus. rather pertains to a certain efficiency between those acts.
+187 supponendus ] constituendus V.
+
+-- 6 of 6 --

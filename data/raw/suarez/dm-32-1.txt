@@ -1,0 +1,727 @@
+Last revision: April 1, 2013	Francisco Suárez, S. J.
+DISPUTATIO METAPHYSICA 32, SECT. 11
+© Sydney Penner 2013
+<312>2
+DISPUTATIO XXXII. DISPUTATION XXXII.
+De divisione entis creati in substantiam et accidens. Concerning the division of created being into substance and accident.
+Explicata communi ratione entis creati, sequitur declaranda Having explained the common ratio of created being, it follows that
+eius divisio, ut per eam ad pertractandas, et dignoscendas the division of common being should be explained in order thereby
+5 determinatas rationes entium, quantum ad Metaphysicum 5R to make progress in thoroughly treating and discerning the determi-
+spectat, progrediamur. Solet autem huiusmodi ens prox- nate rationes of beings insofar as they pertain to metaphysics. While it
+ime dividi in decem praedicamenta, tamen divisio a nobis is customary to divide being of this sort proximately into the ten cat-
+proposita aptior visa est ad servandum doctrinae ordinem, egories, the division proposed by us seemed more apt for preserving
+et explicandum rationes omnes communes, et quasi tran- the order of the doctrine and for explaining all the common and, as it
+10 scendentales, quae sub ente considerari possunt. De hac 10R were, the transcendental rationes that can be considered under being.
+ergo divisione breviter dicemus, quomodo membra eius op- With respect to this division, therefore, we will briefly discuss [i] how
+ponantur, et sufficienter divisum exhauriant: et quomodo its members are opposed and are exhaustive when sufficiently divided3
+in illius communi ratione conveniant. and [ii] in what manner they agree in that with the common ratio [of
+being].4
+SECTIO 1. 15R SECTION 1.
+15 Utrum ens proxime et sufficienter dividatur in substantiam, et Whether being is proximately and sufficiently divided into substance and
+accidens. accident.
+1. Prima ratio dubitandi esse potest, quia substantia non 1. The first reason for doubting can be that substance is found not
+solum in entibus creatis, sed maxime in increato reperitur: only in created beings but especially in uncreated being. Created being,
+non ergo recte dividitur ens creatum per rationem substan- 20R therefore, is not rightly divided through the ratio of substance. Other-
+20 tiae, alioquin continebitur aliquid sub membro dividente, wise, something would be contained under one of the dividing mem-
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in volume 26 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+3In Section 1.
+4In Section 2.
+
+-- 1 of 18 --
+
+Suárez, DM 32, sect. 1 2
+quod non continetur sub diviso: vel saltem modus contra- bers that is not contained under what was divided, or at least the mode
+hens seu determinans divisum, universalior erit seu com- contracting or determining what was divided will be more universal or
+munior quam ipsum divisum. Quod si forte dicatur sub- more common than what was divided. But if perhaps it is said that
+stantiam in ea divisione non sumi, ut abstrahit a creata, et 25R the substance in that division is not taken as abstracting from created
+25 increata, sed definite pro substantia creata: oritur hinc alia and uncreated but rather is taken precisely for created substance, then
+difficultas, nimirum ens prius fuisse dividendum in substan- another difficulty arises from here—namely, that being should first be
+tiam, et accidens, deinde vero substantiam in creatam, et divided into substance and accident and substance then be divided into
+increatam: quandoquidem substantia creata non convenit created and uncreated—since created substance does not agree with un-
+cum increata solum in ratione entis, sed etiam in ratione 30R created substance just in the ratio of being but also in the ratio of sub-
+30 substantiae: ergo nullo modo potest praesens divisio enti stance. Therefore, in no way can the present division be attributed to
+creato attribui. created being.
+2. Secundo, sunt aliae divisiones entis aeque <col. b> 2. Second, there are other divisions of being that are equally univer-
+universales, et immediate partientes ipsum ens: ergo nulla sal and that immediately partition being. Therefore, there is no reason
+est ratio ob quam praesens divisio caeteris praeferatur. An- 35R for preferring the present division. The antecedent is obvious, for being
+35 tecedens patet, nam ens dividi potest in absolutum, et re- can be divided into absolute and respective. This division is adequate
+spectivum, quae divisio adaequata est enti, cum nullum ex- to being, since no being can be thought of that is not contained in one
+cogitari possit ens, quod non sub altero membrorum con- of the members. Hence, the result is that this is a proximate and im-
+tineatur. Unde fit, hanc divisionem esse proximam, et im- mediate division of being. Otherwise, the dividing members could not
+mediatam ipsius entis, alioquin non possent membra divi- 40R adequately divide it.
+40 dentia illud adaequate dividere. Item, dividitur ens creatum Likewise, created being is divided into act and potency. This, too,
+in actum et potentiam, quae etiam est adaequata, et imme- is an adequate and immediate division.
+diata divisio. Item, dividi potest ens in completum et in- Likewise, being can be divided into complete and incomplete. For
+completum, dantur enim quaedam entia integra, et totalia, there are certain entire and whole beings (such as substantial supposita)
+ut sunt substantialia supposita, quae merito completa entia 45R that can rightly be called complete beings, but there are others that are
+45 nominari possunt: alia vero sunt quae sunt partes, aut affec- parts or affections of such beings that are included under the ratio of
+tiones talis entis, quae sub ratione entis incompleti compre- incomplete being. Not only accidents but also the parts of substances
+henduntur: sub quo membro, non tantum accidentia, sed are included under the latter member. Hence, it is clear that this di-
+etiam partes substantiae comprehenduntur. Unde constat vision is far different from the former one. Moreover, that it is also
+hanc divisionem esse valde diversam a praecedenti. Quod 50R adequate is known per se, since the members include an immediate con-
+50 autem sit adaequata, per se notum est, quia membra imme- tradiction and immediately divide the ratio of being. For these modes
+diatam contradictionem includunt, dividuntque immediate are transcendent, as it were, and they proximately determine and, as it
+ipsam rationem entis, quia illi modi quasi transcendentes were, affect the very ratio of being. Moreover, it seems that this par-
+sunt, et proxime determinant, et quasi afficiunt ipsam ra- tition is more apt for explaining the community or analogy of being,
+tionem entis. Videtur autem haec partitio aptior ad expli- 55R since only complete being seems to be a principal member and all other
+55 candam communitatem, seu analogiam entis, quia solum being participate in the ratio of being through a relation (habitudinem)
+ens completum esse videtur principale membrum, et per to complete being.
+habitudinem ad illud, reliqua omnia entis rationem partici-
+pant.
+
+-- 2 of 18 --
+
+Suárez, DM 32, sect. 1 3
+3. Tertio hinc oritur praecipua difficultas, nam videtur 3. From here, third, arises an especially strong difficulty, since that
+60 illa divisio plane insufficiens: nam praeter substantiam, et division [into substance and accident] seems plainly insufficient. For
+accidentia, datur aliquid quod participat rationem entis, et 60R beyond substance and accident, there is given something that partici-
+non est substantia nec accidens, ut, verbi gratia, modus rei pates in the ratio of being but is not a substance or an accident. For
+non est substantia rei, ut per se notum est, nec etiam est example, a mode of a thing is not a substance of that thing, as is known
+accidens, quia non inhaeret, sed per quamdam identitatem per se and neither is it an accident, since it does not inhere but it affects
+65 afficit rem cuius est modus. Quod praesertim declaratur in the thing of which it is a mode through a kind of identity. This is es-
+dependentia creativa, qua ens creatum producitur, et conser- 65R pecially revealed in the creative dependence by which a created being
+vatur a Deo; illa enim aliquid rei est, et hoc modo sub ente is produced and conserved by God. For that dependence is something
+continetur, et non est accidens, quia non est in subiecto, nec of the thing and in this way is contained under being. But it is not an
+ex subiecto, sed est prior natura omni subiecto, cum sit ex accident, since it is not in a subject nor from a subject. It is prior in
+70 nihilo, nec etiam est substantia, quia ex natura rei distingui- nature to every subject, since it is ex nihilo. Nor is it a substance, since
+tur a substantia, quae per ipsam producitur. Et confirmatur, 70R it is distinguished ex natura rei from the substance, which is produced
+augeturque difficultas ex quibusdam proprietatibus substan- through it.
+tiae vel entis, quae secundum suas rationes formales non This is confirmed—and the difficulty is made more severe—by cer-
+censentur esse substantiae, sed proprie- <313> tates sub- tain properties of substance or being that according to their formal ra-
+75 stantiae, et tamen non sunt etiam accidentia, quia in re non tiones are not thought to be substances but properties of substances and
+distinguuntur a substantia, nec realiter, nec modaliter, sed 75R yet also are not accidents, since they are not distinguished in reality
+tantum formaliter, ex mentis praecisione, quae est rationis from the substance, neither really nor modally, but only formally ac-
+distinctio. Assumptum declaratur, nam est proprietas sub- cording to a precision of the mind (which is a distinction of reason).
+stantiae esse aptam, ut substet accidentibus, quae tamen pro- The assumption is shown, for it is a property of substance to be suit-
+80 prietas neque addit substantiae ullum accidens, nec declarat able for standing under accidents. But that property neither adds some
+ipsam rationem substantiae. Simile est de hac proprietate, 80R accident to substance nor declares the ratio of substance.
+esse principalem virtutem operandi, et similibus. Idemque It is similar in the case of the property of being the principal power
+argumentum maiori ratione fieri potest de ipsis proprietati- of activity, and other similar cases. The same argument can be made
+bus entis in communi, quae nec accidentia esse possunt, nec with more powerful reason with respect to the properties of being in
+85 substantiae, cum utrisque communes sint, et tamen sunt en- general, which cannot be either accidents or substances, since they are
+tia, alioqui nihil essent: illa ergo duo membra non dividunt 85R not common to either kind. Nevertheless, these properties are beings.
+sufficienter ens. Otherwise, they would be nothing. Therefore, substance and accident
+do not sufficiently divide being.
+Quaestionis resolutio. Resolution of the question.
+4. Nihilominus dicendum est illam esse optimam, ac suf- 4. Nevertheless, one should say that this is the best and sufficient divi-
+ficientem divisionem entis. Quae sententia adeo est com- sion of being. This view is so common that it is received by everyone as
+munis, ut tamquam res per se nota ab omnibus recepta sit: a thing known per se. For this reason, what is needed is more an expla-
+5 quapropter magis indiget terminorum explicatione, quam 5R nation of the terms than a proof. That, therefore, among created things
+probatione. Quod ergo in rebus creatis, quaedam sint sub- some are substances and some are accidents is manifest from the contin-
+
+-- 3 of 18 --
+
+Suárez, DM 32, sect. 1 4
+stantiae, quaedam vero accidentia, ex ipsa continua rerum uous change and alteration of things. For water, for example, is changed
+mutatione, et alteratione manifestum est, mutatur enim from hot to cold and the other way around. A human being now sits,
+aqua, verbi gratia, ex calida in frigidam, et e converso, et but now walks. It is necessary that through these changes something of
+10 homo nunc sedet, nunc vero ambulat, per quas mutationes 10R the thing is lost or acquired. Otherwise, there would not be any real
+aliquid rei amitti, vel acquiri necesse est; alioqui non fieret change. But the substance is not lost or changed, for the entire sub-
+mutatio realis: non amittitur autem, nec mutatur substan- stance of the water or of the human being remains, whether becoming
+tia, integra enim manet substantia aquae, vel hominis, sive hot or becoming cold, whether sitting or walking. That with respect
+calefiat, sive frigefiat, sedeat, aut ambulet: est ergo accidens, to which the change happens, then, is an accident. Therefore, certain
+15 illud in quo fit mutatio; dantur ergo in entibus quaedam 15R things are given among beings that are accidents. Whence it is further
+quae sunt accidentia. Unde ulterius necessario concluditur, necessarily concluded that there is some being that is a substance. For
+aliquod esse ens, quod sit substantia, nam accidens alicuius an accident is an accident of something, namely, of a substance.
+est accidens, nimirum substantiae. Quod si quis dicat etiam Someone might say that there could also be an accident of an acci-
+accidentis posse dari accidens. Respondetur, necessario sis- dent. I respond that it must necesssarily stop in some substance, since,
+20 tendum esse in aliqua substantia, quia licet unum accidens 20R although one accident can befall another accident, since it is neither the
+alteri accidat, tamen cum neque in hoc ordine possit in in- case that this chain can proceed to infinity nor the case that it can stop
+finitum procedi, neque sisti in aliquo accidente, quod nulli in some accident that does not befall some subject (otherwise this last
+subiecto accidat (alioqui iam non esset accidens, sed substan- accident would already not be an accident but a substance). Therefore,
+tia), necessario sistendum est in aliquo ente, quod sit sub- it must necessarily be stopped in some being that is a substance and that
+25 stantia, quodque sit primum, et quasi radicale subiectum, et 25R is first and, as it were, the root subject and foundation of the accidents.
+fundamentum accidentium. Quod etiam manifestant prae- The aforementioned accidental changes also make this obvious. It
+dictae accidentales mutationes, sub quarum terminis necesse is necessary that the same subject remain under those terms, and that
+est, ut idem sub- <col. b> iectum maneat, quod non potest subject cannot be anything other than a substance, either a substance
+esse nisi substantia, sive sola, ac nuda, sive aliis accidentibus alone bare of any accidents or a substance affected by other accidents.
+30 affecta. Sic igitur satis constat, convenienter dividi ens in 30R Thus, then, it is sufficiently clear that being is suitably divided into
+substantiam, et accidens. substance and accident.
+5. Quod vero sufficienter etiam dividatur, eodem fere 5. Moreover, that being is also sufficiently divided [in this way] can
+discursu concludi potest; nam vel ens tale est, ut nulli alteri be concluded from the same argument. For either being is such that it
+accidat, vel est tale, ut alicui accidat, seu ut alicui enti ad- does not befall anything else or it is such that it does befall something,
+35 haereat, illudque afficiat accidentaliter, seu extra essentiam 35R either as adhering to some being and affecting it accidentally or or as
+eius. Quidquid priori modo se habet, sub ratione substan- beyond its essence. Whatever holds itself in the former way is included
+tiae comprehenditur, quod autem posteriori, sub ratione ac- under the ratio of substance, but that which holds itself in the latter way
+cidentis. Non potest autem inter haec duo membra sic ex- under the ratio of accident. Nor can one find any intermediate between
+plicata medium inveniri, nam immediatam contradictionem these two members explained in this way, since it would include an
+40 includunt, ut ex ipsis verbis a nobis propositis satis constat. 40R immediate contradiction, as the very words we used make clear enough.
+Coincidit autem haec ratio cum illa vulgari, quod ens per se, Moreover, this argument coincides with the common one that be-
+et in alio habent inter se immediatam oppositionem, unde ing per se and being in another have an immediate opposition to each
+necesse est alterutrum ex his modis omni enti convenire; ens other, as a result of which it is necessary that for any being one or the
+autem per se constituit substantiam, ens vero in alio con- other of these ways of being apply to it. A being per se, moreover,
+
+-- 4 of 18 --
+
+Suárez, DM 32, sect. 1 5
+45 stituit accidens; ergo adaequate dividunt ens. Quid autem 45R constitutes a substance, but a being in another constitutes an accident.
+per hos duos modos per se et in alio significetur, non potest They adequately divide being, therefore. But what is signified through
+breviter explicari, sed in sequentibus disputationibus trac- these two ways ‘per se’ and ‘in another’ cannot be briefly explained
+tandum est: nunc tantum supponatur, utrumque sumi, ut but must be treated in the following disputations. For now it is only
+includit immediatam negationem alterius, ita ut quidquid assumed that each is taken as immediately including a negation of the
+50 non est in alio, ad modum accidentis, id est, inhaerendo, 50R other, such that whatever is not in another in the way of an accident
+vel afficiendo extra essentiam rerum, per se esse dicatur, et (that is, by inhering or affecting beyond the essence of things) is said
+sit substantia, et e converso quidquid per se non est, sed to be per se, and so is a substance. And, conversely, whatever is not per
+alicui adhaeret, sit in alio, et accidens dicatur. Quamquam se but adheres to something is in another and is called an accident. Of
+ex his duobus modis melius modus per se concipiatur, et ex- these two ways, however, the way per se is conceived and explained by
+55 plicetur a nobis per negationem alterius, quia simplicior est, 55R us through a negation of the other, since it is simpler than the way of
+quam modus existendi in alio. Atque hoc nunc sit satis ad existing in another thing. This is enough for now for explaining the
+explicandam sufficientiam huius divisionis, nam exacta dec- sufficiency of this division, for an exact statement of these ways of be-
+laratio horum modorum inferius tradenda est, ut dixi. Et ing should be discussed below, as I said. And this division will be more
+respondendo ad difficultates propositas haec divisio amplius fully revealed in responding to the proposed difficulties.
+60 declarabitur.
+Responsio ad primam dubitandi rationem. Response the the first reason for doubting.
+6. Ad primam ergo rationem dubitandi, primo dicendum 6. To the first reason for doubting, then, it should first be said that in
+est, in hac divisione, prout a nobis tradita est, membra div- this division as it was taught by us the dividing members should be pro-
+identia sumenda esse proportionata diviso. Cum ergo divi- portionately divided. Since, therefore, what is being divided is created
+5 sum sit ens creatum, utrumque membrum dividens accipi- 5R being, each dividing member should be accepted insofar as it is con-
+endum est quatenus per modum enti creato accommodatum stituted through a mode accommodated to created being. And indeed
+constituitur. Et quidem in accidente hoc nulla indiget decla- in the case of accidents this requires no explanation, since according
+ratione, quia iuxta sanam et Ca- <314> tholicam doctrinam to sound and Catholic doctrine there are no uncreated accidents. For
+nullum est increatum accidens, quia neque extra Deum est there is nothing beyond God that is an uncreated being and there is
+10 aliquod ens increatum, neque in Deo est aliquod accidens, 10R nothing in God that is an accident, as was shown above.
+ut supra ostensum est. De alio vero membro, scilicet, sub- But with respect to the other member—namely, substance—we do
+stantia, fatemur quidem Deum esse substantiam increatam, confess that God is an uncreated substance and that thus one can ab-
+atque ita posse abstrahi rationem substantiae in communi a stract the ratio of substance in general from created and uncreated sub-
+creata, et increata, tamen in hac divisione non hoc modo stance. Nevertheless, substance is not taken in this way in this division
+15 sumitur, sed quatenus constituitur per modum proprium 15R but rather insofar as it is constituted through the proper mode of a cre-
+substantiae creatae. Qui modus dupliciter explicari potest. ated substance. This mode can be explained in two ways. First, as a
+Primo, ut substantia non tantum dicatur quae per se est, substance is not only said to be what exists per se but as what stands or
+sed quae accidentibus substat, vel substare potest: quomodo can stand under accidents. Aristotle seems to have taken and described
+videtur Aristoteles sumpsisse, et descripsisse substantiam in substance in this way in the categories. But this explanation assumes in
+20 praedicamentis. Haec vero explicatio supponit imprimis 20R the first place that every created and creatable substance is apt to stand
+
+-- 5 of 18 --
+
+Suárez, DM 32, sect. 1 6
+omnem substantiam creatam, et creabilem aptam esse sub- under accidents. This will perhaps not appear entirely evident to every-
+stare accidentibus, quod alicui fortasse non omnino evidens one, but I find it indisputable, as can be established from what was said
+apparebit, mihi autem indubitatum est, ut ex dictis in dis- in the previous disputation about the compositions of created being.
+putatione praecedenti de compositionibus entis creati con- But this description explains the ratio of created substance through
+25 stare potest. Illa vero descriptio declarat rationem substan- 25R a disposition to something extrinsic, even though its ratio is absolute
+tiae creatae per habitudinem ad aliquid extrinsecum, cum and is contained within a proper genus.
+tamen illius ratio absoluta sit, et intra proprium genus con-
+tineatur.
+7. Secundo ergo modo explicari potest, ex eo quod 7. The proper mode of a created substance can, then, be explained
+30 modus per se essendi, qui essentialiter constituit substan- in a second way from the fact that the way of being per se which essen-
+tiam creatam imperfectus est, vel quia aliquam composi- tially constitutes a created substance is imperfect, either because some
+tionem includit in tali substantia, vel certe quia licet inclu- 30R composition is included in such a substance or at least because although
+dat negationem inhaerendi, tamen non dicit ex vi suae prae- it includes a negation of inhering it nevertheless does not imply accord-
+cisae, et essentialis rationis actualem modum subsistendi, ing to the force of its own precise and essential ratio an actual mode of
+35 quo ultimate ac perfecte videtur substantia compleri ac con- subsisting by which a substance is ultimately and perfectly completed
+stitui. Substantia itaque increata est per se ipsa substan- and constituted. Consequently, an uncreated substance is the very per se
+tialiter, atque essentialiter subsistens, atque ita ex vi suae 35R substantially and essentially subsisting thing, and so by the force of its
+essentiae habet completam rationem substantiae, substan- own essence has the complete ratio of a substance. But if a created sub-
+tia vero creata si incompleta sit hoc ipso deficit a perfecta stance is incomplete, it by this fact lacks the perfect ratio of a substance.
+40 ratione substantiae, et ex se, vel non subsistit actu nisi in Of itself it either does not subsist in act except in another or in a whole
+alio, seu in toto, vel non perfecte subsistit, neque omnino or it does not perfectly subsist and not wholly absolutely but in order
+absolute, sed in ordine ad componendum aliquod totum, 40R to compose some whole (as prime matter does). But if it is a complete
+ut materia prima. Si vero sit completa substantia, quamvis substance, although it subsists in act, it does not do so according to the
+subsistat actu, non tamen ex vi suae essentiae formaliter ac force of its own essence formally and precisely, but through some mode
+45 praecise, sed per aliquem modum et actum suae essentiae, et and act of its essence. Therefore, a substantial created nature, as I will
+ideo substantialis natura creata, ut infra dicam, non est es- say below, is not an essentially subsisting act but an aptitudinally sub-
+sentialiter actus subsistens, sed aptitudine. Sic igitur constat 45R sisting one. In this way, therefore, it is clear that uncreated substance is
+sub hac divisione prout in praesenti assignatur, non compre- not included under this division as it is assigned at present.
+hendi substantiam increatam. <col. b>
+50 8. Neque necesse fuit prius dividere ens in substan- 8. Neither was it necessary first to divide being into substance and
+tiam, et accidens, et deinde substantiam in creatam, et in- accident and then divide substance into created and uncreated. For, al-
+creatam: quamvis enim negari non possit, quin talis modus though it cannot be denied that such a way of dividing has a foundation
+dividendi fundamentum habeat in re, et ideo non sit rei- 50R in reality and so should not be rejected as including something false or
+iciendus tamquam includens aliquid falsum, vel in rebus including something repugnant to the things themselves, nevertheless
+55 ipsis repugnans, nihilominus inde non fit, illum dividendi it does not follow from that that this was of dividing must be preferred
+modum fuisse ordine naturae praeferendum. Quin potius si according to the order of nature. Rather, if the matter is considered
+44 ex ] om. V.
+54 in ] om. A.
+
+-- 6 of 18 --
+
+Suárez, DM 32, sect. 1 7
+attente res consideretur, non possunt huiusmodi divisiones carefully, divisions of this sort cannot be conceived and taught in a cer-
+quadam serie, et ordine a nobis concipi, et tradi, ita ut non 55R tain series and order in such a way that they cannot also be conceived
+possint secundum alias rerum convenientias, et differentias and arranged in other ways according to other similarities and differ-
+60 aliis etiam modis concipi, et coordinari. Ut (retorquendo ences between things. So that (turning around the argument) although
+argumentum) licet divideretur ens in substantiam, et acci- being is divided into substance and accident, it might be that substance
+dens, posset substantia non dividi immediate in creatam, et is not divided immediately into created and uncreated but into spiri-
+increatam, sed in spiritualem, et materialem, et deinde sub- 60R tual and material and then spiritual substance should be divided into
+stantia spiritualis dividenda esset in creatam et increatam. created and uncreated. Or, alternatively, substance can be divided into
+65 Vel aliter, posset dividi substantia in viventem, et inanimem, living and inanimate, and living substance in turn into rational or in-
+et rursus substantia vivens in rationalem seu intellectualem, tellectual and irrational, and then intellectual substance into simple or
+et irrationalem, ac deinde intellectualis in simplicem seu purely intellectual and composite or discursively rational, and finally
+pure intellectualem, et compositam, seu discursivam, ac tan- 65R simple or purely intellectual substance into created and uncreated. And
+dem simplex, et pure intellectualis in creatam, et increatam. from these and other ways these divisions can be multiplied to infinity,
+70 Atque his et aliis modis possunt in infinitum hae divisiones since we can conceive of the similarities and differences between things
+multiplicari, quia convenientiae, et differentiae rerum in- in nearly infinitely many ways through relations to the different actions
+finitis paene modis possunt a nobis concipi per habitudinem or properties of things.
+ad diversas actiones, seu rerum proprietates.
+9. Quapropter ad constituendum aliquem divisionis 70R 9. Wherefore in order to set up some especially suitable mode of di-
+75 modum ordini doctrinae maxime accommodatum, consid- vision in the order of teaching, we considered, as was noted above, the
+eravimus, ut supra notatum est, summam, ac primam en- first and greatest distance and difference of beings, which we find be-
+tium distantiam, ac diversitatem, quam invenimus inter ens tween created and uncreated being. For although uncreated being could
+creatum et increatum. Quamvis enim ens increatum pos- [be found] under other rationes beyond the common ratio of being—
+sit sub aliis rationibus, praeter communem rationem entis, 75R since it agrees with some created beings as in the ratio of substance, in
+80 convenire cum aliquibus entibus creatis, ut in ratione sub- the other rationes already mentioned, in the ratio of absolute being or
+stantiae, et in aliis iam propositis, et in ratione entis abso- of respective being, and in other similar ones—nevertheless, once ev-
+luti, vel respectivi, et similibus: nihilominus omnibus pen- erything has been weighed the distinction and difference between un-
+satis maior est distinctio, ac diversitas inter ens increatum et created being and any created being is greater than between any created
+quodlibet creatum, quam inter omnia creata inter se com- 80R beings compared to each other. For this reason we rightly first divided
+85 parata: et ideo merito prius divisimus ens in creatum, et being into created and uncreated rather than first into substance and
+increatum, quam in substantiam, et accidens. Praesertim, accident.
+quia Deus extra omne genus seu extra omne praedicamen- This is so especially because God exists beyond every genus or be-
+tum existit, unde licet aliquo modo conveniat in ratione sub- yond every category. Hence, although he in some way fits the ratio of
+stantiae, cum aliquibus entibus creatis; non tamen univoce, 85R substance along with some created beings, yet not univocally but ana-
+90 sed analogice, ut ex superius dictis de ente creato, et incre- logically, so that the things said earlier about created being and uncre-
+ato sumi facile <315> potest, et ideo ad constituendum sub ated being can easily be accepted. For this reason in order to constitute
+ente decem genera summa, seu praedicamenta rerum, opor- the ten highest genera or categories of things under being, it is neces-
+81 et in aliis ] et aliis A.
+
+-- 7 of 18 --
+
+Suárez, DM 32, sect. 1 8
+tuit prius increatum ens a caeteris secernere, et deinde ens sary first to separate uncreated being from other beings and only then
+creatum in caetera membra ordinate distinguere. 90R to divide created being into the remaining members in an orderly way.
+Responsio ad rationem secundam. Response to the second reason.
+10. Atque ex his patet responsio ad secundam rationem du- 10. From what has been said the response to the second reason for
+bitandi, concedimus enim posse alias divisiones entis creati doubting is clear. For we concede that in addition to the division into
+excogitari, quibus, et immediate; et adaequate dividatur, substance and accident one can think of other divisions of created be-
+5 praeterquam in substantiam, et accidens, hoc enim satis 5R ing by which it is divided both immediately and adequately. For this
+probant exempla ibi adducta, et quoad hoc eadem est ra- was sufficiently established by the examples presented there. And with
+tio de ente creato, quae de ente in communi. Nihilominus respect to this there is the same argument concerning created being as
+tamen haec divisio entis creati in substantiam et accidens there is of being in general. Nevertheless, we prefer this division of
+caeteris a nobis praelata est, propter easdem causas supra in- created being into substance and accident to the other divisions on ac-
+10 dicatas. Prima est, quia maior est diversitas inter substan- 10R count of the same reasons indicated above. The first is that there is a
+tiam, et accidens, quam inter quaelibet alia membra, quae greater difference between substance and accident than between what-
+sub ente creato excogitentur, quia maiorem oppositionem ever other members you please that can be thought of under created
+includunt, et quia maior est analogia entis respectu illo- being, since they include a greater opposition and since the analogy of
+rum, ut statim dicetur, quod est signum minoris conveni- being is greater with respect to them, as I will discuss shortly, which is a
+15 entiae, maiorisque distantiae. Quod etiam ex ipsis exemplis 15R sign of less similarity and greater distance. This can also be understood
+in argumento adductis intelligi potest. Primum erat de divi- from the examples presented in the argument. The first was about the
+sione in absolutum et respectivum, in qua si ens respectivum division of being into absolute and respective being. In this case if re-
+sumatur pro respectu transcendentali, vix distingui potest in spective being is taken for a transcendental respect, it can hardly be
+re ab absoluto, sed ratione tantum, quia nullum est ens crea- distinguished from absolute being in reality but only by reason. For
+20 tum adeo absolutum, ut non includat in sua entitate aliquem 20R there is no created being so absolute that it does not include in its en-
+transcendentalem respectum, ut supra tactum est. Si vero tity some transcendental respect, as was touched on above. But if it is
+sumatur proprie pro respectu praedicamentali, huiusmodi taken properly for a categorial respect, a respect of this sort either adds
+respectus vel nihil rei addit entibus absolutis vel, si quid ad- nothing real to absolute beings or, if it does add something, it stands
+dit, multo minus distat a caeteris accidentibus maioremque much less far from the remaining accidents and has a greater similarity
+25 cum illis convenientiam habet, quam ipsa accidentia inter 25R to them than the accidents themselves have to each other.
+se.
+11. Aliud exemplum erat de actu, et potentia: quae si 11. Another example was of act and potency. If they are taken for
+sumantur pro ente in actu, et pro ente in potentia, non sunt being in act and for being in potency, they are not properly and posi-
+proprie ac positive diversa entia, sed indicant diversos status tively different beings, but indicate different states of the same being, as
+30 eiusdem entis, ut supra declaratum est, et ideo illa divisio in was shown above. Therefore, this division taken in this sense does not
+eo sensu non tam deservit ad declarandas diversas naturas 30R serve so much to reveal different natures of beings—which is what we
+entium, quod hic intendimus, quam ad explicandum ipsam are after here—than serve to explicate the common ratio itself of cre-
+communem rationem entis creati, quod de se non habet esse ated being, which does not of itself have being in act. For this reason
+actu, et ideo illa divisio supra est a nobis declarata, simul we explained this division above at the same time along with the ratio
+
+-- 8 of 18 --
+
+Suárez, DM 32, sect. 1 9
+35 cum ipsa ratione entis creati. Si vero actus, et potentia pro- of created being.
+prie sumantur, pro potentia agendi, vel recipiendi, et actu 35R But if act and potency are taken properly for the potency, [i.e.,
+utriusque, sic illa membra, nec maxime inter se <col. b> power], of acting or of receiving and for the act of either kind of po-
+distant, nam saepe potentia, et actus ad idem genus perti- tency, then those members are not especially distant from each other,
+nent, nec etiam illa duo membra in eo sensu sumpta adae- for a potency and act often belong to the same genus. Taken in that
+40 quate dividunt ens, non enim omne ens est actus, aut po- sense those two members do not even adequately divide being. For not
+tentia in ea proprietate, quamvis si actus late sumatur pro 40R every being is either act or potency in that strict sense. Although if
+quocumque formali constitutivo, sive sit propria forma, sive act is taken broadly for any formally constitutive being, whether that
+modus, aut terminus, et potentia sumatur pro quovis princi- is a proper form or a mode or a terminus, and potency is taken for any
+pio agendi, aut recipiendi, sic revera potest quodlibet ens ad principle of acting or receiving whatever, then any being whatever can
+45 aliquod ex dictis membris reduci. Tamen non ita declarant really be reduced to one of the stated members. Nevertheless, in that
+propriam, et intrinsecam rationem uniuscuiusque entis, si- 45R way they do not reveal the proper and intrinsic ratio of every being, as
+cut ratio substantiae, et accidentis, nec tantam diversitatem the ratio of substance and accident do, nor do they constitute as much
+inter entia ipsa constituunt, ut dictum est. difference between the beings themselves, as was said.
+12. Aliud exemplum erat de ente completo, et incom- 12. Another example was of complete being and incomplete be-
+50 pleto: quae duo membra fatemur adaequate, et immediate ing. We grant that these two members adequately and immediately
+dividere ens: nihilominus tamen non est ita apta ad prae- 50R being. Nevertheless, it is not as apt for the present teaching as is the
+sentem doctrinam, sicut divisio entis in substantiam, et acci- division of being into substance and accident. For complete and in-
+dens. Quia tam in accidentibus quam in substantiis dari pos- complete beings can be found respectively among accidents as much
+sunt entia completa et incompleta respective, et maior est as among substances, and there is more similarity between incomplete
+55 convenientia inter ens incompletum substantiale cum sub- substantial beings and complete substantial beings than with any acci-
+stantia completa, quam cum quocumque accidente, et e con- 55R dent whatever. Conversely, there is a greater difference between any
+verso maior est diversitas inter quamcumque substantiam et substance and any accident than between a complete substance and an
+accidentia, quam inter substantiam completam, et incom- incomplete substance.
+pletam inter se. Accedit altera generalis ratio, quod hae divi- Another general reason appears: these divisions of being are or-
+60 siones entis ordinantur ad distinguenda praedicamenta, seu dered towards distinguishing the categories or genera of things and for
+genera rerum, et declarandas eorum essentias, et ad hunc 60R revealing their essences, and the division of being into substance and
+finem longe aptior est divisio entis in substantiam, et acci- accident is much more apt for this end than the division into complete
+dens, quam in ens completum, et incompletum. Immo vix being and incomplete being. Indeed, the ratio of complete being and
+potest ratio entis completi, et incompleti exacte declarari incomplete being can hardly be revealed accurately except by presup-
+65 nisi supposita priori divisione, nam quod in uno genere est posing the former division. For that which is incomplete in one genus
+incompletum perfectius ens esse potest, quam quod est com- 65R can be a more perfect being than that which is complete in another
+pletum in alio, et quod in uno genere est completum in pro- genus, and that which is complete in one genus according to the proper
+pria ratione illius generis, est simpliciter incompletum in ra- ratio of that genus is incomplete without qualification according to the
+tione, seu latitudine entis. Non est ergo necessaria illa divi- ratio or breadth of being. That division, therefore, is not necessary, but
+70 sio, sed in singulis generibus entium commodius explicatur. it is more agreeably explained in the individual genera of beings.
+
+-- 9 of 18 --
+
+Suárez, DM 32, sect. 1 10
+Primum dubium de modis entium, circa tertiam dubitandi The first doubt concerning the modes of being with respect to the third
+rationem. reason for doubting.
+13. In tertia difficultate nonnulla brevia dubia insinuantur. 13. Several doubts were briefly suggested with the third difficulty. The
+Primum est, an modus entis, qui ex natura rei distinguitur first is whether a mode of a being that is distinguished ex natura rei from
+5 ab illa re cuius est modus, sub hac divisione comprehen- 5R the thing of which it is a mode is included under this division and to
+datur, et ad quod illius membrum pertineat. Et quidem which of the members it would belong. And certainly someone could
+propter argumentum factum existimare quis posset, hos think as a result of the argument that was made that these modes are not
+modos non contineri <316> sub diviso huius divisionis, et contained in what is divided by this division, and so it is not necessary
+ideo necessarium non esse, ut aliquod ex membris dividen- that one of the dividing members agree with these modes. For these
+10 tibus illis conveniat. Hi enim modi non habent propriam 10R modes do not have a proper entity and reality. As a result they cannot
+entitatem et realitatem, et ideo neque entia dici possunt, be called beings but only modes of beings. Since, therefore, what is
+sed solum modi entium: cum ergo divisum huius divisionis being divided by this division is being, it does not include these modes.
+sit ens non complectetur hos modos, et ideo nec accidentia And so they will be neither accidents nor substances.
+erunt, nec substantiae. Verumtamen hic modus dicendi fal- Nevertheless, this way of speaking is false. For it is clear from
+15 sus est, nam constat, ab Aristotele, et aliis Philosophis multa 15R Aristotle and many other philosophers that what are only modes of
+inter accidentia numerari, quae solum sunt modi entium, beings—such as figure, where, and others of this kind, about which we
+ut figura, ubi, et alia huiusmodi, de quibus suis locis vide- will speak in their places—are numbered among accidents. The reason
+bimus. Et ratio est quia ens creatum prout absolute distin- is because created being insofar as it is absolutely distinguished from
+guitur ab increato complectitur quidquid non est nihil, sed uncreated being contains anything that is not nothing but has some
+20 aliquam realem essentiam, seu formalitatem habet in rerum 20R real essence or formality in rerum natura. For this whole contains cre-
+natura: hoc enim totum complectitur ens creabile, transcen- atable being taken transcendentally and in its whole breadth. There-
+dentaliter et in tota sua latitudine sumptum, ergo etiam ens fore, created being also covers everything that is not nothing and is
+creatum ambit omnia, quae non sunt omnino nihil, et ex- beyond God. These real modes, moreover, are not nothing but have
+tra Deum sunt, hi autem modi reales non sunt nihil, sed real essences proportionate to themselves. Therefore, they are included
+25 suas reales essentias habent sibi proportionatas: continen- 25R in what this division divides.
+tur ergo sub diviso huius divisionis.
+14. Aliter ergo dici potest, hos modos entium revo- 14. Alternatively, then, it can be said that these modes of beings
+cari ad genera rerum, quarum sunt modi, et cum quibus are assimilated to those genera of things of which they are modes and
+habent realem identitatem, ita ut modus substantiae revo- with which they have real identity, so that a mode of a substance is
+30 cetur ad substantiam, et sit substantia saltem incompleta, assimilated to substance and is at least an incomplete substance while
+modus vero accidentis sit accidens, et ad illud genus acci- 30R a mode of an accident is an accident and is assimilated to that genus of
+dentis revocetur in quo fuerit ipsum accidens cuius est talis accident to which the accident of which it is such a mode belongs.
+modus. Sed neque haec sententia in universum verum ha- But this view cannot be held in general either, since, although it
+bet, nam licet interdum ita contingat, quod modus rei par- sometimes happens such that the mode of a thing participates in the
+35 ticipet illam rationem substantiae, vel accidentis quae est in ratio of substance or of accident that is in the thing of which it is a
+re cuius est modus: non est autem hoc semper verum, nam 35R mode, this is not, nevertheless, always true. For figure is a mode of
+figura est modus quantitatis, et tamen non participat ra- quantity and yet does not participate in the ratio of quantity but in the
+
+-- 10 of 18 --
+
+Suárez, DM 32, sect. 1 11
+tionem quantitatis, sed qualitatis, et similiter ubi est modus ratio of quality. Likewise, where is a mode of quantity or of substance
+quantitatis, vel substantiae, et tamen nec est substantia, nec and yet is neither substance nor quantity, but constitutes its own genus
+40 quantitas, sed peculiare genus, ac praedicamentum consti- or category. And many people think the same thing about categorial
+tuit. Et idem multi censent de relationibus praedicamental- 40R relations, if they are immediately founded in the substance itself.5 For
+ibus, si in ipsa substantia immediate fundentur, non enim they do not have proper entity distinct from other things, but at most
+habent proprias entitates realiter distinctas ab aliis, sed ad are a kind of mode of beings. And yet they constitute a new genus of
+summum sunt quidam modi entium, et tamen novum genus accident.
+45 accidentis constituunt.
+15. Quocirca duo a nobis exponenda sunt, unum est 15. There are two things, then, that we need to explain. One is
+quando modus entis sit substantia, quando vero accidens: 45R when a mode of a being is a substance and when it is an accident. The
+aliud est, quando ille modus, qui est accidens revocetur ad other is when a mode that is an accident is assimilated to the category
+praedicamentum alterius accidentis, vel no- <col. b> vum of another accident and when it constitutes a new genus of accident.
+50 genus accidentis constituat. Circa primum dicendum est, Concerning the first matter, it should be said that in substances a
+in substantiis illum modum substantialem esse, qui ad con- mode is substantial if it pertains to the constitution and completeness of
+stitutionem, et complementum ipsius substantiae pertinet, 50R that substance. Conversely, it is an accidental mode if it presupposes a
+e contrario vero illum esse accidentalem modum, qui sup- completely constituted substance and affects that substance under some
+ponit substantiam complete constitutam, et illam afficit sub other ratio. This is shown by examples: for the union of matter with
+55 aliqua alia ratione. Exemplis declaratur, nam unio materiae substantial form or of form with matter is ordered per se to the con-
+cum forma substantiali, vel formae cum materia per se or- stituting of a complete substance and is included in the intrinsic ratio
+dinatur ad constitutionem substantiae completae, et in in- 55R of a composite substance. For this reason such a mode is a substantial
+trinseca ratione substantiae compositae includitur, et ideo mode. Similarly, subsistence is an intrinsic terminus of substantial na-
+talis modus substantialis est, similiter subsistentia est in- ture, completing and constituting a substantial supposite, and therefore
+60 trinsecus terminus substantialis naturae, complens, ac con- it is also a substantial mode. The same thing should be said about sub-
+stituens substantiale suppositum, et ideo est etiam substan- stantial existence, if that is a mode distinct ex natura rei from the actual
+tialis modus, idemque dicendum esset de existentia substan- 60R essence of a substantial nature. Finally, theologians say in the same way
+tiali, si illa esset modus ex natura rei distinctus ab essentia that the union of humanity with the Word, although it is supernatural,
+actuali naturae substantialis. Ac denique eodem modo di- is, nevertheless, a substantial mode, since it intrinsically concurs for the
+65 cunt Theologi, unionem humanitatis ad Verbum, quamvis constituting of one composite person.
+supernaturalis sit, nihilominus esse substantialem modum, The other part is also shown by examples. For in substances—
+quia ad constitutionem unius personae compositae intrin- 65R angelic substances, for example—already completed in the ratio of a
+sece concurrit. Altera pars declaratur etiam exemplis, nam supposite through their own subsistence there is given a mode of local
+in substantia, verbi gratia, Angelica iam completa in ratione presence in this or that space or location, to which presence the local
+70 suppositi per suam subsistentiam datur modus praesentiae motion proportionate to an angel answers. The local motion is also a
+localis in hoc, vel illo spatio, seu loco; cui praesentiae re- mode of the subject in which it is. Yet neither of these modes is a sub-
+spondet localis motus Angelo proportionatus, qui etiam 70R stantial mode, nor is anything thought to substantially change in the
+est modus subiecti in quo est: et tamen neuter est modus angel through these modes changing. For neither belongs to the consti-
+5Cf. DM 47.7.
+
+-- 11 of 18 --
+
+Suárez, DM 32, sect. 1 12
+substantialis, nec illis mutatis censetur aliquid substantiale tution or completion of the angelic substance. Preserving proportion,
+75 in Angelo mutari, quia neuter pertinet ad constitutionem, the same is found in corporeal substance, if local presence is understood
+seu complementum Angelicae substantiae. Idemque ser- to be not only in quantity but also in the substance itself. In this way
+vata proportione reperitur in substantia corporea, si prae- 75R theologians also say that the sacramental presence of the body of Christ
+sentia localis non in sola quantitate, sed in ipsamet substan- in the Eucharist, which is assimilated to the genus of local presence, is
+tia intelligatur. Quo etiam modo dicunt Theologi, praesen- an accidental mode of that body, since it in no way belongs to the sub-
+80 tiam sacramentalem corporis Christi in Eucharistia, quae tantial constitution or completion of that substance. The same is true
+ad genus localis praesentiae revocatur, esse modum acciden- in the case of the relation of identity, which is immediately founded in
+talem illius corporis, quia nullo modo spectat ad substan- 80R the substance (if we suppose that these relations are modes6). For such a
+tialem constitutionem, vel complementum eius. Idem est relation confers nothing to the completion of the substance. For Adam
+de relatione identitatis, quae immediate in substantia fun- was just as perfect a substance when there were no human beings sim-
+85 datur (si supponamus has relationes esse modos) nam talis ilar to him or of the same species as afterwards when he had produced
+relatio nihil confert ad substantiae complementum, aeque other human beings.
+enim perfecta substantia fuit Adam quando nullum habuit
+hominem similem, seu eiusdem speciei, ac postea quando
+alii producti fuere.
+90 16. Ratio vero utriusque partis facile reddi potest, nam 85R 16. But a reason can easily be given for each part. For a complete
+substantia completa, cum sit <317> ens per se unum, et in substance, since it is a being that is one per se and absolute in its genus, is
+suo genere absolutum, non nisi ex substantia, vel substan- not except consisting of a substance or substances. Therefore, it is nec-
+tiis constat: quidquid ergo intrinsece concurrit ad constitu- essary that whatever intrinsically concurs in constituting a substance
+tionem substantiae, substantiam saltem incompletam esse, is at least an incomplete substance. Also, an incomplete substance is
+95 necesse est. Item substantia incompleta nihil aliud est nisi 90R nothing other than either that very substance in some imperfect being
+vel substantia ista in aliquo esse imperfecto, vel id quod est or that which is a part or complement of the substance. Therefore,
+pars, seu complementum substantiae, ergo omnis modus every mode that thus concurs for the constitution of the substance is
+qui ita concurrit ad constitutionem substantiae est substan- an incomplete substance or a substantial mode and so is not an acci-
+tia incompleta, seu modus substantialis, et non est accidens. dent. Finally, it belongs to the ratio of accident to presuppose its sub-
+100 Denique de ratione accidentis est, ut supponat subiectum 95R ject. Therefore, a mode that does not presuppose but rather completes
+suum, ergo modus qui non supponit, sed complet substan- a substance is not an accident.
+tiam non est accidens. Atque hinc patet ratio alterius partis, And from this the reason of the other part is clear. For after a
+nam postquam substantia iam est plene in suo genere con- substance is already fully constituted in its genus, whatever is added to
+stituta, quidquid ei additur sive sit res, sive modus est ac- it, whether a thing or a mode, is an accident of it. But a mode that in
+105 cidens eius, sed modus, qui nullo modo spectat ad comple- 100R no way belongs to the completion of the substance of itself presupposes
+mentum substantiae, ex se supponit illam plene constitutam the substance to be fully constituted in its genus. Therefore, it is an
+in suo genere: est ergo accidens eius. Maior constat, tum ex accident of that substance. The major is clear, both from the common
+communi ratione accidentis, tum etiam quia si modus adve- ratio of accidents and also because a mode arising in a substance is not an
+niens substantiae non est accidens, sed aliquid substantiale, accident but something substantial. Therefore, it further completes the
+6Suárez in the end rejects that relations are modes in DM 47.2.
+
+-- 12 of 18 --
+
+Suárez, DM 32, sect. 1 13
+110 ergo complet amplius, et quasi magis integrat ipsam sub- 105R substance and, as it were, further integrates the substance of which it is
+stantiam cuius est modus; ergo talis modus non supponit a mode. Therefore, such a mode does not presuppose a substance that is
+substantiam plene constitutam, ergo si eam sic constitutam fully constituted. Therefore, if it presupposes the substance constituted
+supponit talis modus non erit substantialis, sed accidentalis. in that way, then such a mode will not be substantial but accidental.
+Tandem, quia nulla alia ratio reddi potest, cur aliqui modi Finally, because no other reason can be given why some modes arising
+115 advenientes substantiae sint accidentales, nisi quia non per- 110R in substances are accidental except that they do not belong as modes for
+tinent ut modi ad constitutionem, vel complementum eius. the constitution or completion of a substance.
+17. Solum habet peculiarem difficultatem, quae in prae- 17. Only [this view] has a special difficulty, which was touched
+dicto argumento tangebatur, de dependentia substantiae, et on in the argument made earlier, concerning the dependency of sub-
+maxime de illa quae est per modum creationis, nam illa non stance, especially concerning the dependency that is through the mode
+120 constituit intrinsece substantiam, neque pertinet ad com- 115R of creation. For that dependency does not intrinsically constitute the
+plementum eius, ergo nullo modo erit substantia etiam in- substance nor does it belong to the substance’s completion. Therefore,
+completa, cum tamen neque accidens esse possit, propter in no way will it be an incomplete substance. Yet neither could it be an
+rationem ibi tactam, scilicet, quia non est in subiecto. Haec accident on account of the argument touched on there, namely, because
+vero difficultas generalis esse potest de omni actione, seu de- it is not in a subject.
+125 pendentia, quamvis specialem rationem difficultatis habeat, 120R But this general difficulty can apply to every action or dependency,
+in illa quae non est ex subiecto, de qua re ex professo di- although it has a special ratio of difficulty in that which is not from
+cendum erit inferius disputando de actione, et de passione. a subject. This matter must be discussed ex professo below when dis-
+Nunc breviter dicitur, nullam dependentiam, seu fieri ut sic cussing action and passion.7 For now I say briefly that no dependency
+habere rationem accidentis respectu termini ad quem ten- or coming to be as such has the ratio of an accident with respect to
+130 dit, sed esse modum quemdam indirecte, seu reductive perti- 125R the terminus to which it tends but rather is a kind of mode indirectly
+nentem ad praedicamentum sui termini: sub qua considera- or reductively belonging to the category of its terminus. Under this
+<col. b> tione motus localis reducitur ad praedicamentum consideration local motion is reduced to the category where and alter-
+Ubi, alteratio ad qualitatem: et fortassis sub hac ratione ation to the category quality. And perhaps Aristotle discussed motion
+Aristoteles de motu disseruit in postpraedicamentis. Ratio in the post-predicaments under this characterization. The reason for
+135 autem huius est, quia de ratione accidentis est, ut supponat 130R this, moreover, is that it belongs to the ratio of an accident to presup-
+subiectum suum, de ratione autem dependentiae seu fieri pose its subject, but it belongs to the ratio of a dependency or coming
+est, ut non supponat terminum suum, nam est via ad illum, to be not to presuppose its terminus, for it is a way to that terminus.
+et ideo non potest dependentia respectu termini habere ra- For this reason a dependency cannot have the ratio of an accident with
+tionem accidentis. An vero quando talis dependentia est in respect to the terminus. But whether a dependency has the ratio of an
+140 subiecto et de subiecto, respectu illius habeat rationem acci- 135R accident in the cases where it is in a subject and of a subject is something
+dentis, in dicto loco tractabimus. Recte tamen ex dictis col- we will discuss in the stated place.
+ligitur, illam dependentiam, quae et ad substantiam tendit, Yet it can be rightly gathered from what has been said that that
+et in subiecto non recipitur, non habere rationem acciden- dependency which both tends to a substance and is not received in a
+tis, sed modi substantialis. Unde consequenter dicendum subject does not have the ratio of an accident but is a substantial mode.
+7See especially DM 48.
+129–130 tendit ] tendunt V.
+
+-- 13 of 18 --
+
+Suárez, DM 32, sect. 1 14
+145 est, non esse de ratione substantialis modi, ut intrinsece, et 140R Consequently, it should be said that it does not belong to the ratio of a
+in facto esse constituat substantiam, sed satis esse, ut con- substantial mode to constitute a substance intrinsically and as existing
+stituat illam tamquam via ad illam, seu ut intrinsecum fieri in fact, but it is enough to constitute it as a way to it or as its intrinsic
+eius, et quod non aliter illam afficiat, sic enim omne fieri ut coming to be and what cannot otherwise affect it. For thus every com-
+sic nihil aliud est quam suus terminus in esse incompleto, ing to be as such is nothing other than its terminus in incomplete being,
+150 ut calefactio est veluti quidam incompletus calor, et sic de 145R as heating is as a certain incomplete heat, and so on for other cases.
+reliquis.
+18. Ex dictis facile est respondere ad aliam partem, 18. From what has been said it is easy to respond to the other part
+quam secundo loco proposuimus, scilicet, quando modus, that we proposed in the second place, namely, when a mode that is an
+qui est accidens reducatur ad aliud genus accidentis, vel accident is reduced to some other genus of accident or when it consti-
+155 novum genus constituat. Eadem enim fere regula, quam tutes a new genus. For almost the same rule that we related concerning
+de modis substantialibus tradidimus, applicanda hic est. 150R substantial modes should be applied here. For sometimes an accidental
+Nam interdum accidentalis modus solum est ad comple- mode only is for the completion of another accident or for exercising
+mentum alterius accidentis, seu ad exercendum effectum its formal effect. In such cases an accidental mode does not constitute
+formalem eius, et tunc modus accidentalis non constituit a new genus or category of accidents but is reduced to that to whose
+160 novum genus, seu praedicamentum accidentis, sed ad il- completion it belongs. For it is something incomplete in that genus.
+lud reducitur ad cuius complementum pertinet, nam in eo 155R But when an accidental mode does not belong to the completion
+genere quid incompletum est. Quando vero modus acci- or constitution of another accident but per se affects substances in some
+dentalis non spectat ad complementum, vel constitutionem special way, either immediately or by means of some accident, then it
+alterius accidentis, sed per sese peculiari modo afficit sub- has per se the special ratio of an accident and constitutes either a new
+165 stantias, vel immediate, vel medio aliquo accidente, tunc per category or its own genus in some category.
+se habet peculiarem rationem accidentis et novum praedica- 160R The matter is shown by examples: for the actual inherence of quan-
+mentum, vel proprium genus alicuius praedicamenti con- tity in a substance is a mode that is distinct ex natura rei from quantity,
+stituit. Exemplis res declaratur: nam actualis inhaerentia seeing that it is separated from quantity in the Eucharist. Yet the in-
+quantitatis in substantia modus est ex natura rei distinctus a herence does not constitute some special genus of some category but is
+170 quantitate, quandoquidem in Eucharistiae sacramento ab ea reduced to the category of quantity, since it belongs intrinsically to the
+separatur, qui tamen modus non constituit aliquod genus 165R constitution of a quantified thing and pertains to the exercising of the
+peculiare alicuius praedicamenti, sed ad praedicamentum formal effect of quantity. The same is true proportionately of the inher-
+quantitatis reducitur, quia intrinsece perti- <318> net ad ence of a quality, which is reduced to the category of quality. Likewise,
+constitutionem rei quantae, et ad exercendum formalem ef- a point as an incomplete quantity is assimilated to the genus of quantity,
+175 fectum quantitatis. Et idem proportionaliter est de inhaer- since it intrinsically belongs to the constitution of that very quantity of
+entia qualitatis, quae ad praedicamentum qualitatis reduci- 170R which it is a mode or terminus. Indeed, although perhaps a point has
+tur. Item punctus tamquam incompleta quantitas ad genus its own entity, nevertheless, since it is ordered only to terminating or
+quantitatis revocatur, quia intrinsece competit ad constitu- uniting quantity, it is assimilated to quantity. Much more, therefore, is
+tionem ipsius quantitatis, cuius est modus, vel terminus, a mode that is the complement of some accident assimilated to it, and
+180 immo licet forte punctus habeat suam entitatem, nihilomi- neither will it constitute its own genus of accident per se.
+nus, quia solum ordinatur ad terminandam, vel uniendam
+quantitatem, ad illam revocatur, multo ergo magis modus,
+
+-- 14 of 18 --
+
+Suárez, DM 32, sect. 1 15
+qui est complementum alicuius accidentis ad illud revocatur,
+neque constituet per se suum genus accidentis.
+185 19. At vero figura, quamvis sit modus quantitatis, non 175R 19. Figure, on the other hand, although it is a mode of quantity,
+revocatur ad praedicamentum quantitatis, sed genus quod- is not assimilated to the category of quantity, but constitutes a certain
+dam qualitatis constituit, et ubi similiter est alius modus genus of quality. Similarly, where is another mode of quantity that is
+quantitatis, qui non reducitur ad quantitatem, sed novum not reduced to quantity but constitutes a new category. The cause of
+praedicamentum constituit. Cuius rei causa non potest esse this cannot be anything other than that such modes do not per se add
+190 alia, nisi quia tales modi non conferunt per se ad effectum 180R either to the formal effect of quantity or to its integrity or constitution,
+formalem quantitatis, neque ad integritatem, vel constitu- but they have a special mode of affecting. The same, therefore, is true
+tionem eius, sed novum, et specialem modum afficiendi in all similar cases.
+habent, idem ergo est in omnibus similibus. Ratio item gen- The general reason was also already more or less presented, for
+eralis fere tacta est, nam quoad priorem partem eadem est with respect to the former part there is the same proportional argument
+195 ratio proportionalis in accidentibus, quae est in substantia, 185R in the case of accidents that there is in the case of substance. For just
+nam sicut id quod componit, aut integrat substantiam est in- as that which composes or integrates a substance is an incomplete sub-
+completa substantia, sive sit pars, sive modus eius, ita quod stance, whether as a part or a mode of it, so also that which completes
+complet, vel integrat aliquod accidens est quid incompletum or integrates some accident is something incomplete in that genus of
+in eo genere accidentis, sive sit pars, sive modus eius. Quoad accident, whether it is a part or a mode of the accident. With respect to
+200 posteriorem autem partem ratio est quia, si modus est acci- 190R the latter part, moreover, the reason is that if a mode is accidental and
+dentalis et non est pars, vel complementum accidentis in suo is not a part or complement of an accident in its being, it is necessary
+esse, necesse est ut habeat proprium modum afficiendi ac- that it have its own mode of accidentally affecting, which constitutes
+cidentaliter qui proprium genus accidentis constituet, quia its own genus of accident. For the accident is complete in its order, nor
+in suo ordine est completum accidens, neque est aliquod is there any genus of accident to which it is assimilated as something
+205 genus accidentis ad quod revocetur, tamquam quid incom- 195R incomplete in that order.
+pletum in eo ordine. Atque haec doctrina notanda est ad dis- This doctrine should be observed in order to distinguish the cate-
+tinguenda praedicamenta accidentium, et eorum rationem, gories of accidents and in order to relate their ratio and sufficiency. We
+seu sufficientiam tradendam: de qua posterius disputabimus will discuss this late. If some difficulty concerning this doctrine will
+et si quid difficultatis circa hanc doctrinam occurrerit, ibi come up, it will be better resolved there.
+210 melius expedietur.
+Quae distinctio necessario intercedat inter substantiam et acci- What distinction necessarily exists between substance and accident.
+dens.
+20. In confirmatione illius tertii argumenti indicatur al- 20. In the confirmation of that third argument, another doubt is in-
+iud dubium, nimirum, quanta <col. b> distinctio neces- dicated, namely, how much of a distinction is necessary between an
+5 saria sit inter accidens, et substantiam. Quidam enim existi- accident and a substance. For some think that a proper and rigorous
+mant requiri disiunctionem realem propriam, et rigorosam, 5R real disjunction is required of the sort that there is between mutually
+qualis est inter res mutuo separabiles. Ita significavit Sonci- separable things. Soncinas indicates this in question 36 and others of
+nas 7. Metaphysicae q. 36. et alii, ut videbimus tractando Metaphysics 7, as we will see when treating the categories of accidents,
+
+-- 15 of 18 --
+
+Suárez, DM 32, sect. 1 16
+praedicamenta accidentium, praesertim relationis. Sed hoc especially [the category] of relation. But this is not universally true,
+10 non est in universum verum, ut ex dictis in proximo puncto as is clear from what was said in the last point and as will be more ob-
+constat, evidentiusque constabit ex dicendis inferius de sin- 10R vious from what will be said below about the individual categories or
+gulis Praedicamentorum, seu rerum generibus. Et ratio bre- genera of things. For now the reason in brief is that it is sufficient for
+viter nunc est, quia ad rationem accidentis sufficit, quod sit the ratio of accident that it is a mode that is ex natura rei distinct from
+modus ex natura rei distinctus a substantia, afficiens illam a substance, affecting it wholly outside the genus of substance, as is the
+15 omnino extra genus substantiae, ut est ubi, verbi gratia, et si case, for example, with where and if one thing is similar to another.
+quid est aliud simile.
+21. Alii e contrario sentiunt de ratione accidentis non 15R 21. In the other direction, others think that it is not of the ratio
+esse, quod distinguatur a substantia ex natura rei, id est vel of accidents to be distinguished ex natura rei—that is, either really or
+realiter, vel modaliter, sed satis esse quod distinguatur ra- modally—from a substance, but think that it is enough to be distin-
+20 tione formali praecisa per intellectum, cum fundamento in guished by formal ratio prescinded through the intellect with a foun-
+re, qualis est in exemplis in praedicta confirmatione adduc- dation in reality. This is the kind found in the examples brought up
+tis. Sic enim in materia prima distinguimus potentiam re- 20R in the aforementioned confirmation. For in this way in the case of
+cipiendi a substantia materiae, quia ratio potentiae diversam prime matter we distinguish the power of receiving from the substance
+rationem formalem denotat, quamvis contingat a parte rei of the matter, since the ratio of power denotes a different formal ratio,
+25 non distingui ab entitate in qua est. Item, interdum substan- although it is the case that on the part of the thing the power is not
+tia est virtus proxima ad agendum, vel virtute naturali (ut distinguished from the entity in which it is. Likewise, sometimes a sub-
+est probabilis opinio) vel saltem virtute obedientiali, quae 25R stance is a proximate power for acting, either by a natural power (this is
+virtus non est a parte rei distincta ab ipsa substantia, et the probable opinion) or at least by an obediential power. This power
+tamen est formaliter accidens ad qualitatem pertinens, nam is not distinct on the part of the thing from the substance itself, and yet
+30 potentia species est qualitatis, virtus autem agendi nihil est it is formally an accident belonging to quality. For power is a species of
+aliud, quam potentia quaedam. Item, relatio identitatis sub- quality, but a power for acting is nothing other than a kind of power.
+stantialis specificae est formaliter accidens, et tamen non est 30R Likewise, a relation of specific substantial identity is formally an acci-
+aliquid a parte rei distinctum a substantia. Denique est ur- dent, and yet on the part of the thing is not something distinct from
+gens argumentum quia, ut duo Praedicamenta accidentium the substance. Finally, there is the compelling argument that since in
+35 distinguantur, non est necessario a parte rei distinctio inter order to distinguish two categories of accident it is not necessary that
+ipsa, sed sufficit distinctio rationis formalis per intellectum, there be a distinction on the part of the thing between them but that
+ut constat in actione, et passione, et inferius latius dicitur: 35R a distinction of a formal ratio through the intellect is sufficient (as is
+ergo ad distinguendum accidens a substantia similis distinc- clear in the case of action and passion, as will be discussed more thor-
+tio sufficit, est enim aequalis ratio, cum non sit necessaria oughly later), therefore a similar distinction suffices for distinguishing
+40 maior distinctio, quam Praedicamentalis. an accident from a substance. For there is equal reason, since a greater
+distinction than a categorial one is not necessary.
+22. Alii putant necessariam esse in re aliquam distinc- 40R 22. Others think that some distinction in re is necessary, at least a
+tionem, saltem modalem. Primo, quia ratio accidentis realis modal one. First, because the ratio of a real accident is not constituted
+non constituitur mente nostra, sed in re esse debet, alioqui by our mind but must be in re. Otherwise, it would not be a real being
+non esset ens reale, sed rationis; Ubi vero non est distinc- but a being of reason. But where there is not a distinction in re, it
+45 tio in re ipsa, non po- <319> test vera ratio accidentis in re cannot consist in the true ratio of an accident in re. Therefore, for
+
+-- 16 of 18 --
+
+Suárez, DM 32, sect. 1 17
+ipsa consistere: ergo ad veram rationem accidentis oportet, 45R a true ratio of an accident it is necessary that there be on the part of
+quod a parte rei sit aliqua realis distinctio inter illud et sub- the thing some real distinction between the accident and the substance.
+stantiam. Minor probatur, quia alias nulla ratio afferri pos- The minor is proven: for no other reason could be given on account
+set, ob quam attributa Dei, aut actus voluntatis, vel intellec- of which the attributes of God or the acts of his will or intellect would
+50 tus eius, non sint vera, et realia accidentia, quia si identitas not be true and real accidents. For if identity does not stand in the
+non obstat, nihil est quod obstet, nam etiam ibi est distinc- 50R way, there is nothing that stands in the way. For in the case of the
+tio rationis formalis fundata in re, et completa per intellec- attributes there is also the distinction of a formal ratio founded in re
+tum. Secundo, quia si in re nulla est distinctio, nihil est, and completed through the intellect.
+quod in re accidat alicui, nam idem non potest accidere sibi Second, because if there is no distinction in re, there is nothing
+55 ipsi, cum nihil possit cogitari magis essentiale, quam idem that befalls (accidat) something in re, since the same thing cannot be-
+sibi: ergo sine distinctione in re non potest concipi vera ra- 55R fall itself. For nothing could be thought more essential than the very
+tio accidentis realis, nam de ratione accidentis est, ut accidat same thing to itself. Therefore, a true ratio of a real accident cannot be
+alicui. Vel potest aliter formari ratio, quia de ratione acci- conceived without a distinction in re. For it is of the ratio of an acci-
+dentis est aliqua realis inhaerentia actualis, vel aptitudinalis, dent to befall something. Another argument can be formed: for some
+60 sed eiusdem ad seipsum non potest esse vera, et realis in- real actual or aptitudinal inherence belongs to the ratio of accident, but
+haerentia, sed omnimoda identitas secundum rem: ergo sine 60R something cannot have true and real inherence in itself. Something
+distinctione aliqua in re non potest vera ratio accidentis in- can only have identity in every way with itself according to the thing.
+telligi. Tertio declaratur aliter, quia quando mens concipit Therefore, a true ratio of accident cannot be understood without some
+diversis modis, seu conceptibus eamdem substantiam, nul- distinction in re.
+65 lum format conceptum distinctum, et adaequatum essentiae Third, it is shown in another way: for when the mind conceives
+talis substantiae: ergo quilibet ex illis conceptibus est in- 65R different modes or concepts of the same substance, it does not form
+adaequatus substantiae secundum rationem substantialem, any distinct and adequate concept of the essence of such a substance.
+et essentialem eius: ergo ratio formalis concepta in substan- Therefore, any one of those concepts is inadequate to the substance ac-
+tia, ut sola ratione distincta ab illa, nunquam habet veram cording to its substantial and essential ratio. Therefore, the formal ratio
+70 rationem accidentis. Primum antecedens patet, quia, si sub- conceived in a substance, insofar as it is distinct from the substance only
+stantia quaelibet concipiatur distincte, et adaequate, ut in se 70R by reason, never has the true ratio of an accident. The first antecedent
+est, solum uno conceptu concipietur, et secundum unam ra- is clear, since, if any substance whatever is conceived distinctly and ad-
+tionem formalem illi adaequatam, et essentialem, quia nulla equately as it is in itself, it will be conceived by one concept alone and
+ratio formalis potest esse magis essentialis, quam illa, quae according to one formal ratio adequate and essential to the substance.
+75 est adaequata entitati rei, et ab illa in re ipsa non distingui- For no formal ratio can be given that is more essential than that which
+tur: ergo nulla forma vel modus potest habere in re veram 75R is adequate to the entity of a thing, and it is not distinguished in re from
+rationem accidentis, nisi vel realiter, vel modaliter ex natura that. Therefore, no form or mode can have the true ratio of an accident
+rei a substantia distinguatur. Atque hoc modo intelligi vide- in re except it is distinguished ex natura rei—either really or modally—
+tur quod D. Thomas ait in 1. dist. 33. q. 1. art. 3. ad 4. ea from the substance. And what St. Thomas say in I, dist. 33, q. 1, art. 3,
+80 quae sunt in genere substantiae et accidentis, non esse in re ad 4—that those things that are in the genera of substance and accident
+idem, ut latius docet 4. Summae contra gentiles cap. 14. 80R are not the same in re, which he teaches more thoroughly in Summa
+66 quilibet ] qualibet A.
+79 3 ] 4 V.
+
+-- 17 of 18 --
+
+Suárez, DM 32, sect. 1 18
+contra gentiles 4.14—seems to be understood in this way.
+23. Alii denique distinctione utendum putant. Aliud 23. Finally, others think a distinction should be used. For it is
+est enim loqui de accidente reali, et physico, aliud vero de ac- one thing to speak of real and physical accidents, but another to speak
+cidente Logico, seu praedicamentali. Accidens priori modo about logical or categorial accidents. Something is called an accident in
+85 dicitur, quod in re vere inest, et accidentali- <col. b> ter ad- 85R the first way when it is truly in a thing and comes accidentally to the
+venit, et hoc sine dubio requirit distinctionem aliquam ex thing. This without doubt requires some distinction ex natura rei, as
+natura rei, ut argumenta proxime facta convincunt. Pos- the arguments just made clearly prove.
+teriori autem modo dicitur accidens, id quod secundum But something is called an accident in the latter way when it is
+modum praedicationis, et conceptionis nostrae accidental- said to be accidental and contingent according to a mode of predica-
+90 iter, ac contingenter dicitur, secundum specialem aliquam 90R tion and conception according to some special ratio which suffices for
+rationem, quae ad constituendam aliquam ordinationem constituting some categorial ordering. Accidents of this latter sort do
+praedicamentalem sufficiat, et huiusmodi accidens non sem- not always require an actual distinction in re according to this view. I
+per requirit actualem distinctionem in re iuxta hanc senten- think this view must necessarily be proven on account of the argument
+tiam. Quam existimo necessario esse probandam, propter made that a distinction in re is not always necessary for a distinction
+95 argumentum factum, quod ad distinctionem praedicamen- 95R between categories. This is also true about other genera of accidents
+torum, non semper est necessaria distinctio in re. Quod compared to substance, especially about relation and when. This will
+etiam verum esse de aliquibus generibus accidentium ad sub- be clear from the discussion of the categories.
+stantiam comparatis, praesertim, Relatione, et Quando, ex Furthermore, it cannot be denied that some denominations of ac-
+discursu praedicamentorum constabit. Deinde negari non cidental categories are taken from things that are substances, as is the
+100 potest, quin aliquae denominationes Praedicamentorum ac- 100R case with clothed, gilded, and other similar denominations. Further-
+cidentium a rebus, quae sunt substantiae, desumantur, ut more, abstracting and prescinding from metaphysics, there are things
+esse vestitum, deauratum, et aliae similes. Praeterea, Meta- outside the essence of a thing that on the part of the thing are not ac-
+physice abstrahendo, ac praescindendo, aliqua sunt extra es- tually distinct. Therefore, by equal reason they could be predicated
+sentiam rei, quae a parte rei non sunt actu distincta: ergo accidentally of something according to a categorial distinction, even if
+105 pari ratione poterunt aliqua praedicari accidentaliter, secun- 105R they are not distinct in re from substance. In this way the arguments
+dum praedicamentalem distinctionem, etiamsi in re non given for the other views can easily be resolved, although not all the
+sint distincta a substantia. Et ita facile possunt argumenta examples that were assumed in them are true. All this will be under-
+pro aliis sententiis adducta dissolvi, quamquam non omnia stood more evidently and clearly from the discussion of the categories
+exempla, quae in eis sumuntur, vera sint. Quae omnia ex of accidents. But now in order to compare substance and accident, we
+110 discursu praedicamentorum accidentium evidentius, et clar- 110R will deal primarily with true, physical, and real accidents. Otherwise,
+ius intelliguntur. Nunc vero ut comparemus substantiam et the comparison could not be made helpfully.
+accidens, praecipue agimus de accidente vero, et physico, ac
+reali, alias non poterit commode fieri comparatio.
+
+-- 18 of 18 --

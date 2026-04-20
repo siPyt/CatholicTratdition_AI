@@ -101,6 +101,9 @@ async function main() {
       const rightsStatus = assertString(source.rights?.status, `${source.id}.rights.status`);
       const rightsNotes = assertString(source.rights?.notes, `${source.id}.rights.notes`);
       const sourceLabel = assertString(source.provenance?.sourceLabel, `${source.id}.provenance.sourceLabel`);
+      const sourceUrl = typeof source.provenance?.sourceUrl === 'string' && source.provenance.sourceUrl.trim().length > 0
+        ? source.provenance.sourceUrl.trim()
+        : undefined;
 
       if (rightsStatus !== 'public-domain' && rightsStatus !== 'licensed') {
         throw new Error(`Source ${source.id} is marked ${rightsStatus}. Restricted sources may not be ingested.`);
@@ -133,6 +136,7 @@ async function main() {
           keywords: assertKeywords(segment.keywords, `${source.id}.${segment.id}.keywords`),
           provenance: {
             sourceLabel,
+            sourceUrl,
             rightsStatus,
             rightsNotes
           }

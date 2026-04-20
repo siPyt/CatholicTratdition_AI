@@ -1,0 +1,726 @@
+Last revision: February 21, 2016	Francisco Suárez, S. J.
+DM VIII, SECT. 21
+© Sydney Penner 2015
+<277, col. b>2
+Quid sit veritas cognitionis. What the truth of cognition is.
+1. Declarandum superest, quid sit haec conformi- 1. What is left is to explain what this conformity that we
+tas, quam dicimus esse veritatem cognitionis, an say is the truth of cognition is: namely, whether there is
+scilicet in ipso actu sit aliquid absolutum, vel re- something absolute in the act itself or something respective,
+spectivum, reale, vel rationis. Quidam enim exis- whether something real or something of reason. For certain
+5 timant, veritatem esse aliquid reale et absolutum 5R people think that truth is something real and absolute in the
+in ipsomet actu cognoscendi seu iudicio intellectus. act itself of cognizing or in the judgement of the intellect.
+Prima
+sententia
+suadetur.
+Quae opinio suaderi potest, nam, quod haec veritas This opinion can be recommended, for that this truth is The first
+opinion is
+recommended.
+aliquid reale sit in ipso actu videtur valde probabile. something real in the act itself seems highly probable. First,
+Primo, quia iudicium a parte rei, et sine ulla fictione because a judgement is denominated true on the part of
+10 intellectus denominatur verum: ergo illa denomina- 10R reality and without any fashioning (fictione) of the intellect.
+tio provenit ab aliqua forma reali, et non a forma Therefore, that denomination comes into being from some
+extrinseca: quia, ut ostendimus, veritas formaliter real form. And not from an extrinsic form, since, as we
+est in ipso actu, et non extrinsece. Secundo, quia showed, truth is formally in the act itself and not extrinsi-
+veritas est perfectio simpliciter intellectus: ergo est cally. Second, because truth is an unqualified perfection of
+15 aliquid reale in ipso intellectu, et non est in ipso, 15R the intellect. Therefore, it is something real in the intellect
+nisi mediante actu: agimus enim de veritate actuali: itself and it is not in it except by means of the act. For we
+ergo est proprietas realis ipsius actus. Unde con- are dealing with actual truth. Therefore, it is a real property
+firmatur tertio, quia in habitu scientiae est magna of the act itself. Hence, it is confirmed, third, because there
+perfectio, quod verus sit: ergo veritas habitualis (ut is a great perfection in the habit of science, which is the
+20 sic dicam) est realis proprietas eius: ergo similiter 20R true. Therefore, habitual truth (if I may call it that) is a real
+erit in actuali cognitione. property of the habit. Therefore, it will likewise be [a real
+property] in the case of actual cognition.
+2. Quod autem haec proprietas absoluta sit, et 2. That this property is absolute and not respective,
+non respectiva, probari potest primo ex dictis, quia moreover, can be shown, first, from what was said, since it
+est perfectio simpliciter. Secundo, quia non pendet, 25R is a perfection simpliciter.
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+text against the Vivès edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does
+not have marginal notes; many, though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the
+head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 16 --
+
+Suárez, DM VIII, sect. 2 2
+25 per se loquendo, et ex necessitate, ab aliquo termino Second, because it does not depend, speaking essentially
+reali, et existenti, nisi quando tale esse iudicatur; and of necessity on some real and existing terminus (except
+quod est per accidens, nam veritas eiusdem ratio- when it is judged to be such, which is accidental). For truth
+nis debet esse in omnibus, in hoc autem iudicio; of the same ratio must be in all cases. Moreover, in the
+chymera est ens fictum, est veritas realis absque 30R judgement ‘a chimaera is a fictitious being’ there is a real
+30 relatione reali: ergo idem est in omnibus, quidquid truth without a real relation. Therefore, likewise in every
+sit, an in aliquibus consequatur ad veritatem relatio case, whatever it is, whether a real relation follows on the
+realis: sicut <278> etiam in scientia habitudo ad truth in some cases [or not]. This is just as in science where
+obiectum scibile non est relatio realis formaliter lo- a disposition (habitudo) to the knowable object is not a real
+quendo, quamvis interdum possit ad illam consequi. 35R relation formally speaking, although sometimes it can follow
+35 Tertio sumi potest argumentum ex veritate divina: on the former.
+nam in Deo est veritas cognitionis, quae sine dubio Third, an argument can be taken from divine truth.
+est magna perfectio illius, et tamen non potest esse There is the truth of cognition in God, which without doubt
+relatio realis, quia si comparetur ad ipsam essen- is a great perfection of him and yet it cannot be a real re-
+tiam Dei non distinguitur in re ab illa, si vero ad 40R lation. For, if is compared to the very essence of God, it is
+40 creaturas, non potest ad illas realiter referri: erit not distinguished in reality from God’s essence. But if [it is
+ergo proprietas et perfectio absoluta. Tandem, quia compared] to creatures, it cannot really be referred to those.
+veritas vel falsitas necessario comitatur iudicium Therefore, it will be an absolute perfection and property.
+intellectus, et tamen nulla relatio realis illud nec- Finally, because truth or falsity necessarily accompany a
+essario comitatur: ergo non est aliquid relativum, 45R judgement of the intellect and yet no real relation necessarily
+45 sed absolutum quid. Et hanc opinionem videtur accompanies it. Therefore, [truth] is not something relative,
+tenere Soncinas 6. Metaphysicorum q. 17. ubi, licet but something absolute. Soncinas seems to hold this opin-
+dicat veritatem dicere absolutum cum respectu, ex- ion in Metaphysics VI, q. 17, where, although he says that
+plicans tamen hunc respectum in summa dicit, esse truth expresses an absolute with a respect, yet in explaining
+secundum dici, non secundum esse, et utitur hoc 50R this respect he ultimately says that is is according to being
+50 exemplo. Sicut intellectivum potest dici includere said (esse secundum dici), not according to being (secundum
+respectum: quia non potest concipi sine habitudine esse). And he uses this example: [it is] just as something
+ad intelligibile: constat autem, huiusmodi respec- intellective can be said to include a respect, since it cannot
+tum intellectivi esse tantum trascendentalem, seu be conceived without a disposition to the intelligible. It is
+secundum dici; et idem sentit Capreolus in I. dist. 55R clear, moreover, that an intellective respect of this sort is
+55 19. q. 3. concl. 3. only transcendental or according to being said. Capreolus
+thinks likewise in I, dist. 19, q. 3, concl. 3.
+Secunda
+sententia.
+Durandus.
+Hervaeus.
+Iavellus.
+Flandria.
+Ammonius.
+3. Aliis tamen videtur huiusmodi veritatem 3. Nevertheless, to others it seems that truth of this sort The second
+opinion.
+Durandus.
+Hervaeus.
+Javelli.
+Dominic of
+Flanders.
+Ammonius.
+solum in relatione consistere. Quod tenent Duran- consists only in a relation. Durandus, Hervaeus, Javelli, and
+dus et Hervaeus, Iavellus et Flandria citati in supe- 60R [Dominic] of Flanders, cited in the previous section,3 hold
+riori sectione, Ammonius 1. Peri Hermeneias cap. 1. this, as well as Ammonius in Peri Hermeneias I, ch. 1, and
+60 et ibi alii expositores. Fundamentum in communi other expositors in the same place.
+3DM 8.1.2.
+
+-- 2 of 16 --
+
+Suárez, DM VIII, sect. 2 3
+est, quia esse veritatis omnino pendet ex termino, The general foundation is that truth depends entirely
+ita ut, illo mutato, mutetur veritas, et illo posito on the terminus, such that, if the terminus is changed, the
+ponatur, nulla facta mutatione ex parte cognoscen- 65R truth is changed. And by positing the terminus, truth is
+tis: nam teste Aristotele eadem propositio mutatur posited, without any change being brought about on the
+65 de vera in falsam, et e converso, mutato obiecto: part of the one cognizing. For, as Aristotle attests, the same
+ergo signum est veritatem solum consistere in rela- proposition is changed from true to false and conversely by
+tione, nam proprium est relationis, ut stante fun- the object having been changed. This, therefore, is a sign
+damento consurgat posito termino, et mutetur illo 70R that truth consists only in a relation. For it is proper to
+mutato. Unde confirmatur primo, quia veritas non a relation to rise up with the positing of a terminus even
+70 est de essentia actus, quandoquidem mutatur, illo though the foundation stands firm and that it change when
+manente: ergo est accidens eius; et tamen non est [the terminus] is changed.
+accidens absolutum: non est enim qualitas, quia ac- Hence, it is confirmed, first, because truth does not
+tus secundus et ultimus non est subiectum alterius 75R belong to the essence of the act, seeing that it is changed
+qualitatis, neque etiam est in aliquo alio genere ac- while the act remains. Therefore, is an accident of the act.
+75 cidentis absoluti, ut videtur per se notum: ergo But it is not an absolute accident. For it is not a quality,
+erit relatio. Confirmatur secundo, quia veritas nihil because a second and ultimate act is not the subject of other
+est aliud, quam conformitas quaedam: conformitas qualities. Also, it is not in some other genus of absolute
+autem non est aliud, quam convenientia vel simili- 80R accidents, as seems self-evident. Therefore, it will be a
+tudo, aut proportio: omnia autem haec relationem relation. It is confirmed, second, because truth is nothing
+80 indicant: sicut <col. b> conformitas imaginis ad other than a certain conformity. A conformity, however, is
+suum exemplar relatio est, et sic de aliis. nothing other than agreeability or similitude or proportion.
+All these, however, indicate relation, just as the conformity
+85R of an image to its exemplar is a relation and likewise for the
+others.
+4. An vero haec sit relatio realis, vel rationis, 4. But whether this is a real relation or a relation of rea-
+controversum est, etiam inter praedictos auctores: son is controversial even among the aforementioned authors.
+nam argumenta, quibus prima sententia proba- For the arguments by which the first view established that
+85 bat, veritatem esse proprietatem realem, videntur 90R truth is a real property seem to show, consequently, that
+consequenter probare hanc relationem debere esse this relation must be real. But the arguments by which the
+realem. Argumenta vero, quibus eadem prima sen- same view established that truth is an absolute property
+tentia probabat, veritatem esse proprietatem abso- seem to conclude that it is not a real relation but a relation
+lutam, videntur concludere, non esse relationem of reason. But both arguments brought together with each
+90 realem, sed rationis. Utraque vero argumenta in- 95R other seem to establish that this relation is sometimes real
+ter se collata videntur probare, hanc relationem and sometimes of reason. For sometimes it seems that all the
+interdum esse realem, interdum rationis: nam in- things necessary for a real relation concur, but sometimes
+terdum videntur omnia concurrere, quae ad rela- something can be missing. Therefore, sometimes there will
+tionem realem necessaria sunt, interdum vero aliq- be a real relation, but sometimes it will be insufficient.
+95 uid deesse potest: ergo aliquando etiam erit re- 100R The antecedent is shown: for a real relation there is
+
+-- 3 of 16 --
+
+Suárez, DM VIII, sect. 2 4
+latio realis, aliquando vero minime. Antecedens required, first, a real terminus and, furthermore, a founda-
+declaratur, nam ad relationem realem primum re- tion that is not only real but also capable of a relation or
+quiritur terminus realis, et deinde fundamentum able to be ordered to a terminus. Moreover, these two often
+non solum reale, sed etiam capax relationis, seu concur in this relation of truth. For it often both respects
+100 ordinabile ad terminum: saepe autem haec duo con- 105R a real and really existing terminus and on the part of the
+currunt in hac relatione veritatis. Nam et saepe judgement itself there is often a sufficient foundation, since
+respicit terminum realem, et realiter existentem; a judgement both is something created (and so for its part is
+et ex parte ipsius iudicii saepe est fundamentum really referrible to an extrinsic terminus) and furthermore is
+sufficiens, quia et iudicium quid creatum est, et such as to be compared to its object as the measured to the
+105 ex hac parte referibile realiter ad extrinsecum ter- 110R measure. The relation on the part of the measured is a real
+minum; et praeterea tale est, ut comparetur ad relation, which is why the relation of science to the knowable
+suum obiectum tamquam mensuratum ad mensu- is thought to be a real relation. Moreover, the relation of
+ram, quae relatio realis est ex parte mensurati, qua truth is of this sort.
+ratione relatio scientiae ad scibile realis esse cense- On the other hand, sometimes a real terminus is missing
+110 tur: huiusmodi autem est haec relatio veritatis. At 115R in this conformity, as in the case of a true judgement about
+vero aliquando deest in hac conformitate terminus non-beings. And sometimes a foundation suitable for being
+realis, ut quando iudicium verum est de non en- the foundation of a real relation is missing, either because it
+tibus; aliquando vero deest fundamentum aptum ad is not able to be ordered to something extrinsic (as happens
+fundandam relationem realem, vel quia non est or- in the case of divine knowledge with respect to existing
+115 dinabile ad aliud extrinsecum, ut contingit in divina 120R creatures) or because it is not distinct from the terminus (as
+scientia respectu creaturarum existentium, vel quia in the same divine knowledge with respect to God himself) or
+non est distinctum a termino, ut in eadem scientia because it is not related as measured to measure (as in the
+Dei respectu eiusdem Dei, vel quia non compara- same divine knowledge with respect to all created things).
+tur ut mensuratum ad mensuram, sed potius ut The same is thought to be the case with a human art with
+120 mensura ad mensuratum, ut eadem scientia Dei 125R respect to its artifacts. In these cases, therefore, there will a
+ad omnes creaturas, et idem censetur de arte hu- relation of reason but not a real relation.
+mana respectu artificii: ergo in his casibus erit haec
+relatio rationis, et non realis.
+Quaestiones resolutio. The resolution of the question.
+5. Ut rem hanc explicemus, advertendum est, aliud 5. In order to explain this matter, it should be noted that
+esse inquirere quid addat veritas supra actum, qui it is one thing to look for that which truth adds to an act
+denominatur verus; aliud <279> vero quid includat that is denominated true and another thing to look for that
+totum id, quod nomine veritatis significatur, ad eum which the whole that is signified by the name ‘truth’ includes.
+5 modum, quo supra de unitate dicebamus, aliud 5R According to the way that we were speaking about unity
+esse quod addit supra ens; aliud vero, quod nomine above, it is one thing to be that which adds something beyond
+unitatis significatur. a being but another to be that which is signified by the name
+
+-- 4 of 16 --
+
+Suárez, DM VIII, sect. 2 5
+‘unity’.4
+Veritas nihil in
+re distinctum
+addit
+cognitioni.
+6. Primo ergo certum existimo, veritatem non 6. First, therefore, I think it certain that truth does not Truth adds
+nothing
+distinct in
+reality to
+cognition.
+addere actui vero aliquam rem, vel modum absolu- 10R add to a true act some absolute mode or thing distinct ex
+10 tum ex natura rei distinctum ab ipso, seu ab essen- natura rei from the act itself or from its essence and entity.
+tia et entitate eius. In hoc videntur omnes auctores In this all the authors seem to agree. I do not find anyone
+convenire: neque aliquem invenio, qui oppositum who explicitly taught the opposite. And it is sufficiently
+expresse docuerit. Et probatur satis argumentis fac- established by the arguments made for the second view.5
+tis in secunda sententia. Item, quia neque intelligi, 15R Also, because it can neither be understood or explained what
+15 neque explicari potest quid, aut quale sit hoc ab- or what kind of thing this absolute [thing or mode] would be
+solutum neque ad quid ponatur. Quod ita declaro, or for what reason it would be posited.
+quia vel illud est aliquid separabile ab actu vero, vel I explain this as follows: either it is something separable
+est omnino inseparabile: si dicatur hoc secundum, from the true act or it is entirely inseparable. If the second is
+sine causa ponitur distinctum ab actu ex natura rei: 20R said, then a distinction ex natura rei from the act is posited
+20 si vero dicatur primum, illud non erit absolutum, without reason. But if the first is said, then it will not
+sed respectivum, ut argumentum factum probat: be something absolute but something respective, as the
+quia separatur per mutationem solam obiecti, sine argument made shows. For it is separated through a change
+alia absoluta mutatione ex parte actus: nam actus only in the object, without any absolute change on the part
+ex se idem, et eodem modo repraesentat, solumque 25R of the act. For the act of itself is the same and represents in
+25 mutatur eius veritas: quia res non eodem modo the same way. Only its truth is changed, since the thing is
+se habet. Dices, veritatem addere quid absolutum no holds itself in the same way.
+inseparabile ab actu; non tamen re, sed ratione dis- You may say that truth adds something absolute that
+tinctum ab illo. Sed contra, quia vel hoc absolutum is inseparable from the act, yet conceptually, although not
+complet actum tamquam ultima differentia specifica, 30R really, distinct from it. But to the contrary, because either
+30 vel individualis eius; vel non complet sed supponit this absolute thing completes the act as an ultimate specific
+perfecte completum. Si primum dicatur; ergo tale difference or individual of it or it does not complete it but
+absolutum non additur actui constituto, sed consti- presupposes it as perfectly completed. If the first is said, then
+tuit illum: ergo non recte dicitur veritatem addere such an absolute is not added to an already constituted act
+hoc absolutum supra actum; secundum autem dici 35R but constitutes it. Therefore, it is not rightly said that truth
+35 non potest, quia impossibile est intelligere actui adds this absolute thing to the act. Moreover, the second
+plene constituto addi aliquid reale absolutum sola cannot be said, because to add something real and absolute
+ratione distinctum. Ac deinde contra hoc procedit only conceptually distinct to a completely constituted act is
+argumentum de mutatione eiusdem actus de vero impossible to understand. And, furthermore, the argument
+in falsum. 40R concerning the change of the same act from true to false
+stands against this.
+40	Non addit
+veritas
+relationem
+praedicamen-
+talem.
+7. Secundo dicendum est, veritatem non addere 7. Second, it should be said that truth does not add to Truth does not
+add a
+categorial
+relation.
+supra actum relationem realem propriam et praedica- the act a proper and categorial real relation of the act to the
+4DM 4.1?
+5DM 8.2.2.
+
+-- 5 of 16 --
+
+Suárez, DM VIII, sect. 2 6
+mentalem actus ad obiectum. Hoc etiam sufficienter object. This also is sufficiently shown by the arguments that
+probatur argumentis factis, nam in multis impossi- 45R have been made, for such a relation is impossible in many
+bilis est talis relatio; et ab eis sumitur argumentum, cases. From them is taken the argument that such a relation
+45 nunquam esse necessariam talem relationem ad is never necessary for the ratio of truth as such.
+rationem veritatis ut sic. Tum quia conceptus et Also, the concept and mode of truth is of the same ratio
+modus veritatis eiusdem rationis seu proportionis and proportion in all cases. And, also, although we freely
+est in omnibus. Tum etiam, quia, licet gratis con- 50R grant that sometimes all the things necessary concur so
+cedamus interdum con- <col. b> currere omnia that a real relation arises between the act and its object,
+50 necessaria, ut inter actum et obiectum consurgat nevertheless, the true act is understood to be prior in nature
+relatio realis, tamen prius natura intelligitur actus to the real relation that arises. For the latter is said to arise
+verus, quam intelligatur consurgere relatio realis. from the positing of the foundation and the terminus. An
+Nam haec dicitur consurgere posito fundamento, et 55R act, however, is most formally true from this very fact, that
+termino: actus autem formalissime verus est hoc such a foundation and terminus are posited, such that if,
+55 ipso, quod ponitur tale fundamentum et terminus: per impossibile, the resulting of the relation were impeded,
+ita ut, si per impossibile impediretur resultantia re- the act would still be true from the force of such an act and
+lationis, adhuc actus esset verus ex vi talis actus et object posited in the nature of things. Therefore, no relation
+obiecti in rerum natura positorum: ergo in formali 60R enters into the formal concept of truth, whatever the relation
+conceptu veritatis non intrat relatio, quidquid sit, may be or whether it sometimes follows on truth.
+60 an inde interdum consequatur.
+Neque
+relationem
+rationis stricte
+sumptam.
+8. Tertio dicendum est, veritatem ut sic non 8. Third, it should be said that truth as such does not Nor is a
+relation of
+reason taken
+strictly.
+addere actui vero relationem rationis actualem pro- add to a true act an actual relation of reason, taken properly
+prie et in rigore sumptam. Hoc etiam mihi sufficien- and rigourously. This also I deem sufficiently established
+ter persuadet argumentum illud, quod denominatio 65R by the argument that the denomination of truth does not
+65 veritatis non pendet ex huiusmodi relatione: nam depend on a relation of this sort. For the latter, given the way
+haec eo modo, quo esse potest, non est actu, nisi in which it can be, cannot be by an act other than an intel-
+intellectu actu cogitante vel comparante unum ad lectual act cognizing or comparing one thing to another. But
+aliud: sed absque huiusmodi comparatione actus the act is true without qualification apart from a comparison
+est simpliciter verus, ergo. Praeterea argumentum 70R of this sort. Therefore.
+70 factum de relatione reali a fortiori probat de rela- Furthermore, the argument made about real relations a
+tione rationis: nam, sicut illa consurgit posito fun- fortiori works for relations of reason. For just as the former
+damento et termino, ita haec fingitur per intellec- arises from the positing of the foundation and terminus,
+tum, supposito eo, quod per modum fundamenti so also the latter is fashioned through the intellect on the
+et termini intervenire potest: sed ex vi eius, quod 75R presupposition of that which can be found in the way of
+75 supponitur ad talem relationem, vel fictionem, ac- foundation and terminus. But from the force of that which
+tus est verus: ergo talis relatio non intrat formaliter is presupposed for such a relation or fashioning (fictionem),
+conceptum veritatis: ergo nec veritas habet talem the act is true. Therefore, such a relation does not enter
+relationem supra ipsum actum. formally into the concept of truth. Neither, therefore, does
+80R truth have such a relation beyond the act itself.
+
+-- 6 of 16 --
+
+Suárez, DM VIII, sect. 2 7
+Veritas addit
+cognitioni
+connotationem
+obiecti, sicut
+iudicatur, se
+habentis.
+9. Quarto dicendum est, veritatem cognitionis 9. Fourth, it should be said that the truth of a cognition Truth adds to
+cognition a
+connotation of
+the object
+holding itself
+as it is judged.
+80 ultra ipsum actum nihil addere reale, et intrinse- beyond the act adds nothing real and intrinsic to the act
+cum ipsi actui, sed connotare solum obiectum ita itself, but only connotes an object holding itself just as it is
+se habens sicut per actum repraesentatur. Haec as- represented through the act.6 This assertion follows from
+sertio sequitur ex praecedentibus, nam actum esse 85R the preceding [assertions]. For that an act is true implies
+verum plus aliquid dicit, quam actum esse, et non something more than that the act exists and does not imply
+85 dicit aliquid reale absolutum, vel relativum ultra something real, whether absolute or relative, that is beyond
+ipsum actum, nec etiam dicit propriam et rigorosam the act itself. Nor does it even express a proper and strict
+relationem rationis: ergo nihil aliud addere potest relation of reason. It can, therefore, add nothing other than
+praeter dictam connotationem, seu denominationem 90R the aforementioned connotation or denomination arising
+consurgentem ex connexione seu coniunctione talis from the connection or conjunction of such an act and object.
+90 actus, et obiecti. Praeterea hoc confirmat argumen- This is further confirmed by the argument by which the
+tum, quo posterior opinio probat veritatem non esse latter opinion showed that truth is not something entirely
+aliquid omnino absolutum, scilicet, quia mutato absolute, namely, because the truth of a cognition changes
+obiecto, mutatur veritas cognitionis, et tamen non 95R with a changed object even though nothing intrinsic to the
+mutatur ibi aliquid intrinsecum actui, sed tollitur act is changed. Rather, the concomitance of the object is
+95 concomitantia obiecti: ergo signum est, veri- <280> removed. This is a sign, therefore, that truth includes or
+tatem includere, vel saltem connotare praedictam at least connotes the aforementioned concomitance of the
+concomitantiam obiecti. object.
+Eadem
+enuntiatio per
+extrinsecam
+mutationem ex
+falsa vera fit.
+10. Respondent aliqui negando posse eamdem 100R 10. Some respond by denying that the same mental The same
+proposition
+goes from false
+to true
+through an
+extrinsic
+change.
+mentalem propositionem transferri de vera in falsam proposition can be shifted from true to false without it in-
+100 sine intrinseca mutatione eius, loquendo de propria trinsically changing, by speaking of the proper cognition or
+cognitione, seu iudicio ipsius rei: quia propositio, judgement of the thing itself. For a proposition that was true
+quae pro aliquo tempore vera fuit, non potest esse during some time cannot be false during the same time, and
+falsa pro eodem tempore, et ut fiat falsa, necesse est, 105R in order to become false it is necessary that the mind con-
+ut mens coniungat extrema pro alio tempore, quod join the extremes during another time. This cannot happen
+105 facere non potest, nisi in ipsa sit aliqua mutatio. without there being some change in it.
+Sed hoc simpliciter repugnat Aristoteli, in Praedica- But this directly contradicts Aristotle in the chapter on
+mentis cap. de substantia, et D. Thoma, 1. q. 14. substance in Categories and St. Thomas in ST Ia.15.15 ad 3.
+art. 15. ad 3. Et primo sumi potest argumentum 110R First, an argument can be taken from spoken propositions
+a propositionibus vocalibus, seu mentalibus, quae or the mental propositions that are said to be in the mind
+110 dicuntur esse in mente non ultimata: nam in eis non-ultimately. For in their case there can be no doubt but
+dubitari non potest, quin sit eadem omnino propo- that it is entirely the same proposition that was true before
+sitio, quae antea erat vera, et nunc est falsa per and that now is false through a change in the signified
+mutationem rei significatae absque ulla mutatione 115R thing without any change in the sign or its signification.
+signi vel significationis eius, ergo veritas illa in sig- Therefore, in addition to all that holds on the part of the
+115 nificando, quae convenit his propositionibus praeter signifying proposition, the truth in signifying that applies
+6Cf. DM 47.2.22.
+
+-- 7 of 16 --
+
+Suárez, DM VIII, sect. 2 8
+totum id, quod se tenet ex parte propositionis signif- to these propositions connotes such a concomitance of the
+icantis connotat talem concomitantiam obiecti. Sic object. The same thing, then, can be understood in the
+ergo intelligi potest in veritate ipsius iudicii, seu ver- 120R case of the truth of the judgement itself or in the case of the
+itatis existentis in mente ultimata saltem imperfecta truth existing ultimately in the mind at least imperfectly and
+120 et abstractiva. Quod idcirco addo quia in cogni- abstractively.
+tione intuitiva perfecta, qua exacte videtur res in To which I add that, since in the perfect intuitive cog-
+particulari secundum omnes conditiones existen- nition by which one accurately sees a thing in particular
+tiae omnino determinatas, non potest esse mutatio 125R according to every wholly determinate condition of existence,
+conformitatis inter cognitionem, et obiectum, ma- there cannot be a change of conformity between the cogni-
+125 nente immutata cognitione: tunc enim recte pro- tion and the object with the cognition remaining unchanged.
+cedit argumentum factum, quod semper terminatur In that case the argument that was made proceeds rightly,
+actus ad rem prout in tali tempore et momento since the act is always terminated in the thing as it exists
+existentem; pro quo tempore et momento mutari 130R in that time and moment. In that time and moment the
+non potest veritas, quamvis pro aliis temporibus truth cannot be changed, although it can be changed during
+130 mutetur. Propter quam rationem divina scientia other times. This is the reason why divine knowledge is
+semper est conformis obiectis cognitis, quantumvis always in conformity with the cognized objects, regardless
+haec pro suis diversis temporibus mutentur. Et how much these are changed during their different times.
+idem fortasse est in cognitione angelica, quando est 135R Perhaps the same is true in the case of angelic cognition
+perfecte intuitiva, quamvis differat a divina, quod when it is perfect intuitive cognition, even though it differs
+135 haec simpliciter immutabilis est; illa vero mutari from divine cognition. (The latter is strictly unchangeable,
+potest. Nihilominus tamen in cognitione imperfecta, while the former can be changed.)
+et abstractiva, qualis est nostra cognitio, non re- Yet, nevertheless, in the case of imperfect and abstractive
+pugnat idem omnino iudicium mutari de vero in 140R cognition, of the sort that our cognition is, it is not repugnant
+falsum absque intrinseca mutatione: quia illa dura- for entirely the same judgement to be changed from true to
+140 tio, quam concipimus, et per copulam significamus, false apart from any intrinsic change. For the duration
+non est indivisibilis, nec omnino determinata, sed that we conceive and that we signify through the copula is
+aliquo modo indifferens et <col. b> confusa; et con- neither indivisible nor wholly determinate, but is in some
+sequenter latitudinem habens, ratione cuius potest 145R way indifferent and confused. Consequently, it has the
+in una parte illius successionis obiectum se habere latitude by reason of which it can be related in one way in
+145 uno modo, et diverso modo in alia. Et hac ratione one part of that succession to the object and in a different
+fieri potest, ut eadem cognitio mutetur de vera in way in another part. And for this reason it can happen
+falsam ex mutatione obiecti, ipsa cognitione in se that the same cognition is changed from true to false as a
+manente invariata. Sicut cognitio seu propositio in- 150R result of a change in the object, while the cognition itself
+definita ex parte obiecti eadem manens potest nunc remains unchanged. It is just like a cognition or proposition
+150 esse vera ratione unius singularis, postea ratione indefinite on the part of the object that while remaining the
+alterius, quamvis ipsa in se non mutetur: quia in same can now be true by reason of one singular and later
+conceptu illo confuso rei communis et indefinite by reason of another singular although it is not changed in
+conceptae includit aliquo modo plura singularia, 155R itself. For that confused concept of the thing generally and
+
+-- 8 of 16 --
+
+Suárez, DM VIII, sect. 2 9
+quorum singula sufficiunt ad eius veritatem; et ideo, indefinitely conceived includes multiple singulars in some
+155 licet ipsa mutentur, veritas manere potest in eo- way, each of which is sufficient for its truth. For that reason,
+dem conceptu confuso, si autem omnia singularia although they are changed, the truth can remain in the
+deessent, omnino periret veritas. Idem ergo est re- same confused concept. If, however, all the singulars are
+spectu temporis seu durationis confuse conceptae: 160R missing, the truth perishes entirely. It is, then, the same
+nam etiam respectu illius propositio seu cognitio with respect to time or duration that is confusedly conceived.
+160 est quasi indefinita; et ideo eadem manens, et ad For the proposition or cognition is as it were indefinite also
+diversa instantia seu tempora comparari potest, et with respect to that. And for this reason while remaining
+in eis nunc vera, nunc autem falsa reperiri, sine the same it can be related to different instances or times,
+mutatione sui, per solam obiecti mutationem. Ergo 165R and can now be found true in them and now be found false,
+signum est, hanc veritatem cognitionis connotare without any change it it but merely through a change in the
+165 saltem concomitantiam obiecti in tali statu, qualis object. This is a sign, therefore, that this truth of cognition
+per cognitionem repraesentatur. connotes at least the concomitance of the object in the same
+state in which it is represented through the cognition.
+11. Ultimo confirmatur a simili de bonitate: 170R 11. Last, [that the truth of cognition connotes the con-
+nam, sicut verum dicit conformitatem, ita bonum comitance of the object] is confirmed from similarity with
+convenientiam: sed bonum ut conveniens solum goodness. For, just as the true expresses conformity, so good
+170 addit denominationem, seu concomitantiam alterius expresses agreeability. But good as agreeable only adds a
+extremi habentis talem naturam, vel aptitudinem denomination or concomitance to another extreme having
+ad talem perfectionem, ut infra ostendemus: ergo 175R such a nature or an aptitude to such perfection, as we will
+eodem modo de veritate philosophandum est. show below.7 Therefore, one should philosophize in the same
+way about truth.
+Veritas requirit
+intentionalem
+repraesenta-
+tionem obiecti
+sicut est.
+12. Quinto ex dictis concludo, veritatem cog- 12. Fifth, I conclude from what was said that the truth Truth requires
+an intentional
+representation
+of the object
+as it is.
+175 nitionis includere talem repraesentationem cogni- of cognition includes the kind of representation by cognition
+tionis, quae habeat coniunctam concomitantiam 180R that has the concomitance of the object holding itself just
+obiecti, ita se habentis, sicut per cognitionem reprae- as it is represented by the cognition. It is shown by what
+sentatur. Probatur ex dictis, quia ad veritatem nec has been said, since representation alone does not suffice
+sola repraesentatio sufficit, si obiectum non ita se for truth, if the object does not hold itself as it is represented.
+180 habeat, sicut repraesentatur; neque concomitantia Nor can the concomitance of the object suffice for the denom-
+obiecti potest sufficere ad denominationem veritatis, 185R ination of truth without the aforementioned representation
+nisi praesupposita praedicta repraesentatione, vel being presupposed or, rather, without including it. For truth
+potius includendo illam: quia veritas non est sola is not only that extrinsic denomination, but includes the in-
+illa denominatio extrinseca, sed includit intrinse- trinsic disposition of the act terminating in the object holding
+185 cam habitudinem actus terminatam ad obiectum itself in that way.
+taliter se habens. <281>
+Censura primae opinionis, et solutiones argumento- Censure of the first opinion and resolutions of its arguments.
+7DM 10.1.
+
+-- 9 of 16 --
+
+Suárez, DM VIII, sect. 2 10
+rum eius.
+13. Atque hinc intelligitur primo, quid veritatis 13. From this one can understand, first, what degree of
+habeat prima opinio, et quid dicendum sit ad ra- truth the first opinion has and what should be said in re-
+tiones eius. Nam, si per absolutum intelligat so- sponse to its arguments. For if through ‘something absolute’
+lam entitatem actus cum reali et transcendentali it understands merely the entity of the act with a real and
+5 habitudine ad obiectum, quam habet omnino in- 5R transcendental disposition to the object, which it has entirely
+separabiliter, et immutabiliter: sic falsum est, ver- inseparably and unchangeably, then it will be false to say
+itatem consistere in hoc solo absoluto: quia alias that truth consists in this absolute thing alone. For other-
+esset omnino immutabilis manente eodem actu. Si wise it would be entirely unchangeable with the same act
+autem dicat consistere in absoluto, quia nullam in- remaining. If, however, truth is said to consist in something
+10 trinsecam relationem addi necesse est, sed solam 10R absolute because it is not necessary to add any intrinsic
+concomitantiam obiecti, sic fatemur veritatem esse relation [to the act] but only the concomitance of the ob-
+aliquid absolutum, vel potius consistere in absoluto ject, then we confess that truth is something absolute, or,
+cum respectu secundum dici: nam illa denomina- rather, that it consists in something absolute with a respect
+tio sumpta ex concomitantia obiecti non incongrue according to being said. For that denomination taken from
+15 potest respectus secundum dici appellari. Tamen, 15R the concomitance of the object not unsuitably can be named
+quia rationes illius opinionis videntur in priori sensu a respect according to being said.8 Nevertheless, since the
+procedere, et possunt his quae diximus, obstare, eis arguments for the first opinion seem to proceed in the former
+satisfaciendum est. sense and can oppose the things that we said, it is necessary
+to satisfy them.
+14. Ad priora ergo argumenta, quibus probatur, 20R 14. To the former arguments, therefore, by which it What formal
+truth is and
+what radical
+truth is.
+20 veritatem cognitionis esse realem et intrinsecam was shown that the truth of cognition is a real and intrinsic
+proprietatem actus, respondetur, advertendo, de- property of the act, it is responded by noting that the denom-
+nominationem veri dupliciter posse tribui actui cog- ination ‘true’ can be attributed to an act of cognition in two
+Verum formale
+quid, quid
+verum
+radicale.
+nitionis. Uno modo formaliter; alio modo radicaliter; ways: in one way formally, in the other radically. That which
+formalem veri denominationem appello eam, quam 25R I have been explaining so far I call the formal denomination
+25 hactenus explicui; quae consistit in actuali confor- of ‘true’. This consists in actual conformity to an object. But
+mitate ad obiectum; radicalem autem voco illam I call radical that perfection of the act by which it has this
+perfectionem actus, a qua habet huiusmodi confor- sort of conformity with the object, for example, evidentness
+mitatem cum obiecto, ut est in scientia evidentia, vel in the case of science or certitude in the case of faith, by rea-
+in fide certitudo ratione cuius habet, ut infallibilis 30R son of which it is such as to be infallible and, consequently,
+30 sit, et consequenter, ut existere non possit, quin such that it cannot exist except it have conformity with its
+conformitatem habeat cum materiali obiecto suo. material object.
+Hoc ergo supposito ad primum respondeo, denom- Presupposing this [distinction], therefore, I respond to
+inationem veri radicaliter sumptam ex intrinseca the first argument that the denomination ‘true’ taken radi-
+perfectione actus, vel habitus esse realem, et abso- 35R cally according to the intrinsic perfection of the act or habit
+8For the distinction between relations according to being said and relations according to being, see DM 47.3.6–9.
+
+-- 10 of 16 --
+
+Suárez, DM VIII, sect. 2 11
+35 lutam; nos tamen nunc non loquimur de illa: quia is real and absolute. But we are not talking about that. For
+illa non tam est denominatio veri, quam certi, vel that is not so much a denomination of ‘true’ as of ‘certain’
+evidentis assensus. Unde perfectio illa, a qua sumi- or of ‘evident assent’. Hence, the perfection from which this
+tur haec denominatio non est aliquid ex natura rei denomination is taken is not something ex natura rei dis-
+distinctum ab ipso iudicio, sed est ipsamet speci- 40R tinct from the judgement itself but is the specific difference
+40 fica differentia, quae sumitur ex tali obiecto formali, itself, which is taken from such a formal object or such a
+seu ratione assentiendi. Denominatio autem veri reason for assenting. The formal and actual denomination
+formalis, et actualis, est quidem in re ipsa absque ‘true’, moreover, is indeed in the thing itself apart from any
+fictione intellectus, ut recte probat argumentum, fashioning by the intellect, as the argument rightly shows,
+non tamen est omnino intrinseca denominatio, sed 45R yet it is not an entirely intrinsic denomination. Rather, it
+45 partim est a forma intrinseca, partim connotat co- is partly an intrinsic form and partly connotes the objective
+existentiam ob- <col. b> iectivam, seu concomitan- coexistence or the concomitance of the object holding itself
+tiam obiecti ita se habentis sicut per cognitionem just as it is judged through the cognition. Hence, with re-
+iudicatur. Unde, quod diximus, huiusmodi veri- spect to what we said—that truth of the sort we are talking
+tatem de qua agimus, convenire ipsi formali iudicio 50R about applies to the formal judgement or cognition and not
+50 seu cognitioni, et non tantum obiecto eius, intelli- only to its object—one should understand by this conformity
+gendum est ab hac conformitate ipsum iudicium that the judgement itself is first and directly denominated
+primo ac per se denominari verum, quamvis forma true, although the form by which it is denominated is not
+a qua denominatur, non sit omnino intrinseca, sed wholly intrinsic but includes the concomitance of something
+concomitantiam alicuius extrinseci includat. 55R extrinsic.
+55 15. Ad secundum eadem distinctione satisfa- 15. The same distinction suffices for the second argu-
+ciendum est: nam veritas radicalis, quae sumitur ment. For radical truth, which is taken from the formal ratio
+ex formali ratione talis cognitionis, est perfectio of such a cognition, is an unqualified perfection of the intel-
+simpliciter intellectus: quia pertinet ad rationem lect, since it belongs to the unqualified ratio of intellectual
+virtutis intellectualis simpliciter: veritas autem ac- 60R virtue.
+60 tualis, de qua loquimur, per se non est perfectio sim- But actual truth, which is what we are talking about, is
+pliciter: immo neque addit perfectionem supra nat- not per se an unqualified perfection. In fact, it does not add
+uram, vel speciem ipsius actus cognoscendi. Nam perfection to the nature or species of the act itself of cogniz-
+haec veritas actualis, qua ex parte connotat, vel ing. For with respect to the part that connotes or includes
+includit concomitantiam, seu convenientiam extrin- 65R the concomitance or agreement of an extrinsic object, this
+65 seci obiecti, nihil reale addit actui, et consequenter actual truth adds nothing real to the act and consequently
+nec perfectionem ullam ei afferre potest; qua vero cannot bestow any perfection on the act either. But with
+ex parte supponit, vel requirit in ipso actu reprae- respect to the part that presupposes or requires a represen-
+sentationem, seu habitudinem realem ad obiectum tation or disposition in the act itself to the object, it implies
+dicit realem aliquam perfectionem eius: illa autem 70R some real perfection in it. That perfection, moreover, can
+70 perfectio aliquando esse potest perfectio simpliciter; sometimes be an unqualified perfection but sometimes only
+interdum vero est tantum secundum quid. Nam a qualified perfection. For sometimes this actual truth is
+interdum haec veritas actualis est infallibiliter ac infallibly and necessarily conjoined with an essential and
+
+-- 11 of 16 --
+
+Suárez, DM VIII, sect. 2 12
+necessario coniuncta cum essentiali ac reali perfec- real perfection of such an act and from its force. In that
+tione talis actus, et ex vi illius: et tunc perfectio, 75R case the perfection that it per se presupposes in the act is
+75 quam per se supponit in actu, est perfectio sim- an unqualified perfection. For it belongs to the unqualified
+pliciter: pertinet enim ad rationem intellectualis ratio of intellectual virtue. But sometimes this actual truth
+virtutis simpliciter. Interdum vero non est haec veri- is not necessarily conjoined with the act or does not arise
+tas actualis necessario coniuncta cum actu, aut non from the force of its formal and essential ratio. In this case
+ex vi rationis formalis, et essentialis eius; et tunc 80R the perfection that is presupposed in the act is not an un-
+80 perfectio, quae supponitur in actu, non est sim- qualified perfection but only a qualified perfection, since it
+pliciter, sed secundum quid: quia non pertinet ad does not belong to the unqualified ratio of intellectual virtue
+rationem virtutis intellectualis simpliciter; et sem- and it always and intrinsically has an imperfect admixture
+per ac intrinsece habet admixtam imperfectionem of obscure or confused cognition, as in the case of human
+obscurae, vel confusae cognitionis, ut est in hu- 85R faith, opinion, and so on.
+85 mana fide et opinione, etc. Ad tertium eadem est The response to the third argument is the same. For in
+responsio, nam in habitu scientiae: quod verus sit the case of a habit of science that is true radically, it has a
+radicaliter, est perfectio eius, ultra quam actualis perfection. Actual truth adds nothing further of perfection
+veritas nihil perfectionis ei addit. to it.
+16. Alia vero argumenta, quibus probatur, veri- 90R 16. But in response to the other arguments, by which
+90 tatem esse proprietatem omnino absolutam, admitti it is shown that truth is a wholly absolute property, they
+quidem possunt, quatenus probant, non esse neces- can in fact be admitted to the extent they show that a real
+sariam relationem realem ad huiusmodi veritatem, relation is not necessary for a truth of this sort. But insofar
+quatenus vero excludere possunt omnem extrinse- as they can exclude every extrinsic connotation, they do not
+cam connotationem, non recte concludunt. Unde ad 95R conclude rightly. Hence, with respect to the first argument,
+95 <282> primum iam declaratum est, quando et quo- it was already shown when and how truth is an unqualified
+modo veritas sit perfectio simpliciter non quidem perfection, not, indeed, formally and in itself but in root,
+formaliter et in se, sed in radice, quando illa talis [i.e., radically]. When it is like that, it necessarily has truth
+est, ut necessario secum habeat veritatem coniunc- conjoined with it.
+tam. Ad secundum concedo veritatem ut sic nun- 100R In response to the second, I concede that truth as such
+100 quam consistere formaliter in relatione reali, nego never formally consists in a real relation, yet I deny that it
+tamen inde sequi non includere concomitantiam thereby follows that it does not include the concomitance of
+obiecti, cui cognitio conformetur. Nec refert, quod the object to which the cognition is conformed. Nor does it
+huiusmodi veritas cognitionis non semper requirat matter that this sort of truth of cognition does not always
+obiectum actu existens, quia non dicimus realem 105R require an actually existing object, since we are not saying
+105 existentiam obiecti includi in conceptu veritatis, sed that the real existence of an object is included in the concept
+solum quod ita se habeat, sicut per cognitionem of truth, but only that the object holds itself just as it is
+repraesentatur, seu iudicatur: seu quod habeat tale represented or judged to be through the cognition, or that
+esse quale cognoscitur. Quod esse non semper est it hold the being with which it is cognized. Such being
+existentiae, sed quale sufficit ad veritatem enuntia- 110R is not always the being of existence, but whatever kind is
+110 tionis, ut tetigit Aristoteles, 5. Metaphysicorum cap. sufficient for the truth of the proposition, as Aristotle attests
+
+-- 12 of 16 --
+
+Suárez, DM VIII, sect. 2 13
+7. et lib. 6. cap. ultimo et lib. 9. cap. ultimo. in Metaphysics chapter 7 of book V, the last chapter of book
+VI, and the last chapter of book IX.
+Veritas in Deo
+quot modis, et
+an sit perfectio
+simpliciter.
+17. Ad tertium idem dicendum est de veritate 17. In response to the third argument, the same thing In what ways
+truth is in God
+and whether it
+is an
+unqualified
+perfection.
+divina, quod dictum est de veritate scientiae, et 115R should be said about divine truth that was said about the
+cuiuscumque virtutis intellectualis, quod in Deo truth of science and of any intellectual virtue. In God truth
+115 dicit perfectionem quantum ad radicalem veritatem, implies perfection with respect to radical truth, but with
+quoad actualem vero conformitatem cum obiecto respect to actual conformity with the object it adds no new
+nullam novam perfectionem addit, neque etiam perfection, not even a real relation, as the argument rightly
+realem relationem, ut recte argumentum probat. 120R shows.
+Quod, ut magis intelligatur, omnisque aequivocatio In order to better understand that claim and to remove
+120 tollatur, advertendum est, Perfectionem summam any equivocation, it should be noted that the perfection of the
+veritatis triplici modo tribui Deo, scilicet ratione highest truth is attribute to God in three ways, namely, by
+essentiae seu esse; ratione intellectus; et ratione reason essence or being, by reason of intellect, and by reason
+voluntatis: quibus modis dicitur Deus prima veritas 125R of will. According to these ways, God is said to be the first
+in essendo, in intelligendo, et in dicendo. De prima truth in being, in understanding, and in saying. Concerning
+125 ratione veritatis in essendo dicemus inferius, quia the first ratio of truth in being, we will speak below, since it
+illa nihil aliud est, quam veritas transcendentalis, is nothing other than transcendental truth, which in God is
+quae in Deo est in summo ac primo perfectionis in its highest and foremost level of perfection. The last ratio
+gradu. Postrema veritatis ratio nihil etiam ad prae- 130R of truth is of no relevance at present, since the name ‘truth’
+sens refert, quia nomen veritatis sub illa significa- in that signification is very equivocal and signifies a kind of
+130 tione valde aequivocum est, significatque virtutem moral virtue existing in the will that inclines one always to
+quamdam moralem in voluntate existentem, quae say the truth and to speak according to one’s mind. This
+inclinat ad verum semper loquendum, et dicendum virtue is in God in the highest degree and is so natural to
+iuxta mentem; quae virtus est in Deo in gradu emi- 135R him that he can in no way do other than speak the truth.
+nentissimo, tamque naturalis est illi ut nullo modo In this mode, truth is an unqualified perfection but a moral
+135 possit aliud, quam verum loqui; et hoc modo veritas one.
+est perfectio simpliciter, sed moralis. Secunda ergo The second truth, then, namely, intellectual truth, can
+veritas, scilicet intellectualis duo significare potest signify two things in God. First, a power for understanding
+in Deo. Primum, vim intelligendi adeo perfectam, ut 140R that is so perfect that it never strays from its target and
+nunquam ab scopo aberret, neque aberrare possit; never can stray. This is a great unqualified perfection, which
+140 et hoc est magna perfectio simpliciter, quam ex se God has from himself in the most eminent degree. For this
+habet Deus in emi- <col. b> nentissimo gradu; et reason he is called the first truth in cognizing. Second, it
+hac ratione dicitur prima veritas in cognoscendo. can express the actual conformity between God’s cognition
+Deinde dicere potest actualem conformitatem inter 145R and the thing cognized. This indeed presupposes the just-
+cognitionem Dei, et rem cognitam; et hoc supponit mentioned perfection, but it does not add something new.
+145 quidem praedictam perfectionem, non vero addit Rather, it merely connotes the object holding itself in itself
+novam, sed connotat tantum obiectum ita se habere as it is cognized.
+in se, sicut cognoscitur.
+
+-- 13 of 16 --
+
+Suárez, DM VIII, sect. 2 14
+Responsiones ad argumenta posterioris opinionis. Responses to the arguments for the latter opinion.
+18. Ad fundamentum contrariae sententiae re- 18. To the foundation of the contrary view, it is responded
+spondetur, illo argumento recte probari, veritatem that that argument rightly shows that truth in addition to
+praeter totam perfectionem realem et intrinsecam the complete real and intrinsic perfection of the cognition
+cognitionis, connotare, et consignificare concomi- connotes and co-signifies the concomitance of the object, yet
+5 tantiam obiecti, non tamen propriam relationem 5R not a proper relation arising from the co-existence of the
+consurgentem ex coexistentia cognitionis et obiecti, cognition and object, as was sufficiently explained.
+ut satis declaratum est. Dices, si hoc argumen- You may say: if this argument is not effective in the
+tum in praesenti non est efficax ad inferendam re- present case for inferring a relation, nothing remains that
+lationem, nullum relinqui sufficiens ad probandas will be sufficient for showing real relations, especially those
+10 relationes reales praesertim, quae in unitate fundari 10R which are said to be founded in unity such as relations of
+dicuntur, ut relationes similitudinis, aequalitatis, similarity, equality, and others like that. For, although simi-
+et similes: nam licet mutato alio extremo dicatur larity is said to be changed by a change in the other extreme,
+mutari similitudo, dici potest, non inde variari rela- what can be said is not that some relation is changed thereby
+tionem aliquam, sed solam denominationem ortam but only the denomination that arose from the co-existence
+15 ex coexistentia utriusque extremi. Respondetur ar- 15R of both extremes.
+gumentum hoc pertinere ad praedicamentum Ad It is responded that this argument pertains to the cate-
+aliquid, de quo postea dicturi sumus; nunc duo gory ‘ad aliquid’, concerning which we will speak later.9 For
+dicenda videntur, unum est talem argumentandi now it seems that two things should be said. One is that such
+modum non esse sufficientem ad inferendam rela- a way of arguing is not sufficient for inferring a real relation,
+20 tionem realem, quae sit modus ex natura rei distinc- 20R which is a mode that is ex natura rei distinct from the foun-
+tus a fundamento et termino eius, et quasi medium dation and its terminus and is, as it were, a medium between
+quid inter illa, ut argumentum (sententia mea) con- them, as the argument (in my view) convincingly shows.10
+vincit: unde, quidquid sit de talibus relationibus, Hence, whatever may be the case concerning such relations,
+negari non potest, quin prius natura, quam illae it cannot be denied that the simultaneous existence of the
+25 insurgant, intelligantur simul existentia fundamen- 25R foundation and terminus (in which the fundamental unity
+tum et terminus, in quibus est fundamentalis uni- or agreement is) should be understood as prior in nature to
+tas, seu convenientia. Unde secundo dicitur, esto the relations arising.
+demus insurgere relationem aliquam inter cogni- Hence, second, it is said that even if finally some relation
+tionem et obiectum, quando in altero est sufficiens arises between the cognition and the object when there is a
+30 fundamentum, et in altero sufficiens ratio termi- 30R sufficient foundation in each and a sufficient ratio of termi-
+nandi, tamen ad rationem veritatis formaliter non nating in each, nevertheless, it is not necessary formally for
+esse necessariam, sed sufficere id, quod in utroque the ratio of truth. What was understood in each extreme to
+extremo antecedere intelligitur ad talem relationem; be antecedent to such a relation is sufficient [for the ratio
+9DM 47.
+10Suárez appears here still to be endorsing a view of relations that he held earlier in his career, e.g., in De Incarnatione, but that he rejects by the time
+he gives an extended treatment of relations in DM 47. See, in particular, DM 47.2.24.
+
+-- 14 of 16 --
+
+Suárez, DM VIII, sect. 2 15
+sicut etiam sufficit, quandocumque extrema talia of truth], just as that also suffices whenever the extremes
+35 sunt, ut non possint fundare, nec terminare rela- 35R are such that they cannot found or terminate a real relation.
+tionem realem: et sane probabilissimum est, hanc And it is reasonably most probable that this relation is never
+relationem nunquam esse realem, ut iam dicam. real, as I will explain shortly.
+19. Unde ad primam confirmationem concedo, 19. Hence, in response to the first confirmation, I con-
+generatim loquendo, veritatem de qua <283> ag- cede that, speaking generally, the truth we are discussing
+40 imus, secundum id totum quod includit, non esse 40R does not belong to the essence of the act of cognition accord-
+de essentia actus cognitionis; Non tamen inde fit, ing to the whole that it includes. It does not, however, result
+esse aliquod accidens intrinsecum, et inhaerens from that that there is some intrinsic accident inhering in the
+ipsi actui, sed solum praeter entitatem et intrin- act itself. Rather, beyond the entity and intrinsic perfection
+secam perfectionem actus connotare aliquid aliud of the act it only connotes some other extrinsic thing without
+45 extrinsecum, sine quo veritatis ratio non subsistit; 45R which the ratio of truth does not subsist. For this reason
+ratione cuius potest interdum veritas actus variari, the truth of the act can sometimes vary even though the act
+quamvis actus ipse in se intrinsece non mutetur; itself does not change intrinsically in itself. In that case it
+et tunc se habet veritas ad modum accidentis sep- has truth in the mode of a separable accident or of a fifth
+arabilis seu quinti praedicabilis, ratione extrinseci predicable, by reason of the variable extrinsic connotation.
+50 connotati variabilis. In his vero actibus, qui habent 50R But in those act that have inseparable and infallible truth,
+inseparabilem, et indefectibilem veritatem, perfectio the perfection from which the necessary conjunction with
+illa, unde oritur huiusmodi necessaria coniunctio truth arises (which we call radical truth) is in no way an
+cum veritate, quae a nobis radicalis veritas dicta est, accident but is an essential property of such an act. Formal
+nullo modo est accidens, sed essentialis proprietas truth, however, holds itself in these cases in the mode of an
+55 talis actus: veritas autem formalis, se habet in his 55R inseparable property.
+ad modum proprietatis inseparabilis.
+20. Ad secundam confirmationem primo iam 20. In response to the second confirmation, the first
+responsum est, quod, licet conformitas possit for- response already given was that, although conformity can be
+malissime pro relatione sumi, tamen etiam potest most formally taken for a relation, nevertheless, it can also
+60 accipi pro concomitantia illorum extremorum, in- be taken for the concomitance of those extremes between
+ter quae fingitur illa relatio, prout ordine naturae 60R which that relation is fashioned, just as in the order of nature
+antecedit talem relationem; et huiusmodi conformi- it precedes such a relation. We showed that conformity of
+tatem ostendimus sufficere ad rationem veritatis. this sort suffices for the ratio of truth. For this reason,
+Quocirca nihil ad explicandam veritatis essentiam the controversy about that relation—whether it is always
+65 refert controversia de illa relatione, an sit semper real, always of reason, or sometimes real but sometimes of
+realis, vel semper rationis, vel interdum realis; in- 65R reason—is of no relevance for explaining the essence of truth.
+terdum autem rationis: nam, quidquid de hoc sit, For whatever may be the case about that controversy, truth
+veritas ipsa antecedit talem relationem. Et sine du- itself always precedes such a relation. It is also without
+bio verum est, talem relationem non semper esse doubt true that such a relation is not always real, as is
+70 realem, ut recte probat argumentum de veritate rightly shown by the argument from the truth of divine
+scientiae divinae; et de veritate cognitionis circa 70R science and by the argument from the truth of cognition
+
+-- 15 of 16 --
+
+Suárez, DM VIII, sect. 2 16
+obiecta non existentia: et hoc satis est, ut intelliga- about non-existent objects. This is sufficient so that we may
+mus, propriam relationem non esse necessariam ad understand that a proper relation is not necessary for the
+rationem veritatis: quia nec realis necessaria est, ut ratio of truth, since neither a real relation is necessary (as
+75 patet ex dictis, nec rationis, quia haec non est pro- is clear from what was said) nor a relation of reason (since
+prie, nisi dum cogitatur, seu fingitur. Addo autem 75R the latter does not properly exist unless while it is thought
+ulterius, nunquam consequi relationem realem in or fashioned).
+actu cognitionis praecise ex illa conformitate, quae I add further, moreover, that no real relation follows in
+ad veritatem necessaria est: quia illa conformitas the act of cognition apart from the conformity that is neces-
+80 non consistit in vera ac propria similitudine formali, sary for truth, since that conformity does not consist in a
+sed solum in quadam proportione, et intentionali 80R true and proper formal similarity but only in a certain pro-
+repraesentatione, ratione cuius ita res percipitur, si- portion and intentional representation, by reason of which
+cut est, quod magis ex sequentibus fiet manifestum. the thing is perceived as it is. This will be made clearer in
+the following [sections].
+
+-- 16 of 16 --

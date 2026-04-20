@@ -6,11 +6,12 @@
       "work": "Confessions",
       "tier": "patristics",
       "provenance": {
-        "sourceLabel": "Public-domain excerpt, manually reviewed"
+        "sourceLabel": "New Advent-hosted public-domain translation, manually reviewed",
+        "sourceUrl": "https://www.newadvent.org/fathers/110108.htm"
       },
       "rights": {
         "status": "public-domain",
-        "notes": "Public-domain excerpt manually prepared for approved retrieval use."
+        "notes": "Public-domain translation hosted by New Advent and approved for local storage, indexing, and retrieval."
       },
       "segments": [
         {
@@ -29,11 +30,12 @@
       "work": "Letter to the Smyrnaeans",
       "tier": "patristics",
       "provenance": {
-        "sourceLabel": "Public-domain excerpt, manually reviewed"
+        "sourceLabel": "New Advent-hosted public-domain translation, manually reviewed",
+        "sourceUrl": "https://www.newadvent.org/fathers/0109.htm"
       },
       "rights": {
         "status": "public-domain",
-        "notes": "Public-domain excerpt manually prepared for approved retrieval use."
+        "notes": "Public-domain translation hosted by New Advent and approved for local storage, indexing, and retrieval."
       },
       "segments": [
         {
@@ -52,11 +54,12 @@
       "work": "Summa Theologiae",
       "tier": "aquinas",
       "provenance": {
-        "sourceLabel": "Public-domain excerpt, manually reviewed"
+        "sourceLabel": "New Advent-hosted public-domain translation, manually reviewed",
+        "sourceUrl": "https://www.newadvent.org/summa/1002.htm"
       },
       "rights": {
         "status": "public-domain",
-        "notes": "Public-domain excerpt manually prepared for approved retrieval use."
+        "notes": "Public-domain translation hosted by New Advent and approved for local storage, indexing, and retrieval."
       },
       "segments": [
         {

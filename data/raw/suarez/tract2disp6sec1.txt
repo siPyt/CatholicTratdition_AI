@@ -1,0 +1,325 @@
+Sydney Penner
+Last revised: July 25, 2008
+Francisco Suárez, S. J.
+DE VOLUNTARIO ET INVOLUNTARIO DISP. 6, SECT. 11
+<241, col. b>
+CONCERNING THE WILL, INTENTION, AND PRIOR ACTS OF THE INTELLECT (De voluntate,
+et intentione, actibusque intellectus præviis)
+From the beginning of this second treatise we so far examined two general differentia of human
+acts which are indicated by ‘voluntary’ and ‘involuntary’. It remains for us to deal with the species
+of the acts of the will in this second part of the same treatise. We will, nevertheless, mix in a
+discussion about the acts of the intellect because they are conducive for clearly explaining the acts
+of the will. It should also be noted that the name ‘will’ in the present title does not convey a power
+but an act, although in the discussion of the doctrine we will sometimes digress also to the power.
+Every action of the will, then, turns either concerning an end or concerning a means. That comes
+to happen two-fold: either in desiring or in attaining. From this a two-fold order arises of acts of
+the will and of the practical intellect, which governs the will in morals. Prior to all those it contains
+the acts which are necessary all the way to the next election of a means, which are will, intention,
+deliberation, consent, and election. The first three concern the end and the last concern the means,
+respectively. As a result of the election having been established, moreover, the will progresses to
+a free execution. And thus is the second order, in which only two acts are numbered: command
+and use. To those two acts is added enjoyment, which is not an action in desiring or pursuing
+an appointed end, but rather it soon follows an end having been attained. In addition, all those
+acts directly tend to some object. Still, often they are as if reflexive so that when the will elects a
+means it elects to elect and it uses itself and the intellect, etc. Yet this as if reflection of the acts
+does not happen through acts distinct from those having been directed, although Cajetan thinks
+the opposite in [ST ] IaIIæ.16.4. Therefore, we will talk in passing about directed and reflexive
+acts, which will be necessary. But we will talk about acts before the achievement of the end in this
+disputation.
+A principio hujus secundi tractatus, hucusque disseruimus de duabus differentiis gen-
+eralibus actuum humanorum, quæ per voluntarium, et involuntarium declarantur.
+Restat in hac secunda parte ejusdem tractatus, ut in specie de actibus voluntatis aga-
+mus. Miscebimus tamen sermonem de actibus intellectus, quia ad explicandos volun-
+tatis actus plane conducunt. Illud etiam attendendum, voluntatis nomen in præsenti
+titulo non potentiam, sed actum importare : licet in discursu doctrinæ, ad ipsam
+quoque potentiam aliquando digrediamur. Omnis igitur voluntatis actio aut circa
+finem, aut circa medium versatur : quod dupliciter contingit fieri : aut appetendo,
+aut exequendo : ex quo duplex oritur ordo actuum voluntatis, et intellectus practici,
+qui voluntatem gubernat in moribus. Prior omnes illos actus continet, qui necessarii
+sunt, usque ad postremam medii electionem, qui sunt, voluntas, intentio, consilium,
+consensus, electio. Tres priores circa finem : posteriores circa medium (eo quo nu-
+1Latin text is from the Vivès edition.
+
+-- 1 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 2
+merati sunt ordine) versantur. Stabilita autem electione, progreditur voluntas ad lib-
+eram executionem : et sic est secundus ordo, in quo duo tantum actus numerantur :
+imperium et usus : quibus actibus fruitio additur, quæ non est operatio ad finem vel
+appetendum, vel assequendum ordinata, sed fine potius comparato, ipsa subsequitur.
+Omnes præterea actus isti directe tendunt in aliqua objecta, sæpe tamen sunt quasi
+reflexi, ut dum voluntas eligit medium, eligit eligere, et utitur seipsa, et <242> intel-
+lectu, etc., tamen hæc actuum quasi reflexio non fit per actus ab ipsis rectis distinctos,
+licet Cajetanus 1, 2, quæst. 16, art. 4, oppositum censeat. Dicemus igitur de actibus di-
+rectis et de reflexis obiter, quæ erunt necessaria. In hac autem disputatione de actibus
+ante consecutionem finis agemus.
+SECTION I
+CONCERNING THE OBJECTS, NATURES, AND DIFFERENCES OF WILL AND INTENTION (De
+objectis, rationibus, et differentiis voluntatis et intentionis.)
+1. First, what the act of willing is.—These are all bound up with each other to such an extent that
+it is not possible helpfully to explain one without the other. In the first place, then, ‘will’ signifies
+a certain simple act of the will, which is as if a first inclination of the will to a proposed object
+as it is lovable per se, of which the formal effect cannot be other than to will that object for its
+own sake without order to another. This act is called simple because it presupposes no other act
+[and] it does not include another either formally or virtually. From which it is clear that this
+act is properly concerned with an end. For only an end is good [and] lovable per se and because
+the principle of all motion of the will is an end. Moreove, this is the first motion of the will, as
+Aristotle teaches in EN III, c. 2.
+Primus actus volendi quid.—Hæc omnia adeo inter se nexa sunt, ut non possit unum
+sine altero commode explicari. Imprimis igitur voluntas significat simplicem quem-
+dam actum voluntatis, qui est quasi prima inclinatio voluntatis in objectum proposi-
+tum tanquam per se amabile, cujus effectus formalis non potest esse alius, quam velle
+illud objectum propter se, sine ordine ad aliud, qui actus dicitur simplex, quia nullum
+alium supponit neque formaliter, neque virtute alterum includit : ex quo patet hunc
+actum proprie versari circa finem : solus enim finis est bonum per se amabile, et quo-
+niam principium omnis motus voluntatis est finis : hic autem est primus voluntatis
+motus, ut docet Aristoteles 3, Ethic. 2.
+2. A different signification of ‘intention’. What intention properly is.—‘To intend’ by a certain gen-
+eral signification is to tend to something else, [i.e., to aim at something else]. From this etymology
+the name ‘intention’ has various significations. For it customarily signifies both the attention of
+the mind and the application of the senses. And sometimes inanimate things are said to intend
+their ends. But in the proposition it signifies a certain free or perfectly voluntary tendency to
+some end, which is proper to things having use of reason. From which it is clear that intention
+here signifies something pertaining to the intellect or to the will. But what it is, others explain
+otherwise. St. Bonaventure in [Sent.] II, dist. 38, q. 2 says that ‘intention’ pertains equally to will
+and to intellect [and] he says that it is not one act but as if having been mixed from two. Because
+‘intention’ expresses a desire for that which it intends and a bringing together of one to another.
+But it first pertains to the will and second to the intellect, which are conjoined. Aureolus, in
+view of Capreolus, [Sent.] I, dist. 1, q. 1 says that ‘intention’ is not an act but the circumstance
+of election, because to intend is only to do here for the sake of something. But here conveys the
+circumstance of the end in the election.
+Intentionis varia significatio.—Intentio proprie quid.—Intendere significatione quadam
+
+-- 2 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 3
+generali est in aliud tendere : ex qua etymologia nomen intentionis varias habet sig-
+nificationes : nam et mentis attentionem, et sensuum applicationem significare solet,
+et interdum res inanimes dicuntur intendere suos fines. In proposito vero signifi-
+cat quamdam liberam, vel perfecte voluntariam tendentiam in aliquem finem : quæ
+propria est rei utentis ratione : ex quo constat, intentionem hic aliquid significare ad
+intellectum, vel voluntatem pertinens. Quid vero sit, alii aliter explicant. D. Bonaven-
+tura 2, dist. 38, 2 part., quæst. 2, dicit intentionem ad voluntatem, et intellectum æque
+pertinere, quam ait, non esse unum actum, sed quasi mixtum ex duobus : quia inten-
+tio dicit appetitionem ejus, qui intendit, et collationem unius ad alterum. Primum
+vero pertinet ad voluntatem, secundum ad intellectum, quæ conjunguntur. Aureolus,
+apud Capreolum, 1, dist. 1, quæst. 1, ait, intentionem non esse actum, sed circumstan-
+tiam electionis, quia intendere solum est alicujus gratia hoc facere, hoc vero importat
+circumstantiam finis in electione. <col. b>
+3. Assertion: intention is a proper act of the will.—The object of intention is the end itself.—It should
+be said, nevertheless, that by this name is conveyed a certain proper act of the will. This is the
+view of St. Thomas in [ST ] IaIIæ.8 and of the teachers in [Sent.] II, dist. 38, where Augustine
+says that ‘intention’ expresses love, Psalms 7 and 9. And the reason is because to intend in this
+case is to voluntarily tend to something. Moreover, the principle of motion and of tendency is the
+will, whence it is confirmed. For whether human behaviour is good or bad depends chiefly on
+intention. But it depends on the will. But from St. Bonaventure’s argument is only concluded that
+that intention of the will presupposes a judgement and a rule of reason, just as progressive motion,
+which example he uses, requires direction from some power of the cognizer. But to Aureolus is
+responded that the end is sometimes the circumstance of election. Still, the very intention of the
+end is an act of the will. From which we further gather that the object of this act is the end itself,
+which is the common view. Indeed for that reason the goodness or badness of an act is weighed
+by intention, especially because it itself is on account of the end and the end is the principle of
+human acts, as is clear in virtue of the name. For ‘to intend’ is to tend to something else. But we
+tend to a terminus and the terminus of the will is the end.
+Assertio. Intentio est proprius actus voluntatis.—Objectum intentionis est ipse finis.—
+Dicendum tamen est, hoc nomine importari proprium quemdam actum voluntatis
+quæ sententia est D. Thomæ 1, 2, quæst. 8, et doctorum 2, dist. 38, unde Augustinus
+intentionem vocat amorem, Psalm. 7 et 9. Et ratio est, quia intendere hic est in aliquid
+voluntarie tendere : principium autem motionis, et tendentiæ est voluntas, unde con-
+firmatur : nam ex intentione potissimum pendent mores hominum, ut boni, vel mali
+sint : pendent vero ex voluntate. Ex ratione vero D. Bonaventuræ solum concluditur,
+istam intentionem voluntatis supponere judicium, et ordinem rationis, sicut motus
+progressivus, quo exemplo ipse utitur, directionem alicujus potentiæ cognoscentis re-
+quirit. Ad Aureolum vero respondetur, finem esse interdum circumstantiam electio-
+nis : tamen ipsam intentionem finis esse actum voluntatis. Ex quo ulterius colligimus
+hujus actus objectum esse finem ipsum ; quæ est sententia communis : ideo enim
+bonitas, vel malitia actus ab intentione pensatur, maxime quia ipse est circa finem, et
+finis est principium humanorum actuum, ut patet ex vi nominis : nam intendere est
+in aliud tendere : tendimus vero in terminum, et terminus voluntatis est finis.
+4. In what will and intention differ.—But from this arises a question: in what way are will and
+intention distinguished, since they have the same object, namely, the end? It is responded: there
+are two aspects in the end. The first is a certain good lovable per se, and as such it is the object of
+the will. This is clear because will is first and foremost an act of the will which tends to the object
+
+-- 3 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 4
+first and foremost under a certain aspect. This, moreover, is the aspect of good per se without any
+order to another thing.
+The second aspect is of its good as it ought to be pursued through means, and in this way it is the
+object of intention. This is also clear by virtue of the name. For we properly tend to an end when
+consider how to achieve it. Whence it is gathered that ‘intention’ of an end is only found in the
+absence of that end. This is why God does not properly intend his felicity, yet wills and loves it.
+Hence, the will can remain even with the end having been achieved, which also makes manifest
+the distinction between these acts.
+Voluntas et intentio in quo differant.—Sed ex his oritur quæstio, quo modo voluntas
+et intentio distinguantur, cum habeant idem objectum, scilicet finem? Respondetur
+: in fine duæ sunt rationes. Prima est quoddam bonum per se amabile, et ut sic est
+objectum voluntatis : quod patet, quia voluntas est primus et simplicissimus actus vol-
+untatis, qui tendit in objectum sub prima quadam et simplicissima ratione : hæc autem
+est ratio boni per se, sine ullo ordine ad aliud. Secunda ratio est ejus boni investigandi
+per media, et hoc modo est objectum intentionis : quod patet etiam ex vi nominis :
+tunc enim proprie tendimus in finem, quando de illius consecutione tractamus. Unde
+colligitur, intentionem finis solum reperiri in absentia ipsius finis : quare Deus non
+intendit proprie suam felicitatem, tamen vult, et amat eam : unde voluntas manere
+potest etiam consecuto fine, quod etiam distinctionem istorum actuum manifestat.
+5. Will and love of the end are entirely the same act.—From this difference is inferred, first, that will
+is not distinct from love. For the nature of love is to tend to absolute good, whether present or
+absent. This, however, is the same as the nature of that act which is called ‘will’. It only seems
+that it should be added that the name ‘love’ can be used more generally and can sometimes signify
+an affection of the will, either concerning a means or concerning an end. Yet in speaking about
+the love for an end or for a good for its own sake, it is not apparent how it can be distinguished
+from that act which is will. This is confirmed: for this act of love of itself is also most simple and
+presupposes nothing else, from which it happens that the act of intention is distinguished from
+love in the same way as from the act which is will.
+Voluntas et amor finis prorsus idem actus.—Ex qua differentia infertur primo, volun-
+tatem non esse distinctam ab amore : nam ratio amoris est tendere in bonum absolute
+sive præsens sit, sive absens : hæc autem eadem <243> est ratio istius actus, qui dic-
+itur Voluntas. Solum videtur addendum, amoris nomen posse universalius usurpari,
+et significare aliquando affectionem voluntatis, sive circa medium, sive circa finem :
+tamen loquendo de amore finis, seu boni propter se, non apparet, quomodo possit
+distingui ab illo actu, qui est Voluntas. Quod confirmatur : nam hic actus amoris de
+se etiam est simplicissimus, et nullum alium supponit : ex quo fit, ut actus intentionis
+eo modo distinguatur ab amore, quo ab actu, qui est voluntas.
+6. How some do not distinguish desire from intention.—Secondly, many gather that the act of inten-
+tion is not distinguished from the act of desire, because it seems to be compared to desire just as will
+is to love. For ‘desire’ by a general signification signifies any appetite for obtaining a good which
+someone lacks. And it extends not only to an appetite of the effective will but also to imperfect
+volitions or willings even of things impossible in themselves. But ‘intention’ only seems to signify
+an absolute and effective will for obtaining through appropriate means a loved end.
+Hence, if we talk about desire not in that general signification, but insofar as it is an effective desire
+for an end, then in that way it does not seem to have a formal nature distinct from intention,
+
+-- 4 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 5
+because it is the same formal object, namely, to obtain an absent good. For since usually it is said
+that the nature of desire is to be such that it is turned concerning an absent good, it should not be
+understood that the desire is turned concerning the very absence. For, rather, it flees that but is
+turned under a certain concept which necessarily presupposes an absence. This, however, is not
+the concepts of good as such alone. For thus it is indifferent to absence and presence. Therefore, it
+expresses the attainment of good not already had. But intention desires this very thing. Therefore,
+etc.
+Desiderium quomodo aliqui ab intentione non distinguant.—Secundo colligunt multi,
+actum intentionis non distingui ab actu desiderii, quia ita videtur ad desiderium com-
+parari, sicut voluntas ad amorem, desiderium enim generali significatione quamcum-
+que appetitionem obtinendi boni, quo aliquis caret, significat : et non solum ad appe-
+titionem efficacis voluntatis, sed etiam ad imperfectas volitiones, vel velleitates rerum
+etiam impossibilium sese extendit : intentio vero solum videtur significare absolutam
+et efficacem voluntatem obtinendi finem amatum per media consentanea. Quocirca
+si de desiderio non in illa generali significatione loquamur, sed prout est desiderium
+efficax finis, isto modo non videtur habere rationem formalem distinctam ab inten-
+tione, quia habet idem formale objectum, scilicet obtinere bonum absens : nam cum
+dici solet, de ratione desiderii esse, ut versetur circa bonum absens, non est intelligen-
+dum, desiderium versari circa ipsam absentiam : nam potius istam fugit, sed versatur
+sub quadam ratione, quæ necessario supponit absentiam, hæc autem non est sola ratio
+boni ut sic : nam sic indifferens est ad absentiam et præsentiam : ergo dicit consecu-
+tionem boni non habiti : sed hoc ipsum appetit intentio : ergo : etc.
+7. As others distinguish [them].—Others, nevertheless, distinguish these acts in this way. Desire,
+they say, abstracts from the means concerning which intention in some way is turned. This is clear
+for this reason: when I love a good which I lack, I immediately desire it without any cognition of
+means. Indeed, it can happen that the means are not necessary and, nevertheless, there is a desire.
+And from this desire the consideration of means and the intention are born. But others say that
+the desire is not an act by a mode of volition but by a mode of a certain passion which is born
+from the love for a good and its absence, which is as a certain quasi-distress, which is opposed to
+the delight of a good that is present. And it is clear because desire and delight are opposed. But
+delight is the contrary of this distress. Therefore, etc.
+Alii ut distinguant.—Alii nihilominus actus istos ita distinguunt. Desiderium (inqui-
+unt) abstrahit a mediis, circa quæ intentio aliquo modo versatur : quod sic patet :
+cum amo bonum, quo careo, statim illud desidero sine ulla cognitione mediorum :
+imo contingit, media non esse necessaria, et nihilominus esse desiderium : et ex hoc
+desiderio nascitur consideratio mediorum, et intentio. Alii vero dicunt, desiderium
+non esse actum per modum volitionis : sed per modum cujusdam passionis quæ ex
+amore boni, et absentia ejus nascitur, quæ est quasi ærumna quædam, quæ opponitur
+delectationi de bono præsenti : et patet, quia desiderium et delectatio opponuntur :
+sed <col. b> delectatio contraria est huic ærumnæ : ergo, etc.
+8. The true view does not distinguish desire from intention.—But the former way seems more proven
+to me, because desire ought not to be understood by a mode of volition. But that distress concern-
+ing which the last view speaks rather is a certain avoidance and a quasi-nolition of the way of
+sadness concerning the bad that is present. It is a sign of this that it arises not from the goodness
+of the object but from its absence, because the absences is apprehended under the aspect of bad.
+And therefore it is opposed not only to this perfect delight which arises from the good now hav-
+
+-- 5 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 6
+ing been achieved, but also that imperfect [delight] which usually arises from the hope for a good
+already being pursued.
+And therefore it is usually said that desire afflicts the soul not through itself but by reason of
+the lack and as the principle of this distress, concerning which it is rightly said that it is by the
+mode of passion. But desire is not opposed to delight in the way of a contrary, but in the way
+of a terminus. But that act which the second view was saying was desire can perhaps be a certain
+ineffective desire. Nevertheless, if it is effective and distinct from love, it cannot express order to
+the achievement of the object, as was sufficiently shown. But that which that view devises—that
+good can be absent and yet nothing be a necessary means—cannot happen. And all these things are
+confirmed by parallels from the sensible appetite. Someone, although he cannot perfectly intend
+the end, yet in his way can at least [intend] the material [end]. But his intention by the love
+having been supposed does not exist unless [there is] a desire. Therefore, the same perfect desire
+in the will will be his perfect intention.
+Vera sententia desiderium ab intentione non distingui.—Sed prior modus mihi magis
+probatur, quia desiderium intelligi debet per modum volitionis, illa vero ærumna de
+qua ultima sententia loquitur, potius est fuga quædam, et quasi nolitio ad modum tris-
+titiæ de malo præsenti : cujus signum est, quia non ex objecti bonitate, sed ex absentia
+oritur, quæ absentia apprehenditur sub ratione mali, et ideo opponitur delectationi
+non solum illi perfectæ, quæ oritur, bono jam consecuto, sed etiam illi imperfectæ,
+quæ ab spe boni jamjam consequendi oriri solet : et ideo dici solet desiderium af-
+fligere animam, non per se, sed ratione carentiæ, et ut illius ærumnæ principium, de
+qua vere dicitur, esse per modum passionis : desiderium vero non isto modo opponi-
+tur delectationi tanquam contrario, sed tanquam via termino : ille vero actus, quem
+secunda sententia aiebat esse desiderium, forte esse potest desiderium quoddam inef-
+ficax : tamen si sit efficax, et ab amore distinctum, non potest non dicere ordinem ad
+consecutionem objecti, ut satis ostensum est. Quod vero illa sententia fingit, bonum
+esse posse absens, et tamen nullum esse necessarium medium, fieri non potest. Et
+confirmantur hæc omnia a simili ex appetitu sensibili : qui licet non possit perfecte
+intendere finem, suo tamen modo potest saltem materialem. Ejus vero intentio sup-
+posito amore, non est nisi desiderium : ergo idem desiderium perfectum in voluntate
+erit perfecta ejus intentio.
+9. Imperfect enjoyment does not appear per se in the order of intention.—Neither the act of hope.—
+Although it is sometimes reduced.—By these the view of Aureolus and Gregory—who do not distin-
+guish these acts of love and desire with respect to an end not having been achieved and therefore
+also not will and intention—is proven to be false. Besides what has been said, we will speak against
+them when the discussion will be about enjoyment. Secondly, concerning an end not yet having
+been achieved the will can have only two perfect acts, which are necessary for its achievement,
+namely, will and intention. Or love and desire can have other imperfect [acts], but which are
+reduced to those.
+But Cajetan in [ST ] IaIIæ.16.4 adds another act which he says pertains to the order of intention,
+namely, imperfect enjoyment. But still this act, even imperfect, is in its genus and does not prop-
+erly appear per se in the order of intention. One, because it is concerning the end as it has been
+achieved in some way. Also, because it is not an act ordered per se to the achievement of the inten-
+tion of the end. But it is a quasi-passion resulting from hope of the propinquity of the end. This
+act was instituted by the author of nature so that one would persevere more easily and constantly
+in the intention of an end.
+The major difficulty would be concerning the act itself of hope, which is also concerning an end
+
+-- 6 of 7 --
+
+Suárez, De voluntario et involuntario disp. 6, sec. 1 7
+not already had. And it is necessary per se and directly ordained to the achievement of the end.
+But it should be said that acts of hope are not per se necessary in this quasi-line of human acts but
+by accident concerning some arduous and excellent object, so that the appetite is strengthened,
+and it is common to acts about the end and about the means. And, finally, since it is necessary,
+it is turned concerning the end and is reduced to intention. For it is a certain quasi-volition for
+obtaining an end that seems as arduous and excellent as you like.
+Fruitio imperfecta non spectat per se ad ordinem intentionis.—Neque etiam actus spei.—
+Quamvis aliquando reducatur.—Ex his efficitur falsam esse sententiam Aureoli et Gre-
+gorii, qui respectu finis non consecuti non distinguunt hos actus amoris et desiderii,
+atque adeo neque voluntatem et intentionem : contra quos præter dicta agemus, cum
+de fruitione erit sermo. Secundo circa finem nondum acquisitum solum duos actus
+perfectos posse habere voluntatem, qui ad illius consecutionem sint necessarii, scil-
+icet voluntatem et intentionem : sive amorem, et desiderium imperfectos vero posse
+habere alios, qui tamen ad istos reducantur. Cajetanus vero 1, 2, q. 16, art. 4, addidit
+alium actum, quem dicit pertinere ad ordinem intentionis, scilicet fruitionem imper-
+fectam : sed tamen hic actus et imperfectus est in suo genere, et per se proprie ad
+ordinem intentionis non spectat : tum quia <244> est de fine ut aliquo modo con-
+secuto : tum quia non est actus per se ordinatus ad consecutionem intentionis finis
+: sed est quasi passio resultans ex spe, vel propinquitate finis : qui actus ab auctore
+naturæ fuit institutus, ut in intentione finis quis facilius, et constantius perseveret.
+Major difficultas esset de ipso actu spei, qui etiam est circa finem non habitum : et
+per se est necessarius, et directe ordinatus ad consecutionem finis. Sed dicendum est,
+spei actuum per se non esse necessarium in hac quasi linea actuum humanorum, sed ex
+accidenti circa aliquod objectum quod arduum est, et excellens, ut appetitus confirme-
+tur, et communis est actibus circa finem, et circa medium : et tandem cum necessarius
+est, versatur circa finem, et ad intentionem reducitur : est enim quasi volitio quædam
+obtinendi finem, quantumvis arduus, et excellens videatur.
+
+-- 7 of 7 --

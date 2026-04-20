@@ -1,0 +1,333 @@
+Sydney Penner
+Last revised: Feb. 20, 2008
+Francisco Su´arez, S. J.
+DE VOLUNTARIO ET INVOLUNTARIO DISP. 8, SECT. 41
+<262>
+WHETHER AN ACT OF CHOICE IS FREE (Utrum actus electionis sit liber)
+I suppose that after the intention and with deliberation having been completed that some-
+times one means is discovered and sometimes multiple means and that these are either
+equally or not equally good for attaining the end.
+Suppono post intentionem et facto consilio aliquando reperiri unum medium,
+interdum plura : et hæc vel æque, vel inæqualiter bona ad finem.
+1. The first view, therefore, is the one which affirms that every choice if free, even with
+a posited intention and a single means. The nominalists think this. The reason is that
+nothing thereupon occurs that would impose necessity. For it ought to be the intention
+itself, which, nevertheless, when it is a free act, cannot be necessitated. It is confirmed
+first by examples. For if someone by an absolute will wishes to give alms and cannot
+do so except through theft, he does not by necessity choose such a means. Similarly,
+he who wills to pursue happiness does not by necessity keep the commandments. It is
+confirmed, second, from disagreeableness: otherwise, there would be no merit in choice
+once an absolute intention had been posited, just as an exterior act has no merit when it
+follows by necessity from an intention. Therefore, etc.
+Est ergo prima sententia, quæ affirmat omnem electionem esse liberam, etiam
+posita intentione et unico medio. Ita tenent Nominales. Ratio est, quod nihil
+tunc occurrat, quod inferat necessitatem : nam deberet esse intentio ipsa : quæ
+tamen cum sit actus liber, non potest necessitare. Confirmatur primo exemplis,
+nam si quis voluntate absoluta velit facere eleemosynam, et non possit nisi per
+furtum, non necessario eligit tale medium. Similiter qui vult consequi felici-
+tatem, non necessario servat mandata. Secundo confirmatur ab inconvenienti
+: alias posita intentione absoluta, nullum esset meritum in electione : sicut
+quando actus exterior necessario sequitur ex intentione : non habet meritum :
+ergo, etc.
+2. The second view.—The second view affirms that the choice is necessary if only a single
+means exists. Choice is free only with the existence of multiple means, to the extent that
+1Latin text is from the Viv`es edition.
+
+-- 1 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 2
+the will can apply the intellect so that it searches for more reasons of agreeability and
+utility in one means than in another. If the intellect finds this [greater agreeability and
+utility] and judges it to be in one means, then the will by necessity chooses that means. If
+the intellect judges the means to be equal, then the will would not be able to move to either
+of them. St. Thomas indicates this view in [ST IaIIæ.13.6 ad 3. Cajetan [also] here. The
+foundation is that freedom of the will arises from indifference of the intellect. Therefore,
+once the determination of the intellect has been made and the posited judgement that this
+is more useful has been demonstrated, the will cannot not will. It is confirmed because
+since the will is a blind power, it ought to be ruled by the judgement of the intellect.
+Otherwise, judgement and deliberation would be useless and not reason could be given
+for why the will loves this and not that. This is the view of Durandus in 2, 2, d. 24, q. 3,
+who says rather that choice insofar as it is from the will is not free, but all the freedom is
+in the judgement. For the intellect, he says, can be free to judge this to be choiceworthy
+or that, to which judgement the will consents by necessity.
+Secunda sententia.—Secunda sententia affirmat existente unico medio electio-
+nem esse necessariam : tamen existentibus pluribus solum esse liberam, qua-
+tenus voluntas potest applicare intellectum, ut inquirat plures ratio- <col. b>
+nes convenientiæ et utilitatis in uno medio, quam in alio : quas intellectus si
+inveniat, et judicet esse in uno medio, voluntas necessario eligit illud. Quod
+si intellectus æque judicet de utroque medio, voluntas in neutrum eorum po-
+terit moveri. Hanc sententiam indicat divas Thomas 1, 2, quæst. 13, art. 6,
+ad 3, Cajetanus ibi. Fundamentum est, quia libertas voluntate oritur ex in-
+differentia intellectus : ergo facta determinatione intellectus, et posito judicio
+demonstrante, hoc esse utilius, voluntas non potest non velle. Confirmatur
+quia cum voluntas sit potentia cæca, debet regi judicio intellectus : alias judi-
+cium et consilium essent inutilia, et nulla posset reddi ratio, cur voluntas hoc
+amaret et non illud. Hæc sententia est Durandi, in 2, 2, d. 24, quæst. 3, qui
+potius dicit, electionem prout est a voluntate, non esse liberam, sed totam lib-
+ertatem esse in judicio : nam intellectus, inquit, libere potest judicare hoc esse
+eligendum, vel illud, cui judicio necessario consentit voluntas.
+3. First assertion.—I say first: It is certain by faith that a human being is free in choices. For
+it is of the faith that a human being acts freely. Moreover, choices especially are human
+actions and maximally human, because they turn more on contingencies and depend
+more on the deliberation and reason of a human being. Therefore, etc. Hence, in Ecclus.
+15[:14] is called especially free because ‘he was left in the hand of his deliberation’. And
+immediately the examples concerning means are brought in, which a human being can
+freely use. But I leave aside the heresies which are overcome by this conclusion: see disp.
+1, sect. 2 and the book De Gratia.
+Prima assertio.—Dico primo. Certum est de fide, hominem esse liberum in
+electionibus. Nam de fide est, hominem libere operari : præcipuæ autem op-
+erationes hominis, et maxime humanæ, sunt electiones, quia magis versantur
+
+-- 2 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 3
+circa contingentia et magis ex consilio et ratione hominis pendent : ergo, etc.
+Unde Eccles. 15, homo liber maxime dicitur, quia relictus est in manu consilii
+sui. Et statim adhibentur exempla de mediis, quibus potest homo libere uti.
+Hæreses vero, quæ ex hac conclusione evincuntur, omitto : vide in tr. 2, disp.
+1, sect. 2, et libr. de Gratia.
+4. Second assertion.—I say secondly: when there is one means only to the end, the choice is
+free to the extent that it is in the power of the will to remove the intention. Nevertheless,
+if the intention is effective and it perseveres, the choice follows by necessity. [This view] is
+common to St. Thomas in the passage cited above ad 1 and 10.2 ad 3 and Aristotle in DA
+3, text. 47 and 48, and it can also be gathered from John 14[:21]: ‘He who loves me, will
+keep my commandments.’2 And the reason is that an absolute will, if it can, does what it
+wills. Because if it can and does not, it is certainly not on account of something other than
+that it does not wish to and because it wishes to follow some end to good effect. And it
+can. Therefore it does. Therefore, if it can by only one means, that one will be used. If it
+is not used, that is a manifest sign that the will was not effective, etc.
+Secunda assertio.—Dico secundo. Quando unum tantum est medium illius
+electio in tantum libera est, in quantum est in potestate voluntatis tollere in-
+tentionem, tamen si intentio est efficax, et illa perseveret, necessario sequitur
+electio. Est communis D. Thomas, supra ad primum, et quæst. 10, art. 2, ad 3,
+Aristotelis 3, de Anima, text. 47 et 48, et potest colligi ex Joanne, cap, 14 : Qui
+diligit me, mandata mea servabit. Et ratio est, quia voluntas absoluta, si potest,
+facit quod vult : quia si potest et non facit, certe non propter aliud quam quia
+non vult, et quia efficaciter vult consequi finem : et potest : ergo facit : ergo si
+potest, unico medio, illo utitur : quod si non utitur, manifestum signum est,
+voluntatem non fuisse efficacem, etc.
+5. Note, however, that the necessary means ought to be judged and cognized and the
+intellect actually to think about it, because otherwise the will will not be moved. Accord-
+ingly, it is necessary that the means be judged necessary here and now for the will to be
+moved by necessity here and now. Because if it is judged necessary but only for another
+time, the will can postpone choice, even if it persists in that intention. And the reason is
+because the will does not undergo necessity except by way of the necessity of the means.
+Nota tamen debere medium necessarium judicari et cognosci, et intellectum
+actu cogitare de illo : quoniam alias voluntas non mo- <263> vebitur. Itaque
+oportet ut voluntas nccessario hic et nunc moveatur, medium hic et nunc ju-
+dicari necessarium : quoniam si judicatur necessarium, sed pro alio tempore,
+potest voluntas differre electionem, etiamsi persistat in illa intentione. Et ratio
+est, quia voluntas non patitur necessitatem, nisi pro modo necessitate medii.
+2‘He who holds my commandments and keeps them, he it is who loves me’ (Qui habet mandata mea, et
+servat ea: ille est qui diligit me). Cf. v. 15.
+
+-- 3 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 4
+6. Nor do the foundations of the first view in n. 1 stand against this. To the argument I
+say that this efficacy and necessity comes from the intention. Nor does it imply that an
+act of intention is free, because with a free act another act can be conjoined by necessity.
+And then it flows from that necessity. With respect to the first confirmation, the induction
+is denied. To the first example, say that that will to give alms is not absolute which is
+explained by this word ‘I wish’ (volo) but is ‘I would wish’ (vellem). Yet this act, because
+it proceeds from the complete disposition to honest good, is esteemed as if it were an
+absolute will. To the second example is responded that those sinners do not judge here
+and now to be necessarily penitent but at their own time.
+To the second confirmation some concede that that choice in itself is not merit but in its
+cause, that is, in intention and in perseverance. Because if that intention were an act
+entirely necessary, such a choice would have no merit. Therefore it is a sign that the
+entire merit consists in that intention. But it is more truly said that that choice is in itself
+meritorious, because necessity by supposition does not destroy will, strictly speaking,
+because that supposition is in the will nor is it similar to an external act. Because that
+proceeds proximately by a power which has no freedom. And therefore the external act is
+morally one with the internal act. But it is not like that with choice. And to that concerning
+the perseverance of the intention I say that this perseverance of the intention consists in
+this that in the present circumstances it wishes to choose rather than to disregard the
+intention. And on that account the choice, strictly speaking, is free and in the power of
+choosing, but it would not be similar if the intention were entirely and strictly speaking
+necessary. Because then it would not be in the power of choosing to disregard it, lest for
+choosing it were cognized and this no freedom would remain in the choice.
+Neque contra hoc obstant fundamenta primæ sententiæ in numero primo.
+Ad rationem dico, hanc efficaciam, et necessitatem provenire ab intentione.
+Neque refert, actum intentionis esse liberum : quia cum actu libero potest alius
+actus necessario conjungi. Et tunc ab illo necessario manat. Ad primam con-
+firmationem negatur inductio. Ad primum exemplum dic, illam voluntatem
+dandi eleemosynam non esse absolutam quæ explicatur hac voce volo, sed est
+vellem : qui tamen actus, quia procedit ex toto affectu ad bonum honestum, ex-
+istimatur ac si esset absoluta voluntas. Ad secundum exemplum respondetur,
+peccatorem illum non judicare hic et nunc esse necessariam pœnitentiam, sed
+suo tempore. Ad secundam confirmationem aliqui concedunt electionem il-
+lam in se non esse meritoriam, sed in causa, id est, in intentione et in persever-
+antia : quia si illa intentio esset actus omnino necessarius, electio talis nullum
+haberet meritum : ergo signum est, totum meritum consistere in illa inten-
+tione. Sed verius dicitur, illam electionem esse in se meritoriam, quia necessi-
+tas ex suppositione non tollit voluntatem simpliciter, quia suppositio illa est in
+voluntate, neque est simile de actu exteriori : quia ille proxime procedit a po-
+tentia, quæ nullam habet libertatem : et ideo actus exterior est unus moraliter
+cum interiori, non sic autem electio. Et ad illud de perseverantia intentionis
+dico, hanc perseverantiam intentionis in hoc consistere quod hic potius vult
+eligere, quam omittere intentionem : et idcirco electio simpliciter est libera et
+
+-- 4 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 5
+in potestate eligentis, non vero esset simile, si intentio esset omnino et sim-
+pliciter necessaria : quia tunc non esset in potestate eligentis omittere illam :
+ne ad eligendum cogeretur, et ita nulla libertas maneret in electione.
+7. This difficulty has occurred: for it follows that those who love God by necessity, when
+they see him, do everything by necessity, without which that love cannot be conserved.
+I say briefly (because the matter is in another place) that frequently the necessity is only
+as long as the specification, because the objects do not occur as here and now necessary.
+Second, it is not strongly disagreeable that sometimes that act of choice is necessary. Some
+freedom can always still remain, because the will can be brought to that means not only
+by reason that it is necessary to the end but on account of other aspects of good. And this
+is free. Wherefore, etc.
+Occurrebat hæc difficultas : nam sequitur, eos qui diligunt necessario Deum,
+cum vident illum, operari necessario omnia, sine quibus non potest conservari
+ille amor. Dico breviter, quoniam res est alterius loci, frequenter solum esse
+necessitatem quoad specificationem, quia non occurrunt objecta tanquam hic
+et nunc <col. b> necessaria. Secundo forte inconveniens non est, aliquando
+actum illum electionis esse necessarium : semper tamen potest manere aliqua
+libertas, quia potest voluntas ferri in illud medium, non ea ratione tantum,
+quæ necessaria est ad finem, sed propter alias rationes boni : et hoc liberum
+est. Quare, etc.
+8. Third assertion.—I say third: when multiple means are by every consideration equally
+good, the will can by its freedom choose the one it wishes. This conclusion is common
+and is proved first: because in proposing the means the intellect indicates that none of
+them separately is necessary. Therefore, it happens that the will for that reason may love
+whichever one of them it pleases, because it is good and on account of what it disregards,
+namely, because it is not necessary. Therefore, etc. Secondly, it is incredible to say that
+then the will remains in suspense. For reason itself leads to choosing in that way. For it
+can be noticed that it is irrational not to choose a useful means and be deprived of the end
+that is loved merely because there happens to be another means which is good. Thirdly,
+freedom of the will is especially apparent in this case. For I ask whether that judgement is
+free or necessary. If necessary, freedom is removed. If free, [it is] because of the preceding
+free act of will and the same question will return. But neither is what Durandus says
+probable, that that judgement is per se free, for since someone not necessarily provides
+assent when he assents, therefore he does, because he wills. Just as because he is not
+moved by necessity, when he moves because he wills. And therefore, he believes , because
+he wills, etc.
+Tertia assertio.—Dico tertio. Quando sunt plura media omni ratione æque bo-
+na, potest voluntas sua libertate eligere quod voluerit. Conclusio hæc est com-
+munis, et probatur primo : quia propositis mediis intellectus indicat, nullum
+sigillatim esse necessarium : ergo habet voluntas unde amet quod illorum
+
+-- 5 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 6
+placuerit, quia bonum est, et propter quid omittat : scilicet, quia necessarium
+non est : ergo, etc. Secundo incredibile est dicere, quod tunc voluntas maneat
+suspensa : nam ipsa ratio ducit ad eligendum illo modo, nam advertere potest,
+esse irrationabile, medium utile non eligere, et fine amato privari, solum quia
+occurrit aliud medium seque bonum. Tertio in hoc maxime casu apparet liber-
+tas voluntatis : nam si tunc non potest eligere, semper determinaretur a judicio
+intellectus : quo posito eligeret, sed hoc tollit libertatem voluntatis : nam peto,
+an illud judicium sit liberum, an necessarium? si necessarium, tollitur libertas
+: si liberum, ergo ex præcedenti actu voluntatis libero, et redibit eadem quæs-
+tio. Neque vero probabile est, quod Durandus dicit, judicium illud per se esse
+liberum, nam cum quis non necessarium præbet assensum, quando assentit,
+ideo facit, quia vult : sicut quia non necessario movetur, cum movetur, quia
+vult : et idcirco credit, quia vult, etc.
+9. Fourth assertion.—I say fourth: when the means are inequal, either materially or for-
+mally or in both ways, there is freedom of the will to choose even the lesser good. Nev-
+ertheless, the choice is always according to the measure of intention and more frequently,
+even almost always, the will chooses under some aspect of greater agreeability. It should
+be noted that with means two things can be especially considered. The first is utility with
+respect to the end that is as if formal. The second is some proper goodness that is as if
+material. Therefore, means can be equally good with respect to the former, but not with
+respect to the latter. And these I call materially inequal. And in that case it is clear that the
+intention of the end by itself does not incline more to one than to another means. Where-
+fore, from this part the choice is free. From elsewhere, however, by a natural propensity
+of the will to other goods it happens that that will is more inclined to another good which
+is better for whatever reason. Indeed, when this inclination also does not impose neces-
+sity, then the will will be able not to grasp that greater aspect of good and therefore to
+choose the means that is materially less good. And thus the first part of the conclusion is
+clear, which is confirmed: for that greater good, as such, was not loved by choice but by
+intention, and yet every intention of this sort is free, as I said above. Therefore.
+Quarta assertio.—Dico quarto : quando media sunt inæqualia sive materialiter,
+sive formaliter, sive utroque modo, liberum est voluntati eligere etiam minus
+bonum : semper tamen electio est juxta mensuram intentionis, et frequentius,
+et fere semper eligit voluntas sub aliqua ratione majoris convenientiæ. Notan-
+dum in mediis, duo posse præcipue considerari. Primum utilitas ad finem,
+quod est quasi formale. Secundum aliqua propria bonitas, quod est quasi ma-
+teriale : possunt ergo media esse æque bona priori ratione, non vero posteriori
+: et hæc voco materialiter inæqualia : et tunc constat intentionem finis de se
+non magis inclinare ad unum, quam ad aliud. Quare ex hac parte libera est
+electio : verum aliunde ex naturali propensione voluntatis ad alia bona, fit
+ut voluntas magis inclinetur ad aliud bonum, quod est quacumque ratione
+me- <264> lius. Verum, cum hæc inclinatio etiam non imponat necessitatem,
+poterit tunc voluntas non amplecti illam majorem rationem boni, atque adeo
+
+-- 6 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 7
+eligere medium materialiter minus bonum. Et ita patet prima pars conclu-
+sionis, quæ confirmatur : nam illud majus bonum, ut sic, non est amatum
+electione, sed intentione : atqui omnis hujusmodi intentio est libera ; ut supra
+dixi : ergo.
+10. It should be noted, second, that it can happen that means as formal means are inequal,
+because, of course, the end will be compared to one means, either for nearness in time or
+for greater perfection and certainty, and then it is clear that there is freedom for the will
+to choose the one it wishes, because there is freedom for it to intend the end either on
+behalf of suchnearness or with such perfection. And the reason is because the intention
+is the cause of the choice and therefore the choice is measured to that as its cause. And
+the conclusion is also confirmed by experience: for if someone were to intend to pursue
+an end either for the greatest nearness in time or for the greatest perfection, with respect
+to this intention the more useful means would be, strictly speaking, necessary. Therefore,
+it will be chosen by necessity. And through this the other two parts of the conclusion are
+clear.
+The other part is also clear, for certainly, strictly speaking, there is freedom for the will to
+choose the means that by every weighing is judged less good overall, because it is neces-
+sitated to nothing determinate since none is necessary and it can always throw back the
+intention just as it wishes. It is confirmed by experience: for although, strictly speaking,
+someone may judge honest good to be better than pleasure, yet he chooses pleasure if he
+wants to.
+Notandum secundo : contingere posse, media, ut media formalia esse in-
+æqualia, quia scilicet uno medio, vel breviori tempore vel majori perfectione,
+et certitudine comparabitur finis, et tunc constat liberum esse voluntati eligere
+quod voluerit, quia liberum ei est intendere finem aut pro tali tempore, aut
+cum tanta perfectione : et ratio est, quia intentio est causa electionis, et ideo
+electio commensuratur illi tanquam suæ causæ. Et confirmatur etiam experi-
+entia conclusio : nam si quis intenderet consequi finem aut brevissimo tem-
+pore, aut summa perfectione, respectu hujus intentionis medium utilius es-
+set simpliciter necessarium : ergo necessario eligetur. Et per hæc patent aliæ
+duæ partes conclusionis. Patet etiam alia pars, nempe simpliciter esse liberum
+voluntati eligere medium, quod omnibus pensatis absolute judicatur minus
+bonum, quia ad nullum determinate necessitatur cum nullum sit necessarium,
+et semper potest remittere intentionem prout voluerit. Confirmatur experien-
+tia : nam quamvis simpliciter quis judicet honestum esse melius delectabili,
+eligit delectabile si vult.
+11. Regarding the foundation of the second view, I say that freedom arises from reason,
+not only because it can judge this to be better than that, but especially because it can
+carefully assess the weight of each good. For this reason the will can love in that perfect
+way, that is, in that position and way in which the thing itself is lovable. And an example
+of this is evident in the freedom of the divine will, which confirms everything which we
+
+-- 7 of 8 --
+
+Su´arez, De voluntario et involuntario disp. 8, sec. 4 8
+have said. Because from two equals it chooses what it will not by another reason, unless
+because it wants to, and often it chooses what is less useful. Our freedom, moreover is a
+participation of that and has the same root with the proportion being kept.
+Regarding the confirmation of that view, I deny that the will is determined by the intellect
+so that it itself does not also determine itself. Indeed, by the intellect it is determined as
+if until sufficiency. But it determines itself until efficacy. Nor is it necessary that another
+reason of this determination be given beyond freedom, and because it wills by a sufficient
+supposition by a reason on the part of the object. And as far as this concerning the former
+part of the title of the present disputation.
+Ad fundamentum secundæ sententiæ dico libertatem oriri ex ratione, non
+solum quia potest judicare hoc esse melius illo, sed maxime quia potest per-
+pendere uniuscujusque boni pondus : propterea potest voluntas illo perfecto
+modo amare, id est, eo gradu, et modo, quo ipsum est amabile : et exemplum
+hujus evidens est in libertate divinæ voluntatis : quod confirmat omnia quæ
+diximus : quoniam ex duobus æqualibus eligit quod vult non alia ratione, nisi
+quia vult, et sæpe eligit, quod minus utile est : nostra autem libertas est partici-
+patio illius et eamdem radicem habet servata proportione. Ad confirmationem
+illius sententiæ nego, voluntatem ita determinari ab intellectu, ut ipsa non se
+etiam determinet, imo ab intellectu determinatur, quasi quoad sufficientiam
+: ipsa vero se determinat quoad efficaciam : neque oportet aliam rationem
+hujus determinationis reddere, præter libertatem, et quia vult supposita suffi-
+cienti ratione ex parte ob- <col. b> jecti. Atque hactenus de priori parte tituli
+præsentis disputationis.
+
+-- 8 of 8 --

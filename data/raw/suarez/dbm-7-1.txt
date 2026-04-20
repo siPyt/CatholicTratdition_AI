@@ -1,0 +1,626 @@
+Last revision: June 9, 2018	Francisco Suárez, S. J.
+DE BONITATE ET MALITIA HUMANORUM ACTUUM VII, SECT. 11
+© Sydney Penner 2012
+<371, col. b>2
+De malitia. On evil.
+Praeter alias differentias inter bonitatem, et mali- In addition to other differences between goodness and evil,3
+tiam, una est, quod voluntas humana non potest one is that a human will cannot become actually good without
+fieri actualiter bona sine operatione a se elicita, an operation elicited by it, as was said above, but it can
+5 ut supra dictum est; potest autem fieri mala sine 5R become evil without any act by the voluntary lack of an act
+ullo actu per voluntariam carentiam actus deb- that one ought to perform.4 For something voluntary of
+iti; huiusmodi enim voluntarium dari potest, ut this sort can be given, as was said above in De voluntario et
+supra tract. 2. disp. 1. sect. 5. dictum est, et ad involuntario disp. 1, sect. 5, and it suffices for evil on account
+malitiam sufficit propter imperfectionem eius, ut of its imperfection, as is usually discussed more widely with
+10 latius tradi solet 1. 2. q. 71. art. 5. et q. 72. art. 6. 10R respect to Summa theologiae (henceforth: ST ) IaIIae.71.5 and
+Unde fit duplicem esse malitiam, una est quae prox- 72.6. Hence, there are two kinds of evil: one where the act is
+ime denominat actum malum, et per illum, volun- proximately denominated evil and the will through it and the
+tatem; altera, quae voluntati proxime inest, et illam other where evil is proximately in the will and denominates
+malam denominat. Quoniam igitur hic de actibus it evil. Therefore, since in this treatise we are discussing
+15 agimus, prior malitia est propria praesentis dispu- 15R acts, the former kind is proper to the present disputation
+tationis, et ideo prius de illa disputabimus, et potest and so we will discuss it first. It can be called by that general
+illa generali nomine vocari malitia commissionis; in name, ‘evil of commission’. Nevertheless, at the end we will
+fine tamen aliquid de posteriore addemus, quando add something about the latter kind of evil, since the lack
+carentia actus ex ipso actu facile cognoscatur; de of an act is easily understood according to that act itself.
+20 malitia autem actus disputari possunt omnia quae 20R Moreover, everything that was said about goodness can also
+de bonitate dicta sunt; tamen quia suppositis dic- be discussed concerning the evil of acts. Nevertheless, since
+1Latin text by and large follows the 1628 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+text against the Vivès edition for significant variations, as well as in a few instances against the edition of this section printed as an appendix in the third
+volume of the Corpus Hispanorum de Pace edition of De legibus. For recorded variants, A = 1628 edition, C = Corpus Hispanorum de Pace edition, and V
+= Vivès edition. Emendations not supported by any of these editions are enclosed in square brackets. Note that the Vivès edition does not have marginal
+notes; many, though not all, of the marginal notes from the 1628 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3I will follow the traditional practice of translating ‘malitia’ with ‘evil’ even though the English term presently tends to be reserved for a narrower class
+of bad things than the Latin ‘malitia’ such that one might well prefer ‘badness’ as a translation.
+4When reading Suárez it is important to distinguish between ‘debitum’ and ‘obligatio’; I will use ‘duty’ and constructions using ‘ought’ to translate
+‘debitum’ and cognate terms and reserve ‘obligation’ for ‘obligatio’. For more on Suárez’s use of these terms, see Terence Irwin, The Development of Ethics
+(Oxford: Oxford University Press, 2008), vol. 2, §437.
+
+-- 1 of 13 --
+
+Suárez, DBM VII, sect. 1 2
+tis erunt breviora, omnia comprehendam sub hac the discussions will be briefer by assuming what has already
+unica disputatione, explicando prius absolute ra- been said, I will include everything in this one disputation,
+tionem malitiae, postea vero de obiecto, circum- first explaining the ratio of evil without qualification, and
+25 stantiis, et fine pauca tractabimus. 25R then afterwards discussing its object, circumstances, and
+end in brief.
+SECTIO 1. SECTION 1.
+Utrum sit aliquis actus voluntatis ex se, et natura Whether there is some act of the will that is of itself and by its
+sua malus etiam seclusa extrinseca prohibitione. own nature evil even apart from an extrinsic prohibition.5
+Praemittuntur
+quadem ad
+dubitationem
+praesentem.
+1. Primo, quod in voluntate humana sint actus 1. First, that there are evil acts in human wills is notum Some
+preliminary
+points for the
+present doubt
+are made.
+mali, per se notum est, et D. Thomas satis hoc dis- per se, and St. Thomas discusses this sufficiently in ST IaI-
+putat 1. 2. q. [74] art. 2. <372> Quod autem omnes Iae.74.2.6 Moreover, that all evil acts are prohibited by some
+actus mali sint prohibiti aliqua lege, saltem divina, law, at least by some divine law, is certain, since this belongs
+5 est certum, quia hoc ad perfectionem spectat div- 5R to the perfection of divine providence. On the other hand, it
+inae providentiae. Rursus certum est apud omnes is certain according to all the theologians that some acts are
+Theologos aliquos actus esse malos solum, quia pro- evil only because they are prohibited. Yet in order to explain
+hibiti sunt, tamen ad explicandum exacte rationem precisely the ratio of evil it is necessary to explain how it is
+malitiae oportet in universum explicare quomodo se related to prohibition: to what extent it depends on law and,
+10 habeat ad prohibitionem quantum a lege pendeat; 10R consequently, to what extent it can be intrinsic to human
+et consequenter, quantum possit esse intrinseca acts. For this especially is where the whole difficulty that is
+humanis actibus, quia in hoc potissimum apparet to be discussed comes up. There is, moreover, a reason for The reason for
+doubting.	Dubitandi
+ratio.
+tota difficultas tractanda. Est autem ratio dubii, doubt, since no act of will can have evil from the force of its
+quia nullus actus voluntatis potest ex vi suae en- own positive entity in the way that it can have goodness. It
+15 titatis positivae habere malitiam, sicut bonitatem; 15R can, therefore, only have evil to the extent that it falls short
+ergo tantum potest illam habere, in quantum deficit of a rule for will, which is law. It cannot, therefore, be under-
+a regula voluntatis, quae est lex; ergo non potest in- stood as an evil act without an extrinsic law prohibiting it.
+telligi actus malus sine lege extrinseca prohibente. The antecedent is supposed because evil qua evil cannot be a
+Antecedens supponitur, quia malum, ut malum, specific difference and a positive being. It is confirmed: for
+20 non potest esse differentia specifica, et positivum 20R the evil of an act cannot be understood without an obligation
+5This section may be profitably compared with De legibus 2.6, which, although structured differently contains numerous parallel passages. Compare,
+for example, n. 2 with DL 2.6.4 and 7 and n. 4 with DL 2.6.3.
+6It is not entirely clear what text Suárez has in mind, since the reference in the first edition is missing the question number. One recent edition
+supplies ‘71’ as the question number, but the relevance of 71.2 to the present discussion is minimal at best. The obvious candidate as far as content is
+concerned would be IaIIae.18.1 but it has the disadvantage of requiring us to read the supplied article number as erroneous. I have chosen to go with
+74.2 on the grounds that its content is relevant and that it matches the supplied article number. My thanks to Justin M. Anderson for suggesting 74.2
+as a possibility.
+3 74 ] om. AV 71 C
+
+-- 2 of 13 --
+
+Suárez, DBM VII, sect. 1 3
+ens. Confirmatur, quia non potest intelligi malitia to not perform it, just as, conversely, evil cannot be under-
+actus sine obligatione non faciendi, sicut neque e stood in the absence of an act except with an obligation to
+contrario intelligi potest malitia in carentia actus, perform it. But every obligation arises from an extrinsic law
+nisi sit obligatio operandi; sed omnis obligatio oritur that orders or prohibits. Therefore, without this there is no
+25 ex lege extrinseca praecipiente, vel prohibente; ergo 25R evil. Therefore, just as such a law is not intrinsic to the act,
+sine hac nulla est malitia; ergo sicut talis lex non neither is any evil. The antecedent seems known from the
+est intrinseca actui, ita neque ulla malitia. An- terms, since no one sins except by omitting that which ought
+tecedens videtur ex terminis notum, quia nemo to be done or conversely [by doing that which is forbidden].
+peccat nisi omittendo, quod tenetur facere, neque It can also be explained, since no one sins except by willing
+30 e contrario, et potest etiam explicari, quia nemo 30R evil, but no one wills that directly, since ‘no one intends to
+peccat nisi volendo malitiam; non autem vult illam act for evil’. Therefore, it is willed indirectly. Therefore, it
+directe, quia nemo intendens ad malum operatur; is necessary that an obligation to avoid [performing the ac-
+ergo indirecte; ergo oportet, ut intercedat obliga- tion in question] intervene, since this ‘indirectly voluntary
+tio cavendi illam, quia hoc voluntarium indirectum, [action]’, morally speaking, does not exist except where some
+35 moraliter loquendo, non est nisi ubi intercedit ali- 35R obligation intervenes.
+qua obligatio.
+1. Opinio
+negans.
+2. Propter haec quidam dixerunt nullum esse 2. For this reason some say that there is no act of the will The first
+opinion,
+denying.
+actum voluntatis ita malum, quin possit esse non evil in such a way that it cannot be not evil, however much it
+malus, quamvis libere, et humano modo fiat, quia is done in a free and human way. For they think that every
+40 putant omnem malitiam pendere ex prohibitione ex- evil depends on an extrinsic prohibition, at least a divine
+trinseca saltem divina, quam putant esse liberam, 40R one, which they think is free since it depends on the will of
+quia pendet ex voluntate Dei, quae libera est in om- God, which is free with respect to all effects beyond itself. A
+nibus effectibus ad extra, quorum unus est prohi- prohibition or precept is one such effect. This is basically
+bitio, seu praeceptum, ita Nominales fere sentiunt, what the nominalists think: Ockham, Sent. II, q. 19, ad 3
+45 Ochamus in 2. q. 19. ad 3. et 4. Gerson Alphabeto and 4, and Jean Gerson, Alphabetum divini amoris 6, letter E,
+6. litt. E. et Tractatu de vita spirituali, lect. 1. et 45R and Tractatus de vita spirituali lect. 1. Jacques Almain refers
+alios refert Almainus tract. 3. Moralium cap. 15. et to others in Moralia tract. 3, cap. 15. Scotus generally agrees
+fere consentit Scotus in 4. dist. 26. q. 1. qui tamen in Sent. IV, dist. 26, q. 1, although he makes an exception for
+excepit odium Dei; videtur etiam favere D. Thomas hatred of God. Even St. Thomas seems to favour [this view] in
+50 1. 2. q. 71. art. 6. ad 4. Ubi explicans illam distinc- ST IaIIae.71.6 ad 4, where in explaining the distinction made
+tionem Theologorum de actibus malis, quod quidam 50R by theologians concerning evil acts, namely, that ‘some are
+sunt mali, quia <col. b> prohibiti; alii vero prohibiti, evil because they are prohibited, but others are prohibited
+quia mali, dicit esse intelligendam respectu legis because they are evil’, he says that the distinction should
+positivae, significans respectu aeternae, et divinae be understood with respect to positive law, indicating that
+55 legis omnes esse malos, quia prohibitos; quod etiam with respect to eternal and divine law all evil acts are evil
+sentit D. Bonaventura in 2. dist. 35. dub. 4. circa 55R because they are prohibited. St. Bonaventure also thinks
+litteram. Favet Augustinus 2. De peccatorum meri- this in Sent. II, dist. 35, dub. 4, around the letter. Augustine
+29 peccat nisi omittendo ] peccat omittendo A peccat omni omittendo V
+
+-- 3 of 13 --
+
+Suárez, DBM VII, sect. 1 4
+tis et remissione cap. 16. dicens, neque praecep- favours it in De peccatorum meritis et remissione II, cap. 16,
+tum erit, si quid erit nisi iubeatur, ut non sit. Et [§23,] saying: ‘nor would that be sin, if, whatever it may
+60 infra, Quomodo per divinam misericordiam dimitti- be, it were not decreed that it should not be’. And further
+tur, si peccatum non est, aut quomodo per divinam 60R down: ‘How is it forgiven through divine mercy if there is no
+iustitiam non prohibetur, si peccatum est. Denique sin, or how is it not prohibited through divine justice if it
+lib. 22. Contra Faustum cap. 27. [peccatum] definit is sin?’ Finally, in Contra Faustum XXII, ch. 27, he defines
+per hoc, quod sit contra legem; idem Ambrosius sin thus: it is contrary to law. Ambrose says the same thing
+65 lib. De paradiso cap. 6. dicens. Quid est peccatum in De paradiso ch. 6, [§30,] saying: ‘what is sin except a
+nisi divinae legis praevaricatio, imo videtur id do- 65R transgression of divine law?’7 Indeed, Paul seems to teach
+cere Paulus ad Romanos 4. Ubi non est lex, neque the same thing in Romans 4[:15]: ‘where there is no law,
+praevaricatio; et cap. 5. Peccatum non imputabatur, neither is there transgression’. And in Romans 5[:13]: ‘sin is
+cum lex non esset; et ideo 1. ad Corinth. 15. Virtus, not imputed where there is no law’. And for that reason he
+70 inquit, peccati lex. says in 1 Corinthians 15[:56]: ‘the power of sin is the law’.8
+2. Opinio
+extreme
+contraria.
+3. Alii vero absurdum existimant, negare 70R 3. But others think it is absurd to deny that some acts—if The second
+opinion, the
+extreme
+contrary.
+aliquos actus ita esse malos, quin habeant in- they were done freely and in a human way—are evil in such
+separabilem malitiam etiam de potentia absoluta, a way that they have an evilness that is inseparable even by
+si libere, et humano modo fiant, et nihilominus absolute power. Nevertheless, on account of the arguments
+75 propter argumenta facta concedunt non posse esse just made, they concede that they cannot be evil without
+malos sine prohibitione saltem divina; unde con- 75R at least a divine prohibition. Hence they conclude that this
+cludunt hanc prohibitionem non esse Deo liberam, prohibition is not free for God but necessary. For, although
+sed necessariam, quia licet Deus ad extra se ni- God wills nothing beyond himself with strict necessity, it
+hil simpliciter necessario velit; tamen supposita is, nevertheless, not disagreeable that God will something
+80 libera voluntate circa unum non est inconveniens, necessarily on the supposition of freely willing something
+ut sit necessarium velle aliud, quia haec non est 80R else. This is not necessity strictly speaking but a necessity
+necessitas simpliciter, sed ex libera suppositione; resulting from a free supposition. In this way, therefore, they
+sic ergo inquiunt hoc ipso, quod Deus vult creare think that from this, that God willed to create human beings
+hominem, et illum libere vult, et per rationem oper- and willed them to act freely and through reason and willed to
+85 ari, et cum illo ad hoc concurrere, necessarium est, concur with them in this, it is necessary that he prohibit for
+ut illi prohibeat hos actus habentes ita coniunc- 85R them those acts that have evil conjoined to them in the way
+tam malitiam, tum quia facta dicta suppositione in question. For once the stated supposition has been made,
+necesse est, ut habeat Deus providentiam hominis, it is necessary that God have providence over human beings,
+cuius haec est pars potissima, tum etiam, quia ab- of which this prohibition is the greatest part. Also, because it
+90 solute necessarium est, ut huiusmodi actus Deo is absolutely necessary that acts of this sort displease God.
+displiceat; ergo necesse est, ut repugnet voluntati 90R Therefore, it is necessary that they are repugnant to his will.
+7Ambrose repeats the claim in De paradiso ch. 8, §39, which is the passage that Suárez cites in De legibus II.6.7.
+8Suárez provides a nearly identical list of citations with some more detail in De legibus II.6.7.
+63 peccatum ] praeceptum ACV
+
+-- 4 of 13 --
+
+Suárez, DBM VII, sect. 1 5
+eius; ergo et prohiberi; nam haec duo idem sunt, Therefore, also that they are prohibited. For these two are
+hanc vero opinionem sic explicatam apud nullum the same thing. But I do not find this view explained in this
+scriptorem invenio. way in any writer.
+95	3. Opinio
+distinctione
+utens.
+4. Alii distinctione utuntur cum Gregorio in 2. 4. Others use a distinction following Gregory of Rimini The third
+opinion,
+making use of
+a distinction.
+dist. 34. q. 1. art. 2. Gabriel dist. 35. q. 1. art. 1. 95R in Sent. II, dist. 34, q. 1, art. 2, Gabriel in Sent. II, dist. 35,
+Almainus tract. 3. cap. 16. quos sequitur Corduba q. 1, art. 1, and Almain in [Moralia] tract. 3, cap. 16. Antonio
+lib. 3. Quaestionum q. 10. ad 2. hi enim auctores de Córdoba follows them in Quaestionarium theologicum III,
+concedunt aliquos esse actus intrinsece omnino q. 10 ad 2. For these authors grant that there are some acts
+100 malos ac necessario, etiam de potentia absoluta; that are intrinsically entirely evil and necessarily so even with
+distinguunt autem du- <373> plicem legem, aliam 100R respect to absolute power. But they distinguish between two
+indicantem, aliam praecipientem. Prima explicatur kinds of law, one indicative, the other prescriptive. The first
+tantum per verbum indicativi modi, hoc est facien- kind is explained only through a verb in the indicative mode:
+dum, vel non est faciendum; alia per verbum im- ‘this is to be done’ or ‘this is not to be done’. The other kind
+105 perativi, fac hoc, vel non facies. Prima tota est in is explained through an imperative verb: ‘do this’ or ‘you will
+intellectu, et non pendet a voluntate; consistit enim 105R not do this’. The first is wholly in the intellect and does not
+in iudicio indicante rem ipsam prout est. Secunda depend on a will, since it consists in a judgement indicating
+vero pendet a voluntate quatenus vult imponere a thing as it is. But the second depends on a will insofar
+hanc, vel illam obligationem. Unde prima non pen- as it wishes to impose this or that obligation. Hence, the
+110 det ex iurisdictione, vel potestate superioris, sed first does not depend on jurisdiction or on the power of a
+ex re ipsa. Secunda vero requirit potestatem, et 110R superior, but on the thing itself. But the second requires
+iurisdictionem; dicunt ergo omnem actum malum power and jurisdiction. These authors say, then, that every
+requirere priorem legem, non autem posteriorem. evil act requires the former kind of law but not the latter.
+Praedicta
+distinctio
+immerito
+improbatur a
+nonnullis.
+5. Haec distinctio a nonnullis improbatur, quia 5. This distinction is rejected by some on grounds that The aforemen-
+tioned
+distinction is
+rejected by
+some without
+reason.
+115 improprie utitur Gregorius voce legis, proprie enim Gregory improperly uses the word ‘law’, for it does not prop-
+non significat nisi imperium; si tamen res vera est, 115R erly signify except where there is authority. Nevertheless, if
+non esset de voce multum contendendum, praeser- the matter itself is true, there is no need to contend much
+tim, quia dictamen rectae rationis non admodum about the word, especially since a dictate of right reason is
+improprie per sese dicitur habere rationem legis re- said not all that improperly to itself have the character of
+120 spectu voluntatis, praesertim in voluntate, quae law with respect to the will, especially in the will which is
+non est sibi regula suorum actuum, neque est 120R not the rule for itself of its acts and is not determined by its
+natura sua determinata ad honestum; nam revera own nature to the fine (honestum).9 For such a dictate really
+tale dictamen est regula, et mensura talis volun- is a rule and measure for such a will. To that extent, then,
+tatis: non ergo adeo improprie dici potest lex re- it can, not improperly, be called a law with respect to the
+125 spectu illius, neque haec significatio huius vocis will. Nor is this meaning of this word all that unusual, for
+est admodum inusitata, Augustinus enim lib. 22. 125R Augustine says in Contra Faustum XXII, resp. 27, under the
+Contra Faustum resp. 27. sub disiunctione dixit. break that ‘the eternal law is divine reason or the will of God’
+9For Suárez on the traditional division of good into honestum, utile, and delectabile, see DM 10.2.3–29. Roughly, goods that are good for their own
+sake apart from pleasure are honestum. Finding an English term with the same range is difficult.
+
+-- 5 of 13 --
+
+Suárez, DBM VII, sect. 1 6
+Lex aeterna est ratio divina, aut voluntas Dei, et and St. Thomas in the place cited above, [ST IaIIae.71.6 ad
+D. Thomas loco supra citato videtur certe hoc modo 4,] certainly seems to use the name ‘law’ in this way, as is
+130 uti nomine legis, ut patet ex fine illius solutionis, clear from the end of that solution, for he says that every
+dicit enim omne peccatum esse malum, quia pro- 130R sin is evil because it is prohibited, and he substitutes: ‘for
+hibitum, et subdit; ex hoc enim ipso, quod est inor- precisely in that it is inordinate, it is repugnant to natural
+dinatum, iuri naturali repugnat; ubi non dixit, ideo law’. He does not say here that because it is repugnant to
+esse inordinatum, quia iuri naturali repugnat, sed natural law, therefore it is inordinate; rather, he says the
+135 e contrario, quia est inordinatum, ideo iuri natu- contrary: because it is inordinate, therefore it is repugnant
+rali repugnare, quod solum est verum sumendo ius 135R to the natural law. This is only true when taking natural law
+naturale pro ipso dictamine rationis, sed quidquid for the very dictate of reason. But whatever the case may be
+sit de voce legis, nos loquamur de voluntate pro- concerning the word ‘law’, we are talking about a prohibiting
+hibente, et de iudicio dictante. will and a dictating judgement.
+140	1. Assertio. 6. Dicendum primo, aliquos actus voluntatis 6. It should be said, first, that some acts of the will are of The first
+assertion.	ex se, et ex vi suorum obiectorum esse malos ante 140R themselves and their objects evil prior to any will prohibiting
+omnem voluntatem prohibentem et independenter them; they are independent of that will with respect to the
+Fulcitur
+auctoritate.
+ab illa quoad rationem malitiae. Haec conclusio aspect of evil. This conclusion is taken from St. Thomas, ST It is supported
+by authority.	sumitur ex D. Thoma 1. 2. q. 100. art. 1. et 8. IaIIae.100.1 and 8. For in this sense he defines certain acts
+145 hoc enim sensu definit quosdam actus ita esse as evil in such a way that God cannot give dispensation so
+malos, ut nulla Dei dispensatione fieri posset, ut 145R that they would not be evil. Cajetan follows this in the same
+non sint mali, et ita sequitur Caietanus ibi, et Soto place, as well as Soto in De iustitia II, q. 3, art. 10, Victoria
+2. De iustitia. q. 3. art. 10. Victoria Relectione de in Relectio de homicidio, and Richard Middleton in Sent. III,
+homicidio, Richardus in 3. dist. 37. art. 1. q. 5. et dist. 37, art. 1, q. 5. It is also admitted in a strict sense by
+150 ibi Gabriel q. 1. art. 2. <col. b> et Scotus q. 1. Gabriel in Sent. III, dist. 37, q. 1, art. 2, and Scotus in Sent. III,
+absolute hoc admittit, licet in particulari iudicio de 150R dist. 37, q. 1, although they disagree with St. Thomas in the
+his actibus differat a sententia D. Thomae, quod case of a particular judgement about these acts. But that
+non est huius loci; consentit etiam Durandus in is not to the point here. Durandus also agrees in Sent. I,
+1. dist. 47. q. 4. Sumitur etiam ex Augustino 1. De dist. 47, q. 4. It is also taken from Augustine in De libero
+155 libero arbitrio cap. 3. dicente adulterium non esse arbitrio I, cap. 3, where he says that adultery is not evil
+malum, quia prohibitum, sed e contrario, et idem 155R because it is prohibited, but the other way around. He says
+dicit de mendacio, Glossa Levit. 19. the same thing about lying in Quaestionum in Heptateuchum
+III.68.
+Probatur
+inductione.
+7. Unde probatur primo inductione, quia odium 7. Next it is proven, first, by induction, since hatred It is proven by
+induction.	Dei ita est malum, ut si libere, et humano modo of God is an evil such that if it comes about freely, in a
+160 absque ignorantia fiat, non possit non esse malum, 160R human way, and without ignorance, it cannot fail to be evil.
+quod videtur ita ex terminis notum, ut non indigeat This seems so well known from the terms that it does not
+probatione, nam rationi propositum statim repug- require proof, for what is proposed is immediately repugnant
+nat, idem est de hoc actu, volo agere contra consci- to reason. It is the same with this act: ‘I wish to act against
+154 47 ] 46 V
+
+-- 6 of 13 --
+
+Suárez, DBM VII, sect. 1 7
+entiam, contra rectam rationem, contra praeceptum conscience, against right reason, against the precept of a
+165 superioris. Nam huiusmodi actus non potest mente 165R superior’. For an act of this kind cannot be conceived by the
+concipi, quin malus sit, quod argumentum late mind as other than evil, which argument Almain pursues
+prosequitur Almainus supra. Potest etiam haec at length in the [text cited] above. This induction can also
+inductio extendi ad ipsam divinam voluntatem, re- be extended to the divine will, with respect to which certain
+spectu cuius quaedam sunt ita mala, ut non possit things are evil such that God cannot will them. Willing to
+170 Deus ea velle, qualia sunt velle mentiri, velle non 170R deceive, willing not to keep a promise, and so on are such
+implere promissum, etc. Quod non provenit re- things. This does not result from the will prohibiting them.
+spectu illius ex voluntate prohibente; ergo ex eo Therefore, it results from the fact that such willings are per
+provenit quod talis voluntas per se mala est. se evil.
+Probatur a
+priori.
+8. Ratio autem a priori est, quia voluntas sumit 8. The reason, moreover, is a priori, since a willing takes It is proven a
+priori.	175 bonitatem, vel malitiam suam ex obiecto; est autem 175R up its good or evil from its object. There is, moreover, some
+aliquod obiectum ex se disconveniens naturae ratio- object that is of itself disagreeable to rational nature as such
+nali, ut sic, absque voluntate superioris prohiben- apart from the will of a prohibiting superior, as was discussed
+tis, ut supra late dictum est; ergo talis voluntas per in detail above.10 Therefore, such a willing is per se evil from
+sese est mala ex vi voluntariae tendentiae in tale the force of the voluntary tendency to such an object prior
+180 obiectum ante voluntatem prohibentem. Confir- 180R to any prohibiting will. It is confirmed and shown, first, The first
+confirmation.	Confirmatur 1. matur, et declaratur primo, quia in caeteris rebus, because in the other things and natures, some are by their
+et naturis, quaedam sunt natura sua disconvenien- nature disagreeable with the natures of things before any
+tia naturis rerum ante omnem voluntatem, ut calor willing, as heat of itself is disagreeable to water. Similarly
+ex se est disconveniens aquae, similiter in aliis ra- with other aspects of good and evil, for example, the aspects
+185 tionibus boni, et mali, verbi gratia, delectabilis, aut 185R of delightful and saddening things, each one is of itself such
+contristantis unumquodque est ex se tale natura by its nature without reference to an extrinsic will. Therefore,
+sua sine respectu ad voluntatem extrinsecam; ergo the same would be the case in rational nature as such and
+idem esse poterit in natura rationali ut sic, et in ra- in the aspect of the fine or of the contrary evil. Finally, since The second
+confirmation.	Confirmatur 2. tione boni honesti, aut mali contrarii. Tandem, quia just as in speculative matters some things are principles nota
+190 sicut in speculativis quaedam sunt principia per se 190R per se, which do not depend on extrinsic things to be true,
+nota, quae non pendent ab extrinseco ut vera sint, so also in practical matters, of that kind are either these
+ita etiam in practicis, qualia sunt, vel illa generalia, general principles—‘what is fine should be done’, ‘what is
+honestum est faciendum, turpe vitandum; vel par- base should be avoided’—or these particular principles—‘one
+ticularia, non est mentiendum, nemini est facienda should not lie’, ‘one should give injury to no one’, and so on.
+195 iniuria, etc. Haec ergo iudicia semper sunt vera 195R These judgements, therefore, are always true independently
+independenter ab omni extrinseco; ergo et voluntas of everything extrinsic. Therefore, it is also the case that
+ab illis discordans semper est mala independenter a will discordant with them is always evil independently of
+10DBM 2.1?
+177 voluntate ] voluntatis V
+188 natura ] naturali V
+
+-- 7 of 13 --
+
+Suárez, DBM VII, sect. 1 8
+etiam ab omni extrinseco. Nam illa veritas sumi- everything extrinsic. For that truth is taken in its way from
+tur suo modo ex [conformitate] <374> ad [appeti- conformity to appetite that is right or not right. Hence, if
+200 tum] rectum, vel non rectum; unde si fingeremus 200R we imagine a human being invincibly ignorant of God and of
+hominem invincibiliter ignorantem Deum et omnem every superior will prohibiting lying or adultery, but rightly
+superiorem voluntatem prohibentem mendacium, using his natural judgement in matters of action, we would
+vel adulterium, recte autem utentem naturali iu- understand him to be able to act well or badly, and in such a
+dicio in rebus agendis, intelligeremus illum posse human being evil would be inseparable from willings to lie or
+205 bene, vel male agere; et a voluntate mentiendi, vel 205R to commit adultery.
+adulterandi in tali homine esse inseparabilem mali-
+tiam.
+2. Assertio. 9. Dicendum secundo, nullum posse esse vol- 9. It should be said, second, that no act of the will can be The second
+assertion.	untatis actum malum, quin sit contra dictamen ra- evil without it being contrary to a dictate of reason judging
+210 tionis iudicantis malitiam actus, vel obiecti, qui est the evil of an act or its object. This is the sense of the
+sensus auctorum tertiae sententiae, et per se con- authors of the third view and it is obvious of itself. For an
+stat, quia non potest actus voluntatis esse malus, 210R act of the will cannot be evil unless the evil is in some way
+quin sit illi voluntaria aliquo modo malitia, non erit voluntary for it. But it will not be voluntary unless it is in
+autem voluntaria nisi sit aliquo modo ratione diiu- some way adjudicated by reason, either in the act itself or in
+215 dicata, vel in actu ipso, vel in obiecto, quod perinde the object that is equally [evil]. I will not discuss now whether
+est; nec disputo modo, an hoc dictamen debeat, et this dictate must and can be had, for that was satisfactorily
+possit haberi, nam de hoc satis dictum est supra 215R discussed above in De voluntario et involuntario 4.3.
+in materia de voluntario, disp. 4. sect. 3.
+1. Corollarium
+odium Dei fore
+malum, [etsi]
+non
+prohiberetur.
+10. Atque ex his sequitur primo quid sit iudi- 10. And from these assertions it follows, first, what The first
+corollary:
+hatred of God
+would be evil,
+even if it were
+not prohibited.
+220 candum de hac conditionali, si Deus non prohiberet should be judged regarding the conditional ‘if God did not
+odium sui, non esset malum; quidam enim dicunt prohibit hatred of himself, it would not be evil’.
+utrumque sequi, nam et esset malum, quia esset For some authors say that both things follow, for it would
+de turpi obiecto, et non esset malum, quia non es- 220R both be evil because it would be about a base object and it
+set prohibitum a Deo, ita respondet Medina 1. 2. would not be evil because it is not prohibited by God. Med-
+225 q. 81. art. 1. et q. 19. in principio, et q. 100. art. 8. ina responds in that way in ST IaIIae.81.1, IaIIae.19 in the
+Id probatur
+quando non
+daretur
+prohibitio
+proprie dicta.
+tamen si sit sermo de prohibitione non ut spectat beginning, and IaIIae.100.8. Nevertheless, if the discussion The corollary
+is proven in
+the case where
+there is no
+prohibition
+properly
+speaking.
+ad naturale iudicium, sed ad voluntatem divinam, is about prohibition not as it relates to natural judgement
+qua ut superior vult obligare hominem, ut hoc fa- 225R but as it relates to the divine will by which God as superior
+ciat, vel non faciat, dicendum est conditionalem wills to obligate human beings either to do this or not to do
+230 hanc esse veram, licet Deus non prohiberet, actus it, one should say that the conditional ‘the act would be evil,
+esset malus, et aliam partem omnino esse falsam, even though God did not prohibit it’ is true. The other part is
+neque sequi contradictionem, quia obiectum ip- entirely false and so no contradiction follows. For the object
+199 conformitate ] confirmatione ACV (cf. DBM 12.2.2)
+199–200 appetitum ] oppositum ACV (cf. DBM 12.2.2)
+219 Marginal note: etsi ] esto ACV
+
+-- 8 of 13 --
+
+Suárez, DBM VII, sect. 1 9
+sum per se sufficit ut actus sit malus; illud autem 230R is of itself sufficient so that the act is evil, something that is
+non mutatur etiamsi tollatur prohibitio. Deinde not changed even if the prohibition is removed.
+235 illud antecedens non est ideo impossibile, ut im- Next, that antecedent is not impossible on grounds that
+plicet contradictionem; non est ergo impossibile, it implies a contradiction. It is not, therefore, impossible,
+ut ex illo sequantur contradictoria. Antecedens because contradictories follow from it. The antecedent is
+imprimis patet; si intercedat ignorantia talis pro- 235R especially obvious when ignorance of such a prohibition in-
+hibitionis, ut supra in exemplo positum est, nam tervenes, as in the example posited above, for it is the same
+240 respectu ignorantiae perinde est, ac si in re non with respect to ignorance as if it were not prohibited in reality.
+esset prohibitio. Deinde patet ex re ipsa, quia vol- Next, it is obvious from the matter itself, since the willing
+untas, qua Deus hoc prohibet, vel intelligitur esse by which God prohibits this is either understood to be a cer-
+naturalis quaedam displicentia talis obiecti, vel ac- 240R tain natural displeasure with such an object or with such an
+tus; et haec in primis supponit malitiam iam in act.11 But this, in the first place, already presupposes evil
+245 actu, vel obiecto; ergo si per possibile, vel impos- in the act or object, so that, if we per possibile or impossibile
+sibile <col. b> praescindamus hanc displicentiam, cut out this displeasure so that it doesn’t exist, there will be
+ut non sit, erit in tali actu malitia, et deinde non evil in such an act. Furthermore, it is not obvious that God
+constat Deum ex necessitate habere naturalem dis- 245R has such a natural displeasure of necessity, at least with
+plicentiam, saltem quoad exercitium, quia nihil respect to exercise, since there is nothing that necessitates
+250 est, quod necessitet ad hoc divinam voluntatem. the divine will to this [displeasure].
+Denique ille simplex affectus, ut sic, per se non Finally, that simple affect as such does not of itself suffice
+sufficit ad rationem legis prohibentis, sicut neque e for the character of a prohibiting law, just as conversely
+contrario simplex affectus complacentiae in bonum 250R a simple affect of pleasure for a good does not suffice for
+non sufficit ad rationem legis praecipientis, ut patet a prescribing law, as is clear in the case of acts of giving
+255 in actibus consiliorum; est ergo necessaria aliqua counsel. Some efficacious willing is, therefore, necessary,
+voluntas efficax, non qua Deus velit talem actum not one by which God wishes a certain act not to be but one
+non fieri, sed qua velit teneri inferiorem ad talem by which he wishes to bind an inferior to not performing
+actum non faciendum; haec autem voluntas nulla 255R such an act. But this willing cannot by any argument be
+ratione probari potest convenire Deo necessario proven necessarily to accompany God even if willing to create
+260 etiam supposita voluntate creandi hominem, nam human beings is assumed. For, although it is fitting for
+licet sit consentaneum divinae sapientiae et prov- divine wisdom and providence to govern rational creatures by
+identiae gubernare creaturam rationalem, leges, imposing laws and precepts on them through his will, this is
+et praecepta ei imponendo per voluntatem suam; 260R not, nevertheless, necessary such that the contrary implies a
+tamen non est ita hoc necessarium, ut contrarium contradiction. Just as it is also fitting that he render rewards
+265 implicet contradictionem; sicut etiam est consenta- for good acts and penalties for evil acts, and yet God could
+neum, ut retribuat praemia pro bonis actibus, et without contradiction refuse to punish such evil acts. In
+poenas pro malis, et tamen sine contradictione po- the same way, therefore, he could also leave human beings
+11The structure in this section is not entirely perspicuous, especially with respect to the occurrences of ‘vel’ in this sentence.
+250 ille ] illi V
+
+-- 9 of 13 --
+
+Suárez, DBM VII, sect. 1 10
+tuisset Deus nolle punire talem actum malum; sic 265R to be ruled by their reason without imposing any special
+ergo posset etiam hominem relinquere, ut sua ra- obligation on them through his will. For the latter is also a
+270 tione regeretur nullam specialem obligationem per certain moral effect beyond himself which does not have a
+voluntatem suam illi imponendo, nam hic etiam est necessary connection with the other effect nor with the divine
+quidam moralis effectus ad extra, qui non habet will. In this sense, therefore, that conditional involves no
+necessariam connexionem cum alio effectu, neque 270R contradiction. Rather, the affirmative part is true, namely,
+cum voluntate divina. In hoc ergo sensu nullam ‘such an act would be evil even though there were no external
+275 involuit contradictionem illa conditionalis; sed vera prohibition’.
+est pars affirmativa, quod licet nulla esset externa
+prohibitio talis actus esset malus.
+Quid quando
+talis prohibitio
+non extaret,
+sed solum
+dictamen
+rationis.
+11. Alio vero sensu potest intelligi de dictamine 11. But the prohibition can be understood in another What the case
+is when such
+a prohibition
+does not exist,
+but only a
+dictate of
+reason.
+rationis divinae, vel humanae, et hoc modo per sense as a dictate of divine or human reason, and in this
+280 locum intrinsecum sequitur, si talis actus non iudi- 275R way the prohibition follows per locum intrinsecum. If such
+caretur malus recta ratione non futurum malum, an act were not judged evil by right reason it would not be
+quia non potest esse malum aliquod in actu, nisi evil, since it cannot be something evil in act unless it is
+sit voluntarium: non potest autem esse voluntar- voluntary but it cannot be voluntary unless it was in some
+ium, nisi aliquo modo sit recta ratione iudicatum, way judged by right reason. And since our reason is a kind of
+285 et quia nostra ratio est quaedam participatio rectae 280R participation in right reason, which is in God, for that reason
+rationis, quae in Deo est, ideo etiam recte sequitur, it also rightly follows that if in God there were no eternal law
+si in Deo non esset aeterna lex indicans malitiam indicating the evil of acts to which our will was repugnant,
+actuum, cui voluntas nostra repugnaret, non posse there could not be any evil in our acts, since our reason is
+in actibus nostris esse malitiam, quia ablata divina necessarily removed by the removing of divine reason. But
+290 ratione, necesse est nostram auferri: Si autem sub 285R if along with the conditional we imagine that a dictate of
+conditionali fingamus manere in nobis dictamen right reason indicating the evil remains in us even though,
+rectae rationis indicans malum, et per impossibile per impossibile, it is not in God, that would suffice for evil
+non esse in Deo, illud sufficeret ad malitiam, quia because that suffices for the will to tend voluntarily to a base
+illud sufficit <375> ut voluntas voluntarie tendat object.
+295 in turpe obiectum.
+2. Corollarium
+circa illam
+causalem,
+omnis actus
+est malus quia
+prohibitus, vt
+sit, aut non sit
+vera.
+12. Secundo intelligitur ex dictis, quid dicen- 290R 12. From what was said, it is understood, second, what The second
+corollary
+concerning
+whether the
+causal
+[statement]
+‘every act is
+evil because it
+is prohibited’
+is true or not.
+dum sit de hac causali locutione, Omnis actus should be said about the causal statement ‘every act of the
+voluntatis est malus, quia prohibitus saltem lege will is evil because it is prohibited at least by eternal law’. For
+aeterna; nam si intelligatur de lege proprie impo- if it is understood of a law properly imposing an obligation
+300 nente obligationem per voluntatem legislatoris, non through the will of a legislator, it is not strictly necessary
+est simpliciter necessaria de potentia absoluta, ut 295R with respect to absolute power, as is clear from what was
+ex dictis patet, nec de facto etiam est vera, si in- said. Nor is it even true in fact, if it is understood to be
+telligatur de prima radice, et causa malitiae, ut about the first root and cause of evil, as is also clear from
+282 malum aliquod ] malum autem aliquod CV
+297 de hac causali ] de causa causali CV
+
+-- 10 of 13 --
+
+Suárez, DBM VII, sect. 1 11
+etiam patet ex dictis; potest autem de facto ver- what was said. Moreover, what was understood about the
+305 ificari intellecta de causa sufficienti ad malitiam, sufficient cause for evil—namely, a dictate of the intellect or
+nempe dictamine intellectus, seu lege aeterna, nam 300R the eternal law—can be verified as being the case in fact. For
+licet, nulla alia esset, haec satis esset, ut volun- even though there were nothing else, this would be enough so
+tas nostra agens contra illam legem esset mala, that our will would be evil in acting contrary to that law. And
+et hoc modo possent intelligi quaedam testimonia the kind of testimony of Augustine, Ambrose, and St. Thomas
+310 Augustini, Ambrosii, et D. Thomae supra adducta that was brought up in n. 2 can be understood in this way.
+in n. 2. nam de facto ita est, quod omnis actus 305R For it is in fact the case that every evil act is contrary to the
+malus est contra legem Dei, et per illam tanquam law of God, and [is evil] through that as through a sufficient
+per sufficientem rationem, et clariorem notificatur; reason and it is made more clearly known.
+si vero intelligatur solum de lege dictante prout est But if it is understood as only about a law that dictates
+315 in ratione, facilius verificaretur propositio de inesse, insofar as it is in reason, the proposition can be more easily
+quam causalis, est enim voluntas mala agens con- 310R verified as assertoric rather than causal, for it is an evil
+tra dictamen rationis; tamen non ita proprie dici will acting against the dictate of reason. Nevertheless, it
+mala videtur, quia agat contra dictamen rationis, does not thus seem properly to be called evil because it acts
+sed quia voluntarie tendit in malum obiectum, quod against a dictate of reason but because it voluntarily tends
+320 non est malum, quia ratione ostenditur, sed potius to an evil object, and the object is not evil because it is
+ideo ratione ostenditur quia ipsum malum est, ut 315R [so] shown by reason, but rather it is [so] shown by reason
+in principio huius materiae dicebam; potest autem because it is itself evil, as I was saying in the beginning of
+aliquo modo verificari illa causalitas. Primo lo- this discussion. That causality, however, can be verified in
+quendo de ratione divina in quantum est prima another way. First, by speaking about divine reason insofar
+325 mensura, et primum exemplar rerum omnium, de as it is the first measure and first exemplar of all things, but
+ratione autem nostra, in quantum est necessaria 320R about our reason insofar as it is a necessary condition and
+conditio, et consequenter aliquo modo causa om- consequently in some sense a cause of every act of our wills.
+nium actuum voluntatis; de utraque vero proprie But in each case [the causality] is properly on the part of the
+ex parte obiecti, non ex parte actuum intellectus, object and not on the part of the acts of the intellect. For
+330 est enim voluntas mala, quia discordat ab obiecto, a will is evil because it is in discord with the object as the
+prout per rectam rationem proponitur. 325R object is proposed through right reason.
+3. Corollarium
+quo sensu
+dicantur aliqui
+actus
+intrinsece
+mali.
+13. Tertio intelligitur ex dictis, quomodo di- 13. Third, it is understood from what was said in what The third
+corollary
+about the
+sense in which
+some acts are
+called
+intrinsically
+evil.
+cantur aliqui actus intrinsece mali, non enim tales way some acts are called intrinsically evil. For the acts are
+sunt, quia malitia sit intrinseca, et physica entitas not such because evil is a physical entity intrinsic to them
+335 eorum de quo postea in sect. 3. neque etiam for- (about this later in sect. 3), nor perhaps because the physical
+tasse, quia non possit entitas physica actus poni 330R entity of the act could not be placed in rerum natura without
+in rerum natura, sine illa malitia, sed dicuntur that evil. Rather, they are called such because they cannot
+tales, quia non possunt libere, et humano modo be freely and in a human way performed morally directed
+fieri circa tale obiectum moraliter, et abs- <col. b> at such an object and without ignorance of the proposed
+340 que ignorantia propositum, quin habeant coniunc- object without having a conjoined and innate evil. And so it
+314 dictante ] distante V
+
+-- 11 of 13 --
+
+Suárez, DBM VII, sect. 1 12
+tam, et innatam malitiam, itaque repugnat tales 335R is repugnant for such acts performed in that way to be good
+actus morales sic factos esse bonos, aut manere in- or to remain indifferent. For that reason they are deservedly
+differentes, et ideo merito dicuntur mali intrinsece. called intrinsically evil.
+Interest inter
+actus
+intrinsece
+malos.
+Sed inter hos est advertenda quaedam varietas, et But a certain difference and latitude should be noticed There is a
+difference
+among
+intrinsically
+evil acts.
+345 latitudo, nam quidam habent adiunctam malitiam among these acts, for some of them have evil conjoined to
+ex vi directae, et physicae tendentiae in obiectum, 340R them by the force of a direct and physical tendency to the
+quod contingit quando vel obiectum habet omnino object, which happens either when the object has that condi-
+immutabilem conditionem illam ex qua oritur turpi- tion entirely unchangeably from which the wickedness arises
+tudo, ut est in odio Dei, aut quando in ipso obiecto (this is the case with hatred of God) or when in the object
+350 directe volito proponitur illa conditio, ex qua oritur itself directly willed that condition from which that wicked-
+illa turpitudo, ut est in voluntate mentiendi, fu- 345R ness arises is proposed (as in the case of willing to lie, to
+randi, etc. Aliquando vero non adiungitur malitia steal, and so on). But sometimes the evil is not conjoined by
+ex vi directae vel physicae tendentiae, sed tantum the force of a direct and physical tendency but only from an
+ex indirecta: ut cum aliquis vult hanc rem accipere, indirect tendency, as when someone wishes to accept this
+355 vel ad hanc mulierem accedere, et in obiecto volito thing or to come near to this woman but does not place either
+non ponit conditionem non suae, vel alienae; in- 350R his condition or that of another in the willed object. There
+ter quos est differentia; nam hic posterior actus is a difference between these two types, for this latter act
+potest conservari totus sine malitia, si in obiecto can be entirely preserved without evil if the condition in the
+mutetur conditio, quia ex illa mutatione in obiecto object were to change. For from that change in the object
+360 non sequitur mutatio in actu, quia non tendebat no change in the act follows, since it did not tend directly
+directe in illam conditionem: potest autem sequi 355R to that condition. But a moral change can follow, since the
+mutatio moralis, quia moraliter mutatur obiectum; object is morally changed. But in the former kind of act the
+in alio vero actu non potest mutari obiectum, quin object cannot be changed without the act being changed on
+mutetur actus propter directam tendentiam, et ideo account of the direct tendency. And for this reason the evil
+365 non potest eo manente auferri malitia, nisi forte cannot be removed as long as the tendency remains, except
+interveniente ignorantia; si tamen tam patens sit 360R perhaps by the intervention of ignorance. Nevertheless, if
+malitia, ut non possit ignorari, ut fortasse est in the evil is so obvious that one cannot be ignorant of it, as
+odio Dei, non poterit ille actus esse humanus, quin is perhaps the case with the hatred of God, that act could
+sit malus; et ideo forte Scotus dixit hunc actum not be a human act without being evil. Perhaps it is for that
+370 esse specialiter intrinsece malum, de quo nonnulla reason that Scotus said that this act is especially intrinsically
+in sect. 3. 365R evil (some more about this in sect. 3).
+Ad rationem
+dubitandi in
+n. 1.
+14. Ultimo patet ex dictis responsio ad rationem 14. Lastly, the response to the reason for doubting The response
+to the reason
+for doubting in
+n. 1.
+dubitandi in principio positam; cum enim dicitur, posited in the beginning is clear from what has been said.
+omne malum debere esse contra prohibitionem, vel For when it is said that every evil must be contrary to a pro-
+375 contra debitum, si intelligatur de intrinseco deb- hibition or contrary to a duty, if this is understood as being
+ito naturae rationali, ut sic, est verum quod as- 370R about the duty intrinsic to a rational nature as such, what
+sumitur, et ex illo debito nascitur iudicium rectae is assumed is true. From that duty arises a judgement of
+rationis, prohibens iudicando convenientiam natu- right reason that prohibits by judging agreeability to nature
+
+-- 12 of 13 --
+
+Suárez, DBM VII, sect. 1 13
+rae, et malitiam contrariam, non imponendo novam and the contrary evil. It does not prohibit by imposing a new
+380 obligationem; et hoc satis est ad omnia, quae ibi obligation. And this is sufficient for everything assumed here
+assumuntur, neque est necessaria alia maior pro- 375R nor is any greater external prohibition necessary, as was said,
+hibitio exterior, ut dictum est, quamvis de facto although as a matter of fact this external prohibition always
+semper haec concurrat ex perfectione divinae prov- concurs as a result of the perfection of divine providence.
+identiae. Ad testimonia iam responsum est in n. 4. There was already a response in n. 4 to the cited texts and
+385 et possunt etiam non male exponi de lege indicante. they can also be not badly explained as being about indicative
+380R law.
+
+-- 13 of 13 --

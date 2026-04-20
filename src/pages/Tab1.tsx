@@ -1,6 +1,6 @@
 import { IonButton, IonChip, IonContent, IonHeader, IonIcon, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { copyOutline, micOutline, sendOutline, volumeHighOutline } from 'ionicons/icons';
-import { FormEvent, useEffect, useRef, useState } from 'react';
+import { FormEvent, useCallback, useEffect, useRef, useState } from 'react';
 import { useHistory, useLocation } from 'react-router-dom';
 import { chatModeOptions, getChatModeOption } from '../config/chatModes';
 import { ChatMode } from '../config/openAiPrompt';
@@ -42,39 +42,6 @@ const starterAssistantMessage: StoredChatMessage = {
   id: 'assistant-intro',
   role: 'assistant',
   content: 'Pick a source set, ask a question, and continue the thread here.'
-};
-
-const starterPrompts: Record<ChatMode, string[]> = {
-  fathers: [
-    'How did the Fathers interpret John 6?',
-    'What did Ignatius of Antioch say about Church unity?',
-    'How did Augustine speak about grace and conversion?'
-  ],
-  proofs: [
-    'Give me a Thomistic proof for God as first cause.',
-    'Explain the difference between essence and existence.',
-    'Show the objections and reply on faith and reason.'
-  ],
-  apologetics: [
-    'Why do Catholics pray to saints?',
-    'How would you explain confession to a Protestant friend?',
-    'Why does the Catholic Church claim authority to teach?'
-  ],
-  dogmaticSources: [
-    'What is the theological note on grace?',
-    'How is justification presented in handbook form?',
-    'What is the theological note on original sin and baptism?'
-  ],
-  papalPreVaticanII: [
-    'What did pre-Vatican II popes teach about the kingship of Christ?',
-    'How did Leo XIII and Pius XII speak about grace and society?',
-    'What did pre-Vatican II popes teach about Church authority?'
-  ],
-  papalAll: [
-    'How have papal documents explained grace across the centuries?',
-    'How have popes taught on faith and reason?',
-    'What themes stay consistent across papal teaching on the Church?'
-  ]
 };
 
 function sanitizeMode(mode: string | null): ChatMode | null {
@@ -145,21 +112,7 @@ const Tab1: React.FC = () => {
   const copyFeedbackTimeoutRef = useRef<number | null>(null);
   const audioUnlockedRef = useRef(false);
 
-  const clearConversationState = (nextDraft = '') => {
-    setMessages([starterAssistantMessage]);
-    setDraft(nextDraft);
-    setError('');
-    setRetrievalQuery('');
-    setRetrievalResults([]);
-    stopAudioPlayback();
-  };
-
-  const switchMode = (nextMode: ChatMode, nextDraft = '') => {
-    setMode(nextMode);
-    clearConversationState(nextDraft);
-  };
-
-  const stopAudioPlayback = () => {
+  const stopAudioPlayback = useCallback(() => {
     audioRequestIdRef.current += 1;
 
     if (audioRef.current) {
@@ -175,7 +128,21 @@ const Tab1: React.FC = () => {
     speechUtteranceRef.current = null;
 
     setActiveAudioMessageId(null);
-  };
+  }, []);
+
+  const clearConversationState = useCallback((nextDraft = '') => {
+    setMessages([starterAssistantMessage]);
+    setDraft(nextDraft);
+    setError('');
+    setRetrievalQuery('');
+    setRetrievalResults([]);
+    stopAudioPlayback();
+  }, [stopAudioPlayback]);
+
+  const switchMode = useCallback((nextMode: ChatMode, nextDraft = '') => {
+    setMode(nextMode);
+    clearConversationState(nextDraft);
+  }, [clearConversationState]);
 
   const unlockAudioPlayback = async () => {
     if (audioUnlockedRef.current || typeof Audio === 'undefined') {
@@ -237,7 +204,7 @@ const Tab1: React.FC = () => {
         window.clearTimeout(copyFeedbackTimeoutRef.current);
       }
     };
-  }, []);
+  }, [stopAudioPlayback]);
 
   const showCopyFeedback = (itemId: string) => {
     setCopiedItemId(itemId);
@@ -290,20 +257,18 @@ const Tab1: React.FC = () => {
   useEffect(() => {
     const params = new URLSearchParams(location.search);
     const requestedMode = sanitizeMode(params.get('mode'));
-    const requestedPrompt = params.get('prompt')?.trim();
+    const hasLegacyPrompt = params.has('prompt');
 
-    if (!requestedMode && !requestedPrompt) {
+    if (!requestedMode && !hasLegacyPrompt) {
       return;
     }
 
     if (requestedMode) {
-      switchMode(requestedMode, requestedPrompt ?? '');
-    } else if (requestedPrompt) {
-      setDraft(requestedPrompt);
+      switchMode(requestedMode);
     }
 
     history.replace('/tab1');
-  }, [history, location.search]);
+  }, [history, location.search, switchMode]);
 
   const selectedMode = getChatModeOption(mode);
   const usesLocalCorpus = mode === 'fathers' || mode === 'proofs' || mode === 'apologetics';
@@ -592,14 +557,6 @@ const Tab1: React.FC = () => {
               </div>
             </div>
 
-            <div className="prompt-strip" aria-label="Suggested prompts">
-              {starterPrompts[mode].map((prompt) => (
-                <IonButton key={prompt} fill="outline" size="small" onClick={() => setDraft(prompt)}>
-                  {prompt}
-                </IonButton>
-              ))}
-            </div>
-
             {usesLocalCorpus ? <section className="retrieval-panel" aria-live="polite">
               <div className="retrieval-panel-header">
                 <div>
@@ -696,7 +653,7 @@ const Tab1: React.FC = () => {
                 className="chat-input"
                 rows={4}
                 value={draft}
-                placeholder={selectedMode.promptHint}
+                placeholder="Write your question here."
                 onChange={(event) => setDraft(event.target.value)}
                 disabled={isSubmitting}
               />

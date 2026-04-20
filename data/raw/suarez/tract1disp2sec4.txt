@@ -1,0 +1,234 @@
+Last revision: February 21, 2012	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 2, SECT. 41
+© Sydney Penner 2010
+<24>2
+Quot modis contingat voluntatem hominis operari propter finem. In how many ways it happens that the will of a human being acts for the
+sake of an end.
+Modus
+quadruplex
+operandi propter
+finem.
+1. Absolvimus priorem partem earum duarum quas initio Dis- 1. We have taken care of the first part of those two which we pro- Four ways of
+acting for the
+sake of the end.
+putationis proposuimus, superest, ut expediamus hanc posteri- posed at the beginning of the disputation.3 Resolving the latter [part],
+orem, quæ visa est hoc loco necessaria, ut expeditior sit via ad 5R which seemed necessary in this place so that the way to those matters
+5 ea, quæ postea tractanda sunt, et, ut sæpe dixi, non est sermo which are to be discussed afterwards is less encumbered, remains. And,
+de operatione propter finem communem agentibus natural- as I have often pointed out, the discussion is not about action for the
+ibus, sed de modo proprio hominis, qui in plures alios distin- sake of the end generally by natural agents, but about human beings’
+gui solet: et potest ad quatuor tantum revocari. Dicitur enim proper way [of acting for the sake of an end], which is usually divided
+homo operari propter finem, vel habitualiter, vel actualiter, 10R into several different ways. Only four ways can be recalled. For it is
+10 vel virtualiter, vel tantum interpretative, quæ oportet breviter said that a human being acts for the sake of the end either habitually,
+Primus modus
+per relationem
+actualem.
+explicare. Actualiter dicitur voluntas operari propter finem actually, virtually, or only interpretatively, which must be explained
+quando actu movetur a fine, unde ad hunc modum operandi briefly. The will is said to act actually for the sake of the end when it is The first way is
+through an actual
+relation.
+imprimis requiritur actualis cognitio, et cogitatio de ipso fine, actually moved by the end. Hence, for this way of acting, actual cogni-
+quia nisi sit actualiter apprehensus, non potest actualiter mo- 15R tion and thought about the end itself is especially required, because [the
+15 vere. Deinde requiritur actualis motio voluntatis, vel in ipsum end] cannot actually move [the will] unless it is actually apprehended.
+finem, vel in alium propter ipsum, quia hoc significat actualis Next, an actual motion of the will, either to the end itself or to some-
+operatio propter finem. Posset tamen hoc loco quæri an in hoc thing else for the sake of it, is required, because this signifies an actual
+modo operandi requiratur actualis intentio finis propter se ip- action for the sake of the end. Nevertheless, one may ask here whether
+sum, vel sufficiat actualis electio, vel usus propter finem actu 20R in this way of acting an actual intention for the end for the sake of it
+20 et distincte cognitum: sed hæc quæstio infra tractanda est cum itself is required or whether an actual choice or a use for the sake of the
+dicetur de intentione et electione, et statim aliquid attingam end actually and distinctly cognized suffices. But this question should
+agendo de tertio modo operandi. be discussed below when intention and choice are discussed; I will say
+something [about it] shortly in dealing with the third way of acting.4
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the
+1628 edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition, M =
+1629 Mainz edition, Ve = 1740 Venice edition, and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+31.2.proem.
+4Cf. 1.3.5. Or is Suárez referring to the material in De Voluntario et Involuntario disp. 6 and 8? He Also makes extensive references to these relations in De Bonitate disp. 6,
+sect. 5.
+
+-- 1 of 5 --
+
+Suárez, De fine hominis disp. 2, sect. 4 2
+2. modus per
+relationem
+habitualem quo
+pacto ab
+aliquibus
+explicetur.
+2. Quid vero sit operari habitualiter, non omnes eodem 25R 2. But not everyone explains in the same way what acting habit- The second way
+is through a
+habitual relation
+where it is
+explained by
+composition
+from others.
+modo exponunt: aliqui hoc explicant ratione cujusdam con- ually is. Some explain it by reason of a certain attendance of a habit
+25 comitantiæ habitus concomitantis operationem in eadem vol- attending the action to the same things by the will or subject, so that it
+untate seu subjecto, ita ut dicatur homo operari habitualiter is said that a human acts habitually for the sake of some end when he
+propter aliquem finem, quando operatur propter aliquod ob- acts for the sake of some object while retaining a habit inclining to an-
+jectum retinendo habitum inclinantem ad alium finem, quam- 30R other end, although the relation of this habit in no way ends in action
+vis relatio hujus habitus nullo modo cadat in hujusmodi oper- of this kind nor refers it to the end of these, but only [refers] the human
+30 ationem, nec referat illam in horum finem, sed solum ipsum or acting will itself. St. Thomas signifies this way in [ST ] IIaIIæ.24.10
+<col. b> hominem seu voluntatem operantem. Hunc modum and IaIIæ.88.1 ad 2 and in De Malo, q. 3. It is explained by example:
+significat D. Thomas 2, 2, quæst. 24, art. 10, et 1, 2, quæst. 88, for in this way it is commonly said that the just person, even while he
+art. 1, ad 2, et quæst. 3, de Malo; quod exemplo explicatur: 35R sins venially, habitually acts for the sake of God, not because the work
+nam hoc modo dici solet justus, etiam dum venialiter peccat, of sin itself is referred by that to God, but because at the same time
+35 habitualiter operari propter Deum, non quia ipsum opus pec- with that work he retains a habitual relation of the person himself or
+cati ab eo referatur in Deum, sed quia simul cum illo opere the will to God as ultimate end and because the work by itself does not
+retinet habitualem relationem ipsius personæ, vel voluntatis in exclude this relation. And in the same way the infidel who habitually
+Deum ut finem ultimum, et quia opus ex se non excludit hanc 40R has an idol for the end, even while he performs an honest work of jus-
+relationem, atque eodem modo infidelis, qui habitualiter ha- tice and mercy, is said to act habitually for the sake of the idol. From This explanation
+of the habitual
+relation is not
+satisfying.
+40 bet idolum pro fine, etiam dum facit opus honestum justitiæ et these examples and from the matter itself it is clear that this way is very
+Non placet hæc
+explicatio
+relationis
+habitualis.
+misericordiæ, dicetur habitualiter operari propter idolum. Ex improper, because, as I said and as Cajetan observes in the cited place
+quibus exemplis et ex re ipsa constat hunc modum esse valde in IIaIIæ, this habitual relation does not end in the work itself, because
+improprium, quia, ut dixi, et Cajetanus notat, loco citato in 45R neither through the present act nor through some preceding [act] is an
+2, 2, hæc habitualis relatio non cadit in ipsum opus, quia nec action of this kind referred to that end, nor does it take some entity,
+45 per actum præsentem, nec per aliquem præcedentem refertur either a physical or moral property, from that. Indeed, in no way is it
+hujusmodi actus in illum finem, nec ab illo sumit aliquam en- sometimes referable to that end, as is clear concerning the venial [sin].
+titatem, vel proprietatem physicam, vel moralem; imo nullo Therefore, that entire habitual relation [is] of the subject alone. Hence,
+modo interdum referibilis est in illum finem, ut constat de ve- 50R it is better to say that he acts with a habitual relation to such an end than
+niali: ergo tota illa relatio habitualis solius subjecti, unde potius that he acts, strictly speaking, for the sake of such an end.
+50 potest dici operari cum relatione habituali ad talem finem,
+quam operari proprie propter talem finem.
+Altera explicatio
+accomodatior.
+3. Alio ergo modo explicatur hæc relatio habitualis, 3. Therefore, this habitual relation is explained in another way,5 The other
+explanation is
+more suitable.
+quando censetur relicta ex aliquo actu præcedenti, per quem since it is thought to be something remaining from another preceding
+illud opus vel in particulari, vel saltem sub generalitate rela- act, through which that work either in particular or at least under a
+55 tum est in talem finem, licet quando fit illud opus præcedens 55R generality is related to such an end, although when that work happens
+actus, seu relatio, nullo modo sit nec actualiter, nec in aliqua the preceding act or relation in no way is, neither actually nor in some
+virtute, quam reliquerit, ut per eam influat in opus, sed mere strength (so that having left that it could through it influence the work),
+habitualiter, quia illa intentio semel habita, retractata non fuit, but merely habitually. This is because that intention, once a habit, was
+5Cf. 3.5.4.
+
+-- 2 of 5 --
+
+Suárez, De fine hominis disp. 2, sect. 4 3
+ut, verbi gratia, retulit quis summo mane omnia opera Dei not retracted, as, for example, someone who had referred at the end of
+60 in Deum, postea vero in discursu Dei operatur aliquid referi- 60R the morning every work of God to God, but afterwards in thinking
+bile de se in Deum, tamen sine illa memoria prioris intentio- of God he does something referable of itself to God, yet without that
+nis, et sine ullo influxu actuali, vel virtuali, tunc dicitur ille memory of his prior intention and without any actual or virtual influ-
+homo habitualiter operari propter Deum, propter relationem ence, then that human being is said to act habitually for the sake of God,
+habitu relictam ex priori intentione habita, et non retractata. on account of a remaining relation of habit resulting from an intention
+65 Quem modum insinuare videtur D. Thomas 1, 2, quæst. 1, 65R that was held previously and has not been retracted. St. Thomas seems
+art. 6 ad 3, et quæst. 2, disputata de virtutibus, art. 11, ad 2, to suggest this way in [ST ] IaIIæ.1.6 ad 3 and in DQV q. 2, art. 11, ad 2,
+quamvis hæc loca possunt intelligi de relatione virtuali statim although these places can be understood as concerning the virtual rela-
+explicanda: nam D. Thomas sæpe relationem virtualem vocat tions that will be explained shortly. For St. Thomas often calls a virtual
+habitualem, et nunquam satis distinguit; inter has tamen ex dic- relation ‘habitual’ and never makes a satisfactory distinction. Yet from
+70 tis constabit esse aliquam distinctionem: nam in hoc modo, de 70R what has been said it will be clear that there is some distinction between
+quo nunc agimus, finis nec actu influit, quia, <25> ut suppon- these. For in this way of which we are talking now the end does not ac-
+imus, nec actu cogitatur, nec actu movet; nec etiam virtualiter tually influence, because, as we suppose, it is neither actually cognized
+influit, quia etiam supponimus ex priori intentione nihil esse nor does it actually move. Nor does it virtually influence, because we
+in homine relictum, quod nunc conferat ad præsentem oper- also suppose that nothing remains in the human from the prior inten-
+75 ationem, sed ita se habere hominem in modo operandi, ac si 75R tion that now directs to the present action, but he holds himself thus
+prior actus non præcessisset: est ergo hujusmodi relatio mere and [would even] if the prior act had not preceded. Therefore, a rela-
+habitualis, de qua non parva quæstio est, an conferat operi ali- tion of this sort is merely habitual, concerning which it is not a trivial
+quam moralem conditionem, aut valorem, aut in ordine ad question, whether it directs on the act some moral condition or value
+meritum, vel ad satisfactionem, vel aliquid hujusmodi, quæ in or in order for merit or for satisfaction or something of this sort, which
+80 locis propriis tractanda sunt. 80R should be discussed in the proper places.
+3. Modus per
+relationem
+virtualem.
+4. Circa tertium modum operandi, scilicet virtualiter 4. About the third way of acting, namely, virtually for the sake The third way is
+through a virtual
+relation.
+propter finem, notandum esse veluti medium inter præce- of the end, it should be noted that it is, as it were, a middle between
+dentes, quia nec requirit actualiter influxum propter finem ut the preceding [two], because it neither requires an actual influx for the
+primus, nec omnino nullum ut secundus: sed requirit aliquem sake of the end as the first way does nor entirely nothing as the second
+85	Vna conditio ad
+relationem
+virtualem.
+influxum per aliquam virtutem relictam ex priori intentione: 85R one does. Rather, it requires some influx through some remaining force
+difficile vero est circa hunc modum dicere, quid sit hæc vir- (virtus) from a prior intention.6 But it is difficult to say concerning this One condition
+for a virtual
+relation.
+tus, et imprimis sumo ad hunc modum necessarium esse ut way what this force is. In the first place, I assume that it is necessary for
+præcesserit actualis cognitio et intentio talis finis, quia alias ni- this way of acting that there have been actual cognition and intention
+Altera. hil esset, unde illa virtus fuisset relicta. Deinde oportet ut talis for such an end. Otherwise, there would not be anything from which
+90 intentio non sit retractata per contrariam intentionem, quia 90R that force could remain. Next, it is necessary that such an intention not A second
+condition.	alias hæc contraria intentio destruxisset virtutem relictam per be retracted through a contrary intention. Otherwise, this contrary
+Tertia. priorem intentionem. Tertio, necessarium est ut duret effectus intention would destroy the force remaining from the prior intention.
+6Cf. DM XIX.8.20: ‘And for this reason it is commonly said that every intention of a particular end is a virtual choice of happiness, a choice that does not always have to
+be preceded by an elicited intention of happiness itself; rather, a natural and necessary propensity [for happiness] suffices’ (Atque hac ratione dici solet omnem intentionem finis
+particularis esse virtualem electionem felicitatis, ad quam non semper est necesse ut praecedat intentio elicita ipsius felicitatis, sed sufficit naturalis ac necessaria propensio). Also cf. DM
+XXIV.2.15.
+
+-- 3 of 5 --
+
+Suárez, De fine hominis disp. 2, sect. 4 4
+aliquis relictus ex priori intentione, ut ab illo procedat aliquo Thirdly, it is necessary that some effect remain from the prior inten- A third
+condition.	modo opus, quod dicitur postea fieri virtualiter propter talem tion, so that the work which is said afterwards to come to be virtually
+95 finem. Quis autem sit hic effectus aliter videtur explicandum 95R for the sake of such an end proceeds from it in some way.7 What this ef-
+respectu actuum externorum, aliter respectu actus interni ip- fect is, however, seems to need to be explained differently in the case of
+sius voluntatis: potest enim actus exterior fieri propter finem external acts than in the case of interna acts of the will itself. For an ex-
+absque actuali cogitatione, et intentione finis. Exemplum vul- ternal act can happen for the sake of the end apart from actual thought
+gare est quando quis iter agit, quod incipit propter aliquem and intention of the end. A common example is when someone goes on
+100 finem, in ipso vero actuali progressu non semper recordatur 100R a journey that he begins for the sake of some end but which end he does
+ipsius finis: imo nec interdum recordatur ipsius incessus, vel not constantly think of during the actual progress. Indeed, not even the
+motus: et idem contingit in celebratione Missæ ex priori in- walking or motion itself is always in mind. The same thing happens in
+tentione: tunc ergo virtus relicta ex priori intentione nihil the celebration of the Mass by a prior intention. Therefore, in this case
+aliud esse videtur, quam applicatio ipsius potentiæ executivæ the force remaining from a prior intention seems to be nothing other
+105 ad actualem operationem externam, quæ durat et continuat in 105R than the application of the executive power itself to an actual external
+ipso effectu quamdiu non cessat omnino ab actione, nec per action, which endures and continues to the same effect as long as it does
+contrariam voluntatem suspenditur actus, et licet contingat ac- not entirely cease from action and the action is not suspended through
+tiones externas variari, tamen quia uni in mente succedit altera, a contrary will. And although the external actions happen to vary, nev-
+una etiam excitat ad alteram, et hoc modo virtus interior cense- ertheless because one succeeds another in the mind, one also incites to
+110 tur durare in ipso effectu. At vero, quando actio <col. b> ex- 110R another, and in this way the interior force is thought to endure in the
+terna omnino interrupta fuit, verbi gratia, per somnum, vel effect itself. But, on the other hand, when an external action has been
+quid hujusmodi, tunc necesse est actum voluntatis quasi de entirely interrupted, for example, through sleep or something of this
+novo inchoari; et quoniam voluntatis actus esse non potest sine sort, then it is necessary that the act of will start anew, as it were. And
+cognitione intellectus, ideo ex parte illius videtur commode because there cannot be an act of the will without cognition of the in-
+115 exponi hæc virtus relicta ex priori intentione, quia nimirum 115R tellect, therefore for its part this force seems to be explained agreeably
+ex præcedenti intentione, apprehensione, consultatione, et alii through a prior intention. For without doubt it was made from a pre-
+similibus actibus factum est ut potentia, proposito tali objecto, ceding intention, apprehension, deliberation, and other similar acts as
+verbi gratia, quod iter sit agendum, statim repræsentatur ut ex- a power, so that once such an object (e.g., that one should go on a jour-
+equendum absque alta motione, seu speciali consideratione il- ney) has been proposed, it is immediately represented as needing to be
+120 lius, seu finis, ad quem ordinatur: hoc modo statim voluntas 120R done without any deep motion or special consideration of it or the end
+exequitur id, quod proponitur, et incipit illo medio uti, quod to which it is ordered. In this way the will immediately carries out that
+proximum est, seu quod tunc occurrit primo exequendum, et which is proposed and begins to use the means which are proximate or
+sic recte dicitur virtualiter operari propter finem. which then occur first in the carrying out. And thus he is rightly said
+to act virtually for the sake of the end.
+4. Modus
+operandi propter
+finem
+interpretative.
+5. Circa quartum modum, quem vocavimus interpretative 125R 5. About the fourth way, which we call interpretatively acting for The fourth way
+of acting for the
+sake of an end is
+interpretatively.
+125 operari propter finem, advertendum est, interdum voluntatem the sake of the end, it should be noted that sometimes the will intends
+intendere aliquod objectum, in quo sistit ex vi consideratio- some object in which the force of one’s consideration and actual mo-
+nis et hujus actualis motionis; tamen illa res intenta natura sua tion ceases. Yet that intended thing by its nature is carried along and
+7Cf. 3.5.4.
+
+-- 4 of 5 --
+
+Suárez, De fine hominis disp. 2, sect. 4 5
+fertur, et ordinatur in alium finem: tunc ergo voluntas dicitur ordered to another end.8 Therefore, in this case the will is said prop-
+proprie, et quasi explicite intendere finem sibi propositum: in- 130R erly and explicitly, as it were, to intend the end proposed to it. But it is
+130 terpretative vero dicitur intendere ulteriorem finem, ad quem said to intend interpretatively the more ultimate end to which the end
+finis priori modo intentus natura sua fertur: et ad hunc modum intended in the former way by its nature is brought. And in this way
+is, qui operatur honeste propter bonitatem misericordiæ aut he who acts honestly for the sake of the goodness of mercy or justice,
+justitiæ, nihil de Deo cogitans, aut de alio fine, dicitur oper- thinking nothing of God or of another end, is said to act for the sake of
+ari propter Deum, vel propter beatitudinem, et implere illud 135R God or for the sake of happiness and to satisfy that [statement] of Paul
+135 Pauli, 1 Corin. 10: Omnia, in gloriam Dei facite, quia videlicet in 1 Cor. 10[:31], ‘Do all things for the glory of God’, because, that is
+ipsum bonum honestum quod intenditur, natura sua fertur in to say, the bonum honestum itself that is intended is brought by its na-
+Deum, et est medium, quo tenditur ad beatitudinem. Et ideo ture to God and is a means by which one is directed to happiness. And
+licet homo actu suo non intendat illum finem ulteriorem, dic- for this reason even though a human being does not intend that more
+itur operari propter illud interpretative, quod alii vocant op- 140R ultimate end by his own act, he is said to act for its sake interpretatively.
+140 erari propter finem ex natura ipsius operis potius quam ex in- Others call this acting for the sake of the end by the nature of the act
+tentione operantis, de quo modo operandi occurrent plura in itself rather than by the intention of the one acting. Numerous [refer-
+sequenti disputatione. ences] to this way of acting will occur in the following disputation.9
+8Cf. Aquinas’s use of ‘interpretative’ in ST IIaIIæ.97.1 co.
+9E.g., 3.1.3, 3.1.4, 3.2.5, 3.3.12–13, 3.6.2, and 3.6.4.
+136–137 natura sua fertur in Deum, et est medium, quo tenditur ] om. M Ve V.
+
+-- 5 of 5 --

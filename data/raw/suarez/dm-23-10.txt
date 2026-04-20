@@ -1,0 +1,584 @@
+Last revision: December 3, 2025	Francisco Suárez, S. J.
+DM XXIII, SECT. 101
+© Sydney Penner 2010
+<885, col. b>2
+Utrum in actionibus naturalium et irrationalium agen- Whether true final causality intercedes in the actions of nat-
+tium vera causalitas finalis intercedat. ural and irrational agents.
+1. Haec quaestio generalis est de omnibus agentibus This general question concerns all agents lacking intellect
+carentibus intellectu et voluntate: quibus omnibus and will, in all of which it is generally the case that they
+5 commune est ut non possint actiones suas vel me- 5R cannot refer or order their actions or means to the end.
+dia ad finem referre seu ordinare. Et hinc oritur And from this arises the reason for doubting, for the proper A reason for
+doubting.	dubitandi ratio: nam propria causalitas finis non est causality of an end does not exist without this ordering as
+Ratio
+dubitandi.
+sine hac ordinatione, ut satis declarant illae partic- is sufficiently shown by those phrases by which the causal-
+ulae cuius gratia, et propter quod aliquid fit, quibus ity of an end is usually indicated: ‘for the sake of which’
+10 causalitas finis solet declarari: et ideo difficile est 10R (cuius gratia) and ‘for the sake of which something happens’
+invenire aut declarare causalita- <886> tem finalem (propter quod aliquid fit). But to the contrary is the fact that
+in actionibus horum agentium, et in effectibus eo- even these agents act for the sake of an end, as Aristotle Aristotle.
+rum prout ab ipsis provenit. In contrarium vero proves at length in Phys. II, c. 7. Action for the sake of an
+est, quia haec etiam agentia agunt propter finem, ut end, however, cannot be understood without causality of
+15 late probat Aristoteles in 2. Physicorum cap. 7. non 15R an end. And there is a special difficulty concerning brute
+potest autem intelligi operatio propter finem sine animals, for they truly are moved to loving as a result of
+causalitate finis. Et de brutis est specialis difficul- some cognition of good. Therefore, the metaphorical motion
+Aristoteles. tas, nam illa vere moventur ad amandum ex aliqua of cognized good intervenes in that affect and action. There-
+cognitione boni: ergo intercedit in eo affectu et opere fore, that belongs to true final causality. And experience
+20 motio metaphorica boni cogniti: ergo illa pertinet ad 20R confirms this for we see that a swallow gathers chaff or
+veram causalitatem finalem. Atque hoc confirmat ex- effects something similar in such a way as to procure its
+perientia, nam videmus hirundinem ita congregare end and likewise with other things.
+paleas vel aliquid simile efficere, sicut expedit ad
+finem suum, et sic de aliis.
+25 Vetus opinio de agentibus naturalibus. The ancient opinion concerning natural agents.
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+text against the Vivès edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does
+not have marginal notes; many, though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the
+head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 11 --
+
+Suárez, DM XXIII, sect. 10 2
+2. In hac re fuit antiqua opinio veterum Philosopho- 2. In this matter, there was an ancient opinion of the old
+rum negantium opera naturae provenire ex inten- philosophers who denied that the works of nature result
+tione alicuius finis, sed casu ita constitisse, vel ex from the intention of some end but [maintained] that they
+concursu atomorum temere ita concurrentium, vel came about by chance either from the concurrence of atoms
+5 ex necessitate materiae, ut citato loco 2. Physicorum 5R blindly coming together in such and such a way or from the
+cap. 7. et 8. contra Anaxagoram, Empedoclem, Dem- necessity of matter, as Aristotle argues against Anaxagoras, Aristotle.
+Aristoteles. ocritum, et Epicurum disputat Aristoteles. Quae Empedocles, Democritus, and Epicurus in the cited place
+sententia adeo est absurda, ut refutatione non egeat. in Phys. II, c. 7 and 8. This view is so absurd that there is
+Oportet tamen advertere aliud esse agere de con- no need for a refutation.
+10 stitutione totius universi, et de actione universalis 10R Nevertheless, one must note that it is one thing to deal
+naturae ad ipsum componendum, et ita regendum ut with the setting up of the whole universe and with the
+conservari possit: aliud vero de actionibus propriis action of universal nature composing it and ruling it so
+singulorum agentium naturalium. Prior actio seu ef- that it can be conserved but another thing [to deal] with
+fectio revera non est actio alicuius agentis naturalis the proper actions of individual natural agents. The former
+15 intellectu carentis, sed est actio supremi auctoris 15R action or effecting is not really the action of some natural
+naturae, qui sua sapientia totam universi naturam agent lacking intellect but is the action of the supreme
+condidit ac moderatur: et ideo actio illa ad praesen- author of nature who puts together the whole nature of
+tem quaestionem non spectat, nec de illa dubitari the universe and guides it by his wisdom. And therefore
+potest, quin propter finem ab auctore suo intentum, that action is not relevant for the present question, nor can
+20 atque adeo ex causalitate finis profecta sit, iuxta 20R there be any doubt that it was made for the sake of the end
+doctrinam praecedentis sectionis. Atque hoc evi- intended by its author and for that reason was made by
+dentissime docet ipsa universi pulchritudo, et mira the causality of the end, according to the doctrine of the
+partium eius, et causarum omnium consensio et or- preceding section. And the very beauty of the universe and
+dinatio. Ex qua non solum sancti Patres, sed etiam the marvelous harmony and ordering of its parts and causes
+25 sapientiores Philosophi unum esse huius universi 25R teaches this most clearly. By this not only the holy Fathers
+auctorem, et gubernatorem, qui in finem a se inten- but also the wiser philosophers understood that there is
+tum omnia constituit et ordinavit, intellexerunt, ut one author and governor of this universe who sets up and
+latius infra tractabimus demonstrando Deum esse, orders all things according to the end intended by himself.
+Conimbricenses. et multa de hac re erudite et breviter indicarunt We will discuss this more thoroughly below in demonstrating
+30 Conimbricenses, lib. 2. Physicorum cap. 9, q. 1. 30R that God exists, and the Coimbra [commentators] pointed The Coimbra
+commentators.	out many things concerning this matter with brevity and
+erudition in Phys. II, c. 9, q. 1.
+3. Solum ergo hic inquirimus de actionibus nat- 3. Therefore, we inquire here only concerning the ac-
+uralium causarum, sive illae sint om- <col. b> nino tions of natural causes that are either entirely particular like
+particulares, ut ignis, plantae, etc., sive aliquo modo 35R fire, plants, and so on or that are in some way universal like
+universales, ut caeli. De quibus praeterea certum the heavens. In addition, it is clear and certain concerning
+35 et clarum est, non casu aut contingenter certas ac- these that certain actions are done not by chance or contin-
+tiones operari, sed unumquodque agens naturale ex gently but that each natural agent has by the propensity of
+
+-- 2 of 11 --
+
+Suárez, DM XXIII, sect. 10 3
+propensione propriae naturae habere definitam oper- its proper nature a definite action and way of acting and a
+ationem, et operandi modum, ac certum terminum, 40R fixed terminus to which it tends through its action. This is
+in quem per suam operationem tendit. Quod etiam also evident from experience, for a stone is always brought
+40 est evidens experientia, nam lapis sua motu natu- downwards by its natural motion, fire always heats, from
+rali semper fertur deorsum, ignis semper calefacit; different seeds different living things are begotten, and some
+ex diversis seminibus diversa viventia procreantur, powers and organs are fixed for this function but others for
+et aliae potentiae et organa ad hoc munus, aliae 45R another function. And individual things have in proportion
+vero ad alia destinatae sunt, et eam formam, situm, that form, position, and all the remaining things necessary
+45 et reliqua omnia ad operandum necessaria in ea for acting which are necessary for such actions or effects.
+proportione habent res singulae, quae ad tales ac- This may be seen in all natural things but especially in living
+tiones vel effectus necessaria sunt. Quod in omnibus things and in animals.
+rebus naturalibus, et praesertim in viventibus, et 50R And this was necessary for the agreeable composition
+animalibus videre licet. Fuitque hoc necessarium ad and governance of the universe itself, for it is composed of
+50 convenientem ipsius universi compositionem et gu- various things and contraries which exercise various and
+bernationem, nam cum ex variis rebus et contrariis sometimes even contrary actions. If they were not all set up
+constet, quae varias etiam, et interdum contrarias in such a way that each individual attended to its functions
+actiones exercent, si non essent omnia ita consti- 55R in an orderly way, there would be the greatest confusion
+tuta, ut singula ordinate sua munera obirent, in in the universe itself and the things themselves could not
+55 ipso universo summa confusio esset, et res ipsae be conserved at all. But so that this kind of harmony and See
+Lactantius, De
+Opificio Dei,
+and
+St. Thomas,
+SCG III, from
+c. 2.
+Vide
+Lactantium,
+lib. De opificio
+Dei, et
+D. Thomam 3.
+Summae
+contra Gentiles
+a cap. 2.
+minime conservari possent. Ut autem huiusmodi order can arise from so many things, it was necessary that
+concentus et ordo ex tot rebus consurgere posset, individual things tend to definite ends or termini by their
+necessarium fuit res singulas in destinatos fines seu 60R actions. From this the good of the whole universe arises.
+terminos suis actionibus tendere, ex quibus totius Also, we see by this reasoning that natural motions are
+60 universi bonum consurgeret. Item, hac ratione vide- carried out regularly in the same way and that they only
+mus naturales motus regulariter eodem modo perfici, rarely fail (and this not apart from the occurrence of some
+raroque deficere, idque non absque aliquo extrinseco extrinsic impediment). Likewise, natural things manage
+impedimento occurrente. Item, in suis operibus ita 65R themselves in their action in such a way as is expedient for
+se gerunt res naturales sicut expedit ut ad connatu- them to arrive at their connatural terminus, which terminus
+65 ralem terminum perveniant, quo termino consecuto having been achieved they cease from acting. Therefore, all
+cessant ab operando. Haec ergo omnia sunt mani- these things are manifest signs that these natural agents
+festa signa, haec agentia naturalia operari non casu act not by chance and blindly, but by tending in a defined
+ac temere, sed definito modo tendendo in certum 70R way to some fixed target.
+aliquem scopum.
+70	Reiecto errore
+in quo sita
+difficultas.
+4. Iam vero solum superest quaestio (quae ex 4. But now there remains only the question (which it I reject the
+error in which
+the difficulty is
+located.
+parte videtur pertinere posse ad loquendi modum) seems might in part only pertain to a manner of speaking)
+an ratione huius determinationis dicenda sint haec whether by reason of these determinations these agents
+agentia agere propter finem, et (quod ad nos magis should be said to act for the sake of the end and (what is
+55 confusio esset ] esset confusio V.
+
+-- 3 of 11 --
+
+Suárez, DM XXIII, sect. 10 4
+spectat) an eorum actiones dici possint proprie 75R more relevant to us) whether their actions can properly be
+75 causatae a finali causa. Aliqui enim simpliciter ne- said to have been caused by a final cause. For some simply
+gant utrumque loquendi modum, quia ipsa agen- deny either way of speaking because the agents themselves
+tia non moventur a fine, in quo proprie causalitas are not moved by an end, which is what the causality of
+<887> finis consistit. Item finis respectu harum the end properly consists of. Also, the end does not stand
+actionum non se habet ut principium, sed tantum 80R as a principle with respect to these actions, but only as a
+80 ut terminus: locus enim deorsum respectu lapidis terminus. For the place below with respect to a stone is not
+non est principium motus quo descendit, sed tan- the principle of motion by which it descends but only its
+tum terminus: finis autem, ut saepe diximus, ut terminus. The end, however, as we have often said, is not
+habet solum rationem termini non est causa, sed a cause insofar as it has only the nature of a terminus, but
+ut aliquo modo est principium. Alii vero simpliciter 85R [only insofar] as it is a principle in some way. But others
+85 putant admittendas esse illas locutiones, quia Aris- simply think that these locutions should be granted, since
+toteles absolute ait agentia naturalia operari propter Aristotle unreservedly says that natural agents act for the
+finem, et formam dicit esse finem naturalis gener- sake of an end and says that form is the end of natural
+ationis, et significat esse proprie causam finalem. generation and indicates that it is properly a final cause.
+Item quia natura summo artificio, et industria has 90R Also, because nature seems to exercise these actions with
+90 suas operationes exercere videtur, per media valde the utmost skill and industry through means that are very
+proportionata fini. proportionate to the end.
+Resolutio de causalitate finis in agentibus mere nat- The resolution concerning the causality of the end in merely
+uralibus. natural agents.
+5. Nihilominus proprius modus loquendi in hac ma- 5. Nevertheless, the more proper way of speaking in this
+teria est, actiones horum agentium naturalium esse matter is that the actions of these natural agents are for
+propter finem, et esse effecta causae finalis. Non the sake of an end and are effects of a final cause, yet not
+tamen ut praecise egrediuntur ab ipsis naturalibus precisely as coming out of the natural agents themselves
+5 agentibus, sed ut simul sunt a primo agente, quod 5R but as being at the same time from the first agent who acts
+in omnibus et per omnia operatur. Vel e converso in all things and through all things.3 Or, conversely (and
+(et fere in idem redit) prout ipsa proxima agentia perhaps it amounts to the same thing), as the proximate
+substant directioni et intentioni superioris agentis. agents themselves stand under the direction and intention
+Et ideo ipsa agentia naturalia non tam dicuntur of a superior agent. And for that reason natural agents
+10 operari propter finem, quam dirigi in finem a supe- 10R themselves are not so much said to act for the sake of an
+riori agente. Ita explicarunt rem hanc sapientiores end as to be directed to an end by a superior agent. This
+D. Thomas.
+Simplicius.
+Theologi et Philosophi, D. Thomas 1 p. q. 103. art. is the way in which the wiser theologians and philosophers
+1. et 3. Summae contra Gentiles cap. [24]. ubi uti- explain this matter. St. Thomas [explains it in this way] St. Thomas.
+tur communi exemplo de sagitta, quae in certum in I, q. 103, art. 1, and SCG III, c. 24, where he uses the
+3Cf. DM 24.2.14.
+13 24 ] 25 A V.
+
+-- 4 of 11 --
+
+Suárez, DM XXIII, sect. 10 5
+15 scopum tendit, non tamen in illum se dirigit, sed a 15R example of an arrow which tends to a fixed target yet does
+iaculante dirigitur. Idem Albertus in 2. Physicorum not direct itself to it but is directed by the shooter. Likewise,
+cap. 2. et ibi alii Philosophi, et Simplicius text. 78. Albertus [Magnus] in Phys. II, c. 2, and other philosophers
+sumiturque ex Aristotele ibi, et 1. De caelo cap. 4. in the same place and Simplicius in text. 78. And it is taken Simplicius.
+text. 32. ubi dum coniungit Deum et naturam, di- from Aristotle here and in De caelo I, c. 4, text. 32, where,
+20 cens, nihil facere frustra, satis indicat naturam in 20R provided that he conjoins God and nature, he indicates
+agendo propter finem subordinari Deo. Et eodem sufficiently that nature in acting for the sake of an end is
+modo lib. 2. De partibus animalium cap. 13. ait, nat- subordinated to God when he says that nothing is done
+uram nihil agere frustra, et ibidem ait naturam velle in vain. And in the same way he says in De part. an. II,
+hoc vel illud propter finem: quod non potest intelligi c. 13, that nature does nothing in vain. And in that very
+25 de natura, nisi propter auctorem suum. Et eodem 25R place he says that nature wills this or that for the sake of
+sensu ait 4. De generatione animalium cap. 2. Om- an end, which cannot be understood of nature unless on
+nia, quae natura, vel arte fiunt, ratione aliqua sunt. account of its author. And in the same sense he says in De
+Et hinc etiam manavit illud tritum axioma, Opus gen. an. IV, c. 2: ‘All things which are done by nature or
+naturae esse opus intelligentiae, ut est apud Aver- art are for some reason.’ And from here flows that familiar
+30	Averroes.
+Themistius.
+Hippocrates.
+Galenus.
+roem 12. Metaphysicae comm. 18. et Themistium 1. 30R axiom ‘the work of nature is the work of intelligence’ as it
+Physicae text. 81. et 1. De anima text. 23. Denique is in Averroes, Metaph. XII, com. 18, and in Themistius, Averroes.
+Themistius.
+Hippocrates.
+Galen.
+ideo Hippocrates, quem <col. b> imitatur Galenus Phys. I, text. 81, and De anim. I, text. 23. Finally, for this
+lib. 1. De usu part. naturalia agentia, docta et in- reason Hippocrates in De usu part. I, whom Galen imitates,
+docta vocat, indocta in se, docta in directione primae calls natural agents trained and untrained, untrained in
+35 causae. 35R themselves, [but] trained in the direction of the first cause.
+6. Atque ita fit ut in his actionibus, ut sunt a 6. And thus it happens that there is no proper final
+naturalibus agentibus, non sit propria causalitas causality in these actions insofar as they are from natural
+finalis, sed solum habitudo ad certum terminum: ut agents but only a disposition to a fixed terminus. But insofar
+vero sunt a Deo, ita sit in illis causalitas finalis, si- as they are from God, there is final causality in them just
+40 cut in aliis externis et transeuntibus actionibus Dei. 40R as in God’s other external and transeunt actions. For the
+Adaequatum enim principium harum actionum non adequate principle of these actions is not only the proximate
+est solum proximum agens naturale, nisi forte se- natural agent, except perhaps with qualification, namely,
+cundum quid, scilicet in tali ordine; tamen absolute in such and such an order. Still, without qualification
+praecipuum est prima causa: ideoque in adaequato there is in particular the first cause. And therefore an
+45 principio talium actionum includitur intellectualis 45R intellectual cause intending their end is included in the
+causa intendens finem earum. adequate principle of such actions.
+Cur res
+naturales
+diversis dispo-
+sitionibus
+affectae.
+7. Unde ulterius recte concludit Aristoteles, pri- 7. Hence, Aristotle rightly concludes further that the Why natural
+things are
+affected by
+different
+dispositions.
+mam radicem ob quam res naturales habent has first root on account of which natural things have these dis-
+dispositiones, vel haec organa, aut has partes, et positions or these organs or these parts and similar things
+50 similia, non esse sumendam ex sola materia, sed ex 50R should not be taken from matter alone but from an end. For
+fine. Nam si materia sumatur secundum se, indiffer- if matter is taken according to itself, it is indifferent and has
+ens est, et nullam habet necessitatem harum disposi- no necessity for these dispositions or properties. But if it is
+
+-- 5 of 11 --
+
+Suárez, DM XXIII, sect. 10 6
+tionum seu proprietatum: si vero supponatur ut iam supposed as already affected by these or those disposition,
+affecta his vel illis dispositionibus, iam illae intro- then these having been introduced are for the sake of some
+55 ductae sunt propter aliquem finem seu formam, et 55R end or form and the form itself requires these for the sake
+ipsa forma indiget illis propter suam conservationem, of its conservation or for the sake of some action. But the
+vel propter aliquam operationem: ipsa vero operatio action itself is in turn either for the sake of the conservation
+rursus est vel propter conservationem speciei aut of the species or of the individual itself or at least for the
+ipsiusmet individui, aut saltem propter communica- sake of the communication of its perfections. For there
+60 tionem suae perfectiones; in his enim naturalibus 60R are no actions which themselves are ends in these natural
+agentibus non sunt operationes, quae ipsaemet sint agents, for that is proper to intellectual things. And thus ev-
+fines; hoc enim proprium est intellectualium rerum. ery connection and connatural necessity which is per se in
+Atque ita omnis connexio et necessitas connaturalis, these natural things is taken from the order to an end. Nor
+quae per se est in his rebus naturalibus, sumitur is it an objection that natural properties necessarily agree
+65 ex ordine ad finem. Neque obstat quod naturales 65R on account of the intrinsic dimanation of the form, since
+proprietates necessario conveniant propter intrin- one disposition is not repugnant to another but they have
+secam dimanationem a forma, quia una habitudo a mutual subordination. For that necessary dimanation is
+non repugnat alteri, sed habent inter se subordina- reduced to the efficient cause which is subordinate to the
+tionem, nam illa necessaria dimanatio reducitur ad final [cause]. For nature gave the power of such a form in
+70 efficientem causam, quae subordinata est finali: ideo 70R order that such properties would dimanate from it, because
+enim natura dedit tali formae vim ut ab ea dimanar- these are appropriate to the end for the sake of which the
+ent tales proprietates, quia illae sunt accommodatae thing exists which is constituted through such a form. Thus
+ad finem propter quem est res quae per talem for- for this reason the concursus of a final cause is found in the
+mam constituitur. Sic igitur tam in constitutione et constitution and formation of these things as in the action
+75 formatione harum rerum, quam in earum actione 75R of them. But the proper intention of such an end is not in
+reperitur concursus finalis causae: intentio autem the natural agents themselves but in the first cause.
+propria talis finis non est in ipsis naturalibus agen-
+tibus, sed in prima causa.
+Quae
+necessitas
+asserendi
+connexionem
+rerum
+naturalium et
+directionem in
+finem.
+Aristoteles.
+8. <888>Sed videri potest alicui sine causa 8. But it can seem to someone that this mode of acting This necessity
+in asserting a
+connection
+between
+natural things
+and a
+direction to
+the end.
+80 confictus hic modus agendi propter finem, esseque for the sake of the end was fabricated without cause and is
+praeter Aristotelis intentionem. Nam imprimis Aris- contrary to the intention of Aristotle. For, in the first place,
+toteles in 12. Metaphysicae videtur sentire Deum 80R Aristotle in Metaph. XII seems to think that God does not rec-
+haec inferiora non agnoscere, nedum curare illa: ognize these lower things, much less care about them. And
+et in lib. De mundo ad Alexandrum significat, non in Lib. de mundo ad Alex. he indicates that those who think
+85 recte sentire de Deo qui putant Deum in curandis God is occupied in cares about these lower actions do not
+his inferioribus actionibus occupari. Deinde si per think rightly concerning God. Next, if, per impossibile, God
+impossibile Deus non concurreret ad actiones agen- 85R were not to concur with the actions of natural agents but
+tium naturalium, sed eas independenter suos motus were to permit them to conduct their motions independently,
+agere sineret, nihilominus lapis descenderet deor- a stone would still descend downwards, fire would still beget
+90 sum, ignis generaret sibi simile, et sic de caeteris: what is similar to itself, and so on for the remaining things.
+
+-- 6 of 11 --
+
+Suárez, DM XXIII, sect. 10 7
+non est ergo haec finalis causalitas, sed mera nat- Therefore, there is none of this final causality but mere natu-
+uralis necessitas. Et confirmatur, nam si agentia 90R ral necessity. And it is confirmed: for if natural agents acted
+naturalia agerent ex intentione divina, nunquam according to divine intention, they would never err in their
+errarent in suis actionibus, nec deficerent a con- actions nor fail to reach their termini. [But] the consequence
+95 sequendis terminis earum: consequens est contra is contrary to experience, since monsters—which are called
+experientiam, cum saepe generentur monstra, quae sins of nature—are often generated. That the consequence
+peccata naturae appellantur. Sequela patet, quia 95R would follow is clear, because divine intention cannot be
+divina intentio nec frustrari potest, nec errare. frustrated and cannot err.
+9. Respondetur, de Aristotelis mente iam satis 9. It is responded: concerning the mind of Aristotle it
+100 ex dictis constat, latiusque infra ostendemus ex eius is already clear enough from what was said. And we will
+sententia, habere Deum scientiam et providentiam show more thoroughly below that according to his view God
+harum rerum singularium et inferiorum: quod non 100R has knowledge and providence of these singular and lower
+obscure indicat infra lib. 12. in fine, dum totum uni- things. He indicates this not obscurely later in book XII
+versum subiicit Deo tamquam supremo principi et at the end provided that the whole universe is subject to
+105 duci. Ad primam vero rationem respondetur primo, God as to a supreme prince and guide. But to the first
+ex illa hypothesi impossibili sequi, naturam ordi- argument it is responded, first, that from that impossible
+natissime operari tendendo in finem, sine ulla direc- 105R hypothesis it follows that nature acts most ordinately by
+tione vel intentione finis, quod per se est satis absur- tending to an end without any direction or intention of an
+dum. Etenim eodem modo posset quis argumentari, end. This is absurd enough in itself.4 And indeed in the
+110 quod licet hic mundus non esset ab alio conditus, si same way someone could argue that, even if this world were
+ex se ita esset sicut nunc est, habere convenientissi- not created by another, if out of itself it would be then just as
+mum ordinem sine causalitate finis. Hoc tamen non 110R it is now, it has a most agreeable order without the causality
+obstat quominus de facto, sicut non potest esse nisi of an end. Nevertheless, this is no objection to the fact that
+causatus, ita non potest esse nisi causatus a fine. just as it cannot be except if it was caused, so it cannot be
+115 Ita ergo dicimus, motus et actiones rerum natural- except if it was caused by an end. So therefore we say that
+ium, sicut non possunt esse sine concursu alicuius the motions and actions of natural things cannot be without
+intellectualis agentis, ita non posse esse sine causali- 115R the causality of an end just as they cannot be without the
+tate finis. Addo deinde, quod si per impossibile Deus concursus of some intellectual agent. I add, next, that if, per
+per se et immediate non concurreret ad omnes ac- impossibile, God were not to concur per se and immediately
+120 tiones agentium naturalium, nihilominus mediate with all the actions of natural agents, they ought still to be
+dici deberent ordinatae in finem ab auctore natu- called mediately ordered to an end by the author of nature
+rae, qui et naturalibus agentibus dedit tales virtutes 120R who also gives to natural agents such strength for the sake
+propter tales actiones, et ipsas actiones esse voluit of such actions and who wills such actions to be for the sake
+propter certos fines, et generatim propter bonum et of fixed ends and for the sake of the good and conservation
+125 conservationem universi.<col./ b> of the universe generally.
+Multi in
+natura
+effectus
+quorum nulla
+reddi potest
+sufficiens
+causa, praeter
+finem
+intentum a
+prima causa.
+10. Unde tandem addo, plures esse motus, 10. Whence, finally, I add that there are many motions The many
+effects in
+nature of
+which no
+sufficient
+cause can be
+given beyond
+the end
+intended by
+the first cause.
+vel actiones in his rebus naturalibus, quarum non 125R or actions in these natural things for which no sufficient
+4Cf. DM 29.3.29.
+
+-- 7 of 11 --
+
+Suárez, DM XXIII, sect. 10 8
+potest sufficiens ratio reddi ex privatis proprietat- reason can be given from the private properties or inclina-
+ibus vel inclinationibus singularum rerum: aqua tions of the individual things. For water ascends up again to
+130 enim sursum ascendit ad replendum vacuum, cuius fill the vacuum, the reason for which cannot be given from
+ratio ex peculiari aquae natura ac proprio impetu the specific nature of water and its proper impetus. But [it
+reddi non potest, sed ex fine, qui in perfectione totius 130R can be given] according to the end which is placed in the
+universi sit positus, quem oportet ab alio superiori perfection of the whole universe, which must be intended
+agente intendi. Simile est de aqua maris, quae ita in by another superior agent. It is similar with the water of the
+135 littore continet impetum, et tumentes fluctus suos, sea which contains the water’s driving force and swelling
+ut terram nunquam cooperiat; utique propter mix- waves at the shoreline in such a way that it never covers up
+torum et viventium salutem, quem finem intendit 135R the earth. This is certainly for the sake of the well-being of
+supremus naturae gubernator. Ex his ergo intel- mixed and living things, which end the supreme governor
+ligimus, quando hae res naturales moventur vel op- of nature intends. From these things, therefore, we un-
+140 erantur iuxta proprias et peculiares inclinationes derstand that when these natural things are moved or act
+suas, cum per illas etiam deserviant commodis et according to their proper and special inclinations, in them
+conservationi totius universi, et suarum specierum, 140R they also act according to the direction of an end through
+vel etiam individuorum, et praecipue hominis, in eis subordination to a superior agent, since through those they
+etiam operari ex directione in finem, per subordina- also serve the advantages and the conservation of the whole
+145 tionem ad superius agens. universe and its species, and even of individuals, especially
+of humans.
+Lege
+Aristotelem lib.
+2. Physicae
+cap. 8. et 2. De
+anima cap. 4.
+et 1. Politicae
+cap. 5.
+Aristoteles.
+11. Ad confirmationem respondetur simpliciter 145R 11. To the confirmation is responded by simply denying Read Aristotle,
+Phys. II, c. 8,
+and DA II, c. 4,
+and Polit. I,
+c. 5. Aristotle.
+negando sequelam: quin potius Aristoteles 2. Physi- the consequence. Rather, Aristotle confirms in Phys. II,
+cae text. 82. inde confirmat haec agentia naturalia text. 82, that these natural agents act for the sake of an end,
+agere propter finem, quia sicut ars intendens finem, because just as an art intending an end sometimes does not
+150 interdum illum non assequitur, ita in actionibus nat- achieve its end, so also in the actions of nature in the case
+urae, eo quod certum finem intendant, inde sequi 150R where they intend a certain end, monsters or sins of nature
+monstra seu peccata naturae, quia non semper pos- follow thereupon because as a result of an impediment that
+sunt finem suum assequi propter impedimentum occurs they cannot always achieve their end. Otherwise,
+occurrens. Alioqui, si natura non tenderet in cer- if nature did not tend to a fixed end, there would be no
+155 tum finem, nulla essent monstra in natura, quia monsters in nature because it would no more deviate from
+non magis aberraret ab scopo, efficiendo monstrum, 155R the target when effecting a monster than when effecting
+quam efficiendo quodlibet aliud: nam monstrum pro- anything else. For a monster properly is a vice of nature
+prie est vitium naturae a fine suo deficientis. Quod falling short from its end. But what was objected concerning
+vero obiiciebatur de intentione auctoris naturae, nil the intention of the author of nature is no objection at all
+160 obstat, quia illa intentio non semper est absoluta because that intention is not always absolute and efficacious
+et efficax, seu (ut Theologorum more loquamur) per 160R or, to speak in the manner of theologians, not through the
+voluntatem beneplaciti, vel consequentem, sed per consequent will or the will of good pleasure but through the
+voluntatem generalem, vel antecedentem: quae est general or antecedent will, which is, as it were, a conditioned
+quasi conditionata intentio, quae in hoc consistit, intention that consists in this: that God will a perfect effect
+
+-- 8 of 11 --
+
+Suárez, DM XXIII, sect. 10 9
+165 quod Deus vult effectum perfectum sequi, quantum to follow insofar as it can follow according to the order of
+iuxta ordinem naturalium causarum sequi potuerit, 165R natural causes since he wills to concur with these insofar
+cum quibus quantum in ipso est, vult concurrere. as he is concerned. But at the same time he either permits
+Simul autem vel permittit, vel etiam interdum vult, or sometimes even wills and intends monsters or sins of
+et intendit monstra vel pec- <889> cata naturae, vel nature, either for the sake of the beauty and variety of the
+170 propter universi pulchritudinem et varietatem, vel ut universe or in order to permit natural causes to conduct
+causas naturales suos motus et cursus agere sinat. 170R their motions and courses. And for this reason he neither
+Et ideo neque cum causa impedita ab alia extraordi- wills to concur with an impeded cause in some extraordinary
+nario modo vult concurrere, neque etiam impedien- way nor even to remove the impeding cause by special care
+tem causam peculiari cura aut providentia removere, or providence, regularly speaking, although he sometimes
+175 regulariter loquendo, quamvis ob commune bonum effects it on account of the common good, concerning which
+interdum id efficiat, de quo latius Theologi partim 175R the theologians [speak] more thoroughly in I, dist. 45, and
+D. Thomas.
+Augustinus.
+in 1. dist. 45. partim in 2. dist. 37. et D. Thomas in II, dist. 37, as well as St. Thomas in I, q. 22 and q. 105.
+1. q. 22. et q. 105. et legi potest Augustinus 16. De Augustine can also be read: De civ. Dei XVI, c. 8, and De Augustine.
+civitate Dei cap. 8. et Liber 83 quaestionum, q. 24. div. quaest. octoginta tribus, q. 24.
+Quomodo bruta animalia propter finem operentur. In what way brute animals act on account of an end.
+12. Superest ut de Brutis animantibus pauca dica- 12. It remains for us to say a little about brute animals, for
+mus, in eis enim maior quaedam apparet participa- in these there appears a certain greater participation in final
+tio causalitatis finalis. Primo quidem, quia a bono causality. First, indeed, because they are metaphorically
+sibi conveniente et cognito, metaphorice alliciuntur, drawn by a good that is agreeable to them and cognized, and
+5 atque ita in illud tendunt per actum a se elicitum, 5R thus they tend to it through an act elicited from themselves
+et ab illa motione metaphorica causatum: illa ergo and caused by that metaphorical motion. Therefore, that
+motio aliqua realis causalitas est, et non nisi finalis. motion is some real causality but not unless final. Next, in
+Deinde ut consequantur illud obiectum conveniens order to follow that agreeable object which they desired, they
+quod appetivere, certa media etiam a se cognita ap- also desire certain means cognized by themselves with such
+10 petunt tanta industria et prudentia, ut videantur 10R diligence and prudence that they clearly seem also to cognize
+plane et cognoscere utilitatem eorum ad finem, et their utility towards the end and to desire them for its sake.
+Lege Plinii, lib.
+6. suæ
+Historiae.
+Plutarch in
+proprio lib. De
+Industria
+animalium.
+Porphyrus.
+Aristoteles.
+propter illam ea appetere. De qua sagacitate et in- Many philosophers write5 about this sagacity and diligence Read Pliny’s
+History, book
+6; Plutarch in
+his own book
+De industria
+animalium.
+Porphyry.
+dustria animalium, et multa scribunt Philosophi, et of animals and it is obvious enough to us from our daily
+quotidiana experientia nobis satis constat. Quae experience. This is why some philosophers were moved
+15 adeo moverunt nonnullos Philosophos, ut existimar- 15R to think that brute animals use reason, although more
+ent bruta uti ratione, licet imbecilliori et imperfectiori feebly and imperfectly than humans. This view is usually
+quam homines. Quae sententia referri solet ex Por- attributed to Porphyry, De abstinentia III. Nevertheless, it
+phyrio lib. 3. De abstinentia. Est tamen non solum is not only alien to the doctrine of our faith, but in truth
+5First name in marginal note difficult to make out in original, so I’m not sure that it is ‘Plinii’. Book 8 of his Naturalis Historia would make sense,
+though it is not as clear that book 6 makes sense.
+
+-- 9 of 11 --
+
+Suárez, DM XXIII, sect. 10 10
+a doctrina nostrae fidei aliena, verum etiam ab omni also to all reason and to humans’ common sense. For
+20 ratione et communi hominum sensu, nam poten- 20R rational power, as Aristotle said in Metaph. IX, is a power for Aristotle.
+tia rationalis, ut Aristoteles dixit 9. Metaphysicae opposites, for in the middle of thinking about things to be
+valens est ad opposita, nam medio discursu in rebus done it now uses this means and then another. But beasts
+agendis nunc hoc medio, postea alio utitur: belluae do not act in this way, but always in the same way. This is
+autem non ita operantur, sed semper eodem modo: a sufficient sign that they are led not by reason but by the
+25 quod sufficiens signum est non ratione, sed impetu 25R impulse of nature. Add that, if the souls of brute animals
+naturae duci. Adde, quod si animae brutorum ratio- were rational, they they would also be immortal.
+nales essent, etiam essent immortales.
+Bruta nihil
+vere
+cognoscere,
+aut vitaliter
+appetere,
+absurdum.
+13. Alii vero, ut hoc vitarent incommodum, in 13. But others, in order to avoid this disadvantage,
+alium extremum errorem inciderunt, negantes bruta fell into the error of the other extreme, denying that any [The view] that
+it is absurd
+that brute
+animals truly
+cognize or
+vitally desire.
+30 quidquam <col. b> vere cognoscere aut appetere brute animals truly cognize or desire by an elicited appetite,
+appetitu elicito, sed solum naturali pondere ferri, 30R [saying] instead that they are only carried off by a natural
+ut lapidem, aut extrinsecus mota et attracta, sicut weight as a stone is or by something extrinsic having moved
+ferrum trahitur a magnete. Verum hoc aeque absur- or attracted [them] as iron is drawn by a magnet. But this
+dum est, et contra evidentem experientiam, immo truly is equally absurd and contrary to obvious experience
+35 et contra divinam Scripturam. Verumtamen contra and, indeed, contrary to divine Scripture. Nevertheless,
+hos duos errores in scientia de anima agendum est 35R more time should be spent against these two errors in the
+latius. science of the soul.
+Bruta
+rationem finis
+formaliter non
+norunt.
+14. Quod ergo ad praesens attinet, dicendum 14. Regarding what matters for the present, therefore, it
+est bruta non cognoscere formaliter rationem finis should be said that brute animals do not formally cognize Brute animals
+do not
+formally know
+the concept of
+the end.
+40 aut medii, quia non possunt unum cum alio con- the concept of the end or of means, since they cannot relate
+ferre: unde nec in ipso fine cognoscunt propriam 40R one to the other. Hence, they also cannot cognize in the
+rationem convenientiae propter quam est per se am- end itself the proper aspect of agreeability for the sake of
+abilis, immo nec discernunt inter obiectum quatenus which it is lovable in itself. Indeed, they also cannot distin-
+est conveniens per se, vel propter aliud, quia hoc to- guish between an object insofar as it is agreeable in itself
+45 tum magnam discretionem rationis requirit. Aliquo or for the sake of something else, because all this requires
+tamen modo cognoscunt et apprehendunt rem ali- 45R great discrimination of reason. Still, in another way they
+quam, aut motionem ut sibi convenientem: et natu- cognize and apprehend some thing or motion as agreeable
+rali instinctu iudicant sibi esse appetendum, prose- to themselves and judge by natural instinct that they ought
+Lege D.
+Thomam 1 p.
+q. 78. art. 4. et
+q. 87. art. 1.
+ad 3. et 2. 2. q.
+72. art. 1. ad 3.
+quendum, vel fugiendum tale obiectum. Qui natu- to desire, pursue, or flee such an object. This natural in-
+50 ralis instinctus nihil aliud est, quam quidam actus stinct is nothing other than a certain act of imagination or Read
+St. Thomas,
+Ia.78.4,
+Ia.87.1 ad 3,
+and
+IIaIIæ.72.1 ad
+3.
+phantasiae seu aestimativae, necessitate naturali ab 50R the estimative power flowing by a natural necessity from
+illa profluens posito phantasmate talis rei: quo actu that posited phantasm of such a thing. By this act a brute
+practice (ut humano modo loquar) iudicat brutum animal practically (to speak in a human way) judges that
+hoc esse sibi vitandum, vel prosequendum aut appe- this is to be avoided or to be pursued or to be desired, al-
+55 tendum, quamvis non valeat rationem convenientiae though it does not have the power to discern the concepts of
+vel disconvenientiae discernere. Hoc autem natu- 55R agreeability or disagreeability. Moreover, once this natural
+
+-- 10 of 11 --
+
+Suárez, DM XXIII, sect. 10 11
+rali iudicio posito, appetitus etiam naturaliter illud judgement is posited, desire naturally also follows it.
+sequitur.
+Bruta quam
+finis
+causalitatem
+participent.
+15. Ex quo fit primo ut causalitas finis aliquo 15. From this it happens, first, that brute animals in
+60 modo participetur a brutis, ut argumentum fac- some way participate in the causality of the end, as the How brute
+animals
+participate in
+the causality
+of the end.
+tum convincit, quia illa appetitio elicita sine dubio argument that was made establishes, since that elicited
+causatur ex metaphorica motione obiectiva boni con- 60R desire is without doubt caused by the objective metaphorical
+venientis, quae non potest ad aliud genus causal- motion of the agreeable good, which cannot be referred to
+itatis revocari. Nihilominus tamen addendum est another genus of causality. Nevertheless, it should still
+65 illam causalitatem adeo esse imperfectam in eo be added that this causality is for this reason imperfect in
+genere, ut sit quasi materialis motio finis potius that genus insofar as it is, as it were, a material motion of
+D. Thomas. quam formalis, ut significavit D. Thomas 1. 2. q. 1. 65R the end rather than formal, as St. Thomas indicated in [ST ]
+art. 2. et q. 6. art. 2. Et ratio est, quia non cognos- IaIIæ.1.2 and 6.2. And the reason is that they do not cognize St. Thomas.
+cunt formalem rationem convenientiae vel utilitatis: the formal aspects of agreeability or utility. Therefore, they
+70 ergo non ita moventur ut possint ordinare unum are not moved in such a way that they can order one to
+in aliud, nec etiam aliquid formaliter appetere ut another nor can they formally desire something as lovable
+propter se amabile: ergo non tendunt formaliter in 70R for its own sake. Therefore, they do not formally tend to
+finem ut finem, nec in me- <890> dium ut medium; an end as an end, to a means as a means, to an end for
+neque in finem propter se, et in medium propter its own sake, nor to a means for the sake of the end, but
+75 finem, sed quantum est suo modo operandi, aeque insofar as it is in its way of acting they tend equally to
+tendunt in utrumque; et ideo merito dicuntur mate- either and therefore are rightly said to act materially for
+rialiter potius, quam formaliter propter finem oper- 75R the sake of the end rather than formally. Wherefore, with
+ari. Quapropter quantum ad formalem relationem respect to a formal relation to the end, one should think
+in finem ita existimandum est de actionibus bruto- about the actions of brute animals just as one thinks about
+80 rum, sicut aliorum agentium naturalium. Idemque the other natural agents. And the judgement about the
+iudicium est de appetitu sensitivo hominis si per se sensitive appetite of human beings is the same if it is only
+solum consideretur, et non ut subest motioni volun- 80R considered in itself and not as subordinate to the motion of
+tatis vel rationis, de quo alias. will or reason. [More] about this elsewhere.
+
+-- 11 of 11 --

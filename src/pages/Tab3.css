@@ -161,14 +161,6 @@
 	margin-top: auto;
 }
 
-.pathway-example {
-	padding-top: 8px;
-	border-top: 1px solid rgba(96, 58, 28, 0.12);
-	color: #6a4b30;
-	font-size: 0.95rem;
-	margin-top: auto;
-}
-
 @media (max-width: 900px) {
 	.pathway-grid {
 		grid-template-columns: 1fr;

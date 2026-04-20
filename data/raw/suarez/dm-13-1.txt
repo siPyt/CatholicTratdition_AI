@@ -1,0 +1,415 @@
+Last revision: November 14, 2014
+Francisco Suárez, S. J.
+DM XIII.11
+© Sydney Penner 2014
+<395, col. a>2
+I pass over a general discussion of the material cause as ab-
+stracted from the cause of substance or the cause of accident,
+since the strongest ratio of this cause is discerned in prime mat-
+ter. And once it has been explained in that case, it will be easy
+to understand the remaining cases proportionately. Nor should
+there be any fear of censure from those who think that a treatise
+on prime matter in no way belongs to metaphysics but only to
+physics. For it was already shown in earlier disputations, espe-
+cially in the introductory one, that many aspects of this work are
+relevant to metaphysics. For, although physics deals with matter
+under its proper and special character, insofar as it is a principle
+of natural generation and is a cause <col. b> or part of natural
+being, metaphysics, nevertheless, in considering the general ratio
+of material cause, which is proper to it, necessarily deals with
+the first cause of that genus, which is prime matter.3 Also, when
+dealing with the essence of substance, one necessarily discusses
+matter, insofar as it is a part of the essence, as we will see below
+when talking about material substance. Therefore, in this place
+we treat matter under this consideration. And since the ratio
+of causing cannot be understood without first understanding
+material entity, we will first investigate whether there is matter,
+then what sort of being it is and what its essence is, then what
+its properties are, and then finally its causality.
+SECTION I.
+Whether it is evident to natural reason that there is given in beings
+a material cause of substances, which we name prime matter.
+1Translation is based on the 1597 edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for
+ease of reference, given that it is the most widely used edition.
+3For the sake of readability, I have translated the Latin ‘primus’ with both
+‘prime’ and ‘first’, but note that a connection that is evident in the Latin text is
+lost this way. In this sentence, for example, the Latin expressions translated
+as ‘first cause’ and ‘prime matter’ are ‘prima causa’ and ‘materia prima’.
+
+-- 1 of 9 --
+
+Suárez, DM XIII.1 2
+1. Because prime matter includes two aspects, it is necessary A taxonomy of the
+different kinds of
+matter.
+before doing anything else to explain the signification of this
+expression with respect to both parts. Matter, then, is usually
+divided into the matter from which (ex qua), the matter in which
+(in qua),4 and the matter concerning which (circa quam). This
+division can be explained in different ways. In the first way it is
+not a division of things or of matters but rather of the respects
+or the functions of the same matter. For the same matter is
+called that from which either with respect to the composite that
+is constituted from it or with respect to the form that is educed
+from it. Hence, in the former respect the body of a human being
+is the matter from which, but not in the latter respect, since
+the form of a human being is not educed from the potency of
+the matter. Hence, with respect to such a form it is called the
+matter in which the form is introduced in such a way that that
+‘in which’ is said with respect to union rather than with respect
+to eduction. That ‘in which’ can also be taken abstractly so that
+it includes a disposition (habitudo) to the form as inhering in
+the matter. But with respect to the agent the same matter is
+called that concerning which the agent operates. According to
+this interpretation of the terms, therefore, no member [of the
+division] can be excluded from the present consideration. For
+we are dealing with matter according to itself or as it includes
+all those dispositions (habitudines) in its adequate concept. But
+whether they pertain to different causalities and are distinct ex
+natura rei we will see later.
+In another way, matter concerning which is customarily taken
+as distinguished from matter from which and in which according
+to real union and inherence. In this way it properly expresses
+a respect to the agent by an immanent action and it is nothing
+other than the object concerning which such an agent turns. This
+signification of matter is metaphorical <396> and of no relevance
+at present, since that as such does not exercise material causality
+or either efficient or final causality, as we mentioned above. This
+discussion, therefore, is not about objective matter but about
+subjective matter.
+4It is sometimes suggested that ‘materia in qua’ should be translated with
+‘matter of which’ rather than ‘matter in which’ (e.g., by Gyula Klima in his
+translation of Thomas Aquinas’s On the Principles of Nature). The thought
+is that the difference between materia ex qua and materia in qua is between
+transient and enduring matter. In the case of Suárez, at least, the distinction
+between transient and enduring matter is seen as one to be made within
+materia ex qua. See n. 2.
+
+-- 2 of 9 --
+
+Suárez, DM XIII.1 3
+2. In turn, matter from which is customarily divided into
+transient and enduring matter. Wood, for example, is in the
+former way called the matter from which fire comes to be. In
+that signification that expression ‘from which’ designates not only
+the disposition (habitudo) of a material cause but also includes
+the disposition (habitudo) of a terminus a quo. From this part
+that signification in no way pertains to the present disputation.
+Enduring matter, however, is a proper and internal material
+cause, which endures in the composite or in the terminus of
+generation, joining together in its way for the constitution of that
+composite.
+Finally, matter is customarily divided into metaphysical and
+physical matter. Metaphysical matter is the genus in relation to
+differentia. But that appellation is only through analogy and pro-
+portion to physical matter, which is matter properly and strictly
+speaking and which is what we are discussing here. With respect
+to metaphysical matter, beyond the things which we already said
+above when talking about universal unity,5 we add some things in
+the last section of Disputation 15 when discussing metaphysical
+form.6
+3. But matter can be called prime both by negation of prior
+[matter] and by relation to secondary [matter]. Since, therefore,
+matter expresses the ratio of a subject, that is called prime which
+presupposes no prior subject. In this way Aristotle in Physics
+I.9 defined matter to be ‘the first subject from which something
+comes to be’. But that is called secondary matter which presup-
+poses a prior subject. And thus many call a substantial composite
+secondary matter with respect to its accidents, since it is a sub-
+ject of accidents in such a way that it stands on a former subject.
+For a similar reason those who admit multiple substantial forms
+in the same supposit, call the composite of matter and corporeal
+form, for example, the secondary matter of the soul. Matter that
+has been disposed or affected by accidental dispositions is often
+also called secondary matter, not because the composite itself
+of the matter and accidents is the subject in which the form
+is received but only because the reception of such dispositions
+precedes in the order of nature and establishes the matter as
+proximately fit for such a form. For this reason such matter is
+properly called proximate matter. But Aristotle in Metaphysics
+VIII, text. 11, calls proper or proximate matter transient matter
+5DM 6.
+6DM 15.11.
+
+-- 3 of 9 --
+
+Suárez, DM XIII.1 4
+that is suitable for the generation of the thing, as wine is the mat-
+ter of vinegar. Concerning this matter, the Commentator says in
+Physics II, <col. b> comm. 31, that it is the matter of alteration,
+not of composition. Thus every secondary matter presupposes
+prime matter and adds some form or disposition.
+The resolution of the question.
+4. And from this it is clear that if we are speaking in general and, Prime matter is
+inferred from the
+necessity of a first
+subject in any change.
+as it were, formally about prime matter—that is, about the first
+subject of changes or of forms—by abstracting from the question
+what kind of this such a subject is or what kind of form is received
+in it, then it is just as evident that there is prime matter as it is
+evident that in things there are changes to different forms. For
+every change presupposes some subject, as was shown above
+and as is clear from experience. Therefore, either that subject
+presupposes another or it does not. If it does not presuppose
+another, then it is prime matter, and the intended result is had.
+But if it presupposes another subject, then I will ask [the same
+question] about it. But it is evident that this cannot proceed
+to infinity. Therefore, one must necessarily stop in some first
+subject or prime matter.
+The minor proposition last assumed is demonstrated by Aris-
+totle concerning all the causes in Book II, yet it is in a certain
+way more evident in the case of the material cause, since it is an
+intrinsic foundation of the whole composite. Nor can a composite
+standing in itself be perceived by the intellect, where one part
+of the composite depends on another part and another part on
+another part, unless it is finally stopped in something that stands
+underneath all the other parts. Since, therefore, every natural
+composite is through itself in such a way that with respect to
+itself the whole does not depend in the genus of material cause
+on another subject that is extrinsic to it, it is necessary that it
+has within itself some subject that is prime with respect to all
+other entities out of which it is constituted and that are in the
+subject. In this way, then, it is evident that prime matter or a
+first subject is given in natural things.
+5. Second, it is proven directly: for it is evident that genera- Matter is inferred from
+the continuous change
+of things.
+ble and corruptible things are thus transformed that some are
+generated from others in turn and mutually, at least mediately.
+Therefore, it is necessary that they agree in some common subject
+that endures in all of them, by reason of which they are suitable
+
+-- 4 of 9 --
+
+Suárez, DM XIII.1 5
+for those mutual transformations. Therefore, that subject is first
+and for that reason is the prime material cause of all things of that
+sort. The antecedent is evident from experience. For elements act
+on each other and one is converted into another, either mediately
+<397> or immediately, and mixtures are also generated from
+them and consequently also resolved into them. And so it is the
+case that all sublunary things, insofar as the force of their nature
+and composition is concerned, are mutually transformable. I say
+‘insofar as the force of their nature is concerned’ because it can
+happen that some parts of the elements are never transformed
+in virtue of the fact that they are in secluded and most remote
+places to which the actions of contrary agents never come.
+6. The first consequence is proven, first: for there can be no
+natural transformation unless by a common subject enduring
+under each terminus. First, because otherwise the thing that is
+corrupted would entirely pass away according to itself as a whole,
+and the other thing that begins to be would come to be according
+to itself as a whole. And so one would pass over to nothing,
+another would come to be ex nihilo, and no common thing would
+endure under both. Therefore, one would be annihilated and
+another created, which is naturally impossible. Also, because
+otherwise the whole action of a natural agent would be either
+impossible or irrelevant to the generation of things.
+The consequence is shown by the fact that we can speak
+either: [i] about accidental alteration, which we experience and
+which obviously does not happen except in a subject and from
+a common subject that remains under each terminus, since it
+is clear from experience that this action does not come to be
+unless a subject is presupposed. For the accident that comes
+to be through it cannot naturally be except in a subject that
+sustains both the action and its formal terminus. From this
+subject the form or opposing privation is expelled. Therefore, a
+common subject is given in an action of this kind. Or [ii] we speak
+about that action or substantial transformation that comes to be
+in the terminus of an alteration in which the thing that passes
+away loses without qualification the being that it had before and
+another thing begins without qualification, as when fire comes
+to be from flax. And here, too, it is necessary for a common
+subject to endure. Otherwise, the entire preceding alteration or
+heating of the flax would be irrelevant to the procreation of the
+fire. For the heating in no way brings anything to the procreation
+of the fire, if it and its whole subject perishes entirely. At most it
+
+-- 5 of 9 --
+
+Suárez, DM XIII.1 6
+would serve to empty the place or space in which the thing to be
+procreated can be introduced. But the destruction of a thing is
+irrelevant for this. Local expulsion would suffice, and that can
+come about through the introduction of another thing in that
+space, as happens in local motion.
+7. Also impossible would be such destruction of a thing
+through alteration, since an accident cannot, speaking per se,
+destroy its subject <col. b> since it is sustained by it and takes
+up being from it. That subject, then, is either simple or composite.
+If it is simple, it can in no way be destroyed through an action
+or through an accident that comes to be in it, since that being
+is necessary so that such an action or such an accident can
+be. But if that subject is a composite of a prior subject and
+another form, it will indeed be able to be destroyed by reason
+of an alteration and an accident introduced into it. But not
+per se but per accidens by reason of another action and form
+having followed the prior alteration. But this following cannot
+be understood unless the subsequent form is introduced into
+the same subject in which the former form was. For otherwise
+there would be no reason why the union between the former
+subject and its form is dissolved. Therefore, this whole natural
+transformation must necessarily be grounded in some common
+subject that endures under each terminus.
+8. This can also be shown by an induction made over some From some special
+changes.	transformations. When an animal, for example, is nourished by
+food, either something of the food remains in the end of nutrition
+and is conjoined to the living substance or the food and the whole
+that is in it is entirely destroyed through the action of the living
+being. If nothing of the food remains, the entire action of the
+living thing is superfluous and nothing can be aided by the food
+so that from it something grows or becomes stronger. For nothing
+becomes stronger or grows from that which perishes in the food.
+But if something in the food endures, that cannot be unless it is
+a common matter or subject.
+The same argument can be taken from the visible and im-
+proper nutrition of fire. For it does not increase except wood or
+something similar is presupposed nor is it conserved except it is
+nourished by oil or some similar matter. Therefore, this matter
+cannot be transient according to itself as a whole; otherwise, it
+would be useless and no reason could be given why it was neces-
+sary for such effects. Nor could it be shown what it contributed
+to those [effects]. That matter, therefore, in some way endures
+
+-- 6 of 9 --
+
+Suárez, DM XIII.1 7
+under the form of the thing that arises or is nourished. Therefore,
+it endures according to some common subject.
+9. It is confirmed, finally, by the fact that otherwise the trans-
+formation of things would not be corruption and generation but
+a kind of transubstantiation, since the whole substance of one
+thing would perish and another whole substance would begin.
+In fact, it would be more than transubstantiation. For not only
+would there be that succession in whole substances but also in
+all their accidents, since if no common subject endures much
+less can the same accidents (which <398> depend on the sub-
+ject for their being and their being conserved) naturally endure.
+But this kind of transformation is alien to every philosophy and
+every natural action. And beyond the nature of annihilation and
+creation, which it includes, as I said above, no reason can be
+thought of why those two things are connected in the nature of
+things in such a way that the destruction of one is necessary
+for the production of the other and conversely. Therefore, there
+is no natural transformation through complete destruction and
+inception, but only through transformation from some common
+subject. And this is what Aristotle’s demonstration generally Physics I.6 and
+Metaphysics VIII.1.	tends to, that this transformation is always from contrary to
+contrary (opposite privations being included under contraries),
+having a common subject. Therefore, it is evident that a common
+subject or material cause is given.
+10. The second consequence of the principal argument by Matter is discovered by
+resolution to one first
+subject.
+which we inferred that this matter is the first cause in its order
+and in that sense is most truly to be named prime matter still
+needs to be proven. But this (whatever some might wish) cannot
+be shown in any more evident way than the one touched on above,
+namely, because one cannot proceed to infinity in proximate and
+remote subjects or in subjects and subjected (if I may speak in
+that way), but one must necessarily stop in some subject that is
+not subjected or even composed from a part that is in a subject.
+For every such composite can be resolved into simples in which
+there must be something that is wholly not in a subject.
+Nor does this discussion presuppose that there is not a pro-
+cession to infinity of substantial forms in the same composite.
+For even if this is also obvious, still, if one imagined that per
+impossibile there were infinite forms in the same composite, on
+the part of the potency for receiving them it would be necessary
+to stop in some simple subject that is not in a subject, since the
+whole collection of such forms is in some subject. Therefore, that
+
+-- 7 of 9 --
+
+Suárez, DM XIII.1 8
+[subject] is simple, as we will demonstrate at once. Therefore, we
+call it prime matter.
+Beyond this, moreover, that consequence can also be proven
+from the community of this subject. For since all these lower
+things are transformed, immediately or at least mediately, as was
+said, it is necessary that what is presupposed in these transfor-
+mations be first in the ratio of subject or matter. For if it were
+from another prior subject or constituting matter, then either it
+would also be transformable—and then <col. b> it would not be
+a common subject for all transformations but that which endures
+after its resolution—or it would not be transformable—and then
+not every corporeal being would be transformable into any other,
+but we are presupposing the opposite (but more about this in §3).
+11. Therefore, from everything that has been said it is gen- Inferred from every
+premise.	erally proven that in every order of transformation there must
+be given some prime material cause. But it cannot be concluded
+from what was said that there is given true prime matter that is
+a material cause of some substance unless something is added.
+Hence taken formally the arguments that have been made equally
+prove that in any heavenly body there is given some first subject of
+the changes that happen in them. In fact, with the same propor-
+tion they also prove the same thing about any spiritual substance
+you please insofar as it is capable of real change, whether local,
+intellectual, or affective. For although that change is not corrup-
+tive but perfective, nevertheless, it necessarily presupposes some
+subject. And for that reason it is necessary that it be reduced to
+some first subject in its order, which can also be named the first
+material cause of that change, even though it is not called prime
+matter according to the common use of this expression. For it
+properly signifies the material principle of substantial change or
+of constitution.
+From this it also happens that even though things that in
+some way are transformed have a material cause of their transfor-
+mation proportionate to them, nevertheless, if the transformation
+is not of one thing to another, it cannot be concluded from the
+force of the transformation that there is given some first material
+cause common to things of this sort. For example, although
+angels have a first subject of their changes and corporeal bodies
+similarly, nevertheless, since the latter cannot be transformed
+into angels nor conversely, it cannot be concluded from trans-
+formation that there is some first subject common to all things.
+And the same argument applies in the case of celestial bodies
+
+-- 8 of 9 --
+
+Suárez, DM XIII.1 9
+and sublunary bodies, since the latter cannot transform into the
+former nor conversely. In fact, the same thing is true about the
+heavens in relation to each other, since they are not mutually
+transformable, but each in itself can only be changed accidentally.
+This is a fortiori true in the case of created spiritual substances.
+In all these cases, therefore, it can only be concluded that one
+common subject of accidents is given, between which change
+happens.
+But in these lower substances and bodies, since they are
+mutually transformable, <399> it is rightly concluded that there
+is some subject both common and first. But in order to conclude
+that this subject is the material cause of the substances them-
+selves of such things, it is necessary to add that mutual trans-
+formation of things with each other according to their substance
+and not only according to accidents. For if they are transformed
+only with respect to accidents, it will be enough that there be
+given a first subject for such accidents, whether that substance
+be simple or composite or whether it be of one nature in all things
+or different.
+12. Therefore, in order to conclude that prime matter of the Transformation in
+things not only in an
+accidental way but also
+substantial.
+sort that Aristotle posits is given, it remains to prove that the
+transformation of these lower bodies that we experience is not
+only accidental but also substantial. But beyond experience—it
+seems sufficiently evident in itself not only in the case of elements
+and inanimate mixtures, but much more in living things, animals,
+and in us human beings since we are generated and we die—
+beyond this experience, I say, it should be proven by reason
+from the necessity of substantial forms distinct from accidents.
+For if such forms are given, it is necessary that prime matter
+be given, since it is their subject and with them composes one
+integral substance, which is what it is to be the material cause
+of a substance. But substantial forms are given, as remains to
+be proven below in Disputation 15 and for that reason is now
+presupposed. Insofar as it has been demonstrated from that
+hypothesis, a true and proper prime matter is given in these
+things that are generated and corrupted. The consequence is
+evident and free of any difficulty. But the antecedent will be
+proven in the stated place.
+
+-- 9 of 9 --

@@ -1,0 +1,891 @@
+Sydney Penner
+Last revised: February 25, 2012
+Francisco Suárez, S. J.
+DE VOLUNTARIO ET INVOLUNTARIO, DISP. 8
+DE ELECTIONE, ET CONSENSU, DEQUE COGNITIONE CONCERNING ELECTION,2 CONSENT, AND THE COGNITION GO-
+PRÆVIA AD TALEM ACTUM.1 ING BEFORE SUCH AN ACT.
+<256> Diximus de actibus circa finem, dicendum sequitur We have spoken about the acts concerning the end. It follows that we
+de actibus circa media, qui ad ordinem intentionis pertinent, de should speak about the acts concerning means, which belong to the order
+quibus ego simul disputo, quia easdem difficultates continent: of intention. I discuss them at the same time, since they sustain the same
+et, ut dicemus, hi actus nullo fere modo distinguuntur, licet difficulties, and, as we will say, these acts are distinguished in almost no
+D. Thomas, in 1, 2, quæst. 13 et seq., hanc doctrinam separaverit. way, althought St. Thomas divided this teaching in qq. 13 and following of
+[ST ] IaIIæ.
+SECTIO I. SECTION I.
+Quod sit electio, quod ejus objectum, et cujus potentiæ sit actus. What election is, what its object is, and of what power it is an act.
+1. Prima assertio.—Eligere, si vim nominis consideremus, est The first assertion.—‘To elect’, if we were to consider the meaning of the
+unum e multis separare: idque cæteris præferendo, quod intellectu word, is to separate one from the many. And preferring one to the oth-
+nonnunquam fieri potest, cum e duabus sententiis alterum alteri ers can sometimes be done by the intellect, when it prefers one to another
+præfert, non tam propter libertatem, quam quia rationibus, vel of two views, not so much on account of freedom as because the view is
+alio modo verisimilior demonstratur: proprie tamen eligere actus demonstrated more likely by reasons or in some other way. Still, ‘to elect’ is
+est voluntatis. Et hæc sit prima conclusio: quæ probatur primo properly an act of the will. And let this be the first conclusion. It is proved
+ex communi consensu hominum: nam licet quis judicet hoc esse first by the common consensus of men. For although someone may judge
+melius, vel utilius donec illud velit, non censetur elegisse. Secundo this to be better or more useful, he is not thought to have elected it until
+eligere est actus existens in potestate eligentis, solum autem velle, he wills it. Secondly, ‘to elect’ is an act existing in the power of the one
+et ea, quæ voluntati subsunt, sunt in potestate hominis: nullus electing. Moreover, only [i] to will and [ii] those things which are under-
+vero eligit, quæ necessario illi insunt: et in ipsis indiciis eatenus est neath the will are in the power of a human being. But no one elects what
+aliquis modus electionis, quatenus ab intellectus et voluntatis con- necessarily belongs to him. And in the evidence indicated so far there is
+sensu pendet. Dices, Aristoteles quasi dubitans 6, Ethic., c. 3, con- some mode of election, to the extent that it depends on the consensus of
+cludit electionem esse vel appetitum intellectivum, vel intellectum the intellect and will. You may say that Aristotle, doubting, as it were, in
+appetitivum. Respondetur, illis verbis solum indicasse, electionem EN VI, c. 3 [i.e., 2], concludes that election is either an intellective appetite
+
+-- 1 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 2
+pertinere aliquo modo ad intellectum, non tanquam ad elicientem, or an appetitive intellect.3 It is responded: those words only indicate that
+sed tanquam ad dirigentem et ordinantem: et ideo ibidem appellat election belongs in some way to the intellect, no as to the thing electing but
+electionem potentiam consulatricem. Dices, hoc commune esse as to the thing directing and ordering. And for this reason at the same time
+omnibus actibus voluntatis: qua ratione ergo tanquam proprium he calls election the consulting power. You may say: this is common to all
+electioni tribuitur. Respondet D. Thomas 1, 2, q. 13, articulo 1, acts of the will. For this reason, therefore, it is attributed as if proper to
+electionem materialiter esse in voluntate, quia ab illa habet sub- election. St. Thomas responds in [ST ] IaIIæ.13.1 that election is materially
+stantiam suam: formaliter vero esse ab intellectu, quia ab illo ha- in the will, since it receives its substance from it. But formally it is from the
+bet quemdam ordinem, qui est tanquam forma istius actus, quod intellect, since it receives a certain order from it, which is as the form of that
+obscurum valde est: sed exponam statim. act. This is very obscure, but I will explain it at once.
+2. Secunda assertio.—Nota tamen electionem, si consideremus 2. The second assertion.—Nevertheless, note that an election, if we were
+vim dictam vocis, neces- <col. b> sario fieri inter multa, quomodo to consider the spoken meaning of the word, necessarily takes place among
+fieri sæpe contingit in voluntate, tamen in philosophia morali gen- multiple [options], just as it often happens to take place in the will. Still, in
+eralius sumitur, omnis volitio efficax alicujus rei particularis, quæ moral philosophy it is taken more generally [so that] every effective volition
+non propter se amatur, sed propter aliud, electio dicitur: quamvis of some particular thing that is not loved for its own sake but for the sake of
+contingat non fieri inter plura, sed illud medium esse unum tan- something else is called an election, even though it may happen that it does
+tum. Et hæc sit secunda conclusio, quæ etiam est communis: et not take place among more [means] but that that means is the only one.
+ratio est, quia ratio volentis a fine speciem sumit: quare actus hu- And this is the second conclusion, which also is common. And the reason
+manus per ordinem ad eumdem finem eamdem speciem et essen- is that the nature of the willing takes its species from the end. wherefore
+tiam retinet: sive sit unicum medium, sive conferatur cum aliis: a human act retains the same species and essence by means of order to the
+nam hoc accidentarium est actui morali, et per se illi non con- same end, whether there is a single means or it is compared to others. For
+fert bonitatem, neque malitiam, et ideo si servatur species, servatur this is accidental to the moral act and does not per se confer goodness or
+etiam nomen. badness to it. And therefore if the species is kept, the name is also kept.
+3. Tertia assertio.—Dico tertio. Objectum electionis est 3. The third assertion.—I say, thirdly, that the object of election is a par-
+medium particulare ut medium, seu ut bonum utile. Est commu- ticular means as a means or as a useful good. This is the common [view]
+nis, et probatur ex dictis, quia electio a voluntate et intentione dis- and is proved from what was said, since election is distinguished from will
+tinguitur, ut suppono, et ex illis oritur. Omnis autem volitio boni, and intention, as I assume, and arises from these. Moreove, every volition
+quod per se amatur, ad voluntatem, vel intentionem pertinet: ergo for a good that is loved per se belongs to the will or intention. Therefore,
+electio non potest esse nisi de bono propter aliud. Similiter quod there cannot be an election except for some good for the sake of another
+sequitur ei intentione finis, ut sic, est volitio medii propter finem: [good]. Similarly, what follows on that intention of the end, as such, is a
+ergo illud est materia electionis: solum nota circa hoc medium ver- volition of means for the sake of the end. Therefore, that is the matter of
+sari, et intellectum et voluntatem: intellectus confert tam medium election. Only note that it turns concerning this means, both the intellect
+cum fine, quam media inter se, et de illis judicat, et voluntati pro- and the will. As the intellect compares a means with the end, so the means
+ponit: voluntatis vero est eligere unum illorum. with each other. And it judges concerning them and proposes [them] to the
+will. But it belongs to the will to elect one of them.
+4. Ex quo intelligitur quod dixit D. Thomas formaliter elec- 4. From this one can understand what St. Thomas said: ‘election is for-
+tionem esse ab intellectu, non intellexit (ut impugnavit Aureolus, mally from the intellect’. He did not understand (as Aureolus attacks in
+apud Capreolum, in 1, d. 1, quæst. 2, ad argumenta contra 3 con- view of Capreolus in I, d. 1, q. 2, in response to the arguments against the
+clusionem) aliquid vere esse in actu electionis, quod ab intellectu third conclusion) that there truly is something in the act of election that is
+
+-- 2 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 3
+fiat, quia intelligi nullo modo potest substantiam electionis fieri made by the intellect, since there is no way of understanding that the sub-
+a voluntate, quin tota ratio illius actus usque ad ultimam differ- stance of election comes about by the will but that the whole nature of that
+entiam ab eadem potentia ejiciatur: et patet, nam elicitur ut est act all the way to the last difference is thrown up by the same power. And
+voluntas medii propter finem: hæc autem est ipsa ratio formalis it is clear for it is elected so that it is a will for the means for the sake of the
+electionis: tamen hæc ipsa ratio formalis peculiari quadam ratione end. Moreover, this is the formal nature itself of election. Nevertheless, this
+tribuitur intellectui: quia conferre unum ad alterum est proprium formal nature itself is attributed by a certain peculiar reason to the intellect.
+opus rationis, et in tantum reperitur in voluntate, in quantum For to compare one thing to another is the proper work of reason and it
+præcedit in intellectu, a quo illam vim participat: et ita explicuit is only found in the will insofar as it precedes in the intellect by which it
+D. Thomas, quæst. 22, de Veritate, art. 15. Alio modo electio dic- shares in that power. And St. Thomas in De Ver., q. 22, art. 15, explained
+itur pendere a ratione tanquam forma, non simpliciter ut existat, it in this way. In another way, election is said to depend on reason as on a
+sed ut sit prudens a vel imprudens, et hoc aperte voluit Aristoteles, form, not strictly-speaking as it exists but as it is prudent or imprudent by.
+loco cit. sexto Ethic., cap. 3. <257> And Aristotle clearly meant this in the cited passage from EN VI, cap. 3.
+5. Sed arguitur contra conclusionem: nam eligere contingit 5. But it is argued against the conclusion. For electing happens not only
+non solum inter media, sed etiam inter fines: nam inter bona plura between means but also between ends. For we often elect one among multi-
+per se appetibilia unum sæpe eligimus, aliis relictis: et inter fines ul- ple goods desirable per se, forsaking the remaining goods. And election hap-
+timos contingit electio: nam licet verus ultimus finis unus tantum pens between ultimate ends. For although the true ultimate end is only one,
+sit, tamen homo potest ponere ultimum finem errando in multis nevertheless, a human being can, by erring, place his ultimate end in many
+rebus, et ideo potest eligere inter creaturam et creatorem, quod things and for that reason can elect between creature and Creator. Scripture
+Scriptura sæpe indicat. Et confirmatur, nam eorum est electio, often indicates this. And it is confirmed, for election is of those things con-
+quorum est consultatio, sed consilium potest esse inter bona per cerning which there is consideration, but there can be deliberation between
+se amabilia: ergo. Respondetur primo: si electio solum significet goods that are per se lovable. Therefore. It is responded, first: if election
+amorem unius rei præ multis, et inter multa, concedo, hujusmodi only signifies a love of one thing in preference to others and between multi-
+electionem posse versari circa fines, et bona per se amabilia: tamen, ple things, I concede that election of this sort can turn concerning ends and
+ut dixi, non est hæc essentia electionis, sed amare unum propter al- goods that are per se lovable. Still, as I said, this is not the essence of election,
+iud: et hoc tantum convenit medio ut sic, et hoc sufficiebat quoad but rather to love one thing for another thing. And only this is suitable to
+ipsam rem: tamen Aristoteles et D. Thomas, et fere theologi indi- a means as such. And this suffices with respect to the matter itself. Still,
+cant, electionem inter multa solum esse de mediis. Dico præterea Aristotle and St. Thomas and almost [all] theologians indicate that election
+secundo hujusmodi electionem inter multa vel formaliter, vel vir- among multiple things is only of means. I say in addition, secondly, that
+tute esse ex intentione alicujus finis præcedentis, et hoc modo election of this sort between multiple things is either formally or virtually
+vel formaliter, vel virtute esse de mediis. Quod sic patet primo. a result of a preceding intention for some end and, in this way, is either for-
+Omnis motus procedit ex intentione alicujus termini: consultatio mally or virtually of means. This is clear, first, thus: every motion proceeds
+autem, et electio est quasi motus quidam rationis, et ex intentione from an intention for some terminus. Moreover, consideration is a certain
+alicujus finis procedit: ergo. Probatur illa minor: nam consultatio consideration between multiple goods and therefore necessarily supposes a
+est collatio quædam inter multa bona, et ideo necessario supponit will already affected concerning good in general.
+voluntatem jam affectam circa bonum in communi.
+6. Quarta assertio.—Dico quarto. Objectum electionis debet 6. The fourth assertion.—I say, fourthly, that the object of election ought
+esse aliquid quod a nobis fieri potest. Duo continet conclusio: to be something which can be accomplished by us. The conclusion contains
+alterum objectum debere esse possibile: et hoc certum est, quia two [parts]. One is that the object ought to be possible. And this is certain
+
+-- 3 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 4
+electio procedit ex intentione efficaci finis: voluntas autem effi- because election proceeds from an effective intention for the end. But an
+cax non inclinat ad impossibilia. Item quia electionis objectum est effective will does not incline to impossibles. Likewise, because the object
+bonum utile ut sic: id autem quod est impossibile, non est utile. of election is a useful good as such, but that which is impossible is not useful.
+Altera pars conclusionis est, objectum electionis esse factibile ab The other part of the conclusion is that the object of election is doable by
+eligente: ita Aristoteles 3, Ethic., cap. 2, et patet inductione, nam the one electing. Aristotle says this in EN III, cap. 2, and it is clear by
+ea, quæ non possumus facere, possumus quidem amare: eligimus induction. For those things which we cannot do, we can indeed love. But we
+autem operari hoc, vel illud, ut rem amatam consequamur. Dices: can elect to do this or that in order to pursue the loved thing. You may say:
+etiam eligimus res, quas non facimus, ut cibum, hunc potius quam we also elect things which we cannot do, like this food rather than that, life
+illum: vitam potius, quam mortem et personas ad hoc vel illud rather than death, and persons for this or that office. It is responded: these
+munus. Respondetur: hæc ipsa exempla explicant rem: nunquam very examples explain the matter. For it is never the case that someone elects
+enim quis eligit rem nisi prout ab ipsius opere vel omnino, vel a thing unless it depends either wholly or in part on his action or is ordered
+ex parte pendet, vel ad <col. b> illud ordinatur, sin minus tan- to it. But if it can only be desire or loved less, as in the case of he who loves
+tum potest desiderare, vel amare: ut qui diligit pecunias, tunc dic- money, then he is said to elect [it] either when he seeks it or when he can
+itur eligere, quando vel diligit illas inquirere, vel quando actione make it his by his action. Likewise concerning the remaining [cases]. And
+sua potest efficere illas suas: idem est de reliquis; et ratio esse the reason can be that we only intend an end insomuch as we can pursue it
+potest, quia nos in tantum intendimus finem, in quantum action- by our actions. And therefore election, which follows from this intention,
+ibus nostris possumus eum consequi: et ideo electio, quæ ex hac is turned either to our actions or to things that are subject to our actions.
+intentione sequitur, versatur vel in actionibus nostris, vel in re- You may say: therefore the same will be the case concerning intention. It is
+bus prout actionibus nostris subjectæ sunt. Dices: idem igitur erit responded: intention, to the extent that it is turned concerning the objective
+de intentione. Respondetur: intentio quatenus versatur circa ip- end itself, is often about a thing which we cannot make. But, nevertheless,
+sum finem objectivum, sæpe est de re, quam nos non possumus we can pursue it by our actions and, both for this reason and as in some way
+facere, sed tamen possumus actionibus nostris consequi, et hac ra- it includes the will for means, it is also called a certain respect to our actions.
+tione, et prout aliquo modo includit voluntatem mediorum, dicit St. Thomas noted this in [ST ] Ia.13.4.
+etiam respectum aliquem ad actiones nostras: quod D. Thomas 1,
+quæst. 13, art. 4, adnotavit.
+SECTIO II. SECTION II.
+Utrum consensus sit actus voluntatis ab electione distinctus. Whether consent is an act of the will distinct from election.
+1. Prima notatio.—Consensus propria significatione animo- 1. The first note.—‘Consent’, in its proper signification, signifies a con-
+rum, aut judiciorum concordiam significat: et hoc modo non cord of souls or judgements. And in this way it signifies not one act but
+unum actum, sed plures, ut sibi similes significat, ut habetur 1, several, as it signifies those similar to itself. This is the way 1 Cor. 7[:5] is
+ad Corinth. 7: Nisi ex consensu ad tempus, tamen hinc translatum taken: ‘except by consent for a time’. Nevertheless, this name was trans-
+est hoc nomen ad significandum voluntatem concordem cum ju- ferred from here to signifying a will in concord with a judgement of reason
+dicio rationis in eodem homine. Propter quod Bonaventura, in 2, in the same human being. On account of this Bonaventure in II, dist. 39, last
+dist. 39, quæst. ult., dicit, istum actum non esse voluntatis, neque question, says that this act is not of the will nor of the intellect but agrees
+intellectus, sed utrique mutuo convenire. Verum ex communi usu with both mutually. Certainly, by common use by other theologians, ‘con-
+
+-- 4 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 5
+aliorum theologorum consensus proprie significat actum volun- sent’ properly signifies an act of will. St. Thomas relates the reason for this
+tatis: cujus rationem tradit D. Thomas 1, 2, quæst. 15, art. 2. Et in [ST ] IaIIæ.15.2. And another reason can be that the judgement of the
+alia esse potest, quia judicium intellectus antecedit voluntatis ac- intellect precedes the act of the will and it is, as it were, natural. But it is in
+tum, et est quasi naturalis. In potestate autem voluntatis est, illi the power of the will either to assent to it or not. And therefore as long as
+assentiri, vel non: et ideo illa dum libere operatur, est quæ perficit it freely acts, it is what completes consent, although sometimes ‘consent’ is
+consensum, licet interdum etiam apud Aristotelem 6, Ethic., c. 12, also referred to the intellect in the writing of Aristotle in EN VI, cap. 12.
+consensus referatur ad intellectum.
+2. Secunda notatio.—Nota tamen secundo, hoc nomen hac ra- 2. The second note.—Still, note, secondly, that this name can by this rea-
+tione posse tribui cuicumque actui libero voluntatis acceptantis son be attributed to any free act whatever of the will accepting the good
+bonum intellectu propositum, quomodo dicitur peccatum perfici proposed by the intellect. In this way sin is said to be perfected by consent.
+consensu: et sic non est specialis actus: et non solum circa media, And thus it is not a specific act. It not only turns concerning means but
+sed etiam circa finem versatur: quia tamen consensus proprie vide- also concerning the end. Nevertheless, since consent seems properly to take
+tur fieri post perfectam deliberationem et consultationem: ideo place after deliberation and consideration has been completed, for that rea-
+peculiariter <258> usurpatur ad significandum quemdam pecu- son it is peculiarly usurped for signifying a certain peculiar act of the will
+liarem voluntatis actum circa media jam ratione proposita et judi- concerning means already proposed and judged agreeable by reason. And
+cata convenientia. Et hæc propria est difficultas, an talis consensus herein lies the difficulty: whether such a consent can be an act different
+possit esse actus alius ab electione. from election.
+3. Ratio dubitandi est: nam D. Thomas videtur distinguere 3. The reason for doubting: for St. Thomas seems to distinguish these
+istos actus 1, 2, quæst. 19 et 13, quorum distinctionem sic pos- acts in [ST ] IaIIæ.19 and 13. We can understand the distinction of them so
+sumus intelligere, ut consensus et electio ita versentur circa media, that consent and election turn concerning means just as the will and inten-
+sicut voluntas, et intentio circa finem: nam intellectus primo pro- tion concern the end. For the intellect first proposes a means as good and
+ponit medium ut bonum et utile: et voluntas simpliciter amat il- useful and the will simply loves it as it is a certain good and agreeable thing.
+lud ut bonum quoddam est, et conveniens, et hic amor ut sic est And this love as such is consent. For it is the first concordance of the will
+consensus: nam est prima concordia voluntatis cum judicio circa with the judgement concerning the means. Afterwards it wills that means
+medium: postmodum vult illud medium ut exequendum: et hæc as something to be carried out and this will properly be the election. And
+erit proprie electio. Et confirmatur iste modus, nam in fine illæ this way is confirmed, for these two formal natures in the end of good as
+duæ rationes formales boni ut absolute amati, vel ut cum ordine ad absolutely loved or as something ordered to execution distinguish two acts.
+executionem, distinguunt duos actus: ergo idem erit in ipso medio. Therefore, the same will be the case for the means.
+4. Sed mihi non satisfacit hic modus, quia medium ut medium 4. But this way is not satisfactory to me, since the means as means does
+non habet bonitatem nisi in ordine ad finem: ergo non potest not have goodness except in an order to the end. Therefore, it cannot be
+amari nisi cum eodem ordine: ergo si amor sit efficax circa loved except in the same order. Therefore, if the love is effective concerning
+medium, necessario dicet ordinem ad executionem circa medium the means, it necessarily expresses order to execution concerning the means
+ipsum: non enim apprehenditur ut utile, nisi ut exequendum: et itself. For it is not apprehended as useful except as something to be carried
+revera nihil aliud est velle efficaciter medium, nisi velle exequi il- out. And, in reality, effectively to will a means is nothing other except to
+lud. Confirmatur, quia si aliqua possit esse distinctio inter medium will to carry it out. It is confirmed, for if something can be a distinction be-
+volitum secundum se, et in executione, potius esset talis distinctio tween a means willed according to itself and with regard to execution, even
+inter electionem et usum, ut magis patebit infra. Et tamen ipse more can there be such a distinction between election and use, as will be
+D. Thomas 1, 2, quæst. 15, art. 3, ad 3, dicit ubi solum invenitur more clear below. And, still, St. Thomas himself says in [ST ] IaIIæ.15.3 ad
+
+-- 5 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 6
+unum medium quod placeat, non differre consensum ab electione, 3 that in a case where only one means is found that pleases, consent does
+nisi per diversos respectus rationis: cum tamen in unico etiam not differ from election except through different respects of reason. Never-
+medio essent distinguendi actus, si distinguerentur illo modo. Ad- theless, the acts would also be distinguished in a single means, if they were
+dit vero Thomas, loco citato, ubi sunt plura media, distingui præ- distinguished in that way. But Thomas adds in the cited place that in a case
+dicto modo, quia oblata media voluntati prius placent, et tunc where there are multiple means, they are distinguished in the mentioned
+consentit, postmodum unum præfert cæteris, et eligit; sed revera way, since the means offered to the will please first, then it consent, and
+illa prior complacentia non satis intelligitur, nam vel est judicare afterwards it prefers one to the others and elects. But, really, that former
+omnia hæc media esse utilia, et convenientia; et hoc est intellectus, taking pleasure in is not sufficiently understood, for either it is to judge all
+vel est amare, et velle illa omnia, et hic actus non reperitur; quia these means to useful and agreeable (and this belongs to the intellect) or it is
+voluntas unum vult, cætera omittit. Cujus signum manifestum to love and will all these (and this act is not found, since the will wills one
+est, quia si contingat omnia illa media esse peccatum; voluntas si thing and disregards the rest). A sign of this is manifest: for if it were to
+judicat, non peccat in omnibus, sed in uno tantum; ergo unum happen that each of these means is a sin, the will, if it judges, does not sin
+tantum vult, uni et tantum consentit. <col. b> in all of them but in only one. Therefore, it wills only one and consents to
+one and only one.
+5. Posset tamen exponi D. Thomas, ut, præsentatis omnibus 5. Nevertheless, St. Thomas might be explained as [saying that] once
+mediis, voluntas acceptet omnia, et singula non actu absoluto, sed all the means have been presented, the will accepts all of them and each one
+conditionato, isto modo; si non esset aliud medium, isto uterer; not absolutely in act but conditionally in this way: if there were no other
+qui quidem actus potest aliquando contingere; id tamen non est means, I would use this one. This act can indeed sometimes occur. Still,
+necessarium; quod etiam ipse D. Thomas indicavit, cum dixit: it is not necessary, which St. Thomas himself also indicated when he said:
+Potest autem contingere, etc. Et ille actus conditionis magis potest ‘But it can happen . . . ’ And this act of condition can more be called consent
+dici consensus, quam electio; quia electio cum dicat unum sim- than election, because election—since it expresses one preferred simpliciter
+pliciter præferri aliis, denotat actum absolutum. Quapropter lo- to the others—denotes an absolute act. For this reason, when speaking about
+quendo de actu absoluto circa medium, arbitror, consensum et an absolute act concerning means, I judge that consent and election are not
+electionem non esse actus distinctos, sed a diversis respectibus ra- distinct acts, but receive these denominations according to different respects
+tionis recipere has denominationes. Nam quatenus voluntas vult, to reason. For insofar as the will wills what the intellect judges to be useful,
+quod intellectus judicat esse utile, dicitur consensus; quatenus vero it is called consent; but insofar as it prefers one thing either to other useful
+illud præfert, vel aliis mediis utilibus, vel certe aliis rebus inutilibus means or at least to other things that are not useful for bringing about the
+non conducentibus ad finem, dicitur electio. end, it is called election.
+6. Dicet aliquis. In hoc actu circa medium potest distingui 6. Some may say: in this act concerning the means can be distinguished
+amor medii, et desiderium: ergo isto modo possunt distingui illi a love for the means and a desire. Therefore, these acts can be distinguished
+actus. Respondetur, proprie electionem esse ad modum desiderii, in this way. It is responded: election is properly according to the mode
+quia est de medio ut exequendo; et ut dicam infra, electio an- of desire, since it is concerning the means as something to be carried out.
+tecedit executionem: et ideo est de re absente: tamen non sup- And, as I will say below, election precedes execution. And for this reason
+ponit alium actum, qui sit veluti amor ipsius medii: sed immedi- it is concerning something absent. Still, it does not suppose another act
+ate oritur ex amore finis: nam revera voluntas non amat medium which is as if a love for the same means; rather, it arises immediately from
+ut medium illi peculiari actu amoris, quem supra explicui, quia the love for the end. For, in truth, the will does not love a means as means
+non proprie unitur illi ut sic, neque bonitati ejus: sed late dici- by that special act of love, which I explained above, since it is not properly
+tur illud: quatenus omne velle est amare: et ipsum desiderium est united to it as such nor to its goodness. But more loosely it is called that
+
+-- 6 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 7
+quidam amor. Et explicatur experientia ipsa, nam nullus habet af- to the extent that every willing is a loving. And the desire itself is a certain
+fectionem illam amoris erga potionem amaram, quæ est medium love. And the experience itself is explained, for no one has that affection of
+ad sanitatem: tamen desiderat illam sumere. Sed dices, quia non- love towards a bitter potion that is a means to health, yet he still desires to
+nunquam experimur eligere medium, et tunc non desiderare illud, take it. But you may say: since sometimes we experience electing a means,
+et postea oriri ipsum desiderium. Respondetur, substantiam, et es- then not desiring it, and afterwards the very desire arises. It is responded:
+sentiam desiderii, quæ consistit in voluntate rei absentis, simul esse the substance and essence of desire, which consists in the will for an absent
+cum electione, quia est ipsamet: tamen affectus ille desiderii, qui thing, is simultaneous with election, since it is the very thing. Still, that
+est anxietas quædam, vel ærumna, ille non semper est conjunctus affect of desire, which is a certain anxiety or distress, that is not always
+cum electione, et hoc est quod experimur postea oriri. conjoined with election and this is what we experience as arising afterwards.
+SECTIO III. SECTION III.
+Quomodo distinguantur electio et consensus ab intentione finis, How election and consent are distinguished from the intention for an end
+et simul quomodo versentur circa finem. and, at the same time, how they are concerned with the end.
+1. Et ex dictis colligi potest, electionem et <259> intentionem 1. And from what was said it can be gathered that election and intention
+hoc differre, quod intentio, ut plurimum, descendit ad media in differ in that intention as most descends to the means in general but election
+communi: electio vero est circa medium particulare ut sic. Ex quo is about a particular means as such. Two doubts arise from this. The first
+duplex oritur dubitatio. Prima est, utrum hæc diversitas consti- is whether this difference constitutes an essential distinction between these
+tuat distinctionem essentialem inter hos actus? Secunda, utrum acts. The second is whether it also really distinguishes them. The reason
+etiam realiter illos distinguat? Ratio prioris dubii est, quia Aris- for the first doubt is because Aristotle in EN III, cap. 2, and St. Thomas
+toteles 3, Ethicor., cap. 2, et D. Thomas, citatis quæstion., viden- in the cited question seem to distinguish them as essentially different. And
+tur distinguere illos tanquam essentialiter differentes. Et ratione it is argued by reason: for acts are distinguished into species according to
+arguitur: nam actus distinguuntur specie ex objectis formalibus: their formal objects. But the end, which is the primary object of intention,
+sed finis, qui est primarium objectum intentionis, et medium, sunt and the means are formally distinct objects. This is clear because they have
+objecta formaliter distincta: quod patet, quia habent diversas ra- different aspects of formal good. For the end is good per se and intrinsi-
+tiones formalis boni: nam finis est per se, et intrinsece bonum: cally, but a means is good according to something [else] and by extrinsic
+medium vero secundum quid, et denominatione extrinseca. Con- denomination. It is confirmed from Aristotle in EN VI, cap. 8, and Phys. II,
+firmatur ex Aristotele 6, Ethic., c. 8, et 2, Physic., text. 29, ita se text. 29. Intention and election hold themselves in the will just as assent
+habent intentio et electio in voluntate sicut in intellectu assensus to first principles and to conclusions in the intellect. But those acts in the
+primi principii et conclusionis: sed isti actus in intellectu differant intellect differ essentially. Therefore, etc. From which it seems that it can
+essentialiter: ergo, etc. Ex quibus videtur consequenter concludi, consequently be concluded that these acts are really distinct, because an act
+istos actus esse realiter distinctos: quia unus actus secundum rem that is one according to the thing cannot have essentially distinct differences.
+non potest habere differentias essentialiter distinctas. Confirmatur It is confirmed, first, because intention is an effective cause of election. It
+primo, quia intentio est causa effectiva electionis. Confirmatur se- is confirmed, secondly, by its similarity to assent to principles and conclu-
+cundo ex simili illo de assensu principiorum et conclusionis: et sions. And Gregory follows this view in I, dist. 1, q. 2.
+hanc sententiam secutus est Gregorios in 1, dist. 1, quæst. 2.
+2. Arguitur in contrarium pro formali identitate.—Arguitur 2. It is argued to the contrary for formal identity.—It is also argued for real
+
+-- 7 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 8
+etiam pro identitate reali.—In contrarium autem est primo, quia identity.—But for the contrary position is, first, the fact that intention and
+intentio et electio habent idem objectum formale: nam formale election have the same formal object. For the formal object of the will is
+objectum voluntatis est, quod est motivum ejus: idem autem est what its motive is. But it is the same thing that moves it to intention and
+quod movet ad intentionem et electionem. Et confirmatur: nam election. And it is confirmed: for it is the same habit which inclines to inten-
+idem est habitus, qui inclinat ad intentionem et electionem, si- tion and to election, just as it is the same habit of charity which inclines one
+cut est idem habitus charitatis, qui inclinat ad amandum Deum et to loving God and to loving one’s neighbour and the same religion which
+proximum: et eadem religio qua inclinat ad honorandum sanctum, inclines one to honouring the holy and to honouring the image of the holy
+et imaginem sancti propter sanctum. Confirmatur secundo, quia for the sake of the holy. It is confirmed, secondly: because otherwise he
+alias qui vult occidere, et evaginat gladium, peccata specie diversa who wishes to kill and who unsheathes his sword would commit different
+committeret, quia habet actum intentionis et electionis. Conse- species of sin, since he has an act of intention and an act of election. But the
+quens est aperte falsum, et contra illud Aristotelis: Qui furatur consequent is manifestly false and contrary to the passage from Aristotle:
+propter mœchiam, magis est mœchus, quam fur. Ex quibus videtur ‘He who steals for the sake of adultery is more an adulterer than a thief’.4
+etiam concludi, intentionem et electionem posse coalescere in eu- From these things it seems that it could also be concluded that intention
+mdem actum realiter: quia non habent essentias distinctas, et ob- and election can really join together in the same act, since they do not have
+jectum formale est unum revera, ex illo Aristotelis: Ubi unum est distinct essences and the formal object is one in reality, according to what
+propter aliud, ibi <col. b> est unum tantum. Et confirmatur: nam Aristotle says: ‘where one thing is for the sake of another, there only one
+ostensum est, habitum esse re unum: ergo actus etiam potest esse thing is’.5 And it is confirmed: for, as was shown, a habit is one in reality.
+unus. Et in hanc partem videtur inclinare D. Thomas 1, 2, quæs- Therefore, an act can also be one. And St. Thomas seems to lean in this
+tion. 8, articul. 3, et q. 12, et Cajetanus, his locis, et Thomistæ direction in [ST ] IaIIæ.8.3 and 8.12, as well as Cajetan in these places, the
+communiter, Ocham, et fere Nominales 1, dist. 1. Nota dupliciter Thomists generally, Ockham, and most of the nominalists in I, dist. 1. Note
+posse intelligi eum, qui vult medium, velle simul finem: uno modo that saying that he who wills the means at the same time wills the end can be
+per se, et, ut aiunt, tanquam objectum quod: alio modo ut quo, seu understood in two ways. In one way, per se and, as they say, as the objectum
+ut ratione volendi: et hoc vel formaliter, vel tantum virtute, ut quod. In the other way as the objectum quo or as the reason for willing. And
+statim exponam. this is either formally or only virtually, as I will explain shortly.
+3. Prima assertio.—Dico primo, per electionem, ut electio 3. The first assertion.—I say, first, that through election insofar as it is
+est, semper est aliquo modo volitus finis, quamvis interdum sit election there is always in some way a willed end (although sometimes it is
+virtualiter amatus. Prima pars patet ex illa regula, Propter quod virtually loved). The first part is clear from that rule: ‘that because of which
+unumquodque tale, etc., sed finis est, propter quem est electio, a thing is such-and-such [is itself such-and-such to a greater extent]’. But the
+volita igitur. Confirmatur, nam electio, ut sic, recipit bonitatem, end is that for the sake of which the election is. Therefore, it is willed. It
+et malitiam moralem ex fine: ergo tali actu amatur aliquo modo is confirmed, for election as such receives moral goodness and badness from
+finis, et ejus bonitas vel malitia. Secunda pars, scilicet non esse the end. Therefore, in such an act the end and its goodness or badness is
+necessariam istam bonitatem finis semper esse formaliter amatam, loved in some way. The second part, namely that it is not necessary that
+patet. Interdum enim contingit, voluntatem amare medium, et in- this goodness of the end always be formally loved, is clear. For sometimes it
+tellectum nihil actu cogitare de fine: non potest autem esse aliquid happens that the will loves a means and the intellect by no act thinks about
+formaliter volitum, nisi sit etiam actu cognitum: ergo. the end. But something cannot be formally willed unless it is also cognized
+in act. Therefore.
+4. Objectio.—Quorumaam [sic] solutio.—Sed dices, quomodo 4. An objection.—What, then, the solution for these is.—But you may say:
+fieri potest, ut voluntas velit medium ut sic propter solam boni- how can it happen that the will wills a means as such for the sake of the
+
+-- 8 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 9
+tatem finis, intellectu nihil cogitante de ipso fine: nam ut volun- goodness of the end alone when the intellect is not thinking at all about the
+tas moveatur, non satis est intellectum cogitare de re amanda, sed end itself. For in order for the will to be moved it is not enough for the
+oportet etiam cogitare de illa ut bona est, et de ratione amandi, intellect to think about the thing to be loved but rather it must also think
+et hic est finis. Propterea dicunt aliqui, illam voluntatem, quam about it as a good and about the reason for loving it. And this is the end.
+experimur circa medium sine actuali cogitatione finis, non esse For this reason others say that willing, which we experience as concerning a
+medii, ut est, sed medii propter se: ita indicat Gregorius, loco ci- means without an actual thinking of the end, is not of the means as such but
+tato, et alii Thomistæ. Sed mini non placet, nam experientia docet of the means for its own sake. Gregory indicates this in the cited place, as
+infirmum velle medicinam etiam amaram, etsi nihil cogitet de san- do other Thomists. But this does not please me for experience teaches that
+itate, tamen revera non vult illam propter se: nam sæpe in illa non a sick person wills medicine, indeed bitter medicine, even if not thinking
+est ratio ulla volendi illam. Et confirmatur, nam talis voluntas re- at all about health. Still, he does not really wish the medicine for its own
+cipit bonitatem et malitiam ex fine. Confirmatur secundo, quia sake. For often there is nothing at all in it that would be a reason for willing
+alias nunquam quis amaret proximum ex vera charitate, nisi actu it. And it is confirmed: for such a will receives goodness and badness from
+cogitaret de Deo, propter quem debet eum diligere. Similiter nun- the end. It is confirmed, secondly: since otherwise no one would love his
+quam quis crederet actu vero fidei, nisi actu cogitaret de prima ver- neighbour from true charity unless he were actually thinking about God
+itate revelante, propter quam credit. Dico ergo, ut voluntas amet (for the sake of whom he ought to love his neighbour). Similarly, no one
+medium, non esse necessarium intellectum actu cogitare de fine: would believe by a true act of faith unless he were actually thinking about
+sed satis esse hic et nunc proponere hoc medium ut <260> conve- the first revealing truth for the sake of which he believes. I say, therefore,
+niens et appetibile, confusa quadam ratione, ex habitu, id est, vir- that it is not necessary for the intellect to actually think about the end in
+tute actuum præcedentium in actu exercito ferri tanquam propter order for the will to love the means. But it is enough that it here and now
+finem in medium, sicut in brutis contingit instinctu naturæ ap- proposes this means as agreeable and desirable by a certain obscure reason
+prehendere media appetenda propter finem, et moveri in illa, non from habit. That is, by the strength of preceding acts actually exercised it is
+cognita ratione appetendi: quamvis in re nulla alia sit, nisi finis: brought to the means just as if for the sake of the end just as in brute animals
+ita in homine ex habita fit simile judicium in intellectu, et volun- it happens that by the instinct of nature they apprehend the means to be
+tas ex eodem habita sine expressa motione finis movetur etiam in desired for the sake of the end and are moved to them without cognizing
+medium. Et simile quid est in illis exemplis adductis, et in scientia, the reason for desiring them. Although in reality the reason is nothing else
+et habitu principiorum. but the end. Thus in the human case a similar judgement is made by habit
+in the intellect and the will by the same habit without an express motion of
+the end is also moved to the means. And similarly for what was adduced in
+these example, in science, and by the habit of principles.
+5. Secunda assertio.—Dico secundo, per electionem, ut electio 5. The second assertion.—I say, secondly, that through election insofar as
+est, potest appeti finis formaliter expresse, non ut objectum quod, it is election the end can be desired formally and expressly not as an objectum
+sed tantum ut ratio volendi. Hanc conclusionem docet etiam quod but only as the reason for willing. St. Thomas also teaches this conclu-
+D. Thomas, loco citato, et ratio est clara, quia generaliter semper sion in the cited place. And the reason is clear, because generally a power is
+potentia eodem actu fertur in objectum, et in rationem formalem always brought to the object and to the formal aspect of the object by the
+objecti. Quapropter si intellectus actu cogitet de fine propter quem same act. For this reason, if the intellect actually thinks about the end for
+medium est amandum, et voluntas expresse illum appetat, illo actu the sake of which the means is to be loved and the will explicitly desires it,
+formaliter appetit finem, saltem ut rationem volendi medium: non then it actually and formally desires the end at least as the reason for willing
+vero necessario appetit finem in se: tum quia in hoc distinguitur the means. But it does not necessarily desire the end in itself, since election
+
+-- 9 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 10
+electio ab intentione: tum etiam, quia nihil est, quod tunc neces- is distinguished from intention by this and also because there is nothing that
+sitet voluntatem ad amandum finem isto modo. then necessitates the will to loving the end in that way.
+6. Objectio.—Diluitur.—Sed dices. Quomodo fieri potest, ut fi- 6. An objection.—It is refuted.—But you may say: how can it happen that
+nis ametur formaliter ut quo, uno actu, et non ut quod, quia finis the end is formally loved as the objectum quo by one act and not as the ob-
+non est ratio volendi medium, nisi ut est ipse volitus: hoc autem est jectum quod, since the end is not the reason for willing the means except
+esse objectum quod, et patet a simili; non enim potest quis videre insofar as it is itself willed. But this is to be the objectum quod and it is clear
+colorem et lumen ut rationem videndi colorem,6 quin simul videat by analogy. For no one can see colour and the light as the reason for seeing
+lumen, ut objectum quod. Respondetur sicut ad dubium positum colour without at the same time seeing the light as the objectum quod. It
+in præcedenti conclusione, satis esse, ut in virtute actuum præce- is responded just as to the doubt expressed in the preceding conclusion: in
+dentium voluntas feratur in medium formaliter propositum, ut or- order for the will to be brought to the means formally proposed with the
+dinatur ad finem: nam tunc ratione illius ordinis formaliter am- strength of the preceding acts, it is enough that it be ordered to the end. For
+atur, et hoc est, finem, ut quo, amari. Et est simile in actu fidei, then by reason of that ordering it is formally loved and this is for the end, as
+quando quis formaliter credit propter primam veritatem, quamvis objectum quod, to be loved. And it is similar in the act of faith in the case of
+non actu conficiat syllogismum: neque actu credat tunc Deum esse someone who formally believes on account of the first truth, although he
+summum veritatem primam revelantem. Illud autem exemplum does not actually construct a syllogism nor does he then actually believe that
+de lumine, et colore non est simile: quia lumen est quoddam vis- God is the first revealer of highest truth. But that example concerning light
+ibile, quod necessario immutat potentiam: et ipsa immutata, et and colour is not similar, since light is certain visible [thing] which neces-
+non impedita, necessario agit: non sic est de voluntate et intellectu. sarily alters the power. And the power itself having been altered and not
+Nota tamen circa has duas conclusiones, istam qualemcumque vo- impeded necessarily acts. But that is not true of the will and intellect. Note,
+<col. b> luntatem finis, quæ in electione continetur, vulgari ser- nevertheless, concerning these two conclusions that any kind whatever of
+mone, et a Sanctis sæpe vocari intentionem: et hoc modo dicit Gre- willing of the end which is contained in election is often called intention in
+gorius electionem manifestam, esse intentionem occultam, quia common speech and by the saints. And in this way Gregory says that evi-
+quod volumus per se patet: quare autem velimus, sæpe latet. dent election is secret intention, because what we will it clear through itself
+but why we will is often hidden.
+7. Tertia assertio.—Dico tamen tertio, actum proprium inten- 7. The third asserion.—Nevertheless, I say, thirdly, that a proper act of in-
+tionis a proprio actu electionis aliquo modo secundum rationem tention is in some way distinguished from a proper act of election according
+formalem et interdum etiam reipsa distingui: et communis, et to a formal nature and sometimes also really. [This is held] both commonly
+D. Thomas supra, et probatur: nam quando aliquis appetit finem and by St. Thomas above. And it is proven: for when someone desires an
+in se nihil cogitando de medio particulari, habet verum actum end in itself while not thinking at all about particular means, he has a true
+intentionis et electionis nullo modo: et e contrario, qui appetit act of intention but in no way one of election. And, conversely, he who
+solum medium, maxime si nihil cogitat de fine, habet veram elec- desires a means alone, especially if he does not think at all about the end,
+tionem et intentionem nullo modo: ergo illi actus habent aliquo has [made] a true election and in no way [made] a [true] intention.7 There-
+modo rationes distinctes, quandoquidem diversas denominationes fore, these acts have distinct natures in some way, seeing that are appointed
+sortiuntur, et diversa munera. Et hoc etiam confirmant rationes different denominations and different functions. And the arguments made
+in principio factæ: et hinc etiam constat, reipsa distingui, quan- in the beginning also confirm this. And from this it is also clear that they
+doquidem separantur ad invicem, et e contrario, quod nunquam are distinguished in reality, seeing that they are separated in turn and con-
+contingit, nisi in rebus reipsa realiter distinctis. Et confirmatur versely, which never happens except in things really distinct in reality. And
+exemplo amoris Dei et proximi: hos enim amores ratione formali it is confirmed by the example of the love for God and neighbour. For it is
+
+-- 10 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 11
+aliquo modo distingui patet: nam unus est amor super omnia, et clear that these loves are distinguished in some way by formal nature. For
+non alius: unus est amor ultimi finis, et non alius, et reipsa ali- one is a love beyond all else and the other is not. One is a love for the ulti-
+quando separari experientia constat. mate end but not the other. And experience agrees that they are sometimes
+separated in reality.
+8. Quarta assertio.—Dico quarto. Contingit, voluntatem ali- 8. The fourth assertion.—I say, fourthly, that it can happen that the will
+quando amare finem, et medium utrumque tanquam objectum sometimes loves both the end and the means as an objectum quod and then
+quod, et tunc unum actum solum habet qui vere est intentio simul only have one act which actually is at the same time both intention and
+et electio. Colligitur ex D. Thoma 1, 2, quæst. 8, art. 3, et election. This is gathered from St. Thomas in [ST ] IaIIæ.8.3 and 12.4. And
+quæst. 12, art. 4. Et prior pars patet, quia voluntas potest simul the former part is obvious, since the intellect can sometimes be concerned
+multa appetere per modum unius: sed medium et finis conveniunt at the same time with premises and conclusion. Experience also seems to
+per modum unius: ergo, etc. Confirmatur, nam intellectus potest teach this. The second part, that is, that there then is one act alone, is ob-
+simul aliquando versari circa præmissas et conclusionem, quod ex- vious, first, because it proceeds from one habit and inclination of the will.
+perientia etiam videtur docere. Secunda pars, id est, tunc esse Secondly, because it tends to those two in the mode of one object. For al-
+unum tantum actum, patet primo, quia procedit ab uno habitu, though it desires both as as objectum quod, nevertheless the will does not
+et inclinatione voluntatis: secundo, quia tendit in illa duo per stop in both per se but refers one to the other. Therefore, that whole motion
+modum unius objecti: nam licet utrumque appetat, ut objectum is one complete tendency to the end and means. And it is confirmed: for we
+quod, tamen voluntas non sistit in utroque per se, sed unum ad said above that someone can will both an end and means in general through
+alterum refert: ergo totus ille motus est una perfecta tendentia in an act of intention. Therefore, if a particular means is also proposed, that
+finem et medium. Et confirmatur: nam supra diximus, per actum act [of intention] can also extend itself to it. For the reason is almost the
+intentionis aliquem velle et finem, et media in communi: ergo si same. Finally, regarding the act of charity, theologians think that God can
+proponatur etiam particulare medium, potest etiam ille actus se be loved in himself and the neighbour for the sake of God in the same [act].
+extendere ad illud: nam <261> eadem est fere ratio. Tandem de But the last part is obvious, since whatever belongs to the nature of election
+actu charitatis theologi sentiunt eodem posse amari Deum in se, et and of intention is found in that act.
+proximum propter Deum. Ultima vero pars patet, quia in eo actu
+reperitur quidquid est de ratione electionis et intentionis.
+9. Sed restat in hac conclusione difficultas, utrum res alioquin 9. But the difficulty of whether things otherwise really and formally dif-
+realiter, et formaliter diversæ in unam et eamdem coalescant. Re- ferent are joined together in one and the same [thing] remains for this con-
+spondetur primo eo modo fieri posse, quod plures rationes for- clusion. It is responded, first, that it can happen in that way that multiple
+males possunt in eamdem rem coalescere: ita Cajetanus, in 1, 2, formal natures can be joined together in the same thing. Cajetan [says] this
+quæst. 8, articul. 3, et favet D. Thomas, quæst. 12, art. 4, sed hoc in IaIIæ.8.3 and St. Thomas favours it in IaIIæ.12.4. But this does not seem
+non videtur satisfacere, quia nunquam contingit ut duæ rationes satisfactory, since it can never happen that two formal natures or things
+formales, vel res quæ aliquando possunt mutuo separari, aliquando which can sometimes be mutually separated can sometimes come together
+in eadem re, et entitate conveniant. Præterea, quando duæ rationes in the same thing and entity. In addition, when two natures of an end come
+finis eidem rei conveniunt, utraque quasi indivisibiliter inhæret together in the same thing, both inhere indivisibly, as it were, to the whole
+toti entitati, hoc autem non ita est in proposito. Quare dicendum entity. But this is not what was proposed. Just as it also needs to be asked
+est, actum intentionis, cum extenditur ad medium particulare per in the case of a similar augmention of habits, it needs to be asked why an
+modum electionis, in reipsa augeri per veram additionem entitatis act of intention that is extended to a particular means through the mode of
+eo modo, quo fit in augmento scientiæ: quare electio et intentio, election is increased in reality through a true addition of entity in the way
+
+-- 11 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 12
+quando per se sumuntur separatim, res quidem sunt distinctæ, sed in which that happens in the case of an increase in knowledge, [and] why
+non integræ et perfectæ, sed absolute constituunt unam, si in eo- election and intention are indeed distinct things—and not integrated and
+dem objecte simul, et debito modo conjungantur: sicut dicendum complete things—when they are taken per se and separately, but absolutely
+est, etiam in simili augmento habituum. Quapropter rationes for- constitute one thing if they are joined in the same object at the same time
+males intentionis et electionis ita sunt inter se differentes, sicut and in the required way. For this reason, the formal natures of intention
+partes heterogeneæ totius dicuntur specie distinctæ, quamvis sint and election are different from each other in the same way as heterogenous
+aptæ componere unum totum: et ad hunc modum dicendum de parts of a whole are said to be distinct in species, although they are ready to
+actu charitatis erga Deum et proximum. compose one whole. And one should respond in this way concerning the
+act of charity towards God and neighbour.
+10. Sed dices. Ergo simili modo quando actus intentionis se 10. But you may say: therefore, in an analogous way, when an act of
+extendit ad media in communi formaliter amanda, illud erit per intention extends itself to the means in general that are to be loved formally,
+aliquod augmentum, quod non pertineat ad intentionem finis, sed it will be through some augmentation, which does not belong to the inten-
+potius ad electionem. Respondetur primo, non esse similem ra- tion of the end but rather to election. It is responded, first, that it is not
+tionem, quia, ut dixi, ipsa intentio virtute et confuse continet analagous argument, because, as I said, the very intention virtually and con-
+media in communi, et postea idem ipsum magis explicat, sicuti fusedly contains the means in general and afterwards it further disentangles
+si aliquis confuse cognosceret principia, et postea illa magis pene- the very same thing, just as the mode of the conclusion would not change
+traret, non variaretur essentialiter modus conclusionis: secus vero essentially if someone were to cognize the principles confusedly and after-
+est, quando ad conclusionem descendit. Secundo, si aliquid ad- wards were to penetrate them further. But it is otherwise when it descends
+ditur intentioni illa ratione, id non pertinet ad electionem, quia to the conclusion. Secondly, if something is added to the intention by that
+antecedit omnem consultationem, et per se habet intrinsecam con- argument, it does not belong to election, because it precedes all deliberation
+nexionem cum intentione finis. and has a per se and intrinsic connection with the intention of the end.
+11. Ad argumenta primæ opinionis, si fiant contra istam con- 11. In response to the arguments for the first opinion, if they are made
+clusionem, Aristotelem esse <col. b> interpretandum juxta ea, against the conclusion that Aristotle is to be interpreted according to those
+quæ diximus, quamvis loquatur de voluntate et de intentione, de things which we said, although it was said concerning will and intention
+quo actu formaliter verum est, semper esse actum per se distinc- concerning which act it is formally true that it is always an act per se distinct
+tum ab actibus subsequentibus, quia habet diversum modum ten- from subsequent acts, since it has a different way of tending to the object
+dendi in objectum, et est prima unio, quæ semper permanet eo- and is the first union which always remains in the same way even though the
+dem modo, quamvis cæteri actus varientur. Ad primam rationem other acts are changed. In response to the first argument, it is denied that the
+negatur, objecta electionis et intentionis omnino distingui. Ad objects of election and intention are entirely distinguished. It is responded
+confirmationem respondetur non esse similem rationem in om- to the confirmation that it is not an analogous argument in all respects. And
+nibus: et manifeste patet diversitas in habitibus: est ergo differen- difference is manifestly obvious in habits. There is therefore a difference,
+tia, quia conclusiones, quæ eliciuntur ex principiis, habent in se since conclusions which are drawn from principles have a proper truth in
+propriam veritatem, quam principia manifestant: at vero medium, themselves which the principles reveal. But a means as such, on the other
+ut sic, nullam bonitatem habet: sed totam illam recipit ex ordine hand, has no goodness, but receives all its [goodness] from its ordering to
+ad finem: et per hæc etiam patet ad reliquas rationes. Solum ad the end. And through this [the response] to the remaining arguments is also
+id de efficientia electionis circa intentionem, dico, forte non esse obvious. I say only to the one about the efficiency of election concerning
+propriam efficientiam, sed dicitur intentio efficax, quia applicat ef- intention that perhaps it is not proper efficiency. Rather, it is called an
+ficaciter voluntatem ad electionem. Vel secundo, quanquam vere efficacious intention because it efficaciously applies the will to election. Or,
+
+-- 12 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 13
+efficiat potest esse per modum augmenti, ita ut eadem intentio finis secondly, although it truly effects, it can be in the mode of augmentation,
+ipsa se augeat, et extendatur ad voluntatem medii. so that the same intention of the end augments itself and is extended to the
+willing of the means.
+12. Sed hic sunt duo dubia. Primum est, quando medium est 12. But here there are two doubts. The first is whether there is true
+amatum per se, et propter finem, an ibi sint vera intentio et electio? intention and election in the case where a means is loved per se and for the
+et quomodo distinguantur? Respondetur, sine dubio esse ibi ra- sake of an end. And how are they distinguished? It is responded that there is
+tionem intentionis et electionis; tamen de istorum actuum distinc- without doubt the nature of intention and election here. Nevertheless, we
+tione dicemus agendo de bonitate et malitia. Nunc dico breviter, will talk about the distinction of these acts when discussing goodness and
+frequenter et fere semper esse unum actum, qui secundum suam badness. For now I say briefly that frequently, even almost always, there is
+essentiam est intentio; tamen ex accidenti est electio: ut vero talis one act which is an intention according to its essence. Nevertheless, it is an
+actus sit primario electio, necessarium est, ut voluntas proxime et election by accident. But in order for such an act to be primarily an elec-
+immediate moveatur ad rationem boni intrinseca ratione medii et tion it is necessary that the will proximately and immediately be moved to
+objectum illud referat in finem alium: tunc enim primaria species the aspect of good by the intrinsic nature of the means and that it refer that
+primario desumitur a medio, accidentaria a fine: si vero contin- object to another end. For then the primary species is primarily taken from
+geret, potentiam ita allici a duabus illis rationibus boni, utrumque the means and accidentally from the end. But if it were to happen that the
+proxime et immediate intenderet, et unam ad alteram non referret, power were thus drawn by those two aspects, each were proximately and
+tunc revera essent duo actus distincti, eliciti, verbi gratia, a diversis immediately intended, and neither were referred to the other, then there re-
+virtutibus: quia differentiæ desumptæ ab illis objectis essent pri- ally would be two distinct acts, elicited, for example, by different virtues.
+mariæ et essentiales, et ideo non possent convenire eidem actui. Since the differences taken from these objects would be primary and essen-
+tial, they could not, therefore, come together in the same act.
+13. Sed objicies: nam in intellectu tunc est unus actus, quo 13. But you will object: for there is then in the intellect one act by
+judicat hanc rem esse duplici ratione appetibilem, scilicet per se which it judges this thing to be desirable under two aspects, namely, per se
+et propter aliud: ergo in voluntate erit unus actus. Respondetur and for the sake of another. Therefore, there will be one act in the will.
+negando consequentiam. Patet a simili, nam intellectus potest ju- It is responded by denying the consequence. It is obvious by analogy, for
+dicare unico ju- <262> dicio Deum esse in se bonum et nobis. the intellect can judge by one judgement that God is good in himself and
+Et tamen voluntas non amat uno actu sub utraque ratione: nam good for us. And yet the will does not love by one act under each aspect.
+unus est actus amoris amicitiæ, alius concupiscentiæ: et ratio est, For there is one act of friendship love and another of concupiscent love.
+quia aliquæ res possunt pertinere ad intellectum sub eadem ratione And the reason is because any things can belong to the intellect under the
+formali veri, quæ tamen diversa ratione appetibilis ad voluntatem same formal aspect of the true, which nevertheless belong to the will under
+pertineant; et habitus id manisfeste declarant in illo exemplo: nam different aspects of the desirable. And habits manifestly show this in that
+fides ostendit Deum sub utraque ratione, et tamen non eadem char- example. For faith reveals God under each aspect, and yet it is not the case
+itas amat sub utraque ratione. that the same charity loves under each aspect.
+14. Alterum dubium est, quando medium est volitum propter 14. The other doubt is in what way intention and election relate in a case
+finem tantum, et tamen est id propter quod aliquid est volitum, where the means is willed for the sake of an end alone and yet is that for the
+quomodo se habent intentio et electio. Respondetur, in re esse sake of which something else is willed. It is responded that in reality there
+unum actum, qui diversis rationibus potest dici intentio et elec- is one act which under different aspects can be called intention and election,
+tio, quando id refertur ad aliud, atque aliud ad aliud: tamen quia since it is referred to another and another to another. Nevertheless, since
+simpliciter tota ratio volendi illud medium sub utraque ratione est strictly speaking the entire reason for willing that means under either aspect
+
+-- 13 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 14
+finis extrinsecus a quo sumitur tota ratio appetibilitatis, quæ est is the extrinsic end from which the entire aspect of desirability which is in
+in objecto, ideo simpliciter, et quasi secundum substantiam ille ac- the object is taken, therefore, strictly speaking and, as it were, according to
+tus est electio: tamen secundum quid et veluti quodammodo est substance, that act is election. Nevertheless, secundum quid and as if in a
+intentio. certain way, it is intention.
+SECTIO IV. SECTION IV.
+Utrum actus electionis sit liber. Whether an act of choice is free.
+Suppono post intentionem et facto consilio aliquando reperiri I suppose that after the intention and with the deliberation having been
+unum medium, interdum plura: et hæc vel æque, vel inæqualiter completed that sometimes one means is discovered and sometimes multiple
+bona ad finem. means and that these are either equally or not equally good for attaining the
+end.
+1. Est ergo prima sententia, quæ affirmat omnem electionem 1. The first view, therefore, is the one which affirms that every choice
+esse liberam, etiam posita intentione et unico medio. Ita tenent is free, even with a posited intention and a single means. The nominalists
+Nominales. Ratio est, quod nihil tunc occurrat, quod inferat ne- think this. The reason is that nothing thereupon occurs that would impose
+cessitatem: nam deberet esse intentio ipsa: quæ tamen cum sit necessity. For it ought to be the intention itself, which, nevertheless, when
+actus liber, non potest necessitare. Confirmatur primo exemplis, it is a free act, cannot be necessitated. It is confirmed first by examples. For
+nam si quis voluntate absoluta velit facere eleemosynam, et non if someone by an absolute will wishes to give alms and cannot do so except
+possit nisi per furtum, non necessario eligit tale medium. Similiter through theft, he does not by necessity choose such a means. Similarly, he
+qui vult consequi felicitatem, non necessario servat mandata. Se- who wills to pursue happiness does not by necessity keep the command-
+cundo confirmatur ab inconvenienti: alias posita intentione abso- ments. It is confirmed, second, from disagreeableness: otherwise, there
+luta, nullum esset meritum in electione: sicut quando actus exte- would be no merit in choice once an absolute intention had been posited,
+rior necessario sequitur ex intentione: non habet meritum: ergo, just as an exterior act has no merit when it follows by necessity from an
+etc. intention. Therefore, etc.
+2. Secunda sententia.—Secunda sententia affirmat existente 2. The second view.—The second view affirms that the choice is neces-
+unico medio electionem esse necessariam: tamen existentibus sary if only a single means exists. Choice is free only with the existence of
+pluribus solum esse liberam, quatenus voluntas potest applicare multiple means, to the extent that the will can apply the intellect so that
+intellectum, ut inquirat plures ratio- <col. b> nes convenientiæ it searches for more reasons of agreeability and utility in one means than
+et utilitatis in uno medio, quam in alio: quas intellectus si inve- in another. If the intellect finds this [greater agreeability and utility] and
+niat, et judicet esse in uno medio, voluntas necessario eligit illud. judges it to be in one means, then the will by necessity chooses that means.
+Quod si intellectus æque judicet de utroque medio, voluntas in If the intellect judges the means to be equal, then the will would not be able
+neutrum eorum poterit moveri. Hanc sententiam indicat divas to move to either of them. St. Thomas indicates this view in [ST IaIIæ.13.6
+Thomas 1, 2, quæst. 13, art. 6, ad 3, Cajetanus ibi. Fundamentum ad 3. Cajetan [also] here. The foundation is that freedom of the will arises
+est, quia libertas voluntate oritur ex indifferentia intellectus: ergo from indifference of the intellect. Therefore, once the determination of the
+facta determinatione intellectus, et posito judicio demonstrante, intellect has been made and the posited judgement that this is more useful
+hoc esse utilius, voluntas non potest non velle. Confirmatur quia has been demonstrated, the will cannot not will. It is confirmed because
+
+-- 14 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 15
+cum voluntas sit potentia cæca, debet regi judicio intellectus: alias since the will is a blind power, it ought to be ruled by the judgement of the
+judicium et consilium essent inutilia, et nulla posset reddi ratio, intellect. Otherwise, judgement and deliberation would be useless and no
+cur voluntas hoc amaret et non illud. Hæc sententia est Durandi, reason could be given for why the will loves this and not that. This is the
+in 2, 2, d. 24, quæst. 3, qui potius dicit, electionem prout est a view of Durandus in 2, 2, d. 24, q. 3, who says rather that choice insofar as
+voluntate, non esse liberam, sed totam libertatem esse in judicio: it is from the will is not free, but all the freedom is in the judgement. For
+nam intellectus, inquit, libere potest judicare hoc esse eligendum, the intellect, he says, can be free to judge this to be choiceworthy or that, to
+vel illud, cui judicio necessario consentit voluntas. which judgement the will consents by necessity.
+3. Prima assertio.—Dico primo. Certum est de fide, hominem 3. First assertion.—I say, first: It is certain by faith that a human being is
+esse liberum in electionibus. Nam de fide est, hominem libere op- free in choices. For it is of the faith that a human being acts freely. More-
+erari: præcipuæ autem operationes hominis, et maxime humanæ, over, choices especially are human actions and maximally human, because
+sunt electiones, quia magis versantur circa contingentia et magis they turn more on contingencies and depend more on the deliberation and
+ex consilio et ratione hominis pendent: ergo, etc. Unde Eccles. 15, reason of a human being. Therefore, etc. Hence, in Ecclus. 15[:14] is called
+homo liber maxime dicitur, quia relictus est in manu consilii sui. Et especially free because ‘he was left in the hand of his deliberation’. And im-
+statim adhibentur exempla de mediis, quibus potest homo libere mediately the examples concerning means are brought in, which a human
+uti. Hæreses vero, quæ ex hac conclusione evincuntur, omitto: being can freely use. But I leave aside the heresies which are overcome by
+vide in tr. 2, disp. 1, sect. 2, et libr. de Gratia. this conclusion: see disp. 1, sect. 2 and the book De Gratia.
+4. Secunda assertio.—Dico secundo. Quando unum tantum est 4. Second assertion.—I say, secondly: when there is one means only to
+medium illius electio in tantum libera est, in quantum est in potes- the end, the choice is free to the extent that it is in the power of the will
+tate voluntatis tollere intentionem, tamen si intentio est efficax, to remove the intention. Nevertheless, if the intention is effective and it
+et illa perseveret, necessario sequitur electio. Est communis D. perseveres, the choice follows by necessity. [This view] is common to St.
+Thomas, supra ad primum, et quæst. 10, art. 2, ad 3, Aristotelis 3, Thomas in the passage cited above ad 1 and 10.2 ad 3 and Aristotle in DA
+de Anima, text. 47 et 48, et potest colligi ex Joanne, cap. 14: Qui 3, text. 47 and 48, and it can also be gathered from John 14[:21]: ‘He who
+diligit me, mandata mea servabit. Et ratio est, quia voluntas abso- loves me, will keep my commandments.’8 And the reason is that an absolute
+luta, si potest, facit quod vult: quia si potest et non facit, certe non will, if it can, does what it wills. Because if it can and does not, it is certainly
+propter aliud quam quia non vult, et quia efficaciter vult consequi not on account of something other than that it does not wish to and because
+finem: et potest: ergo facit: ergo si potest, unico medio, illo utitur: it wishes to follow some end to good effect. And it can. Therefore it does.
+quod si non utitur, manifestum signum est, voluntatem non fuisse Therefore, if it can by only one means, that one will be used. If it is not
+efficacem, etc. used, that is a manifest sign that the will was not effective, etc.
+Nota tamen debere medium necessarium judicari et cognosci, 5. Note, however, that the necessary means ought to be judged and cog-
+et intellectum actu cogitare de illo: quoniam alias voluntas non nized and the intellect actually to think about it, because otherwise the will
+mo- <263> vebitur. Itaque oportet ut voluntas nccessario hic et will not be moved. Accordingly, it is necessary that the means be judged
+nunc moveatur, medium hic et nunc judicari necessarium: quo- necessary here and now for the will to be moved by necessity here and now.
+niam si judicatur necessarium, sed pro alio tempore, potest volun- Because if it is judged necessary but only for another time, the will can post-
+tas differre electionem, etiamsi persistat in illa intentione. Et ratio pone choice, even if it persists in that intention. And the reason is because
+est, quia voluntas non patitur necessitatem, nisi pro modo necessi- the will does not undergo necessity except by way of the necessity of the
+tate medii. means.
+6. Neque contra hoc obstant fundamenta primæ sententiæ in 6. Nor do the foundations of the first view in n. 1 stand against this. To
+numero primo. Ad rationem dico, hanc efficaciam, et necessi- the argument I say that this efficacy and necessity comes from the intention.
+
+-- 15 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 16
+tatem provenire ab intentione. Neque refert, actum intentionis Nor does it imply that an act of intention is free, because with a free act
+esse liberum: quia cum actu libero potest alius actus necessario another act can be conjoined by necessity. And then it flows from that
+conjungi. Et tunc ab illo necessario manat. Ad primam confirma- necessity. With respect to the first confirmation, the induction is denied.
+tionem negatur inductio. Ad primum exemplum dic, illam volun- To the first example, say that that will to give alms is not absolute which is
+tatem dandi eleemosynam non esse absolutam quæ explicatur hac explained by this word ‘I wish’ (volo) but is ‘I would wish’ (vellem). Yet this
+voce volo, sed est vellem: qui tamen actus, quia procedit ex toto af- act, because it proceeds from the complete disposition to honest good, is
+fectu ad bonum honestum, existimatur ac si esset absoluta volun- esteemed as if it were an absolute will. To the second example is responded
+tas. Ad secundum exemplum respondetur, peccatorem illum non that those sinners do not judge here and now to be necessarily penitent but
+judicare hic et nunc esse necessariam pœnitentiam, sed suo tem- at their own time.
+pore. Ad secundam confirmationem aliqui concedunt electionem To the second confirmation some concede that that choice in itself is not
+illam in se non esse meritoriam, sed in causa, id est, in intentione merit but in its cause, that is, in intention and in perseverance. Because if
+et in perseverantia: quia si illa intentio esset actus omnino neces- that intention were an act entirely necessary, such a choice would have no
+sarius, electio talis nullum haberet meritum: ergo signum est, to- merit. Therefore it is a sign that the entire merit consists in that intention.
+tum meritum consistere in illa intentione. Sed verius dicitur, illam But it is more truly said that that choice is in itself meritorious, because ne-
+electionem esse in se meritoriam, quia necessitas ex suppositione cessity by supposition does not destroy will, strictly speaking, because that
+non tollit voluntatem simpliciter, quia suppositio illa est in volun- supposition is in the will nor is it similar to an external act. Because that
+tate, neque est simile de actu exteriori: quia ille proxime procedit proceeds proximately by a power which has no freedom. And therefore the
+a potentia, quæ nullam habet libertatem: et ideo actus exterior est external act is morally one with the internal act. But it is not like that with
+unus moraliter cum interiori, non sic autem electio. Et ad illud choice. And to that concerning the perseverance of the intention I say that
+de perseverantia intentionis dico, hanc perseverantiam intentionis this perseverance of the intention consists in this that in the present circum-
+in hoc consistere quod hic potius vult eligere, quam omittere in- stances it wishes to choose rather than to disregard the intention. And on
+tentionem: et idcirco electio simpliciter est libera et in potestate that account the choice, strictly speaking, is free and in the power of choos-
+eligentis, non vero esset simile, si intentio esset omnino et sim- ing, but it would not be similar if the intention were entirely and strictly
+pliciter necessaria: quia tunc non esset in potestate eligentis omit- speaking necessary. Because then it would not be in the power of choosing
+tere illam: ne ad eligendum cogeretur, et ita nulla libertas maneret to disregard it, lest for choosing it were cognized and this no freedom would
+in electione. remain in the choice.
+7. Occurrebat hæc difficultas: nam sequitur, eos qui diligunt 7. This difficulty has occurred: for it follows that those who love God
+necessario Deum, cum vident illum, operari necessario omnia, by necessity, when they see him, do everything by necessity, without which
+sine quibus non potest conservari ille amor. Dico breviter, quo- that love cannot be conserved. I say briefly (because the matter is in another
+niam res est alterius loci, frequenter solum esse necessitatem quoad place) that frequently the necessity is only as long as the specification, be-
+specificationem, quia non occurrunt objecta tanquam hic et nunc cause the objects do not occur as here and now necessary. Second, it is not
+<col. b> necessaria. Secundo forte inconveniens non est, ali- strongly disagreeable that sometimes that act of choice is necessary. Some
+quando actum illum electionis esse necessarium: semper tamen freedom can always still remain, because the will can be brought to that
+potest manere aliqua libertas, quia potest voluntas ferri in illud means not only by reason that it is necessary to the end but on account of
+medium, non ea ratione tantum, quæ necessaria est ad finem, sed other aspects of good. And this is free. Wherefore, etc.
+propter alias rationes boni: et hoc liberum est. Quare, etc.
+8. Tertia assertio.—Dico tertio. Quando sunt plura media 8. Third assertion.—I say, thirdly: when multiple means are by every
+omni ratione æque bona, potest voluntas sua libertate eligere quod consideration equally good, the will can by its freedom choose the one it
+
+-- 16 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 17
+voluerit. Conclusio hæc est communis, et probatur primo: quia wishes. This conclusion is common and is proved first: because in proposing
+propositis mediis intellectus indicat, nullum sigillatim esse neces- the means the intellect indicates that none of them separately is necessary.
+sarium: ergo habet voluntas unde amet quod illorum placuerit, Therefore, it happens that the will for that reason may love whichever one
+quia bonum est, et propter quid omittat: scilicet, quia necessar- of them it pleases, because it is good and on account of what it disregards,
+ium non est: ergo, etc. Secundo incredibile est dicere, quod tunc namely, because it is not necessary. Therefore, etc. Secondly, it is incredi-
+voluntas maneat suspensa: nam ipsa ratio ducit ad eligendum illo ble to say that then the will remains in suspense. For reason itself leads to
+modo, nam advertere potest, esse irrationabile, medium utile non choosing in that way. For it can be noticed that it is irrational not to choose
+eligere, et fine amato privari, solum quia occurrit aliud medium a useful means and be deprived of the end that is loved merely because there
+seque bonum. Tertio in hoc maxime casu apparet libertas volun- happens to be another means which is good. Thirdly, freedom of the will
+tatis: nam si tunc non potest eligere, semper determinaretur a judi- is especially apparent in this case. For I ask whether that judgement is free
+cio intellectus: quo posito eligeret, sed hoc tollit libertatem volun- or necessary. If necessary, freedom is removed. If free, [it is] because of
+tatis: nam peto, an illud judicium sit liberum, an necessarium? si the preceding free act of will and the same question will return. But nei-
+necessarium, tollitur libertas: si liberum, ergo ex præcedenti actu ther is what Durandus says probable, that that judgement is per se free, for
+voluntatis libero, et redibit eadem quæstio. Neque vero probabile since someone not necessarily provides assent when he assents, therefore he
+est, quod Durandus dicit, judicium illud per se esse liberum, nam does, because he wills. Just as because he is not moved by necessity, when
+cum quis non necessarium præbet assensum, quando assentit, ideo he moves because he wills. And therefore, he believes , because he wills, etc.
+facit, quia vult: sicut quia non necessario movetur, cum movetur,
+quia vult: et idcirco credit, quia vult, etc.
+9. Quarta assertio.—Dico quarto: quando media sunt inæqualia 9. Fourth assertion.—I say, fourthly: when the means are inequal, ei-
+sive materialiter, sive formaliter, sive utroque modo, liberum est ther materially or formally or in both ways, there is freedom of the will to
+voluntati eligere etiam minus bonum: semper tamen electio est choose even the lesser good. Nevertheless, the choice is always according to
+juxta mensuram intentionis, et frequentius, et fere semper eligit the measure of intention and more frequently, even almost always, the will
+voluntas sub aliqua ratione majoris convenientiæ. Notandum in chooses under some aspect of greater agreeability. It should be noted that
+mediis, duo posse præcipue considerari. Primum utilitas ad finem, with means two things can be especially considered. The first is utility with
+quod est quasi formale. Secundum aliqua propria bonitas, quod respect to the end that is as if formal. The second is some proper goodness
+est quasi materiale: possunt ergo media esse æque bona priori ra- that is as if material. Therefore, means can be equally good with respect to
+tione, non vero posteriori: et hæc voco materialiter inæqualia: et the former, but not with respect to the latter. And these I call materially in-
+tunc constat intentionem finis de se non magis inclinare ad unum, equal. And in that case it is clear that the intention of the end by itself does
+quam ad aliud. Quare ex hac parte libera est electio: verum al- not incline more to one than to another means. Wherefore, from this part
+iunde ex naturali propensione voluntatis ad alia bona, fit ut vol- the choice is free. From elsewhere, however, by a natural propensity of the
+untas magis inclinetur ad aliud bonum, quod est quacumque ra- will to other goods it happens that that will is more inclined to another good
+tione me- <264> lius. Verum, cum hæc inclinatio etiam non im- which is better for whatever reason. Indeed, when this inclination also does
+ponat necessitatem, poterit tunc voluntas non amplecti illam ma- not impose necessity, then the will will be able not to grasp that greater as-
+jorem rationem boni, atque adeo eligere medium materialiter mi- pect of good and therefore to choose the means that is materially less good.
+nus bonum. Et ita patet prima pars conclusionis, quæ confirmatur: And thus the first part of the conclusion is clear, which is confirmed: for
+nam illud majus bonum, ut sic, non est amatum electione, sed in- that greater good, as such, was not loved by choice but by intention, and yet
+tentione: atqui omnis hujusmodi intentio est libera; ut supra dixi: every intention of this sort is free, as I said above. Therefore.
+ergo.
+
+-- 17 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 18
+10. Notandum secundo: contingere posse, media, ut media for- 10. It should be noted, secondly, that it can happen that means as for-
+malia esse inæqualia, quia scilicet uno medio, vel breviori tempore mal means are inequal, because, of course, the end will be compared to one
+vel majori perfectione, et certitudine comparabitur finis, et tunc means, either for nearness in time or for greater perfection and certainty,
+constat liberum esse voluntati eligere quod voluerit, quia liberum and then it is clear that there is freedom for the will to choose the one it
+ei est intendere finem aut pro tali tempore, aut cum tanta perfec- wishes, because there is freedom for it to intend the end either on behalf of
+tione: et ratio est, quia intentio est causa electionis, et ideo electio such nearness or with such perfection. And the reason is because the inten-
+commensuratur illi tanquam suæ causæ. Et confirmatur etiam ex- tion is the cause of the choice and therefore the choice is measured to that as
+perientia conclusio: nam si quis intenderet consequi finem aut bre- its cause. And the conclusion is also confirmed by experience: for if some-
+vissimo tempore, aut summa perfectione, respectu hujus intentio- one were to intend to pursue an end either for the greatest nearness in time
+nis medium utilius esset simpliciter necessarium: ergo necessario or for the greatest perfection, with respect to this intention the more useful
+eligetur. Et per hæc patent aliæ duæ partes conclusionis. Patet means would be, strictly speaking, necessary. Therefore, it will be chosen
+etiam alia pars, nempe simpliciter esse liberum voluntati eligere by necessity. And through this the other two parts of the conclusion are
+medium, quod omnibus pensatis absolute judicatur minus bonum, clear.
+quia ad nullum determinate necessitatur cum nullum sit necessar- The other part is also clear, for certainly, strictly speaking, there is free-
+ium, et semper potest remittere intentionem prout voluerit. Con- dom for the will to choose the means that by every weighing is judged less
+firmatur experientia: nam quamvis simpliciter quis judicet hones- good overall, because it is necessitated to nothing determinate since none is
+tum esse melius delectabili, eligit delectabile si vult. necessary and it can always throw back the intention just as it wishes. It
+is confirmed by experience: for although, strictly speaking, someone may
+judge honest good to be better than pleasure, yet he chooses pleasure if he
+wants to.
+11. Ad fundamentum secundæ sententiæ dico libertatem oriri 11. Regarding the foundation of the second view, I say that freedom
+ex ratione, non solum quia potest judicare hoc esse melius illo, arises from reason, not only because it can judge this to be better than that,
+sed maxime quia potest perpendere uniuscujusque boni pondus: but especially because it can carefully assess the weight of each good. For
+propterea potest voluntas illo perfecto modo amare, id est, eo this reason the will can love in that perfect way, that is, in that position and
+gradu, et modo, quo ipsum est amabile: et exemplum hujus evi- way in which the thing itself is lovable. And an example of this is evident in
+dens est in libertate divinæ voluntatis: quod confirmat omnia quæ the freedom of the divine will, which confirms everything which we have
+diximus: quoniam ex duobus æqualibus eligit quod vult non alia said. Because from two equals it chooses what it will not by another reason,
+ratione, nisi quia vult, et sæpe eligit, quod minus utile est: nostra unless because it wants to, and often it chooses what is less useful. Our
+autem libertas est participatio illius et eamdem radicem habet ser- freedom, moreover is a participation of that and has the same root with the
+vata proportione. Ad confirmationem illius sententiæ nego, vol- proportion being kept.
+untatem ita determinari ab intellectu, ut ipsa non se etiam deter- Regarding the confirmation of that view, I deny that the will is deter-
+minet, imo ab intellectu determinatur, quasi quoad sufficientiam: mined by the intellect so that it itself does not also determine itself. Indeed,
+ipsa vero se determinat quoad efficaciam: neque oportet aliam ra- by the intellect it is determined as if until sufficiency. But it determines itself
+tionem hujus determinationis reddere, præter libertatem, et quia until efficacy. Nor is it necessary that another reason of this determination
+vult supposita sufficienti ratione ex parte ob- <col. b> jecti. Atque be given beyond freedom, and because it wills by a sufficient supposition by
+hactenus de priori parte tituli præsentis disputationis. a reason on the part of the object. And as far as this concerning the former
+part of the title of the present disputation.
+
+-- 18 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 19
+SECTIO V. SECTION V.
+De cognitione necessaria ad electionem. Concerning the cognition necessary for election.
+1. In hanc secundam partem disputationis incidunt, quæ D. 1. In this second part of the disputation come those things which
+Thomas scribit 1, 2, q. 14. Possumus vero etiam ex dictis sumere St. Thomas wrote in [ST ] IaIIæ.14. But from what was said we can also
+quædam certa. Primum est, electionem debere præcedere judi- assume certain resolved things. The first is that some judgement of the in-
+cium aliquod intellectus. Secundum, oportere ut illud judicium sit tellect must precede election. The second is that it is required that that
+aliquo modo practicum. Tertium, non esse necessarium aliquod al- judgement is practical in some way. The third that some other command
+iud imperium ab isto judicio distinctum: quod eisdem rationibus distinct from that judgement is not necessary. This can be confirmed by the
+confirmari potest, quibus in materia de intentione usi fuimus, same arguments which were used in the material about intention, disp. 6,
+disp. 6, sect. 4. Jam solum restat quærendum, utrum electionem sect. 4. It only remains now to inquire whether deliberation must necessar-
+necessario debeat præcedere consilium. ily precede election.
+2. Et dico breviter ad electionem frequenter præcedere formale 2. And I say briefly that formal deliberation frequently precedes elec-
+consilium, non tamen semper. Nota nomine consilii hic non sig- tion, but not always. Note that by the name ‘deliberation’ here is not signi-
+nificari collationem mediorum factam inter plura quamvis ea forte fied a comparison that has been made of means between multiple [options],
+fuerit etymologia vocis: sed significat proprium actum intellectus although this was perhaps the etymology of the word. Rather, it signifies
+hominis eligentis, in quo duo præcipue requiruntur: nempe inven- a proper act of the intellect of the human being who is electing, in which
+tio mediorum, et judicium. Unde constat consilium non unum, two things in particular are required: namely, a discovery of means and a
+sed plures actus includere: quoniam electionem præcedit inquisi- judgement. From this it is clear that deliberation includes not only one
+tio, quæ non fit sine discursu, et consideratione circumstantiarum but multiple acts, because a search which does not happen without a dis-
+et difficultatum, et omnium rerum quæ ad recte ferendum judi- cursus and consideration of circumstances, difficulties, and all those things
+cium necessario considerando sunt: unde consilium nonnunquam which must necessarily be considered in order rightly to make a judgement.
+solam inquisitionem ipsam significat, Psal. 12, Quamdiu ponam Hence, deliberation sometimes signifies this very search itself, [as in] Psalm
+consilium in anima mea? Et hoc modo videtur loqui D. Thomas, 12[:2]: ‘how long shall I place deliberation in my soul?’ And St. Thomas
+fere tota quæst. illa 14, cum Aristotele 3, Ethic., cap. 3. Aliquando seems to speak in this way in almost all of that q. 14, along with Aristotle
+vero consilium significat solum judicium, quamvis ex discursu non EN III, cap. 3. But sometimes ‘deliberation’ signifies the judgement alone
+procedat. Et hoc præcipue tribuitur Deo, de quo Damascenus, even though it not follow from the discursus. And this especially is at-
+lib. 2, cap. 22, interdum utrumque complectitur, Psal. 32, Dissi- tributed to God, concerning which [John] Damascene [speaks] in lib. II,
+pat consilia gentium, Gen., 49, In consilium eorum non veniat an- cap. 22. Sometimes both are included [as in] Psalm 32[:10] (‘[The Lord]
+ima mea. Et hoc modo intelligenda est conclusio, quæ ex superi- brings to nought the deliberations of the nations’) and Gen. 49[:6] (‘Let not
+oribus satis patet. Nam quando electio fit inter multa (quod sæpius my soul go into their deliberation’). And the conclusion should be under-
+accidit) oportet omnia illa esse judicata, et proposita per intellec- stood in this way, which is sufficiently clear from the preceding. For when
+tum, et communiter esse inventa et considerata. Tamen certum election occurs between multiple [means] (which happens more often), all
+præterea est, hunc modum consilii neque semper, neque in om- those must be judged and proposed through the intellect and must gener-
+nibus æque procedere, vel esse necessarium: nam de rebus min- ally be discovered and considered. Still, it is in addition certain that this
+imis, vel de per se motis non est consilium. Ex quibus constat, mode of deliberation neither appears equally nor is necessary always and in
+etiam materiam consilii et elec- <265> tionis fere esse eamdem all [cases]. For there is no deliberation concerning unimportant things or
+
+-- 19 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 20
+nempe actiones nostras, vel quæ his actionibus subjiciuntur, vel concerning those things moved per se. From which it is also clear that the
+ad illas conferunt. Solum addendum est, materiam consilii esse matter of deliberation and election is almost the same, namely, our actions
+graviorem, quia ratione inquisitionis multa in consilio consider- or those things which are subjected to these actions or directed at them. It
+antur, quæ postmodum non cadunt: licet eorum notitia ad bene only needs to be added that the matter of deliberation is more important,
+eligendum conducat: et per hæc satis videtur exposita doctrina since by reason of the search many things are considered in deliberation
+D. Thomæ, quæst. 14. which end up not happening to one, although knowledge of them is advan-
+tageous for electing well. And the doctrine of St. Thomas in q. 14 seems
+sufficiently explained through these things.
+3. Solum in quod, art. 5, dicit, consilium fieri modo reso- 3. I will just briefly discuss what he says in art. 5 (that deliberation hap-
+lutorio, quoniam a Cajetano obscure exponitur, breviter dicam. pens in an analytic mode), because it is explained obscurely by Cajetan. The
+Resolutio ergo et compositio proprie ad totum, partesque dicit or- analysis and composition, therefore, properly express order to the whole
+dinem: nam componitur totum ex partibus, et in illas resolvitur: and parts. For the whole is composed from parts and it is analysed into
+tamen quia sunt causa totius, ideo processus a causa ad effectum those. Nevertheless, since they are the cause of the whole, the progression
+dicitur compositivus ab effectu ad causam resolutorius: in consilio from cause to effect is called compositive [and] from effect to cause more
+ergo inquisitio proprie procedit ordine resolutorio, et de hac lo- analytic. In deliberation, therefore, the search properly procedes by an ana-
+quitur D. Thomas, et ratio est, quia in inquisitione consideramus lytic order and St. Thomas speaks about this. And the reason is because in
+res secundum ordinem causæ ad effectum, quem in se ipsis habent the searching we consider things according to the order of cause to effect,
+non prout sunt in intentione: id est, finis prout est aptus fieri per which are related to themselves not as they are in intention, that is, the end
+hoc medium, et hoc medium, per aliud, et sic usque ad ultimum as it is apt to happen through this means and this means through another
+medium in hac resolutione sit posterius quod postea primum est and thus all the way to the last means in this analysis is after that which later
+in executione. Nam quia in hoc discursu consideratur finis ut est is first in execution. For since in this discursus the end is considered as it
+effectus a parte rei: ideo dicitur resolutorius discursus: tamen in is an effect on the part of the thing. Therefore, it is called a more analytic
+judicio ferendo in ordine ad intentionem, et electionem versatur discursus. Nevertheless, in making a judgement a compositive order is con-
+ordo compositivus, quia procedit a causa finali ad suum actum. cerned with the order to intention and election, since it procedes from the
+final cause to its act.
+4. Ex dictis facile solvitur aliud dubium, quod, citata quæst., 4. From what has been said one can easily resolve the other doubt which
+art. 5, etiam tangit D. Thomas, an scilicet in appetitu possit esse was cited in q. 5 and which St. Thomas also mentions: namely, whether
+electio, et in sensu, consilium? Respondetur ex dictis non posse, there can be election in appetite and, in a sense, deliberation. It is responded
+quia sensus non potest vi sentiendi, media inter se, aut cum fine that it cannot be from what was said, because sense cannot compare the
+conferre. Et ideo in sensu semper est aliquod materiale judicium means with each other or with the end by the power of sensing. And for
+de objecto appetendo sine vera collatione cum aliis: et hoc vo- this reason there is in sense always some material judgement about the ob-
+cat D. Thomas animalia bruta esse determinata ad unum, quia ject to be desired without a true comparison with other [objects]. And
+judicium est determinatum ad unum, licet possit postea variari: St. Thomas says with this that brute animals are determined to one [judge-
+est casus vulgaris, si bruto proponerentur duo objecta æque ap- ment] because judgement is determined to one, although it can be changed
+petibilia. Dices, utrumque appeteret per modum unius; quod qui- afterwards. There is the common case: if two equally desirable objects were
+dem verum esset si posset illa per modum unius apprehendere, proposed to a brute [animal]. You will say: it would desire each through
+ita ut in utrumque simul posset moveri. Sed casus est, quando the mode of one. This indeed would be true if it could apprehend them
+unum repugnat alteri: et dico breviter durante illa æqualitate bru- through the mode of one, so that thus it could be moved at the same time to
+
+-- 20 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 21
+tum in neutrum moveri, quia non potest habere principium mo- each. But the case is one where one [object] is opposed to another. And I
+tus, quod est determinatum judicium, et efficax appetitio: determi- say briefly that a brute [animal] is moved to neither as long as that equality
+natur enim ab objecto: et tunc objecta se semper impe- <col. b> persists, because it cannot have a principle of motion which is a determinate
+diunt, quia æqualiter agunt et resistunt. Dico, durante æqualitate, judgement and efficacious desire. For it is determined by an object and there
+quia facillime posset fieri inæqualitas, et quacumque circumstan- the objects always obstruct themselves because they equally act and resist. I
+tia mutata mutaretur judicium, ut sic caput moveret, verbi gratia, say ‘as long as that equality persists’ because an inequality could easily hap-
+quod casu et contingenter evenit. pen and whatever circumstances changed would change the judgement, for
+example, the head were moved, which happens contingently and by chance.
+5. Aliud dubium etiam resolvitur de homine non habente vi- 5. The other doubt concerning whether there is properly election in a
+sum rationis, an in illo sit electio proprie? Dico primo esse quem- human being who does not have the appearance of reason is also resolved.
+dam modum electionis multo magis proprium quam in brutis, I say, first, that there is a certain mode of election much more proper than
+quia potest media cum fine, et inter se conferre: unde interroga- in brute [animals] since it can compare means with the end and with each
+tus amens rationem reddit, propter quam hoc potius, quam illud other. Hence, an insane person having been asked gives a reason why he
+eligat: et ratio a priori est, quia in hoc non est omnino impedita elects this rather than that. And the argument is a priori because the oper-
+operatio rationis, ut suo loco vidimus. Tamen adverte secundo, ation of reason is not wholly impeded in this, as we saw in its place. Still,
+illam electionem non esse proprie humanam, seu moralem, quia note, secondly, that that election is not properly human or moral, because
+in illa amens, vel puer non habet dominium, neque fit ex perfecto an insane person or a child does not have control of that nor does it result
+consilio: et potestate operantis: et ratio sumi potest ex dictis supra from perfect deliberation and the power of the one acting. And the rea-
+de voluntario, quia tunc ratio sequitur judicium sensus, et non per son can be taken from what was said above concerning the voluntary, since
+se, et propria virtute judicat; voluntas autem comitatur tunc intel- then the reason follows the judgement of sense and it does not judge per
+lectum. Vide Cajetanum 2, 2, quæst. 88, art. 1 et 1, 2, q. 6, art. 2, se and from proper virtue. But the will is then connected with the intel-
+ap. 2, et 1 p., q. 82, art. 1, ad 3, Aristotelem 1 Mag. Mor., cap. 16, lect. See Cajetan, IIaIIæ.88.1, IaIIæ.6.2 ap. 2, and Ia.82.1 ad 3; and Aristotle,
+et Victorem, in Relect., de perveniente ad usum rationis. Mag. Mor. III. cap. 16; and [Francisco de] Vitoria, in Relectio ‘De perve-
+niente ad usum rationis’.
+6. Utrum detur usus rationis ex parte tantum.—Qui peculiariter 6. Whether there is given use of reason is part only.—Some people ask
+circa hoc interrogat, an possit quis in aliquo medio carere usu ra- especially concerning this whether someone can lack the use of reason for
+tionis ad eligendum, et habere in omnibus aliis. Dico breviter, electing with respect to some means and have it for all the rest. I respond
+et nota primum, usum rationis dupliciter posse perturbari: uno briefly and note first that the use of reason can be disturbed in two ways. In
+modo permanenter, et quasi in habitu, ut quando læsio, et indis- one way, permanently and, as it were, in habit, as when an injury or a lack
+positio sensuum provenit ex ægritudine permanente, et ita sentio of aptitude of the senses results from an enduring sickness. And this is what
+de amente, vel ebrio: alio modo quasi in transitu solum ut in illo, I think of the insane or intoxicated. In another way, in passing alone, as it
+qui ira, vel furore agitatur. Priori modo non credo posse contin- were, as in one who is agitated by anger or wrath. I do not believe that it can
+gere aliquem in una materia posse uti ratione, et non in aliis: et ra- happen in the former way that someone can use reason in one matter and
+tio est, quia facultas ratiocinandi potius pendet ex effectu, quam ex not in others. And the reason is because the faculty of ratiocination depends
+modo, et ex intelligentia principiorum. Principia autem, et modus more on the effect than on the mode and on the understanding of principles.
+ratiocinandi ejusdem rationis, et ordinis sunt, præcipue in materia But the principles and mode of ratiocinating belong to the same reason and
+morali. Et ideo quod propter impedimentum sensuum non potest, order, especially in moral matters. And therefore that which on account of
+vel recta ratione judicare de aliquo principio, vel convenienter ex the impediment of the senses cannot either judge about some principle with
+
+-- 21 of 22 --
+
+Suárez, De Voluntario et Involuntario, disp. 8 22
+illo colligere, eadem ratione non poterit in reliquis, quia eadem vir- right reason or agreeably gather from it, for the same reason will not be
+tus rationis requiritur: neque indispositio sensus potest esse talis, possible in the remaining [cases], since the same power of reason is required.
+ut de se magis impediat in una materia, quam in alia. Quod si ali- Nor can a lack of aptitude of a sense be such that of itself it impedes more in
+quando videantur isti homines ut cordati loqui, id vel casu, vel ex one case than in the others. If sometimes these human beings seem to speak
+consuetudine, <266> aliqua præterita accidit: contingere autem judiciously, this happens either by chance or from some past custom. But
+potest hominem alias recte dispositum ad utendum ratione ita esse it can happen that human beings otherwise rightly disposed to using reason
+affectum in aliquo negotio, vel materia, ut illa proposita statim ve- are affected in such a way in some business or matter that what has been
+hementer commoveatur, et organum phantasiæ alteretur: et ideo proposed is at once vehemently disturbed and the organ of imagination will
+eo tempore non potest uti ratione: tamen pro tunc indispositus be altered. And therefore at that time it cannot use reason. Nevertheless,
+vere est in quacumque materia. until then he truly is lacking in aptitude in any matter.9
+7. Aliam difficultatem huc pertinentem tractat D. Thomas 1, 7. St. Thomas discusses the other difficulty belonging here in [ST ]
+2, q. 15, art. 4, an electio requirat directionem superioris ratio- IaIIæ.15.4: whether election requires the direction of superior reason or
+nis, vel sufficiat inferioris: sed quia, quod hic est difficile, pertinet whether inferior [reason] suffices. But since what here is difficult belongs
+ad materiam de peccatis dico breviter, electionem, vel consensum, to the material concerning sins, I say briefly that election or consent, insofar
+quatenus actus humanus est, et liber, per se dirigi posse non solum as it is a human act and free can be per se directed not only by superior rea-
+a ratione superiori, sed etiam ab inferiori, quia ratio inferior vere son but also by inferior, because the inferior reason does truly ratiocinate
+ratiocinatur, et judicat, licet per principia inferioris ordinis: tamen and judge, although through principles of an inferior order. Still, as this
+prout is actus habet rationem culpæ, interdum inferiori rationi, act has the nature of guilt, it is sometimes attributed to inferior reason and
+interdum superiori tribuitur, ut eo loco latius dicam. sometimes to superior reason, as I will talk about in more detail in its place.
+1 Latin text is from Vivès edition. My thanks to Tobias Schaffner for drawing my attention to a number of errors in an earlier version.
+2 On ‘election’ rather than ‘choice’ as a translation of electio, cf. Terence Irwin, The Development of Ethics, vol. 1, §66, fn. 6 and §235, fn. 3.
+3 1139b4–6.
+4 Cf. EN V, cap. 2, 1130a24–27. Also, cf. Aquinas, ST IaIIæ.18.6 co.
+5 Cf. Topics III, cap. 2, 117a18–19.
+6 Deleted ‘quin simul videat lumen ut rationem videndi colorem’ in accordance with 1628 edition.
+7 Or: ‘And it is proven: for when someone desires an end in itself while not thinking at all about particular means, he in no way has a true act of intention and of election. And,
+conversely, he who desires a means alone, especially if he does not think at all about the end, has in no way [made] a true election and intention.’
+8 ‘He who holds my commandments and keeps them, he it is who loves me’ (Qui habet mandata mea, et servat ea: ille est qui diligit me). Cf. v. 15.
+9 Should ‘indispositus’ be ‘dispositus’? In that case the sentence would read: ‘Nevertheless, until then he truly has aptitude in any matter.
+
+-- 22 of 22 --

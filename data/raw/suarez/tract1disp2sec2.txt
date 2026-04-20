@@ -1,0 +1,419 @@
+Last revision: February 4, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 2, SECT. 21
+© Sydney Penner 2011
+<18, col. b>2
+Utrum actus voluntatis necessarii sint propter finem, et conse- Whether necessary acts of the will are for the sake of an end and conse-
+quenter an sint proprie actus humani. quently whether they are properly human acts.
+Arguitur pro neg.
+parte.
+1. Ratio dubii est, quia divus Thomas 1, 2, quæst. 1, artic- 1. The reason for doubting is that St. Thomas in [ST ] IaIIæ.1.2 as- It is argued for
+the negative side.	ulo secundo, duo supponit: primum est, solum actus illos esse sumes two things. The first is that only those acts are properly human
+5 proprie humanos, quorum homo est dominus: habet autem 5R of which the human being is master. But a human being has domin-
+homo dominium solum liberorum actuum, quia illi tantum ion only of free acts, because those alone are in his power. Therefore,
+sunt in ejus potestate: ergo ex sententia D. Thomæ solum ac- according to the view of St. Thomas, only free acts are human. The
+tus liberi sunt humani. Alterum est, solum actus humanos second assumption is that only human acts are for the sake of an end,
+esse propter finem, quia de iis tantum docet esse propter finem: because it is only about these that he teaches that they are for the sake
+10	Arguitur pro
+affirm.
+ergo actus necessarii non erunt propter finem. In contrarium 10R of an end. Therefore, necessary acts will not be for the sake of an end.
+autem est, quia hi actus videntur esse ex propria causalitate et But the contrary is the case, since these acts seem to be from the proper It is argued for
+the affirmative.	Notatio 1. pro
+resolutione.
+motione finis præconcepti. Supponendum imprimis est, non causality and motion of the preconceived end. It should be assumed in
+esse sermonem de illo modo imperfecto agendi propter finem, the first place that the discussion is not about that imperfect way of act- The first note
+towards a
+resolution.
+qui dicitur de agentibus naturalibus, quæ potius moventur in ing for the sake of an end that is attributed to natural agents, which are
+15 finem, quam se in illum moveant, de quo late, in disp. 23, 15R more moved to the end than that they move themselves to it (concern-
+Metaphysicæ, sect. 10, sed sermo est de proprio modo operandi ing which more [is said] in DM XXIII, sec. 10). Rather, the discussion
+propter finem ex propria ordinatione ipsius hominis operantis. is about the proper way of acting for the sake of an end by a proper
+Notatio 2. Deinde suppono, duobus modis posse actum voluntatis esse ordination of the acting human being himself.
+necessarium, primo ex imperfectione, ut contingit in actibus Next, I assume that an act of the will can be necessary in two The second note.
+20 indeliberatis, in quibus voluntas excitatur antequam ratio per- 20R ways. The first is from imperfection, as happens in undeliberated acts
+fecte advertere possit, ut in motibus primo primis et indeliber- in which the will is excited before reason can fully notice it, as especially
+atis. Secundo ex perfectione, ut contingit in amore Dei, quem in first and undeliberated motions. The second is from perfection, as
+habent beati: ille enim ab intrinseco est necessarius, non ex happens in the love for God which the blessed have. For that is nec-
+inadvertentia, aut imperfectione, sed potius ex perfectissima essary from something intrinsic, not from an inadvertency or imper-
+25 cognitione summi boni, ex quo amore potest oriri alius actus 25R fection, but rather from a most perfect cognition of the highest good,
+electionis necessariæ, si sit de objecto habente necessariam con- from which love can arise another act of necessary election, if it is of an
+nexionem cum prædicto amore. object having a necessary connection with the aforementioned love.
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not
+always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 2
+1. Assertio de
+actibus voluntatis
+ex perfecta
+advertentia.
+Probatur 1.
+2. Dico ergo primo, ut actio voluntatis sit perfecte propter 2. Therefore, I say, first, an act of the will is perfectly for the sake The first
+assertion: about
+acts of the will
+coming from a
+perfect
+awareness.
+It is proven, first.
+finem, non esse de ratione illius ut sit libera, sed sat est, ut of an end not by reason of its being free, but it is enough that it proceed
+30 ex perfecta advertentia, et judicio rationis procedat. Probatur 30R from a perfect awareness and a judgement of reason. This is proven,
+primo, quia perfecta causalitas finalis reperiri potest sine liber- first, from the fact that perfect final causality can be found without
+tate: Deus enim clare visus per suam liberam bonitatem trahit freedom. For God having been clearly seen draws the will to a neces-
+voluntatem ad sui dilectionem <19> necessariam, tanquam fi- sary delight in him through his own free goodness as the most lovable
+nis ultimus summe amabilis. Dictum est autem, idem esse, ultimate end. But it was said that it was the same for an act to be for the
+35 actum esse propter finem, et esse ex propria causalitate finis: 35R sake of an end and to be from the proper causality of an end. Therefore,
+ergo hoc sufficit ut actus sit propter finem, etiamsi liber non this suffices so that an act is for the sake of an end even if it is not free.
+sit. Et ad hæc applicari potest ratio divi Thomæ 1, 2, in ar- And the argument of St. Thomas in [ST ] IaIIæ.1.1 can be applied to
+ticulo 1, quæst. 1, quia talis actus est sub proprio objecto, et this: for such an act is under the proper object and motive of the will
+motivo voluntatis perfecte proposito et applicato: ergo est sub having been perfectly proposed and applied. Therefore, it is under the
+40	Secundo. ratione finis, atque adeo propter finem. Secundo sic explicatur: 40R aspect of an end and therefore [it is] for the sake of an end.
+nam ex intentione finis necessario sequitur electio medii, si il- Secondly, it is explained in this way: for from a necessary intention Secondly.
+lud ut unicum et necessarium proponatur, et hoc non obstat, of the end follows the election of a means, if that is proposed as unique
+quominus illa electio sit proprie propter finem: ergo etiamsi and necessary and this does not stand in the way so that that election is
+fingamus intentionem esse simpliciter necessariam, et conse- not properly for the sake of the end. Therefore, even if we imagine an
+45 quenter ex illa ortam esse electionem necessariam, nihilominus 45R intention that is strictly necessary speaking and consequently a neces-
+illa electio erit proprie omnino propter finem, quia non ob- sary election has arisen from it, nevertheless that election will properly
+stante necessitate fit cum perfecta ordinatione medii ad finem: be entirely for the sake of the end, since with necessity not standing in
+ergo ulterius etiam ipsa intentio, quamvis contingat esse nec- the way it happens with the perfect ordination of a means to an end.
+essaria, nihilominus erit propter finem, dummodo procedat ex Therefore, further, even the intention itself, although it happens to be
+50 perfecta finis cognitione, et ex efficacissima motione illius in 50R necessary, will still be for the sake of the end, provided that it proceeds
+suo genere, atque adeo eadem ratione idem erit de actu amoris from a perfect cognition of the end and from the most efficacious mo-
+necessario procedente ex simili cognitione et motione objecti tion of that in its genus. And therefore for the same reason the same
+boni, quod contingit tantum in visione beata: et ideo divus will be true in the case of a necessary act of love proceeding from the
+Thomas radicem operationis propter finem, nunquam tribuit similar cognition and motion of a good object that happens only in the
+55 libertati, sed perfectæ cognitioni rationis, per quam et propor- 55R beatific vision. For this reason St. Thomas never attributes the root of
+tio mediorum cum fine, et ipsius finis cum operante cognosci activity for the sake of an end to freedom but to perfect cognition of
+potest, ut videre est 3, contra Gentes, c. 2, et 1, 2, q. 1, art. 2, the reason, through which both the proportion of the means to the end
+ubi probat bruta non operari propter finem formaliter et pro- and of the end itself to the one acting can be cognized, as is seen in SCG
+prie, quia carent prædicta cognitione. III, c. 2 and in [ST ] IaIIæ.1.2, where he shows that brute animals do
+60R not act for the sake of an end formally and properly since they lack the
+aforementioned cognition.
+60	1. Obiectio
+contra assert.
+3. Objicies primo; ergo processio Spiritus sancti in Deo est 3. You will object first: therefore the procession of the Holy Spirit The first
+objection to the
+assertion.
+propter finem, quia licet sit necessaria, tamen est a voluntate in God is for the sake of an end, because, although it is necessary, nev-
+Diluitur. ex perfecta cognitione divinæ bonitatis. Respondeo, negando ertheless it is by will from a perfect cognition of divine goodness. I
+consequentiam ob ea, quæ diximus in disputatione prima: nam 65R respond by denying the consequence for the reason we offered in the It is refuted.
+
+-- 2 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 3
+ubi non est causalitas finis, non est actio propter finem: dix- first disputation.3 For where there is no causality of an end, there is no
+65 imus autem in Deo ad intra non esse causalitatem finis, quia ibi action for the sake of an end. But we said in God within there is no
+nulla est actio proprie, nec Deus est finis sui ipsius, et ita licet causality of an end because there is no proper action there nor is God
+dici possit Deum se amare propter bonitatem suam, tanquam his own end. And so, although one can say that God loves himself for
+per rationem amandi, non vero tanquam propter finem, nec ex 70R the sake of his own goodness, just as through a reason for loving, but it
+causalitate finis. is not as for the sake of an end nor from the causality of an end.
+70	2. Obiectio. 4. Objicies secundo: videri idem dicendum de delecta- 4. You will object secondly: it seems that the same should be said The second
+objection.	tione, vel de fruitione Dei, quod illa etiam sit propter finem, about delight or about the enjoyment of God, that that also is for the
+nam ex dictis videtur sequi esse propter finem, quia licet sit sake of the end, for from what was said it seems to follow that it is for
+actio necessaria, tamen est voluntaria, cum sit elicita a volun- 75R the sake of the end, because although it is a necessary action, neverthe-
+tate, et consequenter est a propria <col. b> causalitate objecti less, it is voluntary, since it is elicited by the will and consequently is
+75 boni, quod consecutum delectat propter bonitatem suam: ergo by a proper causality of the good object, which, having been achieved,
+rationes factæ numero 2, procedunt etiam de hoc actu. Hoc delights for the sake of its goodness. Therefore, the arguments made in
+Responsio
+quorundam.
+dubium attigit Fonseca 5, Metaphysicæ, cap. 2, quæst. 10, sec- n. 2 also work with regards to this act. Fonseca mentions this doubt in The response of
+some.	tione 2, non sub ratione delectationis, sed satietatis, aut qui- 80R Metaph. 5, c. 2, q. 10, sec. 2, not under the nature of delight but of sati-
+etis appetitus, quam dicit factam esse propter finem, quatenus ety or of the rest of desire, which is said to have come about for the sake
+80 assecutio finis, ad quem consequitur; facta est propter finem; of the end insofar as the achievement of the end after which it followed
+postquam vero finis consecutus est, inquit ille, non est propter was made for the sake of the end. But after the end has been achieved,
+finem, quia assecuto fine cessat actio propter finem. he says, it is not for the sake of the end, because action for the sake of
+Non satisfacit. Sed hæc doctrina videtur solum habere locum in eo fine, 85R the end ceases with the end having been achieved.
+qui consistit in aliquo effectu facto, non vero in illo, qui consis- But this doctrine seems to have a place only with respect to that It does not
+satisfy.	85 tit in operatione. Item consistit in satietate et quiete privativa end which consists in some effect having come about, but not with
+et mortua, qualis est in rebus inanimatis, non vero in positiva respect to that [end] which consists in activity. Likewise, [with respect
+et vitali, qualis est in viventibus, quam nomine delectationis to those ends which] consist in satiety and in privative rest and the rest
+significamus: hoc enim quamdiu est, fit, et ideo videtur esse 90R of death, the sort that are in inanimate things, but not in positive and
+Exactior
+responsio.
+proprie propter finem. Nihilominus non censeo hunc actum vital ones, the sort that are in living beings, which we signify with the
+90 esse tam proprie propter finem, sicut est intentio, vel amor. name ‘delight’. For this happens as long as it is and therefore it seems
+Et ratio est, quia non immediate oritur ex propria causalitate to properly be for the sake of the end. Nevertheless, I do not think that A more accurate
+response.	finis, nec ex directo imperio et motione alicujus actus volun- this act is as properly for the sake of an end as is intention or love. The
+tatis, qui sit propter finem, sed solum resultat naturaliter ex 95R reason is that it does not immediately arise from the proper causality
+amore finis jam consecuti: objectum enim bonum immediate of the end nor from the direct command and motion of some act of the
+95 et per se movet ad amorem sui, ex quo sine alia motione resul- will which is for the sake of the end, but only results naturally from
+tat delectatio, si finis sit præsens: et ideo tale objectum non ha- the love for the end that has now been achieved. For the good object
+bet propriam et immediatam causalitatem in illum actum: ergo immediately and per se moves to a love for itself from which delight
+ille non est propter finem proprie tanquam actus elicitus, nec 100R results without any other motion, if the end is present. And therefore
+etiam tanquam imperatus, quia non est actus, qui proprie pen- such an object does not have a proper and immediate causality in that
+3DFH 1.1.10.
+
+-- 3 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 4
+100 det ex motione voluntatis, sed naturaliter resultat ex præsentia act. Therefore, it is not for the sake of the end properly as an elicited act
+finis: non est ergo propter finem, sed est quid consequens asse- or even a commanded act, since it is not an act which properly depends
+cutionem finis. on a motion of the will, but it naturally results from the presence of
+105R the end. Therefore, it is not for the sake of the end, but is what follows
+from the attainment of the end.
+3. Obiectio. 5. Tertio præcipue objici potest contra hanc doctrinam, 5. Thirdly, it can especially be objected against this doctrine, be- The third
+objection.	quia operatio necessaria non est humana; ergo non est propter cause a necessary action is not human. Therefore, it is not for the sake
+105 finem. Consequentia probatur, quia, ut divus Thomas signifi- of an end. The consequence is proven from that fact that, as St. Thomas
+cat citato articulo 1, solum operationes humanæ sunt propter 110R indicates in the cited art. 1, only human actions are for the sake of an
+finem. Probatur vero antecedens ex eodem D. Thoma, in eo- end. But the antecedent is shown from the same St. Thomas in the same
+dem articulo, quia illa operatio est humana, cujus homo est domi- article: ‘because that action is human of which a human being is mas-
+nus; est autem dominus tantum actionum liberarum, non enim ter’. But he is master only of free actions, for it is not said that a human
+110 dicitur homo dominus actionis suæ solum, quia illam possidet being is master of his actions only because he possesses it or brings it
+vel efficit, nam etiam possidet vitam, cujus non est dominus, 115R about. For he also possesses life, of which he is not master, and brings
+et efficit nutritionem, et augmentum quorum dominio caret; about nutrition and increase of which he lacks mastery. Nor is he called
+nec dicitur dominus, quia habeat jus ad talem actionem, vel a master because he has the right to such an action or its use, because
+usum ejus, quia ad actum peccati non habet <20> jus, et tamen he does not have to the right to an act of sin and yet he is master of that
+115 est dominus illius actus: et servus non habet jus ad omnes ac- act. And a servant does not have the right to all his actions, because it
+tiones suas, quia potius est apud dominum, et tamen est domi- 120R lies more with the master, and yet he is master of his actions. There-
+nus suarum actionum: consistit ergo hoc dominium tantum in fore, this mastery consists only in the free will acting or omitting his
+libera voluntate agendi, vel omittendi suas actiones: ergo ubi actions. Therefore, where there is no freedom, there will be no mastery
+non est libertas, nec dominium erit, nec actio humana. nor human action.
+120	Cur actio
+necessaria non
+censeatur
+humana.
+1. Ratio ex Caiet.
+6. Hæc difficultas petit, ut explicemus, quid necessarium 6. This difficulty demands that we explain what is necessary for an Why a necessary
+action is not
+considered
+human.
+sit, ut actio sit humana. Aliqui enim universaliter docent, ac- 125R action to be human. For some teach universally that a necessary action
+tionem necessariam non esse actionem humanam. Cujus du- is not a human action. Two reasons can be added for this from Cajetan
+plex ratio addi potest ex Cajetano, prima secundæ, quæstione [ST ] IaIIæ.1.1.
+prima, articulo primo: quia illa non est actio, quamvis late One is that it is not an action (actio), although it is an activity (op- The first reason
+from Cajetan.	125 loquendo sit operatio: propria enim, inquit, actio illa est, qua eratio) more broadly speaking: ‘for that’, he says, ‘is a proper action by
+homo se movet; in actione autem necessaria potius agitur, quam 130R which a human being moves himself’. But in a necessary action he is
+Displicet hæc
+ratio.
+agat; hæc vero ratio mihi non placet, quia actio immanens moved more than that he moves. But this reason is not pleasing to me, This reason
+displeases.	vere est actio, licet contingat esse necessaria: quamvis enim ac- because an immanent action really is an action even though it happens
+tio transiens sit etiam actio, ut sumitur in prædicamento ac- to be necessary. For although a transeunt action is also an an action,
+130 tionis, distinguit tamen Aristoteles interdum actionem a fac- so that it is taken up in the category of action, nevertheless Aristotle
+tione, ut videre licet in 2, Physicorum, text. quinquagesi- 135R distinguishes between doing (actionem) and making (factione), as may
+mo-septima, et quinquagesimo-secundo: et 9, Metaphysicæ, be seen in Phys. II, t. 57 and 52 and in Metaph. IX, t. 56. Nevertheless,
+text. quinquagesimo-sexto: tamen, ut exposuit divus Thomas, as St. Thomas explained in [ST ] IaIIæ.57.4, ‘making’ names a transeunt
+105 quia ] om. V.
+
+-- 4 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 5
+prima secundæ, quæstione quinquagesima-septima, articulo action, but ‘doing’ that which is immanent. But the claim that those im-
+135 quarto, factionem vocavit actionem transeuntem, actionem manent [acts] that are free and not necessary are called ‘doings’ cannot
+vero eam quæ immanens est. Quod vero inter immanentes 140R be gathered either from Aristotle or from the use and way of speaking.
+illa dicatur actio, quæ est libera, et quæ non necessaria, nec Nor is it according to the mind of St. Thomas in that art. 1, who dis-
+ex Aristotele, nec ex usu et modo loquendi haberi potest, nec tinguishes action into action of a human and human action. Therefore,
+est juxta mentem S. Thomæ illo art. 1, qui distinguit actionem that also which is not human is still action.
+140 in actionem hominis, et actionem humanam: ergo illa etiam The second reason is from the same Cajetan at the end of art. 5: The second
+reason is also
+rejected.
+Altera ratio etiam
+reiicitur.
+quæ non est humana, est etiam actio. Secunda ratio est ejus- 145R an action of the will proceeding from perfect cognition and at the same
+dem Cajetani, in fine articuli 5, actionem voluntatis ex perfecta time necessary (of the kind that the love of the blessed is) is not human,
+cognitione procedentem, et simul necessariam, qualis est amor because it is more than human, namely, it is divine in a certain way. But
+beatificus, non esse humanam, quia est plusquam humana, scil- here one is talking about a human being as he is human, not as elevated
+145 icet quodammodo divina; agitur autem hic de homine ut homo to a participation in the divine nature through glory. But this does not
+est, non ut elevato ad participationem divinæ naturæ per glo- 150R please, for it follows that supernatural love for God in this life, even if it
+riam. Sed nec hoc placet, sequitur enim supernaturalem Dei is free, is not a human act, because it is more than human and divine in
+amorem viæ, etsi liber sit, non esse actum humanum, quia est a certan way, for it proceeds from a participation in the divine nature
+plusquam humanus, et quodammodo divinus, procedit enim through grace.
+150 ex participatione divinæ naturæ per gratiam.
+Notatio pro
+reddenda vera
+ratione.
+7. Sustinendo ergo hunc dicendi modum, aliter est ex- 7. Therefore, in sustaining this way of speaking, the reason for it A note for
+returning the
+true reason.
+plicanda ejus ratio, advertendo, dupliciter dici posse esse ali- 155R should be explained otherwise, by noticing that something can be said
+quam actionem hominis propriam; loquor autem de homine to be a proper action of a human being in two ways. But I am speaking
+<col. b> ut intellectualis est, et distinguitur a cæteris creaturis of a human insofar as he is intellectual and is distinguished from the
+155 inferioribus, non ut ab Angelis distinguitur, nam quæ hic de rest of the lower creatures, not as he is distinguished from the angels.
+homine tractamus, omnia similiter in Angelis inveniuntur, ut For what we are discussing here concerning a human being was found
+constat ex 1 part., quæst. 60. 160R to be similar to angels in every respect, as is clear from [ST ] Ia.60.
+Actiones propriæ
+hominis licet non
+humanæ presse.
+Primo ergo est aliqua actio propria hominis quoad sub- First, therefore, is a proper action of a human being with regard to Proper actions of
+a human being
+although not
+expressly human.
+stantiam et entitatem, non vero quoad modum, ut est, verbi its substance and entity but not with regard to its mode, as is, for ex-
+160 gratia, intellectio necessaria; convenit enim homini, ut ratione ample, necessary intellection. For it is agreeable to a human being, as it
+utitur: nec actus talis speciei potest reperiri in inferiori crea- uses reason. Nor can such an act of appearance be found among lower
+tura, modus tamen, scilicet quod ex necessitate fiat, communis 165R creatures, a mode, nevertheless, namely, that it happens by necessity, is
+est aliis rebus: et idem est de actionibus cogitative et aliis, quæ common with other things. And it is the same with cogitative actions
+licet conveniant homini secundum gradum genericum, non and others which although they are agreeable to a human being accord-
+165 tamen præcise consideratum, sed ut conjunctum, et elevatum ing to his generic position, nevertheless not as considered apart but as
+per gradum rationalem: et hæ actiones dicuntur proprie homi- conjoined and elevated through a rational position. And these actions
+nis, ut homo est, non tamen humanæ. 170R are properly said of a human being as he is human, yet are not human.
+Actiones proprie
+humanæ.
+Secundo modo contingit actionem esse propriam hominis In the second way it happens that an action is properly of a human Actions properly
+human.	ut homo est, et in substantia, et in modo, quia scilicet effici- being as he is human, both in substance and in mode, because, namely,
+170 untur cum indifferentia, et sine necessitate: et hoc modo vide- they are brought about with indifference and without necessity. And
+tur locutus divus Thomas, dict, quæstione 1, art. 1, quia hæc St. Thomas seems to have spoken in this way in the aforementioned
+
+-- 5 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 6
+est omnibus modis propria hominis, ut homo est, et per illum 175R q. 1, art. 1, because this is in every way proper to a human being as
+tendit homo ad consecutionem sui finis, et bene, vel male oper- human and through it a human being tends to the attainment of his end,
+atur, et dignus est laude, vel vituperio. Ac denique, quia, licet acts either well or badly, and is worthy of either praise or blame. And,
+175 consideratione physica aliquæ actiones possunt dici humanæ, finally, because they procede from the human soul as it is rational, yet
+quia procedunt ab anima humana, ut rationalis est, tamen con- in a moral consideration alone, these latter are called properly human,
+sideratione morali solum, hæ postremæ dicuntur proprie hu- 180R because that mode is the foundation or nature of all moral being. And
+manæ, quia ille modus est totius esse moralis fundamentum this doctrine is very probable.
+seu ratio: et hæc doctrina est valde probabilis.
+180	Aliorum ratio
+duplex.
+8. Aliis vero placet, actum, etiamsi necessarius sit, dum- 8. But to others it is pleasing that an act is a human action even if Two arguments
+of others.	modo sit a voluntate ex plenaria potestate operante, esse ac- it is necessary, provided that it is from the will by a full power acting.
+Prior quæ non
+placet.
+tionem humanam: idque dupliciter: primo, per extrinsecam And there are two [reasons]. First, through an extrinsic denomination, The first one
+which does not
+please.
+denominationem, scilicet quia est libera in sua causa: verbi gra- 185R namely, because it is free in its cause. For example, an act of love for
+tia, actus amoris Dei in patria ortus est ex actionibus liberis, God in the homeland has arised from the free actions by which the
+185 quibus homo meruit illum statum, et ideo dicitur humanus, human being won that state, and therefore is called human and free
+et liber in sua causa. Sed hoc non placet, primo enim non est in its cause. But this does not please, for, first, it is not a universal
+universalis ratio: in aliquibus enim est ille actus sine præce- reason. For in others that act is without preceding free actions, as in
+dentibus actionibus liberis, ut in infantibus baptizatis: tum 190R baptized infants. Also, because it is very improper, because that act is
+quia est valde improprium, quia ille actus non imperatur a not commanded by a preceding human action nor is it informed by
+190 præcedenti actione humana, nec ab illa informatur nisi valde except very remotely.
+Posterior. remote. Alius modus apparens est, quod ille actus intrinsece The other way is apparent: that that act is human intrinsically, be- The second.
+sit humanus, quia est perfectissime voluntarius, et illa necessi- cause it is more perfectly voluntary and that necessity which it has is
+tas, quam <21> habet, non est ex imperfectione, sed potius 195R not born from imperfection but rather from perfection. For just as to
+ex perfectione nascitur: nam sicut operari libere circa bona act freely for a good that is not the highest good is not necessary sim-
+195 non summe bona, nec simpliciter necessaria perfectionis est, pliciter for perfection, so [to act] for the highest good even the highest
+ita circa summe bonum, et summe necessarium ferri neces- necessity to bring necessarily pertains to perfection. Therefore just as
+sario ad perfectionem pertinet: ideo Deus sicut alia libere, ita God [loves] others things freely, so he loves himself necessarily, and
+se necessario amat, et utrumque ex infinita perfectione: videtur 200R both from infinite perfection. But a properly human act seems to be
+autem esse proprie actus humanus, qui ex maxima perfectione that which proceeds from the maximal perfection of a human and, if I
+200 hominis, et, ut sic dicam, ex plenaria potestate, et advertentia may speak in this way, from the full power and attention of reason.
+rationis procedit.
+1. Autoris
+pronuntiatum
+circa 3.
+obiectionem.
+9. Mihi autem in hac re videntur hæc duo: primum, præ- 9. To me, however, these two things appear to me in this matter. The first
+pronouncement
+of the author
+concerning the
+third objection.
+dictam controversiam magis pertinere ad modum loquendi, First, the aforementioned controversy pertains more to a manner of
+quam ad rem: nam si per actionem humanam intelligamus 205R speaking than to a real dispute. For if by human action we understand
+205 moralem, et dignam laude, aut reprehensione, sic sola actio lib- action that is moral and worthy of praise and blame, then only free ac-
+era est humana, et hic videtur esse usitatior modus loquendi tion is human. And here the more usual way of speaking seems to be
+quem sequitur D. Thomas 1, 2, quæst. 1, art. 1, si autem the one that St. Thomas follows in [ST ] IaIIæ.1.1. But if by human
+per actionem humanam intelligamus perfecte, rationaliter, et action we understand something perfectly, rationally, and intrinsically
+ab intrinseco procedentem ex plena hominis voluntate, sic ac- 210R proceeding from the full will of the human being, then the act of beati-
+
+-- 6 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 7
+210	2. Pronuntiatum. tus beatitudinis dici potest actus humanas. Secundum est, tude can be called a human act.
+quocumque modo istorum loquamur, facile posse expediri ter- Secondly, in whichever way of these we are speaking, a third objec- The second
+pronouncement.	tiam objectionem factam, in num. 5, nam si dicamus actum tion can easily be obtained, in n. 5. For if we speak say, for example,
+beatificum, verbi gratia, esse humanum, ad D. Thomam re- that the beatific act is human, then one should respond to St. Thomas
+spondendum est, vel sub dominio talis actus comprehendisse 215R either that not only such acts as free ones abut also perfectly voluntary
+215 non solum liberum, sed etiam voluntarium perfecte, quia ones were included under mastery, because each is founded in the full
+utrumque fundatur in plena potestate libertatis, vel certe lo- power of liberty or surely we were speaking of humans in this life and
+cutum esse de homine viatore, et per actus suos tendente in through his acts tending to his end, in which none is a human action
+finem suum, in quo nulla est actio humana, quæ non sit libera; which is not free. But if are given that that act is not human, then the
+si autem demus illum actum non esse humanum, neganda est 220R consequence should be denied. But it should be said to St. Thomas that
+220 consequentia: ad D. Thomam vero dicendum est, nunquam nothing exclusive was set up but it was only said that all human actions
+posuisse exclusivam, sed solum dixisse, omnem actionem hu- are for the sake of an end, from which it does not follow that all actions
+manam esse propter finem, ex quo non sequitur, omnem ac- for the sake of an end are human. Hence, with that first article having
+tionem propter finem esse humanam. Unde cum illo articulo had defined that all human actions are for the sake of an end, he with-
+primo definivisset omnem actionem humanam esse propter 225R held from free action. Therefore, it is a sign that he was not speaking
+225 finem abstinuit ab actione libera: ergo signum est non locu- exclusively.
+tum fuisse exclusive.
+2. Assertio de
+actibus voluntatis
+ex inadvertentia.
+10. Secundo principaliter dicendum est actus voluntatis, 10. Secondly, one should say principally that acts of the will which The second
+assertion: about
+acts of the will
+from
+inadvertency.
+qui ob inadvertentiam, seu indeliberationem rationis absque are done on account of inadvertency or the nondeliberation of reason
+fiunt, non esse proprie et perfecte propter finem. Ita colligitur are not properly and perfectly for the sake of an end. This is gathered
+230 ex D. Thoma, hic art. 1, ad 3, cont. Gent., cap. 82, et ratio 230R from St. Thomas here in art. 1, ad 3, and from SCG c. 82.4 And the
+ex dictis est facilis, quia propria operatio propter finem oritur reason is easily [seen] from what was said, because proper action for
+ex eo, quod ratio cognoscit rationem finis, et proportionem the sake of an end arises from reason cognizing the nature of the end
+mediorum ad ipsum: ergo quando ratio non potest perfecte and the relation of the means to it. Therefore, since reason cannot give
+adver- <col. b> tere, non erit propria operatio propter finem, perfect attention, it will not properly act for the sake of an end. This
+235 et hoc magis constabit ex sequenti dubio. 235R will be even clearer from the following doubt.
+Quæstiuncula de
+non utentibus
+perfecte ratione.
+11. Hic vero quæret aliquis an homines, qui non possunt 11. But here someone will ask whether human beings who cannot A small question
+concerning not
+using perfect
+reason.
+perfecte uti ratione, ut sunt pueri, amentes et dormientes, pos- perfectly use reason, as is the case with children, the mentally ill, and
+sit interdum operari propter finem: nam ex proxima assertione those who are sleeping, can sometimes act for the sake of an end. For
+videtur sequi pars negativa, quæ confirmari potest: nam si hi from the preceding assertion seems to follow a negative answer, which
+240 possunt operari propter finem: ergo possunt conferre medium 240R can be confirmed. For if they can act for the sake of an end, then they
+cum fine: et cognoscere eorum proportionem: ergo eadem ra- can assign means to the end and cognize the relation between them.
+tione poterunt conferre unum medium cum alio: ergo eligere: Therefore, by the same reason they will be able to compare one means
+ergo libere operari: ergo peccare. to another. Therefore, [they will be able] to elect [one]. Therefore,
+[they will be able] to act freely. Therefore, [they will be able] to sin.
+12. In contrarium autem videtur esse experientia et ra- 245R 12. But experience and reason seems to be to the contrary, for al-
+4Which book?
+
+-- 7 of 8 --
+
+Suárez, De fine hominis disp. 2, sec. 2 8
+245 tio, nam licet isti habeant imperfectum usum rationis, exercere though these people have an imperfect use of reason, nevertheless, they
+tamen possunt actus intellectus, ut colligitur ex D. Thoma, in can exercise an act of intellect, as is gathered from St. Thomas in [Sent.]
+4, dist. 4, quæstione prima, articulo quarto, quæst. 1, ad 3, et IV, dist. 4, q. 1, art. 4, q. 1, ad 3 and [ST ] Ia.8.2 ad 2, because, although
+1 part., quæst. 8, art. 2, ad 2, quia, cum utantur phantasmati- they use phantasms, they are not brought thus brought together so that
+bus, non sunt ita ligati, quominus possint recipere in intellectu 250R they can receive species in the intellect and use these also for for com-
+250 species, et illis uti etiam componendo et syllogizando: pos- posing and syllogizing. Therefore, they can cognize through the in-
+sunt ergo per intellectum cognoscere boni et utilitatem medii tellect good and the utility of means to the end [and] from a proper
+ad finem ex propria voluntatis ordinatione operari propter ordination of the will act for the sake of an end.
+Pars affir.
+probatur magis.
+finem. Atque ita sane dicendum videtur, licet isti homines non And it seems reasonable to speak thus, although these humans do The affirmative
+side is proven
+more.
+habeant perfectum dominium suarum actionum, nec perfec- 255R not have perfect mastery of their actions nor the perfect cognition of
+255 tam rationis cognitionem: et ideo non tam perfecte operantur the reason. And therefore they do not as perfectly act for the sake of
+propter finem sicut cordati homines: nam si non sint omnino the end as prudent humans. For if they are not wholly insane, they
+insani, possunt aliquo modo operari propter finem, quod pro- can in some way act for the sake of an end, which experience shows.
+Experimentum
+unum.
+bat experientia. Unde, si interrogentur, propter quid appetant Hence, if they are asked for the sake of what they desire health, they One experiment.
+sanitatem, respondent, quia ægrotare est disconveniens sibi: et 260R respond that it is because being sick is disagreeable to them. And if
+260 si rogentur, cur utantur medicina, respondent, quia conferi ad they are asked why they use medicine, they respond that it is because
+sanitatem: signum ergo est non ita privatos esse ratione, quin it brings them to health. It is a sign, therefore, that they have not been
+possint medium cum fine conferre, atque adeo unum ad al- so robbed of reason that they cannot bring together means with an end
+Alterum. terum ordinare, quod est operari propter finem. Confirmatur: and therefore order one to another, which is to act for the sake of an
+nam aliquando experimur in his omnibus quasdam actiones 265R end. It is confirmed: for sometimes we experience in all of these certain Another.
+265 procedentes ex quadam veluti prudentia et sagacitate, quæ non actions proceeding from a certain as if providence and sagacity which
+possunt referri in solum instinctum naturæ, sicut solet fieri in cannot be referred to the instinct of nature alone, as would usually hap-
+brutis: homo enim, quia ratione utitur, non habet a natura pen with brute animals. For a human being, because he uses reason,
+hujusmodi instinctus: ergo proveniunt illi actus ex cognitione does not have an instinct of this sort by nature. Therefore, these acts
+rationis, atque adeo ex ordinatione unius ad alterum. 270R come from the cognition of reason and therefore by the ordination of
+one thing to another.
+270	Satis sit parti
+negatiuæ
+quæstiunculæ.
+13. Ad adducta vero in contrarium num. 11, jam dictum 13. But to what was adduced to the contrary in n. 11, it was now The little
+question of the
+negative side is
+satisfied.
+est, ad operationem propter finem non esse necessariam liber- said that freedom is not necessary for action for the sake of an end.
+tatem: deinde an his hominibus sit aliqua indifferentia et liber- Next, we will discuss below when dealing with election whether there
+tatis vestigium, dicemus infra agentes de elec- <22> tione: in- 275R is some indifference and vestigial freedom in these humans. Meanwhile,
+terim videri potest Victor in Relectione de pueris pervenientibus one can look at [Francisco de] Vitoria in Relectione de pueris pervenien-
+275 ad usum rationis. Quidquid autem de hoc sit, certum est hu- tibus ad usum rationis.5 Moreover, whatever is the case with this, it is
+jusmodi homines non esse capaces culpæ, præsertim mortalis, certain that human being like this are not capable of culpability, espe-
+quia non possunt perfecte cognoscere rationem boni, honesti cially mortal, because they cannot perfectly cognize the nature of good,
+et ultimi finis: de quo suo loco dicemus. 280R honest, and ultimate ends. We will say more about this in its place.
+5De eo ad quod tenetur homo cum prinum venit ad usum rationis, ed. by T. Urdánoz (Madrid: 1960). Cf. also Suárez, De legibus II.6.25.
+265 prudentia ] providentia V.
+
+-- 8 of 8 --

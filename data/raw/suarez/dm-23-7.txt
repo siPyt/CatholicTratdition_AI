@@ -1,0 +1,541 @@
+Sydney Penner
+Last revised: Feb. 20, 2008
+Francisco Su´arez, S. J.
+DM XXIII, SECT. 71
+WHETHER IT IS A NECESSARY CONDITION FOR THE END TO BE COGNIZED SO THAT IT
+CAN CAUSE FINALLY (An esse cognitum sit fini condition necessaria ut possit finaliter
+causare)
+1. This question seems to coincide with the question which we are used to discussing
+with respect to the object of the will: whether will can be produced without cognition.
+But, nevertheless, in reality they are not entirely the same, although they are strongly
+connected. For, although the will is produced without cognition, the final cause does not
+for that reason cause without cognition, but rather it should then be said that the will
+elicits its act without proper causality of the end concerning itself, because in fact the will
+then is moved without having been drawn or moved by the object, but only by its own
+efficacy tending to the object. And this the present question does not entirely depend on
+the other one, although, by the converse, if the will cannot be produced without cognition,
+it is rightly inferred that the end also cannot cause except it is first cognized.
+Haec quaestio coincidere videtur cum illa quae de obiecto voluntatis tractari
+solet, an voluntas possit ferri in incognitum; re tamen vera non omnino sunt
+eaedem, licet valde connexae sint; nam, licet voluntas ferretur in incognitum,
+non propterea causa finalis causaret non cognita, sed potius dicendum tunc
+esset voluntatem elicere actum suum sine propria causalitate finis circa ipsam,
+quia tunc revera moveretur voluntas non tracta neque mota ab obiecto, sed
+ex sola sua efficacitate tendens in obiectum. Atque ita praesens quaestio non
+omnino pendet ab illa alia, quamvis e converso si voluntas non potest ferri in
+incognitum, recte inferatur nec finem posse causare nisi sit praecognitus.
+The end does not cause except cognized (Finis non causat nisi cognitus)
+2. Therefore, I say first: in order for the end to cause, it is entirely necessary for it to
+first be cognized. This is the received view of all philosophers, whom we will examine
+below and especially in the following section. And it is shown first a priori from the
+mode of causing of this cause, which is by a metaphorical moving and enticing of the
+appetite. For this metaphorical motion, as was explained above, is founded in a natural
+concord and sympathy between the intellect and will, which cannot be understood except
+by intermediate acts of such powers. For as long as they do not operate, neither do they
+1Latin text is from http://perso.wanadoo.es/v963918818/d23.htm. Retrieved Feb. 5, 2008.
+
+-- 1 of 12 --
+
+Su´arez, DM XXIII, sect. 7 2
+move nor are they moved nor do they have any vital concord. But with regard to this
+concord, it is necessary so that it precede the act of the intellect, because it holds itself
+through its act or object as motor and will as having been moved. Therefore, for this
+metaphorical motion which the final cause exercises on the will, it is necessary that the
+cognition of it [i.e., the end] lead the way.
+Dico ergo primo: ut finis causet, necessarium omnino est ut praecognitus sit.
+Haec est omnium philosophorum recepta sententia, quos inferius, et praeser-
+tim sectione sequenti, recensebimus. Et probatur primo a priori ex modo
+causandi huius causae, qui est metaphorice movendo et alliciendo appeti-
+tum. Haec enim metaphorica motio, ut supra explicatum est, fundatur in
+naturali consensione et sympathia intellectus et voluntatis, quae intelligi non
+potest nisi mediis actibus talium potentiarum; nam dum non operantur, neque
+movent neque moventur, neque ullam vitalem consensionem habent. In hac
+vero consensione, necesse est ut praecedat actus intellectus, quia ille per suum
+actum vel obiectum se habet ut motor et voluntas ut mota; ergo ad hanc me-
+taphoricam motionem quam causa finalis exercet circa voluntatem necessaria
+est praevia eius cognitio.
+3. Second, because, so that a real cause causes, it needs to be somewhere. But the final
+cause does not necessarily postulate the being of real existence properly and in itself.
+Therefore, it at least requires being in cognition, and so it results that the end often causes
+when it does not exist, as was seen above. But never if it has not been cognized. Just
+as, although it sometimes does really exist, if it is not apprehended, nothing moves an
+affection. So that on account of this cause, among others, it was said with merit: ‘secret
+treasure and invisible wisdom, what utility in either?’2 And from the same root it results
+that the end, even if good in reality, if nevertheless it is not cognized as such but falsely
+apprehended as bad, it does not entice but rather withdraws the will.
+Secundo, quia, ut realis causa causet, aliquo esse indiget; sed causa finalis non
+necessario postulat esse existentiae realis proprium et in se; ergo saltem re-
+quirit esse in cognitione, atque ita fit ut finis saepe causet quando non existit,
+ut supra visum est; nunquam autem si non sit cognitus. Sic adeo ut, licet inter-
+dum realiter existat, si non sit apprehensus, nihil moveat affectum. Ut propter
+hanc causam, inter alias, merito dictum sit: thesaurus occultus et sapientia invisa,
+quae utilitas in utrisque? Atque ex eadem radice fit ut finis, etiamsi in re bonus
+sit, si tamen ut talis non cognoscatur, sed falso apprehendatur ut malus, non
+alliciat, sed potius retrahat voluntatem.
+4. The Aristotelian pronouncement.—Third, this is confirmed a posteriori from the fact that
+the will cannot be produced except with cognition of good. This truth is as if a first
+principle and axiom of all philosophers and theologians. For Aristotle, DA III, c. 10, says:
+‘the appetitible does not move except except perceived by the mind or imagination’. To
+2Sirach 20:32. The Vulgate reads: ‘sapientia absconsa et thesaurus invisus quae utilitas in utrisque’.
+
+-- 2 of 12 --
+
+Su´arez, DM XXIII, sect. 7 3
+which all interpreters of this passage consent and St. Thomas very well in [ST] Ia.82.4,
+IaIIæ.3.4 ad 4, and IaIIæ.9.1. And Augustine holds the expressed view, De Trin. X, c. 1
+and 2: ‘The completely unknown thing’, he says, ‘can be loved by absolutely no one’;
+likewise in book XV, c. 26, where he says that ‘love arises in us from acquaintance of the
+mind’; likewise, in De liber. arb. VIII, c. 4 and III, c. 25, and frequently elsewhere. And
+St. Gregory, Moral. V, c. 23; XXIII, c. 12; and XXXI, c. 12. And Bernard very well in De
+interiori domo, c. 18 and 19, and in De grat. et lib. arb., not far from the beginning, and in
+Cantica, sermons 7, 8, and 52. And Anselm in Monol. c. 48: ‘no thing is loved without
+memory or intelligence of it’.3
+Aristotelicum pronunciatum.—Tertio a posteriori hoc confirmatur ex eo quod
+voluntas ferri non potest nisi in bonum cognitum. Quae veritas est quasi pri-
+mum principium et axioma philosophorum omnium et theologorum. Aris-
+toteles enim, III De Anim., c. 10, ait appetibile non movere nisi mente aut imagi-
+natione perceptum; cui consentiunt ibi omnes interpretes, et optime D. Thomas,
+I, q. 82, a. 4, et I-II, q. 3, a. 4, ad. 4, et q. 9, a. 1. Estque expressa sententia D.
+Augustini, lib. X De Trin., c. 1 et 2: Rem (inquit) prorsus ignotam amare omnino
+nullus potest; idem, lib. XV, c. 26, ubi ait amorem oriri in nobis ex mentis notitia;
+idem, lib. VIII, c. 4, et lib. III De Liber. arb., c. 25, et alibi saepe; et D. Gregor.,
+lib. V Moral., c. 23, et lib. XXIII, c. 12, et lib. XXXI, c. 12; et optime Bernard.,
+lib. De Interiori domo, c. 18 et 19, et lib. de Grat. et lib. arb., non longe a
+principio, et serm. 7, 8 et 52 in Cantica; et Anselm., in Monolog., c. 48: Nulla
+res amatur sine sui memoria aut intelligentia.
+5. Moreover, a priori nature of this truth should be taken up from the principle posited by
+us in the assertion that, without doubt, a final cause cannot cause except it is cognized.
+By something else having been joined, namely, that the will cannot move itself except
+having been moved finally in some manner and therefore it cannot be produced except a
+cognition lead the way. The minor or second proposition is clear from experience. For the
+vital appetite cannot begin its vital appetition only out of itself, except it is enticed and
+moved in some way by the appetitible.
+The argument, moreover, can be returned, first, from a general condition of vital potency,
+especially of that which acts with immanent action, which cannot act except having been
+moved in some way or made determinate by its object. This motion with respect to the
+appetite, however, is metaphorical. Or the argument can be returned by a condition of
+appetite. For every appetite follows some being and some form or nature. Elicited appeti-
+tion, however, does not follow immediately from natural being or natural form itself, as is
+obvious, and therefore it is necessary so that it follows some apprehended form and cog-
+nized being that comes forth from that. Hence, just as apart from natural being it does not
+follow natural appetite, so neither does it follow elicited without cognition. But the differ-
+ence is that natural appetite, because it is not in reality distinct from the nature or natural
+faculty itself, accompanies the latter as if formally or as if through a natural sequel, in our
+3C. 50 in modern editions: ‘nulla enim res amatur sine ejus memoria et intelligentia’.
+
+-- 3 of 12 --
+
+Su´arez, DM XXIII, sect. 7 4
+manner of conceiving. The elicited appetite, however, is of a completely different nature
+and is a distinct act from the apprehended form or from the concept, formal just as well
+as objective. And therefore it is not caused by the latter formally but finally from the good
+object having been applied through cognition.
+Ratio autem a priori huius veritatis sumenda est ex principio a nobis posito in
+assertione, nimirum, quod causa finalis non potest causare nisi cognita; adi-
+uncto alio, videlicet, quod voluntas non potest se movere nisi aliquo modo
+finaliter mota, et ideo ferri non potest nisi praevia cognitione. Minor seu
+secunda propositio experientia constat; non enim potest appetitus vitalis in-
+choare suam vitalem appetitionem solum ex seipso, nisi aliquo modo alliciatur
+et moveatur ab appetibili. Ratio autem reddi potest vel ex generali conditione
+potentiae vitalis, praesertim eius quae agit actione immanenti, quae agere non
+potest nisi mota aliquo modo vel determinata a suo obiecto; haec autem motio
+respectu appetitus metaphorica est. Vel reddi potest ratio ex conditione ap-
+petitus; omnis enim appetitus sequitur aliquod esse et aliquam formam seu
+naturam; appetitio autem elicita non sequitur immediate ex ipso naturali esse
+seu naturali forma, ut constat, et ideo necesse est ut sequatur formam appre-
+hensam et esse cognitum quod ab illa provenit; unde sicut absque naturali esse
+non sequitur appetitus naturalis, ita nec sine cognitione sequitur elicitus. Sed
+est discrimen quod appetitus naturalis, quia in re non est distinctus ab ipsa
+natura vel facultate naturali, comitatur illam quasi formaliter seu quasi per
+naturalem sequelam, nostro modo concipiendi; appetitus autem elicitus est
+longe alterius rationis, et est actus distinctus a forma apprehensa seu a con-
+ceptu, tam formali quam obiectivo; et ideo non causatur ab illo formaliter, sed
+finaliter ab obiecto bono per cognitionem applicato.
+Whether God can effect such that the will loves without cognition (Deusne possit efficere ut
+amet voluntas incognitum)
+6. And from these reasons theologians more often than not inder that not only according
+to the order of nature is it necessary that cognition precede elicited appetition, but also
+that it is impossible that it happen otherwise, i.e., that the will be produced without cog-
+nition, even by absolute power. St. Thomas suggests this view in the cited places and
+Henry openly teaches it in Quodl. I, q. 15; and Gabriel in [Sent.] II, dist. 25, q. 1, a. 3, dub.
+3; and Denis the Carthusian4 in De laudib. vitæ solit. a. 36 and 37.5 And this view seems
+to me true and satisfactorily proven by the reasons given above. But it is best shown by
+these two principles, namely, (1) that the will in its own act essentially depends on final
+causality, because it cannot desire unless it has been metaphorically moved or excited by
+the good which is about to be loved and (2) that the final cause altogether with necessity
+and essentially requires that it is cognized in order to cause, because metaphorical motion
+cannot be understoof except via the means of cognition, as has sufficiently been shown.
+4Also known as Denys van Leeuwen or Denis Ryckel.
+5Did Denis write a De laudibus vitæ solitariæ? Others did, e.g., Conrad Rittershaus, but I haven’t tracked
+one down yet for Denis. He did, however, write a well-known De Laudibus B. V. Mariæ.
+
+-- 4 of 12 --
+
+Su´arez, DM XXIII, sect. 7 5
+Atque ex his rationibus inferunt frequentius theologi non solum secundum
+naturae ordinem esse necessarium ut cognitio praecedat appetitionem elici-
+tam, sed etiam de potentia absoluta impossibile esse ut aliter fiat, seu quod
+voluntas feratur in incognitum. Quam sententiam insinuat D. Thomas locis
+citatis, et apertius id docet Henricus, Quodl. I, q. 15; et Gabriel, In II, dist.
+25, q. 1, a. 3, dub. 3; Dionysius Carthus., lib. De Laudib. vitae solit.,
+a. 36 et 37. Et haec sententia mihi vera videtur satisque probari rationibus
+superius factis. Optime vero declaratur ex illis duobus principiis, scilicet,
+quod voluntas in suo actu essentialiter pendet ex causalitate finali, quia non
+potest appetere nisi metaphorice mota seu excitata a bono quod amatura est;
+et quod causa finalis omnino necessario et essentialiter requirit esse cognitum
+ut causet, quia metaphorica motio neque intelligi potest nisi media cognitione,
+ut satis declaratum est.
+7. Yet theologians are not lacking who say that God can effect so that the will loves
+without cognition leading the way. Thus Palud in [Sent.] IV, dist. 49, q. 1, a. 2, n. 29.6
+It is also customarily attributed to Gregory in the same place and Ockham, q. 25, ad. 7
+and 15. Also, some mystical theologians have asserted that in the deepest contemplation
+they sometimes arrive at that state in which the will loves without cognition leading the
+way. Nevertheless, these authors do not explain whether then the final cause also causes
+without cognition or whether the will then loves without the proper concurrence of the
+final cause. And indeed they may consequently speak more of this later. For then the
+object is only the terminus of an act of the will but not a principle and consequently not
+a cause. If it is true that the will can love by receiving an act which it did not effect
+itself, that view would be more intelligible. For then it would be sufficient that that act,
+insofar as it is from an extrinsic cause, would also have a final cause. Nevertheless, since
+the will cannot love except by vitally eliciting the love and it itself moving through that
+and inclining in a vital mode, it cannot be understood that it in itself begins motion in this
+way, except through having been excited and enticed by the object through final causality,
+which cannot be without cognition.
+Non defuerunt tamen theologi qui dicerent posse Deum efficere ut voluntas
+amet sine praevia cognitione. Ita sentit Palud., In IV, dist. 49, q. 1, a. 2, n. 29;
+solet etiam attribui Gregorio ibi, et Ochamo, q. 25, ad 7 et 15. Nonnulli etiam
+theologi mystici asseruerunt in altissima contemplatione perveniri interdum
+ad eum statum in quo voluntas amat sine praevia cognitione. Non tamen ex-
+plicant hi auctores an tunc etiam causa finalis causet sine cognitione, an vero
+voluntas tunc amet sine concursu proprio causae finalis; et quidem magis con-
+sequenter hoc posterius dicerent; nam tunc obiectum solum esset terminus
+actus voluntatis, non autem principium, et consequenter neque causa. Quod
+si verum esset voluntatem posse amare recipiendo actum quem ipsa non ef-
+ficeret, esset magis intelligibilis illa sententia; nam tunc satis esset quod illa
+actio, quatenus est a causa extrinseca, haberet etiam causam finalem. Tamen,
+6Is this a reference to Pierre de la Palud? He did write a commentary on the Sentences.
+
+-- 5 of 12 --
+
+Su´arez, DM XXIII, sect. 7 6
+cum voluntas non possit amare nisi vitaliter eliciendo amorem et seipsam per
+illum movendo et inclinando vitali modo, intelligi non potest quod ipsa in se
+inchoet huiusmodi motum, nisi excitata et illecta ab obiecto per causalitatem
+finalem, quae sine cognitione esse non potest.
+What kind of cognition is necessary for the causality of the end (Qualis cognitio ad causalitatem
+finis necessaria sit)
+8. But various questions immediately occur here, which, because the same ones are dis-
+cussed with respect to the object of the will, I will only suggest and return to in the proper
+place. One is: what is this cognition which is required for causing finally? Namely,
+whether it is necessarily intellective or whether sensitive [cognition] suffices. Two [ques-
+tions] are included in this. One is: whether sensitive cognition suffices for moving the
+will, and this part for the present does not consider [it]. We suppose, moreover, that a
+cognition of the intellect is necessary so that the will is moved, because only intellective
+potency is proportionate to the will for purposes of moving it. This matter is examined in
+[ST] Ia [read: IaIIæ], q. 9, a. 1 and 2, and is touched on by Cajetan, q. 10, a. 3, on account
+of a certain statement of St. Thomas saying here, ad. 3: ‘the will is moved not only by
+the universal good apprehended through the intellect, but also by particular good appre-
+hended through sense’,7 which should not thus be understood so that an apprehension of
+sense is thought sufficient for such motion, but so that these material goods which sense
+apprehends can also move the will insofar as they always come to reason by means of
+sense. The other part of said included question can be hypothetical, whether if the will is
+moved by an object through having thus been apprehended by sense, that motion would
+suffice for final causality or (what is the same) whether motion of the sensitive appetite
+by good cognized through sense is final causality. We will explain this in the last section
+of this disputation.
+Statim vero occurrunt hic variae quaestiones, quas quia eaedem tractantur de
+obiecto voluntatis, solum insinuabo et in proprium locum remittam. Una est,
+qualis sit haec cognitio quae ad finaliter causandum requiritur, an scilicet nec-
+essaria sit intellectiva, vel sensitiva sufficiat. In qua duae includi possunt; una
+est, an sensitiva cognitio sufficiat ad movendam voluntatem, et haec pars ad
+praesens non spectat; supponimus autem necessariam esse intellectus cogni-
+tionem ut voluntas moveatur, quia sola potentia intellectiva est proportionata
+voluntati ad movendam illam; de qua re disseritur in I, q. 9, a. 1 et 2, et tan-
+gitur a Caiet., q. 10, a. 3, propter quaedam verba D. Thomae ibi, ad 3, dicentis
+voluntatem moveri non solum a bono universali apprehenso per intellectum, sed etiam
+a bono particulari apprehenso per sensum, quae non sunt ita intelligenda ut appre-
+hensio sensus putetur sufficiens ad talem motionem, sed ita ut haec bona ma-
+terialia quae sensus apprehendit, possint movere etiam voluntatem quatenus
+medio sensu usque ad rationem perveniunt. Altera pars in dicta quaestione in-
+clusa esse posset hypothetica, an si voluntas moveretur ab obiecto per sensum
+7Not an exact quotation: ‘voluntas non solum movetur a bono universali apprehenso per rationem, sed etiam a
+bono apprehenso per sensum.’
+
+-- 6 of 12 --
+
+Su´arez, DM XXIII, sect. 7 7
+tantum apprehenso, illa motio sufficeret ad causalitatem finalem, vel (quod
+idem est) an illa motio esset causalitas finalis, de qua quaestione eadem est
+ratio ac de simili quaestione absoluta, an motio appetitus sensitivi a bono cog-
+nito per sensum sit causalitas finalis, quam explicabimus sectione ultima huius
+disputationis.
+9. Another question, following the preceding one, is, what intellective cognition then is
+necessary, whether, evidently apprehensive [cognition] suffices, as Scotus seems to think
+in [Sent.] II, dist. 6, q. 1, or whether a judicative [cognition] is necessary (which matter
+is discussed in [ST] IaIIæ.9.1.). And the strength can fall into doubt but that a judicative
+cognition is necessary concerning the object under the aspect of agreeability and concern-
+ing its agreeability. This is the manifest view of the Philosopher in DA II, c. 3, who in
+this sense says that the bare phantasm does not move the appetite, but opinion [does];
+and in c. 7 he denies that the appetite is moved until a judgement of good or bad arrives;
+and Metaph. IV, c. 4, text. 18 is very good evidence. For so to be found for a determi-
+nate motion of the will he thinks a determinate judgement regarding the agreeability of
+the matter in which the will is moved is necessary, so that by this experience he refutes
+philosophers who deny the first principle and he shows that no thing at the same time is
+and is not, but one such thing is determined. St. [John] of Damascus has the same view
+in De fide II, c. 22 and St. Thomas in [ST] IaIIæ.9.1 and Ia.53.3 and numerous other places.
+And the reason is clear, because until the intellect judges the object to be agreeable, it does
+not yet cognize the agreeability of it. For an apprehension that is pure and apart from all
+judgements is indifferent so that that which is apprehended is thought to be or not to be
+thus. And therefore someone who apprehends only and does not judge stars to be pro-
+portionate does not know that they are proportionate but remains doubtful and ignorant.
+Therefore, in this way an apprehension of the agreeability of a thing cannot be sufficient
+to move the will, as the experiences itself also sufficiently teaches. Therefore, neither [is it
+sufficient] for causing finally. Therefore, it requires judgement.
+Altera quaestio, ad praecedentem consequens, est, quaenam cognitio intellec-
+tiva necessaria sit, an, nimirum, apprehensiva sufficiat, ut Scotus In II, dist.
+6, q. 1, opinari videtur, vel iudicativa necessaria sit. De qua re tractatur in
+I-II, q. 9, a. 1. Et vix potest cadere in dubium quin iudicativa cognitio nec-
+essaria sit de obiecto sub ratione convenientia et de convenientia eius. Quae
+est aperta sententia Philosophi, II de Anim., c. 3, qui hoc sensu ait phantasiam
+nudam non movere appetitum, sed opinionem; et c. 7 negat moveri appetitum
+donec adsit iudicium boni aut mali; et lib. IV Metaph., c. 4, text. 18, est opti-
+mum testimonium. Nam ita compertum esse putat ad determinatum volun-
+tatis motum necessarium esse determinatum iudicium de convenientia rei in
+quam voluntas movetur, ut hoc experimento redarguat philosophos negantes
+primum principium et ostendat quod nulla res simul sit et non sit, sed alterum
+tantum determinate. Eadem est sententia D. Damasceni, lib. II De Fide, c. 22;
+et D. Thomae, I-II, q. 9, a. 1, et I, q. 53, a. 3, et saepe alias. Et ratio est clara, quia
+donec intellectus iudicet obiectum esse conveniens, nondum cognoscit conve-
+nientiam eius; nam apprehensio pura ac praecisa ab omni iudicio indifferens
+
+-- 7 of 12 --
+
+Su´arez, DM XXIII, sect. 7 8
+est ut id quod apprehenditur ita esse aut non esse existimetur; et ideo qui ap-
+prehendit tantum et non iudicat astra esse paria, non cognoscit esse paria, sed
+dubius manet et ignorans; huiusmodi ergo apprehensio de convenientia rei
+non potest esse satis ad movendam voluntatem, ut ipsa etiam experientia satis
+docet; ergo nec ad finaliter causandum; requiritur ergo iudicium.
+10. You may say: the sensitive appetite is moved without judgement by apprehension
+of the object. Therefore the will will also be able to be thus moved. It is responded that
+the antecedent is false. For, as St. Thomas says, [ST] Ia.59.3: ‘A sheep flees the wolf by
+a certain judgement whereby it thinks it harmful to itself’. Such a judgement in a beast,
+however, is not through reasoning nor through composition nor through formal cognition
+of that reason on account of which the thing is agreeable, but is through a simple and
+natural estimation (existimationem) of the agreeability of such a thing. But the intellect
+of a human follows a perfect judgement concerning the agreeability and concerning the
+formal reason of such agreeability, both by composing and also by reasoning. But higher
+intelligences judge through simple acts in a higher way.
+But whether sometimes in a human a cognition of the object through a simple act (which,
+although it does not say that it is or is not such through formal composition and divi-
+sion, is, nevertheless, not a pure apprehension but virtually includes a judgement and
+cognition that such an object is agreeable) suffices so that the will is moved is disputed
+by theologians. And it is plausible that such a mode of cognition can suffice for some
+simple affect of the will. And perhaps Scotus was speaking in this sense above, and, more
+widely, Marsilius [of Inghen]8 in Sent. II, q. 16, a. 1; also [John] Mair and Gabriel [Biel] in
+Sent. II, dist. 6.
+Nevertheless, for a proper and formal motion on account of the end, which is what we’re
+discussing now, a more perfect judgement is necessary, [one] that is not had without rea-
+soning or composition or division, because it must cognize either the proper and formal
+agreeability which is in the end9 or the proportionate means to the end. This cognition
+is not had except through a collation of one to another, which does not happen without
+composition and reasoning and a perfect judgement that is put together thereupon. And
+therefore the undeliberated operations of the will are not properly thought to be on ac-
+count of the end, as St. Thomas observed in [ST] IaIIæ.1.1 ad 3, because, although they do
+not become without some cognition of the intellect, nevertheless they are imperfect and
+in the way are similar to imaginary estimations. But here doubt almost immediately has
+arise concerning the will of the insane, whether in this case it has the proper causality of
+the end, concerning which I will speak at once.
+Dices: appetitus sensitivus movetur sine iudicio ex [4] apprehensione obiecti;
+ergo et voluntas poterit ita moveri. Respondetur falsum esse antecedens; nam,
+ut D. Thomas ait, I, q. 59, a. 3: Ovis fugit lupum ex quodam iudicio, quo existimat
+8Or is this some other Marsilius? Presumably not Marsilius of Padua?
+9The agreeability is in the end? Wouldn’t it be between the end and the agent? Perhaps there is a clue
+here for why Su´arez denies that agreeability is a relation.
+
+-- 8 of 12 --
+
+Su´arez, DM XXIII, sect. 7 9
+eum sibi noxium. Tale autem iudicium in bruto non est per ratiocinationem, nec
+per compositionem, neque per formalem cognitionem illius rationis propter
+quam res est conveniens, sed est per simplicem et naturalem existimationem
+de convenientia talis rei. Intellectus vero humanus consequitur perfectum iu-
+dicium de convenientia et de formali ratione talis convenientiae, tum compo-
+nendo, tum etiam ratiocinando; superiores vero intelligentiae superiori modo
+iudicant per simplices actus. An vero interdum in homine, ut moveatur volun-
+tas, sufficiat cognitio obiecti per simplicem actum, qui licet non dicat ita esse
+vel non esse per formalem compositionem et divisionem, non sit tamen pura
+apprehensio sed virtuale iudicium includat et cognitionem quod tale obiec-
+tum conveniens sit, disputatur a theologis; et probabile est posse sufficere
+talem cognitionis modum ad aliquem simplicem affectum voluntatis; et for-
+tasse hoc sensu locutus est Scotus supra, et latius Marsil., In II, q. 16, a. 1;
+Maior etiam et Gabriel, In II, dist. 6. Tamen ad propriam et formalem mo-
+tionem propter finem, de qua nunc agimus, perfectius iudicium necessarium
+est, quod non habetur sine ratiocinatione vel compositione aut divisione, quia
+oportet cognoscere vel propriam et formalem convenientiam quae est in fine,
+vel proportionem mediorum ad finem, quae cognitio non habetur nisi per col-
+lationem unius ad aliud, quae non fit sine compositione et ratiocinatione et
+perfecto iudicio quod inde comparatur. Et ideo operationes voluntatis inde-
+liberatae non censentur esse proprie propter finem, ut notavit D. Thomas, I-II,
+q. 1, a. 1, ad 3, quia, licet non fiant sine aliqua cognitione intellectus, tamen est
+imperfecta, et in modo est similis existimationi imaginariae. Hic vero statim
+oriebatur dubium de voluntate amentium, an in ea locum habeat causalitas
+propria finis, de qua re statim dicam.
+11. But on the other hand it is usual to doubt whether this judgement ought to be practical
+or whether a speculative [judgement] suffices, concerning which matter many things are
+also disputed by the theologians in the cited places. From those things, however, which
+were said earlier by us concerning the use of human freedom and concerning the way by
+which the will can be determined by a judgement of the intellect, a sufficient resolution
+can be gathered for the stated doubts insofar as is necessary for the present. And because
+much depends on the use of the word, it is necessary to distinguish them. Therefore,
+if through a practical judgement we understand some act of the intellect—so judging
+concerning the end that it per se and by its own strength has the power to efficiently
+determine the will—such [a judgment] it should be said does not require such a practical
+judgement for final causality, because the motion of the end, or the judgement through
+which the end is applied, does not impede the use of freedom. Indeed, such a practical
+motion would be almost entirely contrary to the will, as we showed above.10
+If, however, through practical judgement is understood a judgement concerning the a-
+greeability of the end, not only according to itself but also with respect to the human
+judging, not only in general and abstractly, but also in particular here and now, and con-
+sequently judging not only concerning the object of end itself, but also concerning the act
+10Is there a missing negation in this sentence?
+
+-- 9 of 12 --
+
+Su´arez, DM XXIII, sect. 7 10
+or tendency itself to the end, that is, so that not only is the object judged to be agreeable,
+but also that to will here and now is agreeable, if such (I say) judgement is signified by the
+name ‘practical judgement’, it is true that a judgement practical in this way is required for
+final causality. And in this sense, a speculative judgement as distinct from this practical
+judgement does not suffice.
+Rursus vero dubitari solet an hoc iudicium debeat esse practicum vel specula-
+tivum sufficiat, de qua re multa etiam disputantur a theologis in citatis locis.
+Ex his autem quae superius dicta sunt a nobis de usu libertatis humanae, et de
+modo quo voluntas potest a iudicio intellectus determinari, sumi potest suffi-
+ciens resolutio dictae dubitationis quantum ad praesens necessaria est. Et quia
+multum pendet ex usu vocum, eas distinguere necesse est. Si ergo per iudi-
+cium practicum intelligamus aliquem actum intellectus, ita iudicantem de fine
+ut per se et vi sua potens sit determinare efficaciter voluntatem, sic dicendum
+est non requiri tale iudicium practicum ad causalitatem finalem, quia motio
+finis, aut iudicium per quod finis applicatur, non impedit usum libertatis; talis
+enim motio practica omnino contraria esset voluntati, ut supra ostendimus.
+Si autem per iudicium practicum intelligatur iudicium de convenientia finis,
+non tantum secundum se sed etiam respectu hominis iudicantis, non tantum
+in communi et abstracte, sed etiam in particulari hic et nunc, et consequenter
+iudicantis non tantum de ipso obiecto seu fine, sed etiam de ipso actu seu
+tendentia in finem, id est, ut non solum iudicetur obiectum esse conveniens,
+sed etiam hic et nunc esse conveniens illud velle, si tale (inquam) iudicium
+significetur nomine iudicii practici, verum est iudicium hoc modo practicum
+requiri ad causalitatem finalem; et eodem sensu, iudicium speculativum huic
+iudicio practico condistinctum non sufficere.
+12. This is the sense in which I understand Aristotle’s statement in DA III, c. 9, text. 42:
+‘Contemplative intellect does not say anything at all about if it is to be fled or pursued,
+but the motion of fleeing or pursuing is always something’. Indeed, that what is said here
+concerning practical judgement or command is in this latter way and not the former is
+clear from text. 47 in which he says: ‘Sometimes intellect commands and reason says to
+flee something or to pursue, but the human does not obey and is not moved, but acts
+with cupidity, as in itself it is accustomed to become incontinent.’ Moreover, the reason
+why such a judgement is required, it is clear, is because, as was also said above, while
+the will is moved, not only does it wish the object, but also in its own way it wishes
+here and now a proper action and its own motion. Therefore, it is necessary so that a
+judgement is brought concerning this whole and concerning such agreeability. But that
+such a judgement suffices is clear, because it sufficiently applies both the agreeability of
+the object and of practical motion to it. But whatever else is examined can be founded
+neither in the nature of a final cause nor in the mode of operating of the will, so that not
+more by that part by which it is free, it opposes that. Therefore.
+Quo sensu intelligo dictum Aristotelis, III De Anim., c. 9, text. 42: Intellectus
+contemplativus non dicit quidquam omnino si sit fugiendum aut prosequendum; at
+
+-- 10 of 12 --
+
+Su´arez, DM XXIII, sect. 7 11
+motus semper fugientis aut prosequentis quidpiam.11 Quod enim loquatur ibi de
+iudicio vel imperio practico hoc posteriori modo et non priori, patet ex text.
+47, in quo subdit: Intellectus nonnunquam iubet, ratioque fugere aliud, aut persequi
+dicit, at non obtemperat homo atque movetur, sed agit cupiditate, ut in ipso fieri solet
+incontinente. Ratio autem cur tale iudicium requiratur, clara est, quia, ut supra
+etiam dictum est, dum voluntas movetur, non tantum vult obiectum, sed etiam
+suo modo vult hic et nunc proprium actum et motionem suam; ergo necesse
+est ut de hoc toto et de tali convenientia feratur iudicium. Quod vero tale
+iudicium sufficiat, patet, quia sufficienter applicat et convenientiam obiecti
+et practicae motionis in ipsum; at quidquid aliud exigitur, neque in ratione
+causae finalis fundari potest, neque in modo operandi voluntatis; quin potius
+ex ea parte qua libera est, ei repugnat; ergo.
+13. Whether the insane wish something on account of the end.—But immediately a diffi-
+culty comes up, because such a practical judgement does not seem necessary. Otherwise,
+causality of the end will not have a place in the insane or in children before their complete
+use of reason, which seems to be contrary to experience, because they show with words
+that they cognize the nature of the good by which they are moved and the utility of means
+to the end. It is responded by absolutely denying the sequel. For, although these humans
+cannot exercise practical judgements in the order to be morally honest or depraved, be-
+cause cognition of honesty requires complete use of reason and sound judgement, never-
+theless they can have practical judgement concerning the matter as actionable here and
+now and agreeable to some lower reason, as is the reason of pleasure or the reason of
+agreeability or disagreeability to animal nature, which is found in health, for example,
+and utility, which is in the means with respect to such an end. For, although they are
+insane, they are not deprived of all discursive [ability] and reasoning, through which the
+cause of the end is sufficiently applied so that it can have some of its causality although
+not to the most complete degree.
+Amentesne velint aliquid propter finem.—Sed statim occurrit difficultas, quia nec
+tale iudicium practicum necessarium videtur, alioqui non habebit locum in
+amentibus vel pueris ante perfectum usum rationis causalitas finis, quod vide-
+tur esse contra experientiam, quia verbis ostendunt se cognoscere rationem
+boni a qua moventur et utilitatem medii ad finem. Respondetur absolute ne-
+gando sequelam; nam, licet hi homines non possint exercere iudicia practica
+in ordine ad mores honestos aut pravos, quia cognitio honestatis requirit per-
+fectum rationis usum et integrum iudicium, possunt tamen habere iudicium
+practicum de re ut hic et nunc operabili et convenienti sub aliqua inferiori ra-
+tione, ut est ratio delectabilis vel ratio convenientis aut disconvenientis animali
+naturae, quae reperitur in sanitate, verbi gratia, et utilitate, quae est in medio
+respectu talis finis. Nam, licet hi amentes sint, non privantur omni discursu et
+ratiocinatione, per quam sufficienter applicetur causa finalis ut habere possit
+aliquam causalitatem suam, quamvis non perfectissimam.
+11Viv`es edition reads: . . . prosequentis quippiam est.
+
+-- 11 of 12 --
+
+Su´arez, DM XXIII, sect. 7 12
+14. Whether a cognition is a per se cause for finalising—Last, it can be inquired regarding
+this cognition, which we say is necessay for causing finally, whether it is required only
+as a necessary condition for this causality or whether also as a principle or cause per
+se. This doubt can have two senses. One is whether a cognition of the end has another
+causality per se concerning the act of the will on acocunt of which it is also necessary
+besides that necessity which is taken from the part of the final cause. In this sense this
+question is not to be discussed at present. For it coincides with that, whether the cognition
+concurs effectively12 for the act of the will just as a proper principle per se flowing into
+that, to which nothing in the present question concerning the final cause refers. For it is
+certain, as I said above, that the final cause, which is applied through a cognition does
+not effectively flow into an act of the will. But that act itself of cognition by which such
+a cause is applied elsewhere may have the strength for a sufficiently causing act of the
+will, not related to final causality, although more probably the cognition does not have
+that strength of effecting in the act of the will, as has been touched on in above [sections]
+and is to be disputed more extensively in the science of the soul. The other sense of this
+doubt is: whether the being cognized that the final cause has through the cognition is
+that nature of causing finally, and for that reason the cognition not only is a necessary
+condition but also the principle per se of that causality. And this doubt is usually thought
+serious, which the following section claims.
+Cognitio an causa per se finalisandi.—Ultimo inquiri potest circa hanc cogni-
+tionem, quam necessariam dicimus ad finaliter causandum, an requiratur so-
+lum ut conditio necessaria ad hanc causalitatem, an vero etiam ut principium
+seu causa per se. Quae dubitatio duplicem potest habere sensum. Unus est an
+cognitio finis, praeter eam necessitatem quae ex parte causae finalis sumitur,
+habeat aliam causalitatem per se circa actum voluntatis, ob quam etiam nec-
+essaria sit. Quo sensu in praesenti non est tractanda haec quaestio; coincidit
+enim cum illa, an cognitio concurrat effective ad actum voluntatis tamquam
+proprium principium per se influens in illum, quae nihil ad praesentem quaes-
+tionem de causa finali refert. Certum est enim, ut supra dixi, causam finalem,
+quae per cognitionem applicatur, non influere effective in actum voluntatis;
+quod vero actus ipse cognitionis quo talis causa applicatur, aliunde habeat
+vim ad sufficienter causandum voluntatis actum, impertinens est ad causali-
+tatem finalem, quamquam probabilius est non habere cognitionem eam vim
+efficiendi in actum voluntatis, ut in superioribus est tactum et latius in scientia
+de anima disputandum est. Alius sensus illius dubitationis est an esse cogni-
+tum quod finalis causa habet per cognitionem sit illi ratio causandi finaliter,
+ideoque cognitio non solum sit conditio necessaria, sed etiam principium per
+se huius causalitatis; et hoc dubium grave censeri solet, quod sequentem sec-
+tionem postulat.
+12It should be noted that ‘effective’ and its cognates, include the adverbial form, will all have the sense of
+effective cause in this discussion, e.g., the adverb here is not to be read as ‘successfully’ or something like
+that.
+
+-- 12 of 12 --

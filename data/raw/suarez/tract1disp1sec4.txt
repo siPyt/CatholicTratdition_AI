@@ -1,0 +1,325 @@
+Last revision: January 10, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 1, SECT. 41
+© Sydney Penner 2011
+<7, col. b>2
+Sub qua ratione boni moveat finis, et consequenter an media par- Under what aspect of good an end moves and, hence, whether means par-
+ticipent causalitatem finis. ticipate in the causality of an end.3
+Resolutio
+affir. quoad
+bonum
+honestum et
+delectabile.
+1. Cum triplex sit bonum, honestum, delectabile et utile: 1. Good is threefold: honest, delightful, and useful.4 About the first An affirmative
+resolution with
+respect to honest
+and delightful
+good.
+de duobus primis nulla est quæstio, quia de honesto per se two there is no question, since it is per se notum of honest good that it
+5 notum est esse maxime per se expetibile, quinimo ait divus 5R especially is choiceworthy in itself. Indeed, St. Thomas says in ST Ia.5.6
+Thomas, 1 part., quæst. 5, art. 6, rationem honesti in hoc con- that the nature of honest good consists in being agreeable in itself. But
+sistere, quod sit per se conveniens: de bono vero delectabili with respect to delightful good, Aristotle said in EN X, cap. 2—and
+dixit Aristoteles 10, Ethic., cap. 2, et cum eo D. Thomas, 1, St. Thomas agrees with him in ST IaIIæ.2.6 ad 1—that it is foolish to
+2, quæst. 2, art. 6, ad 1, stul- <8> tum esse quærere propter ask for the sake of what it is desired. For delight holds desirability in
+10 quid appetatur. Nam delectatio ex se habet appetibilitatem. 10R itself. Hence it is clear that each of these aspects of good is sufficient
+Unde constat utramque hanc rationem boni esse sufficientem for final-causing. For that which moves so that it is desired in itself
+ad causandum finaliter, quia quod movet ut per se appetatur, also has the strength to move so that other things, if they are necessary
+etiam habet vim ad movendum ut alia appetantur propter ip- [for attaining the end], are desired for the sake of the end. Otherwise
+sum finem, si fuerint necessaria, alias prior motio non esset the former motion would not be efficacious, for from an efficacious
+15 efficax, nam ex efficaci intentione finis sequitur electio medii si 15R intention for the end follows the election of means if they are necessary.
+Dubitatio solum
+versatur de bono
+utili, ut sic.
+necessaria sit. Tota ergo quæstio versatur de bono utili, quod Therefore, the whole question is about useful good, which is not good The doubt only
+concerns useful
+good as such.
+non est propter se bonum, nec propter se amabile, sed tantum for its own sake and is not lovable for its own sake but only for the sake
+propter aliud: loquimur enim formaliter de bono utili, ut sic, of something else. For we are speaking formally about useful good as
+nam si contingat bonum quod est utile ad unum finem, esse such. If it happens that a good that is useful for one end is otherwise
+20 alias per se conveniens, vel delectabile, illud est accidentarium 20R agreeable or delightful in itself, that is accidental to the aspect of useful
+ad rationem utilis, et sub ea ratione participabit objectum il- good and under that aspect that object will participate in another aspect
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not
+always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+3Suárez also discusses this material in DM XXIII.6.
+4Suárez uses the traditional threefold division of good into honestum, delectabile, and utile. Translation of these terms is liable to lead to unhappy results. For example, one
+might be tempted to translate honestum with ‘moral good’ or ‘virtuous good’, but those English expressions really do not cover a wide enough range of cases. I will here translate
+the terms with the archaic expressions ‘honesty’ or ‘honest good’, ‘delight’ or ‘delightful good’ (‘pleasure’ would be another option), and ‘useful good’. Suárez discusses this
+division in more detail in DM X.
+5 esse ] om. V.
+
+-- 1 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 2
+lud aliam rationem finis, nam quatenus utile est, proprie ha- of end. For insofar as it is useful, it properly has the aspect of a means.
+bet rationem medii, et ideo hæc quæstio coincidit cum illa, an And therefore this question coincides with the question whether means
+medium, ut medium, finaliter causet, in qua re tres excogitari insofar as they are means final-cause. One can think of three different
+25 possunt diversæ sententiæ, quas latius attuli, disput. 23, Meta- 25R views with respect to this question, which I report more extensively in
+physicæ, sect. 6. DM XXIII.6.5
+1. Sententia
+affirm.
+2. Prima est, bonum utile, ex hoc solum quod utile est, 2. The first view is that useful good—and, consequently, every The affirmative
+first view.	atque adeo omne medium, sive sit primum, sive secundum, means—simply by the fact that it is useful can have the nature of a fi-
+posse habere rationem causæ finalis. Hanc sententiam vide- nal cause. Gabriel seems to indicate this view in I, dist. 38, q. 1, art. 1,
+30 tur indicare Gabriel, in 1, dist. 38, quæst. 1, art. 1, ubi ex sen- 30R where according to the view of Gregory he distinguishes three kinds
+tentia Gregorii distinguit triplicem finem, unus est, qui per se of ends. One kind is that which is desired for its own sake and other
+appetitur, et alia propter ipsum, qui est finis ultimus in aliqua things for its sake, which is an end ultimate in some series. Another
+serie. Alius qui non propter se appetitur, sed alia appetuntur kind is that which is not desired for its own sake but other things are
+propter ipsum, ut sunt media intermedia: tertius est, qui nec desired for its sake, as intermediate means are. The third kind is that
+35 propter se appetitur, nec alia propter ipsum: sed solum ipse ap- 35R which neither is desired for its own sake nor has other things desired for
+petitur propter alia, ut est primum medium in executione, et its sake but it itself is only desired for the sake of something else, as the
+Eius ratio 1. ultimum in intentione. Ratio vero hujus sententiæ esse potest, means first in execution and last in intention is. But an argument for The first
+argument for it.	quia causalitas finis consistit in motione voluntatis, sed volun- this view can be that final causality consists in motion of the will, but
+tas non tantum movetur ad finem, sed etiam ad omne medium, the will is not only moved to the end but also to every means, seeing
+40 quandoquidem illum appetit, nec etiam movetur a solo fine ul- 40R that the will desires the latter. Nor is the will only moved by an ulti-
+timo, seu a bono per se amabili: sed etiam ab ipso bono, et mate end or by a good that is lovable for its own sake. It is also moved
+medio utili, ut sic: ergo in illo reperitur causalitas finis. Pro- by good itself and by useful means as such. Therefore, the causality of
+batur ultima pars minoris, in qua est difficultas, quia ipsum an end is found in them. The last part of the minor, in which there is
+medium est bonum utile, et utilitas est aliqua bonitas in ipso a difficult, is proven: for the means itself is a useful good and utility is
+45 existens, non enim inhæret in fine, sed in ipsa re, quæ est utilis 45R some goodness existing in the means, for it does not inhere in the end
+ad finem: ergo medium ratione suæ utilitatis trahit voluntatem but in that very thing that is useful for the end. Therefore, a means by
+Ratio 2. ad se. Secundo, quia voluntas determinatur ad eligendum hoc reason of its utility draws the will to itself. Secondly, the will is deter- The second
+argument.	medium potius quam illud, non a fine, sed a medio, scilicet, mined to electing one means rather than another not by the end but by
+quia est magis aptum ad comparandum finem: ergo est in ipso the means, namely, because it is more apt to be placed together with the
+50 medio causalitas res- <col. b> pectu voluntatis ad alliciendam 50R end. Therefore, there is in the means itself a causality with respect to
+et determinandam illam. the will for enticing and determining it.
+2. Sentent.
+negans suadetur
+ex Arist.
+3. Secunda sententia extreme contraria est, nullum medium 3. The second view is the extreme contrary that no means partici- The negative
+second view is
+urged by appeal
+to Aristotle.
+participare rationem, vel causalitatem finis: cui videtur favere pate in the nature of causality of an end. Aristotle seems to favour it in
+Aristoteles, loco citato supra, sect. 2, num. 2, ex 2, Meta- the passage cited above in sect. 2, n. 2, from Metaph. II, cap. 2, where he
+55 physicæ, cap. 2, ubi dicit de ratione finis esse, ut alia appetantur 55R says that it belongs to the nature of an end ‘that other things are desired
+5This may well indicate that Alvarez, the editor, has cut some text here.
+25 23 ] 13 V.
+25–26 Metaphysicæ ] Metaphysicæ 5 V.
+
+-- 2 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 3
+propter ipsum, et ipse non, propter alia; ergo nullum medium for its sake but not itself for the sake of something else’. Therefore,
+habet rationem finis: nec dici potest Aristoteles ibi loqui de no means has the nature of an end. Nor can it be said that Aristotle is
+fine ultimo; nam potius ex illo primo intendit probare perve- speaking here about the ultimate end. Rather, he intends to prove from
+niendum esse ad aliquem finem ultimum, et non procedi in this first point that one should come to some ultimate end and not pro-
+60 infinitum in causa finali: loquendo ergo de fine ut sic, vere in 60R ceed to infinity in the final cause. Therefore, he must be speaking about
+2, Phys., cap. 3, dicit, omnia media etsi inter se subordinata sint, the end as such. Indeed, in Phys. II, cap. 3, he says that ‘all means even if
+esse propter unum finem intentum, verbi gratia, propter sani- subordinated among themselves are for the sake of one intended end’,
+tatem: et 1 Ethic., cap. 7, dicit, in unaquaque serie illud esse for example, for the sake of health. And in EN I, cap. 7, he says that ‘in
+Item nomine
+finis.
+finem, quod ultimo appetitur. Et ideo adjungi potest confirma- each series that is the end which is desired ultimately’. And therefore Likewise from
+the name ‘end’.	65 tio ex ipso nomine finis; significat enim id, quod est extremum, 65R a confirmation can be added from the very name ‘end’, for it signifies
+et in quo sistit voluntas tendens ad finem, sed non habet ra- that which is the extreme and in which the will tending to an end stops.
+tionem extremi, nisi id, quod propter se amatur, nec voluntas But a thing does not have the nature of an extreme except that which
+in alio sistit, nam per quodcumque medium ulterius tendit in is loved for its own sake. Nor does the will stop in anything else, for
+finem: ergo. through any means whatever it tends to a further end. Therefore.
+70	3. Sententia
+distinctione
+utens.
+4. Tertia sententia distinguit: nam medium considerari 70R 4. The third view makes a distinction: for a means can be consid- The third view
+uses a distinction.	potest, vel quatenus amatur propter aliud, vel quatenus aliud ered either insofar as it is loved for the sake of something else or insofar
+amatur propter ipsum: et priori ratione negatur habere fi- as something else is loved for its sake. And it is denied to have the na-
+nis rationem, quia sub illa exercet formalem rationem medii: ture of an end by the former aspect, for it exercises the formal nature of
+medium autem et finis ut sic, saltem ratione formali distingu- a means under that aspect. But a means and an end as such are only dis-
+75 untur. Posteriori autem ratione dicitur habere rationem finis, 75R tinguished by a formal nature. But by the latter aspect it is said to have
+quia ut sic, non exercet rationem medii, sed potius rationem the nature of an end, because as such it does not exercise the nature of a
+termini, non ultimi, sed proximi et intermedii. Ex quo fit, il- means but rather the nature of a terminus (not an ultimate but a prox-
+lud medium, quod est executione primum, seu intentione, ac imate and intermediate one). Hence it results that that means which is
+resolutione ultimum, nullo modo habere rationem finis, quia first in execution or last in intention and resolution has in no way the
+80 tantum propter aliud eligitur, et nihil amatur propter ipsum: 80R nature of an end, because it is only elected for the sake of something
+reliqua vero media, quæ inter primum medium et finem ul- else and nothing is loved for its sake. But the remaining means—which
+timum intercedunt, participabunt rationem finis modo jam stand between the first means and the ultimate end—participate in the
+Qui ei adhæreant,
+vel faveant.
+dicto. Hanc opinionem tenet Ægidius, in 2, d. 38, quæst. 2, nature of the end in the way just mentioned. Ægidius holds this opin- Who holds or
+favours it.	art. 2, et significat Gabriel 2, d. 1, quæst. 5, art. 1, citans ion in II, dist. 38, q. 2, art. 2, and Gabriel indicates it in II, dist. 1, q. 5,
+85 Ocham ibi quæst. 3, art. 1, et videtur sententia divi Thomæ 85R art. 1, citing Ockham, q. 3 of the same distinction, art. 1. And it seems
+3, contra Gent., cap. 2, ubi in ratione finali inquit: In his, quæ to be St. Thomas’s view in SCG III, cap. 2, where he says in the final
+sunt ad finem, omnia intermedia sunt finis respectu prioris: et argument: ‘In those things which are for the end every intermediate is
+in 2, Phys., in lect. 5, in hunc modum explicat citatum locum an end with respect to the former thing’. And in Phys. II, lect. 5, he ex-
+Aristoteles, dicens: De ratione finis non esse, quod sit ultimum plains the passage cited from Aristotle in this way, saying: ‘It does not
+90 simpliciter, sed solum respectu præcedentis: et eodem modo ex- 90R belong to the nature of an end to be unqualifiedly ultimate but only to
+63 in ] om. V.
+74 sic ] om. V.
+83 38 ] 28 V.
+
+-- 3 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 4
+ponit Aristoteles 1, Eth., cap. 7, ubi certe <9> videtur philoso- be ultimate with respect to the preceding [means]’. He explains in the
+phus multum favere, nam aperte dicit, non omnes fines esse same way [the passage] from Aristotle, EN I, cap. 7, where the Philoso-
+perfectos et propter se expetibiles, et inter fines ponit divitias pher certainly seems greatly to favour [this view], clearly saying that
+et instrumenta artis, quæ sine dubio sunt media ulterioris fi- not every end is perfect and choiceworthy for its own sake. He also
+95 nis, licet comparentur ut finis respectu earum actionum, per 95R places wealth and the instruments of arts among the ends. But these
+Iudicium auctoris
+de præcedentibus
+sententiis.
+quas fiunt, vel acquiruntur. Inter has sententias hæc postrema are without doubt means to a further end, although they are related as
+melius loquitur, et simpliciter verior est: tamen, quia secunda an end with respect to those actions through which they are made or
+in aliquo sensu dicit etiam aliquid verum, oportet aliam dis- acquired. Among these views, this last one speaks better and is, strictly The judgement of
+the author
+concerning the
+preceding views.
+tinctionem adhibere præter jam dictam. Possumus enim loqui speaking, truer. Still, since the second view also says something true
+100 de fine aut quoad propriam causalitatem finis, prout a nobis 100R in some sense, some distinction beyond the one just made must be ap-
+explicata est, vel solum, quoad rationem et denominationem plied. For we can speak about the end either with respect to the proper
+termini, propter quem aliquid sit. causality of the end—as I explained it—or only with respect to the na-
+ture and denomination of a terminus for whose sake something is.
+1. Assertio. 5. Dico ergo primo, propriam causalitatem finis reperiri 5. I say, first, therefore, that the proper causality of an end is found The first
+assertion.	tantum in eo fine, qui in sua serie est ultimus, atque adeo in 105R in that end which is ultimate in its series and, therefore, only in good
+105 bono tantum, quod propter se amatur, et non propter aliud. loved for its own sake and not for the sake of another good. This con-
+Probatur 1. Hæc conclusio colligitur ex Aristotele in secunda sententia ci- clusion is gathered from Aristotle as cited in the second view. And it is It is proven, first.
+tato: et probatur ratione, quia omnia media a primo usque ad proven by reason, for all means from the first one to the last one are not
+ultimum, non sunt amabilia propter se, sed solum ratione finis: lovable for their own sake but only by reason of the end. Therefore,
+ergo media non trahunt voluntatem ad se, sed solus finis est 110R means do not draw the will to themselves. Rather, it is only the end
+110 qui trahit voluntatem ad omnia media. Unde divus Thomas, 1 which draws the will to all the means. Hence, St. Thomas in ST Ia.5.6
+part., quæst. 5, art. 6. Utilia, inquit, dicuntur, quæ non habent says that those things are called useful which do not have in themselves
+in se, unde desiderentur: ergo non habent in se, unde causent that for which they are desired. Therefore, they do not have in them-
+Probatur 2. finaliter: ergo tota causalitas est a bono per se amato. Secundo, selves that by which they final-cause. Therefore, all the causality is from
+quia media, ut amantur propter aliud, non exercent causal- 115R the good that is loved for itself. Secondly, because means insofar as they It is proven,
+secondly.	115 itatem finis: ergo nec illam exercent quatenus aliud amatur are loved for the sake of something else do not exercise the causality of
+propter ipsa: ergo nullo modo sunt finis. Primum antecedens an end. Therefore, neither do they exercise it insofar as something else
+recte probatur, ab ultima opinione, et ex communi modo lo- is loved for their sake. Therefore, they are in no way the end. The first
+quendi omnium philosophorum constat: non enim distingu- antecedent is rightly proven by the last opinion and it is obvious from
+unt finem qui sit etiam medium, a fine ut fine. Item, quia 120R all philosophers’ common way of speaking, for they do not distinguish
+120 tota causalitas ipsius finis, ut supra visum est, comprehenditur the end which is also a means from the end as end. Likewise, because
+in illis duobus actibus, quod propter se ametur, vel alia propter the whole causality of the end itself, as was seen above, is comprehended
+ipsum: quin potius causalitas finis maxime censetur exerceri in these two acts: that it is loved for its own sake and that other things
+in electione mediorum propter finem. Probatur vero prima are loved for its sake, lest the causality of the end be thought exercised
+consequentia, quia si medium, quatenus ipsum eligitur vel am- 125R chiefly in the election of means for the sake of the end. But the first
+125 atur, non habet vim causandi finaliter: ergo nec illam habebit, consequence is proven, because if a means does not have the power to
+110 qui ] quia V.
+
+-- 4 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 5
+quatenus aliud amatur propter ipsum: quia si non habet vim final-cause with respect to itself being elected or loved, it will then not
+trahendi voluntatem ad se, multo minus habebit vim trahendi have it with respect to something else being loved for its sake. For if it
+voluntatem ad alia propter se: ergo sola hæc vis et causalitas does not have the power of drawing the will to itself, it will much less
+Probatur 3. est in fine. Tertio argumentor ex specificatione actuum, nam 130R have the power of drawing the will to other things for its sake. There-
+130 omnes actus circa media, sive sint immediate propter finem ul- fore, this power and causality is only in the end. Thirdly, I argue from It is proven,
+thirdly.	timum in illa serie, sive sint eligendo unum medium propter al- the specification of acts, for all acts concerning means—whether elected
+iud, omnes, inquam, illi <col. b> actus sumunt suam speciem immediately for the sake of the ultimate end in that series or elected for
+ab actibus voluntatis, quatenus est principium eorum: ergo. the sake of another means—all these acts, I say, take their species from
+Antecedens autem per se notum et certum est, ut latius dicturi 135R the acts of the will insofar as they are the principles of the former acts.
+135	Probatur 4. sumus, tractatu tertio. Tandem confirmari potest conclusio ex- Therefore. Moreover, the antecedent is per se notum and certain, as we
+emplis: nam in adoratione, verbi gratia, quæ dicitur respectiva, will discuss more extensively in the third treatise. Finally, the conclu- It is proven,
+fourthly	quamvis res adorata sit, verbi gratia, imago, vel calix, vel aliq- sion can be confirmed by example. In adoration, for example, which
+uid hujusmodi, tamen tota ratio et causa adorationis est excel- is called respective, although the adored thing is, for example, an im-
+lentiæ personæ, propter quam fit adoratio: ita autem se habet 140R age, a chalice, or something like this, still, the whole reason and cause
+140 medium respectu finis sicut imago respectu personæ repræsen- for the adoration belongs to the more excellent person for whose sake
+tatæ. Simile exemplum est in dilectione, qua proximus am- the adoration happens. A means, moreover, is related to the end in the
+atur præcise propter Deum: nam licet proximus sit res amata, same way that the image is related to the person represented. The love
+tamen tota ratio et causa ipsius amationis, est bonitas Dei: sic by which a neighbour is loved precisely for the sake of God is a similar
+ergo et in præsenti. 145R example. For although the neighbour is the thing loved, nevertheless
+the whole reason and cause for the loving itself is the goodness of God.
+So also, therefore, in the present case.
+145	2. Assertio. 6. Dico secundo, considerando in fine habitudinem ter- 6. I say, secondly, in considering the relation of the terminus to The second
+assertion.	mini, quæ explicatur illa voce, propter quam, vel, cujus gratia the end, which is explained by the phrase ‘for the sake of which or on
+aliquid fit: hoc modo dici possunt media interjacentia inter 150R account of which something is done’: in this way the means that lie
+primum medium et ultimum finem, participare rationem fi- between the first means and the ultimate end can be said to participate
+Unde probetur. nis. Hoc probant fundamenta tertiæ sententiæ et modus lo- in the nature of an end. The foundations of the third view and the way Whence it is
+proven.	150 quendi, non solum philosophorum et theologorum, sed Sacræ of speaking not only by philosophers and theologians but also by Sa-
+etiam Scripturæ: sic enim dicitur Christus, verbi gratia, mor- cred Scripture (Christ, for example, is said in this way to have died for
+tuus propter nostram salutem, quamvis ille non fuerit finis ul- 155R the sake of our salvation, although not that but the glory of God was
+timus mortis ejus, sed gloria Dei: non potest autem negari, the ultimate end for his death) proves this. Moreover one cannot deny
+quin per hæc verba explicetur ratio finis, quinimo Aristoteles that the nature of the end is explicated through these words. In fact,
+155 inde probare solet aliquid esse finem, quia per illum responde- Aristotle usually proves from them that something is an end, because
+mus quæstioni, propter quid. Denique quia constat remotum we respond through that to the question why something is. Finally, it
+medium non ordinari ad finem ultimum, nisi mediante prox- 160R is obvious that a remote means is not ordered to an ultimate end except
+imo medio, ad quod immediate refertur: imo nec habet conve- by the mediation of a proximate means to which it is referred immedi-
+nientiam et proportionem cum ipso fine, nisi mediante medio ately. In fact, it does not have agreeability and proportion to the end
+160 proximo: ergo ordinatur ad illud ut ad propinquum finem, seu itself except by a proximate means’ mediation. It is, therefore, ordered
+terminum: ergo sub hac ratione participat illud medium ra- to that proximate means as to a near end or terminus. Under this as-
+
+-- 5 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 6
+tionem finis: unde tandem fit medium ultimum in electione, 165R pect, then, that means participates in the nature of an end. For this
+seu resolutione, quod est primum in usu et executione, non reason, finally, the means that is first in use and execution happens last
+enim posset proprie dici finis cum non moveat ut finis, nec in election or resolution. For it cannot properly be called an end when
+165 propter se aliquid moveat, sed omnino ipsum fiat propter al- it does not move as an end and nothing else is moved for its own sake
+iud: ergo nec rationem causæ, nec rationem termini, quæ est in but it itself happens wholly for the sake of something else. Therefore,
+Explicatur
+D. Thom.
+fine, proprie participat. Verum est, interdum divum Thomam, 170R it does not properly participate in the nature of a cause or in the nature
+1 parte, quæstione quinta, articulo sexto, vocare bonum utile of the terminus that is in the end. It is true that in ST Ia.5.6 St. Thomas St. Thomas is
+explained.	ut sic terminum proximum motionis voluntatis, sed illud in- sometimes calls useful good as such a proximate terminus of the will’s
+170 telligitur non proprie de ratione terminandi, quæ est in fine, motion. But that should be understood not as being properly about the
+sed eo modo, quo omne objectum, seu materia, circa quam nature of terminating that is found in an end but in that way in which
+versatur actus mentis, seu voluntatis, potest dici terminus ejus, 175R every object or matter to which an act of mind or will is direct can be
+et adhuc sub ea ratione non ipsum objectum, ad quod <10> called the act’s terminus. And, besides, under this aspect the object it-
+terminatur electio, seu motio interior voluntatis, sed ipsemet self in which election or the internal motion of the will is terminated is
+175 voluntatis actus est quasi secundum medium, quod ad finem not, as it were, ordered to the end, but the very act of will itself is what,
+ordinatur, nam talis electio fit propter finem consequendum. according to the means, as it were, is ordered to the end. For such an
+180R election is made for the sake of the end that is to be pursued.
+Ad fundam. in
+n. 3. et 4.
+7. Ex dictis constat responsio ad fundamenta secundæ et 7. The response to the foundations of the second and third opin- To the
+foundations in
+nn. 3 and 4.
+tertiæ opinionis, quia prout a nobis exposita sunt, non sunt ions is obvious from what has been said, because they are not contrary
+contraria, et ita fundamenta earum probant assertiones positas. as I explained them and so their foundations prove the posited asser-
+180	Ad 1. rationem
+in n. 2.
+Ad fundamenta vero primæ opinionis, respondetur, quamvis tions. But to the foundation of the first opinion, I respond that, al- To the first
+argument in n. 2.	medium, ut amatur propter finem, materialiter terminet actum 185R though the means as it is loved for the sake of the end materially termi-
+voluntatis, tamen solum finem esse, qui trahit voluntatem ad nats the act of the will, nevertheless it is only the end which draws the
+hujusmodi materiale objectum, quod non est appetibile, nisi will to a material object of this kind that is not desirable except by the
+ex bonitate finis. Ad primam vero probationem, quod util- goodness of the end. But to the first proof (that utility is in the means), I
+185 itas est in medio, respondetur, si per utilitatem intelligamus respond: if by utility we understand some form or active power by rea-
+formam aliquam, vel vim activam, ratione cujus medium con- 190R son of which the means is directed at achieving the end, it is true that a
+ferat ad consequendum finem: verum est hujusmodi utilitatem utility of this sort is in the means itself. For example, the power to ex-
+esse in ipso medio: verbi gratia, in potione amara est virtus pel a bad humour is in the bitter potion and so on for similar cases. And
+expellendi pravum humorem, et sic de aliis: et hoc modo illa in this way that form is some goodness agreeable to that thing whose
+190 forma est aliqua bonitas conveniens illi rei, cujus est perfec- perfection it is. But, still, with respect to the one who loves a thing of
+tio: nihilominus tamen respectu ejus, qui amat hujusmodi rem 195R this kind only as a means, all that utility is not desirable except as a re-
+solum ut medium, tota illa utilitas non est appetibilis, nisi ex sult of the goodness of the end by which it is informed extrinsically in
+bonitate finis, a quo quodammodo extrinsece informatur. Et a certain way. And speaking in this way about the goodness and utility
+hoc modo loquendo de bonitate et utilitate medii ut appetibilis of the means as desirable for the one acting for the sake of the end, I
+195 est ab operante propter finem, sic negatur intrinseco in medio, deny that it is intrinsically in the means. Rather, it is extrinsically [in
+174 terminatur ] determinatur V.
+176 nam ] om. V.
+
+-- 6 of 7 --
+
+Suárez, De Fine Hominis disp. 1, sec. 4 7
+sed extrinsece a fine. Propter quod dixit divus Thomas, 1 part., 200R it] from the end. For this reason St. Thomas said in the place cited in
+loco citato in num. præced., bonum utile tantum esse analogice the previous paragraph from ST Ia that useful good is only analogically
+bonum. good.
+Ad 2. rationem
+ibid.
+8. Ad secundam probationem respondetur comparando 8. To the second proof I respond that by comparing various means To the second
+argument in n. 2.	200 varia media ad finem, posse inveniri æqualitatem in ipsis mediis to the end an equality can be found in the means as useful for the end,
+ut utilia sunt ad finem, et tunc si voluntas eligat unum præ 205R and then, if the will elects one in preference to the others, the end is
+alio, tota causa finalis illius determinationis est finis, effectiva the entire final cause of that determination. But the effective [cause]
+vero est voluntas libere operans, et possunt in eadem deter- is the will acting freely. Two things can be distinguished in the same
+minatione duo distingui, unum est absolutum, scilicet quod determination. One is absolute, namely, that the will elects this one in
+205 voluntas hoc eligat præ illo, et hoc non est necesse quod sit a preference to the others. And for this it is not necessary that it results
+fine, nec requirit causam finalem positivam, quia illa compa- 210R from the end nor does it require a positive final cause, since that com-
+ratio præter electionem unius medii, solum addit negationem parison beyond the election of one of the means only adds a negation of
+alterius, et ad non eligendum non requiritur specialis finis, sed another. And a special end is not required for not electing something;
+solum quod illud medium non sit necessarium. Atque idem rather, all that is needed is that that means not be necessary. And like-
+210 dicendum est (si contingat media esse inæqualia) voluntatem wise it should be said (if the means happen to be unequal) [about the
+pro libertate sua eligere quod minus utile est, quod, an facere 215R case] where the will by its freedom elects a less useful means. (Whether
+possit, disputabimus infra, tract. 2. At vero quando media sunt this can happen we will discuss below in the second treatise.) But, on
+inæqualia, et voluntas eligit quod est utilius, totum illud at- the other hand, when the means are unequal and the will elects the one
+tribuitur fini, ut causæ finali, quia ille, quantum est de se, ad that is more useful, that is wholly attributed to the end as final cause,
+215 hoc <col. b> totum movet, quod si interdum voluntas non ita because it, insofar as it is of itself, moves to this whole. If the will some-
+movetur, non est ex defectu finis, sed ex libertate voluntatis, 220R times is not moved in this way, that is not a result of a defect of the
+quæ non patitur necessitatem a fine. Et hoc quidem verum end but of the freedom of the will, which does not undergo necessity
+est, quando excessus medii est proprie ac formaliter in utili- from the end. And this is certainly true when a means exceeds what
+tate: nam si contingat esse in aliis conditionibus, verbi gratia, it properly and formally has in utility. For if it happens to be in other
+220 quia est suavius, vel delectabilius, tunc non solum a fine, sed conditions—for example, because it is more pleasing or delightful—the
+ab ipso medio provenit, quod voluntas magis ad illud trahatur, 225R fact that the will is drawn more to it than to another means comes then
+quam ad aliud, sed sub ea ratione medium non se habet ut pure not only from the end but from the means itself. But under that aspect
+medium, sed admiscetur aliqua ratio finalis finis proximi, quia the means does not hold itself purely as a means but it is mixed with
+res illa, quæ est medium, jam non solum amatur propter utili- some final aspect of a proximate end. For that thing which is the means
+225 tatem ad aliud, sed etiam, quia est aliquo modo per se bona et is now not only loved for the sake of its utility for something else but
+amabilis. 230R also because it is in itself good and lovable in some way.
+196 dixit ] om. V.
+203–204 determinatione ] terminatione V.
+
+-- 7 of 7 --

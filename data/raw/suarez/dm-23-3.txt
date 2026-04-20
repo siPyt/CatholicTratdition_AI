@@ -1,0 +1,807 @@
+Last revision: August 19, 2015	Francisco Suárez, S. J.
+DM XXIII, SECT. 31
+© Sydney Penner 2011
+<851, col. b>2
+Quos effectus habeat causa finalis. What effects the final cause has.
+1. Priusquam de ratione causandi finis dicamus, 1. Before we discuss the ratio of causing of an end, it seems
+agendum videtur de effectibus eius, ut ab iis quae that we should first deal with its effects, so that we may
+nobis notiora sunt procedamus. Et quoniam, ut proceed from those things that are better known to us. And
+5 supra dixi, nunc consideramus finalem causam 5R since, as I said above,3 we are now considering final causes
+respectu voluntatis creatae, per quam agentia in- with respect to the created will by which intellectual agents
+tellectualia operantur propter finem, duplices effec- act for the sake of an end, we can consider two kinds of effect
+tus huius causae considerare possumus: quidam of this cause. Some are internal to the will itself and are acts
+sunt intra ipsam voluntatem, et sunt actus vel or affects elicited from it; others are external to the will and
+10 affectus ab illa eliciti: alii sunt extra vo- <852> 10R are effects which go out beyond it by an efficacy or command
+luntatem, et sunt effectus, qui extra ipsam prode- or motion of the will through its proper acts.
+unt ex efficacitate, vel imperio, seu motione ipsius
+per proprios actus eius.
+2. Est igitur imprimis certum, causam finalem, 2. In the first place, then, it is certain that a final cause, in
+15 prout nunc illam consideramus, per se primo, ac the way we are now considering it, first and foremost directly
+maxime causare aliquem actum vel affectum in causes some act or affect in the will itself. This is the received
+voluntate ipsa. Hoc est receptum omnium con- 15R consensus among everyone and can be satisfactorily shown
+sensu, satisque ostendi potest rationibus, quibus by those arguments with which we showed in sect. 1 that a
+in sect. 1 ostendimus dari causam finalem: nos final cause is given.4 For we come to a cognition of causes
+20 enim per effectus in causarum cognitionem perven- through their effects. Moreover, through no effects do we so
+imus: per nullos autem effectus ita cognoscimus cognize the causality of an end as through those effects which
+causalitatem finis, sicut per eos quos habet circa 20R an end has on the human will. An end draws the human will
+humanam voluntatem, quam sua metaphorica mo- by its metaphorical motion so that the will loves it and seeks
+tione allicit, ut et ipsum amet, et per convenientia it through agreeable means until the will attains it and rests
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+text against the Vivès edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does
+not have marginal notes; many, though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the
+head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3DM XXIII.1.8.
+4DM XXIII.1.8.
+
+-- 1 of 20 --
+
+Suárez, DM XXIII, sect. 3 2
+25 media quaerat donec illum consequatur, et in eo in it.
+quiescat.
+Prima difficultas de causalitate finis circa internos The first difficulty concerning the causality of the end with re-
+actus voluntatis. 25R spect to internal acts of the will.
+3. Difficultas vero est an omnes actus, qui in 3. But there is the difficulty of whether all acts which occur
+30 hoc progressu interveniunt, sint a fine ut a propria in this progression are from the end as from a proper cause
+causa in suo genere, an vero non omnes, sed aliqui in its genus, or whether not all but only some of them, and
+eorum, et quinam illi sint. Ut autem percipiatur in that case which ones. But in order to perceive the nature
+ratio difficultatis, distinguere oportet plures actus, 30R of the difficulty, it is necessary to distinguish the multiple
+qui in hoc negotio interveniunt. Quidam tendunt acts which occur in this process. Some tend directly to the
+35 directe in finem, vel secundum se absolute, ut sim- end, either absolutely as it is in itself (as with simple willing
+plex voluntas eius seu amor,vel ut consequendum or love for an end) or as something to be achieved through
+per media, sicut intentio: et hi actus antecedunt means (as with intention). These acts not only precede the
+non solum consecutionem finis, sed etiam elec- 35R attainment of the end but also the election of means. Others
+tionem mediorum. Alii sunt actus, qui proxime are acts that are proximately directed towards the means
+40 versantur circa media, quamvis ratione finis: et (although by reason of an end). Election is properly of this
+huiusmodi proprie est electio, quam antecedit con- kind. It is preceded by deliberation and inquiry into means,
+sultatio et inquisitio mediorum, quae quatenus ad which, insofar as inquiring into the end is necessary or useful
+inquirendum finem necessaria est vel utilis, ad 40R for leading to means and insofar as it is voluntary, falls in
+media reducitur, et quatenus voluntaria est, sub a certain way under election and answers to it. And these
+45 electionem quodammodo cadit, vel ad illam revo- two genera of acts are said to belong to the order of intention,
+catur. Et haec duo genera actuum dicuntur per- because they not only precede the attainment of the end but
+tinere ad ordinem intentionis, quia non solum finis also precede the execution of the means.
+consecutionem, sed etiam exsecutionem mediorum 45R But after the order of intention there follows the order
+antecedunt. Post ordinem vero intentionis sequitur of execution, in which two other genera of acts can be dis-
+50 ordo exsecutionis, in quo similiter possunt duo alia tinguished in a similar way. For some are directed to the
+genera actuum distingui: quidam enim versantur execution of the means, through the use (usum) of them that
+circa mediorum exsecutionem, per usum eorum, is called active. Others are directed to the end as already
+quem activum vocant. Alii versantur circa finem, 50R achieved and possessed, namely, enjoyment (fruitio) or joy,
+ut iam consecutum et possessum, scilicet fruitio, which is also called the rest of the soul; love can also remain
+55 vel gaudium, quod etiam quies animi dicitur, et in in that state.
+eo statu potest etiam durare amor.
+4. Est ergo circa hos actus prima generalis 4. There is, therefore, a first general difficulty concerning
+difficultas, quia finis solum est causa mediorum: these acts, because an end is only a cause of means, but none
+nullus autem ex his actibus est vere <col. b> ac 55R of these acts is truly and properly a means for obtaining the
+60 proprie medium ad finem obtinendum: ergo nul- end. Therefore, none of them is caused by an end. The major
+lus eorum causatur a fine. Maior constat ex def- is clear from the definition of end, for an end is that for the
+
+-- 2 of 20 --
+
+Suárez, DM XXIII, sect. 3 3
+initione finis, est enim id cuius gratia aliquid fit, sake of which something comes to be, which properly applies
+quod solis mediis proprie convenit. Deinde est only to means.
+specialis et maior difficultas de actibus qui versan- 60R Next, there is a special and more serious difficulty con-
+65 tur circa finem, nam illi nullo modo sunt propter cerning the acts that are directed to an end, for they are in no
+finem: ergo non sunt effectus finis. Antecedens way for the sake of the end. Therefore, they are not effects of
+patet, quia illud est propter finem, quod procedit ex the end. The antecedent is clear, because that is for the sake
+amore vel intentione finis, nam illud esse propter of an end which proceeds from love or intention for the end.
+dicit ordinationem ad finem ortam ex aliquo priori 65R For ‘being for the sake of’ expresses an ordering to an end
+70 actu: sed intentio finis non oritur ex alia inten- that has arisen from some prior act. But an intention for an
+tione, nec amor ex amore, alioqui esset processus end does not arise from some other intention, nor love from
+in infinitum, ergo. Unde, sicut assensus conclu- love; otherwise, there would be an infinite regress. Therefore,
+sionis est ex principiis, assensus autem principii [neither intention nor love are for the sake of an end]. Hence,
+non est ex principio, ita voluntas medii potest esse 70R just as an assent to a conclusion is based on principles but an
+75 ex fine et propter finem: voluntas autem finis non assent to a principle is not based on a principle, so a willing
+ita. Tertio augetur difficultas in iis actibus, qui of a means can be based on an end and be for the sake of an
+versantur circa finem iam consecutum, nam finis end but the willing of an end cannot be like that.
+non causat postquam comparatus est: consistit Third, a difficulty comes up in those acts that are directed
+enim eius causalitas in motione, consecuto autem 75R to an end already attained. For an end does not cause after
+80 fine iam quiescit animus: cessat ergo omnis motio: it has been secured. For its causality consists in motion.
+ergo et causalitas finis. Unde Aristoteles 1. De gen- But a mind (animus) rests in an attained end. Therefore,
+eratione et corruptione text. 55. dicit adepto fine all motion ceases. Therefore, the causality of the end [also
+cessare actionem: cessante autem actione etiam ceases]. Hence, Aristotle in On Generation and Corruption I,
+cessat causalitas finis, quia ubi non est causa effi- 80R text. 55 [324b16–18], says that action ceases once an end is
+85 ciens, nec finalis esse potest, ut infra docebimus. attained. But once action has ceased, an end’s causality also
+ceases, since where there is no efficient cause there cannot
+be a final cause, as we will teach below.
+Primae difficultatis resolutio. Resolution of the first difficulty.
+5. Ut a clarioribus incipiamus, dicendum primo 5. So that we begin from the clearer things, it should
+est, usum seu exsecutionem mediorum per se ac first be said that use or execution of means is directly and
+proprie esse effectum causae finalis. De hac con- properly an effect of a final cause. There is no controversy
+5 clusione nulla est controversia, nec dubitandi ratio, 5R nor reason for doubting regarding this conclusion, because
+quia hic actus non solum procedit ex affectu et in- this act not only proceeds from the affect and intention for
+tentione finis, sed etiam vere ac proprie dici potest an end, but also can truly and properly be called a means
+medium ad finem. Quia licet nomine usus et exse- to the end. For, although we do not here understand by the
+cutionis [mediorum] hic non intelligamus solum phrase ‘use and execution of the means’ only external use or
+9 mediorum ] finis A V.
+
+-- 3 of 20 --
+
+Suárez, DM XXIII, sect. 3 4
+10 externum usum vel exsecutionem, sed etiam in- 10R execution but also the internal act by which the will applies
+ternum actum, quo voluntas applicat membra vel the members or instruments to carrying out the means, still,
+instrumenta ad exsequendum medium: tamen tota that complete action—as it includes both the commanded act
+illa actio ut includit tam imperantem actum quam and the command—is truly and properly said to be a means
+imperatum, vere ac proprie dicitur esse medium to the end. Therefore, it is also most properly an effect of
+15 ad finem: ergo est etiam propriissime effectus finis. 15R the end. And it is confirmed: for election is of means. But
+Et confirmatur, nam electio est de mediis: quando when the means are of such a kind that they have to be
+vero media talia sunt ut per usum activum volun- exercised through the active use of the will, that active use
+tatis exerceri debeant, etiam ipse usus activas sub itself also falls under election. For the whole human action
+electionem cadit: nam eligitur ut medium tota illa that coalesces from the internal and external acts is elected
+20 actio humana, quae ex interno, et externo actu 20R as a means. Therefore, the internal act of the will by which
+coalescit: ergo etiam actus internus voluntatis quo the execution of external means comes about proximately also
+proxime fit <853> exsecutio externi medii, habet has the ratio of a means to an end. Therefore, it is also an
+rationem medii ad finem: ergo est etiam effectus effect of an end itself.
+ipsius finis.
+25 6. Dico secundo. Electio mediorum vere ac 6. Second, I say that the election of means is truly and
+proprie est effectus causae finalis. Probatur primo, 25R properly an effect of the final cause. It is proven, first, from the
+quia ille actus est propriissime propter finem: sed fact that that act is most properly for the sake of an end. But
+per haec verba maxime declaratur causalitas finis: the causality of an end is especially declared through those
+ergo ille actus est ex causalitate finis. Secundo, words. Therefore, that act results from the causality of an end.
+30 Ille actus procedit ex intentione finis, et ex ratione Second: that act proceeds from an intention for an end and
+ordinante medium ad finem: sed in his videtur 30R from reason ordering a means to that end. But the causality
+potissimum consistere causalitas finis: ergo. Ter- of the end seems especially to consist in these. Therefore, [the
+tio, talis actus pendet essentialiter ex fine, quia act of election proceeds on account of the end’s causality].
+non versaretur circa media nisi ratione finis: quin Third: such an act depends essentially on the end, because
+35 potius ipsa media electa non sunt effectus finis the act is not directed to the means except by reason of the
+nisi media electione: ergo multo magis necesse est 35R end. In fact, the elected means themselves are not effects of
+ut ipsamet electio sit effectus finis. Et hae rationes the end except by means of election. Therefore, much more
+aeque fere confirmant praecedentem assertionem. is it necessary that the election itself be an effect of the end.
+And these arguments confirm the preceding assertion almost
+equally.
+7. Neque contra has assertiones obstat prima 40R 7. Nor does the first reason for doubting posited in the
+40 ratio dubitandi in principio posita. Primo quia non beginning5 stand against these assertions.6 First, because
+tantum media sunt propter finem, sed quidquid not only are means for the sake of an end, but whatever
+a fine essentialiter pendet, et ex illius amore pro- essentially depends on an end and proceeds from a love for
+5DM XXIII.3.4.
+6The assertions made in the preceding two paragraphs: namely, that (a) use or execution of the means is a proper effect of a final cause and that (b)
+election of means is a proper effect of a final cause.
+
+-- 4 of 20 --
+
+Suárez, DM XXIII, sect. 3 5
+cedit. Deinde quia ipsamet electio non incongrue it is for the sake of that end. Also, because the election itself
+dici potest medium ad finem. Quod potest explicari 45R can be said—not incongruously—to be a means to the end.
+45 ex iis quae supra diximus tractando de potentia for- This can be explained by those things which we said above7
+maliter libera, quod nimirum actus ab ea elicitus, when discussing the formally free power:8 namely, that an
+est intrinsece voluntarius, seu volitus per modum act elicited from it is intrinsically voluntary or willed in the
+actus: ipsa ergo electio cum sit actus elicitus a vol- manner of an act. Election itself, therefore, since it is an act
+untate, est etiam intrinsece volita: non est autem 50R elicited from the will is also willed intrinsically. Moreover, it
+50 volita nisi propter consequendum finem, quia si- is not willed except for the sake of pursuing an end, because,
+cut res quae eligitur, propter finem eligitur, ita ip- just as a thing which is elected is elected for the sake of an
+samet electio propter finem exercetur. Ut, qui eligit end, so also the election itself is exercised for the sake of
+eleemosynam ad satisfaciendum pro peccatis, non an end. Just as he who elects alms for satisfying for his
+solum refert in eum finem ipsam eleemosynam, 55R sins refers not only the alms themselves that he elects to his
+55 quam eligit, sed etiam ipsam volitionem qua illam end but also the very volition by which he elects them. For
+eligit, nam ad eum finem necessaria est illa electio, that election is necessary to that end and in it is found the
+et in ea reperitur ea bonitas, et utilitas quae in- goodness and utility that is found in a means that has been
+venitur in medio ad finem intentum comparato. Et related (comparato) to an intended end.
+confirmatur primo, nam consultatio est mediorum 60R This is confirmed, first: for deliberation is about the means
+60 ad finem, et, si contingat voluntatem actu directo, to an end, and if it happens that the will by a direct and formal
+et formali velle consultare, quod saepe accidit, illa act wishes to deliberate, which often happens, that volition
+volitio revera est cuiusdam medii ad finem: quia really is a kind of means to the end. For one does not will to
+non ob aliud vult quis consultare, nisi ut paret sibi deliberate on account of anything other than to prepare for
+viam ad finem obtinendum: ergo similiter si volun- 65R oneself a way to obtain the end. Therefore, likewise, if by a
+65 tate propria, et reflexa velit hic et nunc eligere, ut proper and reflexive willing one wishes here and now to elect,
+etiam potest, illo actu vult electionem ut quoddam as can also happen, then by that act one wills the election as
+medium, quia etiam vult illam propter finem, si- a kind of means. For one wills even it for the sake of an end,
+cut consultationem: ergo etiam quando hoc non just like the deliberation. Therefore, even when one does not
+faciat distincto actu et reflexo, ipsamet electio, eo 70R do this by a distinct and reflexive act, the election itself (in the
+70 <col. b> modo quo est intrinsece volita, intrin- way in which it is intrinsically willed) is intrinsically a kind of
+sece est quoddam medium ad finem, ratione cuius means to that end for which it is willed. Therefore, it is truly
+volita est: est ergo vere ac proprie effectus finis. and properly an effect of an end.
+8. Dico tertio. Actus qui versantur circa finem 8. I say, third: acts that are directed to the end itself and
+ipsum, et antecedunt, vel antecedere possunt or- 75R precede or can precede its attainment in the order of intention
+75 dine intentionis consecutionem eius, sunt vere et are truly and properly effects of the end. I find some diversity
+proprie effectus finis. Circa hanc conclusionem among the authors concerning this conclusion.
+7DM XIX.5.
+8That is, the will.
+62 cuiusdam ] eiusdem V.
+
+-- 5 of 20 --
+
+Suárez, DM XXIII, sect. 3 6
+invenio nonnullam diversitatem inter auctores: For some admit it concerning acts of intention or desire
+quidam enim eam admittunt de actu intentionis, but not concerning first acts of love or of simple willings. The
+vel desiderii, non vero de primo actu amoris, seu 80R argument can be that desire or intention presuppose a love
+80 simplicis voluntatis. Et ratio esse potest, quia for the end and proceed from it. For that reason, they can
+desiderium, vel intentio supponunt amorem finis, be caused by the end by means of a love for it and are most
+et ab eo procedunt, et ideo possunt causari a fine properly said to be for the sake of or on account of the end.
+medio amore sui, et propriissime dicentur esse For this reason they can be effects of the end. But love does
+propter finem, vel gratia finis: et ideo esse possunt 85R not assume another act or love for the end from which it
+85 effectus finis. Amor autem non supponit alium ac- proceeds and for this reason it is not a result of love for the
+tum vel amorem finis a quo procedat: et ideo non end. Neither is it formally for the sake of the end, insofar as it
+est ex amore finis: nec etiam est formaliter propter is a result of the direction of the will itself. Therefore, it is not
+finem, quantum est ex directione ipsius voluntatis: an effect of the end in the genus of final cause, but only in the
+non est ergo effectus finis in genere causae finalis, 90R genus of object (effecting or specifying, according to various
+90 sed solum in genere obiecti, efficientis, vel specifi- opinions). Francis Sylvester of Ferrara seems to hold this view
+cantis iuxta varias opiniones. Et hanc sententiam in Summa contra Gentiles I, c. 75, for he says that although
+videtur tenere Ferrariensis 1. Summae contra gen- a thing that is an end can be loved without anything being
+tiles cap. 75. dicit enim licet res quae est finis ordered to it, nevertheless, it does not exercise the causality
+amari possit, nihil ad ipsam ordinando, tamen non 95R of the end until something else is loved for its sake. And this
+95 exercere causalitatem finis, donec aliquid propter is founded in the words of St. Thomas where he says that
+ipsam ametur, et fundatur in verbis D. Thomae the causality of the end consists in this, that other things are
+ibi dicentis, causalitatem finis in hoc consistere, desired for its sake. Nevertheless, St. Thomas here does not
+quod propter ipsum alia desiderantur. Tamen ibi say that this is adequate to the causality of the end but only
+D. Thomas non dicit hanc esse adaequatam causal- 100R that this belongs to the causality of the end.
+100 itatem finis, sed pertinere hoc ad causalitatem finis. But others admit the conclusion concerning all these acts,
+Alii vero de omnibus his actibus conclusionem ad- but with a certain qualification: namely, that these acts really
+mittunt, cum quadam tamen moderatione, scilicet, are effects of the end but not as properly or not as perfectly as
+quod hi actus revera sint effectus finis, non tamen the acts mentioned earlier. This can be gathered from Gabriel Gabriel.
+ita proprie aut non ita perfecte sicut priores: quod 105R in II, dist. 38, notab. 2, and Gregory, whom he cites there in
+105	Gabriel. sumi potest ex Gabriele in 2. dist. 38. notab. 2, art. 1.
+et. Gregorio quem ipse citat: ibi art. 1.
+9. Alii nihilominus simpliciter affirmant finem 9. Nevertheless, others affirm without qualification that
+esse proprie finalem causam horum actuum, ut an end is properly the final cause of these acts,9 as Henry Henry of
+Ghent.	Henricus. Henricus 2. p. Summae art. 46. q. 6. Et in hoc [of Ghent] does in Summae II, art. 46, q. 6. And this is
+110 sensu posita est assertio, quam mihi sumo ex 110R the sense in which I made the assertion,10 which I take for
+D. Thomas. D. Thoma, 1. 2. q. 1. art. 1. ubi simpliciter ait, myself from St. Thomas, ST IaIIæ.1.1, where he says without St. Thomas.
+omnes actus humanos esse propter finem: et con- qualification that all human acts are for the sake of an end
+9That is, acts directed to the end itself.
+10See the first sentence of DM XXIII.3.8.
+
+-- 6 of 20 --
+
+Suárez, DM XXIII, sect. 3 7
+sequenter esse effectus finis: nam haec duo con- and, consequently, are effects of an end. For being for the
+vertuntur, sicut esse ab agente et esse effectum sake of an end and being effects of an end are convertible,
+115 agentis, comprehendendo sub effectu actionem ip- 115R just as being from an agent and being an effect of an agent
+sam. At vero hi actus de quibus nunc agimus, are convertible (including actions under effects). But the acts
+sunt vere actus humani, nam <854> procedunt that we are discussing now are truly human acts. For they
+ab homine ut rationalis est, immo etiam sunt liberi proceed from a human being insofar as he is rational; indeed,
+saltem pro statu huius vitae, ut supra disp. 19, they are even free, at least in this life, as was shown above in
+120 sect. 3. probatum est, ergo. 120R DM XIX.3. Therefore, [these acts are effects of an end].
+10. Atque hinc confici potest prima ratio, nam 10. From here the first argument can be constructed: for
+homo quatenus exercet has actiones, etiam pri- insofar as a human being exercises these actions, even a first
+mum amorem finis, operatur propter finem, et love for an end, he acts for the sake of an end. And he does not
+non operatur ut ab alio motus in finem, sed ut act as moved by something else to the end but as proximately
+125 proxime et immediate motus ab ipso fine secun- 125R and immediately moved by the end itself according to its
+dum propriam et formalem rationem eius: ergo proper and formal ratio. Therefore, these acts are for the sake
+hi actus sunt propter finem ut causati ex propria of an end, as caused by the proper motion of an end as end.
+motione finis ut finis est: ergo sunt effectus fi- They are, therefore, effects of an end as final-causing.
+nis ut finaliter causantis. Consequentiae sunt The consequences are evident, because the causality of
+130 evidentes, quia causalitas finis propriissima est 130R an end occurs most properly through the stated motion. The
+per dictam motionem. Maior etiam patet, quia major premise is also obvious, since that action does not
+illa actio non temere et casu fit, sed ad defini- happen blindly or by chance but tends to a definite target by
+tum scopum ex instituto tendit: hinc autem col- design. From this, moreover, we gather that any action is for
+ligimus actionem aliquam esse propter finem. Mi- the sake of an end. The minor premise is also sufficiently
+135 nor etiam est satis clara, quia in quolibet illorum 135R clear, since in every one of these actions the human being
+actuum homo operatur illectus et attractus a fine acts enticed and attracted by the cognized end, not in any way
+cognito, non utcumque, sed quatenus est bonum whatever, but precisely as it is a kind of good lovable for its
+quoddam propter se diligibile, quae est propria own sake, which is a certain proper habitude and the formal
+quaedam habitudo et formalis ratio finis: et ex vi ratio of an end. As a result of the force of this cognition, a
+140 huius cognitionis homo ita operatur in ea actione, 140R human being acts in such a way in that action that he directs
+ut ipse seipsum dirigat et moveat in talem finem, and moves himself to such an end and to its formal goodness.
+et in formalem bonitatem eius. Atque haec ratio And this argument is taken from St. Thomas, in the cited
+sumitur ex D. Thoma dicto art. 1. ubi non aliter art. 1, where he shows that a human act is for the sake of
+probat actum humanum esse propter finem, nisi an end in no other way than by pointing out that it is from
+145 quia est ab obiecto voluntatis sub ratione finis, 145R the object of the will under the ratio of an end, that is, as
+id est ut exercet propriam causalitatem finis: et it exercises the proper causality of an end. And in SCG III,
+3. Summae contra gentiles cap. 2. rat. 5. sic ait, cap. 2, rat. 5, he says it in this way: ‘Concerning agents
+De agentibus per intellectum non est dubium quin who act through intellect, there is no doubt but that they
+119 19 ] 18 V lac. A.
+120 3 ] lac. A.
+
+-- 7 of 20 --
+
+Suárez, DM XXIII, sect. 3 8
+agunt propter finem, agunt enim praeconcipientes act for the sake of an end, for they act having preconceived
+150 per intellectum id quod per actionem consequuntur, 150R through the intellect that which they pursue through action
+et ex tali praeconceptione agunt. Haec autem verba and they act as a result of that prior conception.’ These words,
+applicari possunt etiam ad simplicem amorem ip- moreover, can also be applied to the simple love for an end
+sius finis. itself.
+11. Secundo, hoc amplius declaratur in ipso 11. Second, this is explained more thoroughly the case of
+155 amore: potest enim dupliciter considerari: primo 155R love itself. For love can be considered in two ways: first, as
+ut directe tendit in obiectum, secundo ut reflex- directly tending to an object and, second, as falling on itself
+ione virtuali in seipsum cadit, eo videlicet modo by a virtual reflection, in that way, namely, in which I said
+quo supra dicebam huiusmodi actus esse intrin- above that an act of this sort is intrinsically voluntary.11
+sece voluntarios. Priori consideratione causatur Under the former consideration, the love is caused by the
+160 a bonitate obiecti ut cognita, et movente appeti- 160R goodness of an object, insofar as it is cognized and moves
+tum ad amandum talem rem propter bonitatem the appetite to loving the relevant thing for the sake of its
+suam: et ita vere causatur ab obiecto ut a fine, goodness. And in this way the love is truly caused by the
+non quidem ut a fine extrinseco rei volitae, sed ut object as by an end, not indeed as by an end extrinsic to the
+a fine proprio et intrinseco ipsiusmet actus amoris willed thing, but as by an end proper and intrinsic to the very
+165 qui in illum tendit. Atque ob eamdem rationem 165R act of love that tends to it. And for the same reason such an
+dicitur vere ac <col. b> proprie talis actus esse act is truly and properly said to be for the sake of an end, not
+propter finem, non tamquam propter extrinsecam as for the sake of an extrinsic reason for willing, but because
+rationem volendi, sed quia est propter intrinsecam the act is for the sake of its12 intrinsic goodness and from
+bonitatem eius, et ex propria eius motione. In its proper motion. The ratio of love and of intention is the
+170 quo (quidquid alii dicant) eadem est ratio amoris 170R same in this respect (whatever others may say), for intention
+et intentionis, nam etiam intentio non est propter is also not for the sake of an end that is an extrinsic reason
+finem, qui sit extrinseca ratio volendi, sed quia for willing, but because it tends to an end for its own sake and
+tendit in finem propter seipsum et propter intrin- for the sake of its intrinsic goodness. But this difference—that
+secam bonitatem eius. Illa autem differentia, quod intention assumes a prior act of love—is not relevant to the
+175 intentio supponat priorem actum amoris, nihil ad 175R present matter, as we will show at shortly.
+rem praesentem refert, ut statim declarabimus. Finally, it is clear from the common way of speaking that
+Tandem ex communi modo loquendi constat, vere we are truly and properly said to love an end for its own sake
+ac proprie dici amare nos finem propter seipsum, or for the sake of its goodness. For that is the way we love God.
+vel propter bonitatem suam: sic enim amamus Moreover, this term ‘for the sake of’, attributed to the end with
+180 Deum: haec autem particula propter, attributa fini 180R propriety, expresses the causality of an end. Therefore, these
+cum proprietate, declarat causalitatem eius: ergo locutions are true because of the causality of the end in the
+hae locutiones verae sunt propter causalitatem fi- case of such an act. Hence, for this reason, too, when we love
+nis circa talem actum. Unde hac etiam ratione, God beyond all other things, we are said to love him as an
+cum Deum super omnia amamus, dicimur illum ultimate end, because he really exercises the proper causality
+11DM XIX.5.17.
+12Presumably ‘it’ refers to the end, but the Latin leaves open the possibility that it refers to the act.
+
+-- 8 of 20 --
+
+Suárez, DM XXIII, sect. 3 9
+185 amare ut ultimum finem, quia revera exercet circa 185R of an ultimate end with respect to our love. And such an act
+nostrum amorem propriam causalitatem ultimi fi- does not tend to another end nor is it excited except by the
+nis, et talis actus non in alium finem tendit, neque supreme goodness of such an end having been proposed to
+excitatur nisi a suprema bonitate talis finis, ipsi the will itself.
+voluntati proposita.
+190 12. Posteriori etiam consideratione virtualem 12. Under the second consideration (which includes the
+reflexionem includente apertissime constat talem 190R virtual reflection), it is entirely obvious that such an act is
+actum esse propter finem, quia etsi amari pos- for the sake of an end, because even if it could be loved for
+sit propter suam honestatem (quod non est extra the sake of its own honestatem (which is not beyond the ratio
+rationem causandi finalem) tamen revera amatur of final-causing), still, it really is loved for the sake of the
+195 propter obiectum in quod directe tendit tamquam object to which it directly tends as for the sake of the end, in
+propter finem, eo fere modo quo supra de elec- 195R almost the same way that we spoke about above concerning
+tione dicebamus. Quamvis in electione magis ap- election.13
+pareat quaedam ratio medii ad finem, quam in A certain ratio of means to an end, however, appears more
+amore, quia amor non ita ordinatur ad consequen- in the case of election than in the case of love, since love is
+200 dum finem sicut electio. In quo etiam videtur esse not ordered to attaining an end in the way that election is. In
+nonnulla differentia inter desiderium seu inten- 200R this there also seems to be some difference between desire or
+tionem, et amorem finis: nam desiderium, cum intention and love for an end. For desire, since it presupposes
+ex sua ratione supponat carentiam finis consecuti, according to its ratio that the end has not been achieved yet,
+est aliquo modo medium ad consequendum illum, is in some way a means to achieving it; indeed, desire is, as it
+205 immo est veluti quaedam inchoatio inquisitionis a were, a king of beginning of the pursuit of the end. This is
+eius, quod eadem vel maiori ratione verum est de 205R just as much or even more true of intention. Love, however,
+intentione: amor vero ex ratione sua non supponit does not presuppose according to its ratio that the end has
+carentiam consecutionis finis, et ex hac parte mi- not been achieved yet, and in this respect can less participate
+nus participare potest rationem medii. Sed haec in the ratio of a means. But this difference poses no trouble
+210 differentia nihil obstat, quominus ipse amor sit for love itself being truly caused by an end, because, as I
+vere causatus a fine, quia, ut supra dicebam, haec 210R said above, this causality is not limited to means alone but
+causalitas non limitatur ad sola media, sed exten- is extended to all acts which are truly for the sake of an end
+ditur ad omnem actum qui vere sit propter finem, and result from an end’s proper motion, especially in view
+et ex propria eius motione. <855> Eo vel maxime of the fact that love, when it precedes attainment of an end,
+215 quod etiam amor quando antecedit consecutionem can, insofar as it excites and moves one to seek after the end,
+finis, quatenus excitat et movet ad illum inquiren- 215R be called a most useful means to pursuing the end. I add,
+dum, potest dici utilissimum medium ad conse- finally, that love according to its ratio, abstracting from this
+quendum illum. Addo denique amorem ex ratione or that state of the lover, tends to an end so that it unites and
+sua abstrahendo ab hoc vel illo statu amantis, ten- conjoins the lover with the end. Hence, insofar as the love
+13DM XXIII.3.7.
+203 carentiam ] carenti A.
+
+-- 9 of 20 --
+
+Suárez, DM XXIII, sect. 3 10
+220 dere ad finem, ut illi uniat et coniungat amantem: itself is virtually or formally loved, it is loved for the sake of
+unde, quatenus ipsemet amor virtualiter aut for- 220R this end. Therefore, it is loved for the sake of the end that it
+maliter amatur, propter hunc finem amatur: ergo has as its object. Therefore, it is caused by that same end.
+propter finem quem pro obiecto habet, amatur:
+ergo ab eodem fine causatur.
+225 13. Quod optime potest confirmari ex doctrina 13. This position can best be confirmed from the teaching
+D. Thomas. D. Thomae in 4. dist. 49. q. 1. art. 1. qc. 2. ubi ait, of St. Thomas, IV, dist. 49, q. 1, art. 1, qc. 2, where he says: St. Thomas.
+Cum voluntatis obiectum sit finis, hoc ipsum quod ‘since the object of the will is the end, this itself, namely, to
+est velle, et quemlibet alium voluntatis actum, non 225R will, and any other act of the will is nothing other than some-
+esse aliud quam ordinari aliquid in finem, et ideo thing that is ordered to the end, and therefore it necessarily
+230 necessario supponere aliquem finem obiectivum in assumes some objective end to which it is ordered.’ One can
+Capreolus. quem ordinetur. Addi etiam potest ex Capreolo also add from Capreolus, I, dist. 1, q. 1, ad 1, the conclusion Capreolus.
+in 1. dist. 1. q. 1. ad 1. contra 3. concl. hunc contra 3, that this love, which precedes the attainment of the
+amorem, qui antecedit finis consecutionem, or- 230R end, is ordered to the attainment and enjoyment of the loved
+dinari ut in finem in ipsius rei amatae consecu- thing itself as to an end. And in this way, too, it can be an
+235 tionem et fruitionem: et hoc modo etiam esse posse effect of the final cause. In the discussion of this article and
+effectum causae finalis. Et in discursu illius arti- the solutions to the arguments, Capreolus brings together
+culi et solutionum argumentorum multa dicit et and says many things from St. Thomas’s teaching, which can
+congerit ex doctrina D. Thomae, quae ad hanc sen- 235R be brought to bear for confirming this view.14 Finally, this
+tentiam confirmandam conferre possunt. Denique love can also be ordered to the lover himself as to a finis cui,
+240 etiam hic amor potest ordinari in ipsum amantem insofar as it perfects him and unites him in some way with
+ut in finem Cui, quatenus illum perficit, et unit his objective end. Therefore, it can also be an effect of a final
+aliquo modo suo fini obiectivo: ergo ex hoc etiam cause in this sense.
+capite potest esse effectus finalis causae.
+14. Dico quarto. Actus voluntatis, qui versan- 240R 14. I say, fourth, that acts of the will that are directed to
+245 tur circa finem iam consecutum, numerari etiam an end already attained can and should also be numbered
+possunt, et debent, inter effectus finalis causae. among the effects of a final cause. It is proven: for these acts
+Probatur, nam hi actus tantum esse possunt aut can only be acts of love or acts of joy. There is controversy
+amor, aut gaudium, de quibus controversum est about them as to whether they are distinct acts insofar as they
+an sint actus distincti prout versantur circa finem 245R are directed to an end already attained. Capreolus treats this
+250 iam adeptum: quod tractat late Capreolus citato matter more thoroughly in the cited place.15 Now we speak
+loco: nunc de eis loquamur ut de distinctis, sive about them as they are distinct, differing either in reality or in
+re, sive ratione differant. Actus ergo amoris ut reason. An act of love as such, then, is of the same ratio with
+sic eiusdem rationis est circa finem, qui propter respect to an end that is loved for its own sake, whether that
+14Namely, the position that an act of love is for the sake of an end.
+15In I, dist. 1, q. 1, ad 1.
+233 qui ] quia V.
+
+-- 10 of 20 --
+
+Suárez, DM XXIII, sect. 3 11
+se amatur, sive ille finis sit iam possessus, sive 250R end is already possessed or not. Therefore, if love in itself, or
+255 non: ergo, si amor secundum se, vel qui antecedit love that precedes the attainment of the end, is an effect of a
+consecutionem finis, est effectus finalis causae, final cause, that love which remains once the end has been
+etiam amor ille, qui manet fine iam consecuto, attained is also an effect of the same end. The consequence
+est effectus eiusdem finis. Patet consequentia, is clear, because the love is caused in the same way in either
+quia eodem modo causatur amor in utroque statu 255R case by the cognized object enticing the will so that it loves
+260 ab obiecto cognito alliciente voluntatem ut ipsum the object for its own sake and for the sake of its goodness.
+propter se, et propter bonitatem suam amet. Atque And thus St. Thomas, ST IaIIæ.23.4 and 26.2, in the same
+ita D. Thomas 1. 2. q. 23. art. 4. et q. 26. <col. b> way attributes love for the end in either case to the causality
+art. 2. eodem modo attribuit causalitati finis, seu of the end or to the good object. He even attributes delight
+obiecti boni amorem eius in utroque statu, immo 260R [to the causality of the end], as I will discuss shortly. Hence,
+265 et delectationem, ut statim dicam. Unde etiam ra- all the arguments by which we proved that the first willing
+tiones omnes, quibus probavimus primam volun- or love for an end is an effect of a final cause also prove the
+tatem seu amorem erga finem, esse effectum finalis same thing concerning last love, especially since it is probable
+causae, idem probant de ultimo amore, maxime that the same love can always exist and continue to exist.
+cum probabile sit eumdem semper esse, ac perse-
+270 verare posse.
+15. De gaudio autem, quatenus est quid dis- 265R 15. Concerning joy, however, insofar as it is something
+tinctum ab amore, videtur esse nonnulla dubitandi distinct from love, there seems to be some reason doubting.
+ratio: tum quia est veluti passio quaedam neces- This is both because joy is, as it were, a kind of passion
+sario consequens possessionem finis amati: tum necessarily following upon possesion of a loved end, and
+275 etiam quia est veluti ultima quies animi, ad quam because it is, as it were, the ultimate rest of the soul to which
+caetera ordinantur, etiam ipse amor, ipsa vero non 270R everything else is ordered (even love itself) but which is not
+ordinatur ad aliud, et ita non videtur habere finem itself ordered to anything else, and thus it does not seem to
+a quo causari possit. Sed nihilominus probatur have an end by which it could be caused.
+etiam de hoc actu assertio posita, nam revera But, nevertheless, the assertion made16 is also proven
+280 gaudium non est mera passio, sed est actus vi- concerning this act. For in fact joy is not a mere passion,
+talis ab ipsa voluntate elicitus, et causatus in suo 275R but is a vital act elicited from the will itself and caused in its
+genere ab obiecto per se bono, et per rationem genus by an object that is good in itself and that is proposed
+proposito, et invitante voluntatem ut in ipso, et through reason invites the will, so that the will may rest and
+in possessione eius quiescat et gaudeat propter take joy in the object and in the possession of it for the sake
+285 illius bonitatem: sed haec causalitas obiecti non of its goodness. But this causality of the object is nothing
+est alia quam finalis, quantum ad hunc motionis 280R other than final-causality, with respect to this mode of motion,
+modum, quidquid sit an aliunde interveniat etiam regardless whether for some other reason effective causality
+causalitas effectiva inter illos actus, quod nihil ad is also involved among these acts, a matter irrelevant to the
+praesentem quaestionem refert. Et confirmatur present question.
+290 primo, nam ipsa delectatio ex natura rei ordinatur, This is confirmed, first, by the fact that delight itself is
+16Namely, that acts of will that are directed to an end already attained are included among the effects of a final cause.
+
+-- 11 of 20 --
+
+Suárez, DM XXIII, sect. 3 12
+ut in finem, in actionem ipsam ad quam conse- 285R ordered ex natura rei to the very action on which it follows as
+quitur, tamquam perfectio quaedam, et decor eius, to an end, as a kind of perfection and ornament of it and as
+et ut conferat ad constantiam et facilitatem eius: it confers constancy and facility upon the action. Therefore,
+ergo etiam delectatio, quae consequitur ex fine that delight which follows upon the end having been attained
+295 consecuto, ordinatur ad ipsammet consecutionem is also ordered to the very attainment of the end, as to an end
+finis ut ad finem quem suo modo perficit, et firmat: 290R which it perfects and establishes in its own way. Therefore,
+ergo si delectatio intellectualis sit, et consequatur if the delight is intellectual and follows upon the end having
+ex illo fine perfecte cognito, et proposito volun- been perfectly cognized and proposed to the will, it will have
+tati, causabitur ab illo in genere finis. Unde, licet been caused by that end in the genus of end. Hence, although
+300 delectatio dicatur esse quid ultimum via genera- delight is said to be something ultimate by way of generation,
+tionis, tamen in ordine finium secundum se non 295R nevertheless, in the order of ends it is taken in itself not strictly
+est simpliciter ultimum, quamvis interdum possit speaking ultimate, although sometimes it can be taken by the
+ab appetente sumi ut ultimus finis Cuius. Et tunc person desiring it as an ultimate finis cuius.17 In that case,
+etiam ipsa delectatio ordinatur ad ipsummet qui the delight itself is also ordered to the very person who takes
+305 delectationem capit, ut ad finem Cui, et ex hac delight as to a finis cui and can be an effect of the final cause
+parte potest esse effectus causae finalis. 300R for this reason.
+16. Neque contra hanc, et praecedentem con- 16. Nor do the arguments made earlier18 threaten this
+clusionem urgent rationes prius factae. Ad primam conclusion19 or the preceding one.20 For to the first argument
+enim iam responsum est non sola media esse ef- I already responded21 that not only means are effects of the
+310 fectus causae finalis, sed omnem actum qui ad final cause, but all acts which relate to the end or are ordered
+finem confert, vel ad <856> illum ordinatur, vel 305R to it, either as means or as a perfection of its possession. And,
+tamquam medium, vel tamquam perfectio posses- finally, whatever comes from the proper motion of an end
+sionis eius: ac denique quidquid est ex propria preconceived and proposed [to the will] according to a proper
+motione finis praeconcepti, et propositi secundum ratio of good lovable for its own sake [is an effect of the final
+315 propriam rationem boni propter se diligibilis. Ad cause].
+secundum, negamus hos actus non esse propter 310R In response to the second argument, we deny that these
+finem, nam revera amamus Deum propter ipsum, acts are not for the sake of the end, for in reality we love
+et delectamur in Deo propter ipsum. Neque ad God for his own sake and we delight in God for his own sake.
+hoc necessarium est ut actus, qui causatur a fine, Nor is it necessary for this that the act that it is caused by
+320 seu dicitur esse propter finem, causetur ex priori the end or is said to be for the sake of the end be caused
+17For the distinction between finis cuius and finis cui, see DM XXIII.2.2.
+18DM XXIII.3.4.
+19Namely, ‘that acts of the will that are directed to an end already attained can and should also be numbered among the effects of a final cause’ (DM
+XXIII.3.14).
+20The one stated in DM XXIII.3.8: that ‘acts that are directed to the end itself and precede or can precede its attainment in the order of intention are
+truly and properly effects of the end.’
+21DM XXIII.3.7 and 12.
+319 qui ] quia V.
+
+-- 12 of 20 --
+
+Suárez, DM XXIII, sect. 3 13
+amore finis, sed satis est quod causetur ex boni- 315R from a prior love for the end. Rather, it is enough that it be
+tate ipsius finis allicientis voluntatem. Quamquam caused by the goodness of the very end that is enticing the
+delectatio quatenus est actus ab amore distinc- will. Although delight, insofar as it is an act distinct from love,
+tus, revera causatur ex amore: delectatur enim is in fact caused by love. For someone delights in an end that
+325 aliquis in fine possesso quia amat illum. Illa vero is possessed because he loves it. But that causality, insofar
+causalitas quatenus est inter actus, magis pertinet 320R as it is between the act of love and the act of delight, pertains
+ad quemdam modum efficientiae, vel naturalis re- more to a kind of mode of efficacy or natural resultancy than
+sultantiae, quam ad causalitatem finalem, quam to the final causality that we are investigating now. Therefore,
+nunc inquirimus. Haec ergo magis consideranda this should be considered more according to an act’s habitude
+330 est ex habitudine actus ad obiectum seu finem, et to its object or end and according to the distinctive way in
+ex peculiari modo quo res intellectualis movetur 325R which an intellectual being is moved by an end to acts of this
+a fine ad huiusmodi actus. Ad tertium responde- kind.
+tur, quamvis delectatio dicatur quies, non tamen To the third argument, I respond that although delight is
+esse mortuo modo (ut ita dicam) ut est naturalis called rest, still it is not in a deceased mode (as I will put it),
+335 quies, quae consistit in sola carentia motus, sed as natural rest is that which consists only in a lack of motion.
+esse vitalem quietem, quae non est sine interna 330R Rather, it is a vital rest, which is not without internal action.
+actione: tamen quia illa non est ad obtinendum Still, since delight is not directed to obtaining and seeking an
+et inquirendum finem, sed ad fruendum fine iam end, but to enjoying an end already possessed, it is for that
+possesso, ideo dicitur animi quies. Quatenus ergo reason called rest for the soul. Therefore, insofar as delight is
+340 proprius actus est ac vera actio, potest esse ef- a proper act and true action, it can be an effect of an end.
+fectus finis. Quod vero Aristoteles ait, consecuto 335R But Aristotle’s statement that motion or action ceases
+fine cessare motum vel actionem, intelligendum once an end is attained should be understood as being about
+est de motu, quo tenditur ad consecutionem finis, the motion by which one tends to the attainment of an end,
+non vero de interna actione, qua quiescitur in fine. but not as being about the internal action by which one rests
+345 Immo addit D. Thomas in 4. dist. 48. q. 2. art. 2. ad in an end. Indeed, St. Thomas adds in IV, dist. 48, q. 2, art. 2,
+[quartam] rationem in oppositum, quod tunc ces- 340R in response to the fourth opposing argument, that the motion
+sat motus habito fine, quando talis motus non con- to an end that is held ceases at that point at which such a
+comitatur ipsum finem, seu consecutionem eius: motion does not accompany to end itself or its attainment,
+sicut caelum consequitur suum finem mediante just as the heavens attain their end by means of their motion,
+350 suo motu, non tamen cessat, quia ad illum finem yet do not cease, because that motion is necessary for that
+necessarius est ille motus: sic igitur non cessat 345R end. In the same way, therefore, the internal action of love
+interna actio amoris vel delectationis consecuto or of delight does not cease once an end has been achieved,
+fine, quia concomitatur talem finem, et ad ipsius since it accompanies such an end and is necessary for its
+perfectionem est necessaria: et ideo respectu talis perfection. And for this reason the causality of an end does
+355 actionis non cessat causalitas finis. not cease with respect to such actions.
+17. Hic vero oriebatur difficultas theologica, 350R 17. But here a theological difficulty comes up, especially
+praesertim ex ultima conclusione, nam hinc se- from the last conclusion, for it follows that beatific love and
+346 quartam ] primam A V.
+
+-- 13 of 20 --
+
+Suárez, DM XXIII, sect. 3 14
+quitur, ipsum amorem et fruitionem beatificam enjoyment themselves are truly and properly caused in the
+vere ac proprie causari a Deo viso, vel a visione eius genus of final cause by God having been seen or by the vision
+360 in genere causae fina- <col. b> lis: et consequenter of him. It follows that these acts are truly and properly for the
+illos actus vere ac proprie esse propter finem, quod 355R sake of an end, which seems disagreeable since these acts are
+videtur inconveniens, cum illi actus sint simpliciter strictly speaking necessary.
+necessarii. Sed quia res est Theologica, breviter But since the matter is theological, I respond briefly by
+respondeo, concedendo illos actus esse ex causali- conceding that those acts are by the causality of an end. For
+365 tate finis, id enim aeque probant omnes rationes the arguments made above equally prove this. Nor is it a
+superius factae. Nec quidquam obstat quod sint 360R problem that they are necessary. Indeed, I said in previous
+necessarii immo in superioribus dixi, necessitatem sections22 that the necessity of that love originates from God
+illius amoris provenire a Deo clare viso, ut ultimo having been clearly seen as the ultimate end, whose supreme
+fine, cuius summa bonitas tam est potens in cau- goodness is so powerful in causing even in the genus of final-
+370 sando etiam in eo genere, ut omnino sibi subiiciat causality that it entirely subjects the will to it. Finally, this
+voluntatem. Denique illa necessitas non provenit 365R necessity does not originate from imperfection or from an
+ex imperfectione, aut ex irrationali modo operandi, irrational way of acting, but rather from supreme perfection,
+sed potius ex summa perfectione, tum ipsius fi- both of the ultimate end itself and also of the mode of applying
+nis ultimi, tum etiam modi applicandi illum per the end to moving the will through most perfect rational or
+375 cognitionem rationalem seu intellectualem perfec- intellectual cognition. And for this reason there is no problem
+tissimam ad movendam voluntatem: et ideo nihil 370R with this motion of the will being from the proper causality
+obstat, quominus illa voluntatis motio quantumvis of an end, however necessary it may be. But whether this is
+necessaria, sit ex propria causalitate finis. An vero enough for that necessary love to be called a human act or
+satis sit ut ille amor necessarius dicatur actus hu- not is discussed by theologians and pertains more to moral
+380 manus necne, tractatur a Theologis, et pertinet philosophy than to metaphysics.
+magis ad moralem Philosophiam quam ad Meta-
+physicam.
+De effectibus externis finalis causae. Concerning the external effects of a final cause.
+18. Diximus hactenus de effectibus, quos causa 18. So far we have talked about the effects which a final
+finalis habet intra ipsam voluntatem causae agen- cause has within the will itself of a cause acting purposefully.
+tis a proposito: nunc superest dicendum de ef- What is left is to talk about those effects which proceed more
+5 fectibus, qui exterius prodeunt a tali causa, id est, 5R externally from such a cause, that is, beyond the human will
+extra ipsam humanam voluntatem, ita ut sub his itself. Thus among these effects are included both the acts
+effectibus comprehendantur tum actus omnium of all the other faculties of a human being (namely, of the
+aliarum facultatum ipsius hominis, scilicet intel- intellect, of the senses, etc.) and the external effects, if there
+lectus, sensuum, etc. tum etiam externi effectus, are any, that result from these actions. Two points are certain
+10 si qui sunt qui per has actiones resultent. In qua 10R and uncontroversial in this matter. The first point is that
+22E.g., DM XIX.8.10.
+
+-- 14 of 20 --
+
+Suárez, DM XXIII, sect. 3 15
+re duo sunt certa et extra controversiam. Unum all the natural actions that a human being exercises without
+est actiones omnes naturales quas homo exercet command or a motion of the will are not effects of the final
+sine imperio seu motione voluntatis, non esse ef- cause in the special way of which we are now speaking. Of
+fectus causae finalis, eo speciali modo, quo nunc this sort are all the actions of the vegetative soul, insofar as
+15 loquimur: huiusmodi sunt actiones omnes ani- 15R they are merely natural, and the acts of the senses or even of
+mae vegetativae, quatenus sunt mere naturales: et the intellect, insofar as they sometimes precede the motion of
+actus sensuum, vel etiam intellectus, quatenus in- the will.
+terdum antecedunt motionem voluntatis. Et ratio The reason is that the causality of an end insofar as it
+est, quia causalitas finis quatenus proprie versatur properly concerns purposeful agents, who move themselves
+20 circa agentia a proposito, quae seipsa movent in 20R to an end, in the first place directly concerns the will and
+finem, primo per se est circa voluntatem, et sup- assumes the sufficient application of such a cause through
+ponit sufficientem applicationem talis causae per the intellect. But in those actions which do not proceed from
+intellectum: sed in his actionibus quae non proce- the motion of the will, the human being is not in that way
+dunt ex motione voluntatis, non sic movetur homo moved by the end but acts in the way other natural agents
+25 ex fine, sed agit ad modum aliorum agentium natu- 25R acts. Therefore, [those actions are not effects of the final cause
+ralium, ergo. Unde talis modus agendi per <857> in the special way of which we are now speaking]. Hence, such
+se non requirit propriam et rationalem cognitionem a way of acting does not in itself require proper and rational
+ipsius finis. Immo et in ipsomet intellectu cogni- cognition of an end. Indeed, even in the intellect itself a
+tio vel apprehensio ipsiusmet finis, si naturalis cognition or apprehension of the end, if it is natural and in
+30 sit, et nullo modo a voluntate, non procedit a cog- 30R no way from the will, does not proceed from a cognition of an
+nitione finis, sed est ipsa cognitio finis: et ideo end but is itself the cognition of an end. For this reason, it
+non procedit ex causalitate finis ut sic, prout est does not proceed from the causality of an end as such, as is
+propria agentium a proposito. Quod idcirco sem- proper to purposeful agents.
+per addo, quia in his actibus naturalibus operatur I therefore always add the qualification ‘as is proper to
+35 homo propter finem, sicut alia agentia naturalia, 35R purposeful agents’, because in these natural acts a human
+de quibus postea videbimus quid in eis sit operari being does act for the sake of an end just as other natural
+propter finem, et qualis in eis esse possit causali- agents do. Concerning natural agents, we will see later23
+tas finis. Atque in hac assertione sic exposita nulla what it means to act for the sake of an end in their case and
+relinquitur difficultas. what the causality of an end could be in their case. And no
+40R difficulty remains in this assertion once it has been explained
+in this way.
+40 19. Secundo certum est, omnes actiones, et 19. The second certain point is that all actions and their
+effecta earum, quae procedunt ex imperio et mo- effects that proceed from the command and motion of a cre-
+tione voluntatis creatae operantis propter finem, ated will acting for the sake of an end are effects of a final
+esse effectus causae finalis. Probatur primo ex 45R cause. It is proven, first, from the way everyone talks and
+modo loquendi et sentiendi omnium, nam quando thinks. For when a human being walks for the sake of achiev-
+45 homo deambulat propter sanitatem consequen- ing health, his walking is thought to be an effect of the health
+23DM XXIII.10.
+
+-- 15 of 20 --
+
+Suárez, DM XXIII, sect. 3 16
+dam, talis deambulatio censetur esse effectus san- preconceived and intended. And for this reason his walking
+itatis praeconceptae et intentae: et ideo dicitur is said to be most properly for the sake of an end, not as a
+esse propriissime propter finem, non ex directione 50R result of the direction of some extrinsic agent but as a re-
+alicuius extrinseci agentis, sed ipsiusmet operan- sult of the direction of the very person acting, who for this
+50 tis, quod hac ratione vocatur agens a proposito: et reason is called a purposeful agent. And the same is true
+idem est de omnibus similibus. Et quando per has in all similar cases. And when through these actions some
+actiones fit aliquis terminus permanens in facto enduring terminus comes to exist in fact, it also is thought
+esse, ille etiam censetur effectus finis praeconcepti, 55R to be an effect of the end that was preconceived, whether in
+vel in fieri dum actu fit, vel in facto esse cum postea becoming while it is actually being made or in having come
+55 permanet: quomodo dixit Aristoteles instrumenta to be when it endures afterwards. In this sense Aristotle said
+esse propter finem: et similiter domus, et aliae res that instruments exist for the sake of an end, and likewise
+artificiales sunt effectus alicuius finis praeconcepti. a house and other artifacts are effects of some end that was
+Ratio vero est, quia finis movet ad has omnes ac- 60R preconceived. The reason is that an end moves [the agent] to
+tiones: ergo omnes sunt effectus eius. Item tales all these actions. Therefore, all are effects of an end. Likewise,
+60 actiones prout ab homine fiunt, pendent essen- insofar as such actions are performed by a human being, they
+tialiter a fine ut causante: quia non possunt aliter depend essentially on an end as causing [them]. For otherwise
+ab homine fieri: ergo sunt effectus finis. Item il- they could not be performed by the human being. Therefore,
+lae actiones sunt media quibus comparatur finis 65R they are effects of an end. Likewise, those actions are means
+intentus: sed finis non solum causat intentionem, by which the intended end is attained. But the end does not
+65 vel electionem: sed etiam mediorum exsecutionem: cause only the intention or election, but also the execution of
+immo in hac maxime videtur relucere eius causali- the means. Indeed, its causality seems to shine out especially
+tas. in [causing the execution of the means].
+20. Dices, Interdum actio imperata a volun- 70R 20. You will respond that sometimes an act commanded by
+tate non est medium, sed ipse finis intentus, iuxta the will is not a means but the intended end itself, according
+70 quamdam divisionem superius datam, quod finis to a distinction made earlier (that sometimes the end is a
+interdum est res acta, interdum ipsamet actio, ut thing produced but sometimes the action itself, as in playing
+cytharizatio, aut contemplatio: ergo tunc saltem a lyre or contemplation24). Therefore, at least in such a case
+non erit actio propter finem, etiamsi procedat a vol- 75R the action will not be for the sake of an end, even if it action
+untate: ergo non erit causata a fine. Respondetur, proceeds from the will. Therefore, it will not be caused by an
+75 ut iam supra notavimus, nullam esse actionem, end.
+quae si proprie sumatur ut actio est, <col. b> I respond that, as I already noted above,25 there is no
+non habeat aliquem terminum intrinsecum propter action which if taken properly as an action does not have
+quem fit, ut cytharizatio ipsa quatenus est motio 80R some intrinsic terminus for the sake of which it is done. The
+quaedam efficit quemdam sonum proportionatum, very playing of a lyre, insofar as it is a kind of motion, effects
+80 qui est qualitas quaedam artificiose composita: et a certain proportionate sound, which is a kind of skillfully
+hoc modo omnis actio est aliquo modo medium ad composed quality. And in this way every action is in some way
+24DM XXIII.2.9.
+25DM XXIII.2.9.
+
+-- 16 of 20 --
+
+Suárez, DM XXIII, sect. 3 17
+suum terminum, et ea ratione potest esse causata a means to its terminus and for that reason can be caused by
+ab illo ut a fine. Si vero de ipso termino loqua- 85R the terminus as by an end.
+mur, vel comprehendatur sub actione per modum But if we speak about the terminus itself, it is either [i]
+85 unius, sic non est proprie medium, supposito quod included in the action as part of one whole with it—and in
+sit finis ultimus in sua serie: tamen nihilominus that way it is not properly a means, since we have assumed
+licet sit finis Cuius, potest habere finem Cui. Nam that it is the ultimate end in its series—nevertheless, still,
+cytharizatio ut fit ab homine, est propter ipsum 90R although it is the finis cuius, it can have a finis cui, for playing
+operantem: vel si talis actus sit finis formalis, a lyre as it done by a human being is for the sake of the very
+90 potest esse propter obiectivum, ut contemplatio person playing, or [ii] if such an act is a formal end, it can be
+est propter veritatem ipsam. Atque ita semper for the sake of an objective end in the way that contemplation
+omnis actio, quae est imperata a voluntate, est is for the sake of truth itself. And so in this way it is always
+effectus alicuius finis praeconcepti. 95R the case that every action which is commanded by the will is
+an effect of some preconceived end.
+21. Circa hanc vero posteriorem assertionem 21. But concerning the latter assertion two points come up
+95 occurrunt duo breviter explicanda. Primum est that need to be explained briefly. First,26 it follows from what
+tactum supra sect. 1. quia ex dictis sequitur idem was said that the same thing is a cause of itself, which seems
+esse causam sui ipsius, quod videtur absurdum. 100R absurd (this was touched on above in sect. 127). The inference
+Et sequela patet imprimis, quia operatio imper- is clear, first of all, because the activity commanded by the
+ata a voluntate saepe est vera causa finalis, quae will is often a true final cause, which when apprehended
+100 apprehensa movet ad sui exsecutionem, et non tan- moves [the agent] and not only to desire or intention but to
+tum ad desiderium vel intentionem: ergo exsecutio the execution of the activity. Therefore, the execution of that
+illius operationes est effectus eiusdem operationis 105R action is an effect of the very same activity apprehended in
+apprehensae per modum finis: illa autem exsecutio the manner of an end. That execution, moreover, is nothing
+non est aliud ab ipsamet operatione, ergo. Deinde other than the activity itself. Therefore, [such an activity is a
+105 quia consecutio finis (sive in operatione consistat, cause of itself].
+sive in sola inhaerentia alicuius formae, vel in alia The inference is also true because the attainment of an
+simili habitudine) est ultimus effectus causae fi- 110R end (whether it consists in activity or only in the inherence of
+nalis, ut finis curationis est sanitas non utcumque, some form or in some other similar relation) is the ultimate
+sed ut mihi inhaerens, et me afficiens, et hoc est effect of the final cause. For example, the end of curing is
+110 ultimum quod causatur ex vi illius intentionis: et health, and not health in just any way but health as inhering
+idem est proportionaliter in reliquis. Sed primus in me and affecting me. And this is the ultimate effect that
+finis, qui movet, et causat usque ad hunc effectum, 115R is caused by the force of that intention. And the same is true
+est ipsamet consecutio finis ut apprehensa: causat proportionately in other cases. But the first end, which moves
+ergo seipsam. and causes all the way up to this [ultimate] effect, is the very
+attainment of the end as apprehended. Therefore, it causes
+itself.
+26The second point is taken up in n. 23, below.
+27DM XXIII.1.3.
+
+-- 17 of 20 --
+
+Suárez, DM XXIII, sect. 3 18
+115 22. Respondetur imprimis nullum esse incon- 120R 22. First of all, I respond that there is nothing disagreeable
+veniens hoc totum concedere, quia in causa finali about conceding all this, because that repugnance that comes
+non intervenit ea repugnantia, quae in causa effi- up in the case of efficient causes—so that something cannot
+ciente, ut non possit esse causa sui ipsius, quia be the cause of itself—does not come up in the case of final
+non requirit praeexistentiam realem ad causan- causes. This is because a final cause does not require a real
+120 dum, sed sufficit intentionalis, media apprehen- 125R pre-existence in order to cause; an intentional [pre-existence]
+sione: cum ergo finis causet priusquam habeat by means of apprehension suffices. When, therefore, an end
+existentiam in actu, mirum non est, quod possit causes before it has actual existence, it is not surprising that
+in sua genere concurrere ad suammet existentiam. it can concur in its genus with its own existence. And so we
+Atque ita concedimus, rem eamdem secundum di- concede that the same thing according to different conditions
+125 versas conditiones existendi posse <858> causare 130R for existing can cause itself. For an end existing intentionally
+seipsam, nam intentionaliter existens causat seip- causes itself to exist in reality.
+sam ut realiter sit. Neque hoc est diversum ab Nor is this different from what is generally said axiomat-
+eo, quod communi axiomate dicitur, Illud quod est ically: ‘that which is first in intention is last in execution’.
+primum in intentione, esse ultimum in exsecutione: Nor is it different from what Aristotle said: ‘the form and the
+130 vel quod etiam Aristoteles dixit, formam et finem 135R end concur to be the same in number’, although the form
+concurrere in idem numero, quamvis forma et ef- and efficient cause can only come together to be the same in
+ficiens solum possint concurrere in idem specie. species. For the form, or its formal effect, is an effect of the
+Forma enim, seu effectus formalis eius est effectus agent and as such is also an effect of the end that excited the
+agentis, et ut sic est etiam effectus finis, qui exci- agent to acting and that is nothing other than the form itself.
+135 tavit agens ad operandum, quique non est aliud 140R But we also add that nothing is the attainment of an end that
+ab ipsa forma. Deinde vero addimus, nullam esse is not in some way for the sake of an end, either for the sake
+finis consecutionem, quae non sit aliquo modo of an objective end, if it has that, or at least for the sake of
+propter finem, vel obiectivum, si illum habeat, vel a finis cui (which is always assumed for final causality and
+saltem propter finem Cui, qui semper supponitur as such is not an effect of it). And so in this way an effect of
+140 ad causalitatem finalem, et ut sic non est effectus 145R an end—even an ultimate effect—is always distinguished in
+eius: atque hoc modo semper effectus finis etiam some way from the adequate final cause.
+ultimus distinguitur aliquo modo ab adaequata Finally, the attainment of an end (whether unqualifiedly
+causa finali. Tandem consecutio finis ultimi vel ultimate or only ultimate in some series) does not cause itself
+simpliciter vel in aliqua serie, non causat se imme- immediately. Rather, it proximately causes in the intellectual
+145 diate, sed proxime causat in intellectuali agente, 150R agent (concerning which we now speak) an affect and intention
+de quo nunc loquimur, affectum et intentionem, and other acts by means of which its causality comes to that
+et alios actus, quibus mediantibus pervenit eius action by which the end itself is attained and in which it
+causalitas usque ad illam actionem, qua finis ipse consists. And in this way something distinct from the ultimate
+comparatur, et in qua consistit: et ita semper con- end always concurs [with it] in this kind of causality.
+150 currit aliquid distinctum ab ipso ad huiusmodi
+causalitatem.
+23. Sed tunc occurrit explicanda altera difficul- 155R 23. But then the second difficulty mentioned before that
+
+-- 18 of 20 --
+
+Suárez, DM XXIII, sect. 3 19
+tas proposita, nimirum, qualis sit haec causalitas needs explaining comes up: namely, what this causality of
+finis circa actiones vel res externas, manantes a an end is with respect to the external actions or things that
+155 motione voluntatis. Est enim in his specialis du- flow from a motion of the will. For there is a special reason
+bitandi ratio, nam actus interni eliciti a voluntate for doubting with respect to these. Internal acts elicited by
+habent realem, et intrinsecam habitudinem ad ip- 160R the will have a real and intrinsic habitude to the end itself as
+sum finem ut ad proprium obiectum, vel formale to a proper object, whether the end is formal and material at
+simul et materiale, ut in intentione, et aliis actibus the same time (as in the case of intention and other acts that
+160 qui proxime versantur circa ipsum finem, vel for- are directed proximately to the end itself) or formal only (as in
+male tantum, ut in electione mediorum: et ideo the case of the election of means). For this reason one rightly
+recte intelligitur, ipsum finem per se ac proxime ex- 165R understands that an end directly and proximately excites and
+citare ac movere ad tales actus: et e converso tales moves [the will] to such acts and, conversely, that such acts
+actus per se et intrinsece pendere a causalitate directly and intrinsically depend on the causality of such an
+165 talis finis. At vero actus imperati tantum a volun- end. But, on the other hand, acts merely commanded by the
+tate (et multo magis effectus eorum) nullo modo will are in no way proximately excited by an end itself nor do
+excitantur proxime ab ipso fine, neque ipsi dicunt 170R they express and intrinsic habitude to an end. (This is all the
+intrinsecam habitudinem ad finem, sed solum per more true of the effects of such acts.) Rather, they are only
+extrinsecam denominationem dicuntur ordinari in said through an extrinsic denomination to be ordered to an
+170 finem mediis interioribus actibus, ut deambula- end by means of interior acts. For example, external walking
+tio exterior mere extrinsecus ordinatur ad sani- is merely extrinsically ordered to health.
+tatem. Ex quo videtur sequi primo, finem non 175R It seems to follow from this, first, that an end is not a
+per se, sed per accidens esse causam huiusmodi per se cause of such an effect but only a per accidens cause,
+effectuum eo modo quo applicans vel excitans ef- either in the way in which something applying or exciting an
+175 ficientem causam dici- <col. b> tur esse causa efficient cause is thereby said to be the cause of the caused
+effectus causati ab illa, vel eo modo quo avus est effect or in the way in which a grandfather is the cause of his
+causa nepotis, quia genuit patrem eius: sic enim 180R grandson because he begot the grandson’s father. For in this
+finis est causa actionis externae, solum quia ge- way an end is the cause of external actions only because it
+nuit internam. Deinde videtur sequi ex vi huius begot the internal actions.
+180 causalitatis finis nihil rei poni in huiusmodi ac- Next, it seems to follow that, properly speaking, no real
+tionibus et effectibus externis per se loquendo, sed thing is placed in [commanded] actions and their external
+solam extrinsecam denominationem, quae non est 185R effects by virtue of this causality of an end. Only an extrinsic
+satis ad causalitatem realem. Sequela patet, quia denomination is placed in them, which is not sufficient for real
+inde solum habet actus exterior ut ordinetur medio causality. The inference is clear, because an external act has
+185 interiori ad talem finem, quod solum est denom- nothing more from the account given than that it is ordered
+inatio extrinseca in ipso exteriori. Cuius signum to such an end by means of an internal act, which is only an
+est, nam si contingeret illam exteriorem actionem, 190R extrinsic denomination in that external act. A sign of this is
+vel propter alium finem, vel casu et sine ullo fine that that external action would not be changed or diminished
+fieri: in se et in sua entitate non mutaretur, nec in itself or in its entity nor would the physical action by which
+190 minueretur, neque actio physica qua fit, esset alia: it is produced be any different, if it were to be produced for
+
+-- 19 of 20 --
+
+Suárez, DM XXIII, sect. 3 20
+ergo signum est non causari per se ab illo fine, sed the sake of another end or if it were produced by chance and
+tantum remote et per accidens. In causis enim 195R without any end. Therefore, this is a sign that it is not caused
+efficientibus, licet contingat eumdem effectum qui per se by that end but only remotely and per accidens. For
+fit ab una causa, posse causari ab alia, tamen si in efficient causes, although it happens that the same effect
+195 sit causa per se, necesse est saltem actionem esse which is produced by one cause can be caused by another,
+diversam ut in superioribus traditum est: unde si nevertheless, if it is a per se cause, it is necessary that at least
+ex mutatione causae neque effectus neque actio 200R the action be different, as was treated in previous sections.28
+mutatur, signum est talem causam nec per se nec Hence, if by changing the cause neither the effect nor the
+immediate influere in talem effectum: idem ergo, action is changed, this is a sign that such a cause neither
+200 proportione servata, erit in praesenti. per se nor immediately has an influence on such an effect.
+Therefore, the same thing will be true, preserving proportion,
+205R in the present case.
+24. Haec difficultas postulat ut explicemus 24. This difficulty demands that we explain what the
+quid sit causalitas causae finalis, vel quid ponat in causality of a final cause is or what it places in its effects.
+suis effectibus, quod sequenti sectione praestabimus, We will do this in the following section; we will address this
+et in fine eius difficultati satisfaciemus. difficulty at the end of that section.29
+28DM XVIII.10.8.
+29See DM XXIII.4.16–17.
+
+-- 20 of 20 --

@@ -1,0 +1,599 @@
+Sydney Penner
+Last revised: November 27, 2008
+Francisco Suárez, S. J.
+DE VOLUNTARIO ET INVOLUNTARIO, DISP. 91
+Appendix: DE LEGIBUS, LIB. 7, CAP. 1, N. 2
+<266, col. a>
+DE USU ET IMPERIO
+Diximus de actibus pertinentibus ad ordinem in- We spoke about the acts belong to the order of inten-
+tentionis, nunc breviter de his, qui ad ordinem tion. Now [we will speak] briefly about those which
+executionis pertinent, de quibus D. Thomas 1, 2, belong to the order of execution, concerning which
+quæst. 16 et 17. St. Thomas [speaks] in [ST ] IaIIæ.16–17.
+SECTIO I
+WHAT USE IS AND WHAT ITS OBJECT IS (Quid sit usus, et quod ejus objectum)
+1. Variæ usurpationes usus.—Usus apud theolo- 1. Different usages of use.—Setting aside the other
+gos, omissis aliis significationibus, a fruitione dis- significations, use is distinguished from enjoyment
+tinguitur, et illi quasi opponitur, ex Augustino, (fruitione) among the theologians and is, as it were,
+de doctr. Christiana, cap. 3, ubi ait, uti esse id, opposed to it. [This is taken] from Augustine in De
+quod in usu venit, ad id, quod amas obtinen- doctr. Chr., cap. 3, where he says that to use is to re-
+dum, referre. Nota tamen, in re amata propter fer that which comes in use to the obtaining of that
+aliam posse versari et electionem et facultatem which you love. Note, nevertheless, that in execut-
+etiam aliquam inferiorem eam rem exequendo; ing that thing both election and also some lower fac-
+et in hoc ultimo consistit, vel perficitur usus : et ulty can be directed to the thing loved for the sake
+ideo D. Thomas dixit, usum significare applica- of something else. And use consists in or completes
+tionem ad operandum. Sciendum autem est, ap- the latter. And therefore St. Thomas said that use sig-
+plicationem potentiæ exequentis non habere ra- nifies the application to acting. It should be known,
+tionem usus, nisi ut est actio voluntaria ad finem however, that the application of the executing power
+ab ipso operante relata, et ideo bruta non utun- does not have the nature of use except insofar as it is
+tur proprie : quapropter in ipsomet usu distin- a voluntary act related to the end by the one acting
+gui debet et actio exterior ipsius potentiæ, quæ himself. And therefore brute animals do not properly
+ad exequendum opus applicatur, et actio inte- use. For this reason there must be distinguished in the
+rior illius potentiæ, quæ exteriorem applicat. Di- very use itself both an exterior act of that power which
+cunt ergo quidam, usum proprie esse illam ac- is applied to executing the work and an interior act
+<col. b> tionem externam, et ideo, usum non of that power which applies the exterior [act]. Cer-
+esse actum elicitum a voluntate, sed imperatum. tain people, therefore, say that use, properly speaking,
+Alii vero cum D. Thoma dicunt interiorem illam is that external act, and, therefore, use is not an act
+actionem esse usum : et consequenter dicunt esse elicited by the will but commanded. But others say
+elicitam a voluntate. Sed forte dissentio est in with St. Thomas that that interior act is use and con-
+verbis, nam in re constat usum compleri in ipsa sequently they say that it is elicited by the will. But
+1Latin text is from vol. 4 of the Vivès edition.
+
+-- 1 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 2
+executione. Certum etiam est, præcedere ante is- perhaps the disagreement is verbal, for it is agreed that
+tam executionem aliquem actum interiorem ap- in reality use is completed in the execution itself. Also,
+petitus, qui est causa exterioris actionis humanæ. it is certain that that execution is preceded by some in-
+Quare non mihi displicet illa distinctio commu- terior act of appetite, which is the cause of the exterior
+nis usus in activum, et passivum, juxta quam. human action. This is why that common distinction
+is not displeasing to me according to which use [is di-
+vided] into active and passive.
+2. Prima assertio.—Dico primo : usus activus est 2. First assertion.—I say first that active use is an act
+actus elicitus a voluntate. Probatur, quia voluntas elicited by the will. It is proven since the will is that
+est, quæ movet cæteras potentias ad operandum which moves the remaining powers to action. But it
+: sed non movet, nisi per actum ab ipsa volun- does not move, except through an act elicited by the
+tate elicitum : ergo per illum utitur inferioribus will itself. Therefore, it uses the lower powers and
+potentiis, et actibus earum; imo et intellectu et their acts through that [act]. Indeed, [it uses] both
+se ipsa, quatenus se ipsam applicat ad exercitium the intellect and it itself to the extent that it applies
+actus. itself to the exercise of the act.
+3. Secunda assertio.—Dico secundo : usus pas- 3. Second assertion.—I say secondly that passive use is
+sivus est in exteriori potentia exequente. Patet, in the exterior executing power. It is clear because it is
+quia est usus procedens ab usu activo : et ideo the use proceeding from the active use. And therefore
+dicitur passivus, quamvis respectu ipsius rei exte- it is called passive, although with respect to the exte-
+rioris, vel interioris extrinsece habeat quamdam rior or interior matter itself it can extrinsically have
+actionem activam : sic enim motione manus utor a certain active action. For thus I use a reed with the
+calamo, et dici potest activus secundarius : vide motion of my hand and it can be called secondarily ac-
+Durandum, in 1, d. 1. Sed dices, etiam actus ap- tive. See Durandus in 1, d. 1. But, you may say, an
+petitus sensitivi habet rationem usus. Responde- act of the sensitive appetite also has the nature of use.
+tur breviter : in homine hic appetitus non potest It is responded briefly: in a human being this appetite
+movere alias potentias nisi consentiente volun- cannot move other powers except by the will agree-
+tate : et ideo consequens usus tribuitur voluntati, ing. And therefore the following use is attributed to
+præcipue moraliter. Et præterea usus, ut supra the will, especially morally. And, in addition, use, as I
+dici, proprie importat actum perfecte voluntar- say above, properly conveys a perfectly voluntary act.
+ium : et propterea ipsamet motio appetitus sensi- And, therefore, the very motion itself of the sensitive
+tivi non habet rationem usus, nisi ut subest vol- appetite does not have the nature of use, except insofar
+untati. Et his facile definitur, quod sit objectum as it is underneath the will. And what the object is of
+hujus actus. this act is easily defined from these.
+4. Tertia assertio.—Unde dico tertio : usus pro- 4. Third assertion.—Hence, I say thirdly that use is
+prie est de mediis. Est D. Thomæ, et omnium properly of means. [This] is [the view] of St. Thomas
+ex Augustino supra, et probatur ex vi nomi- and everyone else [taken] from Augustine above and
+nis : nam usus significat motum quemdam. Et it is shown by the method of names. For use signi-
+confirmatur; nam usus versatur immediate circa fies a certain motion. And it is confirmed: for use is
+nostras actiones humanas, quæ sunt media ad immediately engaged with our human actions which
+cognoscendum ultimum finem ex Augustino 11, are means to cognizing the ultimate end, according to
+de Civitate, cap. 25. Et ex hoc colligitur pro- Augustine, De Civ., cap. 25. And from this is gath-
+prie, et immediate usum, qui est actus voluntatis, ered that properly and immediately use, which is an
+versari circa interiores potentias, et actiones ho- act of the will, is engaged with the interior powers
+minis; quia est applicatio potentiarum ad opus : and actions of a human being, since it is an applica-
+tamen ex consequenti, et mediate versatur circa tion of powers to work. Yet by consequence and me-
+res exteriores, prout eas ad nostras actiones or- diately it is engaged with exterior matters as we order
+dinamus, vel prout sunt materia nostrarum ac- them to our actions or as they are the matter of our
+tionum : quapropter nulla re uti dicimur, nisi actions. For this reason, we are said to use nothing
+
+-- 2 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 3
+subjecta sit <267> nostræ voluntati. Quod variis unless the subject is our will. This can happen in dif-
+modis contingere potest, nam aliquando subjici- ferent ways, for sometimes it is made the subject as
+tur tanquam instrumentum; aliquando tanquam an instrument, sometimes as the matter, or sometimes
+materia, vel objectum; aliquando solum, quia est the object alone, since that thing is suitable for us.
+nobis illa res commoda.
+5. Sed objices; nam sequitur, nos non posse 5. But you will object, for it follows, contra Augus-
+uti Deo contra Augustinum. Probatur, quia est tine, that we cannot use God. It is proven, since he is
+nobis valde utilis; et possumus illum diligere most useful to us and we can love him for the sake of
+propter nostrum commodum. Confirmatur our advantage. It is confirmed, first, for the blessed at
+primo; nam beati saltem dicuntur uti Deo tan- least are said to use God as the object and mirror in
+quam objecto et speculo, in quo omnia vident. whom they see everything. It is confirmed, secondly,
+Confirmatur secundo, nam utimur sole, et Ange- for we use the sun, and angels also, yet these things are
+lis etiam; quæ tamen res non subsunt nostræ vol- not underneath our will.
+untati. Respondetur ad argumentum primum, It is responded to the first argument that we do
+nos non uti Deo, sed possumus uti actionibus not use God but we can use actions concerning God,
+circa Deum, id est, amore secundo. Aliud est, that is, amor secundus. The one is that God is useful
+Deum esse utilem nobis, et ideo amari; quod in- to us and is loved for that reason. This can sometimes
+terdum fieri potest amore etiam honesto, licet happen even by an honest love although not by a per-
+non perfecto. Aliud est uti Deo, quod fieri recte fect love. The other is to use God. This cannot happen
+non potest; tum quia non est in potestate ho- rightly, since it is not in the power of a human being
+minis, applicari Deum ad efficiendum id quod that God be applied to effecting that which is useful
+sibi est utile; tum etiam quia licet amor Dei pos- to him and also since—although the love of God can
+sit referri proprie in nostram utilitatem, tamen be referred, strictly speaking, to our utility—it cannot
+non ultimate, sed tandem debet terminari in ip- [be referred] ultimately [to our utility] but in the end
+summet Deum. Unde ad confirmationem re- must be terminated in God himself. Hence it is re-
+spondetur, beatos non proprie uti Deo : præ- sponded to the confirmation that the blessed do not
+cipue quia operationes, quas beati exercent circa strictly speaking use God, especially since the actions
+Deum, sunt necessariæ, quæ tamen, ut ex dictis which the blessed exercise concerning God are neces-
+patet, debent esse liberæ. Ad confirmationem sary, yet which, as is clear from what was said, ought
+secundam respondetur, non esse locutiones illas to be free. To the second confirmation is responded
+adeo proprias : omnes tamen dicunt ordinem that those locutions are not truly proper. Neverthe-
+ad nostram voluntatem, et operationes : utor less, they call everything an ordering to our will and
+enim sole quatenus est in potestate mea, non il- actions. For I use the sun insofar as it is in my power,
+lum mihi, sed me illi applicare : et quodammodo not to apply it to me, but to apply me to it. And in a
+utimur Angelis, quia volumus juvari orationibus, certain way we use angels, since we wish to be assisted
+vel auxilio eorum. by their prayers or help.
+SECTIO II
+WHETHER USE IS AN ACT DISTINCT FROM ELECTION (Utrum usus sit actus ab electione distinctus)
+1. Prima sententia.—Prima sententia negat, ita 1. The first view.—The first view denies [that use is
+Aureolus apud Capreolum, in 1, d. 1, q. 2. an act distinct from election]. Aureol [does] so be-
+Fundamentum est, quia habent idem objectum, fore Capreolus in [Sent.] I, d. 1, q. 2. The foundation
+nempe bonum propter aliud appetendum. Con- is that they have the same object, namely the good
+firmatur, nam supra dixi, electionem esse volun- desired for the sake of another. It is confirmed, for
+tatem efficacem, ex qua sequitur opus. Sed hæc as I said above, election is an efficacious willing from
+eadem est ratio usus : ergo, etc. which a work follows. But the nature of use is the
+same as this. Therefore, etc.
+
+-- 3 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 4
+2. Secunda sententia.—Secunda sententia commu- 2. The second view.—The second view common among
+nis Thomistarum est hos actus ex propriis ra- the Thomists is that these acts are always distinct by
+tionibus semper esse distinctos : fundamentum reason of their proper natures. The foundation is that
+est, quia electio est quasi simplex voluntas, et in- election is, as it were, a simple willing and intention
+tentio circa finem : usus autem <col. b> non sic. concerning the end. Use, however, is not like that.
+Confirmatur primo, quia electio sequitur imme- It is confirmed, first, since election follows immedi-
+diate post judicium consilii, et antecedit execu- ately after the judgement of counsel and precedes ex-
+tionem, usus vero non est, nisi in executione ipsa, ecution. But use does not exist except in the execu-
+unde non sequitur immediate post judicium, sed tion itself. Hence, it does not follow immediately after
+post electionem, et imperium. Confirmatur se- judgement, but after election and command. It is con-
+cundo : nam usus non proprie versatur circa firmed, secondly, for use is not properly engaged with
+medium, sicut electio, sed circa potentiam exe- means, as election is, but with the executing power
+quentem, quod ad opus applicat. that is applied to the work.
+3. Nota, electionem duobus modis posse fieri : Note that election can happen in two ways. In one
+uno modo quasi abstractive, determinando scil- way abstractively, as it were, namely, by determin-
+icet medium, non tamen omnes particulares cir- ing the means yet not all the particular circumstances,
+cumstantias, scilicet hic et nunc, et hoc modo ex- namely, here and now and to be executed in this way.
+equendas. Secundo modo potest fieri electio cum In the second way election can happen with a com-
+totali determinatione circumstantiarum particu- plete determination of all particular circumstances.
+larium.
+4. Dico primo. Electio cum fit priori modo, 4. I say first: when election happens in the first way,
+non est usus. Hoc probant rationes secundæ it is not use. The arguments for the second view prove
+sententiæ, et præcipue, quia ex vi hujus electio- this, especially since the power is not applied to use by
+nis potentia non applicatur ad usum. Et de hac the strength of this election. And St. Thomas should
+electione intelligendus est D. Thomas, cum 1, be understood [as speaking] about this election when
+3 [sic], quæst. 16, art. 4, dicit electionem ante- he says in [ST ] IaIIæ.16.4 that election precedes use.
+cedere usum : moraliter enim, et fere semper ita For morally and almost always it happens in such a
+fit, ut prius fiat consilium, et electio de medio se- way that counsel happens earlier and election of the
+cundum se, quam tractetur de executione : licet means follows it, which is discussed concerning execu-
+interdum accidat, adeo esse breve tempus, quod tion. Although sometimes it happens that for that rea-
+inter electionem et usum intercedit, ut vix per- son there is a brief time that intervenes between elec-
+cipiatur. tion and use, so that it can hardly be perceived.
+5. Dico tamen secundo, per se simpliciter lo- 5. I say secondly that, in itself, speaking strictly, it is
+quendo, necessarium non esse electionem tem- not necessary that election precede use in time. And
+pore antecedere usum : et tunc electio et usus then election and use are not acts that are really dis-
+non sunt actus re distincti. Prior pars probatur, tinct. The first part is proven since nothing prevents
+quia nihil impedit quominus intellectus subito the intellect from suddenly determining the means
+determinet medium, et circumstantias omnes, et and all the circumstances and the will from choosing
+voluntas in eodem instanti, in quo eligit medium, the circumstance and actual execution in the same in-
+eligat circumstantiam et actualem executionem. stant in which it chooses the means. But the second
+Secunda vero pars patet ex fundamentis primæ part is clear from the foundation of the first view and
+sententiæ : et præcipue, quia ex vi talis electionis especially since the action of the executing power fol-
+sequitur actio potentiæ exequentis. lows from the strength of such an election.
+6. Dico igitur tertio. Electio et usus secundum 6. Therefore, I say thirdly: election and use accord-
+se non videntur actus formaliter, vel essentialiter ing to themselves do not seem formally or essentially
+distincti : sed frequenter differunt secundum ma- distinct acts. But frequently they differ according to
+jorem, vel minorem determinationem circum- greater or lesser determination of the circumstances.
+
+-- 4 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 5
+stantiarum. Patet ex dictis, et ratio præcipua est, It is clear from what was said and an especially strong
+quia ibi actus tendunt in objectum sub eadem reason is that there the acts tend to the object under
+ratione boni, nempe ut est utile ad consequen- the same aspect of good, namely, insofar as it is useful
+dum finem, et hoc est essentiale : illa vero alia for pursuing the good. And this is essential. But that
+differentia videtur plane accidentalis. Et hoc est other difference seems plainly accidental. And this is
+juxta confirmationem primæ sententiæ. Neque according to the confirmation of the first view. Nor do
+obstant argumenta secundæ. the arguments for the second view stand in the way.
+7. Ad fundamentum primæ [sic] sententiæ in nu- 7. To the foundation of the second view in n. 2 and
+mero 2 ejusque primam confirmationem.—Quare its first confirmation.—Hence, to the foundation is re-
+ad fundamentum respondetur, electio- <268> sponded that election is also engaged with means in
+nem etiam versari circa medium in ordine ad ex- the order of execution. Hence, that this execution is
+ecutionem : unde, quod hæc executio vel statim, determined either at once or subsequently does not
+vel in posterum determinetur, non arguit differ- prove an essential difference but only more or less ac-
+entiam essentialem, sed solum secundum magis cidentally. And by reason of this greater determina-
+et minus accidentaliter : et ratione hujus majoris tion it happens that work follows on use and not on
+determinationis fit ut ad usum sequatur opus, election, when it happens without that determination.
+et non ad electionem, quando fit sine ista deter- This is because the exercise of work requires the deter-
+minatione : quia exercitium operis requirit de- mination of all circumstances.
+terminationem omnium circumstantiarum. Ad To the second [confirmation] is responded that
+secundam respondetur ipsummet usum poten- the very use itself of the executing power is just as one
+tiæ exequentis esse velut unum ex mediis nec- by the necessary means for pursuing the end. And
+essariis ad consequendum finem : et ideo eam- therefore it participates in the same aspect of good and
+dem rationem boni, et appetibilis participat : desirability. Hence, it does not prove an essential dif-
+unde non arguit distinctionem essentialem. Se- ference. Secondly, it does not follow that it is neces-
+cundo non sequitur, ad executionem operis esse sary for the execution of the work that the will directly
+necessarium ut voluntas directe, et quasi in actu and, as it were, in the designated act wish to apply the
+signato velit applicare potentiam exteriorem ad exterior power to the work. But it is enough that it
+opus : sed satis est, hic et nunc velle istum ef- here and now wish that effect, for the work follows
+fectum, nam statim propter naturalem connex- at once on account of the natural connection of the
+ionem potentiarum sequitur opus, ut maxime powers, as is especially clear in the use of intellect it-
+patet in usu ipsius intellectus. Et ita intelligitur self. And thus St. Thomas is easily understood in that
+facile D. Thomas, in illo art. 4, ad 1 et 3. art. 4, ad 1 and 3.
+SECTIO III
+WHAT ACT OF THE INTELLECT PRECEDES USE AND, AT THE SAME TIME, WHAT COMMAND IS AND
+HOW IT IS DISTINGUISHED FROM USE (Quis actus intellectus antecedat usum, et simul quid sit imperium,
+et quomodo distinguatur ab usu)
+1. Datur in nobis imperium.—Prima sententia 1. A command is given in us.—The first view on what
+quid sit imperium.—Auctores omnes conveniunt, command is.—All the authors agree that a certain in-
+reperiri in nobis internum quoddam imperium, ternal command is found in us by which we command
+quo nobis ipsis imperamus : quoniam imperare ourselves, since to command is to move something in-
+est inferiorem movere, et ordinare opus. Homo ferior and to order work. A human being, however,
+autem per potentias superiores se movet, et or- moves and orders himself to actions of the lower pow-
+dinat ad operationes inferiorum potentiarum : ers through the superior powers. Hence, we distin-
+unde in nobis distinguimus actus elicitos et im- guish in ourselves elicited and commanded acts, as will
+peratos, ut infra dicetur : vide D. Thomam, be said below. See St. Thomas, Quodl. 9, a. 12. And so
+quodlib. 9, a. 12. Itaque dari imperium certum it is certain that a command is given. What it is, how-
+est : quid autem sit, non constat inter auctores. ever, is not clear among the authors. Many think that
+
+-- 5 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 6
+Multi censent esse ipsummet actum activum vol- it is the active act itself of the will. Scotus, in [Sent.]
+untatis : ita Scotus, in 2, d. 36, d. 1, Medina, II, d. 36, d. 1, and Medina, in Codice de Pœn., tract. de
+Codice de Pœnitentia, tract. de Oratione, c. 2. Oratione, c. 2, [think] this. The main foundation is
+Fundamentum præcipuum est, quia finis imperii that the end of the command is to move and to order.
+est movere, et ordinare : sed movere inferiores But to move the inferior powers is proper to the will,
+potentias est proprium voluntatis, ut constat ex as is clear from what was said. Scotus says also that
+dictis. Ordinare etiam, inquit Scotus, convenire to order one can agree with the will, either per se since
+potest voluntati, vel per se, quia potentia im- the power is immaterial (and this suffices) or at least, as
+materialis est : et hoc sufficit, vel saltem quasi it were, through participation from the intellect. It is
+per participationem ab intellectu. Confirmatur confirmed: for command proximately regards execu-
+: nam imperium proxime respicit executionem : tion. Therefore, it is that from which execution imme-
+ergo est illud, ex quo immediate oritur executio diately arises. But execution immediately arises from
+: oritur autem immediate ex <col. b> usu activo active use of the will, as is clear from what was said and
+voluntatis, ut ex dictis patet, et in potentiis bruto- is manisfestly revealed in the powers of brute animals.
+rum ostenditur manifeste. Nam motiones exteri- For exterior motions flow from appetite without any
+ores ab appetitu manant sine aliquo alio imperio. other command.
+2. Secunda sententia, variæque illius explicatio- 2. The second view and its various explications.—Its
+nes.—Ejus fundamentum proprium.—Secunda sen- proper foundation.—The second view affirms that the
+tentia affirmat actum imperii pertinere ad intel- act of command belongs to intellect. St. Thomas, in
+lectum. Ita divus Thomas, 1, 2, q. 16, a. 1, et [ST ] IaIIæ.16.1 and 90.1, Cajetan, in these places, and
+q. 90, a. 1, Cajetanus, his locis, Soto, 1, de Just., Soto, in De Just. I, q. 1, a. 1, [think] this. Never-
+q. 1, a. 1. Tamen Thomistæ non conveniunt in theless, the Thomists do not agree in explaining this
+explicando rem hanc. Nam quidam dicunt hoc matter. For certain ones say that this command pre-
+imperium antecedere actum voluntatis. Alii elec- cedes an act of the will. Others say that it precedes
+tionem : alii, solum esse post electionem, sed election. Others say that it exists only after election
+ante usum. Alii etiam volunt, esse post usum but before use. Others also wish that it be after active
+activum voluntatis, et immediate cadere in po- use of the will and immediately fall into the execut-
+tentiam exequentem. In hoc tamen convenire vi- ing power. Yet they seem to agree in this since they
+dentur, quia omnes putant, istud imperium esse all think that that command is an act distinct from a
+actum distinctum a judicio intellectus, et consis- judgement of the intellect and that it consists in a cer-
+tere in impulsu quodam, qui explicatur hac voce, tain impulse that is explicated by the phrase ‘do this’.
+fac hoc. Et Aristoteles 3, Ethic., c. 10, manifeste And Aristotle in EN III, c. 10, manifestly distinguishes
+distinguit imperium a judicio, et utrumque dicit command from judgement and says that each is an act
+esse actum prudentiæ. Et ex Augustino 15, de of prudence. And [likewise] from Augustine, De Civ.
+Civ., c. 7. Fundamentum proprium est, quia in- 15, c. 7. The proper foundation is because it is the role
+tellectus est ordinare unum ad aliud, et hoc est of the intellect to order one thing to another and this
+effectus imperii. is the effect of a command.
+3. Duo præsupposita pro resolutione.—Suppono 3. Two presuppositions on behalf of a resolution.—I sup-
+primo, nos hic loqui de imperio, quo quis sibi pose first that we say these things of the command by
+ipsi imperat : nam de imperio, quo aliis im- which someone commands himself. For concerning
+perat, agendum est in materia de legibus : licet the command by which he commands others should
+hinc petenda sint fundamenta. Secundo sup- be dealt with in the material on laws, although the
+pono, hominem dupliciter seipsum movere, et foundations may be sought from here. I suppose sec-
+sibi imperare, primo, quasi in actu exercito, dum ondly that a human being moves himself and com-
+se movet ad aliquid agendum : quamvis explicite mands himself in two ways. In the first way, in an
+non exprimat illum actum, fac hoc. Alio modo exercised act, as it were, until he moves himself to do-
+quasi in actu signato vel expresse signando illum ing something, although he does not explicitly express
+actum, juxta illud : Spera in Domino : et illud : that act ‘do this’. In the other way, in a designated
+Convertere animam meam in requiem tuam.1 act or in expressly designating that act like this [from
+
+-- 6 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 7
+Ps. 37:3]: ‘trust in the Lord’ and this [from Ps. 116:7]:
+‘Turn my soul to your rest’.
+1 Psalm 114:7, in the 1598 Vulgate, reads: ‘Convertere, anima mea, in requiem tuam’. But it looks like the Psalterium
+Romanum might have also have the accusative ‘animam meam’ that Suárez uses.
+4. Probabile in hac quæstione.—Secundum.—His 4. A probable [answer] to this question.—The second.—
+positis hæc censeo in re probabiliora. Primum Of these proposed things I think these more proba-
+ante electionem antecedere judicium practicum, ble in reality. First, that prior to election a practical
+et non alium actum ab illo distinctum, qui possit judgement precedes and not another act distinct from
+dici imperium. Hoc supra dixi et probavi. Secun- it which could be called command. I said and argued
+dum post electionem illam, quæ abstrahit ab ex- for this above. Second, that after that election which
+ecutione ante usum, natura saltem præcedere, et abstracts from execution prior to use, at least by na-
+necessarium esse aliud judicium magis practicum ture there precedes another judgement that is neces-
+in hoc distinctum a judicio, quod præcedit elec- sary and more practical and in this is distinct from that
+tionem, quia immediatius attingit opus, et omnes judgement which precedes election, since it more im-
+determinatas circumstantias neccssarias ad operis mediately achieves work and every determinate nec-
+executionem. Et hinc est quod vehementius essary circumstance for execution of the work. And
+etiam movet voluntatem non tam virtute sua, hence it is that it also more vigourously moves the will
+quam virtute electionis jam factæ : ratio est, quia not so much by its own strength as by virtue of the
+ante omnem actum voluntatis debet antecedere election already made. The reason is because before
+<269> judicium intellectus illi consentaneum, every act of the will a judgement of the intellect appro-
+a quo dirigatur et illuminetur : sed usus activas priate to it ought to go before by which it is directed
+est actus voluntatis, quid aliquid addit illi elec- and illuminated. But active use is an act of will which
+tioni jam factæ : ergo, etc. Et hoc judicium adds something to the election already made. There-
+merito dici solet practice practicum, seu omnino fore, etc. And this judgement is usually, and rightly,
+practicum; quia omnino, et prorsus ordinatur ad called practically practical or wholly practical, since
+executionem operis, et magis inclinat ad vincen- it is wholly and entirely ordered to execution of the
+dam difficultatem operis, quæ tempore executio- work and is more inclined to conquering the difficulty
+nis major semper apparet, quam in consultatione of a work (which always appears greater at the time of
+et electione abstracta. execution) than to consultation and abstract election.
+5. Tertium.—Tertium, præter hæc duo judicia 5. Third.—Third, in addition to these two practical
+practica reperiri in nobis actum illum, quem ex- judgements there is found in us that act which we ex-
+perimur, cum nobiscum ita loquimur interius, perience when we thus internally say ‘do this’ to our-
+fac hoc, qui actus non est judicii, sed interior quæ- selves. This act is not of the judgement but a certain
+dam locutio, qua homo sibi ipsi explicat vel ra- internal locution by which a human being sets forth to
+tionem, vel voluntatem operis exequendi. Nam himself either the reason or the will for executing the
+sicut exterius alios alloquimur, vel enuntiando, work. For just as we externally address other people
+vel imperando; ita etiam interius nobiscum : et by either declaring or commanding, so also we address
+hæc interior locutio, sine dubio, est actus intel- ourselves internally. And this internal locution, with-
+lectus, quia fit per conceptus interiores, et quia out doubt, is an act of the intellect, since it happens
+est expressio proprii judicii, vel affectus. through interior concepts and since it is an expression
+of a proper judgement or affect.
+6. Quomodo fiat actus interior imperii?—Quod 6. How does an interior act of command happen?—
+si quæras, quomodo fiat, arbitror, illum actum If you should ask how that happens, I observe that
+non existere, neque fieri per conceptum, quem that act neither exists nor becomes through a concept
+vocant ultimatum, sed per conceptus non ulti- which they call ultimate but through non-ultimate
+mos ipsarum vocum non solum interius appre- concepts of those sounds not only by internally appre-
+hendendo voces ipsas, sed in actu exercito, seu hending the sounds themselves but in an exercised act
+loquendo per signa mentis, quæ vocibus corre- or by speaking through the mental signs which corre-
+
+-- 7 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 8
+spondent : quod patet in interiori locutione per spond to the sounds. This is clear in internal locution
+modum optantis. Nam si consideremus, quod through the way of desiring (optantis). For if consider
+sit ultimum significatum hujus internæ locutio- what the ultimate significate of this internal locution
+nis, utinam hoc fieret : illud certe non est, nisi ‘would that this would happen’ is, it certainly is not
+desiderium voluntatis : et tamen locutio illa in in- anything other than a desire of the will. And yet that
+tellectu est, quæ fieri non potest, nisi dicto modo locution is in the intellect, which cannot happen ex-
+: ergo similiter in proposito. cept in the stated way. Therefore, likewise in the pro-
+posed case.
+7. An istud imperium ante vel post voluntatem 7. Whether that command exists before or after will-
+existat.—Non est necessarium, sed utile.—Sed quæ- ing.—It is not necessary, but useful.—But you will ask
+res, an iste actus antecedat, vel sequatur volun- whether that act precedes or follows willing. It
+tatem? Respondetur ex Augustino 8, lib. Con- is responded according to Augustine, who says in
+fess., c. 9, dicente : Imperat sibi animus ut velit, Conf. VIII, c. 9: ‘The rational soul commands itself
+qui non imperaret, nisi vellet. Hoc ergo im- to will, which could not command except it will’.1
+perium, si efficax est et verum, absolutam volun- This command, therefore, if it is efficacious and true,
+tatem supponit. Nam si fiat sine ulla voluntate, supposes a finished willing. For if it were to happen
+est fictum et tantum verba : si vero voluntas, quæ without any willing, it is imagined and mere words.
+antecedit, sit inefficax, ipsum etiam inefficax erit But if the willing which precedes is inefficacious, then
+: et ratio est, quia tota efficacia movendi est a vol- it itself will also be inefficacious. And the reason is
+untate. Dices, Ad quid ergo est iste actus? Re- because the entire efficaciousness of moving is from
+spondetur : non est quidem per se necessarius, ut the will.
+voluntas, aut exterior potentia moveatur : tum You will say: to what, therefore, is this act? It is re-
+quia voluntas antecedit, tum etiam, quia potest sponded: it is at least not per se necessary that the will
+esse motio, ut experimur : tum etiam, quia nulla or external power be moved. First, because the will-
+potentia percipit illud imperium, <col. b> nisi ing precedes. Next, also, because there can be motion,
+ipse intellectus : est tamen utilis iste actus, ut vol- as we experience. Next, also, because no power per-
+untas ipsa, et totus homo magis moveatur, vel ut ceives that command if not the intellect itself. Never-
+citius aggrediatur executionem, vel constantius theless, that act is useful for moving the will itself and
+in ea perseveret, quia dum homo sibi ita imperat the entire human being, either undertaking the execu-
+quasi supra seipsum reflectitur, et fit sibi superior tion more quickly or persevering in it with more con-
+: et denique quia ipsa locutio nescio quomodo stancy, since then the human being commands himself
+vim habet movendi et incitandi animum. in such a way as if he is reflected over himself and is
+made his own superior. And, finally, because the locu-
+tion itself somehow has the power to move and incite
+the soul.
+1 Latin text from James J. O’Donnell’s edition: ‘imperat animus ut velit animus, nec alter est nec facit tamen. unde hoc
+monstrum? et quare istuc, inquam, ut velit qui non imperaret nisi vellet, et non facit quod imperat?’
+8. Quartum probabile in hac quæstione.—Probatur 8. The fourth probable [answer] to this question.—It is
+primo.—Quartum, præter dicta judicia practica, proved, first.—Fourth, in addition to the mentioned
+et istam locutionem, nullum esse actum intellec- practical judgements and that locution, it is clear that
+tus, qui dici possit imperium, patet : quia nul- there is no act of the intellect which can be called
+lus alius actus est necessarius neque ad moven- judgement, since no other act is necessary either for
+dam voluntatem, neque ad potentiam exequen- moving the will or for executing a power. The first
+dam. Primum patet ex dictis, quia ostensum est, is clear from what was said, since it was shown that
+voluntatem vel sufficienter moveri dictis judiciis the will either is sufficiently moved by the mentioned
+practicis : vel etiam necessario, si aliquis actus practical judgements or also necessarily if some act in
+in voluntate præcedat, cum quo alius actus nec- the will precedes when by that another act has a neces-
+essariam connexionem habeat : quam connex- sary connection, which connection the intellect puts
+ionem intellectus per judicium proponit. Secun- forward through a judgement. The second is also clear
+
+-- 8 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 9
+dum patet etiam, et ostenditur argumentis pri- and was shown by the arguments for the first view.
+oris sententiæ. Et constat ex Aristotele 3, de An- And it also agrees with Aristotle in the last chapter of
+ima, cap. ult., et ex D. Thoma, illa q. 17, a. 8, ad DA III and St. Thomas in [ST IaIIæ].17.8 ad 1:1 exe-
+1, potentias exequentes non applicari immediate, cuting powers are not applied immediately except by
+nisi ab appetitu. appetite.
+1 Erroneous citation?
+9. Probatur secundo.—Confirmatur.—Præterea 9. It is proved, second.—It is confirmed.—Besides, an-
+non potest intelligi talis alius actus. Nam om- other such act cannot be understood. For every act of
+nis actus intellectus, vel est apprehensio, vel judi- the intellect is either an apprehension, judgement, or
+cium, vel locutio : et ratio est, quia intellectus es- locution. And the reason is because the intellect essen-
+sentialiter, et adæquate, est potentia cognoscitiva tially, and adequately, is a cognoscitive power. More-
+: potentia autem cognoscitiva duo tantum potest over, a cognoscitive power can effect only two things,
+efficere, nempe cognoscere quod non fit, nisi ap- namely to cognize (which cannot happen except by
+prehendendo et judicando, et exprimere quod apprehending and judging) and to express what it cog-
+cognovit, nempe loquendo : ergo, etc. Con- nized, namely, by speaking. Therefore, etc.
+firmatur, quia quidquid voluntas efficit, efficit It is confirmed since whatever will effects, it effects
+per modum potentiæ appetentis : unde si movet, in the way of a desiring power. Hence, if it moves
+et applicat exteriores potentias ad opus, id non and applies external powers to work, it does not do
+facit, neque potest, nisi appetendo et volendo that nor can it do that except by desiring and willing.
+: ergo similiter intellectus, quidquid operatur, Therefore, likewise, the intellect, whatever it does, it
+efficit per modum potentiæ cognoscitivæ : vel effects in the way of a cognoscitive power. Or, cer-
+certe si non potest illi accommodari, tanquam tainly, if it cannot be applied to that as to one cogniz-
+cognoscenti, nullo modo potest fieri, etiam ad ing, it can happen in no way. It also seems to belong
+quæstionem de nomine pertinere videtur, cui is- to the question of the name to which of those acts the
+torum actuum accommodari debeat nomen, et name and nature of command, which is to move with
+ratio imperii, quæ est movere cum ordinatione. ordination, ought to be applied.
+10. Cui actui competat nomen imperii prima as- 10. The first assertion concerning to which act the name
+sertio.—Et dico breviter primo : usum voluntatis of command is applicable.—And I say briefly, first: use
+sæpe dici imperium, id constat ex D. Thoma 1, of the will is often called command, which is based
+2, q. 71, a. 6, ad 2 et 2, 2, q. 4, art. 2, ad 2, quibus on St. Thomas in [ST ] IaIIæ.71.6 ad 2 and IIaIIæ.4.2
+locis voluntatis dicit esse imperare cæteris poten- ad 2, in which places he says that it belongs to will
+tiis, etiam intellectui. Et eodem modo, ut dictum to command the other powers, including the intellect.
+infra, unus actus <270> voluntatis imperatur ab And in the same way, as was said below, one act of the
+alio actu ejusdem, ut actus misericordiæ ab actu will is commanded by another act of the will, as an act
+charitatis : et ratio hujus locutionis sumi potest of mercy by an act of charity. And the reason for this
+ex dictis in prima sententia : et quia imperare locution can be taken from what was said in the first
+est habentis dominium : voluntas vero est, quæ view. And since to command is to have dominion. But
+quasi habet dominium omnium actionum huma- it is the will which, as it were, has dominion over all
+narum. human actions.
+11. Secunda assertio.—Dico tamen secundo : ac- 11. The second assertion.—Yet I say, secondly: An act
+tus intellectus dicitur imperium, et proprie illi of intellect is called command and the concept for this
+convenit ratio hujus vocis. Hoc vult D. Thomas, word properly agrees with it. St. Thomas wishes this
+in d. q. 17, a. 1, et patet, nam imprimis illa ac- in [ST IaIIæ].17.1. And it is clear for especially that
+tio per modum imperantis manifeste continet ra- action in the way of commanding manifestly contains
+tionem imperii, quia movet et ordinat. Patet the nature of a command, since it moves and orders. It
+etiam, quia simili modo imperamus aliis : et hoc is also clear since we command others in a similar way.
+modo videtur loqui Augustinus supra : tamen And it seems that Augustine above [in n. 2] speaks
+Aristoteles non loquitur de hoc imperio vero, sed in this way. Still, Aristotle is not speaking about
+
+-- 9 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 10
+de illo, quod simpliciter necessarium est ad actus this command, however, but concerning that which is
+prudentiæ, et exercitium virtutis. Et ideo Aris- strictly speaking necessary for an act of prudence and
+toteles tam judicium illud practicum, quod ante- exercise of virtue. And for that reason Aristotle rather
+cedit electionem, quam quod antecedit usum, vo- calls that practical judgement which precedes election
+cat imperium : et ratio est, quia imperare non est command than that which precedes use. And the rea-
+quomodocumque movere, sed movere quasi im- son is because to command is not in any way to move
+ponendo legem : intellectus autem est qui legem but to move, as it were, by imposing a law. The in-
+ponit voluntati, quoniam judicat de agendis. tellect, moreover, is what places a law on the will, be-
+cause it judges concerning what is to be done.
+12. Notatio prima.—Notatio secunda.—Sed nota 12. The first note.—The second note.—But note first that
+primo, multos in hoc fuisse deceptos, quia putant many have been deceived in this, since they think that
+de ratione imperii intellectus esse, ut necessi- it is of the nature of the command of intellect to in-
+tatem inferat voluntati; et propterea non attribu- flict necessity to the will and therefore they do not at-
+unt hanc rationem judicio practico, sed alteri tribute this nature to a practical judgement but to an-
+actui, quod falsum esse constat ex D. Thoma, other act. This is false according to St. Thomas art. 3
+art. 3 et 4, ad 2, et contra Aristotelem dicen- and 4, ad 2, and is in opposition to Aristotle who says
+tem rationem imperare voluntati regendo et ju- that reason commands the will by ruling and judging.
+dicando : et ratione constat; quia non est de ra- And it is clear by reason, since it is not of the nature of
+tione legis, ut necessitatem inferat; ergo nec de law to impose necessity. Therefore, neither is it of the
+ratione particularis imperii, quod quis sibi im- nature of a particular command which someone im-
+ponit, quod est quasi lex particularis. Et confir- poses on himself, which is, as it were, a particular law.
+matur : nam cum aliis imperamus : non infer- And it is confirmed: for when we command others,
+imus illis necessitatem. Nota secundo apud Aris- we do not impose necessity on them.
+totelem cum distinguit imperium prudentiæ a ju- Note, secondly, that with Aristotle when he dis-
+dicio, nomine imperii intelligere illud judicium tinguishes the command of prudence from a judge-
+practice practicum, quod proprie antecedit usum ment, by the name ‘command’ is understood that
+tanquam ejus regula : neque vero intelligit hunc practically practical judgement which properly pre-
+actum non esse per modum judicii : nam falsum cedes use just as its rule. But neither does he under-
+id esse constat ex dictis. Constat etiam ex verbis stand this act not to be in the mode of a judgement.
+ejus : nam dicit, illum actum esse conclusionem For that this is false is clear from what has been said.
+syllogismi practici : conclusio autem vim judicii It is also clear from his words. For he says that that
+habet, nam manifestat connexionem inter elec- act is the conclusion of a practical syllogism. But the
+tionem factam et usum, seu exercitium actionis : conclusion has the force of a judgement, for it mani-
+et hinc habet vim ad determinandam voluntatem fests the connection between an election that has been
+: nam revera si talis actus nihil denuo ostenderit made and the use or exercise of action. And hence it
+voluntati, esset inutilis : distinguit ergo hunc ac- has the force for determining the will. For in reality if
+tum a judicio, quia tota consultatio, et difficultas such an act does not show something anew to the will,
+ferendi judicium <col. b> pendet ex consulta- it would be useless. Therefore, he distinguishes this
+tione, et judicio, quod post illam sequitur : facta act from judgement, since the whole deliberation and
+autem consultatione, et judicio, jam difficultas difficulty in producing the judgement depends on the
+non est, in cognitione, sed in exequendo; et per deliberation and judgement that follow after that. But
+hæc constat, quid veritatis habeant sententiæ al- once the deliberation and judgement has been done,
+latæ. the difficulty no longer is in cognition but in execut-
+ing. And through these things it is clear what truth
+the reported views have.
+13. An usus præcedat imperium.—Uno modo im- 13. Whether use precedes command.—In one way com-
+perium præcedit.—Et ex his facile solvitur quæs- mand precedes.—And the question which St. Thomas
+tio, quam D. Thomas, art. 3 illius quæstionis 17, discusses in [ST IaIIæ].17.3 (namely, whether use pre-
+tractat : nempe an usus præcedat imperium? In cedes command) is easily solved with these. Regard-
+
+-- 10 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 11
+qua breviter nota, voluntatem uti intellectu, et ing this, note briefly: will uses the intellect and other
+aliis potentiis, quia omnis actus liber ut sic, est powers, since every act that is free as such is by will.
+a voluntate : loqui ergo possumus de usu vol- Therefore, we can speak of the use of will and the com-
+untatis et imperio intellectus, prout directe ten- mand of intellect, as they directly tend to the direction
+dunt ad directionem, seu actionem potentiæ exe- or action of the executing power. In this way it is clear
+quentis : hoc modo constat, imperium eo modo, that command in the way in which it is in intellect pre-
+quo est in intellectu, antecedere usum ratione ju- cedes use by reason of the practical judgement. This is
+dicii practici. Quod satis ex dictis patet : ratione clear enough from what was said. But by reason of
+vero illius locutionis non necessario antecedere, that locution it does not necessary precede but, as it
+sed quasi concomitanter. Notat vero D. Thomas were, concomitantly. But St. Thomas notes that that
+illud imperium, seu judicium intellectus, etiamsi command or judgement of the intellect, even if it is
+omnino practicum sit, sæpe natura tantum, non- entirely practical, often only by nature but sometimes
+nunquam vero etiam tempore antecedere usum, also in time precedes use, since either the command is
+quia vel imperium non est efficax, vel voluntas not efficacious or the will does not wish to obey but
+non vult obedire, sed mutare, vel differre elec- to change or delay election. Or perhaps, since the ex-
+tionem : vel forte, quia potentia exequens est ecuting power is is some way obstructed. Moreover,
+aliquo modo impedita. De ipso autem usu volun- concerning this use of the will, St. Thomas says that it
+tatis dicit D. Thomas, nullo modo antecedere ac- in no way precedes the action of the executive power,
+tionem potentiæ executivæ : quia omnino movet since it wholly moves that and since in the genus of
+illam, et quia in genere moris non solum est prin- morality it not only is its effective principle, but, as it
+cipium effectivum ejus, sed quasi forma, et ideo were, form, and for that reason they are thought to be
+censentur esse simili omnino. wholly similar.
+14. Alio modo subsequitur.—Si autem loquamur 14. It is pursued in another way.—But if we speak in
+posteriori modo, et consideremus ipsum im- the latter way and consider that command insofar as
+perium, quatenus actus liber est, necessario di- the act is free, it must necessarily be said to proceed
+cendum est, a voluntate procedere : atque adeo from the will. And to that extent it can be to some use
+esse potest ad aliquem usum voluntatis. Sed of the will. But it is necessary to note here that that
+oportet hic advertere, istum usum non neces- use is not necessary through a formal and express act
+sario per actum formalem, et expressum, quo by which the will wished to command the intellect,
+voluntas velit intellectui imperare, sed frequenter but frequently it happens only through a virtual use.
+fieri solum virtuali usu : nam posita intentione For by an efficacious intention of the end having been
+efficaci finis, sæpe ex vi illius applicatur intellec- posited, the intellect is often applied by the strength of
+tus ad inquirenda media. Et similiter ex vi elec- that to searching for means. And likewise it is applied
+tionis applicatur ad cogitandum de executione by the strength of election to thinking about the ex-
+ipsa, licet etiam interdum præcedere possit ille ecution itself, although sometimes that formal act of
+formalis actus voluntatis applicantis intellectum the will applying the intellect can also precede. This
+: quod maxime contingit in illo imperio, quod fit happens especially in that command which happens
+per interiorem locutionem : nam cum illud non through an interior locution. For when the former
+sit ex natura rei simpliciter necessarium : vix un- is not strictly speaking necessary by the nature of the
+quam sequitur ex virtute alterius actus, sed ex thing, it hardly ever follows by the force of another
+formali voluntate sibi imperandi, sicut contingit act, but by the formal will commanding itself, just as
+in imperio; quo aliis imperamus. Unde fit, ut happens in a command by which we command oth-
+ante hanc voluntatem debeat <271> præcedere, ers. Hence, it happens that before this will there must
+et cognitio, et judicium, et consequenter quo- precede both cognition and judgement, and, conse-
+dammodo usus. Quapropter ne in infinitum pro- quently, use in a certain way. In order not to proceed
+cedatur, in aliquo virtuali usu intellectus sisten- into infinity it must be stopped in some virtual use of
+dum est. the intellect.
+
+-- 11 of 12 --
+
+Suárez De Voluntario et Involuntario disp. 9 12
+DE LEGIBUS, LIB. 7, CAP. 1, N. 2
+<136, col. a>
+2. Secunda opinio.—Usus quid.—Superiores vero 2. The second opinion.—What use is.—But the above
+difficultates magna ex parte oriuntur ex æquivo- difficulties arise for the most part from equivocation
+catione terminorum, ideoque significationes eo- of terms and therefore their significations must first
+rum explicandæ prius sunt, ut res ipsa intelligi be explained so that the very matter can be under-
+possit. Tres ergo termini imprimis sunt notandi, stood. Therefore three terms especially need to be
+scilicet, usus, mos, consuetudo : nam in hoc noted: namely, use (usus), mos, and consuetudo. For
+conveniunt, quod solum in actibus liberis pro- they agree in this that they are properly said only of
+prie dicuntur, et quamdam inter se affinitatem free acts and they have between them a certain affin-
+et connexionem habent, et nihilominus aliquod ity and connection. Nevertheless, some distinction is
+discrimen inter illos invenitur. Usus ergo, in the- found between them.
+ologica proprietate, significat actum quo volun- Use, therefore, in its characteristic theological fea-
+tas libere exequitur quod eligit, juxta doctrinam ture, signifies an act by which the will freely executes
+D. Thomæ 1. 2, quæst. 16, per totam; et Augus- what it elects, following the doctrine of St. Thomas in
+tini, lib. 10 de Trinitate, c. 11, et lib. 83 Quæst., [ST ] IaIIæ.16 (the entire question) and of Augustine
+quæst. 30, ubi hac ratione dixit non posse uti nisi in De Trin. X, c. 11 and Quæst. LXXIII, q. 30, where
+animal quod rationis est particeps, quia solum for this reason he said that nothing can use except an
+illud libere se vel alia applicat ad operationem, animal that partakes in reason. For only it can freely
+quam applicationem usus significat. Unde fit ut apply itself or something else to action, which applica-
+usus, in philosophico rigore, dicatur de quolibet tion use signifies.
+actu utendi per se spectato, quia quilibet est lib- Hence, it happens that use, with philosophical
+era applicatio facultatis ad medii executionem, si- rigour, is said of any act of using considered per se,
+cut quicumque actus gaudii de fine adepto dicitur since it is any free application of a faculty to the ex-
+fruitio. Nihilominus tamen, communi et usitato ecution of means, just as any act of joy concerning an
+modo loquendi, usus significat similium actuum attained end is called enjoyment. Still, nevertheless, by
+frequentiam; quomodo dicitur in l. 1, tit. 2, p. 1, a common and familiar way of speaking, use signifies
+usum nasci ex his rebus quas aliquis facit longo et a frequency of similar acts, just as it is said in l. 1, tit. 2,
+continuo tempore, ut notavit ibi Greg. Lop. Ubi p. 1 that use arises from these things which someone
+hac ratione dicit usum esse quid facti, scilicet, does for a long and unbroken time, as Gregory noted
+frequentiam ipsam libere operandi circa rem ali- here in Lop. For this reason he says that use is what
+quam, eodem, seu uniformi modo. In lege autem has been done, namely, the very frequency of freely
+illa dicitur, usum esse id quod relinquitur, seu acting concerning some thing in the same or uniform
+nascitur ex illa frequentia actuum, quod statim way. But in law this is said: use is that which is left be-
+explicabitur. hind or arises from that frequency of acts (which will
+be explained at once).
+
+-- 12 of 12 --

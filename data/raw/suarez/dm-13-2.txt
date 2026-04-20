@@ -1,0 +1,269 @@
+Last revision: October 13, 2015
+Francisco Suárez, S. J.
+DM XIII.21
+© Sydney Penner 2014
+<399, col. a>2
+SECTION II.
+Whether the material cause of generable and corruptible substances
+is single or multiple.
+1. In this section and the following one we will briefly touch on
+the opinions of the ancient philosophers, whom Aristotle investi- Aristotle.
+gates more thoroughly and opposes in various places, especially in
+Metaphysics I.3 ff.; Physics I.2; On Generation and Corruption I.1
+ff.; and On the Heavens III.7. The same things can be read about
+in Diogenes Laërtius, Lives of the Philosophers; Plato, Theaetetus
+and Sophist; Plotinus Enneads 9.2; Theophrastus, <col. b> Meta-
+physics, ch 3; and Plutarch, On the Opinions of the Philosophers3
+I.3. Among the Fathers, it is touched on in Augustine, On the City of
+God at the beginning of book VIII; Epiphanius [of Salamis], Panarion
+III.80; Irenaeus, Against Heresies II.19; Clement of Rome, Recogni-
+tions; Clement of Alexandria, Stromata I; Eusebius, Preparations for
+the Gospel at the beginning of book XIV; and Ambrose, Hexameron
+I.2. The views of these philosophers can be gathered under two
+headings: one for those who posit multiple material first principles
+(which we will discuss here) and the other for those who only posit
+one but err in assigning it (which we will discuss in the following
+section).
+The view of those positing infinite material principles.
+2. The first view, then, was that the material cause of everything con-
+sists of indivisible corpuscles or atoms, which Leucippus, Democri- Leucippus.
+Democritus.
+Epicurus.
+Metrodorus.
+Anaxagoras.
+tus, Epicurus, Metrodorus, and Anaxagoras posited to be infinite.
+Almost all of them thought these corpuscles to be similar to each
+other and of the same ratio, and that they composed different beings
+1Translation is based on the 1597 edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for
+ease of reference, given that it is the most widely used edition.
+3This work is no longer thought to be by Plutarch.
+
+-- 1 of 6 --
+
+Suárez, DM XIII.2 2
+only through variety in position, figure, and order. They thought
+that corruption of things was nothing other than the scattering and
+disorder of atoms but that generation is a new composition of them.
+But Anaxagoras posited atoms that are partly similar and partly
+dissimilar, so that homogeneous things come to be from similar
+atoms and dissimilar things from dissimilar atoms as in the case of
+heterogeneous parts of organic bodies (for example, flesh from flesh
+atoms, but bone from bone atoms, and so on for the others).
+In turn, certain of them seem to have posited these atoms as
+wholly indivisible. For this reason, in order so that those atoms can
+compose a body, they said the body coalesces not only from those
+atoms but also from some emptiness or void. For if they were all
+immediately and solidly conjoined, a large mass would never accrete,
+as is taken from Aristotle, Metaphysics I.4. But others seem not to
+have thought them mathematically indivisible but only physically
+indivisible. According to this interpretation it is not necessary to
+place some void between those atoms in order for the magnitude of
+a body to increase from them.
+In turn, some of these philosophers did not posit any efficient
+cause beyond these atoms nor any final cause. Rather, they thought
+that some things dissolve from the various coming together of these
+atoms and from their perpetual movement, and other things spring
+up by chance. And for this reason, as <400> Aristotle relates, Epi- In the cited places and
+in Metaphysics IV.1.	curus said that these corpuscles have a natural weight by which all
+things are brought about. But others, such as Anaxagoras, posited
+an efficient cause acting with intellect and will, and composing
+different things from these corpuscles.
+3. But that part pertains to the disputations about the efficient The proposed view is
+refuted.	and final causes. Now, as far as the present issue is concerned,
+these philosophers do not, in the first place, think that there is a
+true material cause, which is a potency physically receptive of any
+act. For those atoms are not in potency to receiving some physical
+form. Nor can they be called the matter of a whole composite except
+in the way in which integral parts are called the matter of the whole
+and the way in which stones and wood are called the matter of a
+house.
+A further result is that according to that way of philosophizing
+the forms of natural beings are, as it were, only artificial forms,
+namely, a kind of figure arising from the different positions and
+orderings of atoms. And thus there will be no true substantial The absurdity following
+from a view asserting
+that atoms are the
+material cause.
+generation and corruption, but only various coordinations and
+dissolutions of atoms. And, although Anaxagoras posits atoms
+
+-- 2 of 6 --
+
+Suárez, DM XIII.2 3
+of different rationes, nevertheless, it is necessary to posit all [of
+them] confused and mixed together in individual things so that
+through their being drawn out one thing can be generated from
+another. And thus all things differ only in that certain things have
+certain atoms more openly or in more exterior parts while others
+are more concealed or in more hidden parts, which difference is
+only one of position and coordination of atoms. Add that it cannot
+be understood how such different corpuscles having repugnant
+conditions are intimately conjoined in individual things. It is no less
+inexplicable how these hidden corpuscles could be brought to light
+from some thing or other so that other things seem to be generated
+or, rather, composed.
+4. Another thing that is absurd in all these philosophers is
+that they posit an infinite multitude of these corpuscles. For either
+they think that there is an infinite multitude of these atoms in
+individual natural entities or only in the whole universe while there
+is only a finite multitude in individual bodies or their parts. The
+view in the former sense is utterly absurd. For it cannot be that
+infinite atoms compose some body, unless they grow into an infinite
+magnitude. For if <col. b> atoms are not fashioned mathematically
+indivisible but physically indivisible, each will have some magnitude.
+Either they will all have equal magnitude, since there is no ratio of
+inequality, or at least a minimal atom can be assigned to which all
+the others will be equal or greater. Therefore, an infinity of atoms of
+this sort necessarily compose an actually infinite magnitude.
+But if the atoms are mathematically indivisible, they cannot
+compose a magnitude except empty space be interposed, which
+space will be divisible and of some magnitude. From this it is
+likewise concluded that an infinity of atoms thus distant from each
+other necessarily effect an infinite body, occupying or including
+infinite space, partly empty and partly filled with atoms.
+Nor can a counterexample be produced from the infinite points
+existing in a line. For in that case there are no immediate points,
+since the whole line is continuous. But in the case of the atoms
+it would be necessary—given that any designated atom be some
+proximate distance from it through a some certain and definite
+distance and so on for the remaining ones—it would therefore be
+necessary that those infinite corpuscles occupy infinite space in
+that way.
+5. But the view taken in the latter sense is also improbable.
+In the first place, all the things that Aristotle writes in Physics III
+and On the Heavens I against the infinite magnitude of the world
+
+-- 3 of 6 --
+
+Suárez, DM XIII.2 4
+go against it. Furthermore, it is evident that the whole sphere
+of generable and corruptible things is finite, since it ends at the
+sphere of the moon. To attribute a composition from atoms to the
+heavens and to extend those to infinity cannot be philosophical,
+since neither experience nor reason can lead us to thinking that.
+Finally, if some body of finite magnitude is constituted of only
+a finite number of atoms, then this fashioning of atoms cannot
+suffice for the generations and corruptions of things. First, because
+almost an infinite variety of things can be generated from the same
+thing. Also, because the magnitude of a body must always be
+greatly diminished in any generation and corruption through the
+dissipation of atoms, yet experience makes clear that that does not
+always happen. Unless perhaps it is said that a certain rotation of
+atoms, as it were, always comes to be, while the interior atoms are
+drawn out to the external parts while the exterior ones are pushed
+to the inmost parts, and for that reason the magnitude of the thing
+is not diminished. But nothing could be more absurd than this.
+For whence does it happen that nothing of the thing itself can be
+changed except according to place or external appearance. And
+that drawing out and pushing in of atoms is contrary to experience.
+<401> For when fire is generated from flax, the generation happens
+not only in the exterior parts but in the inmost parts and in the
+whole magnitude. And when a human being dies, the corruption
+happens in all the parts, in the internal parts as much as in the
+external parts. This view, therefore, is utterly absurd. Nor does
+it have any foundation that is necessary to address. For we will
+explain later what the true sense is of the principle ‘out of nothing
+nothing comes’, the principle in which the cited philosophers are
+grounded as much as others.
+The opinion of those positing multiple but finite principles.
+6. The second view also posits multiple principles or multiple
+first material causes of generable things, but only a finite number.
+Empedocles thinks this. He says that the four elements—fire, air, Empedocles.
+water, and earth—are the four first material causes out of which
+mixtures are generated. But those four do not have a prior cause or
+material principle.
+Nevertheless, this view is false and can obviously be refuted. The preceding view is
+refuted.	For in the first place, although it touches on the composition or
+generation of mixtures from elements, it does not, however, consider
+the transformation of the elements into each other. Yet it is clear
+
+-- 4 of 6 --
+
+Suárez, DM XIII.2 5
+that air is converted into fire and water into earth and conversely.
+But the elements cannot be the material principle of this kind of
+transformation. Rather, there must be some subject common to all
+of them.
+But perhaps Empedocles thinks that the elements are not trans-
+formed substantially and for this reason are not constituted of
+matter and substantial form but are a kind of wholly simple being
+subject to accidents. But against this we will in the first place show
+below that it is no less certain that there are substantial forms of
+the elements than of any other natural beings and, consequently,
+that they are truly and substantially transformed into each other.
+Furthermore, even if we were to admit that [the elements are not
+transformed substantially], that would be no reason to multiply
+material principles or first substantial subjects. Rather, one should
+then say that there is one and the same substantial subject in all
+the elements, which is called distinct elements when affected by
+different accidents. And since that subject would also be the mate-
+rial principle of mixtures, the result is that in the thing itself and
+substantially there is only one first material cause for all things.
+7. But suppose Empedocles were to say that that diversity
+of natural accidents <col. b> that is observed in the elements
+sufficiently indicates an essential distinction between substantial
+subjects. From this is taken an effective argument ad hominem.
+When air is transformed from fire such that it remains affected by
+the proper accidents of the fire, not only does a change happen
+in the accidents but also in the substance itself. But it cannot
+happen in the whole substantial entity on account of the reasons
+given in the section above concerning annihilation and creation.4 It
+is necessary, therefore, also to admit that there is in the elements
+some subject prior to them and common to them by reason of
+which they can be mutually transformed. Therefore, they are not
+first material causes, but something else is prior to them out of
+which they are constituted. And from this it is also concluded that
+these elements are not the first material causes of mixtures, since
+in them themselves is given a prior matter for them. That prior
+matter is also a material cause of the mixtures, since it remains
+in them and is informed by their forms. That, therefore, is also
+the first cause in that order of the mixtures, especially in view of
+the fact that according to the true view the elements do not remain
+formally in the mixture. That is, they do not remain according to the
+proper substantial forms, since the substantial form of a mixture
+4DM 13.1.6.
+
+-- 5 of 6 --
+
+Suárez, DM XIII.2 6
+cannot fall (if I may speak in this way) above the form of an element
+or inform matter as already informed by the form of an element.
+Therefore, the elements according to their proper substances are
+not enduring and proper material causes of mixtures. But the same
+matter that is the first material cause of the elements themselves is
+also the first material cause of the mixtures.
+The resolution of the question.
+8. It should be said, therefore, that there is only one prime matter or
+first material cause of all sublunar things. This is the common view
+of all the philosophers to whom we refer in the following [sections]. It
+is sufficiently proven by the argument already made against Empe-
+docles and by the latter discussion given in the previous section,
+where we show from the common and mutual transformation of
+sublunar things that there is a common matter. For that argument
+equally proves that the subject that remains under all these trans-
+formations is only one, both because the contrary principles from
+which generations and corruptions come about must concern the
+same thing and also because that subject is of itself indifferent to
+any forms whatsoever of corruptible things and to their dispositions.
+And therefore no distinction or multiplication in it is required. In
+fact, there is nothing from which it would have that. Conversely,
+every <402> form of a generable thing of any species can be intro-
+duced in any part whatsoever of this matter, if it is appropriately
+disposed. This is a sign that this matter in itself is one and of the
+same ratio and sufficient in its genus for causing all the effects that
+can be materially caused in these things if the other causes in the
+other necessary genera are applied or concur.
+9. The only possible objection is that, since the material cause An objection is
+addressed.	is intrinsic and essential and since these generable and corruptible
+things are essentially diverse, therefore one and the same matter
+cannot be in all of them. But this objection touches on the question
+whether matter is a part of the quiddity of material substances.
+We will discuss this question below in the more appropriate place. DM 39.2.
+For now it is briefly responded that the essences of these material
+things are diverse or dissimilar with respect to forms but similar
+with respect to prime matter. Nor does this pose any obstacle
+to essential difference. For essential diversity does not exclude
+agreement and similarity in some part.
+
+-- 6 of 6 --

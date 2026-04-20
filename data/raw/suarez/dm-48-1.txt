@@ -1,0 +1,653 @@
+Last revision: August 17, 2011	Francisco Suárez, S. J.
+DM XLVIII, SECT. 11
+© Sydney Penner 2011
+<867, col. b>2
+DISPUTATIO XLVIII. DISPUTATION XLVIII.
+De actione. On action.
+1. De sex ultimis generibus accidentium perpauca docuit 1. Aristotle says very little about the last six genera of accidents, whether Aristotle.
+Aristoteles. Aristoteles, tam in Dialectica, quam in Metaphysica: sola in the logical works or in Metaphysics, for he was content with merely enu-
+5 enim eorum numeratione contentus fuit. Immo in 5. Meta- 5R merating them. Indeed, in Metaphysics V, ch. 7, he omits having and po-
+physicae cap. 7. ita ea numerat, ut habitum, et situm omittat: sition when enumerating them. Here the Commentator says in com. 14: Commentator.
+Commentator. ubi Commentator com. 14. ait: Tacuit praedicamenta situs et ‘He passes over position and having in silence because of the brevity of the
+habitus propter abbreviationem sermonis, vel quia latent. De discussion or because they escaped his notice’. But concerning the other
+aliis vero quatuor multa sumi possunt ex Aristotele in libris four, more can be gathered from Aristotle in the Physics, for he deals with
+10 Physicorum: nam de actione et passione agit in tertio, de tem- 10R action and passion in the third book and with time and place in the fourth
+pore et loco in quarto. Hic vero a nobis tractanda sunt latius book. But we will here discuss them more broadly and abstractly as the
+et abstractius, prout ratio Metaphysica postulat. Et quamvis metaphysical notion [of them] requires.
+de his praedicamentis generatim tractari soleat, an sint abso- Although usually these [last six] categories are treated generally
+lutum quid, vel respectivum, aut mixtum ex utroque, et an (whether they are something absolute or respective or a mixture of both,
+15 sint res vel modi distincti a reliquis, tamen haec melius ex- 15R and whether they are things or modes distinct from the rest of the cat-
+plicabuntur in singulis horum praedicamentorum, quia ex- egories), these issues will be better explained in each of these categories
+istimamus nullam esse realem rationem communem his om- individually. For we think that there is no real common ratio for all and
+nibus praedicamentis, et illis solis, de qua possint illae com- only these categories about which these common questions can be dis-
+munes quaestiones tractari: est autem res valde confusa et cussed. To dispute something generally about distinct things insofar as
+20 operosa de rebus distinctis ut distinctae sunt aliquid commu- 20R they are distinct is, moreover, a very confusing and laborious matter, on
+niter disputare, propter hanc solam extrinsecam denomina- account of this only extrinsic denomination by which these mentioned
+tionem qua haec genera dicta sunt sex ultima praedicamenta. genera are the last six categories.
+Cur de actione
+ante alia sermo
+sit.
+2. Igitur de actione, quam semper Aristoteles primo 2. About action, then, which Aristotle always lists in the first place Why action is
+discussed before
+the others.
+loco numerat inter haec, multa dicta sunt a nobis in supe- among these six categories, we have already said a good deal in earlier
+25 rioribus, cum de causa efficiente ageremus. Nam, cum actio 25R sections when dealing with the efficient cause.3 For, since action is the
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in vol. 26 of the Vivès edition for ease of reference, given that it is the most widely used edition.
+3DM XVII–XXII are about the efficient cause.
+
+-- 1 of 15 --
+
+Suárez, DM XLVIII, sect. 1 2
+sit causalitas causae efficientis, ut ibi diximus, necessarium causality of an efficient cause, as we said there,4 it was necessary to say
+fuit de actione dicere quidquid ad intelligendam causalitatem about action whatever was necessary for understanding the causality of
+Actio unum entis
+genus.
+illius causae fuit necessarium. Sumendum ergo hic est ex that cause. We should assume here, then, from among the things said Action is one
+genus of being.	ibi dictis, actionem esse aliquid in rerum natura, contentum there, that action is something in rerum natura, contained in the breadth
+30 in latitudine entis, et ex natura rei distinctum a re quae per 30R of being, and ex natura rei distinct from the thing that comes about
+illam fit; quae cum ibi sint satis probata, hic repetere non through it.5 Since these claims where sufficiently proven there, it is not
+est necesse, quamquam necessarium saepe erit haec iterum necessary to go over that here, although it will ofter be necessary to drive
+atque iterum inculcare. Et ex his etiam supponimus ut cer- them home again and again.
+tum, actionem esse quid distinctum a caeteris praedicamen- And from these we also assume as certain that action is something dis-
+35 tis, praeterquam a passione, de qua, et de distinctione inter il- 35R tinct from the other categories, except from passion (we will speak about
+las dicemus disputatione sequenti; et a quando; de quo est pe- passion and the distinction between passion and action in the following
+culiaris difficultas communis omnibus praedicamentis, quo- disputation), from when (concerning which there is a special difficulty
+modo distinguatur ab illis, quam in suum locum reservamus, common to all the categories—how it is distinguished from them—which
+et a relatione, quod infra tractandum est, quia aliqua <868> we reserve for its place), and from relation (which is to be discussed be-
+40 declaratione indiget. De caeteris vero res est clara, nam ad 40R low, since it requires a certain explanation). But the matter is clear with
+substantiam, quantitatem, qualitatem, et ubi comparatur ac- respect to the other categories, for action is related to substance, quantity,
+tio, ut ad terminos suos; et ideo probata distinctione actionis quality, and place as to its termini. For that reason, proving that action
+a termino, probata est distinctio ab his praedicamentis: cum is distinct from its terminus is to prove that it is distinct from these cate-
+habitu vero et situ nullam habet similitudinem, nedum iden- gories. And since having and position have no similarity to action, much
+45 titatem: quod si illa considerentur quatenus per actionem 45R less do they have identity. But if these were considered insofar as they
+aliquo modo fieri possunt, erit eadem distinctio actionis ab can be brought about in some way through action, they will be distinct
+his, quae est ab aliis terminis. His ergo suppositis superest, from action in the same way that action is distinct from its other termini.
+ut distinctius explicemus communem essentiam actionis, et Assuming these points, what remains is to explain more distinctly the
+causas ac principia eius, ac deinde divisiones eius tradamus, common essence of action, its causes and principles, and finally to discuss
+50 singula membra declarando, quantum intra limites obiecti 50R the divisions of action by explaining the individual members insofar as
+Metaphysicae continentur. they are contained within the boundaries of the object of metaphysics.
+SECTIO 1. SECTION 1.
+Utrum actio essentialiter dicat respectum ad principium agendi. Whether action essentially expresses a respect to the principle of acting.
+Quae ratio
+dubium possit
+ingerere.
+1. Ratio dubitandi est, quia actio essentialiter videtur dicere 1. The reason for doubting is that an action seems essentially to express What argument
+could force a
+doubt.
+55 respectum ad agens, sine quo nec intelligi potest, nec a pas- 55R a respect to an agent, without which it is unintelligible and cannot be
+sione distingui. In contrarium autem est, quia si relatio con- distinguished from passion. But to the contrary, for if relation constitutes
+4DM XVIII.10.
+5DM XVIII.10.8.
+33 Et ] om. V.
+
+-- 2 of 15 --
+
+Suárez, DM XLVIII, sect. 1 3
+stituit speciale genus praedicamentale, non potest in essentia a special categorical genus, then it cannot be included in the essence of
+alterius praedicamenti includi. another category.
+Divisio relationis in extrinsecus, et intrinsecus advenientem ex- The division of relations into extrinsically occurring and intrinsically occur-
+penditur. ring.
+2. Hoc loco tractanda nobis ex professo est opinio Scoti 2. The opinion of Scotus in distinguishing between extrinsically oc-
+distinguentis relationem, in extrinsecus et intrinsecus adve- curring and intrinsically occurring relations—which we earlier left for
+5 nientem, quam supra in hunc locum remisimus. Illas rela- 5R now6—needs to be discussed explicitly here. Those relations are called
+tiones vocat intrinsecus advenientes quae necessario consur- intrinsically occurring that arise necessarily once the foundation and ter-
+gunt positis fundamento et termino; et ideo vocat intrinse- minus have been posited. They are called intrinsically occurring because Descriptions of
+each kind of
+relation
+according to
+Scotus.
+cus advenientes, quia quasi intrinsece pullulant positis fun- they grow out intrinsically, as it were, once the foundation and terminus
+Utriusque
+relationis
+descriptio
+secundum
+Scotum.
+damento et termino. Et hos respectus dicit esse posse pro- have been posited. Scotus says that these respects can be the proper rela-
+10 prias relationes quae constituunt praedicamentum Ad aliq- 10R tions that constitute the genus toward something (ad aliquid). Moreover,
+uid. Respectus autem extrinsecus advenientes appellat eos, he labels those respects extrinsically occurring that do not necessarily fol-
+qui non neccesario sequuntur ex positione alicuius funda- low from the placing of some foundation and terminus. Action—our ob-
+menti et termini, ut est actio, in qua versamur, nam posito ject now—is an example, for a respect of action does not intrinsically arise
+igne et ligno non statim insurgit intrinsece respectus actio- at once from positing fire and wood, since they might not have been put
+15 nis, quia possunt non esse applicata, vel potest esse interiec- 15R into contact or some obstacle might have been put between them that
+tum obstaculum quod actionem impediat. Immo etiam posi- blocked the action. In fact, even positing all the requisites and remov-
+tis omnibus requisitis, et ablatis omnibus impedimentis, stat ing all impediments, it is still not the case that the action follows. This
+non sequi actionem, ut patet in agente li- <col. b> bero, et in is clear in the case of free agents, but even in the case of natural agents
+agente etiam naturali posset id accidere de potentia absoluta, this could happen by [God’s] absolute power merely by removing God’s
+20 secluso solo Dei concursu. Hoc autem non potest accidere 20R concurrence. This cannot, however, happen in the case of intrinsically oc-
+in relationibus intrinsecus advenientibus; et ideo merito vo- curring relations. And for this reason the second kind are rightly called
+cantur illi respectus, extrinsecus advenientes, tum ut a pri- respects that are extrinsically occurring, both as distinguished from the
+oribus distinguantur, tum etiam quia si non pullulant intime former kind and also because if they do not grow out from within the
+ex fundamento, necesse est ut illi extrinsecus adveniant. Et foundation, they necessarily occur extrinsically to it.
+25 de his respectibus ait Scotus, nec pertinere ad praedicamen- 25R Scotus says about extrinsically occurring respects that they do not be-
+tum ad Aliquid, nec constituere unum aliquod praedicamen- long to the category toward something, nor do they constitute some one
+tum, sed plura: cuius rei nullam reddit rationem, sed solum category, but multiple ones. He provides no argument for this, but only
+auctoritatem eorum qui decem praedicamenta distinxerunt. the authority of those who distinguished ten categories. An argument
+Potest autem reddi, quia priores relationes sicut conveniunt can be provided, however, since the first kind of relations so converge in
+30 in modo resultandi ex fundamento et termino, ita habent 30R the way that they result from the foundation and terminus that they have
+communem quamdam et univocam rationem relationis, et a certain common and univocal ratio of relation—they do not have any
+6DM XLVII.4.12. Footnote 11 in Doyle’s translation of this text usefully cites some of the relevant passages from Scotus.
+12 ex positione ] expositione A.
+
+-- 3 of 15 --
+
+Suárez, DM XLVIII, sect. 1 4
+non habent aliud munus nisi referre, et ideo illae consti- function (munus) other than to refer7—and for this reason they constitute
+tuunt speciale praedicamentum relationis. At vero posteri- a special category of relation. The latter kind of relations, on the other
+ores relationes, sicut adveniunt extrinsecus, ita variis modis hand, just as they occur extrinsically, so they are also conferred in dif-
+35 et ad varia munera conferuntur: ideoque et habent modum 35R ferent ways and for different functions. For this reason they also have a
+omnino diversum a prioribus relationibus, et inter eas sunt mode completely different from the first kind of relations and are even
+etiam varia genera primo diversa. themselves divided into utterly different genera.
+3. Hanc sententiam ex professo tractat Scotus in 4. dist. 3. Scotus explicitly discusses this view in IV, dist. 13, q. 1, §ad huius
+13. q. 1. §. ad huius autem, et eamdem tetigit dist. 6. q. 10. et autem, and touches on it in IV, dist. 6, q. 10, and in III, dist. 11, q. 1. Ac-
+40 in 3. dist. 11. q. 1. Iuxta quam docet actionem esse quem- 40R cording to this he teaches that action is a kind of extrinsically occurring
+dam respectum extrinsecus advenientem. Et fundamentum respect. The foundation for this view can be that action expresses a real
+eius esse potest, quia actio dicit respectum realem ad agens, respect to the agent (as the first reason for doubting showed) but does not
+ut prima ratio dubitandi ostendit, et non dicit relationem express a categorical relation (as the second reason for doubting proved).
+praedicamentalem, ut probat posterior ratio dubitandi: ergo Therefore, it expresses a respect of a different ratio, which is best indi-
+45 dicit respectum alterius rationis, qui optime declaratur illa 45R cated by the term ‘extrinsically occurring’, as was explained above. Nor
+voce extrinsecus advenientis, ut supra declaratum est. Nec does it satisfy if someone says that action expresses a respect according to
+satisfaciet qui dixerit, actionem dicere respectum secundum being said (secundum dici),8 since action and passion are not distinguished
+dici, quia actio et passio non tantum distinguuntur secun- merely according to being said or being signified, but in the formal ratio
+dum dici aut significari, sed in ipsa ratione formali signifi- that is signified itself. Nor are they distinguished other than by a respect.
+50 cata; et non distinguuntur nisi in respectu: ergo ille respectus 50R Therefore, that respect is not merely according to being said. For, as we
+non est tantum secundum dici, quia ut supra dictum est, esse said earlier,9 to be a respect according to being said is not to be a respect;
+respectum secundum dici, non est esse respectum, sed sig- rather, it is to be signified in the way a respect is signified. Therefore, [the
+nificari ad modum respectus: est ergo respectus secundum respect that distinguishes an action] is a respect according to being.
+esse. Et confirmatur, nam de intrinseca ratione actionis est It is confirmed: for it belongs to the intrinsic ratio of an action to
+55 ut sit emanatio et causalitas agentis: unde essentialiter est 55R be the emanation and causality of an agent. Hence, it essentially is that
+quid medians inter agens et effectum, ab utroque pendens, et which mediates between the agent and the effect, depending on both and
+constituens inter illa veluti oppositionem quamdam, sed hoc constituting a kind of opposition, as it were, between them. But this only
+solum est de ratione respectus secundum esse, ergo. <869> belongs to the ratio of a respect according to being. Therefore.
+Quomodo Scoti sententia ab aliis impugnetur. How Scotus’s view is attacked by others.
+4. Hanc vero Scoti sententiam primum impugnant Thomis- 4. But the Thomists attack this view of Scotus’s first with respect to that
+tae quoad illam generalem distinctionem relationum in in- general distinction between intrinsically occurring and extrinsically oc-
+trinsecus et extrinsecus advenientes, ut videre licet in Her- curring relations, as may be seen in Hervaeus, Quodlibet 7, q. 14; Sonci- Hervaeus.
+Soncinas.	5	Hervaeus.
+Soncinas.
+vaeo, Quodlibet 7. q. 14. Soncinate 5. Metaphysicae q. 39. et 5R nas, Metaphysics V, q. 39; and Soto in Categories in the chapter on [the cat-
+Soto in Praedicamentis cap. de Ad aliquid, et 5. Physicorum egory] toward something, and in Physics V, q. 2, art. 2. The primary rea-
+7See DM XLVII.4.10.
+8For Suárez on relations according to being said, see DM XLVII.3.6–9.
+9DM XLVII.3.8.
+
+-- 4 of 15 --
+
+Suárez, DM XLVIII, sect. 1 5
+q. 2. art. 2. Et praecipua ratio impugnationis est, quia si son for the objection is that if these extrinsically occurring respects were
+isti respectus extrinsecus advenientes, sunt veri respectus se- true respects according to being, as Scotus seems to suppose, they would
+cundum esse, ut Scotus supponere videtur, essentialiter et essentially and univocally fit the ratio of a respect to something else. For a
+10 univoce conveniunt in ratione respectus ad aliud: nam sola 10R difference in the mode of origin or production or resulting only, although
+differentia in modo originis seu productionis aut resultan- it indicates some essential difference, does not, nevertheless, stand in the
+tiae, quamquam indicet aliquam diversitatem essentialem, way [of these extrinsically occurring respects being respects univocally
+non tamen impedit, immo supponit convenientiam aliquam with other respects]. In fact, it presupposes some common and essential
+communem et essentialem, quam oportet esse univocam, agreement that must be univocal since there is no ratio of analogy here.
+15 quia nulla ibi est ratio analogiae: erunt ergo omnes hae re- 15R All these relations, therefore, will belong to the same genus and, conse-
+lationes eiusdem generis, et consequenter eiusdem praedica- quently, to the same category. For neither can any reason be given why
+menti: Neque enim reddi potest ratio, cur illae differen- those differences, since they are essential, would not be true differences,
+tiae, cum essentiales sint, non sint verae differentiae, cum since they are not themselves relations. Otherwise, someone might also
+ipsae non sint relationes: alioqui etiam posset quis dicere say that mutual and non-mutual relations and other similar cases divide
+20 relationem mutuam et non mutuam, et similes distingui 20R into different categories.
+praedicamento.
+5. In qua impugnatione statim occurrit difficultas, quia 5. There is immediately a difficulty with this objection, since an anal-
+simili ratione probabitur, relationes transcendentales non ogous argument would prove that transcendental relations either are not
+esse veros respectus secundum esse, aut pertinere ad praedica- true respects according to being10 or belong to the category of relation.
+25 mentum relationis; cum tamen in superioribus ostender- But, nevertheless, we showed in earlier sections11 that it cannot be denied
+imus, non posse negari, hos respectus transcendentales esse 25R that these transcendental respects are true and according to being. Indeed,
+veros, et secundum esse. Et quidem, si Scotus per rela- if Scotus had not understood anything other than transcendental respects
+tiones extrinsecus advenientes non intellexisset nisi respectus by ‘extrinsically occurring relations’, there would not be much need to
+transcendentales, non esset cum eo multum contendendum contend with him over the name ‘extrinsically occurring relations’, even
+30 de nomine relationis extrinsecus advenientis, etiamsi ab illo if one should rightly be cautious with him, as I will now say. For as far
+merito cavendum sit, ut statim dicam: nam quod ad rem at- 30R as the issue is concerned, we cannot deny that there are transcendental
+tinet, non possumus negare respectus transcendentales, tum respects, both in other things (as was seen during the course of the pre-
+in aliis rebus, ut in discursu praecedentis disputationis, et ceding disputation12 and in the whole work) and also in action (as is to
+totius metaphysicae visum est, tum etiam in actione, ut iam be shown now). Nor does the aforementioned objection have any force
+35 ostendam. Neque contra hoc vim habet dicta impugnatio, against this, since the concept itself of transcendental respects is transcen-
+quia conceptus ipse respectus transcendentalis, transcenden- 35R dental and runs through all beings, especially all created beings, which
+talis est, et omnia entia percurrit, praesertim creata, quod is more indisputable about incomplete and imperfect beings. Therefore,
+magis indubitatum est de entibus incompletis ac imperfectis: a more abstract concept—namely, respect in general, as it abstracts from
+10The horn taken by at least some Thomists.
+11DM XLVII.3.11.
+12DM XLVII.
+9 et ] om. V.
+15 ibi est ] est ibi V.
+
+-- 5 of 15 --
+
+Suárez, DM XLVIII, sect. 1 6
+ergo multo magis conceptus abstractior, scilicet, respectus transcendental and categorical—much more cannot be generic, but (if I
+40 in communi, ut abstrahit a transcendentali et praedicamen- may speak in this way) is supertranscendental. These are separated, there-
+tali, non potest esse genericus, sed (ut ita dicam) supertrans- 40R fore, as utterly diverse, as is clear from what was said about the category
+<col. b> cendentalis. Separantur ergo haec tamquam primo toward something.13
+diversa, ut constat ex dictis in praedicamento Ad aliquid.
+Qua ratione reiicienda sit dicta opinio Scoti. For what reason the mentioned opinion of Scotus is rejected.
+6. At vero, si Scotus per relationem intrinsecus, et extrin- 6. On the other hand, if Scotus means something other than transcenden-
+secus advenientem aliquid aliud praeter respectum transcen- tal and categorical relations through ‘intrinsically occurring’ and ‘extrin-
+dentalem et praedicamentalem intelligit, non possumus illi sically occurring’ relations, then we cannot agree with him. And then the
+5 consentire, et tunc argumentatio facta, non est parum effi- 5R argument that was made is not a little effective, since, if an extrinsically
+cax, quia cum relatio extrinsecus adveniens non sit respectus occurring relation is not a transcendent respect, it expresses a determinate
+transcendens, dicet determinatum modum relationum: cur mode of relations. Why, then, not call it a special genus of real relations,
+ergo non dicet speciale genus relationis realis, et commune both generally univocal and in the manner of determinate nature, and
+univoce, ac per modum naturae determinatae, et contentum contained under a more universal genus? Next, there is no reason why
+10 sub genere universaliori. Deinde, non est cur Scotus has rela- 10R Scotus should limit the relations that he calls extrinsically occurring to
+tiones, quas extrinsecus advenientes vocat, ad sola sex ultima only the last six categories. For according to his view union is an extrin-
+praedicamenta limitet. Nam unio ex eius sententia est re- sically occurring relation and yet it is not in any of the last six categories,
+latio extrinsecus adveniens, et tamen non est in aliquo sex but is reduced to the category of form that is united, as was shown ear-
+praedicamentorum, sed reducitur ad praedicamentum for- lier. But if perhaps he says that all these categories express or include this
+15 mae quae unitur, ut supra ostensum est. Quod si forte di- 15R respect, but, nevertheless, it is not conversely the case that every extrin-
+cat omnia haec praedicamenta dicere vel includere hunc re- sically occurring respect belongs to the last six categories, then, first, a
+spectum, non tamen e converso omnem respectum extrinse- reason would need to be given for this thing. Second, it would be easier
+cus advenientem pertinere ad sex ultima praedicamenta: Pri- to say that these categories include transcendental respects that are utterly
+mum oportuisset huius rei rationem reddere. Deinde facilius diverse from categorical respects.
+20 dicere posset, haec praedicamenta includere respectus tran-
+scendentales, et primo diversos a praedicamentalibus.
+7. Ulterius autem inquiro de appellatione ipsa. Cur, scil- 20R 7. Furthermore, I ask about the appellation itself. Why, namely,
+icet vocet hunc respectum extrinsecus advenientem. Nam call this respect ‘extrinsically occurring’? For the argument given above
+certe ratio supra data, et exemplum de actione non videtur and the example about action certainly do not seem to suffice. For a re-
+25 sufficere: quia relatio propinquitatis inter Petrum et Paulum lation of nearness between Peter and Paul is thought to be a categorical
+praedicamentalis censetur, et tamen non statim sequitur pos- relation and yet it does not immediately follow once Peter and Paul have
+ito Petro et Paulo in rerum natura, nam in illis tantum 25R been posited in rerum natura. For there is only a remote, as it were, foun-
+est fundamentum quasi remotum, et oportet aliud adiun- dation in them and something else must be added that is the proximate
+gere, quod sit proxima ratio fundandi et quasi excitandi re- reason of founding and stirring up, as it were, of the relation.14 This very
+13See, especially, DM XLVII.4.16.
+14On the reason of founding, see DM XLVII.7.10–14.
+
+-- 6 of 15 --
+
+Suárez, DM XLVIII, sect. 1 7
+30 lationem. Hoc autem ipsum invenitur inter rem quae agit, thing, moreover, is found between the thing that acts and the thing that
+et quae patitur, quia non consurgit respectus inter illas, nisi is acted on, since a respect does not arise between them except by the in-
+interveniente aliqua mutatione, et aliquo novo modo in ali- 30R tervention of some change and some new mode in something of them.
+qua illarum: quae mutatio non est ipsa relatio, sed est aliquis This change is not the relation itself, but is some mode of the thing, even
+modus rei, etiamsi includat respectum transcendentalem, vel if it includes a transcendental respect or if a categorical respect follows
+35 ad illum consequatur respectus praedicamentalis. At vero si- on it. On the other hand, just as in other things by positing a necessary
+cut in aliis rebus, posito motu, vel mutatione necessaria, sta- motion or change, a relation immediately arises, so also here once the
+tim consurgit relatio, ita etiam hic posita actione, nec am- 35R action has been posited nothing more is necessary other than that the ac-
+plius est necessa- <870> rium, nisi ut ipsa actio fiat. Quod tion itself come about. This is not enough for that respect to be called
+non satis est, ut ille respectus dicatur extrinsecus adveniens, extrinsically occurring, for this is found in nearly all categorical relations.
+40 nam fere in omnibus relationibus praedicamentalibus hoc For example, not just action but also the power itself cannot be referred
+reperitur. Ut verbi gratia non solum actio, sed etiam ipsa to its object nor knowledge to the knowable unless it first comes about in
+potentia non potest referri ad suum obiectum, nec scientia 40R rerum natura. And when it comes about, it does not come about without
+ad scibile, nisi prius fiat in rerum natura, et cum fit, non fit a transcendental respect.
+sine respectu transcendentali.
+45 8. Quod ultimo sic declaro, nam vel Scotus loquitur de 8. I explain this, lastly, as follows: for either Scotus is speaking about
+relatione agentis ad passum vel effectum, vel de respectu ip- a relation of the agent to the patient or effect or he is speaking about
+siusmet actionis ad principium agendi. Si primum, falsum a respect of the very action to the principle of acting. If the first, it is
+est, illum respectum includi in actione, nam potius resultat 45R false that that respect is included in action, for it rather results from the
+ex actione: falso etiam dicetur extrinsecus adveniens, nam action. It would also be false to call it extrinsically occurring, for that re-
+50 posito fundamento cum sua proxima ratione fundandi, et ter- lation arises necessarily once the foundation has been posited along with
+mino, necessario surgit illa relatio: quae omnia constant ex the proximate reason of founding and the terminus. All of this is clear
+dictis de praedicamento ad aliquid. Si vero loquitur de re- from what was said about the category towards something. But if he is
+spectu ipsiusmet actionis; cui, quaeso, extrinsecus advenit? 50R speaking about a respect of the very action, to what, I ask, is it extrin-
+num ipsi actioni? at est intrinsecus et essentialis illi: num sically occurring? Surely not to the action itself? On the contrary, it is
+55 subiecto in quo inest actio, quodcumque illud sit? at hoc intrinsic and essential to the action. To the subject in which the action
+modo plures relationes praedicamentales dici possunt extrin- exists, whatever that is? But in this way many categorical relations could
+secus advenientes, quia subiecto cui tribuuntur, extrinsecus be called extrinsically occurring, since they occur extrinsically or acciden-
+seu accidentaliter adveniunt. Ut relatio scientiae ad scibile 55R tally to the subject to which they are attributed. For example, the relation
+potest dici extrinsecus advenire respectu subiecti, cui accidit of knowledge to the knowable can be called extrinsically occurring with
+60 scientia, et maxime si extrinsecus infusa est, nam posita po- respect to the subject on which the knowledge falls. This is especially
+tentia et obiecto non est in ea talis relatio: posita autem sci- so if it is extrinsically infused, for such a relation is not in the subject
+entia necessario convenit talis relatio. Quod si tandem di- [merely] by positing the power and the object. But once knowledge has
+catur esse discrimen, quia per actionem qua fit scientia, non 60R been posited, such a relation necessarily comes along.
+fit relatio, sed illa deinde resultat: per actionem autem ut sic Finally, if it is said that the difference is that the relation is not made
+65 non additur nisi respectus, qui ita per se fit, sicut ipsa actio through the action by which the knowledge is made, but it results thence;
+65 qui ] quia V.
+
+-- 7 of 15 --
+
+Suárez, DM XLVIII, sect. 1 8
+per se fit: et in universum id convenire relationi extrinsecus through the action, moreover, nothing is added except a respect, which
+advenienti, ut sola ipsa per se fiat: Si hoc (inquam) dicatur, comes about per se in the same way as the action itself comes about per
+id commune est relationibus transcendentalibus, quamquam 65R se; and it generally fits with an extrinsically occurring relation so that
+non sit necessarium in omnibus: de qua re in superioribus it alone comes about per se—if all this (I say) is said—then it is common
+70 dictum est. Et similiter non potest illud esse verum in om- to transcendental relations, although it is not necessary to all of them (I
+nibus sex ultimis praedicamentis, ut ex eorum tractatione spoke about this matter it earlier sections).
+constabit. Et specialiter in actione gratis id dicitur, quia si- Likewise, that cannot be true for all of the last six categories, as will
+cut scientia non est solus respectus, sed qualitas includens 70R be obvious from the discussion of them. It especially cannot be true in the
+respectum transcendentalem ad obiectum, ita actio non est case of action for the sake of which this was said, since just as knowledge
+75 solus respectus, sed est quidam modus includens respectum is not a respect alone but a quality including a transcendental respect to
+intrinsece et essentialiter: quod si ex scientia ut includente the object, so also action is not a respect alone but is a kind of mode that
+respectum transcendentalem, deinde resultat alius praedica- intrinsically and essentially includes a respect. If another category results
+mentalis, idem dici poterit de actione: nulla est < col. b> 75R from the fact that knowledge includes a transcendental respect, the same
+ergo specialis ratio ob quam talis respectus vere dicatur ex- can be said about action. There is no special reason, therefore, on account
+80 trinsecus adveniens. of which such a respect is truly called extrinsically occurring.
+Secunda sententia negans includi respectum in actione reiicitur. The second view, which denies that a respect is included in action, is rejected.
+Hervaeus.
+Iavellus.
+9. Est ergo secunda sententia dicens, actionem non includere 9. There is, then, a second view that says that action does not essen- Hervaeus.
+Javellus.	essentialiter respectum alium ad agens, praeter extrinsecam tially include another respect to the agent in addition to the extrinsic de-
+denominationem, sumptam ab ipsamet forma, vel effectu nomination taken from the very form or effect that was brought about.
+5 facto. Ita tenet Hervaeus supra, et Quodlibet 1. q. 9. et Iavel- 5R Hervaeus holds this view in the passage cited above and in Quodlibet I,
+lus 5. Metaphysicae q. 23. qui dicunt actionem calefaciendi, q. 9, as does Javellus in Metaphysics V, q. 23. They say that the action of
+verbi gratia, nihil aliud esse quam calorem productum ab heating, for example, is nothing other than the heat produced by the fire,
+igne, a quo ignis agens denominatur: quae denominatio non by which heat the fire is denominated an agent. This denomination does
+consistit in respectu, sed in quadam veluti informatione ex- not consist in a respect but in a kind of extrinsic informing, as it were, on
+10 trinseca, ad quam potest deinde consequi respectus. Funda- 10R which a respect can then follow. The foundation for this view is that this
+mentum huius sententiae est, quia hoc sufficit ut agens con- is enough for the agent to be established as an acting agent. Therefore, it
+stituatur actu agens: ergo sufficit etiam ad rationem actionis: is also enough for the ratio of action. Therefore, whatever else might be
+ergo quidquid aliud fingitur est superfluum, et vix potest in- imagined is superfluous and is barely intelligible. It should not, therefore,
+telligi: non est ergo admittendum. be admitted.
+15 10. Sed haec sententia vel falsa est, vel non satis declarat 15R 10. But this view is either false or it does not explain the proper re-
+proprium respectum actionis. Si enim intelligat, actionem spect of an action. For if it is understood that action does not in reality
+in re nullam rem vel modum realem dicere, distinctum ex express any thing or mode that is distinct ex natura rei from the produced
+natura rei a forma facta, sed esse ipsammet formam ut de- form but is the very form itself as extrinsically denominated an acting
+nominantem extrinsece causam agentem, improbata suffi- cause, this view was sufficiently disproven in previous sections, as long
+20 cienter est haec sententia in superioribus, dum ostendimus 20R as we show that action must be some middle thing between the agent
+9 in ] id A.
+
+-- 8 of 15 --
+
+Suárez, DM XLVIII, sect. 1 9
+actionem debere esse aliquid medium inter agens et effec- and the effect and distinct ex natura rei from both. But according to the
+tum, et ex natura rei distinctum ab utroque. Iuxta praedic- just-mentioned view, there is no such middle thing, since the effect itself
+tam autem sententiam nullum est tale medium, quia ipsemet is said to extrinsically denominate the acting cause and as such is called
+effectus dicitur denominare extrinsece causam agentem, et ut action, just as the surface of a containing thing extrinsically denominates
+25 sic vocari actionem, sicut superficies rei continentis denomi- 25R the contained thing and as such is called a place. Nor can this view pro-
+nat extrinsece rem contentam, et ut sic dicitur locus. Non vide a reason why the produced form extrinsically denominates the pro-
+potest autem haec sententia rationem reddere, cur forma ducing cause, since the mere existence of both things—namely, the thing
+facta extrinsece denominet causam facientem, quia sola exis- that is said to be produced and the thing that is said to be producing—is
+tentia utriusque rei, scilicet, quae facta dicitur, et quae dicitur not enough for that denomination. For those two things could exist in
+30 faciens, non sufficit ad illam denominationem, quia possent 30R rerum natura in such a way that neither produces the other, but both are
+illae duae res existere in rerum natura, ita ut neutra aliam produced by God or some other cause. In that case, then, such a denomi-
+faceret, sed utraque facta esset a Deo vel alia causa: tunc nation is not taken from the existence of those two things. It is necessary,
+ergo ex illarum duarum rerum existentia non sumeretur talis therefore, that something else in the things themselves intercede, since
+denominatio: ergo aliquid aliud in rebus ipsis intercedere that denomination arises from the things themselves. But if it is said—as
+35 necesse est, quia illa denominatio ex rebus ipsis oritur. Quod 35R must necessarily be said—that the only thing that intercedes is the fact
+si dicatur, ut necessario dici debet, hoc solum intercedere, that one thing proceeds from another, I ask what this proceeding is. For
+quod una procedat ab alia, interrogo quid sit hoc procedere: it is something existing in the things themselves and it cannot be distinct
+nam aliquid est in rebus ipsis existens, <871> et non potest ex natura rei from either the thing that is the efficent cause or from the
+non esse distinctum ex natura rei a re quae est efficiens, et thing that is the effect—seeing that these two things can exist without the
+40 a re quae est effectus, quandoquidem possent illae duae res 40R procession of one from the other—therefore, that denomination is not
+existere sine processione unius ab alia: ergo illa denominatio taken from the very thing that is the effect but it proceeds or produces
+non sumitur ab ipsa re quae est effectus, sed ab hoc procedere from this, whatever that is.
+seu producere, quidquid illud sit.
+11. Et confirmatur ac declaratur hoc, quia sicut ad gener- 11. This is confirmed and explained: just as an absolute procession
+45 icam denominationem agentis necessaria est processio ab- is necessary for the generic denomination of an agent, so a determinate
+solute, ita ad determinatam denominationem determinatus 45R mode of procession is necessary or a determinate denomination, even if
+modus processionis, etiamsi alias eadem res sit facta ab ea- elsewhere the same thing is produced by the same thing. This is evidence,
+dem re: ergo signum est denominationem non sumi ex co- therefore, that a denomination is not taken from the co-existence of these
+existentia harum rerum, sed ex illa processione quae mediat things but from that procession that mediates between them. The as-
+50 inter eas. Assumptum declaratur exemplo, nam, si Petrus sumption is explained by an example, for, if Peter effects Paul in a natural
+efficiat Paulum naturali modo, vere dicitur genitor et pater 50R way, he is truly called his parent and father. But if Paul had been pro-
+eius: si autem illum produxisset divina virtute, verbi gratia, duced by divine power—through an act of will, for example—although he
+per actum voluntatis, quamvis esset effector eius, non tamen would be his effector, he would still not be his parent or father. There-
+genitor, neque pater: ergo actio non potest esse res ipsa facta fore, an action cannot be the produced thing itself as denominating, but it
+55 ut denominans, sed aliquid aliud quod inter ipsam, et rem must be something else that intervenes between the produced thing and
+efficientem intercedat; siquidem existente eadem re facta, ef- 55R the effecting thing. Even supposing that the same produced thing exists,
+fectio, et denominatio inde sumpta diversa est. the effecting (effectio) and the denomination taken from it are different.
+12. Quod si illa sententia per formam factam non in- 12. But if that view does not understand the produced form to be
+
+-- 9 of 15 --
+
+Suárez, DM XLVIII, sect. 1 10
+telligat rem ipsam, quae est terminus effectionis, quasi mate- the very thing that is the terminus of the effecting, taken, as it were, ma-
+60 rialiter sumptam, sed modum aliquem existentem in ipsa re terially, but understands it to be some mode that exists in the produced
+facta, et extrinsece denominantem ipsum agens, qui modus 60R thing itself and that extrinsically denominates the agent, which mode can
+etiam potest inter effectus agentis numerari, quia ab illo also be listed among the effects of the agent (since it also immediately and
+etiam procedit immediate et per se ipsum, quamvis non tam per se proceeds from the agent, although it does not so much proceed as
+procedat ut effectus, quam ut via ad effectum: si hoc (in- an effect but as a path to the effect), if that view, I say, is stated in this
+65 quam) sensu loquitur illa sententia, dicit quidem quippiam sense, then it does in fact express some truth. This is clear from what was
+verum, ut ex superioribus constat, et magis explicabitur in 65R said in previous sections and will be further explained in sect. 3 where we
+sect. 3. ubi agemus de subiecto actionis: tamen et non satis deal with action’s subject. Nevertheless, it does not explain the matter in
+rem declarat, et praeterea miscet dictam quaestionem de a satisfactory way. Furthermore, it mixes in the just-mentioned question
+subiecto actionis, quae ad praesens non refert. Et praeterea about action’s subject, which is not relevant at present. And, further-
+70 sine causa negat actionem dicere respectum ad causam agen- more, it without reason denies that action expresses a respect to the act-
+tem, tum quia illamet denominatio non aliunde sumitur nisi 70R ing cause, both because that denomination is not taken from somewhere
+ex tali respectu: cur enim calefactio quae in hoc ligno fit, other than from such a respect (for why does the heating that occurs in
+denominat hunc ignem agentem, et non alium, nisi quia ad this piece of wood denominate this fire an agent and not another fire, if
+hunc dicit respectum, et non ad alium. Tum etiam quia hoc not because it expresses a respect to this fire and not to another fire?) and
+75 ipsum, quod est emanare ab hoc, ita intrinsece dicit respec- also because this very thing—that is, to emanate from this—intrinsically
+tum, ut non possit aliter concipi, sed ostensum est, id quod 75R expresses a respect so that it cannot be conceived otherwise. But it was
+denominat causam actu agentem ut sic, non esse rem ipsam shown that what denominates a cause an acting agent as such is not the
+factam ut absolute existentem, sed aliquid medium, quod produced thing as existing absolutely but some middle thing. That mid-
+non potest esse nisi emanatio <col. b> ipsa: ergo necessario dle things cannot be anything other than the emanation itself. Therefore,
+80 includitur in illa respectus ad rem agentem. it necessarily includes a respect to the acting thing.
+Tertia sententia. The third view.
+Commentator.
+D. Thomas.
+Capreolus.
+Soncinas.
+13. Tertia sententia est actionem dicere absolutum cum 13. The third view is that action expresses an absolute with a respect. This Commentator.
+St. Thomas.
+Capreolus.
+Soncinas.
+respectu. Haec sumitur ex Commentatore 3. Physicorum is taken from the Commentator, Physics III, com. 9, and from Aquinas in
+com. 9. et ex D. Thoma ibidem: eamque sequuntur Capre- the same place. It is also followed by Capreolus, II, dist. 2, q. 1, art. 1 and
+5 olus in 2. dist. 2. q. 1. art. 1. et 3. et Soncinas 5. Metaphys- 5R 3, and by Soncinas, Metaphysics V, q. 38. Even so, this view is displeasing
+icae q. 38. Verumtamen haec sententia in duobus displicet. in two ways.
+Primo, quia putant auctores eius relationem illam quam dicit First, because its authors think that that relation which the action
+actio, esse eam, quae resultat in agente ad passum, vel ad ef- expresses is the relation that results in the agent towards the patient or to
+fectum, quod est impossibile, quia actio secundum integram the effect. But this is impossible, since the action according to its complete
+10 rationem suam est prior natura, quam illa relatio. Nam ef- 10R ratio is a prior in nature to that relation. For the aforementioned relation
+fectu iam producto, ordine naturae consurgit dicta relatio: arises in the order of nature once the effect has been produced. But the
+effectus autem est per actionem: ergo actio ut actio non effect comes to be through the action. Therefore, the action as action
+potest intrinsece constitui illa relatione. Et confirmatur, cannot intrinsically constitute that relation. It is confirmed: for even if
+72 tali ] om. V.
+
+-- 10 of 15 --
+
+Suárez, DM XLVIII, sect. 1 11
+nam quamvis in causa agente nulla resultaret realis relatio no real categorical relation were to result in the acting cause (as happens
+15 praedicamentalis, sicut in Deo creante contingit, nihilomi- 15R in the case of creating [the effect]), the complete ratio of a real action
+nus maneret integra ratio actionis realis, quia esset vera causa would still remain, because there would be a true acting cause just as also
+agens, sicut et verus effectus ab illa manans: unde causa agens a true effect flowing from it. Hence, the acting cause as such is prior in
+ut sic prior natura est, et independens ab illa relatione: ergo nature and is independent from that relation. Therefore, such a relation
+talis relatio in causa resultans non est intrinseca, et essentialis resulting in the cause is not intrinsic and essential to the action.
+20 actioni. Secundo displicet illa opinio, quia existimat respec- 20R Second, that opinion is displeasing, because it takes the respect that
+tum quem includit actio, esse relationem praedicamentalem, action includes to be a categorical relation, but, nevertheless, a thing in
+cum tamen non possit res unius praedicamenti per aliud es- one category cannot be constituted through another. Otherwise, the cat-
+sentialiter constitui, alias nec praedicamenta essent imper- egories would not be unmixed nor would action be a thing that is per se
+mixta, nec actio esset res per se una, sed aggregatum plurium. one but it would be an aggregate of multiple things. But, they say, an
+25 Sed aiunt, actionem non dicere per se primo et (ut ita dicam) 25R action does not express an absolute and a respect per se primarily and (if
+in recto absolutum et respectum, quia alias non esset unum I may say it in this way) directly, because otherwise it would not be one
+quid, sed directe et per se, aiunt significare absolutum quid, unified thing. Rather, they say that it directly and per se signifies an abso-
+verbi gratia, motum ipsum qui fit in passo, connotare autem lute thing (for example, the motion that comes about in the patient), but
+relationem inde resultantem in agente. Verumtamen argu- connotes the relation resulting therefrom in the agent. Nevertheless, the
+30 menta facta, ostendunt hoc verum esse non posse, tum quia 30R arguments that were made show that this cannot be true, both because an
+actio ut actio supponitur ad illam relationem. Tum etiam action as action is presupposed for that relation and also because we are
+quia hic inquirimus intrinsecum constitutivum actionis: non here inquiring into an intrinsic constituent of action. But it cannot be the
+potest autem fieri ut res unius praedicamenti constituatur case that a thing in one category is constituted through a mere connota-
+per solam connotationem rei alterius praedicamenti: nam tion of a thing in another category. For the thing connotated is extrinsic;
+35 res connotata extrinseca est, connotatio autem non est aliq- 35R the connotation, moreover, is not something in reality, but is a denom-
+uid rei, sed est denominatio sumpta ex modo concipiendi aut ination taken from our way of conceiving or denominating. But if one
+denominandi nostro. Quod si nomine connotationis intelli- understands by the name ‘connotation’ some real habitude that the mo-
+gatur habitudo aliqua realis ipsiusmet motus ad relationem, tion itself has to the relation that results in the agent, this will already not
+quae resultat in agente, iam haec non erit connotata, sed per be connoted but be per se primarily and directly included in the action.
+40 se primo et directe inclusa in actione, et <872> non erit 40R And the habitude will not be to the relation, which results per accidens,
+habitudo ad relationem, quae quasi per accidens resultat, sed as it were, but to the very principle of effecting, which the action per se
+ad principium ipsum efficiendi, quod per se respicit actio. respects.
+14. Alio ergo modo intelligenda est sententia Commen- 14. Therefore, the view of the Commentator should be understood
+tatoris, ut vera sit, nimirum, actionem in re quidem esse in another way so that it is true: namely, that action is indeed in reality
+45 modum quemdam realem et absolutum, intrinsece tamen et 45R a real and absolute mode but a mode that intrinsically and essentially in-
+essentialiter includentem respectum ad principium agens a cludes a respect to the acting principle from which it flows and that this
+quo manat, et praecise sub hoc respectu habere rationem ac- mode has the ratio of an action precisely under this respect. But in or-
+tionis. Ut vero haec sententia exactius intelligatur, per partes der to understand this view more precisely, it needs to be explained and
+declaranda, et probanda est. proven part by part.
+17 verus effectus ab illa manans: unde causa agens ] om. V.
+
+-- 11 of 15 --
+
+Suárez, DM XLVIII, sect. 1 12
+Prima assertio ad resolutionem quaestionis. The first assertion towards a resolution of the question.
+Actio est
+dependentia qua
+effectus pendet a
+causa agente.
+15. Dico ergo primo. Actio nihil aliud in re est, quam spe- 15. Therefore, I say first: action is nothing other in reality than that spe- Action is the
+dependence by
+which an effect
+depends on an
+acting cause.
+cialis illa dependentia quam effectus habet a sua causa effici- cial dependence that an effect has on its efficient cause. This assertion
+enti. Haec assertio satis probata est disputando de causali- was sufficiently proven when disputing about the causality of an efficient
+5 tate causae efficientis. Et ex hic dictis contra alias sententias 5R cause. It is also easily proven from what was said against the other views.
+facile suadetur, quia actio non est res faciens, neque res facta, For action is not the producing thing, not the produced thing or the ter-
+seu terminus causalitatis effectivae, neque est illae duae res minus of effective causality, not those two things taken together, and not
+simul sumptae, neque denominatio orta est coexistentia il- the denomination arising from their co-existence. Rather, it is some other
+larum, sed est aliquid aliud medium inter illas: hoc autem middle things between them. But this cannot be conceived to be anything
+10 nihil aliud excogitari potest nisi dependentia unius ab alio: 10R other than a dependence of one on the other. Therefore.
+ergo. Probatur minor, quia sine hac dependentia impossibile The minor is proven: for without this dependence it is impossible to
+est intelligere in una istarum rerum rationem effectus, et in conceive that there is the ratio of an effect in one of those things and the
+alia rationem causae agentis: posita autem hac dependentia, ratio of an acting cause in the other. But once this dependence is posited—
+et praecisa omni alia re, aut modo reali, necessario res de- and apart from all other real things or modes—the depending thing is
+15 pendens est effecta, et illa a qua dependet, est actu agens; 15R necessarily effected. And that on which it depends is the acting agent.
+ergo actio nihil esse potest ab hac dependentia distinctum. Therefore, action can be nothing that is distinct from this dependence.
+Et confirmatur, nam omnis effectus pendet a sua causa per It is confirmed: for every effect depends on its cause through the
+causalitatem ipsius causae: ergo effectus causae efficientis de- causality of the cause itself. But the causality of this cause is nothing other
+pendet ab illa per causalitatem efficientis, sed causalitas huius than action, as was shown above. Therefore. Moreover, I said that this
+20 causae non est aliud quam actio, ut supra ostensum est: ergo. 20R should be understood about the special dependence of the effect on the
+Dixi autem hoc intelligendum esse de speciali dependentia acting cause, since in every genus of cause there is its mode of dependence
+effectus a causa agente, quia in omni genere causae est suus and yet dependence on a form is not action but union. Therefore, the
+modus dependentiae, et tamen dependentia a forma non est special dependence that depends on an extrinsic cause and really inflows
+actio, sed est unio: specialis ergo dependentia quae est a causa being—which we call the efficient cause—that is the action of the agent in
+25 extrinseca, et realiter influente esse, quam efficientem voca- 25R the thing itself.
+mus, illa est in re ipsa actio agentis.
+16. Dices, Dependentia oritur ex actione; ideo enim ef- 16. You will respond: the dependence arises from the action, for the
+fectus pendet, quia fit: ergo non potest actio esse ipsa depen- effect only depends because it was produced. Therefore, the action can-
+dentia, sed aliquid prius illa. Respondetur, negando depen- not be the dependence itself but must be something prior to it. I respond
+30 dentiam oriri ex actione, sed potius esse ipsammet actionem. by denying that the dependence arises from the action; rather, the depen-
+Unde illa causalis non est <col. b> reducenda ad efficientem 30R dence is the very action itself. Hence, that causality should not be reduced
+causam, sed potius ad formalem, id est, cum dicitur res de- to an efficient cause but rather to a formal cause. That is, when a thing is
+pendere quia fit, non est sensus, quia dependentia manat ab said to depend because it is produced, the sense is not that the dependence
+actione, sed quia per ipsam actionem constituitur ratio agen- flows from the action but that the ratio of the agent is constituted through
+35 tis. Deinde, admitto per has duas voces, dependentia, et actio, the action itself.
+2 in re est ] est in re V.
+15 dependet ] pendet V.
+
+-- 12 of 15 --
+
+Suárez, DM XLVIII, sect. 1 13
+et per conceptus praecisos illis correspondentes non signifi- 35R Next, I admit that that mode which is a dependence under the same
+cari modum illum, qui est dependentia sub eodem respectu, respect is not signified through these two words, ‘dependence’ and ‘ac-
+ut statim declarabo: et hoc satis est ad illam causalem locu- tion’, and through the concepts precisely corresponding to these words,
+tionem, quae saepe non indicat veram causam, sed rationem, as I will explain now. And this is enough for that causal locution, which
+40 ad quam sufficit distinctio per inadaequatos conceptus; quo- often does not indicate a true cause but a ratio for which a distinction
+modo dicimus Deum esse volentem, quia est intelligens. Et 40R through inadequate concepts is sufficient, just as we say that God is a
+ideo in conclusione non dixi actionem formaliter esse depen- willing being because he is an understanding being. Therefore, in con-
+dentiam, ne id etiam intelligeretur de formalitate ut praecise clusion I do not say that action is dependence formally, lest that also be
+concepta, sed dixi in re actionem non esse aliud a dependen- understood about formality as conceived precisely, but I say that action is
+45 tia, quod certissimum mihi est ex rationibus factis. in reality nothing other than a dependence, which seems entirely certain
+45R to me from the arguments that were made.
+Assertio secunda. The second assertion.
+Actio respicit
+essentialiter
+agens.
+17. Dico secundo. Actio ut actio dicit intrinsece et essen- 17. Second, I say: Action as action intrinsically and essentially expresses Action essentially
+respects the
+agent.
+tialiter respectum transcendentalem ad agens, seu ad prin- a transcendental respect to the agent or to the principle of action. The ar-
+cipium agendi. Hanc conclusionem probat sufficienter ratio gument for doubting given in the beginning sufficiently proves this con-
+5 dubitandi in principio posita. Cui non obstat ratio in op- 5R clusion. The argument given for the opposing position is no threat, since
+positum facta, quia procedit tantum de relationibus praedica- it only proceeds for categorical relations as such. Everything else that was
+mentalibus ut sic. Eamdem probant omnia quae circa alias said about the other views shows the same thing. Likewise, since action
+sententias dicta sunt. Item, cum actio ut actio dicat egres- as action expresses an egress or procession from the agent, it cannot be
+sum, vel processionem ab agente, concipi non potest sine conceived except as a respect to the agent. This is a sign, therefore, that
+10 respectu ad agens: ergo signum est intrinsece dicere respec- 10R it intrinsically expresses a respect to the agent. Furthermore, action as
+tum ad agens. Praeterea actio ut actio denominat agens actu action denominates the agent as acting as such by a real denomination
+tale, denominatione reali orta ex ipsis rebus, et non propter arising from the things themselves and not on account of a real union
+realem unionem ad ipsum agens, ut infra ostendemus, quia with the agent itself, as we will show below. For otherwise that denom-
+alias non esset illa denominatio extrinseca, sed intrinseca: ination would not be extrinsic but intrinsic. Therefore, [the denomina-
+15 ergo saltem propter habitudinem realem actionis ad agens. 15R tion arises] in any event on account of a real habitude of the action to
+Denique, infra ostendemus actionem habere realem et essen- the agent. Finally, we will show below that action has a real and essential
+tialem dependentiam a principio agente, et non per aliam de- dependence on the acting principle and not through another dependence
+pendentiam a se distinctam: alias procederetur in infinitum, distinct from itself. Otherwise, there would be an infinite regress, as has
+ut saepe dictum est: ergo per seipsam intrinsece: sed non often been said. Therefore, [the action has a real and essential dependence
+20 potest tam intrinseca dependentia consistere sine reali habi- 20R on the the acting principle] intrinsically through itself. But such an in-
+tudine actionis ad agens: ergo includitur hic respectus tran- trinsic dependence cannot exist without a real habitude of the action to
+scendentalis in essentiali respectu actionis, ut sic. <873> the agent. Therefore, there is included here a transcendental respect in an
+essential respect of action as such.
+Tertia assertio. The third assertion.
+
+-- 13 of 15 --
+
+Suárez, DM XLVIII, sect. 1 14
+Respectu
+imbibito in
+actione non
+refertur agens.
+18. Dico tertio. Per hunc respectum actionis ad agens, prae- 25R 18. Third, I say: the agent itself is not referred to something else through The agent is not
+referred by a
+respect taken in
+by the action.
+25 cise sumptum, non refertur ipsum agens ad aliud, sed potius this respect of the action to the agent, taken precisely; rather, the action
+ipsa actio respicit agens a quo egreditur. Haec conclusio itself respects the agent from which it egressed. This conclusion is proven
+partim probata est argumentis factis contra Capreolum et in part from the arguments made against Capreolus and the others cited
+alios citatos in tertia sententia. Et praeterea potest breviter for the third view. Furthermore, it can be proved in brief, for the agent
+suaderi, quia ipsum agens potius est terminus huius respec- 30R is rather the terminus of this respect, for the action respects it insofar as it
+30 tus, nam ipsum respicit actio, quatenus talem respectum in- includes such a respect.
+cludit. Ut vero amplius declaretur advertendum est, duobus But in order to better explain this, it should be noted the claim that
+modis intelligi posse, agens ut agens referri ad aliud, seu ad the agent as agent is referred to something else, to its terminus or its ef-
+terminum vel effectum suum: primo, respectu transcenden- fect, can be understood in two ways. First, with a transcendental respect
+tali, quatenus causa est in actu: secundo, relatione praedica- 35R insofar as the cause is in act; second, with a categorical relation resulting
+35 mentali inde resultante. De hac posteriori relatione est ev- from that. With respect to this latter relation, the posited conclusion is
+idens conclusio posita, et eam maxime probant argumenta obvious. The arguments that were made first and foremost prove that.
+facta. De transcendentali vero respectu est ulterius animad- With respect to a transcendental respect, it should further be noted that
+vertendum, posse concipi talem respectum ipsius agentis ad such a respect of the agent itself to its action can be conceived, for the
+actionem suam, nam haec vere ac realiter ab ipso egreditur, 40R action truly and really egresses from the agent and can in some way be
+40 et potest aliquo modo computari inter effectus eius: tamen reckoned between its effects. Nevertheless, in this way there really is no
+hoc modo revera nullus est novus respectus transcendentalis new transcendental respect in the agent itself to its action, beyond the one
+in ipso agente ad suam actionem, praeter eum (si quis est) (if there is one) that is essentially taken in by the very power of acting. For
+qui in ipsamet potentia agendi essentialiter imbibitur: quia no other real thing or mode in the intrinsic ratio of which such a respect
+inter ipsam potentiam et actionem eius non interponitur ali- 45R is included is inserted between the power itself and its action. There is,
+45 qua alia res vel realis modus, in cuius intrinseca ratione talis therefore, no new transcendental respect in the agent towards its action;
+respectus includatur. Non ergo est in agente novus aliquis re- rather, the action is referred to and as a result the agent is denominated in
+spectus transcendentalis ad suam actionem, sed actio potius act.
+refertur ad ipsum, et inde denominatur agens in actu.
+19. Alio vero modo intelligi potest agens ut agens referri 19. But there is another way of understanding that an agent as agent
+50 transcendentaliter ad suum effectum: neque enim potest in- 50R is transcendentally referred to its effect. For an agent cannot be under-
+telligi agens nisi aliquid agat, ut sequenti sectione latius dice- stood except as something that acts, as we will explain more thoroughly
+mus. Nihilominus tamen, si proprie loquamur, potius di- in the following section. Nevertheless, if we are speaking properly, it
+cendum est agens denominari, ac si referretur transcenden- should be said that the agent is denominated as if it were referred tran-
+taliter in terminum, quam referri in illum, quia nihil refer- scendentally to the terminus, rather than that the agent is referred to the
+55 tur nisi per respectum quem in se habet: agens vero ut agens 55R terminus. For nothing is referred except through a respect that it has in
+non habet in se illum respectum, sed denominatur ab ac- itself. But an agent as agent does not have that respect in itself, but is de-
+tione, quae illum respectum habet. Unde in hoc ipso est nominated from the action that has that respect. Hence, in this matter it
+ulterius considerandum, actionem non respicere agens sine should further be considered that action does not respect the agent with-
+respectu ad terminum, ut sequenti sectione ostendetur; ni- our a respect to the terminus, as will be shown in the following section.
+60 hilominus tamen abstractione praecisiva posse nos unum re- 60R Nevertheless, one respect cannot be prescinded with precise abstraction
+spectum praescindere ab alio: sicut nunc in ipsa- <col. b> from another as we now prescind them in the explication itself. And for
+
+-- 14 of 15 --
+
+Suárez, DM XLVIII, sect. 1 15
+met explicatione illos praescindimus: et ideo considerate dixi this reason I carefully said in the assertion that this respect, taken pre-
+in assertione, per hunc respectum praecise sumptum, quem cisely, which the action has to the agent does not refer the agent but, as it
+actio habet ad agens, non referre illud, sed quasi informare were, informs or denominates it. Action according to the entirety that it
+65 vel denominare: quamquam actio secundum totum quod in- 65R includes, however, can be said to refer and, as it were, order the agent to
+cludit, dici possit referre, et quasi ordinare agens ad effec- its effect, although, as I said, that is more to denominate as related than
+tum, quamvis, ut dixi, illud sit magis denominare ut relatum, to refer. This is especially true of transeunt actions, as we will explain in
+quam referre. Maxime in actione transeunte, ut sectione ter- sect. 3, which will make it clearer what this respect of the action to the
+tia declarabimus, ex qua magis constabit qualis sit hic respec- agent is like.
+70 tus actionis ad agens.
+Quarta assertio. The fourth assertion.
+Actio est ultimus
+actus potentiae
+activae.
+20. Ultimo dicitur, et colligitur ex dictis, actionem ut actio 20. Lastly, I say—and it can be gathered from what was said—that an ac- Action is the
+ultimate act of an
+active power.
+est recte dici posse ultimum actum potentiae activae, et ex- tion as action can rightly be called the ultimate act of an active power and
+ercitium eius, dummodo non intelligatur de actu intrinseco its exercise, as long as this is not understood of an intrinsic and informing
+5 et informante, sed absolute de actu dimanante a potentia, sive 5R act but strictly of an act flowing from the power, whether it informs the
+illam informet, sive non. Eo enim modo quo potentia ac- power or not. For in the way in which an active power is called a power,
+tiva dicitur potentia, quamvis potius sit quidam actus, actio although it rather is a kind of act, the action flowing from the power can
+ab illa manans potest dici actus eius, non ut subiecti, sed ut be called an act of the power, not as of a subject but as of a principle
+principii a quo est; hic enim est essentialis respectus actionis by which it exists. For this is the essential respect of the action as such.
+10 ut sic. Unde ex ipso respectu, quem dixi habere actionem ad 10R Hence, it follows from that respect that, I said, an action has to its princi-
+suum principium, sequitur, comparari ad illud ut actum ab ple that it is related to that principle as an act egressing from it. Likewise,
+eo egredientem. Item, quia actio est id quod proxime egredi- since action is that which proximately egresses from the active power, it
+tur a potentia activa, recte dicitur exercitium eius, et eodem is rightly called the power’s exercise and in the same sense is said to be a
+sensu dicitur veluti extrinseca quaedam actuatio eius. Item, kind of extrinsic actuation of it. Also, action is the causality itself of an
+15 actio est ipsa causalitas causae efficientis, per quam constitu- 15R efficient cause thought which the cause is constituted as actually causing.
+itur actu causans: causalitas autem constituit causam in actu: Moreover, the causality constitutes the cause in act. Therefore, under this
+ergo sub ea ratione potest dici actus eius, saltem extrinse- ratio the action can be called its act, at least extrinsically. Nor does what
+cus. Neque huic obstat, quod supra diximus, actionem in we said above—namely, that action is in reality nothing other than the
+re non esse aliud quam dependentiam effectus a causa: quia dependency of the effect on the cause—pose an obstacle to this. For the
+20 ipsamet dependentia essentialiter respicit suum principium, 20R dependency itself essentially respects its principle and is by reason of this
+et ratione huius respectus dicitur esse exercitium et actualitas respect said to be a kind of extrinsic exercise and actuality of the active
+quaedam extrinseca ipsius potentiae activae. power itself.
+17 ea ] hac V.
+
+-- 15 of 15 --

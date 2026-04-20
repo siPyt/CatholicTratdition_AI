@@ -1,0 +1,389 @@
+Last revision: August 12, 2011
+Francisco Suárez, S. J.
+DM XXX, SECT. 11
+© Sydney Penner 2011
+<60>2
+DISPUTATIO XXX. DISPUTATION XXX.
+De primo ente, quatenus ratione naturali cognosci potest, quid, Concerning first being insofar as it can be cognized by natural reason: what
+et quale sit. and what kind of being it is.
+Hactenus praecipue ostendimus Deum esse, et ex parte de- So far I have chiefly shown that God exists and I have begun to explain
+5 clarare coepimus quid sit, nam, ut diximus, haec duo in cogni- 5R in part what he is, for, as I said, these two matters cannot be entirely sep-
+tione Dei non possunt omnino seiungi, nunc superest ut reli- arated in the cognition of God. Now it remains to discuss the remaining
+qua tradamus quae directe spectant ad <col. b> cognoscen- things that directly bear on cognizing what God is. At the same time, I
+dum quid sit Deus, simulque declaremus qualis ac quantus sit, will explain what kind of being he is and how great he is, for in God there
+nam in Deo non est aliud qualitas vel magnitudo, quam essen- is no other quality or magnitude than his essence. I assume, moreover,
+10 tia. Supponimus autem non posse nos naturali lumine haec 10R that we cannot by natural light cognize these things about God as they
+de Deo cognoscere prout in se sunt, quia id fieri non potest are in him, because that cognition cannot come about except through a
+nisi per visionem claram ipsius, quae non est homini natu- clear vision of him, which is not natural to human beings, as I will also
+ralis, ut infra etiam ostendemus. Neque etiam possunt haec show below. Nor can all these things simply be demonstrated a priori
+omnia simpliciter a nobis demonstrari a priori de Deo, quia about God by us, since we can only come to a cognition of him through
+15 solum per effectus devenire possumus in cognitionem eius: 15R effects. Yet by cognizing one of God’s attributes from its effects, we can
+cognito tamen uno attributo Dei ex effectibus eius, interdum sometimes gather another attribute from it a priori, according to our
+possumus ex illo colligere aliud a priori, iuxta modum nos- way of conceiving the divine attributes—separately—and by eliciting an-
+trum concipiendi divina, divisim, et ex uno conceptu alium other one from one concept, as I mentioned in an earlier disputation.
+eliciendo, ut superori disputatione tetigimus: et hi duo modi And these two ways of demonstrating something should be noted and
+20 demonstrandi observandi sunt, et ad singula divina attributa, 20R applied to each individual divine attribute insofar as it can be.
+quoad fieri possit, applicandi. Primum igitur quasi funda- The first foundation and principle, as it were, of all that is attributed
+mentum et principium omnium quae attribuuntur Deo, est, of God, then, is that he is a per se necessary being and that it is his through
+esse ens per se necessarium, et suum esse per essentiam, quod his essence (which was demonstrated in the previous disputation). The
+demonstratum est disputatione praecedenti: ipsum ergo esse very being of God, therefore, is his quiddity. But what is included in this
+25 Dei est quidditas eius: quid vero in hoc esse includatur, quidve 25R being or what is implied by that very being through essence is now to be
+ex ipso esse per essentiam inferatur, videndum nunc est. seen.
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 9 --
+
+Suárez, DM XXX, sect. 1 2
+SECTIO 1. SECTION 1.
+Utrum de essentia Dei sit esse ens omnino perfectum. Whether it belongs to God’s essence to be a wholly perfect being.
+1. Respondeo, de quidditate Dei est ut sit ens undequaque 1. I respond that it belongs to the quiddity of God to be a being perfect
+perfectum. Potestque hoc naturali lumine evidenter demon- in every respect. And this can be clearly demonstrated by natural light.
+strari. Ut haec probemus, supponendum est, perfectum id In order to prove this, we need to assume that something is called perfect
+dici cui nihil deest, ex 5. Metaphysicae. Quod potest vel pri- that lacks nothing (from Metaphysics V). This can be understood either
+5 vative, vel negative intelligi. Priori modo dicitur perfectum, 5R privatively or negatively. In the former way, something is called perfect
+cui nihil deest quod ei debitum sit natura sua ad suam integri- that lacks nothing that it ought to have by its nature for its integrity or
+tatem seu complementum, et hoc modo multa sunt entia per- completeness. There are many perfect beings in this way in their species
+fecta in suis speciebus vel generibus, non tamen sunt perfecta or genera, yet they are not perfect without qualification in the whole
+simpliciter in tota latitudine entis. Posteriori ergo modo dici- breadth of being. In the latter way, therefore, something is called per-
+10 tur perfectum cui absolute nihil perfectionis deest: atque hoc 10R fect that lacks absolutely nothing of perfection. In this way, that being
+modo illud ens dicitur absolute perfectum cui omnis perfec- is called absolutely perfect that ought to have every perfection and to
+tio ita debita est, ac necessario inest, ut nulla ei omnino deesse which every perfection belongs in such a way that it cannot entirely lack
+possit, nec privative, nec negative, et utroque sensu dicitur any of them, neither privatively nor negatively. God’s essence is said to
+esse de essentia Dei, esse simpliciter perfectum. be perfect being without qualification in both senses.
+15	Nulla
+perfectionis
+privatio in Deum
+cadere potest.
+2. Et imprimis, quod non possit Deus privative <61> 15R 2. And, above all, that God could not privatively lack any perfection No privation of
+perfection can
+befall God.
+carere aliqua perfectione, est per se evidentissimum, quia, si- is per se most evident, since, just as God exists from himself, so also he
+cut Deus ex se est, ita ex se habet totam perfectionem sibi deb- from himself has the complete perfection that he ought to have. For from
+itam. A quo enim superiori illam haberet, cum ipse sit supre- what superior being would he have it, given that he is the supreme be-
+mum ens? Habet ergo illam independenter ab omni alio, ergo ing? Therefore, he has complete perfection independently from all other
+20 a nullo alio privari potest tota perfectione sibi debita. Nec 20R beings and, therefore, no other being can deprive him of the complete
+vero ipse potest seipsum illa privare, tum quia omnis res nat- perfection that he ought to have. But neither can he deprive himself,
+uraliter appetit et retinet perfectionem sibi debitam, nisi ab both because every thing naturally desires and preserves the perfection
+alio potentiori illa privetur, tum maxime quia Deus non ha- it ought to have unless it is deprived of it by another more powerful
+bet huiusmodi perfectionem a se effective, sed formaliter seu thing and especially because God does not have this kind of perfection
+25 negative, quia scilicet non habet ab alio, sed ex formali em- 25R from himself effectively but rather formally or negatively (because, of
+inentia suae naturae. Atque hinc maxime confirmatur haec course, he does not have it from another but from the formal eminence
+pars ex actualitate ac simplicitate divini esse, nam res simpli- of his own nature). And from here this part is especially confirmed as
+cissima non potest aliqua perfectione privari, nisi destruatur a result of the actuality and simplicity of divine being, for a most sim-
+tota: esse autem Dei destrui non potest cum sit simpliciter ple thing cannot be deprived of any perfection without destroying the
+30 necessarium: ergo nec minui, cum sit simplicissimum, et ac- 30R whole. Moreover, the being of God cannot be destroyed since it is nec-
+tualissimum: ergo non potest non simul habere totam perfec- essary without qualification. Neither, therefore, can it be diminished,
+tionem suae naturae debitam. Et in hoc saltem sensu attigit since it is most simple and most actual. Therefore, it cannot fail to have
+Aristoteles. hanc veritatem, et rationem eius Aristoteles lib. 12. Metaphys- at the same time the complete perfection of its nature that it ought to
+icae cap. 7. have. And at least in this sense Aristotle touches on this truth and the Aristotle.
+
+-- 2 of 9 --
+
+Suárez, DM XXX, sect. 1 3
+35R reason for it in Metaphysics XII, ch. 7.
+35	Immo nec ulla
+negatio.
+3. [2 continued.]3 Quod autem omnis perfectio huic 3. Moreover, that every perfection ought to be had by this divine Indeed, there is
+no negation.	divino esse debita sit, atque adeo, quod non possit Deus being and, therefore, that God cannot wholly lack any perfection even
+omnino carere etiam negative aliqua perfectione, probatur negatively, is proven first by the fact that divine scripture proclaims this
+primo quia hoc indicat divina scriptura, cum dicit, Quae when it says in John 1[:3–4]: ‘[All things] were made [by him; and
+facta sunt in eo vitam esse, Ioannes 1. et cum ipsum appel- 40R without him nothing was made that was made.] In him was life . . . ’
+40 lat, Omne bonum Exodus 33. sic etiam de Deo docent sancti Also, when it names God ‘all good’ in Exodus 33[:19]. The holy Fathers
+Patres, Dionysius cap. 5. De divinis nominibus et Irenaeus also teach the same thing about God: Dionysius, On the divine names,
+lib. 4. cap. 37. cum aiunt, Deum continere omnia, vel, esse ch. 5; Irenaeus, Against Heresies, book 4, ch. 20, when he says that ‘God
+omnia, ut loquitur Clemens Alexandriae lib. 1. Paedagogus contains everything’;4 or ‘God is everything’, as Clement of Alexandria
+cap. 9. Sic denique (quod ad nos nunc spectat) senserunt 45R says in Paedagogus book 1, ch. 9. Finally, what is relevant for us now, the
+45 philosophi, ut de Hermete, seu Mercurio Trismegisto refert philosophers think the same, as Cyril of Alexandria relates of Hermes or
+Cyrillus lib. 1. Contra Iulianum sub fine et Suidas in Mercu- Mercurius Trismegistus in Against Julian, book 1, near the end. Suidas
+rio, et Aesculapius ad Amnionem regem, qui sic ait. Deum [also says this in Sudo], s. v. ‘Mercurius’. Also, Asclepius to King Am-
+omnium dominum, factorem, Patrem, ac septum imploro, ac mon, who says: ‘I beseech God, the Lord, Maker, Father, and Encom-
+omnia unum existentia, et unum omnia existentem, nam om- 50R passer of all; who being All is One and being One is All, for the Fullness
+50 nium plenitudo unum est, et in uno. Multaque similia legun- of all is One and in One.’5 Many similar things can be read in Trismegis-
+tur ex Trismegisto in Pimandro praesertim in fine cap. 5. et tus, Pymander, especially towards the end of chs. 5 and 15, where he has
+15. ubi habentur fere omnia verba, quae Cyrillus refert. Ubi almost all the words that Cyril of Alexandria relates and where he brings
+ex Platone etiam et Porphyrio adducit non dissimilia. up statements from Plato and Porphyry that are not unlike these.
+4. [3.] Secundo probatur a posteriori ex dictis supra de 55R 4. It is proven a posteriori, second, from what was said above about
+55 effectibus Dei seu primi entis: Omnis enim perfectio possi- the effects of God or of the first being. For every possible perfection is
+bilis aut est increata, aut creata. Si increata sit, in solo primo either uncreated or created. If it is uncreated, it can only be in the first
+ente esse potest, quia nihil est increatum <col. b> extra ip- being, since there is nothing uncreated besides it. But if it is created, then
+sum. Si vero est creata, ergo necessario esse debet ab hoc it must necessarily be from this first being as from a first and principal
+primo ente ut a prima et principali causa, quia ostensum 60R cause. For it was already shown that nothing can be besides it except
+60 est nihil esse posse praeter ipsum, nisi ab ipso: ergo necesse from it. It is necessary, therefore, that every such perfection be in the
+est ut omnis talis perfectio sit in ipso, nobiliori, et excellen- first being in a more noble and more excellent way. For the perfection
+tiori modo. Quia perfectio effectus necessario supponitur in of an effect is necessarily presupposed in the cause that resulted in it and
+causa, quae ex se, et propria, ac sufficienti virtute potest talem that can by a proper and sufficient power communicate such a perfection
+perfectionem communicare effectui. Quo modo enim dare 65R to the effect. For how could there be a cause that in no way had [that
+65 posset causa quod nullo modo in se haberet? Atque haec ra- perfection] in itself? And this same argument can be made analogously
+3Main numbering indicates paragraph numbering as found in Vivés edition; numbering in square brackets indicates paragraph numbering as found in 1597 edition. It looks
+like the 1597 edition’s numbering skips from ‘3’ to ‘5’ and then at some point someone split the long second paragraph to make the numbering come out right.
+4Chapter divisions vary between different editions of this work.
+5Corpus Hermeticum xvi.3.
+63 ac ] et V.
+
+-- 3 of 9 --
+
+Suárez, DM XXX, sect. 1 4
+tio eadem proportione concludit de quacumque perfectione about any true and real possible perfection whatsoever, whether it is ac-
+possibili vera, ac reali, sive illa actu reperiatur in aliqua crea- tually found in some creature or not, for if it is possible it cannot exist
+tura sive non, nam si possibilis est, non nisi a Deo esse potest: except from God. Therefore, it is necessary that it already be in some
+ergo necesse est ut iam nunc sit aliquo modo in Deo, quia ni- 70R way in God, since nothing can be from him except that it already be in
+70 hil potest esse ab ipso nisi quod aliquo modo est in ipso, est some way in him. It belongs to the essence of God, therefore, to include
+ergo de essentia Dei ut in se includat aliquo modo omnem in himself in some way every perfection of being.
+perfectionem entis.
+Ratio a priori
+conclusionis.
+5. Secundo potest hoc a priori ostendi, quia Deus est 5. Second, this can be shown a priori, since God is the first being, as An a priori
+argument for the
+conclusion.
+primum ens, ut ostensum est: ergo est etiam summum et per- was shown. Therefore, he is also essentially the highest and most perfect
+75 fectissimum essentialiter: ergo de essentia eius est ut includat 75R being. Therefore, it belongs to his essence to include in some way every
+aliquo modo omnem perfectionem possibilem in tota latitu- perfection possible in the whole breadth of being. The first consequence
+dine entis. Prima consequentia ex terminis fere per se nota is almost per se known from the terms. For if God is the first being in
+est: nam si Deus est primum ens causalitate et necessitate causality and in the necessity of being, it is necessary that he is also the
+essendi, necesse est ut sit etiam perfectione primum. Quod first being in perfection. This was also proven in previous sections by
+80 etiam probatum in superioribus est ex eo, quod omnia infe- 80R the fact that every lower being is more or less perfect by coming more
+riora entia eo sunt magis vel minus perfecta, quo magis vel or less close to this first being. Nor can there be an infinite regress in
+minus accedunt ad hoc primum ens: neque potest in hac re- this inequality of things in such a way that there is not some supreme
+rum inaequalitate ita procedi in infinitum, quin detur aliquod being that is the source and measure of everything else; such a supreme
+supremum ens, quod sit caeterorum caput et mensura, quod being cannot be anything other than the first being itself. That being,
+85 non potest esse aliud nisi ipsum ens primum. Est ergo illud 85R therefore, is most perfect.
+summe perfectum. Secunda vero consequentia in principio The second consequence given in the beginning can seem less evi-
+facta, videri potest minus evidens, quia recte potest intelligi dent, however, since one can rightly understand that something is the
+quod sit perfectissimum omnium, et non contineat perfec- most perfect of all beings but that it does not contain the perfections of
+tiones omnium, sicut homo est perfectissimus omnium ani- all beings, just as a human being is the most perfect of all animals and yet
+90 malium, et tamen non continet omnium animalium perfec- 90R does not contain the perfections of all animals. Nevertheless, that con-
+tiones. Sed nihilominus consequentia illa probatur. Primo ex sequence is proven. First, from the foregoing reasoning, since the first
+praecedenti ratiocinatione, quia primum ens non utcumque being is not more perfect than all the other beings in any way whatso-
+est perfectius caeteris, sed tamquam primum principium eo- ever, but is more perfect as their first principle. Moreover, in order for
+rum: ut autem res aliqua sit principium alterius, non satis some thing to be the principle of another, it is not enough that it is more
+95 est quod sit perfectior illa, ut per se constat, sed necesse est 95R perfect than that other thing—as is per se obvious—but it is necessary
+ut perfectionem illius in se contineat aliquo mo- <62> do, that it contain the perfection of the other being in itself in some way. If,
+si ergo primum ens est perfectissimum tamquam principium therefore, the first being is the most perfect being as a principle of all the
+omnium, non solum est perfectius caeteris, sed etiam om- other beings, it is not only more perfect than them but it also has the
+nium perfectiones in se praehabet. perfections of all of them in itself before.
+100 6. Deinde probatur a D. Thoma 1. p. q. 4. art. 2. ex prin- 100R 6. Next, (following St. Thomas, Summa theologiae Ia.4.2) it is proven
+cipio supra probato, quod primum ens est ipsum esse subsis- from the principle proven above: that the first being is itself being subsist-
+80 in ] ex V.
+
+-- 4 of 9 --
+
+Suárez, DM XXX, sect. 1 5
+tens per essentiam, ergo claudit in se omnem perfectionem ing through essence. Therefore, it encloses in itself every perfection of
+essendi. Quam rationem eiusque propriam vim commodius being. We will explain the reason for this and its proper force more help-
+declarabimus assertione sequenti. Nunc aliter probatur illa fully in a subsequent assertion. At present that consequence is proven in
+105 consequentia quia primum ens non solum est perfectius om- 105R another way. For the first being is not only more perfect than everything
+nibus quae sunt, sed etiam omnibus quae esse possunt: ergo else that is, but it is also more perfect than anything that could be. It is
+necesse est quod sit perfectius omnibus non utcumque, sed ut necessary, therefore, that it is more perfect than everything else not in
+continens in se perfectiones omnium. Antecedens probatum any way whatsoever, but as containing in itself the perfections of every-
+est, quia primum ens non solum est primum inter ea quae thing. The antecedent was proven, since the first being is not only first
+110 sunt, sed etiam inter omnia possibilia. Item quia si esset pos- 110R among all the beings that are, but is also first among all possible beings.
+sibile aliud ens perfectius, vel illud esset ens necessarium, et Also, because if there were another possible being that was more
+sic iam actu esset, vel posset effici ab alio, et hoc non, quia perfect, it would either be a necessary being or it could be effected by
+non a primo ente, cum non possit efficere aliquod perfectius another being. If the former, it would already be actual. But the lat-
+se, ergo non est ullo modo possibile ens perfectius, ergo pri- ter cannot be the case, since a more perfect being could not be effected
+115 mum est ens perfectissimum omnium possibilium. Conse- 115R by the first being, given that it could not effect something more per-
+quentia vero probatur, quia dato quocumque ente quod exce- fect than itself. A more perfect being, therefore, is in no way possible.
+dat caetera in perfectione, non tamen contineat perfectiones The first being, therefore, is the most perfect being of all possible beings.
+omnium, illud non potest esse perfectius omni ente possi- The consequence is proven: for having been given any being whatever
+bili, quia potest esse aliud quod non solum sit perfectius, sed that exceeds the remaining beings in perfection and yet does not contain
+120 etiam contineat reliqua. Neque enim dici potest hanc conti- 120R the perfections of everything, that being cannot be more perfect than all
+nentiam involvere repugnantiam aut esse impossibilem, tum possible beings, since there can be something else that is not only more
+quia in rebus sensibilibus experimur qualitatem vel formam perfect but also contains all the remaining [perfections]. For it cannot
+superiorem continere perfectiones plurium inferiorum, tum be said that this containment involves a repugnance or that it is impossi-
+etiam quia nulla ratio repugnantiae, aut impossibilitatis assig- ble, both because we experience in sensible things that a higher quality
+125 nari potest, ut magis constabit inferius declarando modum 125R or form contains the perfections of many lower ones and also because
+huius perfectionis. Ut ergo primum ens sit perfectius omni there is no reason to assign a repugnance or impossibility, as will become
+possibili, necesse est ut omnem perfectionem possibilem in se clearer below when explaining the mode of this perfection. Therefore, in
+includat, nam si aliqua perfectio esset possibilis, et illi deesset, order for the first being to be more perfect than all other possible beings,
+perfectius esset illud ens quod illam perfectionem simul cum it is necessary that it include every possible perfection in itself. For if it
+130 omnibus aliis haberet. Et propter hanc causam recte dixerunt 130R were to lack any perfection that is possible, that being which had that
+Augustinus, et Anselmus Deum esse tale ens, quo maius ex- perfection at the same time as all the other perfections would be more
+cogitari non potest. Et Gregorius Nyssenus liber De opifi- perfect.
+cio hominis cap. 1. Deum esse tale bonum, quod omne bonum, For this reason, Augustine and Anselm rightly said that God is a be-
+quod intelligendo cogitandove comprehenditur, exsuperat. Cog- ing such that no greater can be thought. And Gregory of Nyssa says in
+135 itando, scilicet, tali cogitatione quae in re cogitata non in- 135R De opificio hominis, ch. 1: ‘God is such a good that he surpasses every
+volvat repugnantiam, sed sit de re vere possibili. Etenim si good that is covered in understanding or thinking’. In thinking, namely,
+cogi- <col. b> tatio non sit huiusmodi, res cogitata non erit by a thought of the sort that does not involve a repugnance in the thing
+maior, immo nec res erit, sed ens rationis et prorsus nihil: thought of, but is of a thing that is truly possible. For if the thought is
+si autem aliquid maius vere cogitetur, illud erit ens possibile, not of this sort, the thing thought of will not be greater; in fact, it will
+
+-- 5 of 9 --
+
+Suárez, DM XXX, sect. 1 6
+140 ergo et necessarium, quia haec est prima et summa perfec- 140R not be a thing at all, but only a being of reason and entirely nothing.
+tio entis perfectissimi, ergo illud ens erit Deus, et non aliud But if something truly greater is thought of, that will be a possible being.
+quod cogitabatur minus perfectum, est ergo de ratione Dei Therefore, it will also be necessary, since this is the first and highest per-
+ut sit ens tam perfectum quo maius excogitari non possit. fection of a most perfect being. Therefore, that being will be God and
+Et consequenter ut in se includat omnem perfectionem pos- not something else that is thought less perfect. It belongs, therefore, to
+145 sibilem, tota enim perfectio vere ac rationaliter cogitatur in 145R the ratio of God to be a being so perfect that no greater can be thought
+aliquo vero ente. and, consequently, to be a being that includes in itself every possible per-
+fection. For all perfection is truly and rationally thought to be in some
+true being.
+7. Tertio potest eadem consequentia in hunc modum 7. Third, the same consequence can be explained and confirmed in
+declarari et confirmari: nam primum ens non solum ex- 150R this way: for the first being not only exceeds all the others taken singly
+cedit reliqua omnia sigillatim, sed etiam simul collecta: neque but also taken collectively all at once. Nor does it exceed them in any
+150 utcumque illa excedit, sed optimo modo possibili in genere way whatsoever, but in the best way possible in the genus of being. But
+entis: sed optimus modus superandi reliqua omnia simul the best way of surpassing all the other things taken all at once is to
+sumpta, est continendo eminentiori modo quidquid est in contain in a more eminent way whatever is in them. To explain it in a
+omnibus illis. Quod aliter declaratur, nam quando una res 155R different way, when one thing is more perfect than others, it, neverthe-
+est perfectior aliis, non tamen continet totam perfectionem less, does not contain the whole perfection of them. Even though it is
+155 illorum, quamvis absolute sit perfectior, tamen secundum ali- absolutely more perfect, it could still happen that it is less perfect accord-
+quam rationem contingit esse minus perfectam, ut sol est sim- ing to some ratio. For example, the sun is more noble, strictly speaking,
+pliciter nobilior luna, et nihilominus luna in aliqua dignitate than the moon, and yet the moon exceeds the sun in a certain dignity and
+vel virtute excedit solem. At vero primum ens ita excedere de- 160R virtue. But the first being, on the other hand, must so exceed all other
+bet, et simpliciter et in omni nobilitate et perfectione reliqua beings, both strictly speaking and in every nobility and perfection, that
+160 omnia, ut neque absolute, neque secundum aliquam rationem it cannot be surpassed by something else according to any ratio. It could
+ab aliquo superari possit quem modum perfectionis et exces- not have this mode of perfection and exceeding except that it contain ev-
+sus habere non posset nisi omnem perfectionem in se con- ery perfection in itself. Moreover, if it did not exceed all other things in
+tineret. Nisi autem ita excederet omnia, non esset primum 165R this way, it would not be the first being under every ratio and perfection
+ens sub omni ratione et perfectione entis, et consequenter of being. Consequently, not every ratio and perfection of being could
+165 neque ab ipso posset omnis ratio et perfectio entis manare. flow from it.
+Obiectioni
+respondetur.
+8. Dices, Hac ratione probaretur illud primum ens de- 8. You will say that this argument proves that the first being must Response to an
+objection.	bere esse tale ut omnium entium perfectiones ita in se con- be such that the perfections of all beings are contained in it in just the
+tineat, sicut in ipsis sunt, quia tota haec perfectio cogitari 170R way that they are in those other beings, since this whole perfection can
+potest in aliquo ente, et hic modus, excedendi reliqua est be thought to be in some being. And this way of exceeding the other
+170 perfectior. Respondetur negando sequelam, quia non omnes beings is more perfect. I respond by denying the consequence, since not
+illae perfectiones formaliter sumptae, spectant ad consum- all those perfections taken formally are relevant for the consummate per-
+matam entis perfectionem: neque omnes inter se compossi- fection of being. Nor are they all compossible with each other or with
+biles sunt, neque cum exacta ac summa rei perfectione. Unde 175R the exact and highest perfection of a thing. Hence, in order to explain
+ad hoc declarandum recte distinguunt Theologi duplices en- this matter, theologians rightly distinguish two kinds of perfection of be-
+175 tis perfectiones, quasdam vocant simpliciter simplices, alias ing. Some they call ‘unqualified simple perfections’, but others ‘qualified
+
+-- 6 of 9 --
+
+Suárez, DM XXX, sect. 1 7
+vero perfectiones secundum quid, seu non simpliciter. Prioris perfections’ or ‘perfections relative to something’. Of the former kind
+generis sunt, quae neque involvunt <63> imperfectionem ul- are those that do not involve any imperfection nor any repugnance or
+lam, nec repugnantiam vel oppositionem cum alia maiori, 180R opposition with another greater or equal perfection. Hence, it first and
+vel aequali perfectione. Unde de ratione perfectionis sim- foremost belongs to the ratio of an unqualified perfection to be absolute
+180 pliciter imprimis est, ut sit absoluta et non relativa: nam and non-relative. For a relative perfection excludes something opposite
+perfectio relativa excludit aliam sibi oppositam, quae, quan- to itself. This opposite, insofar as it itself is concerned, could be some-
+tum est ex se, potest esse aeque perfecta. Deinde esse de- thing equally perfect. Further, it must be such an absolute perfection
+bet talis perfectio absoluta, quae nullam includat imperfec- 185R that it does not include any imperfection and that it is not opposed to
+Anselmus. tionem, neque alteri meliori opponatur. Unde ex Anselmo something better. Hence, an unqualified perfection is usually defined
+185 in Monologio cap. 14. definiri solet perfectio simpliciter quod with Anselm, Monologion, ch. 15, as ‘that where in any thing whatsoever Anselm.
+sit illa quae in unoquoque est melior ipsa quam non ipsa: id est, it is better to be so than not to be so’,6 that is, that where in an individual
+quae in individuo entis, seu in latitudine entis ut sic, melior being or in the whole breadth of being as such it is better to be so than
+Scotus.
+Caietanus.
+est ipsa quam quaelibet repugnans, ut bene exposuit Scotus in 190R to be anything whatsoever repugnant to being so. Scotus explains this Scotus.
+1. dist. 8. q. 1. ad 1. et Caietanus De ente et essentia cap. 2. Om- well in I, dist. 8, q. 1, ad 1, as well as Cajetan in De ente et essentia, ch. 2. Cajetan.
+190 nis autem alia perfectio, quae non est huiusmodi, dici potest Every other perfection that is not of this kind is a qualified perfection or
+secundum quid, seu non simpliciter, seu in certo genere. a perfection relative to something or only in a certain genus.
+Omnes
+perfectiones
+simpliciter
+simplices in Deo
+sunt formaliter.
+9. De perfectionibus ergo simpliciter dicendum est, 9. Therefore, concerning unqualified perfections it should be said All unqualified
+simple
+perfections are
+formally in God.
+omnes esse in Deo formaliter, quia in suo formali conceptu 195R that they are all formally in God, since in their formal concept they in-
+nullam imperfectionem, sed puram perfectionem involvunt, volve no imperfection but only pure perfection and they do not include
+195 neque inter se repugnantiam includunt. Unde sic illas habere, any repugnance with one another. Hence to have them in this way—that
+id est formaliter, melius est quam aliqua earum carere, et ideo is, formally—is better than to lack any of them. And for this reason it
+de ratione entis summe perfecti in tota latitudine entis, est belongs to the ratio of the being that is highest and most perfect in the
+ut has perfectiones formaliter includat. Adde, in his per- 200R whole breadth of being to include these perfections formally. In addi-
+fectionibus non posse cogitari altiorem modum continendi tion, in the case of these perfections no higher way of containing them
+200 illas quam formaliter, quia intra suam formalem rationem, can be thought of than formally, since they include no limitation or im-
+nec limitationem, nec imperfectionem includunt, neque al- perfection within their formal ratio. Nor can a higher grade of being be
+tior gradus entis excogitari potest quam ille, ad quem hae for- thought of than that to which these formal perfections belong, perfec-
+males perfectiones pertinent, quales sunt vivere, sapere, et alia 205R tions such as to live, to be wise, and others of this kind.
+huiusmodi. At vero de perfectionibus secundum quid, seu in On the other hand, with respect to perfections that are qualified or
+205 certo genere, dicendum est non pertinere ad consummatam only in a certain genus, it should be said that it does not belong to the
+perfectionem primi entis ut illas formaliter includat, ut recte consummate perfection of the first being to include these formally. The
+probat obiectio facta, quia alias repugnantia et opposita in- objection rightly proves this, since otherwise the first being would in-
+cluderet. Item saepe huiusmodi perfectio in suo conceptu 210R clude repugnance and opposites. Also, a perfection of this sort often in-
+formali includit limitationem, compositionem aut aliam sim- cludes limitation, composition, or some other similar imperfection in its
+210 ilem imperfectionem: ergo ut sic non potest pertinere ad con- formal concept. Therefore, it cannot as such belong to the consummate
+6This is not an exact quotation from Anselm, but it is not too difficult to gather this definition from what he says in ch. 15 (ch. 14 is commonly cited but in modern editions
+the relevant text appears in ch. 15). The passage is a standard one to cite among later scholastics when discussing this distinction between unqualified perfections and qualified
+perfections.
+
+-- 7 of 9 --
+
+Suárez, DM XXX, sect. 1 8
+summatam perfectionem supremi entis. Pertinet ergo ad per- perfection of the supreme being.
+fectionem illius entis, ut has omnes perfectiones eminenter Therefore, it belong to the perfection of this being that it contain all
+contineat: estque hic modus consentaneus excellentiae illius 215R these perfections eminently. To contain them in this way is appropriate
+entis, quod habet gradum et modum essendi eminentiorem, to the excellence of that being, which has a more eminent grade and
+215 quam omne ens in quo hae perfectiones formaliter reperiun- mode of being than every being in which these perfections are found
+tur, et ideo eminentiori modo continere debet has <col. b> formally. And for this reason it must contain these perfections in a more
+perfectiones, quam sint in entibus factis. eminent way than they are contained in created beings.7
+Quid sit unam
+rem in alia
+eminenter
+contineri.
+10. Quid autem sit continere unam rem eminenter aliam, 220R 10. But what it is for one thing to contain another thing or its perfec- What it is for one
+thing to contain
+another
+eminently.
+seu perfectionem eius, disputant Theologi cum D. Thoma tion eminently is something about which the theologians dispute with
+220 1. p. q. 4. Breviter tamen dicendum est continere eminen- St. Thomas, Summa theologiae Ia.4.8 Nevertheless, it should briefly be
+ter, esse habere talem perfectionem superioris rationis, quae said that to contain eminently is to have such a perfection of a superior
+virtute contineat quidquid est in inferiori perfectione, quod ratio, which virtually contains whatever is in the lower perfection. We
+non potest melius explicari a nobis quam in ordine ad causal- 225R cannot explain this better than in relation to causality or effect. Hence,
+itatem, vel effectum. Unde perfectiones omnes creaturarum, all the perfections of created things, insofar as they are eminently in God,
+225 quatenus sunt eminenter in Deo, nihil aliud sunt quam ip- are nothing else than the very creator essence of God, as Augustine said
+samet creatrix essentia Dei ut dixit Augustinus lib. 4. De Gen- in De Genesi ad litteram, book 4, ch. 24 and following; in On the Trin-
+esi ad litteram cap. 24. et sequentibus et lib. 4. De Trinitate ity, book 4, from the beginning; in In Evangelium Ioannis, tract. 1; and
+a principio et tract. 1. In Evangelium Ioannis. Anselmus in 230R Anselm in Monologion, chs. 34 and 35, and in Proslogion, ch. 17. The
+Monologio cap. 34. et 35. et in Proslogio cap. 17. Dicitur autem creator essence, moreover, is said to be all things eminently, insofar as
+230 creatrix essentia esse eminenter omnia, quatenus se sola et by itself alone and but its eminent power, it can communicate these per-
+sua eminenti virtute rebus omnibus potest illas perfectiones fections to all things. Not that being able to effect things is to contain
+communicare. Non quod formaliter loquendo, et secundum them eminently, speaking formally and according to the precision of ra-
+praecisionem rationis, posse res efficere sit eas eminenter con- 235R tio. For we can distinguish these by ratio, and we believe that this causal
+tinere: nos enim haec ratione distinguimus, et causalem hanc locution is true: since it contains them eminently, it can for that reason
+235 locutionem veram esse credimus: Quia continet eminenter, effect them. But we explain this containing in relation to the effect, since
+ideo potest illas efficere, sed explicamus illam continentiam we cannot present the matter more helpfully and clearly.
+per ordinem ad effectum, quia non possumus commodius et
+clarius id praestare.
+11. Quod enim quidam aiunt continere eminenter per- 11. For what some people say—that to contain the perfections of
+240 fectiones creaturarum esse, continere quidquid est perfectio- 240R created things eminently is to contain whatever perfections are in them
+nis in illis, seclusis imperfectionibus, obscurius est, nam cum with the imperfections left off—is more obscure. For when God is said to
+dicitur Deum continere quidquid est perfectionis creaturae contain whatever is of a creature’s perfection but with the imperfections
+seclusis imperfectionibus, aut subintelligitur eminenter, et sic left off, either we are tacitly understanding ‘eminently’ with ‘contain’,
+nihil explicatur, aut subintelligitur formaliter, et sic involvi- in which case nothing is explained, or we are tacitly understanding ‘for-
+7For nn. 9–12 I have been helped by referring to the translation in Descartes’ Meditations: Background Source Materials, edited by Roger Ariew, John Cottingham, and Tom
+Sorell (Cambridge: Cambridge University Press, 1998), 34–35.
+8The notion of eminent containment comes up hundreds of times in Suárez’s writings in diverse contexts. He comes as close to a helpful explication here as in any passage of
+which I am aware, though one might well wish for more.
+
+-- 8 of 9 --
+
+Suárez, DM XXX, sect. 1 9
+245 tur repugnantia: nam seclusa omni imperfectione non re- 245R mally’, in which case it involves a repugnance. For if every imperfection
+manet formalis perfectio creaturae ut sic: quia in intrinseca is left off, there does not remain the formal perfection of a created thing
+formali ratione et conceptu creaturae includitur imperfectio. as such, because imperfection is included in the formal ratio and concept
+of a created thing.
+Obiectioni
+respondetur.
+12. Dices hinc sequi, nullam perfectionem creatam esse 12. You will say that from this it follows that no created perfection A response to an
+objection.	formaliter in Deo, quia nulla perfectio creata est, quae for- 250R is formally in God, since there is no created perfection that does not
+250 maliter sumpta non includat imperfectionem. Respondeo, include imperfection when taken formally. I respond that it is true that
+verum esse nullam perfectionem creatam secundum adae- no created perfection is in God formally according to the precise ratio
+quatam rationem quam habet in creatura, esse in Deo for- that it has in a created thing; rather, it is in God only eminently. For
+maliter, sed eminenter tantum: non est enim in Deo sapien- created wisdom is not in God, since as such it is an accident and a finite
+tia creata, nam ut sic est accidens et finita perfectio, et idem 255R perfection. The same is true for other similar cases. Therefore, God
+255 est de caeteris similibus. Dicitur ergo Deus quasdam ex his is said to contain certain of these perfections formally, since after them
+perfectionibus continere formaliter, quia secundum eas habet he has some formal agreement with a created thing, by reason of which
+aliquam forma- <64> lem convenientiam cum creatura, ra- that perfection is attributed to God with the same name and the same
+tione cuius illa perfectio secundum idem nomen, et eamdem formal ratio or concept, as long as we preserve the analogy that is always
+rationem seu conceptum formalem attribuitur Deo et crea- 260R present between God and a created thing. But when there is not such
+260 turae, salva analogia, quae inter Deum et creaturam semper an agreement or formal denomination, but only the efficacy of divine
+intercedit. Quando vero non est talis convenientia, nec for- power, then we say that eminent containment intervenes. And so no
+malis denominatio, sed sola efficacitas divinae virtutis, tunc perfection is formally in God except according to a concept proper to
+dicimus intercedere continentiam eminentialem. Atque ita God or at least according to a concept abstracting from God and created
+in Deo nulla perfectio est formaliter nisi vel secundum pro- 265R things.
+265 prium conceptum Dei, vel saltem secundum conceptum ab- Another difficulty remains here, since it follows that there are infi-
+strahentem a Deo, et creaturis. Restabat hic alia difficultas, nite perfections in God. But this will be resolved easily from what will
+quia sequitur esse in Deo infinitas perfectiones: sed haec facil- be said in the following two points.
+lime expedietur ex dicendis in duobus punctis sequentibus.
+
+-- 9 of 9 --

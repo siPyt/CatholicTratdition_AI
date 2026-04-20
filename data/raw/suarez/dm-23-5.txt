@@ -1,0 +1,397 @@
+Last revision: January 7, 2011	Francisco Suárez, S. J.
+DM XXIII, SECT. 51
+© Sydney Penner 2011
+<864>2
+Quaenam sit in fine proxima ratio finaliter causandi. What then the proximate nature of final-causing is in the end.
+1. Sensus praesentis quaestionis ex superiori constat; non enim 1. The sense of the present question is clear from what preceded. For
+inquirimus rationem causandi quatenus dicit causationem in we are not inquiring into the nature of causing insofar as it expresses
+actu secundo, sed quatenus dicit actum primum quasi for- causation in the second act, but insofar as it expresses a first act, as it
+5 malem, constituentem causam finalem proxime aptam et suf- 5R were, constituting a final cause proximately apt and sufficient for caus-
+ficientem ad causandum. Sicut enim in causa efficiente distin- ing. For just as in the efficient cause we distinguish the thing which
+guimus rem quae causat a proxima ratione causandi, ita in fi- causes from the proximate nature of causing, so in the final cause it
+nali videtur necessarium, quia eadem omnino res potest esse et seems necessary, because the very same thing can be both an efficient
+principium efficiens et causa finalis et formalis; oportet ergo ut principle and a final and a formal cause. Therefore, it is necessary that
+10 sub diversis rationibus haec munera exerceat; ergo illa ratio sub 10R it exercises these functions under different rationes. Therefore, that ra-
+qua exercet munus causae finalis, erit quae proxime constituit tio under which it exercises the function of final cause will be the one
+finalem causam quasi in actu primo. which proximately constitutes a final cause as if in the first act.
+Resolutio quaestionis. Resolution of the question.
+2. De hac igitur re communis consensus Doctorum omnium 2. So then concerning this matter it seems to be a general consensus
+15 esse videtur bonitatem esse proximam rationem sub qua finis 15R among all the doctors that goodness is the proximate ratio under which
+movet; atque ita illam esse quae constituit finalem causam, dans the end moves. And so that is what constitutes a final cause, giving
+(ut ita dicam) virtutem ad causandum. Ita sentit D. Thomas, (if I may speak in this way) force (virtutem) for causing. St. Thomas
+I-II, q. 1, a. 1, et latius III cont. Gent., c. 2 et 3, ubi ostendit thinks this in [ST ] IaIIæ.1.1 and more broadly in SCG III, c. 2 and 3,
+idem esse operari propter finem, quod operari propter bonum, where he shows that it is the same to act for the sake of an end as to
+20 et I, q. 5, a. 4, probat bonum habere rationem finis; et ibidem, 20R act for the sake of good. And in Ia.5.4 he proves that good has the ratio
+solutione ad 2, de hac causalitate declarat illud Dionysii, c. 4 de of an end. And in the same place, ad 2, he declares concerning this
+Divin. nom., Bonum est diffusivum sui, nimirum, finaliter at- causality [the statement] from Dionysius, c. 4 of de Divin. nom. that
+trahendo et alliciendo voluntatem. Eamdem doctrinam habet good is self-diffusive, namely, by final-attracting and enticing the will.
+Alex. Alens., I p., q. 17, memb. 3, et q. 34, memb. 1; sumptaque Alexander of Hales holds the same doctrine in p. I, q. 17, memb. 3 and
+25 est ex Aristotele, II Phys., c. 3, tex. 31, ubi dicit finem et bonum 25R q. 34, memb. 1. And it has been taken up from Aristotle, Phys. II, c. 3,
+1Latin text is from http://perso.wanadoo.es/v963918818/d23.htm. Retrieved Feb. 11, 2008.Spelling errors corrected without note. I checked the text against the 1597 edition
+(generally the most reliable text) for significant textual variations. Marginal notes are as found in the 1597 edition. Many of those, though not all and not always in the right place,
+are included in the Vivès edition as italicised text. For recorded variants, A = 1597 edition, D = digital source, and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 10 --
+
+Suárez, DM XXIII, sect. 5 2
+esse idem, quod etiam repetit V Metaph., c. 2, et lib. I Ethic., tex. 31, where he says that the end and the good are the same, which he
+c. 7, ait id esse unicuique bonum, cuius gratia caetera operatur; also repeats in Metaph. V, c. 2, and in EN I, c. 7, he says that for each
+idem lib. I Ethic. ad Eudemum, sub finem. Ratio autem est [agent] that is the good for the sake of which other things are done.
+quia causalitas finis consistit in motione metaphorica volun- And likewise in EE I close to the end. Morever, the reason is because
+30 tatis, qua illam ad se allicit; nihil autem ad se allicit voluntatem 30R the causality of the end consists in a metaphorical motion of the will by
+nisi quatenus bonum est; ergo bonitas est ratio movendi vol- which the end entices the will to itself. Moreover, nothing entices the
+untatem; ergo etiam est ratio seu principium causandi finaliter. will to itself except insofar as it is good. Therefore, goodness is the ratio
+Minorem suppono ut certam, ex communi consensu theologo- for moving the will. Therefore, it is also the ratio or principle of final-
+rum et philosophorum, dicentium voluntatem non posse ferri causing. I assume the minor as certain from the general consensus of
+35 in aliquid nisi sub ratione boni, iuxta illud, bonum est quod 35R theologians and philosophers, who say that the will cannot be brought
+omnia appetunt. to something except under the aspect of good, given that good is what
+everyone desires.
+Malum ut malum possitne causa esse finalis. Whether bad as bad could ever be a final cause.
+3. Sed occurrit statim controversia cum Ocham et aliis nom- 3. But a controversy immediately comes up with Ockham and other
+inalibus dicentibus posse voluntatem ferri in malum sub ra- nominalists saying that the will can be brought to something bad under
+tione mali. Ita Ocham, In III, q. 13, dub. 3. Inclinat etiam the aspect of bad. Ockham [says] this in [Sent.] III, q. 13, dub. 3. Scotus
+Scotus, In I, dist. 1, q. 4, circa finem, et In II, dist. 43, q. 2. also inclines this way in [Sent.] I, dist. 1, q. 4 and II, dist. 43, q. 2. From
+5 Ex quorum assertione plane sequitur malum ut malum posse 5R their assertion it plainly follows that bad as bad can also metaphorically
+etiam metaphorice movere voluntatem et consequenter habere move the will and consequently have final causality, for if bad can be
+causalitatem finis, nam si malum potest propter se amari, etiam loved for its own sake, it will also be possible for other things to be
+poterunt alia amari propter ipsum, si ad illud obtinendum nec- loved for its sake, if they are necessary and useful for obtaining it. And
+essaria et utilia sint. Atque ita fiet ut non sit bonitas adaequata thus it will result that goodness is not the adequate ratio and force of
+10 ratio et virtus finis ad causandum finaliter, sed erit entitas vel 10R the end for final-causing, but it will be an entity or something of this
+aliquid huiusmodi, ut Ocham significat. sort, as Ockham indicates.
+4. Verumtamen haec sententia antiquata est et ab scho- 4. Nevertheless, this time-honoured view is deservedly rejected by
+lis merito reiecta, utpote repugnans cum Aristotelis, Dionysii, the schools, inasmuch as it is repugnant to Aristotle, Dionysius, Au-
+Augustini, D. Thom. et omnium recte sentientium consensu, gustine, St. Thomas, and to the right consensus of all views. This is
+15 ut patet ex Aristot., lib. I Ethic., c. 1; Dionys., c. 4 de Di- 15R clear from Aristotle, EN I, c. 1; Dionysius, On the Divine Names, c. 4;
+vin. nom.; August., II Confess., c. 6 et 8; D. Thoma, I-II, q. 8, Augustine, Conf. II, c. 6 and 8; St. Thomas, ST IaIIæ.8.1; and for the
+a. 1, et reliquis theologis, In II, dist. 43; Henric., Quodl. I, remaining theologians in II, dist. 43, and Henry of Ghent in Quodl. I,
+q. 17. Vide etiam Greg. Nyss., lib. de Opificio hominis, c. 20; q. 17. See also Gregory of Nyssa, De opificio hominis, c. 20, and [John]
+et Damas., lib. II de Fide, c. 22. Horum enim omnium ax- Damascene, De fide II, c. 22. For it is a common axiom for all of them
+20 ioma commune est, neminem ad malum intendentem operari. 20R that no one acts by intending bad. And this is entirely obvious from ex-
+Estque id experientia evidentissimum. Et ratio est quia esset perience. And the reason is that the faculty of the will would have been
+inordinatissime instituta voluntatis facultas si in malum qua set up most inordinately if it could be brought to a bad thing insofar
+malum est ferri posset. Quid enim magis inordinatum esse as it is bad. For what could be more inordinate than to will something
+
+-- 2 of 10 --
+
+Suárez, DM XXIII, sect. 5 3
+potest quam velle malum quia malum est? Voluntas autem bad precisely because it is bad? But the will can will nothing by an
+25 nihil potest appetitu elicito velle nisi quod sit consentaneum 25R elicited desire except that which is fitting for some natural inclination
+alicui naturali inclinationi ipsius voluntatis, quia ex tali incli- of the will itself, because every elicited appetition—at least every natu-
+natione nascitur omnis appetitio elicita, saltem naturalis, quia ral one—arises from such an inclination. For every appetition of this
+omnis appetitio huiusmodi refertur ad obiectum adaequatum sort is referred to some object that is adequate and proportionate to the
+et proportionatum voluntati vel aliquam partem eius; natu- will or to some part of it. But a natural inclination of the will is to its
+30 ralis autem inclinatio voluntatis est ad totum illud obiectum; 30R whole object. Therefore, if the will could be moved through a proper
+si ergo voluntas posset moveri per proprium actum in malum act to something bad insofar as it is bad, the natural inclination would
+ut malum, naturalis etiam inclinatio eius esset ad malum ut also be to something bad insofar as it is bad. Therefore, that natural
+malum; esset ergo ipsa naturalis inclinatio inordinata. Hoc inclination would be inordinate. But this is wholly repugnant, both be-
+autem omnino repugnat, tum quia ab optimo auctore sapien- cause the will is set up by the best and most wise author and because it
+35 tissime instituta, tum etiam quia esset sibi ipsi repugnans. Nam 35R would be self-contradictory. For the end or institution of the will is so
+voluntatis finis seu institutio est ut per eam homo quaerat con- the human being will through it seek things agreeable to him and flee
+venientia sibi et fugiat disconvenientia; si ergo accepisset incli- things disagreeable. Therefore, if it received an inclination to tend to
+nationem ad tendendum in disconveniens quatenus disconve- something disagreeable insofar as it is disagreeable, it would formally
+niens est, formaliter et directe sibi ipsi et suo fini repugnaret, et and directly contradict itself and its end. And therefore [John] Dama-
+40 ideo recte dixit Damasc., lib. II, c. 22: Voluntas fertur ad agen- 40R scene rightly said in De fide II, c. 22: ‘The will is brought to acting for
+dum in illis rebus quae naturae consentaneae sunt. Ut Senec., those things which are fitting to nature’. As Seneca said in De benef. IV,
+lib. IV de Benefic., c. 17, dixit: Nec quisquam tantum a naturali c. 17: ‘Nor has anyone so fallen from the natural law and cast off his
+lege descivit et hominem exuit, ut animi causa malus sit. humanity as to be bad for his mind’s sake’.
+5. Et confirmatur, nam impossibile est ut intellectus assen- 5. And it is confirmed: for it is impossible for the intellect to assent
+45 sum praebeat falso quatenus falsum est; ergo et quod voluntas 45R to something false insofar as it is false. Therefore, it is also impossible
+prosequatur malum quatenus malum est. Patet consequentia that the will pursue something bad insofar as it is bad. The consequence
+quia, sicut comparatur intellectus ad verum, ita voluntas ad is clear, because the will is related to the good just as the intellect is to
+bonum; tantaque est ex terminis ipsis repugnantia inter prose- the true. And there is just as great a repugnance on the part of the terms
+cutionem et malum, quanta est inter assensum et falsum. Tum between pursuit and bad as there is between assent and false. Also be-
+50 etiam, quia si intellectus non potest iudicare assentiendo falso, 50R cause if the intellect cannot judge by assenting to the false, it therefore
+ergo non potest iudicare malum ut malum habere unde ametur, cannot judge the bad as bad to have what it takes to be loved, for that is
+nam id est evidenter et ex ipsis terminis falsum et repugnans evidently and from the terms themselves false and repugnant to every
+omni intellectui. Cuius signum apertum est (ut obiter solva- understanding. It is an obvious sign of this (so that along the way we re-
+mus omnia argumenta quae contra fieri solent), quia nunquam solve every argument which is usually made for the opposing position)
+55 iudicamus esse amandum vel prosequendum aliquid quod alias 55R that we never judge that something is to be loved or is to be pursued
+malum esse cognoscimus, nisi quia iudicamus commodum vel that we otherwise cognize as being bad except because we judge it ad-
+ad delectationem, vel ad vindictam sumendam, vel ad aliam vantageous or useful for getting delight or revenge or for something
+similem utilitatem. Ergo nec voluntas potest ferri in malum ut else. Therefore, the will cannot be brought to something bad insofar
+tale est, seu quod tantum cognoscitur esse malum. Patet con- as it is such or to something only cognized as bad. The consequence is
+60 sequentia, quia, ut inferius dicetur, voluntas non potest moveri 60R clear, because, as I will say further on, the will cannot be moved except
+nisi medio iudicio rationis quo sufficienter proponatur aliquid by means of a judgement of reason by which something is sufficiently
+
+-- 3 of 10 --
+
+Suárez, DM XXIII, sect. 5 4
+vel appetendum vel appetibile. proposed as either something that is to be desired or is desirable.
+6. Atque hinc tandem sumitur ratio quae ad rem de qua 6. And, finally, from here is taken the argument that regards the
+agimus spectat, quia in malo ut sic quatenus malum est nihil thing concerning which we act, because in a bad thing as such insofar
+65 est quod possit apprehendi aut existimari ut sufficiens ratio ob 65R as it is bad there is nothing that could be apprehended or estimated as
+quam voluntas moveatur. Nam vel in malo consideratur mali- a sufficient reason for the will to move. For in the bad thing one either
+tia, vel entitas quae malitiae subest. Malitia per se ac formaliter considers the badness or the entity which lies underneath the badness.
+sumpta nihil habet quo voluntatem alliciat vel attrahat, quia Badness taken in itself or formally has nothing by which it entices or
+ipsa nihil est, ut in superioribus diximus. Entitas autem, quae attracts the will, because it itself is nothing, as we said earlier. But the
+70 malitiae subesse potest, aliquid bonitatis habet; unde si appeti- 70R entity that lies underneath the badness has some goodness. Hence, if
+tum movet, id est ratione bonitatis. Et confirmatur, nam in it moves the appetite, it does so by reason of the goodness. And it is
+electione mediorum impossibile est voluntatem eligere aliquid confirmed, forin the election of means it is impossible for the will to
+ut medium ad finem eo quod sit disconveniens, vel impediat elect something as a means to the end by reason of it being disagreeable
+ad consecutionem finis, quod esset eligere malum oppositum to or impeding the attainment of the end. That would be to elect a bad
+75 bono utili sub ratione mali; ergo in intentione vel amore finis 75R opposing a useful good under the aspect of bad. Therefore, in intention
+impossibile est quod feratur in aliquid ut in finem eo quod per or love for the end it is impossible that the will is brought to something
+se sit disconveniens, quod est velle sub ratione mali oppositi as to an end by reason of it being in itself disagreeable. That would be to
+bono propter se appetibili. Antecedens videtur per se notum will under the aspect of bad opposing a good desirable for its own sake.
+ex terminis; qui enim intelligi potest ut aliquis ex intentione The antecedent seems per se notum from the terms. For who can make
+80 finis eligat quod repugnat fini, quatenus tale est? nam esset 80R sense of someone choosing something repugnant to an end insofar as
+haec contradictio in ipsa voluntate. Quin potius docent omnes it is repugnant in that way as a result of an intention for the end? For
+qui recte sentiunt, quando unitum est medium utile ad finem this would be a contradiction in the will. Instead, everyone who thinks
+fieri non posse quin voluntas illud eligat, si vere et efficaciter rightly teaches that when a useful means is united to an end it cannot
+intendit finem; multo ergo impossibilius est ut eligat medium but happen that the will elects that means if it truly and efficaciously
+85 inutile, qua tale est. Prima vero consequentia probatur, quia 85R intends the end. Therefore, much more is it impossible for it to elect a
+tantum repugnat malum ut in se malum est, intentioni, sicut useless means insofar as it is useless. But the first consequence is proven
+inutile ut inutile, electioni; nam sicut electio inutilis, ut inu- because just as much as bad insofar as it is bad in itself is repugnant to
+tilis, repugnat intentioni finis, ita intentio mali ut per se mali, intention, so the useless insofar as it is useless is repugnant to election.
+repugnat naturali et adaequatae propensioni voluntatis. For just as the election of something useless insofar as it is useless is
+90R repugnant to the intention for the end, so the intention for a bad thing
+insofar as it is bad in itself is repugnant to the natural and adequate
+propensity of the will.
+Indifferens ut sic possitne causa esse finalis. Whether indifference as such could ever be a final cause.
+7. Dices haec argumenta satis probare et malum ut malum non 7. You may say that these arguments are enough to prove both that bad
+posse finaliter causare et bonum ut bonum posse, non tamen as bad cannot final-cause and that good as good can, but this does not
+probare solum bonum posse habere huiusmodi causalitatem, yet prove that only good can have causality of this sort or that goodness
+5 aut bonitatem esse adaequatam rationem finalisandi. Quia 5R is the adequate nature of final-causing. For between good and bad there
+
+-- 4 of 10 --
+
+Suárez, DM XXIII, sect. 5 5
+inter bonum et malum potest dari indifferens vel reipsa, vel can be indifference, either in the thing itself or at least as considered by
+saltem praecisione mentis, quatenus ratio entis aut veri praecisa the mind, insofar as the ratio of being or of the true can be considered
+ratione boni considerari potest; ergo haec potest esse ratio suf- apart from the ratio of good. Therefore, this can be a sufficient reason
+ficiens ad movendum appetitum, et consequenter ad finaliter for moving appetite and consequently for final-causing. I respond that
+10 causandum. Respondeo in re dari quidem posse ens indifferens 10R in the thing there can indeed be given being that is indifferent according
+secundum aliquam rationem boni, non tamen secundum om- to some aspect of good but, nevertheless, not according to every [aspect
+nem, quia non potest ens non esse bonum, atque ita quando ens of good]. For being cannot fail to be good. Thus when being moves
+sub aliqua ratione indifferens voluntatem movet, non movet il- the will under some aspect of indifference, it does not move the will
+lam quatenus indifferens est, sed quatenus aliquam rationem insofar as it is indifferent but insofar as it has some aspect of good. If
+15 boni habet. Quod si contingat aliquod ens sub omni ratione 15R it happens that some being is indifferent under every aspect of good
+boni esse indifferens respectu appetentis, id est, ut nec sit hon- in relation to the person desiring, that is, so that it is neither morally
+estum, nec turpe, nec iucundum, nec molestum, neque naturae good nor wicked, neither pleasant nor annoying, neither agreeable to
+conveniens, neque disconveniens (quod fortasse non potest in- nature nor disagreeable (which perhaps can never happen), once all that
+veniri), tamen illo posito, tale ens non posset habere causal- has been posited, such being cannot have final causality in the will. For
+20 itatem finalem in voluntate; quia nullam convenientiam aut 20R it would have no agreeability or conformity with the will. The will,
+conformitatem haberet cum illa; voluntas autem cum sit es- moreover, since it is essentially appetite, is not inclined except to the
+sentialiter appetitus, non inclinatur nisi in conveniens ut tale agreeable insofar as it is such. Hence, when the ratio of being of itself is
+est; unde cum ratio entis de se sit indifferens ad rationem indifferent to the one desiring with respect to the aspect of agreeability
+convenientis et disconvenientis appetenti, non est de se suffi- or disagreeability, it is not of itself sufficient for moving the appetite.
+25 ciens ad movendum appetitum. Quod si interdum videatur 25R If sometimes it seems that some being moves the will only because it is
+ens aliquod movere voluntatem solum quia non existimatur not thought disagreeable, this happens because in every being there is
+disconveniens, ideo est quia in omni ente apprehenditur inesse apprehended to be something of goodness and of perfection so that it
+aliquid bonitatis et perfectionis, quae si aliunde non habet dis- is deemed agreeable by very reason of its perfection if it does not have
+convenientiam, hoc ipso ratione suae perfectionis existimatur disagreeability from some other source.
+30 conveniens.
+8. Immo, quia id quod est in se bonum potest esse vel 30R 8. Indeed, since that which is in itself good can be either agreeable
+conveniens vel disconveniens homini, ideo non quaecumque or disagreeable to a human being, not just any goodness but only that
+bonitas, sed secundum aliquam convenientiam ad appetentem which has some agreeability to the one desiring is a sufficient ratio for
+est sufficiens ratio finalisandi. Propter quod dixit Arist., VIII final-causing. For this reason Aristotle said in EN VIII, c. 5: ‘What
+35 Ethic., c. 5: Amabile quidem bonum, unicuique autem pro- is lovable [is] indeed good, but [what is lovable] to each person [is
+prium. Quod quomodo intelligendum sit, longam et theologi- 35R the good] for him’. How this should be understood demands a long
+cam postulat disputationem, tum propter amorem amicitiae, and theological disputation, both on account of friendship love and
+tum maxime propter amorem Dei super omnia. Nunc breviter especially on account of love for God beyond all other things. For now
+tantum notetur bonum proprium non debere intelligi solum il- I will only briefly note that one’s own good must not be understood to
+40 lud quod cedit in proprium commodum, sed simpliciter quod be only that which yields one’s own advantage but strictly speaking that
+per se decet aut est consentaneum naturae appetentis. Quo 40R which in itself is right or is fitting to the nature of the person desiring.
+sensu comprehenditur omnis finis, etiamsi ad perfectissimum Every end is included in this sense, even if it belongs to the most perfect
+amorem amicitiae pertineat. friendship love.
+
+-- 5 of 10 --
+
+Suárez, DM XXIII, sect. 5 6
+9. Rursus dicet aliquis: voluntas non semper movetur 9. On the other hand, someone may say: the will is not always
+45 a fine ad obtinendum aliquid, sed saepe etiam ad vitandum moved by the end to obtaining something but often to avoiding some-
+aliquid; sed ad hoc movetur a fine ratione malitiae; ergo non 45R thing. But it is moved to this by an end under the aspect of badness.
+solum bonum, sed etiam malum ut malum potest habere ali- Therefore, not only good but also bad insofar as it is bad can have some
+quam causalitatem finalem in voluntate. Respondetur quando final causality in the will. For when a moving thing recedes from one
+mobile recedit ab uno termino ut ad alium accedat, terminum terminus and approaches another one, the terminus a quo is not the
+50 a quo non esse finem illius motus, neque excitare mobile (lo- end of that motion not does it excite the moving thing (we are speak-
+quimur metaphorice) ut a se recedat, sed finis est terminus ipse 50R ing metaphorically) to recede; rather the end is the terminus to which
+ad quem mobile fertur, et si finaliter excitari posset ab illo tan- the moving thing is brought. And if it can be final-excited by that, it
+tum traheretur et consequenter ratione illius ab alio termino is only attracted and consequently recedes from the other terminus by
+recederet. Sic ergo voluntas proprie a bono tantum movetur ut reason of that attraction. Therefore, in the same way the will is prop-
+55 a fine a quo trahitur ut ad se accedat per amorem, intentionem, erly moved only by something good as by an end by which it is drawn
+etc.; inde vero sequitur recessus a malo, qui non tam est mo- 55R so that it approaches it through love, intention, etc. But retreat from
+tio in finem quam quid consequens ad tendentiam in finem et something bad follows as a result. This is not so much motion to an end
+quasi quoddam medium ad obtinendum finem. Unde ad il- as something that follows from a tendency to an end and is, as it were,
+lummet actum qui est odium mali, non movet malum nisi in a kind of means to obtaining an end. Hence, as far as that act of hatred
+60 virtute boni, quia non habetur odio malum nisi ratione boni for something bad is concerned, the bad does not move [the will] ex-
+amati, et ita etiam in illo actu dici potest bonitas ratio movens 60R cept by virtue of the good. For the bad is not held for hatred except by
+ad odio prosequendum malum oppositum. Nam odisse malum reason of a loved good. And so in that act there can also be said to be a
+sub ratione mali nihil aliud est quam odisse illud quia privat goodness that is the ratio moving to pursuit to hating the opposing bad.
+bono, et ita bonitas est illis ratio principaliter movens, sicut in For to hate bad under the aspect of bad is nothing other than to hate
+65 simili dicemus paulo inferius de electione mediorum. it because it lacks good. And in that way goodness is in those cases the
+65R primarily moving ratio is goodness, just as in similar cases about which
+we say a little below concerning the election of means.
+10. Tandem dicet aliquis: interdum minor bonitas plus 10. Finally, someone may say: sometimes lesser goodness moves
+movet voluntatem ut amet, quam maior malitia ut recedat, et the will more to love than some greater badness moves it to withdraw
+e converso minor malitia interdum plus movet ad fugam quam and, the other way around, sometimes a lesser badness moves the will to
+magna bonitas ad prosequendum finem; ergo eadem ratione 70R flee more than a great goodness to pursuing the end. Therefore, for the
+70 fieri potest ut voluntas recedat a bono quatenus bonum est, seu same reason it can happen that the will withdraws from a good object
+etiamsi non sit malum, et e converso, ut feratur in malum eti- insofar as it is good or even if it is not bad, and, the other way around,
+amsi non sit bonum, quia, ut dialectici aiunt, sicut simpliciter it can happen that the will is brought to a bad object even if it is not
+ad simpliciter, ita magis ad magis, et e converso. Responde- good. For, as the logicians say, just as strictly to strictly, so also more
+tur: sicut solum bonum potest movere voluntatem, ita etiam 75R to more, and conversely. I respond: just as only something good can
+75 solum maius bonum, quantum est de se, magis movere, dum- move the will, so also only a greater good, insofar as concerns itself,
+modo sufficienter propositum sit. Quod autem voluntas in- can move more, provided that it has been sufficiently proposed. The
+terdum non sic moveatur, provenit ex libertate ipsius volun- fact that the will sometimes is not moved in that way results from the
+tatis. Haec vero non sufficit ut feratur in malum sub ratione will’s own freedom. But this is not enough for it to be brought to bad
+mali, tum quia libertas non potest exerceri extra obiectum vol- 80R under the aspect of bad, both because the freedom cannot be exercised
+
+-- 6 of 10 --
+
+Suárez, DM XXIII, sect. 5 7
+80 untatis, tum etiam quia, hoc ipso quod voluntas feratur in beyond the object of the will and also because by the fact that the will is
+malum ad experiendam suam libertatem, iam non fertur sub brought to something bad in order to experience its freedom does not
+ratione mali, sed sub aliqua ratione utilis. Quamquam hoc mean that it is brought under the aspect of bad but rather under some
+experimentum libertatis semper supponit in obiecto sufficien- aspect of utility. Although this experiment of freedom always assumes
+tem rationem boni vel mali, quae ex parte illius fundare possit 85R in the object a sufficient aspect of good or bad which for its part can be
+85 huiusmodi usum libertatis. Ad hunc autem usum, si sit tantum founded in this kind of use of freedom. But with respect to this use, if
+quoad exercitium, sufficit ut vel bonitas obiecti, vel actus ipse it is only with respect to exercise, it is enough that either the goodness
+seu dilectio eius non existimetur necessaria, ut in superioribus of the object or the act itself or its love is not deemed necessary, as was
+traditum est cum de liberis causis ageremus. related earlier when we dealt with free causes.
+11. Unde, licet bonum quantum est ex se efficacius sit 90R 11. Hence, although a good as far as it is concerned is more ef-
+90 in suo genere ad finaliter causandum, quia tamen actu causare ficacious in its genus for final-causing, nevertheless, because it cannot
+non potest nisi voluntas ipsa se moveri sinat, seu cooperetur actually cause unless the will permits itself to be moved or cooperates
+in suo genere motioni eius, quod pro sua libertate potest non in its genus with its motion (which it can fail to do thanks to its free-
+facere, ideo ex hoc capite accidere potest ut minus bonum actu dom), therefore from this head it can happen that a lesser good actually
+causet finaliter, praetermisso maiori bono. Quod tamen facere 95R final-causes, passing over a greater good. Yet that could not be done if it
+95 non posset si nullam haberet bonitatem, quia iam tunc omnino has no goodness, because now in this case it would wholly lack a reason
+deesset ratio causandi, sine qua non sufficit libertas voluntatis for causing, without which the freedom of the will is not enough for it
+ut moveatur, quamvis, ut non moveatur, sufficiat (ut dixi) car- to be moved, although, in order not to be moved, a lack or negation of
+entia vel negatio boni necessarii, etiamsi malum non sit. Secus the necessary good is sufficient (as I said), even if it is not bad. But it will
+vero erit si usus libertatis non tantum sit quoad exercitium, sed 100R be otherwise if the use of freedom is not only with respect to exercise
+100 etiam quoad specificationem per actum contrarium odii, aut but also with respect to specification through an act contrary to hatred
+similem, nam tunc necesse est ut aliqua ratio mali in obiecto or something similar, for then it is necessary that some aspect of bad
+appareat, nam odium proprie sumptum solum circa rationem appear in the object. For hatred properly taken can only be directed to
+mali versati potest. an aspect of bad.
+12. Dico secundo: non tantum verum bonum quod in re 105R 12. I say secondly: not only the true good which really is or can
+105 sit aut esse possit, sed etiam bonum apparens seu tantum ex- be, but also apparent good or good only estimated to be can be suffi-
+istimatum, potest esse sufficiens ut finalem suam causalitatem cient for the end to exercise its causality. St. Thomas teaches this in
+exerceat. Ita docet D. Thomas, I-II, q. 8, a. 1. Constatque satis ST IaIIæ.8.1. And it is sufficiently clear from experience, for a human
+experientia, nam saepe movetur homo ad inquirendum aliqua being is often moved to seeking things that appear good or delightful
+quae apparent bona, vel delectabilia, quae revera talia non sunt. 110R but which really are not good or delightful. This is also obvious in
+110 Quod etiam in electione mediorum est manifestum; eligimus the election of means. For we often elect something that we think is
+enim saepe quod existimamus esse utile ad finem, quod postea useful for an end but which we afterwards find to be useless or even
+experimur esse inutile, vel etiam impediens. Ratio autem est an impediment. The reason, moreover, is that the final cause does not
+quia causa finalis non causat nisi cognita, ut infra dicemus; cause except cognized, as we will say below. But as far as cognition is
+quantum autem spectat ad cognitionem, perinde se habet res 115R concerned, there is no difference between a thing that is thought to be
+115 quae existimatur bona ac si in re ipsa bona esset, quia idem iu- good and a thing that is good in reality, since the same judgement is
+dicium de illa fertur et aeque verum existimatur, ac denique brought concerning it and it is thought equally true in either case and,
+eodem modo repraesentatur seu proponitur voluntati. finally, it is represented or proposed to the will in the same way.
+
+-- 7 of 10 --
+
+Suárez, DM XXIII, sect. 5 8
+13. Illud tamen videri solet difficile in hac conclusione, 13. That, nevertheless, usually seems difficult in this conclusion: if
+cum causalitas finalis vera et realis sit, quomodo ratio tantum 120R final causality is true and real, how can an aspect that is only imagined
+120 conficta aut existimata possit ad hanc causalitatem sufficere. or thought to be suffice for this causality? For real causality cannot
+Nam realis causalitas non potest oriri nisi a principio reali; arise except from a real principle. But that merely apparent goodness
+illa autem bonitas tantum apparens nihil reale est, sed fictum is nothing real, but rather a fiction. Therefore, it cannot really cause.
+potius; ergo nec potest realiter causare. Immo talis bonitas, Indeed, such a goodness, since it is not in things but in reason alone,
+cum non sit in rebus, sed in ratione tantum, non videtur esse 125R does not seem able to be sufficient for moving the will metaphorically.
+125 posse sufficiens ad movendam metaphorice voluntatem, nam For the will is not brought to things except insofar as they are good.
+voluntas non fertur nisi in res ipsas quatenus bonae sunt.
+14. Respondetur primo hanc causalitatem finalem ita esse 14. I respond, first, that this final causality is real in such a way
+realem ut fiat morali quodam et intellectuali modo per natu- that it comes about in a kind of moral or intellectual way through the
+ralem sympathiam quae est inter voluntatem et intellectum, et natural sympathy that there is between the will and intellect. And for
+130 ideo ad illam non requiri aliud esse reale in causa nisi illud quod 130R this reason no real being in the cause is required for it except that which
+sufficit ad motionem inter has potentias per naturalem con- suffices for the motion between these powers through their natural har-
+sensionem earum, et quia ad illud sufficit esse reale, ut reprae- mony. And because for that it is enough to have being represented as
+sentatum in intellectu, etiamsi in re verum non sit, ideo etiam real in the intellect even if this is not true in reality, for that reason
+ad causalitatem finalem sufficere potest apparens bonitas, licet apparent goodness can also suffice for final causality, even if it is not
+135 vera non sit. Et hoc fere est quod D. Thomas citato loco ait, 135R true. And St. Thomas says almost this in the cited place: elicited desire
+appetitum elicitum sequi formam apprehensam et ideo ad eius follows apprehended form and therefore apprehended or deemed good-
+motionem sufficere bonitatem apprehensam seu existimatam, ness is sufficient for its motion even if the apprehension is not true.
+etiamsi vera non sit.
+15. Addi vero ulterius potest aliud esse loqui de bonitate, 15. But one can further add that it is one thing to speak about
+140 aliud de re bona, nam voluntatem interdum movet res quae goodness but another to speak about a good thing. For a thing that is
+vere bona non est; quo sensu procedit conclusio posita, scil- 140R not truly good sometimes moves the will, in which sense the posited
+icet, quod interdum bonum tantum apparens finaliter causet. conclusion—namely, that sometimes a merely apparent good final-
+Nihilominus tamen dici potest voluntatem nunquam moveri causes—proceeds. Nevertheless, it can still be said that the will is never
+nisi a vera bonitate; nunquam enim movetur nisi vel a delec- moved except by true goodness. For it is never moved except by de-
+145 tatione, vel ab honestate, vel a commodo naturae, quae omnes light, or honesty,3 or by an advantage to nature, all of which are true
+verae bonitates sunt (omitto appetitum boni in communi, in 145R goodnesses (I pass over the appetite for good in general, in which there
+quo non est deceptio). Unde in propria ratione formali quae is no deception). Hence, there is never deception in the proper formal
+movet nunquam etiam est deceptio, sed haec intervenit in ap- ratio which moves; deception comes up in the application of this formal
+plicatione huius rationis formalis ad hanc vel illam rem, et ratio to this or that thing. And for this reason a thing which [merely]
+150 hac ratione movet quidem res quae apparet bona; ratio autem appears good does indeed move. But the moving ratio is not apparent
+movens non est apparens sed vera bonitas, quamvis tali rei 150R but true goodness, although it is falsely attributed to such a thing. So,
+3Suárez uses the traditional threefold division of good into honestum, delectabile, and utile—see n. 16. Translation of these terms is liable to lead to unhappy results. For
+example, one might be tempted to translate honestum with ‘moral good’ or ‘virtuous good’, but those English expressions really do not cover a wide enough range of cases. I
+will here translate the terms with the archaic expressions ‘honesty’ or ‘honest good’, ‘delight’ or ‘delightful good’ (‘pleasure’ would be another option), and ‘useful good’. Suárez
+discusses this division in more detail in DM X.
+
+-- 8 of 10 --
+
+Suárez, DM XXIII, sect. 5 9
+falso attribuatur. Ut verbi gratia, si quis amat furtum ut ex for example, if someone loves theft in order to give alms with what is
+illo eleemosynam faciat, movetur quidem a bono existimato, stolen, he is indeed moved by something thought good. Nevertheless,
+tamen a vera bonitate et honestate, scilicet, ab honestate mis- he is moved by true goodness or honesty, namely, by the honest good-
+155 ericordiae quam in tali actu esse existimat. Et idem est cum ness of mercy which he thinks there is in such an act. And it is the same
+homo quaerit aliquod obiectum quod putat esse delectabile, 155R in the case of a human being who seeks some object that he thinks is de-
+in re tamen delectabile non est, nam ille veram quaerit delec- lightful but which in reality is not delightful. For he seeks true delight
+tationem et ab ea tantum movetur, errat tamen illam appli- and is only moved by that, yet he errs in attributing it to something in
+cando rei in qua vere non est. In hoc ergo sensu dici potest which it really is not. In this sense, therefore, one can say that the ra-
+160 rationem causandi finaliter semper esse veram aliquam boni- tio of final-causing is always some true goodness, although there is not
+tatem, quamvis non semper sit verum aliquod bonum, quia 160R always some true good thing. For such goodness is not always appre-
+non semper apprehenditur talis bonitas aut iudicatur de re in hended in or judged to be in a thing in which it truly exists.
+qua vere existat.
+16. Dico tertio: solum illud bonum quod in se seu per se 16. I say thirdly: only that good which in or of itself is good is
+165 bonum est, est sufficiens ad causalitatem finalem exercendam. sufficient for exercising final causality. It is shown: for good, as we
+Declaratur, nam bonum, ut supra tractavimus, tantum est aut discussed earlier, is either honest good, delightful good, or useful good.
+honestum, aut delectabile, aut utile; ex quibus duo priora sunt 165R Of these, the former two are good in and of themselves, but the third
+in se ac per se bona, tertium vero solum per habitudinem is only good through a relation to those two. All this is explained in
+ad illa, quae omnia ibidem explicata sunt. Igitur duo pri- the same place. Therefore, the former two goods suffice for exercising
+170 ora bona sufficiunt ad causalitatem finalem exercendam, quod final causality, which can easily be shown. For the causality of the end
+facile probari potest. Nam causalitas finis in duobus consistit, consists in two things or in one of them, namely, that it moves the will
+vel in alterutro eorum, scilicet, quod voluntatem moveat ut 170R so that the end is loved or attained for its own sake or other things for its
+finem propter se et alia propter ipsum diligat aut exsequatur; sake. But either of these can play the part according to these goods. For
+utrumque autem horum praestare potest utrumque ex illis bo- an honest good is especially desirable for its own sake as being right in
+175 nis. Nam bonum honestum propter se est maxime expetibile itself or as agreeable in itself to nature. Indeed, this is the very nature of
+tamquam per se decens, vel per sese naturae conveniens; immo honest good, as we noted in the cited place with St. Thomas, ST Ia.6.6.
+haec est ipsa ratio boni honesti, ut dicto loco notavimus cum 175R Moreover, St. Thomas says the same thing about delightul good in ST
+D. Thoma, I, q. 6, a. 6. De bono autem delectabili ait idem IaIIæ.2.6 ad 1 in accordance with Aristotle, EN X, c. 2: it is foolish to
+D. Thomas, I-II, q. 2, a. 6, ad 1, ex Aristot., X Ethic., c. 2, stul- ask why it is desired, for delight itself has of itself that which makes it
+180 tum esse quaerere propter quid appetatur, nam ipsa delectatio desirable. Therefore, these two goods are sufficient for causing a first
+per se habet unde appetibilis sit. Haec ergo duo bona suffici- motion to the end for its own sake.
+entia sunt ad causandum primam motionem in finem propter
+seipsum.
+17. Ex hac autem motione nascitur altera, quae est ad 180R 17. Moreover, from this motion there arises another, which is the
+185 media propter finem; nam illud idem bonum quod propter one to the means for the sake of the end. For that same good which is
+se amatur movet ad amandum alia propter ipsum, si neces- loved for its own sake moves one to loving other things for its sake, if
+saria vel utilia sint ad bonum propter se amatum obtinendum. they are necessary or useful for obtaining the good that is loved for its
+Utrumque ergo ex his bonis per se sufficiens est ratione suae own sake. Therefore, either of these goods is in itself sufficient by rea-
+bonitatis ad causalitatem finalem exercendam quoad utramque 185R son of its goodness for exercising final causality with respect to either
+
+-- 9 of 10 --
+
+Suárez, DM XXIII, sect. 5 10
+190 eius partem. In quo munere sese habent mutuo sicut excedens part of it. In service of this they are mutually related as exceding and
+et excessum, nam bonum delectabile et quoad nos plus movere exceeded, for delightful good both usually moves us more and draws de-
+solet et ad se trahere appetitum, et delectatio quodammodo sire to itself more and delight in a certain way is the ultimate perfection
+est ultima perfectio operationis propter se amabilis; at vero of activity that is lovable for its own sake. But, on the other hand, hon-
+bonum honestum, quo maius est et per se nobilius, eo de se 190R est good, by the fact that it is greater and in itself more noble, of itself
+195 et natura sua potentius est ad hanc causalitatem exercendam et and by its nature is more powerful for exercising this causality and can
+nobiliores etiam effectus potest in hoc genere causare. Quin also cause more noble effects in this genus. But rather, if we regarded
+potius, si naturae institutionem spectemus, solum honestum the institution of nature, only honest good ought to have the proper
+bonum habere debet propriam rationem finis, nam delectatio ratio of an end, for delight is not for its own sake by the intention of
+ex intentione naturae non est propter se, sed propter opera- 195R nature but is added to it for the sake of activity. And for this reason de-
+200 tionem cui adiungitur, et ideo propter illam amari debet, de lightful good ought to be loved for the sake of honest good, concerning
+quo alias latius. which more is to be said elsewhere.
+18. De bono autem utili, cum non sit per se bonum, satis 18. But concerning useful good, since it is not good in itself, it ap-
+manifestum apparet non esse sufficiens ad causalitatem finalem pears obvious enough that it is not sufficient for exercising final causal-
+exercendam, quia bonum utile ut sic non est per se amabile; 200R ity, since useful good as such is not lovable for its own sake. Therefore,
+205 ergo non est sufficiens ad primam motionem finis exercendam. it is not sufficient for exercising the first motion of an end. On the
+Rursus quatenus utile est, non est id propter quod aliud am- other hand, insofar as it is useful, it is not that for the sake of which
+atur, nam potius ipsum amatur propter aliud; ergo neque se- something else is loved, for it is itself rather loved for the sake of some-
+cundam motionem seu causalitatem finis exercere potest. Quin thing else. Therefore, it cannot exercise according to the motion or
+potius sub ea ratione est effectus finis, quia est id quod alterius 205R causality of the en. But it is rather an effect of the end under that as-
+210 gratia fit vel amatur; ergo bonum utile ut sic non potest causali- pect, because it is that which is done or loved for the sake of another
+tatem finalem exercere. Sola ergo bonitas honesta, sive moralis thing. Therefore, useful good as such cannot exercise final causality.
+sive naturalis, et bonitas delectabilis, potest esse propria ratio Therefore, only honest good, either moral or natural, and delightful
+causandi finaliter. Hic vero occurrebat statim difficultas de good can be a proper ratio for final-causing. But here a difficulty about
+mediis, an possint causalitatem finalem exercere, quam melius 210R means immediately comes up: whether they can exercise final causality.
+215 tractabimus sectione sequenti. We will better discuss this in the following section.
+
+-- 10 of 10 --

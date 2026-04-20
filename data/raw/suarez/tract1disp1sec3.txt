@@ -1,0 +1,243 @@
+Last revision: October 27, 2015	Francisco Suárez, S. J.
+De fine hominis disp. 1, sect. 31
+© Sydney Penner 2011
+<6>2
+Utrum finis exerceat causalitatem suam sub ratione boni Whether an end exercises its causality under the aspect of cog-
+cogniti. nized good.
+Explicuimus causalitatem finis et effectum ejus: sequitur We have explained the causality of an end and its effect. The
+ut dicamus de ratione causandi, seu de virtute, per quam next thing to talk about is the ratio of its causing or the force
+5 causat. De qua duo sunt certa, circa quæ alia erunt du- 5R through which it causes. Two things are certain concerning this,
+bitanda et explicanda. but other related matters that are doubtful and should be ex-
+plained.
+Finis ratio, seu
+virtus per quam
+causat, est
+bonitas.
+Ostenditur
+auctoritate
+D. Thom. et
+aliorum.
+1. Primo igitur certum est, finem in suo genere causare, 1. The first thing, then, that is certain is that the end causes The ratio of the
+end or the force
+through which
+it causes is
+goodness.
+It is shown by
+the authority of
+St. Thomas and
+others.
+quatenus quoddam bonum, et conveniens est. Hæc est in its genus insofar as it is a kind of good and agreeable thing.3
+sententia D. Thomæ 1, 2, quæst. 1, a. 1, in fine corporis, 10R This is St. Thomas’s view in ST IaIIæ.1.1, co. (towards the end).
+10 quam late tractat 3, cont. Gentes, cap. 2 et 3, ubi probat, He discusses it more thoroughly in SCG III, c. 2 and 3, where
+idem esse operari propter finem, et propter bonum: et he shows that to act for the sake of the end is the same as to
+1 p., q. 5, a. 4, similiter probat bonum habere rationem act for the sake of the good. In ST Ia.5.4 he likewise shows that
+finis, ubi in solutione ad 2, in hunc modum explicat il- good has the ratio of an end, where in his solution ad 2 he in this
+lud Dionysii 4, c. de Divinis nominibus: Bonum est diffu- 15R way explains Dionysius’s statement from On the Divine Names,
+15 sivum sui. Eamdem doctrinam habet Alensis, 1 p., q. 17, c. 4: ‘Goodness is self-diffusive’. [Alexander] of Hales holds the
+memb. 3. et 34, memb. 1, et colligitur ex Aristotele, 1 same doctrine in Sent. I, q. 17, memb. 3 and q. 34, memb. 1, and
+Ethicor., cap. 7, dicente: Id esse unicuique bonum, cujus it is gathered from Aristotle, who says in EN I, c. 7: ‘That is the
+gratia cætera operantur. Idem lib. I Ethic., in fine, et 2, good of each for whose sake everything else is done’ [1097a17–
+Item ratione. Phys., cap. 3, ubi dicit, finem et bonum idem esse. Ratio 20R 18]. Likewise at the end of book I and in Phys. II, c. 3, where he
+20 vero constat ex dictis, quia causalitas finis in hoc consis- says: ‘the end and the good are the same’.4 And the reason is And by reason.
+tit, quod trahit voluntatem ad se propter se amandum, clear from what was said, for the causality of the end consists in
+vel alia propter ipsum: sed nihil potest trahere volun- drawing the will to itself on account of being loved in itself or
+tatem nisi bonum, quatenus bonum est: ergo bonitas est to other things for its sake. But nothing can draw the will except
+a qua habet finis virtutem causandi finaliter; est ergo illi 25R something good insofar as it is good. Therefore, goodness is that
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not
+all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition, M = 1629 Mainz edition, and V = Vivès
+edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+3This claim is treated at greater length in DM 23.5.
+4195a22–25?
+
+-- 1 of 5 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 3 2
+25 ratio causandi. by which an end has the power of final-causing and is, therefore,
+the ratio of causing for it.
+Exponitur
+Caietanus circa
+rationem
+causandi
+finaliter.
+2. Hanc autem veritatem per se claram, obscuri- 2. This truth which is clear in itself is rendered rather ob- Cajetan on the
+nature of
+final-causing is
+explained.
+orem reddit Cajetanus, 1 p., art. 4, q. 5, dicens, bonitatem scure by Cajetan when he says in [his commentary on] ST Ia.4.5
+formalem esse ipsam rationem causæ finalis in actu ex- 30R that formal goodness is the very ratio of the final cause in the
+ercito, non vero in actu signato, nisi tantum fundamen- exercised act but not in the signified act, unless merely funda-
+30 taliter. Quorum verborum sensus in idem redit. Nam mentally. The sense of those words comes to the same thing. For
+per hoc nomen bonum non explicatur res sub habitu- through this word ‘good’ one does not indicate a thing under a
+dine ad effectum, seu actum finaliter causandi, et hoc disposition to an effect or to an act of final-causing (and Cajetan
+vocavit Cajetanus finem in actu signato, quam rationem 35R calls this the end in the signified act). The ratio of ‘good’ does not
+non <col. b> significat formaliter ratio boni, sed tantum formally signify this ratio. Rather, it only indicates the perfection
+35 explicat perfectionem objecti, seu convenientiam quam of the object or the agreeability which it has to the will, as a re-
+habet cum voluntate, ex qua habet quod finalisare pos- sult of which it has that which allows it to final-cause. The name
+sit, quam habitudinem formaliter explicat nomen, seu or ratio of an end indicates this disposition. For this reason it
+ratio finis: et ideo dicitur fundari in bonitate. Et hoc 40R is said to be founded in goodness. And in this way Cajetan said
+modo dixit Cajetanus bonum significare rationem finis that ‘good’ signifies the ratio of an end in the exercised act fun-
+40 in actu exercito fundamentaliter, ac si in causa efficiente damentally, as if we were to say that in an efficient cause heat,
+diceremus calorem, verbi gratia, esse finem agentis fun- for example, is the agent’s end fundamentally, yet as such it does
+damentaliter, tamen ut sic non significare formaliter ip- not formally signify the disposition itself of the efficient cause.
+sam habitudinem efficientis.
+Secundo certum est ut bonum causet finaliter nec- 45R Secondly, it is certain that in order for good to final-cause it
+45 essarium esse ut cognitum sit; quia appetitus vitalis se- is necessary that it have been cognized, because the vital ap-
+quitur formam apprehensam, et ideo ferri non potest petite follows an apprehended form and therefore cannot be
+nisi in objectum cognitum ut constat ex philosophia, et brought to anything other than a cognized object. This is clear
+ex 1 p., quæst. 80 et sequentib., et ex quæst. 8 et 9, 1, 2, from the philosophers and from Sent. p. 1, q. 80 and follow-
+viderique possunt quæ scripsi in disp. 23, Metaphysicæ, 50R ing and from ST IaIIæ.8–9. And what I wrote can be seen in
+50 sect. 7, et libr. 2, de Orat. mentali, cap. 13. Hinc vero DM 23.7 and De Orat. mentali lib. 2, c. 13.5 But from here has
+oriebatur occasio disputandi quomodo se habebat esse arisen an occasion for disputing how cognitive being (esse cog-
+cognitum ad rationem causandi finalem, an scilicet sit nitum) is related to the nature of final-causing, whether, namely,
+tantum conditio necessaria, vel etiam ratio causandi, et it is only a necessary condition or also a ratio of causing, and
+consequenter an bonum cognitum causet finaliter se- 55R consequently whether cognized good final-causes according to
+55 cundum esse cognitum, vel secundum esse reale. Quam cognitive being or according to real being. This question is dis-
+quæstionem late tractat 1, 2, quæst. 1, art. 1, Medina, et cussed more thoroughly in Medina’s and Cajetan’s [commen-
+Cajetanus ibid., et antea in 1 part., quæst. 5, art. 4, et Fer- taries on] ST IaIIæ.1.1 and before that in Ia.5.4, and by Ferrara
+5This is presumably one of the places where Suárez’s posthumous literary executor deleted material and inserted a reference to his fuller discussions elsewhere.
+49 23 ] 13 V.
+54 cognitum causet ] causet cognitum M V.
+
+-- 2 of 5 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 3 3
+rarius 1, cont. Gent., cap. 44, et aliqui theologi in 2, dist. 1, in [his commentary on] SCG I, c. 44, and by other theologians
+præsertim Gabriel, part. 5, alii vero in 2, dist. 25, præser- 60R in Sent. II, dist. 1, especially Gabriel in part. 5, but others, espe-
+60 tim Scotus et Capreolus. Sed quoniam hæc res in dis- cially Scotus and Capreolus, in II, dist. 25. But since I discuss this
+put. 23 Metaphysicæ, sect., 8, a me late traditur, et, ut ex- matter more thoroughly in DM 23.8, and, as I think, poses no
+istimo, nihil difficultatis habet, dicam breviter quæ sen- difficulty, I will say briefly what I think and what is necessary for
+tio, et quod ad Quæstiones Theologicas postea tractan- discussing the theological questions afterwards.
+das est necessarium.
+65	Cognitio objecti
+finalizantis non
+pertinet ad
+rationem
+causandi
+finaliter, sed est
+sola conditio.
+3. Advertendum est ergo, interdum appetere vol- 65R 3. It should be noted, then, that sometimes the will desires The cognition
+of the
+final-causing
+object does not
+belong to the
+ratio of
+final-causing
+but is only a
+condition.
+untatem objectum cognitum solum in ordine ad cogni- a cognized object only in relation to cognition, as, for example,
+tionem, ut, verbi gratia, quando contemplando rosam when in contemplating a rose it does not desire to possess it but
+non appetit illam habere, sed tantum considerare et only to consider and cognize it.6 In that case to be cognized (esse
+cognoscere, et tunc esse cognitum non solum est con- cognitum) is not only a condition but also the reason for moving
+70 ditio, sed est ratio, movendi voluntatem, quia non solum 70R the will, because not only is the cognition a prerequisite for the
+est quid prærequisitum ut voluntas moveatur, sed etiam will to be moved but it is also the terminus of the desire just
+est terminus appetitionis, cujusmodi est quæcumque like any other thing that is judged to be agreeable. And in this
+alia res quæ judicatur esse conveniens, et hoc modo way when a human being is delighted in the cognition alone but
+quando homo delectatur tantum in cognitione non vero not in the cognized thing according to itself, to be cognized is
+75 in re cognita secundum se, esse cognitum est id, a quo 75R that from which the act takes its ratio and goodness or badness,
+actus accipit suam rationem et bonitatem vel <7> mali- just as when a human being desires to see God, that being seen
+tiam: sicut est quando homo appetit videre Deum, il- belongs to the formal object that is the cause of final-causing.
+lud esse visum pertinet ad formale objectum, quod est But sometimes the will desires the cognized object so that It is shown
+firstly.	causa finalisandi. Aliquando vero voluntas appetit ob- it has and obtains that thing itself, as when it desires health. In
+80 jectum cognitum ut re ipsa illud habeat et consequatur, 80R that case, the ratio of final-causing is clearly the goodness that
+Ostenditur 1. ut quando appetit sanitatem, et tunc plane ratio final- the object has or is thought to have in reality. For the former
+isandi est bonitas, quam in reipsa objectum habet, vel is the will’s end to which the impetus of the agent tends. But it
+habere apprehendit, quia illud est finis voluntatis, in does not tend except to the real being of the end itself, in order
+quod tendit impetus agentis, sed non tendit nisi in esse to have and obtain it. Therefore.
+85	Ostenditur 2. reale ipsius finis, ut illud habeat et obtineat: ergo. Item, 85R Likewise, that has the proper ratio of an end by the achieve- It is shown
+secondly.	illud habet propriam rationem finis, quo consecuto, qui- ment of which the will is at rest and by the lack of which it is
+escit voluntas, et quo deficiente frustratur ab intentione frustrated from its intention. The will, however, is not at rest
+sua, sed non quiescit in sola apprehensione, nisi re ipsa in the apprehension alone, unless that attains the end in reality,
+finem consequatur, et nisi hoc obtineat, frustrari dici- and it is said to be frustrated unless the latter is obtained. This is
+90 tur: ergo signum est moveri a fine secundum suum esse 90R an indication, then, that the will is moved by the end according
+6Cf. De Actibus Qui Vocantur Passiones Tum Etiam de Habitibus 1.5.3.
+59 vero ] om. V.
+83 habere ] om. M V.
+89 consequatur ] consequantur V.
+
+-- 3 of 5 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 3 4
+Existentia realis
+non ingreditur
+etiam rationem
+causandi
+finaliter.
+reale. Non est autem intelligendum requiri ad causali- to its real being.
+tatem finis quod res illa, quæ est finis a parte rei præex- Nor should one understand as required for the causality of Real existence
+is not even a
+constituent of
+the ratio of
+final-causing.
+istat, quia cum solum moveat metaphorice per cogni- the end that the thing that is the end pre-exist in reality, since it
+tionem, satis est quod animo apprehendatur, et quasi is sufficient that it be apprehended by the mind and be repre-
+95 in imagine repræsentetur; sensus ergo est rem illam 95R sented in an image, as it were. The sense, therefore, is that that
+secundum esse reale, quod objicitur, et in ea appre- thing moves the will and has the causality of an end according
+henditur, movere voluntatem, et habere causalitatem to the real being that is presented and is apprehended in it. It
+finis, quia secundum illud esse judicatur conveniens: moves, moreover, as we said, insofar as it is judged agreeable.
+movet autem, ut diximus, quatenus conveniens judi- For this reason, the cognition of this agreeability and goodness
+100 catur; cognitio igitur hujus convenientiæ et bonitatis, 100R is not properly the ratio of moving, because in this case the will
+non est propria ratio movendi, quia tunc voluntas non does not desire to cognize. But the cognition is said to be nec-
+appetit cognoscere, sed dicitur esse cognitio necessaria essary in the mode of coming close, not, indeed, according to
+per modum approximationis, non quidem secundum place, but only according to the subordination of the soul’s pow-
+locum, sed tantum subordinationem potentiarum an- ers, and because without that the end does not have that mode
+105 imæ; et quia sine illa non habet finis illum modum quo 105R which it needs for its causality. And this view is clearer when
+indiget ad suam causalitatem. Et hoc modo explicata explained in this way, as is clear from Scotus, Gabriel, Cajetan,
+hæc sententia clarior est, ut patet ex Scoto, Gabriele, Ca- and Ferrara in the places cited above, and it has no difficulty of
+jetano et Ferrario, locis supra citatis, et nullam habet dif- any importance.
+ficultatem alicujus momenti.
+110	Notatio pro
+præcedente
+doctrina.
+4. Ut tamen facile dissolvantur multa argumenta, 4. Nevertheless, so that the many arguments which Med- A note
+concerning the
+preceding
+doctrine.
+quæ hic multiplicat Medina; oportet ultimo advertere, 110R ina multiplies in this place are easily resolved, it is necessary fi-
+quod sicut in causa efficiente approximatio non est ratio nally to notice that just as in the case of an efficient cause coming
+agendi, sed conditio, potest tamen ratione illius variari close together is not the ratio of acting but a condition for it and
+actio, si diversum agens applicetur, ita et in hac appre- yet the action can be varied by reason of it, if a different agent
+115 hensione, seu cognitione intellectus, contingere potest, is applied, so also it can happen with this apprehension or cog-
+ut ratione illius varietur actio voluntatis, si in objecte 115R nition by the intellect that by reason of it the action of the will
+aliud esse, seu aliam rationem apprehendat boni, vel is varied, if some other being or another aspect of good or bad
+mali: quo sensu dici solet finem specificare actum vo- is apprehended in the object. The end is usually said to spec-
+luntatis, non ut in re est, sed ut apprehenditur: nam licet ify the act of the will in this sense, not as it is in reality but as it
+120 eleemosyna, verbi gratia, in re sit bona, si quis illam ex- is apprehended. For although giving alms, for example, is good
+istimat malam, actio voluntatis non est bona, sed mala. 120R in reality, if someone thinks it bad, the action of the will is not
+Propter quam rationem videtur dixisse divus Thomas, good but bad. For this reason St. Thomas seems to have said in
+1, 2, quæst. 31, artic. 3, ad 1, cum objectum voluntatis ST IaIIæ.31.3 ad 1 that when the object of the will is apprehended
+sit bonum apprehensum, diversitatem apprehensionis as good, difference of apprehension belongs to difference of the
+125 pertinere ad diversitatem objecti, atque idem sentit Ca- object. And Cajetan thinks the same in q. 30, art. 3. But these are
+jetanus, q. 30, art. 3. Sed hæc non sunt contraria, quia 125R not contraries, because apprehension of the good now varies
+tunc apprehensio boni tantum variat objectum in quan- the object only insofar as different being of the object is appre-
+tum in illo apprehendit et applicat diversum esse ob- hended and appplied in it and consequently different goodness
+
+-- 4 of 5 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 3 5
+jecti, atque adeo distinctam bonitatem, vel convenien- or agreeability, which, as I said, is the ratio of moving the will.
+130 tiam, quæ, ut dixi, est ratio movendi voluntatem. Quo- Wherefore, when it is said that the object moves ‘as ap-
+circa quando dicitur objectum movere ut apprehen- 130R prehended’, one should avoid equivocation in that reduplicating
+sum, cavenda est æquivocatio in illa particula redupli- phrase. For if it only reduplicates the denomination arising from
+cante: nam si reduplicet solam denominationem prove- the apprehension such that the apprehension itself is the form
+nientem ab apprehensione ita ut ipsa apprehensio sit through which the end moves, the statement is false, as I said.
+135 forma, per quam finis movet, falsum est, ut dixi, si autem But if the objective being itself (which is apprehended) is redu-
+reduplicet ipsum esse objectivum, quod apprehendit, 135R plicated, the expression is true. In the same way the diversity
+sic vera est locutio, atque eodem modo diversitas cogni- of cognition, which holds only on the part of the power, either
+tionis, quæ se tenet tantum ex parte potentiæ, aut cog- in cognition or in the proper qualities of the act of understand-
+nitionis, seu in propriis qualitatibus ipsius actus intelli- ing itself (some examples are that it is clear, or obscure, and so
+140 gendi, ut sunt, verbi gratia, quod sit clara, vel obscura, et on), this diversity, I say, does not vary the ratio of the end and
+similis, hæc, inquam, diversitas non variat rationem fi- 140R consequently neither the motion of the will.
+nis, et consequenter nec motionem voluntatis: at vero But, on the other hand, the diversity of cognition which re-
+diversitas cognitionis, quæ redundat in objecto, scilicet dounds to the object (namely, because something else is cog-
+quia aliud est quod cognoscitur, vel alia proprietas in eo nized or other properties are apprehended in it) varies the end
+145 apprehenditur, hæc variat finem et motionem, quia pro- and the motion, because it proposes and approaches the sub-
+ponit, et appropinquat subjectum secundum aliud esse 145R ject according to other objective being. Hence it diversifies it,
+objectivum: unde quasi diversificat illud, et sic reddit di- as it were, and so delivers different cognition not on the part
+versam cognitionem non ex parte esse cogniti absoluti, of cognitive being absolutely, but on the part of the object that
+sed ex parte objecti quod cognoscitur. Et hæc de causal- is cognized. And that [suffices] concerning the causality, effect,
+150 itate, effectu et principio, seu forma, quæ est principium and principle or form, which is the principle of an end.
+finis.
+138 se ] om. V.
+
+-- 5 of 5 --

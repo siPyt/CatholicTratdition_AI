@@ -173,24 +173,6 @@
 	font-size: 1.2rem;
 }
 
-.prompt-strip {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 10px;
-	margin-top: 18px;
-}
-
-.prompt-strip ion-button {
-	--border-color: rgba(127, 79, 40, 0.24);
-	--color: #6c4521;
-	--border-radius: 999px;
-	--padding-start: 14px;
-	--padding-end: 14px;
-	--min-height: 42px;
-	font-weight: 700;
-	text-transform: none;
-}
-
 .retrieval-panel {
 	margin-top: 20px;
 	padding: 22px;

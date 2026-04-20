@@ -1,0 +1,440 @@
+Sydney Penner
+Last revised: Jan. 31, 2008
+Francisco Su´arez, S. J.
+DM II, SECT. 41
+IN WHAT THE NATURE OF BEING INSOFAR AS [IT IS] BEING CONSISTS AND HOW IT AGREES
+WITH LOWER BEINGS (In quo consistat ratio entis in quantum ens, et quomodo inferi-
+oribus entibus conveniat)
+1. What Avicenna understands by the name ‘being’.—When it is said that being expresses one
+objective concept, it is necessary to indicate briefly in which of either formal or essential
+the nature consists, at least through some description or explication of the term. For,
+when that nature is most abstract and simple, it cannot properly be defined. Therefore,
+the opinion of Avicenna (to which the Commentator [Averroes] and St. Thomas refer in
+Metaph. IV, com. 3 and X, com. 8) was that being signifies a certain accident common to all
+existing things, without doubt the same being that was said to fall upon (accidere) things,
+since it can confer it to them or withhold it. This opinion is founded in the signification
+of the word ‘being’ (ens). For it is derived from the word ‘am’ (sum), and is a participle
+of it. The word ‘am’, however, strictly speaking, signifies the act of being or existing. For
+to be and to exist are the same, as is clear from the common use and signification of these
+words. Therefore, ‘being’ signifies equally that which is. For this reason in th ewritings of
+Aristotle in Phys. I, text. 17 and many other places in the place of being is put down that
+which is, i.e., that which has the act of being or existing, so that being is the same as the
+existing. Therefore, being taken formally expresses being or existence which is beyong
+the quiddity of things.
+Quid entis nomine intelligat Avicenna.—Cum dictum sit ens dicere unum con-
+ceptum obiectivum, oportet in quo eius formalis seu essentialis ratio consis-
+tat breviter declarare, saltem per descriptionem aliquam aut terminorum ex-
+plicationem; nam, cum illa ratio sit abstractissima et simplicissima, proprie
+definiri non potest. Fuit ergo opinio Avicennae, quam referunt Commen. et
+D. Thomas, IV Metaph., com. 3, et lib. X Metaph., com. 8, ens significare ac-
+cidens quoddam commune rebus omnibus existentibus, nimirum ipsum esse
+quod rebus accidere dixit, cum eis possit conferri et auferri. Quae opinio fun-
+data est in significatione vocis ens; derivatur enim a verbo sum, estque par-
+ticipium eius; verbum autem sum, absolute dictum, significat actum essendi
+seu existendi; esse enim et existere idem sunt, ut ex communi usu et signifi-
+catione horum verborum constat; significat ergo adaequate ens id quod est;
+1Latin text is from http://homepage.ruhr-uni-bochum.de/Michael.Renemann/suarez/suarez dm2.html.
+Retrieved Jan. 29, 2008.
+
+-- 1 of 10 --
+
+Su´arez, DM II, sect. 4 2
+unde apud Aristotelem, lib. I Phys., text. 17, et saepe alibi, loco entis ponitur
+id quod est, id est, quod habet actum essendi seu existendi, ut idem sit ens,
+quod existens; dicit ergo ens de formali esse seu existentiam quae est extra
+rerum quidditatem.
+2. Touching on this opinion, [Domingo de] Soto, passing over in silence the name of
+Avicenna, at the end of c. 4, q. 1 of Antepræd., first says that ‘being’ is always a participle
+of the word ‘am’, just as ‘existing’ of the word ‘exist’ and, taken formally, signifies being,
+but taken materially [signifies that] which has being. But afterwards he declares that
+being not only signifies that which actually is, as existing, but that which is either actually
+or potentially, because it is truly said of a non-existing human that he is a being, just as
+that he is an animal or a substance. And nevertheless he concludes that being is not said
+quidditatively of things, especially created [things], because it expresses a disposition to
+being which is beyond the essence of a creature.
+And in this is constituted the difference between being and thing: that thing is predicated
+quidditatively, because it signifies the true and fixed quiddity, strictly speaking, and with-
+out regard to its being. Being, however, does not predicate quidditatively, because it does
+not signify quiddity, strictly speaking, but under the concept of being or insofar as it can
+have being. And by this reason he considers the remark from Aristotle, Metaph. VIII, text.
+16: being is supposed in the definitions of things. This entire doctrine seems to be taken
+up by Soto from Cajetan, De ente et essentia, c. 4, just before q. 6, where contrary to the
+others he says that Avicenna is only blamed, because he calls being predicated acciden-
+tally. For, properly, being is not accidental but a substantial act. But he is not deserving of
+the blame, by the fact that he denies that being is predicated essentially or quidditatively.
+For this is true, since being is beyond quiddity, and he cites St. Thomas, Quodl. II, a. 3,
+speaking of being being predicated essentially only of God, which he also indicates in
+[ST] Ia.3.4 and 5 and [SCG] I, c. 25 and 26.
+Hanc opinionem attingens Soto, tacito nomine Avicennae, c. 4 Antepraed.,
+q. 1, in fine, prius dicit ens semper esse participium verbi sum, sicut exis-
+tens, verbi existo, et de formali significare esse, de materiali vero, quod habet
+esse; postea vero declarat ens non solum significare quod actu est, sicut exis-
+tens, sed quod est actu vel potentia, quia de homine non existente vere dicitur
+esse ens, sicut esse animal vel substantiam, et nihilominus concludit ens non
+dici quidditative de rebus praesertim creatis, quia dicit habitudinem ad esse,
+quod est extra essentiam creaturae. Et in hoc constituit differentiam inter ens
+et res, quod res quidditative praedicatur, quia significat quidditatem veram
+et ratam absolute, et sine ordine ad esse; ens autem non praedicatur quiddi-
+tative, quia non significat absolute quidditatem, sed sub ratione essendi, seu
+quatenus potest habere esse; et hac ratione existimavit dictum ab Aristotele,
+VIII Metaph., text. 16, ens non poni in definitionibus rerum. Quam totam doc-
+trinam videtur sumpsisse Soto ex Caiet., opusculo De Ente et essentia, c. 4,
+proxime ante q. 6, ubi praeter alia dicit Avicennam solum reprehendi, quia
+vocat ens praedicatum accidentale; proprie enim esse non est accidens, sed
+
+-- 2 of 10 --
+
+Su´arez, DM II, sect. 4 3
+substantialis actus; non vero esse reprehensione dignum, eo quod neget ens
+esse praedicatum essentiale seu quidditativum; hoc enim verum est, cum esse
+sit extra quidditatem, citatque Div. Thomam, Quodl. II, a. 3, dicentem ens de
+solo Deo praedicari essentialiter, quod etiam significat I, q. 3, a. 4 et 5, et I cont.
+Gent., c. 25 et 26.
+3. Being, both participle and noun.—In order to explain this matter and remove the equiv-
+ocation, we should make use of the usual distinction of being, which Cajetan and Soto
+rejected above without cause. But Fonseca rightly embraces it, Metaph. IV, c. 2, q. 3, sect.
+2, and St. Thomas suggests it well enough in the cited Quodl. [passage] although not in
+the same words. Being, therefore, as was said, is sometimes taken as a participle of the
+word ‘am’ and as such it signifies the act of being as exercised and is the same as existing
+actually. But sometimes it is taken as a noun signifying, taken formally, the essence of the
+thing which has or can have being. And it can be said to signify the being itself, not as ac-
+tually exercised, but it potency or aptitude, just as living, [taken] as a participle, signifies
+the actual use of life, but [taken] as a noun signifies only that which has a nature which
+can be alive by the operation of a principle.
+Moreover, that this necessary distinction ought to be admitted from the afore mentioned
+authors is clear, for the former signification is founded in a property and rigor of the
+word ‘am’, which strictly said signifies actual being or existence. Whence also the dialec-
+ticians say that in a proposition as a second adjacent the word is never free from time.
+And it is clear also from common use, for if someone says that Adam is, it signifies that
+he exists. Moreover, this word in rigour has its participle included in itselt, into which
+the just-mentioned proposition can be resolved. On the other hand it is clear from com-
+mon use that ‘being’, also having been assumed through real being (as we now say), not
+only applies to existing things, but also to natures that are real considered in themselves,
+whether they exist or not. This is the manner in which metaphysics considers being and
+in this way being is divided into ten categories.
+But being in this signification does not retain the force of the participle, because the par-
+ticiple co-signifies time and thus signifies an actual exercise of being or existing. And
+therefore this word, ‘existing’, can never be said concerning a thing which does not actu-
+ally exist, because it always retains the force of the participle of the word ‘exist’. There-
+fore, it is necessary that being in this latter signification be taken with the force of a
+noun. Hence, the previously mentioned authors in the matter itself admit this partition,
+although they condemn it in words. For it is the same thing to say that being sometimes
+signifies an actually existing thing, sometimes potentiality only, than to say that some-
+times it is taken as a participle but at other times as a noun, or, as others say, participially
+and nominally. Because by this itself that being does not signify actual entity and exis-
+tence, it is no longer taken in the force of a participle but as a verbal noun. Hence, St.
+Thomas, in the cited Quodl., after he has discussed being, just as it is said from actual
+being, it is applied: But it is true that this noun ‘being’ follows what conveys a thing to
+which being is adequate in this way, as it signifies the essence of the thing and is divided
+into ten genera.
+
+-- 3 of 10 --
+
+Su´arez, DM II, sect. 4 4
+Ens et participium, et nomen.—Ad explicandam hanc rem et tollendam aequivo-
+cationem, utendum nobis est usitata distinctione entis, quam Caietan. et Soto
+supra sine causa reiiciunt. Fonseca vero merito eam amplectitur, IV Metaph.,
+c. 2, q. 3, sect. 2, eamque satis insinuat D. Thomas, dict. Quodl., licet non
+eisdem verbis. Ens ergo, ut dictum est, interdum sumitur ut participium verbi
+sum, et ut sic significat actum essendi ut exercitum, estque idem quod exis-
+tens actu; interdum vero sumitur ut nomen significans de formali essentiam
+eius rei quae habet vel potest habere esse, et potest dici significare ipsum esse,
+non ut exercitum actu, sed in potentia vel aptitudine, sicut vivens, ut est par-
+ticipium,2 significat actualem usum vitae, ut vero est nomen significat solum
+id quod habet naturam quae potest esse vitalis operationis principium. Quod
+autem haec distinctio necessario a praedictis auctoribus admittenda sit, patet,
+nam prior significatio fundata est in proprietate et rigore verbi sum, quod
+absolute dictum actuale esse seu existentiam significat; unde etiam dialectici
+dicunt in propositione de secundo adiacente verbum est nunquam absolvi a
+tempore. Et patet etiam ex communi usu, nam si quis dicat Adam est, sig-
+nificat ipsum existere. Habet autem hoc verbum in rigore suum participium
+in ipso inclusum, in quod potest resolvi praedicta propositio. Rursus constat
+ex communi usu ens, etiam sumptum pro ente reali (ut nunc loquimur), non
+solum tribui rebus existentibus, sed etiam naturis realibus secundum se con-
+sideratis, sive existant, sive non; quomodo metaphysica considerat ens, et hoc
+modo ens in decem praedicamenta dividitur. Sed ens in hac significatione non
+retinet vim participii, quia participium consignificat tempus, et ita significat
+actuale exercitium essendi seu existendi, et ideo haec vox, existens nunquam
+dici potest de re quae actu non existat, quia semper retinet vim participii verbi
+existo; ergo necesse est ens in hac posteriori significatione sumi in vi nominis.
+Unde praedicti auctores re ipsa admittunt hanc partitionem, quamvis verbis
+contemnant, nam perinde est dicere ens interdum significare rem actu existen-
+tem, interdum potentia tantum, quod dicere interdum sumi ut participium,
+aliquando vero ut nomen, seu ut alii loquuntur, participialiter et nominaliter.
+Quia hoc ipso quod ens non significat actualem entitatem et existentiam, iam
+non sumitur in vi participii, sed tamquam nomen verbale. Unde D. Thom.,
+in dicto Quodl., postquam tractavit de ente, prout dicitur ab actuali esse, sub-
+dit: Sed verum est quod hoc nomen ens secundum quod importat rem cui
+competit huiusmodi esse, sic significat essentiam rei, et dividitur per decem
+genera.
+Resolution of the question (Quaestionis resolutio)
+4. What the participle ‘being’ conveys.—Therefore, by having assumed this signification of
+the word, the resolution of the question in general is easily taken up. First, indeed, it
+should be said, being taken in actuality as the signification of that word is taken with the
+force of a participle, the nature of it consists in this, that it is something actually existing or
+2Cf. editionem Biblioteca Hispanica de Filosof´ıa, Madrid 1960, Bd. I, S. 416, Fussnote: “Creemos que la
+palabra principium, que sustituye a participium en algunas ediciones, carece de sentido (N. de los EE.)”.
+
+-- 4 of 10 --
+
+Su´arez, DM II, sect. 4 5
+having the real act of being or having actual reality, which is distinguished from potential
+[reality] that is nothing in actuality. This whole, when it consists only in a disclosure of
+a most simple concept cannot be shown otherwise than as explicated from the general
+mode of conceiving and from the signification of the word by us. And, finally, from what
+was said in the preceding sections it can be agreed that being under this aspect can have
+one formal and objective concept, common to all actually existing beings, since they are
+similar to each other and agree in actual being and entity. It is also clear that that concept
+can be signified by this word. Therefore, the nature of being thus taken and its concept
+cannot consist in anything else nor can it be explained otherwise.
+Ens participium quid importet.—Hac ergo supposita vocis significatione, facilis
+est quaestionis resolutio in communi sumpta. Dicendum est enim primo,
+sumpto ente in actu, prout est significatum illius vocis in vi participii sump-
+tae, rationem eius consistere in hoc, quod sit aliquid actu existens, seu habens
+realem actum essendi, seu habens realitatem actualem, quae a potentiali dis-
+tinguitur, quod est actu nihil. Hoc totum, cum solum consistat in declaratione
+simplicissimi conceptus, non potest aliter probari quam ex communi modo
+concipiendi et ex significatione vocis a nobis explicatae. Ac denique, quia ex
+dictis in praecedentibus sectionibus constare potest ens sub hac ratione posse
+habere unum conceptum formalem et obiectivum, communem omnibus en-
+tibus actu existentibus, cum inter se similia sint et conveniant in actuali esse et
+entitate, constat etiam posse conceptum illum hac voce significari; ergo entis
+sic sumpti et conceptus eius ratio non potest in alio consistere, nec potest aliter
+explicari.
+5.
+Dico secundo: si ens sumatur prout est significatum huius vocis in vi nominis
+sumptae, eius ratio consistit in hoc, quod sit habens essentiam realem, id est
+non fictam nec chymaericam, sed veram et aptam ad realiter existendum. Pro-
+batio huius conclusionis eadem proportionaliter est quae praecedentis, quia
+hic simplex conceptus non potest alio modo intelligi aut explicari.
+Quid sit essentia realis
+6.
+Ens nomen quid.—Solum restabat exponendum quid sit essentia realis, vel in
+quo ratio eius consistat; nam cum essentia sit secundum quam res dicitur seu
+denominatur ens, ut Div. Thom. ait, De Ente et Essentia, c. 2, quod maxime
+verum est de ente in hac acceptione sumpto, ideo non potest satis explicari in
+quo consistat ratio entis realis, nisi intelligatur in quo consistat essentia realis.
+In quo duo peti possunt, quae illis duabus vocibus indicantur: primum, in quo
+consistat ratio essentiae; secundum, in quo consistat quod realis sit. Primum
+
+-- 5 of 10 --
+
+Su´arez, DM II, sect. 4 6
+non potest a nobis exponi, nisi vel in ordine ad effectus vel passiones rei, vel
+in ordine ad nostrum modum concipiendi et loquendi. Primo modo dicimus,
+essentiam rei esse id quod est primum et radicale, ac intimum principium om-
+nium actionum ac proprietatum quae rei conveniunt, et sub hac ratione dicitur
+natura uniuscuiusque rei, ut constat ex Aristot., V Metaph., text. 5; et notat D.
+Thomas, De Ente et Essentia, c. 1, et Quodl. I, a. 4, et saepe alias. Secundo
+autem modo dicimus essentiam rei esse quae per definitionem explicatur, ut
+dicit etiam D. Thomas, dicto opusculo De Ente et Essentia, c. 2, et sic etiam dici
+solet illud esse essentiam rei quod primo concipitur de re; primo (inquam) non
+ordine originis (sic enim potius solemus conceptionem rei inchoare ab his quae
+sunt extra essentiam rei), sed ordine notabilitatis potius et primitatis obiecti;
+nam id est de essentia rei, quod concipimus primo illi convenire et primo con-
+stitui intrinsece in esse rei vel talis rei, et hoc modo etiam vocatur essentia
+quidditas in ordine ad locutiones nostras, quia est id per quod respondemus
+ad quaestionem quid sit res. Ac denique appellatur essentia, quia est id quod
+per actum essendi primo esse intelligitur in unaquaque re. Ratio ergo essentiae
+his modis potest a nobis declarari.
+7.
+Quid autem sit essentiam esse realem, possumus aut per negationem aut per
+affirmationem exponere. Priori modo dicimus essentiam realem esse quae in
+sese nullam involvit repugnantiam, neque est mere conficta per intellectum.
+Posteriori autem modo explicari potest, vel a posteriori per hoc quod sit prin-
+cipium vel radix realium operationum vel effectuum, sive sit in genere causae
+efficientis, sive formalis, sive materialis; sic enim nulla est essentia realis quae
+non possit habere aliquem effectum vel proprietatem realem. A priori vero
+potest explicari per causam extrinsecam (quamvis hoc non simpliciter de es-
+sentia, sed de essentia creata verum habeat), et sic dicimus essentiam esse
+realem, quae a Deo realiter produci potest, et constitui in esse entis actualis.
+Per intrinsecam autem causam non potest proprie haec ratio essentiae expli-
+cari, quia ipsa est prima causa vel ratio intrinseca entis et simplicissima, ut hoc
+communissimo conceptu essentiae concipitur; unde solum dicere possumus
+essentiam realem eam esse quae ex se apta est esse, seu realiter existere. His
+ergo modis, potest a nobis communis ratio entis declarari; magis autem exacta
+huius rei intelligentia pendet ex pluribus quaestionibus. Prima est, qualis sit
+entitas essentiae realis, quando actu non existit. Secunda, quid sit existentia
+actualis, et ad quid necessaria sit in rebus. Tertia, quomodo existentia distin-
+guatur ab essentia. Sed quia hae quaestiones propriae fere sunt entis creati, et
+prolixam requirunt disputationem, ideo eas usque ad disputationem 7 differ-
+imus, contenti pro nunc praedicta entis et essentiae descriptione.
+Ens in actu et in potentia in quo conveniant
+8.
+
+-- 6 of 10 --
+
+Su´arez, DM II, sect. 4 7
+Una vero dubitatio circa duas conclusiones positas hic praetermitti non potest,
+quamvis attingat divisionem entis in ens in actu et ens in potentia; scilicet, an
+illa duplex significatio entis nominaliter et participialiter sumpti sit mere ae-
+quivoca, vel ita analoga ut nullus conceptus communis utrique membro ei
+respondeat, an vero habeat aliquem conceptum communem; nam si hoc pos-
+terius dicatur, nondum est a nobis communissima ratio entis satis explicata;
+declaravimus enim singulorum membrorum rationes, non autem rationem en-
+tis, ut communis et abstrahentis ab utroque membro. Deinde difficillimus erit
+ad explicandum talis conceptus et ratio eius, immo et nomen, quia nec sig-
+nificabitur per ens nominaliter sumptum nec participialiter; non potest autem
+fingi alius modus significandi abstrahens ab his duobus. Si vero dicatur pri-
+mum, sequitur non posse dari conceptum entis communem Deo et creaturis,
+ut possibilibus, sed tantum ut actu existentibus, quod videtur plane falsum et
+contra communem modum concipiendi, et contra omnia supra dicta de com-
+munissimo conceptu entis. Sequitur deinde hominem aequivoce dici de vero
+homine possibili, vel actu existente. Patet sequela, quia eadem est ratio de
+homine respectu illorum duorum membrorum, quae est de ente respectu entis
+in actu et in potentia seu de ente nominaliter et participialiter sumpto; nam,
+ut participium significat ens in actu, ita nomen ens in potentia. Consequens
+autem videtur plane falsum; nam homo ex vi eiusdem impositionis significat
+hominem, sive actu existentem, sive possibilem; immo et simplex conceptus
+hominis, qui illi voci respondet, aeque repraesentat hominem existentem vel
+possibilem; non est ergo ibi significatio aequivoca; idem ergo est proportion-
+aliter de ente sub illa duplici ratione seu significatione sumpto, et de conceptu
+qui illi respondet.
+9.
+Resolutio.—Exemplum accommodatum ad resolutionis intelligentiam. Respon-
+detur ens secundum illam duplicem acceptionem non significare duplicem ra-
+tionem entis dividentem aliquam communem rationem seu conceptum com-
+munem, sed significare conceptum entis magis vel minus praecisum: ens enim
+in vi nominis sumptum significat id quod habet essentiam realem praescindendo
+ab actuali existentia, non quidem excludendo illam seu negando, sed prae-
+cisive tantum abstrahendo; ens vero ut participium est, significat ipsum ens
+reale seu habens essentiam realem cum existentia actuali, et ita significat il-
+lud magis contractum. Unde, sicut animal dictum de ipso genere praecise
+sumpto et de bruto quatenus tale animal est, non dividit aliquem conceptum
+communem ad animal ut sic et tale animal, sed dicit eamdem rationem ani-
+malis ut praecisam vel ut contractam, ita dicendum est de ente sub illa duplici
+acceptione. Magisque accommodatum exemplum est in dispositione, ut signi-
+ficat quamdam speciem qualitatis ab habitu distinctam et genus utrique com-
+mune; non enim habet aliquam significationem communem, qua immediate
+significet alium conceptum communem generi et speciei (id enim impossibile
+
+-- 7 of 10 --
+
+Su´arez, DM II, sect. 4 8
+est, quia generi et speciei nil est commune praeter ipsum conceptum generis);
+significat ergo vel immediate genus ipsum, vel immediate speciem quamdam
+duplici significatione. Ita ergo ens non significat conceptum aliquem com-
+munem enti nominaliter et participialiter sumpto, sed immediate habet du-
+plicem significationem, qua significat vel ens praescindendo ab actuali exis-
+tentia vel ens actu existens. Quocirca illa duplex significatio vel aequivoca est
+vel maxime ad aequivocationem accedit secundum quamdam translationem
+fundatam in aliqua proportionalitate. Primo enim ens significasse videtur
+rem habentem esse reale et actuale, tamquam participium verbi essendi; inde
+vero translata est illa vox ad praecise significandum id quod habet essentiam
+realem. Cuius simile etiam est in voce illa dispositio; nam, ut significat genus
+et speciem, sine dubio habet aequivocam significationem, vel ad summum
+analogam secundum quamdam proportionalitatem.
+10.
+Igitur ad exemplum de voce homo, quod in contrarium afferebatur, respon-
+detur non esse simile; nam homo non habet duplicem significationem, unam
+qua significet hominem praecise vel in potentia, aliam qua significet hominem
+existentem ut sic, sed unicam tantum, qua significat hominem praecise, sive
+existat sive non; quae significatio est proportionalis vel similis illi quam habet
+ens solum in vi nominis sumptum. Alia vero, quam habet in vi participii, non
+reperitur in hac voce homo, neque est ullus terminus incomplexus et simplex,
+qui significet totum hoc quod hac voce complexa significatur, homo existens.
+Quod si fingamus vocem hominis transferri ad totum hoc significandum, iam
+habebit duplicem significationem aequivocam, quam dicimus esse in nomine
+entis.
+11.
+Ex quo ulterius intelligitur ens sumptum in vi nominis non significare ens
+in potentia, quatenus privative vel negative opponitur enti in actu, sed sig-
+nificare solum ens ut praecise dicit essentiam realem, quod valde diversum
+est; sicut enim abstractio praecisiva diversa est a negativa, ita ens nominaliter
+sumptum, licet praecise dicat ens habens essentiam realem, non vero addit
+negationem, scilicet carendi existentia actuali, quam negationem seu priva-
+tionem addit ens in potentia. Quod inde etiam manifeste patet, nam ens in
+vi nominis sumptum commune est Deo et creaturis, et de Deo affirmari vere
+potest; ens autem in potentia nullo modo potest praedicari de Deo; immo nec
+de creaturis existentibus ut sic proprie dicitur, quia iam non sunt in poten-
+tia sed in actu; cum tamen de illis dici possit ens, tam ut participium quam
+ut nomen, quia, licet habeant actualem existentiam, vere etiam de illis dici-
+tur quod habent essentiam realem, praescindendo et non negando actualem
+existentiam.
+
+-- 8 of 10 --
+
+Su´arez, DM II, sect. 4 9
+12.
+Unde tandem intelligitur ens praecise sumptum, ut in vi nominis significatur,
+proprie dividi posse in ens in actu et ens in potentia et ens in actu idem esse
+quod ens significatum per hanc vocem in vi participii sumptam, atque ita illa
+duo significare rationem entis vel praecisam vel determinatam ad actualem
+existentiam, sive haec determinatio essentialis sit, ut est in Deo, sive sit extra
+essentiam, ut censetur esse in creaturis, de qua re inferius disputandum; ens
+autem in potentia dicit etiam reale ens, quantum ad realem essentiam, contrac-
+tum et determinatum non per aliquid positivum, sed per privationem actualis
+existentiae. Ens autem sic contractum, seu prout in tali statu conceptum, non
+significatur per hanc vocem ens, nec per aliquam aliam incomplexam quae
+mihi nota sit, sed solum per hos terminos complexos, ens possibile, ens in po-
+tentia et similes; quae omnia sunt diligenter advertenda, nam ex his vocum
+significationibus multum pendet vera rerum conceptio, et ex his magna etiam
+ex parte obiter exposita est divisio entis in ens in actu, et ens in potentia, quam
+iterum postea ex professo tractabimus.
+Ens an sit praedicatum essentiale
+13.
+Atque hinc obiter colligitur rationem entis communissimam, quae significatur
+per eam vocem in vi nominis sumptam, esse essentialem et praedicari quiddi-
+tative de suis inferioribus, quamvis ens, ut actualem dicit existentiam et signi-
+ficatur per participium essendi, absolute non sit praedicatum essentiale, nisi
+in solo Deo. Haec posterior pars, quatenus ad Deum spectat theologica est, et
+ex principiis naturalibus tractari solet infra, lib. XII, et eam late disserui in tom.
+I tertiae partis, in disp. XI, sect. 1, et aliquid attingemus infra, disputando de
+Deo. Quantum vero spectat ad creaturas, pendet ex dicendis infra de distinc-
+tione existentiae ab essentia in creatura; nunc supponamus, sive distinguantur,
+sive non, absolute esse dicendum existere non esse de essentia creaturae, quia
+potest illi dari et ab illa auferri, et ita non habet necessariam connexionem
+cum essentia creaturae praecise concepta, sub qua ratione est invariabilis et
+necessario dicitur de unaquaque re cuius est essentia; hac ergo ratione ens
+participialiter sumptum dicitur non praedicari quidditative seu essentialiter
+de creaturis, et quoad hoc vera est opinio Avicennae supra recitata, eamque
+admittit D. Thomas, dicto Quodl. 2, et aliis locis supra citatis, solumque potest
+Avicenna reprehendi, vel eo quod existentiam putaverit esse verum accidens,
+de quo infra suo loco, vel eo quod aliam acceptionem et explicationem entis
+omiserit, et ideo simpliciter negandum putaverit ens sub aliqua ratione, sub
+qua in decem praedicamenta dividitur, esse posse essentiale omnibus illis.
+14.
+
+-- 9 of 10 --
+
+Su´arez, DM II, sect. 4 10
+Probatur ergo altera conclusionis pars (quam immerito Soto negare videtur),
+quia habere essentiam realem convenit omni enti reali estque illi maxime es-
+sentiale; ergo ens sub praedicta ratione est praedicatum essentiale. Praeterea,
+esse ens hoc modo convenit creaturae, etiamsi non existat, quomodo haec
+propositio: homo est ens, dicitur esse aeternae veritatis; sed non convenit illi
+per se secundo, ut proprietas aliqua, quia non supponit aliquid prius a quo
+dimanet tamquam passio; nam potius ille est primus conceptus cuiusvis en-
+tis realis; ergo convenit ut praedicatum essentiale et de quidditate rei. Et hoc
+modo dixit D. Thom., dicto Quodl., ens significare essentiam rei et dividi per
+decem genera. Aristoteles autem dixit ens non poni in definitionibus, non quia
+sit extra quidditatem, sed quia non dicit determinatam naturam, sed intime
+transcendit omnia, sicut alii dicunt de ente, ut significatur hac voce, res, de
+quo Soto supra concedit quidditative praedicari, quia significat absolute quid-
+ditatem realem; idem enim est significare quidditatem realem, quod signifi-
+care essentiam realem, quam significat ens, ut praescindit ab actuali existentia,
+quia essentia et quidditas idem omnino est, solumque etymologia nominum
+est diversa. Quod vero essentia aut quidditas realis sit, intelligi non potest
+sine ordine ad esse et realem entitatem actualem; non enim aliter concipimus
+essentiam aliquam, quae actu non existit, esse realem nisi quia talis est ut ei
+non repugnet esse entitatem actualem, quod habet per actualem existentiam;
+quamvis ergo actu esse non sit de essentia creaturae, tamen ordo ad esse vel
+aptitudo essendi est de intrinseco et essentiali conceptu eius; atque hoc modo
+ens praedicatum est essentiale.
+15.
+Unde obiter colligo ens in vi nominis sumptum et rem idem omnino esse seu
+significare, solumque differre in etymologia nominum; nam res dicitur a quid-
+ditate, quatenus est aliquid firmum et ratum, id est, non fictum, qua ratione
+dicitur quidditas realis; ens vero in praedicta significatione dicit id quod habet
+essentiam realem: eamdem ergo omnino rem seu rationem realem important.
+Unde Avicenna, tract. I suae Metaph., c. 6, quia non distinxit illam duplicem
+significationem entis, eam divisit inter ens et rem; nam ens dixit de formali
+significare actualem existentiam, rem vero solum quidditatem seu essentiam
+realem, ut notavit D. Thomas, In II, dist. 37, q. 1, a. 1. Ergo attribuendo enti
+illam duplicem significationem supra explicatam, altera coincidit cum signifi-
+catione nominis res, scilicet, illa quae convenit enti in vi nominis sumpti. Et
+ita Div. Thomas, in dict. Quodl. II, dicit nomen ens, secundum quod importat
+rem cui competit esse, significare essentiam rei et dividi per decem genera. Et
+per haec satisfactum est omnibus quae circa primam opinionem adducta sunt.
+
+-- 10 of 10 --

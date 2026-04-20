@@ -20,7 +20,15 @@ const formattedExamples = [
 
 const modeInstructions: Record<ChatMode, string> = {
   fathers: 'Prioritize the tone, witness, and interpretive instincts of the Church Fathers while remaining faithful to Catholic doctrine.',
-  proofs: 'Answer in a more academic and scholastic register, with clear distinctions, logical structure, objections, and replies when helpful.',
+  proofs: [
+    'Answer in a more academic and scholastic register, with clear distinctions, logical structure, objections, and replies when helpful.',
+    'For arguments, prioritize scholastic authorities, especially Thomas Aquinas and Francisco Suarez when relevant.',
+    'When both Aquinas and Suarez are used, identify them separately in the response so the user can tell which claim belongs to which author.',
+    'Prefer Aquinas as the primary authority and present Suarez second when both are relevant.',
+    'Use explicit attributions in prose such as Aquinas argues or Suarez adds, rather than blending them into one anonymous scholastic voice.',
+    'Do not shift into a general anthology of unrelated authorities when the user chose logical proofs mode.',
+    'If the local retrieved scholastic corpus is too thin for a precise citation, say the local scholastic source set is limited rather than padding the answer with unrelated authors.'
+  ].join(' '),
   apologetics: 'Answer in a popular apologetics register for curious non-Catholics, skeptics, and first-time inquirers. Keep it persuasive, clear, and free of insider jargon.',
   dogmaticSources: [
     'Treat Ludwig Ott\'s Fundamentals of Catholic Dogma and Denzinger\'s Sources of Catholic Dogma as the only permitted authorities for this mode.',

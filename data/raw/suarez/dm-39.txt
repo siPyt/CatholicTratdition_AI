@@ -1,0 +1,2258 @@
+Sydney Penner
+Last revised: August 18, 2011
+Francisco Suárez, S. J.
+DM XXXIX1
+<504, col. b>
+De divisione accidentis in novem summa genere. Concerning the division of accidents into the nine highest genera.
+1. Divisio haec non solum a metaphysico traditur, sed etiam 1. This division is not only discussed by the metaphysician but also
+a dialectico in ea parte in qua de praedicamentis disputat; al- by the logician in that part in which he disputes about the categories.
+tiori tamen magisque exacta ratione ad primum philosophum Nevertheless, it belongs to first philosophy by a deeper and more ac-
+5 pertinet, ut ex his quae de obiecto huius doctrinae diximus con- 5R curate ratio, as can be clear from the things we say about the object of
+Consideratio
+decem
+summorum
+generum ad
+dialecticum ut
+pertineat.
+stare potest. Dialecticus enim non considerat decem suprema this doctrine. For the logician does not consider the ten highest gen- The
+consideration of
+the ten most
+fundamental
+genera as it
+belongs to logic.
+entium genera ut eorum naturas et essentias exacte declaret; era of beings as exactly showing their natures and essences. For that
+id enim extra institutum eius esset, cum dialectica solum sit would be beyond his practices (institutum), since logic is only a certain
+quaedam ars dirigens operationes intellectus, ut artificiose et art directing the operations of the intellect, as they are cultivated artifi-
+10 cum ratione exerceantur. Unde directe ac per se agit de concep- 10R cially and with reason. Hence, directly and per se he deals with mental
+tibus mentis ut dirigibiles sunt per artem, seu de forma et ordi- concepts insofar as they can be directed through art or with the form
+natione conceptuum, quatenus per artem tribui potest. Quia and ordering of concepts to the extent that it can be divided through
+vero conceptus mentis circa res versantur et in rebus fundantur, art. But because concepts of the mind are concerned with things and
+ideo de rebus tractat non ut earum essentias et naturas declaret, founded in things, therefore he treats of things not as they show their
+15 sed solum in ordine ad conceptus mentis coordinandos; et hoc 15R essences and natures, but only in relation to coordinating the concepts
+modo agit de decem generibus in ordine ad decem praedica- of the mind. And in this way he deals with the ten genera in relation to
+menta constituenda. Nam praedicamentum logice sumptum setting up the ten categories. For a category taken logically is nothing
+nihil aliud est quam generum et specierum usque ad individua other than a disposition of genera and species all the way to individuals
+conveniens dispositio sub aliquo supremo genere, quam dispo- that agrees under some highest genus. He discusses this disposition in
+20 sitionem, in ordine ad definitiones, praedicationes et demon- 20R relation to constructing definitions, predications, and demonstrations.
+strationes conficiendas dialecticus tradit. Et sub ea tantum And only under that ratio does he approach the things arranged into
+1Latin text is from http://www.telefonica.net/web2/salcascu/d39.htm. Retrieved Jan. 22, 2010. The text has not yet been fully checked against the 1597 edition
+(generally the most reliable text) for significant textual variations.
+Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+Marginal notes are as found in the 1597 edition. Many of those, though not all and not always in the right place, are included in the Vivès edition as italicised text.
+For recorded variants, A = 1597 edition, B = Vivès edition, and C = online base text.
+14 declaret ] declarent?
+18 et ] om. A.
+
+-- 1 of 52 --
+
+Suárez, DM XXXIX 2
+ratione attingit res in praedicamentis constituendas, et divi- categories and the division of beings into the highest genera. For this
+sionem entis in genera <505> summa. Propter quod dixerunt reason many interpreters of the categories said that with respect to the
+multi praedicamentorum interpretes dialecticum in praedica- categories logic deals more with names than with things. I think this
+25 mentis potius agere de nominibus quam de rebus. Quod in- 25R should be understood not [to be] because the names are placed in the
+telligendum puto, non quia nomina in praedicamentis ponan- categories but because the logician considers things as gathered into cat-
+tur, sed quia dialecticus magis consideret res in praedicamentis egories more with respect to the nominal definition than with respect
+collocandas quoad quid nominis, quam quoad quid rei, quan- to the real definition, insofar as it is sufficient for him to discuss the
+tum illi satis sit ad rerum prima capita seu genera tradenda, sub first heads or genera of things under which other genera and species are
+30 quibus alia genera et species coordinantur. 30R coordinated.
+Metaphysicus
+qualiter agat de
+summis entium
+generibus.
+2. At vero metaphysicus directe et ex proprio instituto 2. But the metaphysician, on the other hand, treats of this division How the
+metaphysician
+deals with the
+highest genera of
+beings.
+hanc tradit divisionem, ut proprias rationes et essentias rerum directly and by a proper institution (instituto), as he inquires into the
+inquirat. Atque hac ratione sub his etiam generibus dividendo proper rationes and essences of things. And for this reason when also
+procedit per omnia entium genera, saltem usque ad illas speci- dividing into these genera he proceeds through all the genera of beings,
+35 ficas rationes quae a materia sensibili et intelligibili abstrahunt; 35R at least up to those specific rationes which abstract from sensible and
+alias enim, quae materialiores sunt, eatenus tantum attingit intelligible matter. For so far he only touches on other things, which
+quatenus ad suas divisiones perficiendas necesariae sunt, ut in are made of matter, insofar as they are necessary for completing his di-
+disputatione prooemiali declaravimus. Quoniam igitur de sub- visions, as we showed in the preface to the disputation. Therefore, be-
+stantia iam disseruimus, superest nobis dicendum de divisione cause we already discussed substance, it remains for us to talk about the
+40 accidentis in novem genera; atque ita manebit completa et ex- 40R division of accidents into the nine genera. And in that way the division
+plicata divisio entis in decem genera seu praedicamenta. Postea of being into ten genera or categories will remain completed and expli-
+vero, sicut in substantia fecimus, ita in singulis accidentium cated. But afterwards, just as we did with substance, so also we will run
+generibus per omnes eorum gradus subalternos vel specificos through each individual genus of accidents through every subordinate
+discurremus, quantum latitudo obiecti metaphysicae postulare or specific grade, insofar as the latitude of the object of metaphysics
+45 aut permittere videbitur. De hac autem divisione tria in com- 45R will seem to demand or permit. But there are three things to be consid-
+muni consideranda occurrunt, nimirum de immediatione eius, ered in general concerning this division: namely, its immediateness, its
+de sufficientia, ac demum de qualitate seu analogia eius. sufficiency, and, finally, its quality or analogy.
+SECTIO I. SECTION I.
+Utrum accidens in communi immediate dividatur in quanti- Whether accident in general is immediately divided into quantity, quality,
+50 tatem, qualitatem et alia summa genera accidentium. 50R and the other highest genera of accidents.
+Prima
+difficultatis ratio.
+1. Ratio dubitandi est quia multis modis videtur posse accidens 1. A reason for doubting is that there are many ways in which acci- The first reason
+for difficulty.	dividi in pauciora membra, quae illa novem sub se complec- dent seems to be able to be divided into fewer members, which include
+tantur; ergo non est immediata divisio, sed implicite continens those nine under themselves. Therefore, the division is not immedi-
+et transiliens (ut ita dicam) plures immediatiores. Antecedens ate, but implicitly contains and leaps over (if I may speak in this way)
+55 patet primo, nam accidens dividendum prius videtur in com- 55R more immediate [members]. The antecedent is clear, first, for it seems
+pletum et incompletum. Quod enim inter accidentia illa duo that accidents should first be divided into complete and incomplete ac-
+membra inveniantur, negari non potest, tum quia quaedam cidents. For it cannot be denied that those two members are found
+
+-- 2 of 52 --
+
+Suárez, DM XXXIX 3
+accidentia ponuntur directe in praedicamento, alia reductive; among the accidents, first because certain accidents are placed directly
+tum <col. b> etiam quia dantur accidentia partialia et inte- in the categories [but] others reductively and then also because par-
+60 gra; ergo, sicut ob has causas dividitur substantia in comple- 60R tial and complete accidents are given. Therefore, just as substance is
+tam et incompletam, ita etiam accidens. Unde, sicut illa divisio divided into complete and incomplete substance for these reasons, so
+adaequata est substantiae, ita haec erit accidenti. Et, sicut in also accident. And, just as it was necessary for setting up the highest
+substantia necessaria fuit ad constituendum supremum genus, genus in the case of substance, so also in the present case it seems more
+ita in praesenti magis necessaria videtur ad constituenda et dis- necessary for setting up and distinguishing the highest genera. Because
+65 tinguenda suprema genera. Quia alias vel non erit adaequata 65R otherwise either the division of accident as it is co-distinguished from
+divisio accidentis, prout condistinguitur a substantia sub ente, substance under being will not be adequate or not everything will be
+vel non complectetur omnia quae in diviso continentur. Quia encompassed that is contained in the division. For the nine highest
+novem genera summa tantum sub se continent accidentia com- genera only encompass complete accidents under themselves.
+pleta.
+70	Secunda
+difficultas.
+2. Atque hinc oritur secunda difficultas, cur, videlicet, hic 2. And from here a second difficulty arises: why, namely, the divi- The second
+difficulty.	non praemittatur divisio accidentis in primum et secundum, 70R sion of accidents is not here first drawn between primary and secondary
+seu in singulare et universale, sicut divisa est substantia in pri- accidents or between singular and universal accidents, just as substances
+mam et secundam; quia non est dubium quin illa duo mem- are divided into primary and secondary. For there is no doubt by that
+bra etiam in accidentibus inveniantur et exhauriant divisum, et these two members are also found in accidents and are an exhaustive di-
+75 consequenter sint immediatiora, cum in unoquoque praedica- vision. Consequently, there are more immediate, since they are found
+mento accidentis inveniantur. 75R in each category of accident.
+Tertia difficultas. 3. Tertia ac praecipua difficultas est quia accidens optime 3. The third and primary difficulty is that accidents are best di- The third
+difficulty.	dividi potest in illud quod est propria forma realis inhaerens vided into those that are proper real forms inhering in substances and
+substantiae et illud quod tantum est modus realis afficiens sub- those that are only real modes affecting substances beyond their rationes
+80 stantiam extra rationem et complementum eius. Nam quod and completions. For that there are these two modes of accidents is
+dentur hi duo modi accidentium, certum nobis est et superius 80R certain to us from what was proven earlier. But that there is a great
+probatum. Quod vero inter se valde diversi sint, patet ex difference between them is clear from the very ratio of affecting sub-
+ipsa ratione afficiendi substantiam, quam habent valde diver- stance, which they have in very different ways, from the different ways
+sam, et ex diverso modo quo a substantia distinguuntur; ac in which they are distinguished from substance, and, finally, from the
+85 denique ex ipsa ratione entitatis, et modi realis, quae pertinent very ratio of entity and real modes, which belong to the primary dif-
+ad primarias entis differentias, ut supra, disp. VII declaravimus. 85R ferences of being, as we explained above in disp. VII. Finally, that these
+Quod denique illa duo membra adaequate dividant accidens, two members adequately divide accidents is clear because they include
+patet, quia includunt immediatam oppositionem et contradic- immediate opposites and contradictories. Hence, it is impossible to
+tionem; unde non potest excogitare medium seu accidens quod conceive of any middle kind or any accident that is neither an entity
+90 non sit entitas aut modus afficiens substantiam. Quo tandem nor a mode affecting substance. As a result, then, all nine genera of
+fit ut omnia novem genera accidentium sub illis membris con- 90R acccidents are contained under these two members, which can be sub-
+tineantur, quae proinde in ea subdividi poterunt. Igitur hac divided into them. This, too, then is a reason why that division [into
+etiam ratione illa divisio non est immediata, sed mediata. nine categories] is not immediate, but mediate.
+Quarta
+difficultas.
+4. Quarta difficultas generalis est de multis aliis conveni- 4. The fourth general difficulty is that many other similarities and The fourth
+difficulty.	95 entiis et differentiis quae inter illa membra reperiuntur, ratione differences can be found among these members by reason of which
+
+-- 3 of 52 --
+
+Suárez, DM XXXIX 4
+quarum confici possunt plures divisiones immediatiores. Ut, 95R many more immediate divisions can be constructed. For example, ac-
+verbi gratia, dividi posset accidens in absolutum et res- <506> cidents could be divided into absolute and respective accidents, with
+pectivum, et absolutum rursus in quantitatem et qualitatem, et the absolute accidents in turn divided into quantity and quality and the
+respectivum in respectivum secundum esse seu praedicamen- respective into respective according to being or categorically (which is
+100 tale, quod proprie dicitur ad aliud, et respectivum secundum properly called ‘towards something’) and respective according to be-
+dici seu transcendentale, quod potest ulterius dividi in alia sex 100R ing said or transcendentally (which can be further divided into the [re-
+genera. Rursus posset dividi accidens in spirituale et materi- maining] six genera). On the other hand, accidents could be divided
+ale. Et rursus haec duo membra possent in alia subdividi usque into spiritual and material. And in turn these two members could be
+ad ultimas accidentium species. Item potest dividi accidens in subdivided into other members all to way to the ultimate species of ac-
+105 communi in permanens et succesivum, et sic ulterius usque ad cidents. Also, accidents in general can be divided into permanent and
+ultimas species. Ac tandem dividi potest et maxime proprie 105R succesive, and so further to the ultimate species. Finally, they can be
+in accidens intrinsece afficiens substantiam, et extrinsece tan- divided—and especially properly—into accidents that intrinsically affect
+tum denoninans, ut prius membrum subdividatur in tria prima substance and accidents that only extrinsically denominate substance,
+praedicamenta, posterius autem sex ultima sub se contineat, ut so that the former member is subdivided into the first three categories
+110 multi volunt. and the latter contains under itself the last six categories (as many want).
+5. In contrarium autem est quia, si illa divisio non esset im- 110R 5. But it is to the contrary, since, if that division were no immedi-
+mediata, neque esset doctrinalis neque in rigore sufficiens. Pri- ate, it would be neither doctrinal nor, strictly speaking, sufficient. The
+mum patet, quia divisio, ut recte tradita sit, debet per omnes first point is clear, since the division must—in order to have been rightly
+differentias vel modos proximos usque ad remotiora membra handed down—proceed through all the differences or proximate modes
+115 procedere, alias valde imperfecte explicabit naturam divisi. Se- all the way to the more remote members. Otherwise, the nature of the
+cundum patet, quia qua ratione numerantur tot membra medi- 115R division will be explained most imperfectly. The second point is clear,
+ata seu remota possent multo plura numerari quae distinctius since for the very reason that so many mediate or remote members
+declararent amplitudinem accidentis; non potest ergo certa ali- are enumerated, many more could be enumerated that more distinctly
+qua ratio illius divisionis tradi, nisi immediata sit. reveal the amplitude of accidents. Therefore, no firm reason for that
+division can be handed down, unless it is immediate.
+120 Notationes ad quaestionis resolutionem. 120R Some notes towards a resolution of the question.
+6. De hac quaestione nihil fere invenio ab auctoribus dictum, 6.
+quia vix hanc divisionem in particulari explicant, sed eam cum
+divisione entis in decem praedicamenta confundunt; tamen,
+cum illam tradant tamquam aliquo modo immediatam, a for-
+125 tiori idem dicent de praesenti divisione. Omnes tamen in hoc
+tantum videntur immediationem ponere, quod genera summa,
+cum sint primo diversa, in nullo conveniunt, iuxta doctrinam
+Aristot., V Metaph., c. 9, et lib. X, c. 5, ubi hoc discrimen
+ponit inter ea quae proprie differunt et quae diversa sunt, quia
+130 illa aliquo differunt, nam etiam in aliquo sunt unum; haec vero
+non aliquo differunt, sed seipsis, quia in nullo conveniunt;
+
+-- 4 of 52 --
+
+Suárez, DM XXXIX 5
+cuiusmodi sunt summa praedicamentorum genera. Verumta-
+men haec sola responsio non videtur sufficiens ad hanc rem ex-
+plicandam; nam, cum dicuntur summa genera accidentium in
+135 nullo convenire, vel est sensus quod in nullo praedicato tran-
+scendentali, sive univo- <col. b> co, sive analogo, conveniant,
+vel quod nullum proprium genus habeant commune. Prior
+sensus est manifeste falsus; et ideo in opposito sensu negari
+non potest quin, sicut praedicamenta accidentium et inter se et
+140 cum substantia habent aliquam convenientiam in ratione entis,
+ita in ratione accidentis habeant inter se aliquam convenien-
+tiam, quam non habent cum substantia, quam necesse est esse
+in aliqua ratione sibi magis propria, et consequenter sibi etiam
+magis immediata quam sit ratio entis; ergo, pari modo, negari
+145 non potest quin inter quaedam praedicamenta accidentium sint
+aliquae convenientiae propriae et peculiares, quae non sunt
+communes aliis generibus accidentium, ut manifeste probant
+rationes dubitandi propositae; non possunt ergo genera acci-
+dentium dici primo diversa quia nullam huiusmodi convenien-
+150 tiam habeant. Posterior autem sensus verus est, ut sect. 3 latius
+videbimus; ille tamen non sufficit ad satisfaciendum difficul-
+tatibus positis, seu rationem reddendam cur, sicut ens secun-
+dum generalem quemdam modum essendi determinatur prius
+ad accidens ut sic, deinde ad accidentia magis determinata seu
+155 particularia, non ita accidens in communi intelligatur deter-
+minari per modos quosdam communes multis praedicamentis
+accidentium, prius quam ad propria praedicamenta seu genera
+accidentium contrahatur.
+7. Advertendum est igitur duobus modis dici posse unam 7.
+160 divisionem immediatiorem alia. Primo, quia per pauciora
+membra datur, quae subdividi possunt per omnia membra al-
+terius divisionis. Secundo, quia differentiae vel modi contra-
+hentes divisum in una divisione, per se et secundum proprium
+concipiendi modum fundatum in rebus, sunt medium inter di-
+165 visum et alia membra alterius divisionis, ut est sensibile inter
+vivens et rationale; et plura exempla utriusque membri in se-
+quentibus afferemus.
+Quaestionis resolutio. The resolution of the question.
+
+-- 5 of 52 --
+
+Suárez, DM XXXIX 6
+8. Dicendum itaque est divisionem dictam non esse ita im- 8. It should be said, therefore, that the stated division is not imme-
+170 mediatam, quin possint aliae immediatiores excogitari, si abso- 125R diate in such a way that other more immediate divisions cannot be
+lute de quacumque divisione per pauciora et generaliora mem- constructed, if we are speaking absolutely about any division whatever
+bra loquamur; nihilominus tamen, quatenus accidens proxime through fewer and more general members. Still, insofar as accidents
+et adaequate dividi potest in membra quae sint genera primo can be divided proximately and adequately into members that are ut-
+diversa, illam divisionem esse immediatam et omnium aptis- terly (primo) diverse genera, that division is immediate and is the most
+175 simam ad doctrinam traden- <507> dam. Priorem partem 130R apt of all for passing down the doctrine . . .
+probant sufficienter exempla omnia et argumenta in principio
+posita; ostendunt enim, ut dixi, aliqua praedicamenta acciden-
+tium habere inter se aliquas convenientias vel similitudines non
+communes omnibus accidentibus, secundum quas confici pos-
+180 sunt aliae divisiones per pauciora membra ulterius divisibilia in
+res diversorum praedicamentorum; ergo secundum illum con-
+cipiendi modum excogitari facile possunt divisiones aliae per
+membra immediatiora accidenti in communi; quidquid enim
+sub accidente commune est multis generibus, concipitur ut
+185 immediatius illis. Posterior vero pars declaratur quia nullum
+potest dari genus commune diversis praedicamentis acciden-
+tium, ut in sect. 3 latius dicturi sumus; ergo quacumque ra-
+tione dividatur accidens in pauciora et communiora membra
+ulterius divisibilia in res diversorum praedicamentorum, non
+190 dividitur per membra quae sint vera genera; ergo, si adaequate
+dividi debuit per membra quae sint genera primo diversa, id
+est, quae in alio genere non conveniant, non potuit aliter di-
+vidi. Fuit autem necessarium tradere divisionem accidentis in
+omnia genera primo diversa dicto modo, ut omnium rerum
+195 quidditates et genera ac species possent iuxta doctrinae metho-
+dum investigari ac cognosci.
+Obiectioni
+satisfit.
+9. Dices eadem ratione non fuisse nobis praemittendam 9.
+divisionem entis in substantiam et accidens, sed immediate div-
+idendum ens in decem genera. Respondetur potuisse quidem
+200 id fieri, non tamen fuisse ita conveniens, neque esse parem ra-
+tionem, tum quia oportuit communem rationem accidentis,
+quae essentialis est omnibus accidentibus, explicare eamque
+cum substantia conferre, tum etiam quia ratio accidentis ut sic
+essentialis est et positiva, et omnes modi quibus genera acci-
+205 dentium constituuntur et distinguuntur, proxime determinant
+essentialiter ipsam rationem accidentis ut sic, et non rationem
+
+-- 6 of 52 --
+
+Suárez, DM XXXIX 7
+entis; et ideo sub accidente optime et immediate dividuntur
+novem genera. In aliis autem divisionibus accidentis, quae per
+pauciora membra tradi videntur, aut non reperitur coordinatio
+210 essentialis secundum rationem inter modos constituentes talia
+membra et eos qui determinant genera accidentium, aut illi
+modi non sunt positivi, sed negativi; aut non sunt essentiales,
+sed extrinseci et accidentales; aut denique non possunt sub illis
+con- <col. b> venienter subdividi genera primo diversa. Quia
+215 interdum res eiusdem praedicamenti, tantum specie distinctae
+inter se, continentur sub illis membris diversis; et e contrario,
+res diversorum praedicamentorum ad idem membrum perti-
+nent; quae omnia declarabuntur commodius discurrendo per
+singula exempla superius proposita.
+220 10. Prima ergo obiectio erat de divisione accidentis in in- 10.
+completum et completum; in qua primum explicandum est
+quid nomine accidentis completi et incompleti intelligatur.
+Rationem
+completi et
+incompleti
+accidentis in quo
+collocent aliqui.
+Quidam enim sola concreta accidentium intelligunt esse com-
+pleta accidentia; incompleta autem esse accidentia in abstracto.
+225 Quia accidens concretum significat totum compositum, quod
+proprie completum est; abstractum vero accidens est sola forma,
+quae incompletum quid est, natura sua ordinatum ad tale com-
+positum constituendum. Unde per actionem accidentalem non
+fit per se accidens abstractum, sed concretum, quia, nimirum,
+230 actio per se primo tendit ad completum ens, et ideo dixit Aris-
+toteles per calefactionem non fieri calorem, sed calidum. Tan-
+dem forma substantialis est res incompleta; ergo multo magis
+forma accidentalis in abstracto, sumpta.
+Horum sententia
+refutatur.
+11. Sed haec sententia probari non potest; aut enim con- 11.
+235 cretum accidentis sumitur ratione solius formalis, vel ratione
+totius compositi ex materiali et formali; sub priori ratione vere
+dici potest accidens, sub posteriori autem non, tam dici potest
+accidens quam ens per accidens, ut illud appellat Aristoteles,
+VII Metaph., c. 6, et dictum a nobis est disp. IV, sect. 3.
+240 Quapropter cavenda est aequivocatio de nomine accidentis,
+quam declarare possumus ad eum modum quo Aristoteles dis-
+tinxit nomen accidentis, lib. V Metaph., c. 30, ubi ait acci-
+dens interdum vocari aliquid quia fortuito evenit, quod solum
+dicitur accidens quia per accidens contingit; proprie vero ac-
+
+-- 7 of 52 --
+
+Suárez, DM XXXIX 8
+245 cidens dicitur quod inest alicui extra rei essentiam; sic ergo
+concretum accidentis ratione totius compositi vocari potest ac-
+cidens, quia per accidens in eo congregantur res diversorum
+generum; quamquam illud per accidens non significet fortuitam
+<508> congregationem, sed solum accidentariam coniunc-
+250 tionem plurium rerum; non tamen potest illud compositum
+proprie accidens appellari, ut a substantia distinguitur, cum in
+illo substantia includatur. Propter quod recte sentiunt qui ne-
+gant haec concreta sic considerata in praedicamento collocari,
+quia neque in praedicamento substantiae neque in praedica-
+255 mento accidentis collocari possunt. Et quia in praedicamentis
+non entia per accidens, sed per se collocari possunt. A fortiori
+ergo tale concretum sic spectatum non potest appellari acci-
+dens completum; quia quod accidens non est, nec completum
+accidens esse potest. Immo, nec ens completum potest proprie
+260 vocari, quia revera solum ens per se unum est proprie com-
+pletum ens. Unde, si subiectum illius compositi sit substantia
+completa, compositum ipsum ex substantia et accidente erit
+plus quam completum, et ideo erit proprie ens per accidens.
+12. At vero, si loquamur de illo concreto ratione solius 12.
+265 formalis, sic dici quidem potest accidens completum; tamen
+non est cur idem accidens abstractum incompletum censeatur,
+quia concretum pro formali tantum dicit ipsam formam acci-
+dentalem, iuxta veriorem et communiter receptam sententiam
+D. Thomae, et Commentatoris, V Metaph., text. 14. Qui con-
+270 sequenter aiunt contra Avicennam, in sua Logica, concretum
+et abstractum accidentis formaliter ac praecipue idem signifi-
+care solumque differre quia concretum dicit ipsam formam ut
+actu informantem subiectum et constituentem concretum ip-
+sum, abstractum vero praecise dicit ipsam formam ac si per se
+275 esset. Haec autem differentia non est satis ut albedo dicatur ac-
+cidens incompletum, potius quam album; quia actualis inhae-
+sio, quam magis exprimit album, solum est quidam modus for-
+mae accidentalis, qui non complet illam in ratione accidentis.
+Unde non potest dubitari quin quantitas separata tam comple-
+280 tum accidens sit sicut coniuncta. Nec refert quod forma ipsa
+accidentalis sit instituta ad afficiendum subiectum, quia non
+dicimus huiusmodi accidens in abstracto esse ens completum,
+
+-- 8 of 52 --
+
+Suárez, DM XXXIX 9
+sed esse accidens completum, quod est valde diversum; nam
+accidens, quantumvis in se perfectum, est incompletum in lat-
+285 itudine entis. Et ideo ratio illa solum probat abstracta acciden-
+tium esse incompleta entia, non tamen esse incompleta acci-
+dentia. Immo vero, idem dicendum est de concretis ratione for-
+<col. b> malium significatorum. Quapropter in hoc non est
+simile de formis substantialibus; illae enim et sunt entia incom-
+290 pleta et substantiae etiam incompletae, quod illis perfectius est
+quam esse accidentia completa. Denique, quod afferebatur de
+termino actionis nihil ad rem praesentem facit, quia naturalis
+actio tendit ad compositum, sive illud sit proprie unum, sive
+per accidens; tendit etiam ad formam non in se, sed in subiecto,
+295 et ideo magis dicitur tendere ad concretum quam ad abstrac-
+tum, etiamsi utrumque completum sit in ordine accidentis.
+In quo vere
+consistat ratio
+accidentis
+completi et
+incompleti.
+13. Incompletum ergo accidens distinguendum est a com- 135R 13.
+pleto, tam in concreto quam in abstracto; utraque enim ratio
+potest in utroque membro reperiri; tamen, quia in abstractis
+300 concipitur (ut ita dicam) magis pura ac praecisa ratio acciden-
+tis, in eis explicandum est utrumque membrum; facile enim
+deinde poterit ad concreta applicari. Completum ergo acci-
+dens dicitur quod in ratione formae accidentalis est integra ac
+totalis forma; incompletum vero accidens dicitur quod habet
+305 rationem partis respectu completi. Quae explicatio patet, tum
+ex proprietate terminorum, tum ex proportione sumpta ad
+substantiam completam et incompletam, quas supra hoc modo
+declaravimus; nam, sicut substantia in suo ordine comparatur
+ad totum et partem, ita et accidens in ordine suo. Ex quo fit,
+310 sicut substantia potest esse completa vel incompleta physice
+aut metaphysice, ita etiam accidens. Dicitur autem accidens
+physice completum quod neque est neque ex se ordinatur ut
+componat per se aliud accidens, quia tunc vere habet rationem
+totius seu integri accidentis. Dico autem non debere ordinari
+315 ad componendum aliud accidens, quia, licet ordinetur ad com-
+ponendum cum substantia unum compositum, hoc non tollit
+rationem accidentis completi, eo quod illud compositum non
+sit verum accidens. Addo quod, licet interdum unum accidens
+ordinetur ad actuandum vel recipiendum aliud, ut, verbi gra-
+320 tia, potentia ad actum, vel actus ad potentiam, nihilominus
+
+-- 9 of 52 --
+
+Suárez, DM XXXIX 10
+hoc non impedit quin utrumque esse possit accidens comple-
+tum; quia utrumque in ratione sua habet integram speciem
+et non componit cum alio unum per se, sed tantum per ac-
+cidens. Erit ergo accidens physice incompletum illud quod
+325 physice componit seu integrat aliquod acci- <509> dens per se
+unum; ut partes, verbi gratia, quantitatis continuae, quamdiu
+sunt in continuo, tantum sunt incompleta accidentia; gradus
+etiam intensionis eiusdem caloris potest dici accidens incom-
+pletum physice. Et punctum potest dici natura sua incomple-
+330 tum accidens. Quo fit ut idem accidens secundum diversas ra-
+tiones possit dici completum et incompletum, ut communiter
+censetur de linea vel superficie; nam, quatenus habet propriam
+extensionem, est quantitas completa; quatenus vero est termi-
+nus aut vinculum alterius quantitatis, censetur incompleta. Et
+335 eadem qualitas inchoata seu in gradu remisso est essentialiter
+completa, entitative autem seu intensive est incompleta. Motus
+etiam, quatenus est ipsemet terminus in fieri, censetur quid in-
+completum; tamen prout est passio subiecti seu mobilis habet
+completam quamdam rationem accidentis et suum constituit
+340 praedicamentum, ut videbimus.
+14. Metaphysice autem dicitur accidens completum illud 14.
+quod habet integram essentiam alicuius accidentis. Ubi statim
+occurrebat quaestio an genera accidentium possint dici acci-
+dentia completa, vel solum species ultimae aut individua. Aut
+345 si illa sunt accidentia completa, oritur quaestio de differentiis,
+cur, scilicet, non sint etiam accidentia completa; nam, sicut
+differentia est pars, ita et genus, et sicut genus, ut possit dici
+de specie concipitur aliquo modo per modum totius, ita etiam
+differentia. Sed haec eodem modo expedienda sunt quo similia
+350 de substantia tractavimus. Dicendum est enim genera omnia
+quae ponuntur in linea recta alicuius praedicamenti acciden-
+tis esse accidentia completa; quod ex ipso modo concipiendi
+et significandi patet; quantitas enim, calor, habitus et similia
+concipiuntur et significantur ut integrae accidentales, sive sub
+355 generali ratione, sive sub specifica concipiantur; quia vel ex-
+presse, vel implicite dicunt totam formam seu totam essentiam
+eius, et per modum totius. In quo est magnum discrimen inter
+differentiam et genus; nam differentia semper significatur per
+
+-- 10 of 52 --
+
+Suárez, DM XXXIX 11
+modum partis, saltem quoad formale significatum eius. Pro-
+360 prie igitur accidentia incompleta metaphysice sunt differentiae
+accidentius, et genera, si praecise sumantur ut partes, non vero
+absolute sumpta.
+15. Ex quibus tandem ad primam instantiam responde- 15.
+tur divisionem illam acciden- <col. b> tis in completum et in-
+365 completum, vel praesupponi tamquam virtute seu proportione
+contentam in simili divisione substantiae, vel certe commodius
+posse applicari ad singula praedicamenta accidentium, scilicet,
+ut sit quantitas completa et incompleta, et qualitas similiter,
+et sic de aliis. Nam sub generali ratione accidentis vix aliquid
+370 potest censeri incompletum simpliciter, aut habere rationem
+partis, nisi ad particularia genera descendatur; quia ratio acci-
+dentis imperfecta est et communissima, et ideo quantum est
+ex se, in quocumque modo, quantumvis imperfecto, omnino
+includitur; quae ratio in sect. 3 examinabitur. Adde quod illa
+375 diversitas, in ea generalitate sumpta, non est absoluta sed re-
+spectiva, nam, ut dixi, accidens quod est completum sub una
+ratione, est incompletum sub alia. Item non est semper dif-
+ferentia essentialis, nam interdum accidens remissum dicitur
+incompletum, licet essentialiter completum sit. Denique non
+380 semper est diversitas rerum, sed intentionum seu ex modo co-
+incipiendi nostro, ut patet in differentiis et speciebus acciden-
+tium. Propter haec ergo non accidens in completum vel in-
+completum, sed absolute in novem genera divisum est. Ut hinc
+Cum dicitur
+accidens dividi in
+novem genera,
+nomen generis
+late sumendum.
+obiter constet quando dicitur accidens dividi in novem genera
+385 non sumi genus proprie et rigorose, sed ut includit omnia quae
+in unoquoque praedicamento constituuntur, sive directe sive
+reductive. Itaque cum accidens dicitur aliud quantitas, aliud
+qualitas, etc., non sumitur quantitas vel qualitas prout est rig-
+orose genus, quo modo est sola quantitas vel qualitas completa;
+390 alias divisio non esset adaequata diviso; sumitur ergo quantitas
+(et idem est de aliis) in tota sua amplitudine, licet postea ad con-
+stituendum proprium genus talis praedicamenti propria ratio
+quantitatis completa accipienda sit; quod hic pro praedicamen-
+tis omnibus sit animadversum, ne id repetere necesse sit.
+395 Expeditur secunda obiectio. The second objection is set free.
+
+-- 11 of 52 --
+
+Suárez, DM XXXIX 12
+16. In secundo exemplo de divisione accidentis in singulare 16.
+et universale, seu in primum et secundum, nihil est quod im-
+Accidens in
+universale et
+singulare qualiter
+dividatur.
+moremur, nam divisio illa, quatenus metaphysica est, magis est
+divisio unius quam entis vel accidentis, et ita supra tractata est,
+400 disp. IV, V et VI. Quatenus vero pertinet ad intentiones subiici-
+bilis et praedica- <510> bilis, magis est dialectica quam meta-
+physica; et utroque modo est generalis ad omnia entia, nec in
+accidentibus habet aliquid peculiare. Et quoad hoc est diver-
+sitas inter substantiam et accidens, nam in substantia, propter
+405 peculiarem substandi rationem, necessarium fuit rationem pri-
+mae substantiae distinguere a ratione secundae, in accidentibus
+vero nulla fuit necessitas. Unde nec individuum accidens con-
+suevit appellari primum accidens respectu praedicatorum uni-
+versalium; nam, licet in existendo singulare sit suo modo prius
+410 quam universale, tamen in hoc, ut dixi, nihil peculiare habet
+accidens, sed provenit ex communi ratione singularis et uni-
+versalis.
+Circa tertiam obiectionem aliae divisiones explicantur. 140R The other divisions are explained with respect to the third objection.
+17. In tertia difficultate admittimus omnia quae de illa di- 17.
+415 visione accidentis in rem et modum ibi dicuntur; inde vero
+solum fit divisionem illam esse immediatiorem priori modo
+supra declarato. Nihilominus tamen hoc loco necessaria non
+est: primo quidem, quia divisio illa formaliter sumpta gener-
+Accidens in
+entitatem et
+modum ut
+dividatur.
+alior est, et substantiae proportionaliter convenit, et de ente in
+420 communi dari potest; eamque propterea attigimus disp. VII,
+sect. 1 et 2. Secundo, quia illa divisio non confert ad dividenda
+genera accidentium primo diversa, nam sub eodem genere
+praedicamentali possunt interdum includi accidentia quae pro-
+prias habeant entitates et quae tantum sint modi entium, ut
+425 sunt in genere qualitatis calor et figura. Ex quo intelligitur illa
+duo membra, per quae illa divisio traditur, per se ac formaliter
+non mediare inter accidens in communi et modos quibus deter-
+minatur ad suprema genera accidentium; nam accidens intellig-
+itur determinari ad genus qualitatis abstrahendo ab hoc quod
+430 sit propria entitas, vel tantum modus entis.
+18. Idem fere dicendum est de divisione in absolutum 18.
+et respectivum. Nam etiam haec divisio magis pertinet ad
+
+-- 12 of 52 --
+
+Suárez, DM XXXIX 13
+Accidentia
+absolutum et
+respectivum
+quando dividatur.
+communem rationem entis quam ad propriam accidentis. Et
+praeterea, si respectivum, ut ibi insinuatur, complectitur re-
+435 spectiva transcendentalia seu secundum dici, nullum est ac-
+cidens quod respectivum non sit; unde non potest accidens
+dividere. Si vero respectivum sumatur proprie pro praedica-
+mento ad aliquid, sic nihil <col. b> est utilitatis in ea divisione,
+tum quia, hoc ipso quod unum tantum genus dicitur esse ad
+440 aliquid, reliqua omnia dicuntur esse absoluta; tum etiam quia
+per hanc absoluti appellationem vix aliquid commune octo
+generibus accidentium explicatur, praeter negationem ipsius ad
+aliquid.
+Divisio accidentis
+in spirituale et
+materiale.
+19. Ad eumdem modum philosophandum est de divisione 19.
+445 accidentis in spirituale et materiale, nam etiam haec duo mem-
+bra transcendunt fere omnia entia; et in substantiis primario
+inveniuntur, et consequenter in multis generibus accidentium;
+unde non sunt apta, ut per ea descendamus ad dividenda gen-
+era entium primo diversa. Neque etiam sunt proprie medium
+450 inter accidens ut sic et modos quibus ad suprema genera de-
+terminatur; nam accidens determinatur ad qualitatem abstra-
+Accidens
+permanens aliud
+aliud [sic]
+successivum.
+hendo a materiali vel immateriali. Et idem est dicendum de
+accidente naturali vel supernaturali et similibus, praesertim de
+permanenti et successivo, quod in ultimo exemplo tangitur.
+455 Quamquam illa membra, iuxta opinionem multorum, non
+semper sunt essentialiter differentia, de quo infra videbimus.
+Aliud commune,
+aliud proprium.
+20. Atque eadem ratione nihil ad praesens refert divisio 20.
+accidentis in proprium et commune, quae indivisione praed-
+icabilium latius tradi solet; nam haec divisio per se ac for-
+460 maliter non variat rationem accidentis, sed dimanationem eius
+ex subiecto. Et idem a fortiori est de accidente separabili vel
+inseparabili. Quod si inter haec est diversitas essentialis, for-
+maliter provenit ex modis vel differentiis praedicamentorum
+accidentium. Unde interdum in diversis praedicamentis, inter-
+465 dum in eodem illa varietas accidentium reperitur. Atque ita
+obiter explicuimus non solum divisionem hoc loco intentam,
+sed etiam alias quae de accidente tradi solent; ob hanc enim
+praecipuam causam illas dubitandi rationes proposuimus.
+SECTIO II. SECTION II.
+
+-- 13 of 52 --
+
+Suárez, DM XXXIX 14
+Utrum divisio accidentis in novem genera sit sufficiens. Whether the division of accidents into nine genera is sufficient.
+1. Ex duobus capitibus quae ad sufficientiam requiruntur, 1. A2 serious difficulty arises in this question from the two heads which
+oritur magna difficultas in hac quaestione. Unum est, ut om- are required for sufficiency. One is that all the members be distinct lest
+nia membra sint distincta, ne aliqua in unum coincidant, et ita some coincide as one and thus there be fewer than are numbered. The
+5 pauciora sint quam numerantur. Aliud <511> est, ut praeter 5R other is that there not be other additional ones which are distinguished
+haec non sint alia, quae ab his genere distinguantur. from these genera.
+Difficultates circa distinctionem membrorum dictae divisionis. Difficulties with the distinction of the members in the stated divisions.
+2. Circa primum, ut supponamus nunc quantitatem et qual- 2. Concerning the first [issue], in order now to suppose that quantity
+itatem esse distinctas, in caeteris fere omnibus est difficultas; and quality are distinct, there is a difficulty in almost all the remain-
+10 nam relatio in re nihil videtur esse distinctum ab omnibus ab- 10R ing cases. For a relation in a thing seems to be nothing distinct from
+solutis. Actio, esto distinguatur a primis tribus praedicamen- all the absolute [qualities]. An action, even if distinguished from the
+tis, tamen et relationem essentialiter includit, et (quod difficil- first three categories, nevertheless also includes essentially a relation,
+ius est) in re non distinguitur a passione. De ubi et quando, and (what is even more difficult) is not distinguished in the thing from
+magna imprimis difficultas est quomodo distinguantur a tem- a passion. Concerning where and when, the first great difficulty is how
+15 pore et loco, quae sub quantitate collocantur, graviorque diffi- 15R they are distinguished from time and location, which are placed under
+cultas est de duratione uniuscuiusque rei (quae sub praedica- quantity. And a more serious difficulty concerns the duration of an in-
+mento quando collocanda videtur), quo modo ab existentia dividual thing (which seems to be placed under the category of when)
+uniuscuiusque rei distinguatur; videtur enim nihil distingui, [and] how it is distinguished from the existence of an individual thing.
+et ideo nihil esse cur in praedicamento proprio accidentis col- For it does not seem to be distinguished by anything and therefore there
+20 locetur. Praeterea est difficultas de habitu, quia habitus nihil 20R is no reason why it is placed in a proper category of accident. In addi-
+aliud est quam vestis, si in abstracto sumatur, aut esse vesti- tion, there is a difficulty concerning having, since having is nothing
+tum, si sumatur in concreto; sed vestis nihil aliud est quam other than clothing, if taken abstractly, or being clothed, if taken con-
+substantia quaedam tali figura vel qualitate affecta. Quod si cretely. But clothing is nothing other than a certain substance affected
+in ea consideretur sola denominatio extrinseca, quam tribuit by such and such a figure or quality.3 If that is considered merely an ex-
+25 homini vestito, illa imprimis nihil reale est, ut inter acciden- 25R trinsic denomination of [the substance] which is attributed to a clothed
+tia realia mereatur nominari, et deinde, etiamsi concipiatur ut human being, then, in the first place, it is nothing real that would de-
+aliquid accidentale, non est quid distinctum a loco, nam vestis serve to be named among the real accidents and, furthermore, even if
+non comparatur ad vestitum nisi ut proximus locus illum cir- it is conceived as something accidental, it is nothing something distinct
+cumdans. Denique, situs nihil videtur esse distinctum ab ubi from location, for clothing is not compared to being clothed except as
+30 seu existentia in loco, vel si quippiam addit ad summum esse 30R a proximate place enclosing [the one clothed]. Finally, position seems
+potest aut relatio quaedam partium locati ad partes loci, aut to be nothing distinct from where or from existence in a location. Or
+certe quasi figura quaedam resultans in locato ex tali positione, if it adds something or other, it can at most be a certain relation of lo-
+qualis apparet in sedente vel stante, etc. Nihil ergo est in hoc cated parts to located parts or at least a certain quasi-figure resulting
+2Note that the paragraph numbering of the Vivès edition does not follow the numbering of the 1597 edition. I have kept the Vivès numbering.
+3This puzzle makes more sense, perhaps, if we keep in mind that the Latin term being translated as ‘having’ is ‘habitus’ and that the term is also used for the distinctive clothing
+worn by members of certain religious communities, i.e., religious habits.
+
+-- 14 of 52 --
+
+Suárez, DM XXXIX 15
+genere quod aliis contentum non sit. in a location from such a position, of the sort that is evident in sitting
+35R or standing, etc. Therefore, there is nothing in this genus that is not
+contained in the other [genera].
+35 3. Et augetur difficultas quoad hoc ipsum caput, nam illa 3.
+novem genera, ut diximus non solum numerantur ut distincta,
+sed etiam ut primo diversa; sic autem impossibile videtur tot
+esse prima genera. Primo quidem propter communem difficul-
+tatem de accidente, in quo omnia conveniunt, de qua ex pro-
+40 fesso dicturi sumus sectione sequenti. Secundo, quia multa ex
+his praedicamentis conveniunt in aliquibus essentialibus differ-
+entiis; ergo necesse est ut in aliquo genere conveniant, nam, ut
+dicitur in Antepraed.: Ge- <col. b> nerum non subalternatim
+positorum non possunt esse communes differentiae; ergo genera
+45 quae habent communes differentias sunt subalternatim posita.
+Dicuntur autem genera subalternatim posita quae ita se habent,
+ut vel unum sub altero, vel utrumque sub uno tertio genere col-
+locetur, ut sumitur ex Aristotele, IV Topic., c. 2. et V Topic.,
+c. 3, loco 41. Antecedens primum probatur: nam esse spiri-
+50 tuale vel materiale, differentiae sunt accidentis, et tamen com-
+munes sunt multis ex dictis generibus; similiter, esse absolu-
+tam formam vel respectivam; item, esse formam propriam vel
+modum; ac denique, esse proprie inhaerentem, quod maxime
+commune est quantitati et qualitati, vel esse tantum extrinse-
+55 cus denominantem, quod maxime convenit actioni, habitui et
+loco continenti.
+Difficultates circa sufficientiam divisiones. Difficulties with the sufficient divisions.
+4. Circa aliad caput non minores difficultates occurrunt. 4.
+Prima ac praecipua est, quia vel sub accidente distinguimus
+60 omnes denominationes reales quae sunt extra substantiam rei,
+vel tantum illas quae sumuntur a forma intrinsece inhaerente;
+hoc posteriori modo sine dubio non essent tot accidentium
+genera, ut argumenta priora convincunt; priori autem modo
+Prima difficultas. multa sunt quae sub his non continentur. Quod patet primo
+65 de his denominationibus esse visum, amatum, etc. Neque enim
+dici potest huiusmodi denominationes esse rationis tantum,
+nam ex forma reali et habitudine reali sumuntur, non minus
+quam denominatio agentis. Unde aliter potest eadem difficul-
+
+-- 15 of 52 --
+
+Suárez, DM XXXIX 16
+tas declarari; nam eadem dependentia prout denominat agens
+70 vel patiens, dicitur constituere duo genera accidentium, scil-
+icet, actionis vel passionis; ergo idem actus immanens, prout
+denominat active ipsum agens, verbi gratia, videns, et passive
+obiectum visum, constituet duas rationes vel duo genera acci-
+dentium.
+75	Secunda
+difficultas.
+5. Atque haec difficultas potest secundo extendi ad plures 40R 5.
+alias formas denominantes, nam superficies corporis continen-
+tis, ut extrinsece denominans aliud contentum vel locatum,
+dicitur constituere speciale genus accidentis; ergo, ut active de-
+nominat rem locantem, constituet aliud accidentis genus. Et
+80 idem argumentum est de habita, ut denominat vestitum, vel
+vestientem; cur enim agens et patiens, ut sic, in diversis gener-
+ibus accidentis collocan- <512> tur, et non locans et locatum,
+ut sic, et vestiens ac vestitum?
+Tertia. 6. Tertio, ex rebus artificialibus multae denominationes 6.
+85 reales consurgunt, quae non possunt ad dicta genera acciden-
+tium revocari; verbi gratia, vas esse deauratum denomina-
+tio realis est, quae tamen ad nullum ex dictis generibus per-
+tinet. Item exercitus aliquam peculiarem formam dicit in tali
+hominum collectione, quae excludi nequit a ratione accidentis,
+90 eo quod sit ens per accidens, alias nec domus ut sic, et multo
+minus numerus essent collocanda inter accidentia. Quod si
+quis dicat exercitum revocari ad figuram ratione talis composi-
+tionis, vel ad relationem ratione ordinis, eadem ratione posse-
+mus excludere situm vel habitum a peculiari genere accidentis.
+95	Quarta. 7. Estque quarta difficultas huic similis, quia in humanis 7.
+rebus seu moralibus sunt plures denominationes, extrinsecae
+quidem, tamen reales, quae ad dicta genera revocari non pos-
+sunt, ut esse regem, doctorem, et similes. Neque enim hae satis
+excluduntur eo quod sint entia rationis; nam, licet apprehen-
+100 sae hae denominationes ut inhaerentes seu intrinsecae, sint en-
+tia rationis, tamen, ut in se sunt, revera sunt denominationes
+sumptae a formis realibus, licet extrinsecis; ergo vel omnes ex-
+trinsecae denominationes reiiciendae sunt a generibus realium
+accidentium, vel non est cur hae reiiciantur. Nam etiam aliae
+105 denominationes, si apprehendantur ut inhaerentes, erunt en-
+tia rationis, ut patet in denominatione creatoris; quae, si ap-
+
+-- 16 of 52 --
+
+Suárez, DM XXXIX 17
+prehendatur ut sumpta ab aliquo temporali Deo adveniente,
+solum est relatio rationis. Atque haec difficultas extenditur
+ad actus humanos, quatenus liberi denominantur seu morales;
+110 nam haec ipsa denominatio extrinseca est; item, quatenus de-
+nominantur studiosi, aut pravi moraliter, vel prohibiti, aut
+praecepti. Item habet locum haec difficultas in hominum con-
+gregatione, quatenus denominatur civitas aut respublica, quae
+denominatio non oritur ex situ vel figura consurgente ex tali
+115 ordine, sed est moralis et diversae rationis ab aliis.
+Quinta. 8. Quinto, in rebus etiam physicis reperimus motum, qui 8.
+est verum accidens, et sub illis generibus non continetur. Quod
+si dicas excludi, quia est incompletum quid et in fieri, eadem ra-
+tione excludendae erunt actio et passio; nam etiam dicunt res
+120 incompletas et in fieri. Vel certe, si <col. b> dicas motum
+revocari ad actionem et passionem, aut revocabitur tamquam
+genus commune illis, et sic non erunt illa duo genera summa;
+vel tamquam in re idem cum illis; et sic etiam actio et passio
+non essent distinguenda, quia in re tam sunt idem inter se si-
+125 cut cum motu, et sicut distinguuntur habitudine ad agens et
+patiens, ita motus habet propriam habitudinem ad terminum.
+Praeterea sunt in rebus physicis causalitates causae formalis,
+materialis et finalis, a quibus hae causae denominantur causae
+in actu; cur ergo illae non constituunt propria genera, sicut
+130 actio? Nam, ut in superioribus vidimus, actio nihil aliud est
+quam causalitas agentis; sed aliae causalitates sunt etiam reales,
+et non minus accidunt suis causis quam actio agenti; ergo aeque
+constituere debent propria accidentium genera.
+Sexta. 9. Sexta difficultas sumi potest ex rebus metaphysicis, nam 9.
+135 haec divisio, cum metaphysica sit et adaequata accidenti, ut
+condistinguitur a substantia in tota sua latitudine, comprehen-
+dere debet omnia accidentia substantiarum creatarum, etiam
+immaterialium; in illis autem substantiis aliqua accidentia in-
+veniuntur quae in his generibus non comprehenduntur; ergo
+140 est insufficiens divisio. Minor de duobus accidentibus potis-
+simum probatur. Unum est ubi, nam illae substantiae, cum
+immensae non sint, alicubi sunt definitae; et cum immutabiles
+non sint, mutant ipsum ubi, quod est signum hoc esse quod-
+dam accidens in illis; illud autem ubi non est per circumscrip-
+
+-- 17 of 52 --
+
+Suárez, DM XXXIX 18
+145 tionem extrinseci loci continentis, ut est in rebus corporal-
+ibus; ergo est accidens genere diversum. Quod si quis dicat
+etiam in rebus corporalibus esse ubi intrinsecum distinctum a
+loco circumscribente, hinc duobus modis augetur difficultas,
+tantum abest ut solvatur. Primo, quia hinc sequitur in rebus
+150 corporalibus distinguenda esse duo genera localium acciden-
+tium (ut sic dicam): unum, loci extrinseci continentis, aliud,
+ubi intrinseci. Secundo, quia etiam ubi corporeum genere di-
+versum est ab ubi immaterialium substantiarum; nam illud est
+quantum, hoc vero indivisibile. Aliud accidens substantiarum
+155 immaterialium est propria duratio earum, nam, si in substan-
+tiis inferioribus inter accidentia numeratur duratio, et vocatur
+tempus vel quando, cur non etiam in immaterialibus substan-
+tiis? Quod si distinguitur, certe est accidens genere diversum,
+nam est longe <513> alterius rationis, cum successionem non
+160 habeat neque extensionem.
+Septima. 10. Septimo, inter accidentia non solum numerantur ea 45R 10.
+quae immediate accidunt substantiae, sed etiam ea quae ac-
+cidunt accidentibus, alias, nec figura, nec habitus, vel similia
+numeranda essent in accidentibus. At vero accidentia acciden-
+165 tium multo plura sunt quam quae in aliis generibus continen-
+tur; ergo. Probatur minor, quia unicuique generi accidentium
+tribuit Aristoteles proprietates quasdam accidentales quae ad
+alia praedicamenta non pertinent; ut quantitati tribuit esse
+mensuram; quae ratio non est de essentia quantitatis, neque
+170 est qualitas vel aliquid simile, et idem est de aliis similibus pro-
+prietatibus. Nec satis est dicere has proprietates reduci ad ea
+genera quibus tribuuntur, alias nec caetera praedicamenta dis-
+tinguenda essent a substantia, quia ad illam revocari possunt,
+cum sint proprietates eius.
+175	Ultima. 11. Ultimo, sumere possumus argumenta ex Aristotele, 11.
+qui in Postpraedicam. numeravit plures denominationes acci-
+dentales, praeter eas quae in dictis generibus accidentium con-
+tinentur, ut esse simul, prius, et habere, in quadam alia sig-
+nificatione, etc. Cur ergo illae non constituunt plura genera
+180 accidentium, cum extrema omnia genera numerentur?
+Antiquorum opiniones. The opinions of the ancients.
+
+-- 18 of 52 --
+
+Suárez, DM XXXIX 19
+12. Olim non defuerunt qui praedicamentorum numerum 12. Formerly, there was no lack of those who wanted to either in-
+Pythagorici. vel augerent vel minuerent. Pythagorici ponebant viginti crease or decrease the number of categories. The Pythagoreans counted
+Plato. praedicamenta, ut sumitur ex Aristotele, I Metaph., c. 5. Plato 50R twenty categories, as is gathered from Aristotle, Metaph. I, c. 5. But
+185 vero interdum ad unum genus entis omnia revocat, ut in Plato sometimes reduced everything to one genus of being, as in the
+Sophista; interdum vero ad quatuor, ut in Philebo. Alii vero Sophist, but sometimes to four, as in Philebus. But others counted more
+plura, alii autem pauciora posuerunt, ut videre licet apud and others fewer, as may be seen at the beginning of the commentaries
+Simplicius.
+Venetus.
+Philopon.
+Simpl. et Venet., in principio Praedicamentorum; et Philo- on Categories by Simplicius and Paul of Venice and in Prior. I, c. 2, by
+pon., I Prior., c. 2. 55R [John] Philoponus.
+190 Vera resolutio et prima ratio sufficientiae examinatur. The true resolution and the first reason for sufficiency is examined.
+13. Iam vero, tam est receptum philosophicum dogma de nu- 13. But now the philosophical dogma concerning the number of the ten
+mero decem praedicamentorum, et consequenter de numero categories and consequently concerning the number of the nine genera
+novem generum accidentium praeter substantiam, ut quasi of accidents besides substance is so entrenched that it is thought to be,
+temerarium in philosophia existimetur hoc in dubium revo- 60R as it were, reckless to put this into doubt in philosophy. We, there-
+195 care. Illud ergo ut certum supponamus ex communi sensu et fore, assume it as certain by reason of common sense and by reason of
+ore omnium. Et rationem sufficien- <col. b> tiae illius divisio- what everyone says. And we [shall] investigate the reason for the suf-
+nis investigemus. Quod enim quidam volunt, sumendam esse ficiency of that division. For what some people want—that it should
+ut creditam ex auctoritate multorum dicentium, philosoph- be taken as believed by reason of many saying so—is not philosophical.
+icum non est. Quod vero aiunt alii, esse veritatem hanc per 65R But what others say—that this truth is known per se—is not true. For
+200 se notam, verum non est; quae est enim evidens ac immediata what is the evident and immediate connection between those extremes?
+connexio inter illa extrema? Communiter, ergo, ratio huius The reason for this sufficiency, therefore, is commonly and customarily
+sufficientiae sic sumi solet, nam, praetermissa substantia, quae taken as follows: for, substance—which exists per se and constitutes the
+per se est et primum genus constituit, accidentium genera per first genus—having been taken care of, the genera of accidents ought
+habitudinem ad substantiam distingui debent. Aut ergo acci- 70R to be distinguished through their habitudes to substance.4 Therefore,
+205 dens intrinsece afficit substantiam, vel tantum extrinsece. Si accident either intrinsically affects substance or only extrinsically.5 If
+intrinsece, aut absolute aut relative. Et absolute, aut ratione intrinsically, either absolutely or relatively. And absolutely, either by
+materiae, ut quantitas, vel ratione formae, ut qualitas. Relative reason of matter (as in the case of quantity) or by reason of form (as in
+autem, ad aliquid. Si vero extrinsece, aut in ordine ad poten- the case of quality). But relatively, [by reason of a] relation (ad aliquid).
+tiam activam, vel ad passivam, vel ad neutram earum. Primo 75R But if extrinsically, either in relation to an active power, to a passive
+210 modo constituitur actio; secundo, passio. Si vero tertio modo, power, or to neither of these. Action is constituted in the first way; pas-
+ulterius distinguendum est, nam vel talis affectio convenit per sion in the second. But if in the third way, a further distinction needs to
+modum mensurae, aut non. Et rursus, si per modum mensu- be made, for either such an affection agrees through the mode of mea-
+4Some texts suggest that Suárez might distinguish, at least some of the time, between ‘habitudo’ and ‘relatio’, so I will use the cognate ‘habitude’ for the former in order to
+mark the possible distinction.
+5On these divisions, cf. John F. Wippel, ‘Thomas Aquinas’s Derivation of the Aristotelian Categories (Predicaments)’.
+187 licet ] hect C.
+208 autem, ad ] autem, aut aliquid C.
+
+-- 19 of 52 --
+
+Suárez, DM XXXIX 20
+rae, aut est mensura quantitatis absolutae, et constituitur ubi, sure or not. And in turn, if through the mode of measure, either it is
+aut cum certo ordine partium, et constituitur situs, aut est 80R the measure of absolute quantity (and where is constituted), it is with a
+215 mensura durationis, et constituitur tempus. Si vero non habet fixed order of parts (and position is constituted), or it is the measure of
+rationem mensurae, constituitur habitus. Haec ratio vel suffi- duration (and time is constituted). But if it does not have the nature of
+D. Thomas. cientia desumpta est ex D. Thoma, V Metaph., lect. 9. Eamque measure, having is constituted. This argument or sufficiency is taken
+amplectuntur moderni Scriptores. from St. Thomas, Metaph. V, lect. 9. And the modern writers include
+85R the same [argument].
+Quot difficultates
+patiatur
+praccedens
+sufficientiae
+ratio.
+14. Est tamen difficilis ex multis capitibus. Primo, quia 14.
+220 falso numerantur omnia sex ultima praedicamenta inter for-
+mas extrinsecus denominantes. Nam passio non denominat
+extrinsece, sed intrinsece, ut per se notum est. Quod si dicatur
+extrinsece denominans, quia respicit extrinsecum agens, eadem
+ratione omnis relatio, immo et omnis habitus et actus imma-
+225	Vide Hervaeus
+quodlibet 1, q. 9.
+nentes dicentur extrinsece denominare, quia respicunt termi-
+nos vel obiecta extrinseca. Respondent aliqui, licet passio inter-
+dum intrinsece inhaereat, tamen non semper; nam, cum aliquis
+Vide Fonsecam 5
+Metaph. c. 7, q. 2,
+sect. 3.
+movetur localiter, aut veste induitur, aut vinculis ligatur, aliq-
+uid patitur, quamvis ei non inhaereat forma a qua patitur, quia
+230 nec locus quem ingreditur ei inhaeret, nec vesti qua induitur,
+nec vincula quibus ligatur. Sed hoc non recte dicitur; omnis
+enim physica et vera passio patienti inhaeret; <514> nullus
+enim vere pati dicitur propter extrinsecam denominationem,
+ut Aristoteles aperte docet, III Phys., c. 3, et III de Anima,
+235 c. 2; et ibi Commentator, D. Thomas et omnes. Alioqui, si-
+cut actio divisa est in transeuntem et immanentem, ita fuis-
+set passio dividenda. Neque exempla illa quidquam probant,
+nam mutatio quae est in motu locali intrinsece inhaeret mo-
+bili iuxta veram philosophiam; nam terminus proprius illius
+240 motus non est locus extrinsecus, sed aliquid intrinsecum ipsi
+mobili, ut infra, in praedicamento ubi, declarabimus. Dum
+vero aliquis veste induitur, si fingamus id fieri sine mutatione
+eius locali, nulla est ibi passio, sicut quando columna affluente
+aqua vel aere circumdatur, nihil patitur. Solum ergo intercedit
+245 passio inter induendam vestem, quatenus miscetur ibi mutatio
+localis. Similiter vincula, si praecise considerentur quatenus lo-
+caliter coniunguntur membris, non efficiunt passionem physi-
+213 absolutae ] absolute C.
+241 ubi ] ubi C.
+
+-- 20 of 52 --
+
+Suárez, DM XXXIX 21
+cam; quatenus vero dolore vel alteratione afficiunt, non sunt
+ipsa forma passionis, sed instrumenta; passio autem quam ef-
+250 ficiunt inhaeret intrinsece. Nulla ergo passio est forma extrin-
+sece denominans. Praeterea situs non extrinsece, sed intrinsece
+inhaeret; nam sedere et stare modi sunt intrinseci.
+Qualiter D. Aug.
+sufficientiam
+hanc probet.
+15. Quapropter apparentius D. Augustinus, in libro Prae- 15.
+dicamentorum, c. 8, quem imitatur Isidorus, lib. II Origin.,
+255 c. de Categoriis, in tres classes distinguit haec novem genera
+accidentium, quia tria sunt intra substantiam, quantitas, qual-
+itas et situs; tria extra, ubi, quando et habitus; tria partim in-
+tra, partim extra, ad aliquid, agere, et pati. Sed de ipso etiam
+ubi quaestio magna est an sit extra vel intra; et de quando, ut
+260 postea videbimus. Contra Augustinum etiam est, quia mul-
+tae qualitates dici possunt esse partim intra, partim extra, si
+ad hoc sufficit habere habitudinem ad extrinseca. Et interdum
+passio nullo modo est extra, si sit mere immanens. Praeterea,
+in priori sufficientia nulla ratio redditur cur mensurae quan-
+265 titatis et durationis praedicamenta constituant, et non men-
+sura intensionis vel perfectionis. Neque etiam apparet cur, si-
+cut locus dicitur habere rationem mensurae, non possit vestis
+illam habere; nam etiam requiritur aequalitas inter vestem et
+vestitum; immo, ut supra argumentabar, vestis habet rationem
+270 cuiusdam loci. Denique nulla redditur ratio cur praedicatum
+extrinsecum non includens ratio- <col. b> nem mensurae sit
+unicum tantum, cum multa alia videantur inter arguendum
+probabiliter numerasse.
+Alia ratio sufficientiae expenditur. Another reason for sufficiency is considered.
+275	Mairon. in
+praedicamentis
+passu 8.
+16. Aliter deducunt hanc sufficientiam quidam scotistae, nimirum, 16.
+accidens aliud esse absolutum, aliud respectivum; absolutum
+esse quantitatem vel qualitatem; respectivum, aliud esse intrin-
+secus adveniens, et esse aliquid, aliud extrinsecus adveniens. Et
+hoc rursus aut pertinet ad causalitatem, aut ad mensuram, aut
+280 ad ordinem. Si ad causalitatem, vel active vel passive, et sic
+Praelicta
+sufficientiae ratio
+quot
+difficultatibus
+subiecta.
+constituitur actio et passio. Si ad mensuram, vel quantitas per-
+manentis, et sic est ubi, vel successivae, et est quando. Si ad or-
+dinem, aut partium, et est situs; aut totius, et est habitus. Sed in
+hac sufficientia sunt aliquae difficultates tactae in praecedenti;
+
+-- 21 of 52 --
+
+Suárez, DM XXXIX 22
+285 et praeterea miscetur in ea distinctio illa relationum intrinse-
+cus et extrinsecus advenientium, quae et a multis censetur falso
+conficta, et ut minimum est incertissima, et ideo inepta ad rem
+certam explicandam. Ac denique in omnibus illis subdivision-
+ibus, nulla ratio earum redditur, sed voluntarie assumuntur,
+290 et in eis rationes aliquorum praedicamentorum non recte ex-
+plicantur, ut, verbi gratia, quod habitus sit ordo totius; nam
+etiam locus potest dici ordo totius, et alia quae in suis locis
+tractabimus.
+Ochamus qualem
+sufficientiae
+rationem
+assignet.
+17. Aliter Ocham, in sua Logica, I p., c. 41, et Quodl. V, 90R 17.
+295 q. 22, colligit hanc sufficientiam ex sufficientia interrogationum
+quae de prima substantia fieri possunt, scilicet, quanta sit,
+qualis, etc., atque ita numeras novem interrogationes. Verum
+tamen huius numeri nullam rationem reddit in interrogation-
+ibus ipsis, atque ita eamdem relinquit difficultatem.
+300 Unde divisionis sufficientia habeatur. For what reason the sufficiency of the division is held.
+Avicenna. 18. Quorcirca verum esse existimo quod Avicen. dixisse refer- 18.
+unt, non posse ratione propria et a priori demonstrari tot esse
+genera summa, et non plura nec pauciora. Unde neque Aris-
+toteles alicubi hoc demonstrare conatus est, sed tamquam cer-
+305 tum id semper supponit. Potestque in hunc modum declarari,
+quia, sicut de subiecto scientiae non potest demonstrari an sit,
+sed id supponendum est, ita etiam metaphysica non demon-
+strat, <515> sed supponit ens, et pari ratione non demonstrat
+a priori esse aliqua prima genera sub ente contenta; nam eadem
+310 est utriusque ratio. Immo, qui putant ens non habere con-
+ceptum obiectivum, dicent non aliter supponi ens esse quam
+supponendo haec summa genera esse. Addo in universum
+esse probabile quoties dividuntur gradus, genera aut species
+rerum, non posse a priori demonstrari tot esse et non plura,
+315 nisi tunc solum quando ad duo membra contradictorie op-
+posita revocatur divisio; nam tunc necesse est omnia sub di-
+viso comprehensa in alterutro illorum membrorum contineri.
+At vero quando divisio fit per plures differentias aut modos
+positivos, non video quomodo possit a priori demonstrari tot
+320 esse membra dividenda et non plura. Sicut in superioribus
+dicebamus, quamvis solum dividantur a nobis quatuor substan-
+
+-- 22 of 52 --
+
+Suárez, DM XXXIX 23
+tiarum gradus, non tamen demonstrari non esse plures, saltem
+possibiles, sed solum ostendi non esse plures nobis notos, et
+inde ad summum posse coniici non esse plures possibiles. Ita
+325 ergo censeo de decem generibus summis, nimirum, eorum suf-
+ficientiam non aliter nobis constare quam quia ex omnibus
+effectibus quos experimur non innotescunt nobis plura gen-
+era entium; haec autem omnia inveniuntur primo diversa in
+rationibus suis, ita ut in nullo alio genere conveniant; quod
+330 autem hoc ita sit, non potest melius ostendi quam respondendo
+difficultatibus propositis. Hoc autem in praesenti quaestione
+non potest exacte fieri, quia illae attingunt omnium praedica-
+mentorum materias et ex eorum perfecta cognitione pendent;
+et ideo breviter hic aliqua indicabimus et in caeteris expectanda
+335 est singulorum praedicamentorum tractatio.
+Unde sumatur prima diversitas inter genera accidentium. From where the first difference among the genera of accidents is taken.
+19. Ut ergo de primi capitis difficultate dicamus, videndum im- 19. Therefore, in order that we may speak about the difficulty concern-
+primis est quanta distinctio necessaria sit ad genera summa ac- 95R ing the first head, it should be seen how great a distinction is necessary
+cidentium multiplicanda, et unde sumenda sit. Quantum enim in order to multiply the highest genera and from where it should be
+340	Paulus Venet. in
+sua Meta. c. 32.
+distingui debeant accidentium genera a genere substantiae, iam taken. For how the genera of accidents should be distinguished from
+supra tractatum est. Dicunt ergo aliqui, ad distinguenda genera the genus of substance was already discussed above. Some, therefore, Paul of Venice,
+Metaph. c. 32.	accidentium necessariam esse mutuam realem distinctionem say that in order to distinguish the genera of accidents there is nec-
+rerum sub illis generibus contentarum, quia et distinguuntur 100R essary a mutual real distinction of the things contained under those
+ut entia rea- <col. b> lia, et summam habent diversitatem, genera, both because there are distinguished as real beings and because
+345 cum in nullo conveniant, nec inter se misceantur, ut Aristote- they have the greatest difference, since they agree in nothing nor are
+les ait, VIII Metaph., c. ult., et I Poster., c. 11. Et ideo videntur they mixed with each other, as Aristotle says in Metaph. VIII, last chap-
+Impugnatur. requirere distinctionem realem. Sed tamen iuxta hanc senten- ter, and in Post. An. I, c. 11. And therefore they seem to require a real
+tiam pauca quidem essent praedicamenta accidentium. Nam, 105R distinction. But, nevertheless, according to this view there would be It is attacked.
+ut ex sequenti constabit, sicut duo tantum sunt praedicamenta few categories of accidents indeed. For, as will be clear from the follow-
+350 a substantia realiter distincta per sese, scilicet, quantitas et qual- ing sections, just as there are only two categories really distinct per se
+itas, ita etiam eadem tantum sunt in praedicamentis acciden- from substance—namely, quantity and quality—so also only the same
+tium realiter ac per sese inter se distincta. Dico autem per sese, [two] of the categories of accidents are really and per se distinct from
+quia ratione horum praedicamentorum, quae inter se realiter 110R each other. Moreover, I say ‘per se’ because by reason of these categories
+distinguuntur, possunt alia distingui realiter vel ab aliquo is- which are really distinguished [per se] from each other, the others can
+355 torum, vel inter se, ut actio, verbi gratia, alterationis, quia ad be really distinguished either from one of those or from each other.
+qualitatem tendit et cum ea realiter identificatur, distinguitur For example, the action of alteration, because it tends to quality and
+344 rea- ] reatia C.
+
+-- 23 of 52 --
+
+Suárez, DM XXXIX 24
+realiter a substantia et quantitate et ab omnibus a quibus qual- is really identified with it, is really distinguished from substance and
+itas illa realiter distinguitur, et idem est in omnibus aliis acci- 115R quantity and from all the others from which that quality is really dis-
+dentibus. Nam quod in caeteris omnibus non interveniat per se tinguished. And the case is the same with all the other accidents. For it
+360 illa realis distinctio, patet, quia nec relationes distinguuntur a is clear that that real distinction does not occur per se in all the remain-
+suis fundamentis, neque sex ultima praedicamenta sunt propria ing [categories], since relations are not [really] distinguished from their
+entia, sed ad summum modi entium, ut ex discursu constabit. foundations nor all the last six categories proper beings. Rather, they
+Quin potius nec qualitas secundum totam latitudinem suam re- 120R are at most modes of beings, as will become clear from the discussion.
+aliter a quantitate distinguitur, nam figura non est res distincta To the contrary, neither is quality according to its whole extent really
+365 a quantitate, sed modus eius, unde nec per sese a substantia distinguished from quantity, for figure is not a thing distinct from quan-
+distinguitur realiter, sed per quantitatem. Denique supra os- tity. Rather, it is a mode of it. Hence, neither is it really distinguished
+tendimus, ad distinguendum in universum genus accidentis a per se from substance, but through quantity. Finally, we showed above
+substantia, non esse necessariam realem distinctionem; multo 125R that in order to distinguish in general the genus of accident from sub-
+ergo minus necessaria erit inter accidentia. stance, a real distinction is not necessary. Much less, therefore, will [a
+real distinction] be necessary between accidents.
+370 Secunda opinio. The second opinion.
+20. Secunda sententia, et valde communis, esse videtur saltem 20. The second, and much more common, view seems to be that at least
+esse necessariam distinctionem modalem inter diversa genera 130R a modal distinction is necessary between different genera of accidents,
+accidentium, quae sit vera distinctio actualis et ex natura rei, which is a true actual distinction ex natura rei and preceding in the
+antecedens in re operationem mentis; ita ut vel unum genus ac- thing an action of the mind, so that in this way one genus of accident is
+375 cidentis sit modus alterius, vel ambo sint distincti modi alicuius a mode of another or both are distinct modes of a third thing. And this
+tertii. Et hoc saltem videtur convincere fundamentum praece- [view] at least seems to overcome the foundation of the preceding view
+dentis sententiae, quod haec genera distinguuntur sub ente et 135R that these genera are distinguished under being and are different in the
+sunt primo diversa. Secundo confirmatur amplius, quia quae first place. . . .
+distinguuntur genere subalterno vel specie in eodem praedica-
+380 mento accidentis, necesse est distingui saltem modaliter; ergo
+multo magis quae praedicamentali genere distinguuntur. Patet
+conse- <516> quentia, quia multo maior est diversitas et dis-
+tinctio inter genera praedicamentalia, cum nec differentias ali-
+quas possint habere communes, quas habere possunt res eius-
+385 dem praedicamenti. Et antecedens patet, quia distinctio speci-
+fica est vera et essentialis distinctio; ergo, si sit inter extrema re-
+alia, est distinctio essentiarum realium, nam sola distinctio ra-
+tionis inter ea quae sunt realia non satis est ut ea dicantur essen-
+tialiter diversa, ut sapientia et iustitia divina non possunt dici
+390 essentialiter distincta. Tertio, ad hoc urget difficultas in prin-
+cipio tacta, quia si haec saltem distinctio non intercedit inter
+genera summa, non potest reddi ratio cur decem potius quam
+
+-- 24 of 52 --
+
+Suárez, DM XXXIX 25
+plura vel pauciora distinguantur, quia secundum rationem, vel
+possunt plures modi distingui, vel hi possunt ad pauciora capita
+395 revocari. Quarto, quia, ut genus aliquod accidentis a genere
+substantiae distinguatur, necessaria est saltem modalis distinc-
+tio inter illa; ergo et ad distinguendum summa genera acciden-
+tium inter se. Patet consequentia, quia tam sunt primo diversa
+genera accidentium inter se quam a substantia.
+400	Improbatur. 21. Haec vero sententia non potest in universum de- 21. But this view cannot be defended in general. For especially
+fendi; nam imprimis de relationibus omnibus praedicamental- concerning the relation of all the categories it [seems] very likely to me
+ibus est mihi probabilissimum non distingui actu a parte rei that they are not actually distinguished on the part of the thing from
+a suis fundamentis, nec tamquam rem, nec tamquam modum 140R their foundations, neither as thing nor as a mode distinct ex natura rei,
+ex natura rei distinctum, sed solum ratione seu connotatione but only by reason or connotation of the other extreme. . . .
+405 alterius extremi. Deinde, de actione et passione inter se est
+fere communis sententia non distingui actualiter ex natura rei,
+et tamen constituunt diversa praedicamenta. Propter quod
+Soncinas.
+Iavellus.
+praecipue argumentum recedunt a dicta sententia Sonc., V
+Metaph., q. 13, et Iavell., q. 16, qui idem ait de relatione et
+410 fundamento; constabitque latius ex dicendis infra de actione et
+passione. Praeterea situs et ubi, si proportionaliter sumantur
+pro situ et ubi intrinsecis, vel pro extrinsecis, non possunt in-
+ter se ex natura rei distingui. Immo et locus sumptus pro loco
+extrinseco non distinguitur ex natura rei a superficie, sed tan-
+415 tum connotatione. Idem etiam est de veste, ut habet rationem
+habitus, et denominat vestitum; nullus enim modus realis per
+hoc additur veste supra quantitatem, et figuram ac situm eius.
+Idem denique est de quando, sive forma eius sit duratio in com-
+muni, sive tempus, quia nec duratio a re quae durat, nec tem-
+420 pus a motu ex natura rei distinguitur. <col. b> Quae om-
+nia nunc sumimus ut probabiliora nobis, in sequentibus autem
+probanda sunt. Quocirca opinor, si numerus praedicamento-
+rum ultra illa tria quae realiter inter se distinguuntur, solum
+esset complendus ex aliis modis accidentalibus in re ipsa actu-
+425 aliter distinctis ac primo diversis, tam inter se quam ab illis
+tribus praedicamentis, solum posse illis tribus addi alia duo,
+scilicet, dependentiam seu actionem, et ubi, vel ad summum
+tria, si fortasse aliquae relationes dicunt proprios modos ex
+406 fere ] vere BC.
+
+-- 25 of 52 --
+
+Suárez, DM XXXIX 26
+natura rei distinctos, de quo postea.
+430 Tertia sententia eiusque approbatio. The third view and its confirmation.
+22. Est ergo tertia opinio, quae ad praedicamentorum dis- 22. There is, therefore, a third opinion, which considers a distinction
+tinctionem sufficere censet distinctionem ex modo concipiendi arising from our way of conceiving and that is founded in the thing suf-
+nostro fundato in re, quae a quibusdam vocatur distinctio ra- 145R ficient for the distinction of the categories. Some call this a distinction
+tionis ratiocinatae, ab aliis appellatur distinctio formalis. Ita of reasoned reason (distinctio rationis ratiocinatae); others call it a for-
+435	Soncin. Iavellus.
+Capreol. Ocham.
+Henric.
+sentiunt Sonc. et Iavell., et latius Capreol., In I, dist. 8, q. 2, mal distinction. Soncinas and Iavellus think this. Capreolus [explains Soncinas.
+Iavellus.
+Capreolus.
+Ockham.
+Henry.
+ad 18 et 19; Ocham, In I, dist. 24, q. 2, ad 1 pro prima opin- it] more thoroughly in I, dist. 8, q. 2, ad 18 and 19, as well as Ock-
+ione, et dist. 3, q. 3, ubi agit de relationibus, et In II, q. 2, ham in I, dist. 24, q. 2, ad 1 for the first opinion; dist. 3, q. 2, where
+et Quodl. V, q. 22; Henric., in Summa, a. 32, q. 5. Et hoc 150R he deals with relations; in II, q. 2; and in Quodl. V, q. 22. Also, Henry
+ipsum sentiunt qui dicunt praedicamenta distingui penes di- in Summa a. 32, q. 5. And those who say that the categories are distin-
+440 versos modos praedicandi de prima substantia, quae est fun- guished with different modes of predicating of the first substance which
+damentum praedicamentorum omnium. Quomodo loquitur is the foundation of all the categories think the same thing. [This is]
+D. Thomas.
+Alens.
+Comment.
+D. Thomas, V Metaph., lect. 9, et XI Metaph., lect. 9, in fine; et how St. Thomas speaks in Metaph. V, lect. 9, and XI, lect. 9, at the end, St. Thomas.
+Alexander of
+Hales.
+Commentator.
+Alex. Alens., V Metaph., text. 14, ubi etiam Commentator id 155R as well as Alexander of Hales in Metaph. V, text. 14, where the Com-
+significat. Quia vero modus praedicandi consequitur modum mentator also indicates it. But because the mode of predicating follows
+445 essendi, ut D. Thomas priori loco supra citato dicit, ideo in the mode of being, as St. Thomas says in the former of the above cited
+idem redit dicere praedicamenta distingui penes diversos mo- places, therefore in the same [place] he returns to say that the categories
+dos essendi, ut loquitur D. Thomas, q. 1, de Veritate, a. 1, et are distinguished with different modes of being, as he says in DV q. 1,
+nonnulli alii ex praedictis auctoribus, dummodo intelligamus 160R a. 1. And some others of the mentioned authors [say this], provided
+illos diversos modos essendi non oportere esse actu distinctos that we understand that these different modes of being need not be ac-
+450 a parte rei, sed habere sufficiens fundamentum, ratione cuius tually distinct on the part of the thing but must have a sufficient foun-
+possint ita ratione distingui ut ex eis consurgant modi praedi- dation by reason of which they can thus be distinguished by reason so
+candi primo diversi secundum rationem concipiendi et abstra- that the fundamentally different modes of predicating arise from these
+hendi diversa genera. 165R according to the nature of conceiving and abstracting different genera.
+23. Haec autem sententia sic exposita sufficienter pro- 23. Moreover, this view explained in this way is sufficiently proven
+455 batur ex dictis contra alias, nam, si praedicamenta acciden- from what was said against the other views, for, if the categories of ac-
+tium non distinguuntur inter se realiter, nec ex natura rei, aut cidents are not distinguished really from each other nor ex natura rei or
+modaliter, non possunt nisi ratione distingui, quia non super- modally, they cannot be distinguished except by reason, since no other
+est alius distinctionis modus, cum tamen necesse sit distinc- 170R kind of distinction is left. It is, nevertheless, necessary that some dis-
+tionem aliquam inter praedicamenta intervenire. Rursus, cum tinction occur between the categories. In turn, since there is latitude
+460 <517> in distinctione rationis sit latitudo, videtur necessar- in the distinction of reason, it seems necessary that this distinction be-
+ium ut haec distinctio inter praedicamenta sit maxima; nam tween categories be maximal. For, in the first place, it cannot be only
+imprimis non potest esse solius rationis ratiocinantis, quia haec of reasoning reason, since this does not have a foundation in the thing,
+non habet fundamentum in re, sed fingitur aut consurgit solum 175R but is fashioned or springs up merely from a comparison of the intel-
+429 postea ] pastea C.
+
+-- 26 of 52 --
+
+Suárez, DM XXXIX 27
+ex comparatione intellectus; unde potest in infinitum multipli- lect. Hence, it can be multiplied to infinity. Therefore, there must be
+465 cari; debet ergo esse talis distinctio rationis quae in re habeat a distinction of reason of the sort that has a foundation in the thing.
+fundamentum. Et quia praedicamentorum genera, ut a nobis And since the genera of categories, as they are conceived and abstracted
+concipiuntur et abstrahuntur, sunt primo diversa, ideo necesse by us, are fundamentally different, it is for that reason necessary that
+est tale esse fundamentum huius distinctionis ut ex eo con- 180R there be such a foundation for this distinction so that the habitudes or
+surgant habitudines vel modi denominandi primam substan- modes of denominating the first substance which cannot be reduced to
+470 tiam, qui non possint ad unum genericum conceptum reduci. one generic concept arise from it. For this reason, although there is
+Quapropter, licet inter ipsas formas seu quasi formas diverso- not always an actual distinction in the thing between these forms or
+rum praedicamentorum non semper sit distinctio actualis in quasi-forms of the different categories, nevertheless, the distinction be-
+re, semper tamen earum distinctio secundum rationem sumi- 185R tween them according to reason is always taken from a comparison or
+tur ex comparatione vel habitudine ad res in re ipsa distinctas, habitude to things themselves distinct in reality. For example, [the dis-
+475 ut inter actionem et passionem, ex comparatione ad princip- tinction] between action and passion [is taken] from a comparison to
+ium agendi vel patiendi, et sic de aliis. Quae omnia ex discursu the beginning of acting and undergoing. And likewise for the others.
+praedicamentorum omnium latius constabunt. All of this will become clear from a more thorough discussion of all the
+190R categories.
+Solvuntur fundamenta aliarum opinionum. The foundations of the other opinions are undone.
+Primum. 24. Neque obstant motiva aliarum opinionum proxime posita. 24.
+480 Ad primum enim respondetur, ad distinguenda varia gen-
+era sub ente necessarium esse ut omnia illa realia sint, non
+tamen ut actualiter sint in re distincta, quia distinctio aliquo-
+rum generum esse potest secundum rationem. Et cum ea-
+dem proportione sumendum est, cum dicuntur primo diversa,
+485 nimirum in eo genere diversitatis aut distinctionis, quod par-
+ticipant; nam secundum illud non reducuntur ad unum com-
+mune genus.
+Secundum. 25. Ad secundum negatur imprimis antecedens; nam 25.
+iuxta multorum opinionem, in praedicamento qualitatis ea-
+490 dem forma caloris, ut est terminus motus, est in specie passi-
+bilis qualitatis, et, ut est principium agendi, est in specie po-
+tentiae. Et eadem superficies, ut afficit intrinsece corpus con-
+tinens, est in specie superficiei; ut vero aliud continet, est in
+specie loci sub eodem genere quantitatis. Et (quod certius
+495 est) relatio similitudinis et dissimilitudinis sunt specie diver-
+sae, quamvis in re non distinguantur in eodem fundamento.
+Nec refert quod distinctio specifica dicatur essentialis; nam hoc
+ipsum est cum proportione intelligendum, scilicet, de distinc-
+tione reali, aut de praedicamentali, <col. b> seu conceptibili.
+
+-- 27 of 52 --
+
+Suárez, DM XXXIX 28
+500 Neque est simile de attributis divinis; nam illa, etiam si dis-
+tinguantur ratione, propter infinitatem quam habent in genere
+entis, se mutuo essentialiter includunt; unde in latitudine dis-
+tinctionis rationis minus distinguuntur quam genera vel species
+diversae.
+505	Tertium. 26. Ad tertium respondetur hinc potius facilius expediri 26.
+primam difficultatem in principio sectionis tactam; nam ad
+totam illam uno verbo respondetur recte inductione ibi facta
+probari non esse necessariam distinctionem ex natura rei inter
+omnia praedicamenta. Quomodo autem sint in particulari sin-
+510 gula genera accidentium inter se distinguenda, non possumus
+hoc loco dicere, nisi prius uniuscuiusque rationem exacte de-
+claremus; et ideo de illa difficultate plura nunc dicere non pos-
+sumus.
+Quartum. 27. Ad quartum iam supra responsum est, cum de distinc- 195R 27.
+515 tione substantiae et accidentis ageremus, vel maiorem distinc-
+tionem requiri inter substantiam et accidens quam inter gen-
+era accidentium inter se, vel certe, quamvis accidens physicum
+distinguatur ex natura rei a substantia, accidens vero meta-
+physicum seu praedicamentale non semper ita distingui in re,
+520 sed interdum conceptione nostra et connotatione alicuius ex-
+trinseci.
+Possitne dari aliquod genus commune multis praedicamentis acci- Whether something could be given that is common to the multiple cate-
+dentium. gories of accidents.
+Aliquorum
+sententia.
+28. In confirmatione primae difficultatis in principio positae 28.
+525 petebatur alia difficultas, nimirum, an haec genera accidentium
+ita distinguantur ut neque omnia neque aliqua eorum possint
+habere aliquod unum commune genus. Aliqui enim moderni
+non existimant inconveniens dari aliquod genus commune, vel
+omnibus illis membris, vel aliquibus eorum; id enim argu-
+530 menta superius facta videntur convincere. Et non obstat conve-
+nientia in aliquo genere quominus divisio illa novem generum,
+et totidem praedicamentorum accidentium convenienter sit
+tradita et fuerit necessaria; quia illa divisio data est ut res omnes
+ad certas classes artificiose redigerentur, quibus facilius uti pos-
+535 semus ad rerum naturas cognoscendas et ut facile posset rei es-
+sentia ab accidentibus distingui. Ad hoc autem non satis fuis-
+
+-- 28 of 52 --
+
+Suárez, DM XXXIX 29
+set distinctio per duo vel tria membra, etiamsi illa esset possi-
+bilis, et ideo oportuit in accidentibus ea genera distin- <518>
+guere quae dicunt diversas habitudines ad substantiam, nihil
+540 curando de convenientia confusa in superiori aliquo genere.
+Accedit, quod apud Aristotelem nunquam expresse legimus di-
+versa praedicamenta non posse in uno genere convenire. Nam
+in loco superius citato, ex VIII Metaph., text. ult., non id dicit
+aperte, sed solum ait ens non poni in definitionibus primo-
+545 rum generum, et consequenter non esse genus, non tamen
+dicit nullum aliud posse esse commune genus. In lib. autem
+X, c. 5, dicit quidem ea quae differunt praedicationis figura,
+genere differre; tamen idem dicit de corruptibili et incorrupt-
+ibili, et tamen non propterea excluditur commune genus log-
+550 icum. Quin potius, ex eo loco sumi potest genera praedicamen-
+torum non necessario esse primo diversa, nam ibi discrimen
+constituir inter differentia et diversa, nam diversa non aliquo,
+sed seipsis differunt, quia in nullo conveniunt; differens vero
+(ait) aliquo differens est; quare necesse est aliquid idem esse quo
+555 differunt; hoc vero idem aut genus, aut species est, omne namque
+differens aut genere aut specie differt. Ubi ea quae differunt
+genere non collocat inter ea quae sunt diversa, sed inter ea quae
+sunt proprie differentia. Et subdit exempla eorum quae hoc
+modo genere differunt, dicens: Genere quidem, quorum non
+560 est communis materia, neque mutua generatio, ut puta quorum
+alia praedicationis figura est; ergo quae praedicamento differunt,
+genere differunt, non ut primo diversa.
+Vera et
+communis
+sententia.
+29. Nihilominus dicendum est cum communi sententia 29.
+haec omnia membra sub ente vel accidente distingui ut gen-
+565 era primo diversa, id est, sub nullo superiori genere contenta,
+neque omnia, neque illorum aliqua. Haec est sententia Aris-
+Aristoteles. totelis citatis locis, et praesertim I Poster., c. 11, et ideo quasi
+per antonomasiam vocare solet praedicamenta genera; unde in
+c. 9 Praedicam., ita concludit: De generibus ergo propositis, ea
+570	Porphyr. quae sunt dicta sufficiant. Et Porphyr., in c. de Specie, ait in
+singulis praedicamentis esse et species, quae collocantur sub
+genere et sub se non continent nisi individua, et genera, quae
+sub se continent species et sub genere continentur, et genus
+aliquod, quod tantum est genus et non species. Et Damasc.,
+
+-- 29 of 52 --
+
+Suárez, DM XXXIX 30
+575 in sua Dialectica, c. 36, cum decem praedicamenta distinxis-
+set, ait: Sciendum est autem unumquodque horum generum sum-
+mum genus esse. <col. b> Et rursus: Horum porro decem
+praedicamentorum, hoc est summorum generum, unum dum-
+taxat substantia est, reliqua novem accidentia. Et haec est sen-
+580 tentia communis omnium philosophorum, qui propterea do-
+cent suprema genera singulorum praedicamentorum non con-
+stare genere et differentia, nec esse proprie definibilia, sed esse
+conceptus simplices.
+30. Ex dictis etiam superiori sectione constat nullam posse 200R 30.
+585 reddi sufficientem rationem illius divisionis, nisi omnia mem-
+bra eius sint summa genera. Atque eadem ratio est de nu-
+mero decem praedicamentorum; nam praedicamentum nihil
+aliud est quam debita dispositio et coordinatio essentialium
+praedicatorum, ex quibus ea quae in quid praedicantur de in-
+590 dividuo, supra illud in recta linea collocantur, ab inferioribus
+ad superiora ascendendo; haec autem linea, sicut ab infimo,
+id est, ab individuo incipit, ita non terminatur nisi ad aliquod
+genus summum, alias nulla sufficiens ratio reddi potest cur in
+uno genere potius quam in alio terminetur. Nec etiam poterit
+595 reddi ratio cur substantia non constituat duo vel tria praedica-
+menta, nempe corporis et spiritus, vel corporis corruptibilis et
+incorruptibilis, et spiritus, vel saltem substantiae corruptibilis
+et incorruptibilis, quas Aristoteles vocat genere diversas. Et e
+converso, nulla erit ratio cur actio et passio ad idem praedica-
+600 mentum non pertineant, et sic de aliis. Ratio denique a priori
+esse debet, quia modus contractionis vel determinationis en-
+tis aut accidentis ad haec suprema capita praedicamentorum
+non est per veram compositionem per differentiam quae possit
+esse extra rationem generis, quam rationem tetigit Aristoteles
+605 in II Metaph., et eam in superioribus declaravimus, quoad di-
+visionem entis in substantiam et accidens. Quoad praesentem
+vero divisionem accidentis in novem genera, declarabitur sec-
+tione sequenti, et ideo de hac prima parte illius confirmationis
+nihil hic amplius dicemus.
+610	Genera
+diversorum
+praedicamento-
+rum in nulla
+differentia
+essentiali
+conveniunt.
+31. Ad aliam vero partem eiusdem confirmationis, ne- 31.
+gandum est genera diversorum praedicamentorum convenire
+in aliqua differentia essentiali et proprie contractiva generis.
+
+-- 30 of 52 --
+
+Suárez, DM XXXIX 31
+Nam, licet dentur aliqui conceptus communes multis praedica-
+mentis, qui per modum differentiarum de eis praedicantur,
+615 ut sunt illi qui in eo argumento numerantur, tamen vel sunt
+<519> tantum conceptus negativi, vel non sunt univoci, sed
+analogi, vel certe non sunt differentiae contrahentes aliquod
+genus commune extra cuius rationem sint, sed modi simplices
+determinantes rationem aliquam transcendentalem quam in-
+620 trinsece includunt; ut, verbi gratia, illa duo membra corporeum
+et incorporeum valde aequivoca et analoga sunt; nam et pos-
+sunt dividere ens ad substantiam et accidens, et solum secundo
+modo possunt habere rationem differentiarum, respectu sub-
+stantiae completae, quam non includunt in suo praeciso con-
+625 ceptu; non vero respectu entis vel accidentis, quae necessario
+includunt in suis conceptibus quantumvis praecisis. De dif-
+ferentia vero absoluti et respectivi dicendum rationem abso-
+luti in negatione consistere, et ideo non constituere differen-
+tiam essentialem communem multis praedicamentis. Quod
+630 si instes, quia illa negatio habet aliquod fundamentum posi-
+tivum quod per illam circumscribitur, respondetur habere qui-
+dem aliquod fundamentum, non tamen unum et idem quod
+commune sit omnibus accidentibus absolutis; saepe enim nega-
+tio est communis, quamvis fundamentum eius diversum sit.
+635 Carent etenim prodigalitas et avaritia honestate liberalitatis,
+ex diverso tamen fundamento. Sic igitur omnia accidentia
+absoluta conveniunt in carentia respectus; illa vero negatio
+unicuique convenit ex proprio modo afficiendi, per se primo
+diverso a quolibet alio. Unde illa negatio etiam substantiis suo
+640 modo convenit. Respectivum autem, si secundum propriam
+rationem sumatur, unum genus constituit; si autem sumatur
+late, non potest constituere genus, quia est transcendentale
+quid inventum in omnibus generibus, ut in superioribus tac-
+tum est et in sequentibus latius declarabitur. Et per haec etiam
+645 patet responsio ad alia exempla.
+Locus Aristotelis ex lib. X Metaph. exponitur. The passage from book X of Aristotle’s Metaphysics is explained.
+32. Antea vero quam respondeamus ad secundum caput diffi- 32.
+cultatis in principio positum, explicandus est locus Aristotelis
+ex X Metaph., c. 5, quo videbatur probari posse dari genus
+
+-- 31 of 52 --
+
+Suárez, DM XXXIX 32
+650 commune rebus diversorum praedicamentorum. Qui sane
+est difficilis, quamvis nullus interpretum consecutionem illius
+contextus declaraverit, praeter unum Alex. Alens., qui quam-
+dam aequivocationem in verbis illius textus admittit. Nam
+cum Aristoteles ait in aliquo esse idem ea quae differunt, su-
+655 <col. b> mit differre proprie; cum autem addit: Hoc vero idem
+aut genus, aut species est, ait Alens. subintelligendum esse hoc
+idem in quo conveniunt differentia, et differunt diversa, genus
+aut speciem esse. Unde cum subdit Aristoteles: Omne namque
+differens differt aut genere aut specie, ait Alens. differens accip-
+660 iendum esse pro diverso, quatenus commune est ad differens
+proprie et primo diversum. Quae expositio, si solum consid-
+eremus intentionem Aristotelis in eo textu, videtur sane in-
+credibilis; nam, cum ibi de sola fere vocabulorum differentia
+tractet, et propriam significationem, in qua differens e diverso
+665 distinguitur, assignet, ineptissimum videri posset ut ea vocis
+aequivocatione uteretur. Nihilominus tamen videtur expositio
+necessaria, considerata consecutione textus; nam, si genere dif-
+ferentia vocasset Aristoteles ea quae sub genere convenientiam
+habent, non dixisset ea differre genere quae non habent com-
+670 munem materiam, nam haec differentia generica potius consis-
+tit in carentia communis generis physici; unde statim potius
+subdit ea differre specie quae genere conveniunt; ergo intelligit
+genere differre quae genere non conveniunt. Et duos modos in-
+sinuat, scilicet, differendi genere physico, ut in iis quae in ma-
+675 teria non conveniunt, et genere logico, ut in iis quae praedica-
+mento distant. Ergo, cum Aristoteles sumit differens, ut illud
+distinguat in differens genere et differens specie, sumit differ-
+ens prout commune est ad diversum et proprie differens, nam
+differre genere non est proprie differre, sed esse diversum, quia
+680 illud in quo sunt idem quae proprie differunt, tantum est aut
+genus aut species (ut ibidem ait Aristoteles); illa autem quae
+genere differunt non sunt idem nec specie neque genere. Ut
+enim ipsa verba prae se ferunt differre genere non significat dif-
+ferre sub genere, sed differre, id est, non convenire in genere,
+685 sicut differre specie non est differre sub specie, alias individua
+differrent specie, quia sub specie individualiter differunt. Iuxta
+652–653 quamdam ] eamdam B.
+
+-- 32 of 52 --
+
+Suárez, DM XXXIX 33
+hanc ergo interpretationem, ille locus Aristotelis potius confir-
+mat communem sententiam.
+Non esse plura genera accidentium quam novem. That there are not more than nine genera of accidents.
+690 33. Superest respondeamus ad argumenta secundo loco posita, 205R 33.
+quibus probari videbatur augendum esse numerum praedica-
+mentorum accidentium. Et in primo quidem ar- <520> gu-
+mento petitur de his denominationibus visum, amatum et
+similibus, ad quod praedicamentum pertineant, et in univer-
+695 sum petitur in illis argumentis, si extrinseca denominatio,
+vel forma a qua sumitur, interdum constituit directe aliquod
+praedicamentum, cur non semper constituat quoties denomi-
+natio ab aliquo reali sumitur, et quo modo omnes huiusmodi
+denominationes sub his novem praedicamentis contineantur;
+700 vel, si non possunt hae denominationes praedicamentum et
+genus accidentis proprie constituere, quaenam ratio differen-
+tiae adhibenda sit, vel quae regula observanda ad huiusmodi
+extrinseca praedicamenta accidentium constituenda. Et qui-
+dem multa ex argumentis ibi propositis convincere videntur
+705 non omnes has denominationes sumi ab aliquibus accidentibus
+seu formis quae directe in aliquo praedicamento accidentis col-
+locentur, quatenus sic denominant. Ratio autem vel generalis
+regula fortasse non potest una in omnibus tradi, sed ex diversis
+capitibus id provenire potest.
+710 Ad primam difficultatem de actibus extrincese denominantibus. To the first difficulty about extrinsically denominated acts.
+Quas conditiones
+requirat forma
+extrinsecus
+denominans ut in
+praedicamento
+collocetur.
+34. Ut autem hoc aliquo modo declaremus, advertendum est 34.
+praedicamentum illud quod per extrinsecam denominationem
+constituitur, tres potissimum requirere conditiones ex parte rei
+denominantis. Prima, ut, licet non sit forma inhaerens, habeat
+715 tamen aliqualem modum formae, id est, perficientis vel actu-
+antis id quod denominat; nam communis ratio accidentis in-
+cludit quod sit aliqualis forma eius cui accidit. Secunda, ut illa
+denominatio per se sit distincta a caeteris generibus praedica-
+mentorum, ita ut in nullo eorum intrinsece includatur, quia
+720 praedicamenta debent esse impermixta et primo diversa. Ter-
+tia, quod talis denominatio non sit quasi composita vel aggre-
+
+-- 33 of 52 --
+
+Suárez, DM XXXIX 34
+gata ex formis plurium praedicamentorum, quia in praedica-
+mentis solum constituuntur entia quatenus aliquo modo sunt
+per se una et incomplexa. Forma ergo extrinsece denomi-
+725 nans, si has omnes conditiones habuerit, constituetur per se
+et directe in aliquo ex dictis novem generibus; quandocumque
+autem denominatio extrinseca, quamvis sit aliquo modo realis,
+non pertinet directe ad aliquod ex novem gene- <col. b> ribus,
+semper est ex defectu alicuius ex dictis conditionibus.
+730 35. Ad actus ergo immanentes, quatenus obiecta de- 35.
+nominant cognita aut amata, non constituunt peculiare genus
+praedicamentale, immo nec peculiarem rationem aut speciem
+alicuius praedicamenti, quia, ut postea declarabimus, in ipsa
+entitate actus immanentis tres rationes possunt considerari,
+735 scilicet, actionis, quatenus active fluunt a potentiis, quomodo
+spectant ad praedicamentum actionis; et passionis, quatenus
+intrinsece aliquo modo mutant ipsas potentias; et qualitatis,
+quatenus sunt formae quaedam informantes ipsas potentias.
+Et sub hac ratione transitdenominatio horum actuum aliquo
+740 modo ad obiecta; ideoque non constituunt sub ea ratione pe-
+culiare genus vel speciem accidentis. Primo quidem, quia illa
+ratio denominandi provenit a tali qualitate ex vi effectus for-
+malis quem tribuit suae potentiae, nam per eam fertur poten-
+tia in obiectum, et inde sumitur denominatio obiecti. Et ita
+745 intrinsece includitur in ipsamet ratione talis qualitatis. Unde
+fit etiam ut non denominet obiectum tamquam forma vel per-
+fectio eius, sed solum ut terminum ad quem tendit. Et, licet in
+modo denominandi significetur per modum passionis, tamen
+veram rationem passionis non participat. Et ideo in hoc non
+750 est simile de actione et passione reali, nam passio est vera af-
+fectio subiecti. Actio vero, quamvis non sit affectio poten-
+tiae agentis ut sic, est tamen veluti exercitium eius, et ideo
+comparatur ad illam per modum actus, et ita etiam dicit habi-
+tudinem omnino condistinctam, secundum rationem concep-
+755 tam, ab habitudine passionis.
+Ad secundam difficultatem de loco, veste et similibus. To the second difficulty concerning place, clothing, and the like.
+737 qualitatis ] quantitates B.
+
+-- 34 of 52 --
+
+Suárez, DM XXXIX 35
+36. Hinc facile respondetur ad secundum, in quo compara- 210R 36.
+tur locus ut denominans locantem et locatum, et vestis ut
+denominans vestientem formaliter et vestitum, cum actione
+760 et passione. Negatur enim similitudo rationis, quia forma
+ut informans et ut denominans informatum, non dicit duas
+rationes diversas, sed unam et eamdem diversimode signifi-
+catam; locus autem et vestis se habent ut formae, et ita super-
+ficiem locare non est efficere, sed informare, ideoque ipsa ut
+765 locans et ut denominans aliud locatum non constituit duas ra-
+tiones praedicamentales. Et similiter habitus, qui est formaliter
+vestiens <521> et denominat vestitum, una et eadem forma ex-
+trinseca est, cuius informatio illa duo intrinsece includit; sicut
+etiam albedo potest dici dealbans, et subiectum dicitur dealba-
+770 tum.
+Ad tertiam et quartam difficultatem de denominationibus artifi- To the third and fourth difficulties concerning artificial and moral denom-
+cialibus et moralibus. inations.
+37. Ad tertium respondetur denominationes artificiales, si sint 37.
+simplices et aliquo modo per se, ad dicta genera pertinere,
+775 et huiusmodi est illa denominatio deaurati, quae pertinet ad
+praedicamentum habitus, et idem est de similibus; si vero
+sint denominationes sumptae ex aggregatione rerum plurium
+generum, sic non oportere ut sub uno praedicamento con-
+tineantur, sed satis esse quod secundum partes ad illa revocen-
+780 tur. Et huiusmodi esse existimo denominationem exercitus,
+populi, reipublicae et similes. Per quod patet etiam solutio
+ad quartum: nam aliae denominationes morales, quae in eo
+tanguntur, sumptae sunt ex actibus immanentibus, prout ter-
+minantur ad obiecta, de quibus iam dictum est. Et peculiari
+785 ratione dicuntur aliquando illae denominationes rationis, quia
+non requirunt existentiam realem rei denominantis, sed ab ea
+quae praecessit desumuntur.
+Ad quintam difficultatem de motu et aliis causalitatibus. To the fifth difficulty concerning motion and other causalities.
+38. Ad quintum de motu, prout comparatur ad actionem et 215R 38.
+790 passionem, varii sunt respondendi modi, de quibus infra latius
+in praedicamento passionis. Nunc breviter censeo motum gen-
+
+-- 35 of 52 --
+
+Suárez, DM XXXIX 36
+eratim sumptum, ut dicitur de omni mutatione, idem esse cum
+passione, nam motus est actus mobilis et passio patientis, et,
+sicut motus afficit mobile in ordine ad terminum, ita etiam
+795 passio. Quod si praecise consideretur motus ut est via ad ter-
+minum et illum fieri denominat, non constituit specialem ra-
+tionem praedicamentalem, vel quia solum dicit ipsummet ter-
+minum in esse imperfecto, et ita reducitur ad praedicamentum
+eius, vel certe propter duas rationes supra tactas in actibus im-
+800 manentibus, scilicet, quia illa denominatio et est intime inclusa
+in formalitate passionis et actionia, et quia non comparatur ad
+terminum per modum formae afficientis subiectum, sed solum
+per modum viae aut habitudinis tendentis ad terminum; sic
+enim (ut est probabile) generatio, ut fit in materia prima, habet
+805 rationem passionis accidentis illi; tamen, ut <col. b> denom-
+inat terminum genitum, non constituit specialem rationem
+praedicamentalem, nec se habet ut accidens eius.
+Causalitates
+aliarum
+causarum ab
+efficienti, in quo
+praedicamento
+sitae.
+39. Quod vero in eodem argumento tangitur de causal- 39.
+itatibus aliarum causarum, sic expediendum est. Causali-
+810 tas finalis in re nullum dicit modum distinctum a causalitate
+agentis; solum dicit intentionalem habitudinem causalitatis ip-
+sius agentis ad finem; propter quod illa causalitas, intention-
+alis potius quam realis dici solet et motio metaphorica, et
+ideo necesse non fuit peculiare praedicamentum propter hanc
+815 causalitatem constituere. Causalitas autem formae non est
+aliud quam eius informatio, quae intrinsece pertinet ad esse
+illius rei quae per formam constituitur; ideoque non magis
+informatio quam forma constituit speciale praedicamentum.
+Unaquaeque ergo informatio ad praedicamentum, genus et
+820 speciem suae formae reducitur. Sicut enim informatio formae
+substantialis, quia intrinsece pertinet ad constitutionem sub-
+stantiae, non est accidens, sed aliquid ad praedicamentum sub-
+stantiae pertinens, ita proportionaliter dicendum est de infor-
+Concreta et
+abstracta
+accidentium ad
+idem
+praedicamentum
+spectant.
+matione quantitatis, qualitatis, etc. Atque hinc etiam fit ut ab-
+825 stracta et concreta accidentium ad eadem praedicamenta pro-
+portionaliter pertineant, quia, ut supra dicebamus, concretum
+accidentis, prout formaliter pertinet ad genus vel praedicamen-
+tum accidentis, solum addit actualem inhaesionem seu infor-
+mationem subiecti. Causalitas autem materiae, quatenus ex
+
+-- 36 of 52 --
+
+Suárez, DM XXXIX 37
+830 ea constat compositum, eadem ratione non constituit speciale
+genus entis qua causalitas formae, quia etiam est causalitas in-
+trinseca pertinens ad constitutionem alicuius entis, praesertim
+causalitas materiae primae respectu compositi, quod est per se
+unum. Unde probabile est talem causalitatem materiae in re
+835 non esse modum distinctum a causalitate formae, ut supra dic-
+tum est. Quatenus vero materia est causa generationis rei, sic
+dicendum est passionem ut passio est pertinere ad causalitatem
+materialem, quia est effectio subiecti, ut passum est, qui respec-
+tus ad causalitatem materialem pertinet, saltem in ordine ad
+840 effectum in fieri, ut in superioribus declaravi. Hic autem pos-
+terior effectus non habet locum in forma, quia forma ut forma
+non est causa generationis, sed potius effectus.
+Obiectioni
+satisfit.
+40. Dices: si ratio <522> causae, vel omnis vel aliqua, 40.
+constituit speciale praedicamentum accidentis, cur non etiam
+845 ratio effectus ut sic? Haec enim proportionaliter respondere
+debet rationi causae ut causa est. Respondeo rationem esse in
+promptu ex dictis. Si enim in effectu consideretur res facta,
+sic in praedicamento ponitur, vel potius in omnibus praedica-
+mentis, nam in illis non constituuntur nisi res creatae, quae
+850 omnes sunt effectus quidam; quamquam ad constitutionem
+praedicamenti, vel ad divisionem de qua nunc agimus, non
+refert quod res sint actu effectae seu causatae, vel quod causari
+possint; nam utroque modo res sunt eiusdem naturae et essen-
+tiae quae in praesenti consideratur. Quo sensu verum est rem
+855 in actu et in potentia eiusdem esse generis et praedicamenti.
+Si vero in effectu consideretur relatio praedicamentalis, sic in
+aliquo praedicamento collocatur simul cum relatione causae.
+Si denique loquamur de effectu quoad puram et formalem de-
+nominationem effectus, sic eadem ratione non constituit spe-
+860 ciale praedicamentum distinctum a reliquis, qua supra diceba-
+mus motum, quatenus est via ad terminum, non constituere
+speciale praedicamentum; quia esse effectum idem est quod
+esse terminum motus vel productionis. Unde in omnibus ef-
+fectibus talis respectus vel denominatio includitur intrinsece,
+865 vel in actione, si active sumatur, quia omnis actio aliquid agit;
+vel in praedicamento passionis, si passive sumasur, nam per
+omnem passionem aliquid fit. Unam excipio creationem pas-
+
+-- 37 of 52 --
+
+Suárez, DM XXXIX 38
+sivam, quae, prout est fieri sui termini, non est vera passio.
+Illa vero sub ea consideratione non habet rationem accidentis,
+870 quia, cum terminum non supponat, sed potius ad illum con-
+stituendum tendat, non potest illum respicere ut subiectum,
+neque accidentaliter illum afficere, quae ratio communis est
+etiam cuilibet passioni seu mutationi quatenus ad terminum
+tendit, et illum fieri seu factum esse denominat. Et ideo sub ea
+875 ratione vel reducitur ad praedicamentum sui termini, vel certe
+in ratione actionis aut passionis includitur.
+Ad sextam difficultatem de quibusdam accidentibus angelorum. To the sixth difficulty concerning certain accidents of angels.
+41. In sexta difficultate petitur ut explicemus an rerum imma- 41.
+terialium accidentia sub his generibus collocentur. Et, quia in
+880 caeteris res est clarior, specialiter id inquiritur <col. > de ubi
+et de durationibus angelorum. Quae res explicanda est ex pro-
+fesso inter disputandum de generibus ubi et quando. Et ideo
+breviter dicitur, prout haec sunt accidentia angelorum, sub his
+generibus comprehendi, etiamsi diverso modo in eis sint quam
+885 in rebus corporalibus. Nam, sicut substantiae angelicae diver-
+sum habent essendi modum quam corporeae, et nihilominus
+ad idem praedicamentum pertinent, ita et accidentia harum
+substantiarum cum proportione sumpta possunt habere uni-
+vocam convenientiam in propriis generibus, ratione cuius ad
+890 eadem praedicamenta pertineant, ut in singulis videbimus.
+Ad septimam difficultatem, de proprietatibus praedicamentorum. 220R To the seventh difficulty concerning the properties of the categories.
+42. In septima difficultate quaeritur de proprietatibus quas 42.
+Aristoteles tribuit singulis praedicamentis accidentium, an illae
+etiam propria genera accidentium constituant. Ad quod dicen-
+895 dum est breviter ex illis proprietatibus quasdam esse quae con-
+sistunt in relatione actuali vel aptitudinali, quae ad praedica-
+mentum ad aliquid vel directe pertinent, vel reducuntur ra-
+tione aptitudinis seu connotationis, ut esse aequale, vel inae-
+quale, etc.; aliae addunt solam negationem, ut non habere con-
+900 trarium, aliae connotant solum aliquid extrinsecum, ut habere
+contrarium, aliae explicant intrinsecum modum propriae enti-
+tatis, ut habere intensionem. Et hae omnes proprietates non
+
+-- 38 of 52 --
+
+Suárez, DM XXXIX 39
+addunt novum aliquod genus, ut ex ipsa declaratione satis con-
+stat. Quando vero proprietas alicuius accidentis est positiva,
+905 et dicit proprium ac specialem modum afficiendi subiectum
+cuius est proprietas, tunc illa proprietas pertinebit ad pro-
+prium genus accidentis, semper tamen spectabit ad aliquod ex
+novem generibus supra numeratis; sic enim figura potest dici
+proprietas quantitatis, et habitus, potentiae, et tamen ad genus
+910 qualitatis pertinent. De ratione autem mensurae, quae ibi spe-
+cialiter tangitur, existimo non pertinere ad essentiam alicuius
+accidentis, immo neque esse realem proprietatem intrinsecam
+alicuius praedicamenti, sed solum esse denominationem quam-
+dam in ordine ad actus rationis, de qua re dicemus late trac-
+915 tando de quantitate.
+Ad ultimam difficultatem, de postpraedicamentis. To the last difficulty concerning the postcategories.
+43. In ultima difficultate petitur cur Aristoteles quasdam res 43.
+vel denominationes in <523> postpraedicamentis posuerit, si
+divisio accidentis per novem genera est sufficiens. Patet autem
+920 facile responsio ex dictis; nam de motu iam dictum est, aliae
+vero denominationes non sumuntur ex formis afficientibus,
+sed ex coexistentia, vel ex connotatione alterius extrinseci, ut
+esse simul, aut prius, aut habere oppositum; et in universum,
+habere ut sic non dicit rationem formae; nam etiam subiec-
+925 tum habet accidentia, et totum partes, et res etiam omnino ex-
+trinseca haberi dicitur. In his ergo denominationibus nulla in-
+tervenit propria ratio accidentis, nisi fortasse quatenus aliqua
+relatio in eis intervenire potest. Et ideo Aristoteles, ut omnes
+loquendi aut denominandi formulas quae ad doctrinam traden-
+930 dam conferre possunt, explicaret, illas in postpraedicamentis
+declaravit.
+SECTIO III. SECTION III.
+Utrum praedicta divisio sit univoca vel analoga. Whether the stated division is univocal or analogical.
+Utrinque ratio
+dubitandi.
+1. Ratio difficultatis est quia nullus modus analogiae hic in- 1. The reason for difficulty is that it seems that no mode of analogy can
+tervenire posse videtur; nam accidens non dicitur de caeteris occur here. For accident is not said of the remaining accidents through
+accidentibus per attributionem ad aliquod unum sub accidente an attribution to some one thing contained under accident, as is known
+
+-- 39 of 52 --
+
+Suárez, DM XXXIX 40
+5 contentum, ut per se notum est. Quod autem omnia sint en- 5R per se. . . .
+tia vel accidentia per habitudinem ad substantiam, non sufficit
+ad analogiam inter ipsa, quia illud ad quod omnia respiciunt
+non continetur sub conceptu accidentis. Sicut substantiae cre-
+atae etiam sunt substantiae per attributionem aliquam ad incre-
+10 atam, et nihilominus sunt univoce substantiae. Neque etiam
+hic intervenire potest analogia proportionalitatis, quia acciden-
+tia non sunt extrinsece aut metaphorice accidentia, sed pro-
+prie et intrinsece, proportionalitas autem non constituit analo-
+giam, nisi ubi intervenit metaphora vel improprietas in aliquo
+15 extremorum, ut supra dictum est. Nam genus etiam dicitur
+de speciebus secundum proportionalitatem, quae veritatem ac
+proprietatem rei non excludit. In contrarium vero est quia, si
+accidens esset univocum, esset genus, et consequenter non es-
+sent novem genera accidentium summa.
+20 Prima sententia, accidens esse analogum. The first view: accident is analogical.
+2. In hac re fere omnes qui sentiunt ens esse analogum ad sub- 2.
+stantiam et accidens, sentiunt etiam accidens esse analogum
+Caiet. Soncinas.
+Alensis.
+ad novem genera. Ita tenet Caietanus, de Ente et essent.,
+c. 7, q. 15, ad 4, in quo in- <col. > ferebatur accidens fore
+25 genus, si esse in esset essentiale et commune omnibus acci-
+dentibus. Idem tenet Soncin., IV Metaph., q. 1, ubi ad 1 ait
+genera praedicamentorum esse primo diversa, quia in nulla ra-
+tione univoca conveniunt, et lib. XII, q. 47, a. 1, etiam ait
+primo diversis nihil esse commune univocum. Quod item in-
+30 sinuat Alex. Alens., V Metaph., text. 33, in fine, ubi etiam
+favet Philosophus; negat enim ea quae differunt praedicamenti
+figura posse resolvi in unum. Sed potest intelligi de uno genere.
+At obstat huic responsioni, et consequenter favet huic senten-
+D. Thom. tiae D. Thomas, I cont. Gent., c. 32, ratione 3, ubi probat ni-
+35 hil praedicari de Deo et creaturis univoce, quia nihil praedi-
+catur de eis ut genus vel species, etc.; quae ratio applicari potest
+ad accidens; vel ergo fatendum est esse genus, vel negandum
+Porphyrius. esse univocum. Atque eodem modo favet Porphyrius, tum
+enumerando quinque praedicabilia, praeter quae non agnoscit
+40 aliquod aliud praedicatum commune et univocum, alioqui il-
+lud esset quoddam universale, distinctum a reliquis; tum etiam
+
+-- 40 of 52 --
+
+Suárez, DM XXXIX 41
+quia in c. de Specie non alia ratione censet ens non esse genus,
+Aristoteles. nisi quia non est univocum. Praeterea Aristoteles, I Poster.,
+c. 11, docet propositionem illam in qua unum summum genus
+45 de alio negatur esse immediatam, quia nullum est praedicatum
+superius alicui eorum per quod demonstretur. Non explicant
+autem dicti auctores qualis sit haec analogia, neque in quo fun-
+detur, aut de quo genere accidentium primo dicatur accidens.
+Secunda sententia, accidens esse univocum. The second view: accident is univocal.
+50 3. Propter quod alii etiam ex D. Thomae discipulis sentiunt 3.
+accidens esse praedicatum univocum ad novem genera. Ita
+Soto. Iavellus. tenet Soto, in c. 4 Antepraedicam., q. 2, ad 1; idemque sup-
+ponit Iavellus, VII Metaph., q. 1, ad 3 Antonii And. obiici-
+entis, si inhaerentia est communis et essentialis quantitati et
+55 qualitati, fore ut accidens sit genus; respondet enim, ut aliq-
+uid sit genus non sufficere esse commune iis de quibus dicitur
+et praedicari in quid et univoce, nisi etiam dicat determinatam
+naturam, et ideo non esse genus. Supponit ergo habere alias
+conditiones, scilicet, praedicari in quid et univoce. Atque hinc
+60 colligitur propria ratio huius sententiae, scilicet, quia accidens
+ut sic est commune, non tantum secundum nomen, sed <524>
+etiam secundum rationem, et illa ratio immediate participatur
+ab omnibus iis generibus quibus est communis, sine ullo or-
+dine eorum inter se; ergo habet omnia ad univocationem req-
+65 uisita. Consequentia patet ex omnibus dictis supra de analogia
+entis; antecedens vero patet quoad singulas partes, quia acci-
+dens in communi definitur esse ens in alio, in sensu declarato
+sect. 1, quae ratio communis est omnibus dictis generibus;
+neque ulli convenit per respectum ad aliud. Nam, cum Aris-
+70 toteles dixit accidens esse entis ens, nomine entis intellexit ens
+simpliciter, quod est substantia, ut omnes intelligunt et con-
+stat etiam ex VII Metaph., ubi hac ratione dicitur substantia
+prior definitione accidente; nunquam autem dixit unum acci-
+dens esse prius definitione quam aliud; participant ergo omnia
+75 accidentia illam rationem sine ullo ordine inter se; nihil ergo
+illi deest ad veram univocationem. Et confirmatur, quia analo-
+66 singulas ] singulares B.
+
+-- 41 of 52 --
+
+Suárez, DM XXXIX 42
+gata secundaria definiri solent per ordinem ad primum analo-
+gatum; sed genera accidentium nec sub ratione communi acci-
+dentis, nec ut talia accidentia sunt, definiuntur per respectum
+80 ad aliquod ex dictis generibus accidentium; ergo.
+Utriusque sententiae difficultas aperitur. 10R A difficulty is uncovered for each view.
+4. Quamquam autem hi auctores admittant accidens esse uni- 4.
+vocum, non tamen admittunt esse genus. Reddit autem ra-
+tionem Soto, quia accidens non praedicatur in quid; quia non
+85 significat (inquit) formaliter quidditates accidentium, sed esse
+eorum in substantia. Falsum tamen assumit in hac ratione,
+quia accidens non dicit actu inesse, sed aptitudine, quod est
+de quidditate accidentis, ut supra vidimus. Item, quia omnia
+accidentia conveniunt in aliqua ratione non tantum accidentali
+90 et extrinseca, sed etiam essentiali, quae uno conceptu abstrahi
+et una voce significari potest; haec autem ratio significatur
+nomine accidentis, et non per modum formae, ut praedicetur
+in quale; ergo tam est praedicatio in quid haec: Qualitas est
+accidens, sicut haec: Corpus est substantia.
+95 5. Aliam ergo rationem insinuat Iavellus, et magis declarat 5.
+Soto, scilicet, accidens non esse genus quia non habet differen-
+tias extra sui rationem; nam omnis modus quo potest accidens
+determinari ad quantitatem, qualitatem, et similia, est etiam
+accidens; est autem de ratione generis ut sit extra rationem dif-
+100 ferentiarum, id est, ut secundum <col. > praecisos conceptus
+in eis non includatur, nec per se de illis dicatur, ut constat ex
+doctrina Aristotelis, III Metaph., text. 10. Quae ratio est con-
+Scotus. sentanea doctrinae Scoti, In I, dist. 3, q. 3, a. 2, et dist. 2, q. 2,
+ubi iuxta doctrinam Aristotelis ait ens non esse genus, non quia
+105 non sit univocum, sed quia praedicatur in quid de aliqua differ-
+entia.
+Ferrar. 6. Hanc vero rationem in simili impugnat Ferrariensis, 6.
+I cont. Gent., c. 32, dicens recte quidem consequi, si praedi-
+catum sit ita commune ut non habeat differentias extra sui ra-
+110 tionem, non esse genus, ut Aristoteles plane docet; tamen prox-
+imam huius rei causam esse quia tale praedicatum non potest
+esse univocum; nam, si esset univocum, haberet differentias,
+de quarum intellectu non esset. Quia esse extra conceptum dif-
+
+-- 42 of 52 --
+
+Suárez, DM XXXIX 43
+ferentiarum non est de prima et essentiali ratione generis; nam
+115 illa solum est negatio quaedam; ratio autem generis positiva est;
+est ergo illa negatio concomitans, aut necessario consequens ra-
+tionem generis. Et ideo a posteriori recte infertur id quod non
+habet illam conditionem non esse genus; multo vero melius
+sequitur a priori quidquid habet positivam rationem generis
+120 habere etiam conditionem illam. Et ideo repugnas dicere aliq-
+uid esse univocum et praedicari in quid de multis essentialiter
+diversis, et non habere differentias extra sui rationem; quia
+hoc est dicere aliquid habere completam ationem generis pos-
+itivam, et non proprietatem negativam per se consequentem
+125 talem rationem. Et confirmat, nam omne univocum dicit for-
+mam unam ab inferioribus abstrahibilem, quae in plura essen-
+tialiter dividitur; ergo vel per differentias proprie sumptas, de
+quarum intellectu non sit, et habetur intentum; vel per diver-
+sos modos essendi, et hoc repugnat. Primo, quia duae specie,
+130 qualitatis, verbi gratia, sunt quidditative accidentia, et tamen
+conveniunt in eodem modo essendi. Secundo, quia modi es-
+sendi non sunt de essentia rei creatae, cum in creaturis esse dis-
+tinguatur ab essentia; diversitas autem accidentium est essen-
+tialis. Tertio, quia in albedine, verbi gratia, essent duae quiddi-
+135 tates, una accidentis et altera differentiae, et ita neutra diceretur
+in recto de albedine, quia pars non praedicatur de toto, neque
+albedo esset unum simpliciter. Has enim rationes format Fer-
+rar. de ente, quae eadem proportione ad accidens applicantur.
+7. Verumtamen haec obiectio non est ma- <525> gni mo- 7.
+140 menti. Nam quod genus debeat esse natura ita limitata ut possit
+praescindi a differentiis quibus contrahitur, per se primo per-
+tinet ad rationem generis, ut ex Aristotele, citato loco, sumitur,
+et IV Topic., c. 6, loco 64 et 71. Nec refert quod illa propri-
+etas per negationem declaretur; nam per illam negationem cir-
+145 cumscribitur positiva proprietas et conditio naturae genericae,
+quod, nimirum, sit natura ita limitata et praecisa, ut sit apta
+ad componendum metaphysice cum differentia specificam nat-
+uram; hoc autem non tantum concomitanter et consecutive,
+sed essentialiter convenit generi ut ge nus est. Quod patet, quia
+150 speciei essentiale est componi ex genere et differentia; sed genus
+essentialiter respicit speciem; ergo de essentia generis est apti-
+
+-- 43 of 52 --
+
+Suárez, DM XXXIX 44
+tudo ad componendam speciem; in hac autem aptitudine es-
+sentialiter includitur quod sit natura secundum rationem prae-
+cisa a differentia. Sicut e contrario de ratione differentiae est
+155 ut secundum rationem sit praecisa a genere, nam comparantur
+haec duo ut actus et potentia metaphysica. Unde etiam potest
+sumi proportionale argumentum, nam de ratione materiae pri-
+mae est quod sit entitas condistincta a forma, quae distinctio,
+licet sit negatio, per eam tamen indicatur limitatio et poten-
+160 tialitas materiae, quae necessaria illi est ut possit esse essentialis
+pars physica apta ad componendum totum per modum poten-
+tiae; ergo proportionali ratione est de ratione generis ut meta-
+physice sit extra rationem differentiae.
+Ad rationem
+quidditativam
+generis quid
+requiratur.
+8. Quapropter negandum est integram rationem quiddita- 15R 8.
+165 tivam generis in hoc contineri, quod sit praedicatum univocum
+et in quid et commune ad plura essentialiter diversa, nisi sit
+determinatae naturae, quae possit habere differentias extra sui
+rationem. Quae particula satis insinuatur in ratione generis,
+cum dicitur esse id quod praedicatur in quid de pluribus differ-
+170 entibus specie; quia species ad quam genus dicit relationem, per
+propriam differentiam additam generi constituitur. Unde, licet
+admittatur accidens esse univocum et praedicari in quid, ne-
+gandum est praedicari proprie de pluribus differentibus specie,
+sed de pluribus primo diversis seu differentibus genere, quia
+175 summa genera non sunt species, etiamsi habeant commune
+praedicatum univocum quod sit quasi transcendens respectu
+illorum. Nec refert quod accidens praedicetur de albedine et
+<col. > nigredine, verbi gratia, quae specie differunt, quia non
+praedicatur de illis secundum immediatam habitudinem et re-
+180 lationem (quomodo intelligenda est ratio generis), sed mediis
+generibus primo diversis.
+9. Ad confirmationem autem Ferrariensis eligenda est pos- 9.
+terior pars dilemmatis, nempe huiusmodi praedicatum com-
+mune posse determinari per intrinsecos modos qui non sint
+185 propriae differentiae. Iam enim supra, tractando de conceptu
+entis, declaravimus qualis sit ille modus determinationis, quo
+commune praedicatum transcendens potest limitari ad deter-
+minatas naturas absque propria compositione cum differentiis
+in quibus non includatur, sed per solam confusam aut distinc-
+
+-- 44 of 52 --
+
+Suárez, DM XXXIX 45
+190 tam conceptionem intellectus. Et quidem, si obiectiones Fer-
+rariensis essent efficaces, non minus probarent de conceptu
+analogo quam de univoco; neutrum tamen probant. Ad pri-
+mam enim respondetur duas species qualitatis convenire in
+modo essendi generico aut praedicamentali, non tamen con-
+195 venire in illo modo essendi in quo res alterius praedicamenti
+conveniunt; accidens autem distinguitur in suprema genera per
+varios modos eorum, non per modos eiusdem praedicamenti.
+Quocirca, quamvis accidens dividatur per modos essendi in
+varia genera, non tamen dicitur de solis rebus primo diversis
+200 per illos modos, sed etiam de rebus distinctis sub illis modis.
+Adde quod, licet differentiae albedinis et nigredinis sint pro-
+priae differentiae respectu coloris vel qualitatis, non tamen re-
+spectu accidentis, sed respectu illius sunt tantum modi essendi
+primo diversi, quia nullum habent commune genus, sed solum
+205 ipsum accidens quod quidditative includunt. In secundo argu-
+mento committitur aequivocatio, quia, cum agimus de modis
+essendi, non intelligimus de esse existentiae actualis, sed de
+esse essentia vel de aptitudine essendi, vel potius inhaerendi
+hoc vel illo modo. Tertia vero ratio tninoris momenti est,
+210 nam solum sequitur in qualitate esse duos conceptus quiddi-
+tativos, unum confusum et communem accidentis, alium pro-
+prium qualitatis, quod non obstat quominus conceptus qual-
+itatis sit simpliciter et per se unus, quia ratio accidentis ad il-
+lam per se determinatur, neque etiam impedit quominus acci-
+215 dens praedicetur de qualitate non per modum partis, sed per
+modum totius potentialis. Et idem dicendum est de modo illo
+quo accidens determinatur ad esse qua- <526> litatis, si ab-
+stracte concipiatur, maxime cum eius conceptus ex parte rei
+et rationis formalis conceptae non sit alius a conceptu ipsius
+220 qualitatis, sed solum ex modo concipiendi, ut in superioribus
+diximus. Itaque rationes illae non sunt efficaces contra dictam
+sententiam.
+10. Maior mihi difficultas est in applicanda praedicta ra- 10.
+tione vel responsione ad materiam in qua versamur. Aut enim
+225 est sermo de accidente ut abstrahit a completo et incompleto,
+aut de accidente completo. Priori modo, licet sit verum non
+208 essentia ] de essentia B.
+
+-- 45 of 52 --
+
+Suárez, DM XXXIX 46
+posse habere differentias extra sui rationem, quia non potest
+accidens contrahi nisi per accidens saltem incompletum, sicut
+de substantia proportionaliter diximus, non tamen est verum
+230 accidens sic conceptum esse univocum; quia, sicut substantia
+non dicitur univoce de substantia completa et incompleta, seu
+de speciebus et differentiis substantiae, ita et accidens non dic-
+itur univoce de completo et incompleto. Est enim eadem pro-
+portio; nam ratio accidentis simpliciter ac per se primo salvatur
+235 in forma accidentali, quae proprie ac per se respicit substan-
+tiam; in differentiis autem accidentalibus tantum est secundum
+quid; neque enim differentiae proprie dici possunt formae ac-
+cidentales, sed aliquid formae accidentalis. At vero, si sermo
+sit de accidente completo, non potest, ut videtur, procedere
+240 responsio data; nam, si accidens sic sumptum univocum est,
+non potest negari quin habeat differentias extra sui rationem;
+nihil ergo illi deerit ad veram rationem generis. Antecedens
+patet primo, argumento facto a simili de substantia, quia, ut
+illa sit genus, satis est quod substantia completa contrahatur
+245 per incompletam. Secundo, quia revera accidens completum
+non includitur intrinsece in conceptu accidentis incompleti;
+omnis autem differentia accidentis est accidens incompletum.
+Tertio, quia alias non possent assignari genera summa in sin-
+gulis praedicamentis accidentium, quia non potest quantitas
+250 contrahi nisi per differentiam quae sit quantitas incompleta,
+et sic de aliis.
+11. Responderi potest in ratione accidentis nihil esse in- 11.
+completum, quia ratio accidentis imperfecta valde est et talis
+ut integre ac complete servetur in quolibet minimo accidente,
+255 etiamsi sub inferioribus rationibus accidentium incompletum
+censeatur, ut, verbi gratia, punctus incompletum quid est in
+ratione quantitatis; at vero in ratione acci- <col. > dentis est
+completum accidens, quia tam vere inest quam quodlibet ac-
+cidens perfectum. Sed haec responsio difficultate non caret, ut
+260 patet ex supra dictis de divisione accidentis in completum et in-
+completum; vix enim potest reddi sufficiens ratio cur illa duo
+membra locum habeant in quolibet praedicamento accidentis,
+et non in accidente ut sic. Nec etiam videtur posse negari quin
+230 conceptum ] compositum B.
+
+-- 46 of 52 --
+
+Suárez, DM XXXIX 47
+formae integrae, verbi gratia, quantitatis et qualitatis, habeant
+265 inter se aliquam convenientiam realem quam non habent cum
+suis differentiis constituentibus vel contrahentibus, quia differ-
+entiae praecise ac formaliter sumptae non sunt propriae for-
+mae; sicut in formis substantialibus datur convenientia in ra-
+tione communi formae substantialis, quae non convenit dif-
+270 ferentiis quibus communis conceptus substantialis formae con-
+trahitur ad hanc vel illam speciem substantialis formae. Et illo
+conceptu, qui directe communis est ad formas substantiales,
+dici potest concipi forma substantialis completa in communi,
+qui conceptus non est dubium quin habeat differentias extra
+275 sui rationem; ergo pari ratione ratiocinari possumus in formis
+accidentalibus. Difficile ergo est, admissa univocatione acci-
+dentis, rationem reddere cur non possit abstrahi aliquis con-
+ceptus accidentis genericus ad praedicamenta accidentium. Ac
+propterea alii, ut hanc difficultatem fugiant, univocationem ne-
+280 gant; ducuntur tamen solo argumento ab inconvenienti, et non
+declarant quomodo sine ordine accidentium inter se sit analo-
+gia. Haec ergo est difficultas huius controversiae.
+Quaestionis resolutio. The resolution of the question.
+Accidens, ut
+comprehendit
+novem genera,
+analogum est.
+12. In hac ergo re censeo imprimis accidens in tota sua lati- 20R 12. In this matter, therefore, I think in the first place that accident in
+285 tudine, ut comprehendit novem genera, non esse univocum, its whole breadth as it comprehends the nine genera is not univocal but
+sed analogum. Hanc conclusionem maxime mihi persuadeo analogical. This conclusion seems most persuasive to me on account of
+propter ea genera accidentium quae solum extrinsece circum- those genera of accidents which only stand or denominate extrinsically.
+stant aut denominant; illa enim non sunt cum ea proprietate . . .
+inhaerentia, cum qua insunt caetera accidentia quae sunt verae
+290 formae informantes. Quod reipsa et exemplis facile constare
+potest. Quis enim existimet, cum ea proprietate et veritate
+vestem afficere aut informare hominem vestitum, qua albedo
+hominem album, aut scientia scientem? Item quo modo actio,
+ut actio, existimari potest cum eadem proprietate afficere vel
+295 informare agens, in quo non recipitur passio, ac passum <527>
+in quo inest? Existimo ergo accidens primario convenire his ac-
+cidentibus quae proprie insunt et afficiunt subiecta sua; deinde
+vero per translationem, aut similitudinem valde imperfectam
+derivatum esse illud nomen ad alia quae quodammodo imitan-
+300 tur illam rationem. Unde probabile mihi est hic intervenire
+
+-- 47 of 52 --
+
+Suárez, DM XXXIX 48
+analogiam proportionalitatis; nam illa maxime propria dicun-
+tur accidentia, quae insunt; hinc vero dicta sunt accidentia quae
+sunt circa substantiam, ut habitus, locus continens. Item quae
+sunt a substantia; nam certe esse in et esse ab videntur habi-
+305 tudines adeo diversae ut non nisi secundum quamdam propor-
+tionalitatem ab eis sumptum sit nomen accidentis, et ideo ac-
+tio, ut actio, sicut non dicit esse in proprie sumptum, sed esse
+ab agente, valde analogice et improprie dicitur accidens agen-
+tis, vel potius accidere ipsi, quatenus illud denominat quadam
+310 denominatione, quae contingenter de eo dicitur, potestque ei
+convenire et non convenire. Igitur, cum accidens, ut commune
+est novem praedicamentis, sub se comprehendat tum ea quae
+proprie et interne insunt, tum etiam quae adiacent vel circum-
+stant rem et actiones quae a re manant eique non insunt, non
+315 potest sub hac communi ratione esse univocum ad ea omnia
+quae sub se complectitur. Atque hinc sumitur regula gener-
+alis, nimirum, omnia illa quae per solam extrinsecam denomi-
+nationem alicui accidere dicuntur, analogice tantum vocari ac-
+cidentia, quia illa in modo denominandi contingenter imitan-
+320 tur, cum tamen vere non insint, sed ad modum inhaerentium
+se habeant. Quae autem praedicamenta hunc modum extrin-
+sece tantum accidendi habeant, ex singulorum tractatione con-
+stabit.
+Secunda assertio. 13. Secundo dicendum est probabile esse accidens, ut dic- 25R 13.
+325 itur de entitate et de modo accidentali, univocum non esse;
+probabilius tamen videri solam illam diversitatem non sem-
+per sufficere ad analogiam constituendam. In hac assertione,
+quid per entitatem vel modum accidentalem intelligamus, sup-
+ponendum est e dictis supra, disp. VII, de distinctionibus et in
+330 disp. XVI, de forma accidentali. Unde potest suaderi prior pars
+assertionis, nam accidentalis entitas habet proprium modum
+informandi et inhaerendi; modus autem accidentalis non ita;
+ergo videntur analogice convenire in ratione formae acciden-
+talis et in ratione accidentis, nam accidens idem signifi- <col. >
+335 cat quod accidentalis forma. Item, ratio entis longe diversa
+ratione magisque diminuta inveniri videtur in his quae tan-
+tum sunt modi quam in his quae habent propriam entitatem;
+ergo, cum ratio accidentis rationem entis includat, etiam illa
+
+-- 48 of 52 --
+
+Suárez, DM XXXIX 49
+diminute et tantum secundum quid invenietur in modis acci-
+340 dentalibus, comparatione accidentalium entitatum; ergo dice-
+tur accidens analogice de his. Cuius etiam signum esse potest,
+quod entitas accidentalis saltem per potentiam potest per se et
+sine subiecto, conservari, modus autem accidentalis nulla ra-
+tione esse potest nisi actu coniunctus et modificans rem cuius
+345 est modus.
+14. Nihilominus tamen posterior pars conclusionis ex eo 14.
+satis probari videtur quod in eodem praedicamento accidentis
+continentur non tantum species quae habent proprias entitates
+accidentales, sed etiam quae tantum sunt modi aliarum rerum;
+350 ut in genere qualitatis continetur calor, qui propriam entitatem
+habet, et figura, quae tantum est modus, et densitas, quae est
+etiam modus, immo de potentia idem aliqui existimant, alii
+idem opinantur de actu immanente, etiamsi sit qualitas. Ergo
+qualitas univoce dicitur de propriis formis seu entitatibus et de
+355 modis qualificantibus; ergo etiam accidens dicitur univoce de
+illis; nam, cum accidens sit de essentia qualitatis, non potest
+qualitas univoce convenire his quibus non convenit simpliciter
+et univoce ratio accidentis. Ex quo ulterius colligimus, eti-
+amsi entitas et modus accidentalis ad diversa praedicamenta
+360 pertineant, eam diversitatem in ratione modi et entitatis non
+sufficere ad analogiam constituendam; nam quoad hoc eadem
+est ratio, sive talia accidentia sint diversorum praedicamento-
+rum, sive eiusdem. Et a priori ratio est quia illa diversitas enti-
+tatis et modi ex se non constituit aut habitudinem, aut subordi-
+365 nationem inter omnia illa quae talia sunt. Unde, licet unum sit
+imperfectius alio, non tamen dicitur accidens per habitudinem
+ad aliud, et ideo hoc non satis est ad analogiam. Eo vel maxime
+quod, licet modus sit ex suo genere minus perfectus quam en-
+titas, tamen in particulari aliquis modus potest esse perfectior
+370 aliqua entitate, ut modus substantialis est perfectior entitate ac-
+cidentali; igitur illa diversitas perfectionis non semper sufficit
+ad analogiam constituendam.
+Tertia assertio. 15. Ex his ergo dico tertio: quamvis accidens in tota sua 15.
+ampli- <528> tudine non sit univocum, nihilominus respectu
+375 aliquorum negari non potest quin de eis univoce dicatur. Pro-
+batur primo ex dictis, quia saltem dicitur univoce de omnibus
+
+-- 49 of 52 --
+
+Suárez, DM XXXIX 50
+speciebus eiusdem praedicamenti, ut de calore et frigore. Se-
+cundo, quia etiam dicitur univoce de entitate et modo acciden-
+tali, saltem cum inter se non habent habitudinem aut depen-
+380 dentiam. Tertio, quia etiam univoce respicit quantitatem et
+qualitatem, quatenus sunt propriae formae accidentales realiter
+distinctae a subiecto illudque informantes. Nam respectu il-
+larum nulla ratio analogiae inveniri potest; aut enim erit analo-
+gia proportionalitatis, et hoc non, nam intercedit ibi vera con-
+385 venientia et similitudo realis; aut erit analogia proportionis,
+et hoc etiam dici non potest, quia de neutra dicitur per habi-
+tudinem ad aliam, ut per se notum videtur. Quod enim quidam
+aiunt, dici prius de quantitate, quia qualitas inhaeret substan-
+tiae media quantitate, aperte falsum est; nam potius qualitas
+390 ex suo genere est perfectior quantitate, cum in rebus spiri-
+tualibus inveniatur. Quod vero in rebus corporalibus qual-
+itates supponant quantitatem, non solum non est indicium
+analogiae, verum etiam non est argumentum quod quantitas
+sit perfectior omni corporea qualitate, quia solum supponitur
+395 ut conditio quaedam necessaria, vel per modum potentiae pas-
+sivae; qualitas vero est per modum actus; nulla est ergo ratio
+analogiae inter quantitatem et qualitatem respecta accidentis.
+His ergo modis est aliqua univocatio in accidente, licet ipsum
+non sit univocum in tota sua latitudine; non enim repugnat
+400 idem nomen esse univocum respectu aliquorum, licet non sit
+respectu suorum omnium significatorum, ut supra inter dis-
+putandum de ente diximus.
+Obiectio. 16. Sed insurgit statim difficultas superius tacta, nimirum, 16.
+dari aliquem conceptum accidentis communem multis praedi-
+405 camentis, qui proprie sit genericus. Nam, licet ex dictis suf-
+ficienter habeatur accidens non posse esse genus ad omnia
+novem praedicamenta, quia ut sic non est univocum, sed ana-
+logum, tamen aliquis conceptus accidentis magis contractus
+esse poterit genus ad aliqua praedicamenta, ut si sumatur ac-
+410 cidens solum proprie pro eo quod vere inhaeret aut intrinsece
+afficit subiectum, aut strictius pro entitate et propria forma ac-
+cidentali, ut distinguatur a modo et sit communis soli qualitati
+et quantitati. Sic enim est quid univocum et quidditativum et
+potest habere <col. > differentias extra sui rationem, ut supra
+
+-- 50 of 52 --
+
+Suárez, DM XXXIX 51
+415 declaratum est.
+Solutio. 17. Respondetur negando sequelam, quia nullus conceptus 17.
+potest abstrahi a rebus diversorum praedicamentorum ita uni-
+vocus respectu aliquorum, quin aliqua ex parte includat analo-
+giam respectu aliorum, vel transcendentiam repugnantem ra-
+420 tioni generis. Ut, si accidens intrinsece afficiens sumatur ut
+quid commune ad entitatem et modum accidentalem, licet se-
+cundum eam rationem possit habere univocationem, tamen ut
+sic multa sub se comprehendit quae in nullo praedicamento di-
+recte collocantur, verbi gratia, modum inhaerentiae, qui per se
+425 intrinsece afficit tum formam inhaerentem, tum etiam subiec-
+tum cui inhaeret; et quamvis sub tali ratione sit incompletum
+accidens, tamen absolute et in latitudine entis fortasse non est
+magis diminutum ens quam modus ubicationis aut passionis,
+quae propria praedicamenta constituunt. Quo fit ut de huius-
+430 modi conceptu accidentis vere dicatur non posse ita abstrahi ut
+sit communis ad sola accidentia completa, id est, quae directe
+in praedicamentis accidentium collocantur, ideoque non posse
+esse genus, neque habere differentias extra sui rationem, neque
+omni carere analogia.
+435 18. Rursus, si accidens sumatur pro entitate propria et 30R 18.
+forma accidentali, sic solum videtur quidam conceptus com-
+positus ex duobus simplicioribus conceptibus analogis; nam
+conceptus formae ut sic analogus est ad formam substantialem
+et accidentalem. Ille vero modus qui additur cum dicitur acci-
+440 dentalis, non potest esse ita determinatus et proprius aliquo-
+rum accidentium, quin ex se communis sit omnibus; nam
+omnia habent accidentalem modum afficiendi; illa ergo con-
+venientia quasi transcendentalis est, ideoque non potest con-
+stituere conceptum genericum, etiamsi alias sit univocus re-
+445 spectu aliquorum, vel etiamsi ex coniunctione plurium con-
+ceptuum analogorum sumatur ut proprius seu determinetur ad
+talia significata. Ratio vero a priori esse videtur, quia haec gen-
+era summa habent primariam quamdam diversitatem in modo
+afficiendi, quod maxime notum apparet in quantitate et quali-
+450 tate, et ideo nulla est convenientia inter eas secundum proprias
+rationes earum, sed solum in ratione accidendi (ut sic dicam),
+quod ex se commune est aliis. Plus ergo requiritur ad rationem
+
+-- 51 of 52 --
+
+Suárez, DM XXXIX 52
+<529> generis quam ad rationem univoci praedicati, etiam in
+quid; nam ad univocationem sufficit propria et uniformis seu
+455 immediata habitudo ad plura secundum eamdem rationem; ad
+genus autem ultra hoc necessarium est ut nec transcendentiam
+habeat in formali ratione sua, neque analogiam respectu aliquo-
+rum, quod etiam ad rationem proprii universalis necessarium
+est. Et hactenus de hac divisione.
+
+-- 52 of 52 --

@@ -1,0 +1,394 @@
+Last revision: December 30, 2010	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 3, SECT. 31
+© Sydney Penner 2010
+<30, col. b>2
+Utrum possit homo simul intendere duos ultimos fines simpliciter Whether someone can at the same time intend two unqualifiedly and posi-
+et positive, et propter illos operari? tively ultimate ends and act for the sake of them.
+Hic finis
+dupliciter
+consideratur.
+1. Finis ultimus simpliciter, ut supra dixi, et constat ex Aris- 1. An unqualifiedly ultimate end, as I said above and as is clear from This end is
+considered in two
+ways.
+totele 1, Ethicorum, c. 7 et 8, est finis perfectus, et bonum suffi- Aristotle, [Nichomachean] Ethics, book 1, c. 7 and 8, is a perfect end
+5 ciens, atque adeo maxime necessarium intendenti talem finem. 5R and sufficient good, and to that extent is very much necessary to the
+Unde dupliciter apprehendi potest: primo sub ratione com- one intending such an end. Hence, it can be apprehended in two ways.
+muni sufficientis boni, etc., non constituendo illum in una vel First, under the general concept of sufficient good, etc., not as estab-
+alia re determinate, et hic vocari solet finis ultimus formaliter, lishing that in one or another determinate thing, and this is custom-
+in quo non habet locum præsens quæstio, quia, cum concip- arily called an ultimate end formally. With respect to it, the present
+10 iatur abstracte et confuse, clarum est non posse concipi nisi per 10R question does not have a place, because, although it may be conceived
+modum unius: nam qui appetit esse beatus absolute et præcise, abstractly and confusedly, it is clear that a [formally ultimate end] can-
+non potest in ipsa beatitudine varietatem, et multitudinem ex- not be conceived except in the manner of one. For whoever desires to
+cogitare, donec de re cogitet, qua beatificandus est. Secundo be happy absolutely and precisely cannot think of variety and multi-
+igitur modo concipi potest ultimus finis ut constitutus in re ali- plicity in the happiness itself, as long as he thinks of the thing by which
+15 qua, aut rerum collectione, qui dicitur finis ultimus realis, seu 15R he will be made happy. In the second way, therefore, the ultimate end
+materialis: et de hoc est quæstio, an necessario sit unus tantum: can be conceived as constituted in some thing or collection of things,
+agimus autem de fine intento ex formali, aut virtuali hominis which is called a real or material ultimate end. And the question is con-
+intentione, quia de connaturali fine ultimo, ad quem homo cerning this, whether it is necessarily one as such. We, moreover, deal
+tendit impetu naturæ, seu ordinatione divina, non est dubium with the end intended by a formal or virtual human intention, because
+20 quin sit unus, ut latius infra cum agemus de beatudine, et de 20R concerning the connatural ultimate end to which a human tends by a
+hoc fine procedunt duæ rationes ultimæ D. Thomæ, prima se- natural impetus or divine ordering it is not doubted but that it is one,
+cundæ, quæst. 1, art. 5, quæ possunt etiam accommodari ad as [we discuss] more extensively below when we deal with happiness,
+finem ultimum formalem: de quibus dicemus plura, sect. ul- and concerning this end two ultimate reasons appear in St. Thomas,
+tim. hujus disputationis. [ST ] IaIIae.1.5, which can also be adapted to an ultimate formal end,
+25R concerning which we say more in the last section of this disputation.
+25	1. Arg. pro
+affirm. parte.
+2. Atque hinc oritur ratio dubitandi in hac quæstione, quia 2. And from here arises a reason for doubting in this question, The 1st arg. for
+the affirmative
+part.	1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the
+1628 edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V =
+Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 2
+intentio hominis non tantum fertur ad verum finem, sed ad fal- because the intention of a human is not only brought to the true end
+sum etiam et apparentem: ergo quamvis in re ipsa non possint but also to a false and apparent [end]. Therefore, although there can-
+esse duo ultimi fines veri, possunt ab homine falso apprehendi, not be two true ultimate ends in the thing itself, they can be falsely
+et existimari, sicut existimantur duo Dei, aut duo prima prin- 30R apprehended and thought by a human, just as two Gods are thought or
+30 cipia: ergo eadem ratione possunt appeti, et intendi duo fines two first principles. Therefore, for the same reason two unqualifiedly
+Secundum. ultimi simpliciter. Secundo, ut homo dicatur intendere duos ultimate ends can be desired and intended. Secondly, in order to say The second.
+fines, satis est ut saltem successive habeat hujusmodi duas in- that a human being intends two ends, it is enough that he at least suc-
+tentiones, dummodo virtualiter utramque retineat, quamvis cessively have two intentions of this sort, provided that he retain each
+non actualiter. Jam enim supra diximus nos hic non agere de 35R virtually although not actually. For we already said above that we are
+35 simultate <31> metaphysica, sed morali, vel virtuali; potest not dealing with metaphysical simultaneity, but moral or virtual [si-
+autem homo nunc intendere unum ultimum finem, verbi gra- multaneity]. However, a human can now intend one ultimate end, for
+tia, voluptatem et paulo post alium, verbi gratia, honorem, non example, pleasure, and then a little later another, for example, honour,
+retractando priorem intentionem; quæ est enim repugnantia in while not retracting the first intention. For what is repugnant in this?
+hoc? nam illæ duæ res, neque in esse rei inter se pugnant, neque 40R For these two things oppose each other neither in being the thing nor
+40 in esse finis, quia utraque potest per se appeti ultimate in illa in being the end, because each can be desired per se ultimately in that
+sistendo, et ad eam referendo omnia, quæ necessaria fuerint, in setting up and direct everything which is necessary to it (in which the
+Tertium. quo videtur ratio ultimi finis consistere. Tertio est vulgaris dif- nature of an ultimate end seems to consist). The third is a common dif- The third.
+ficultas, nam qui peccat mortaliter, constituit finem ultimum ficulty, for whoever sins mortally sets up an unqualifiedly ultimate end
+simpliciter in creatura, sed potest quis simul peccare mortaliter 45R in a created thing, but anyone can sin mortally at the same time with
+45 diversis actibus, et circa diversas creaturas; ergo potest simul different acts and on account of different created things. Therefore, he
+plures creaturas dirigere ut ultimos fines. can direct [himself] to multiple created things as ultimate ends.
+Notationes pro
+decisione.
+3. Advertendum est, res, in quibus ultimi fines constitu- 3. It should be noticed that the things in which ultimate ends are Notes towards a
+decision.	untur duobus modis intelligi posse esse distinctas, primo for- constituted can be understood to be distinct in two ways. First, for-
+maliter, et quasi specifice in ratione boni, seu convenientiæ, 50R mally, and, as it were, specifically in the ratio of good or agreeability
+50 propter quam appetuntur: quomodo distinguuntur, verbi gra- for the sake of which they are desired. Pleasure, honour, and similar
+tia, voluptas, honor, et similia. Secundo potest distingui tan- things, for example, are distinguished in this way. In the second [way],
+tum materialiter et numerice, ut si quis, verbi gratia, appetat it can be distinguished only materially and numerically, as if someone,
+divitias in tanta quantitate, nihil curans quod sit in his, vel illis for example, desires wealth in such a quantity, not caring at all what is
+numero pecuniis. Rursus, plures fines ultimi intelligi possunt 55R in this or that amount of money. On the other hand, multiple ultimate
+55 appeti, vel copulative appetendo habere utrumque simul, verbi ends can be understood to be desired, either in being desired conjunc-
+gratia, voluptatem et honorem, vel tantum disjunctive, ut si tively to have each at the same time, for example, pleasure and honour,
+quis appetat, vel voluptatem, vel honorem, et alterutrum con- or only disjunctively, as if someone desires either pleasure or honour
+secutus, contentus esse velit. and, one having followed another, he wishes to be content.
+1. Assertio. 4. Dicendum primo, fieri non potest ut aliquis copulative 60R 4. It should be said first that it cannot happen that someone con- The 1st assertion.
+60 amet, et intendat duos fines ultimo totales et integros: unde si junctively loves and intends two complete and integrated ultimate ends.
+contingat amare plures res, seu plura bona, in eis, aliquo modo Hence, if he happens to love more than one thing or more than one
+ultimate sistendo, non appetit illa ut fines ultimos totales, sed good, in some way ultimately stopping in them, he does not desire them
+partiales; integrum autem ultimum finem constituit in collec- as complete ultimate ends, but as partial. Moreover, the integrated ul-
+
+-- 2 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 3
+Demonstratur. tione, seu aggregato earum. Hæc est sententia D. Thomæ 1, 2, 65R timate end is constituted by a collection or aggregate of them. This is
+65 quæst. 1, artic. 5, et prima ratio ejus est demonstratio, quia finis the view of St. Thomas in [ST ] IaIIæ.1.5. The first argument for it is It is
+demonstrated.	ultimus integer, et totalis est ille, quem homo appetit ut com- the demonstration: because the integrated and complete ultimate end
+plementum suorum desideriorum, atque adeo ut bonum sibi is that which a human being desires as something that fulfills his desires
+sufficiens et aliis præferendum, ac maxime necessarium; sed, and therefore as a good sufficient to him and preferred to all others and
+si homo simul appetat duo bona, impossibile est ut utrumque 70R maximally necessary. But, if a human being desires at the same time
+70 existimet esse tale, quale descripsimus debere ultimum finem, two goods, it is impossible for either to be thought such as what we
+quia si unum existimatur sufficiens, alterum non potest rep- described the ultimate end as needing to be, because if one is thought
+utari necessarium, quia sufficiens est quod non indiget alio, sufficient, then the other one cannot be thought necessary, because to
+vel e contrario, si utrumque existimatur necessarium, in neu- be sufficient is to not need something else. Or the other way around, if
+tro quiescet appetitus: ergo neutrum erit integer finis ultimus. 75R both are thought necessary, the appetite will rest in neither. Therefore,
+75 <col. b> neither will be the integrated ultimate end.
+Instantia
+bipartita.
+5. Dices, unde constat totum illud esse de ratione ultimi fi- 5. You may say: Is it clear from this that that whole is of the na- A twofold
+objection.	nis, vel saltem cur non poterit homo hoc ignorare, et ita ex ture of an ultimate end or at least why it will not be able to be the case
+ignorantia saltem, appetere plures ultimos fines? Responde- that a human being ignore this and thus from ignorance at least desire
+tur ad priorem partem, id constare ex ipsa vocis impositione, 80R more than one ultimate end? To the first part I respond that it is clear
+80 et ex communi hominum sapientum usu, qui hoc intelligunt from the imposed words themselves and from the common use of wise
+per ultimum finem. Item, quia in hoc distinguitur finis ul- men who understand this through an ultimate end. Likewise, because
+timus et totalis a partiali, seu particulari fine. Ultimo denique in this is distinguished an ultimate and complete end from a partial or
+ex re ipsa, quia constat, posse hominem intendere aliquid in particular end. Lastly, finally, from the thing itself, because it is clear
+quo plene quiescat, et ad quod dirigat se, et omnia sua quan- 85R that a human being can intend something in which he fully rests and
+85 tum est ex modo appetendi, et intendendi talem finem: hinc direct himself and everything of his to it by a mode of desiring and in-
+Satis fit secundæ. ergo appellamus ultimum finem simpliciter. Unde ad alteram tending such an end. This, therefore, we call an unqualifiedly ultimate
+partem respondetur, quamvis possit homo speculative igno- end. Hence, to the second part I respond that although a human be- He satisfies the
+second part.	rare quid significet ultimus finis simpliciter, et ideo posse ex- ing can speculatively ignore an unqualifiedly ultimate end signifies and
+istimare se amare plura ut ultimos fines, tamen revera et prac- 90R therefore can think himself to love more than one thing as an ultimate
+90 tice, atque in exercitio non intendere illos, ut totales fines, sed end, yet in reality and practically and in exercise he does not intend
+ut partiales, quandoquidem ita appetit, ut non sit contentus them as complete ends but as partial [ends], seeing that he desires them
+altero, sed utroque aggregate. Atque hinc obiter constat non in such a way that he is not content with one of them but [only] with
+esse necessarium ut homo constituat hunc ultimum finem in the aggregate of both. And from this, by the way, it is clear that it is not
+una re, seu in uno bono, potest enim plurium collectionem ap- 95R necessary that a human being constitute this ultimate end in one thing
+95 petere ut ultimum terminum suorum desideriorum: sic enim or in one good, for he can desire a collection of multiple [goods] as
+philosophi multi posuerunt beatitudinem vel in collectione the ultimate terminus of his desires. For many philosophers in this way
+bonorum temporalium, vel in eis simul cum virtute: neque placed happiness either in a collection of temporal goods or in those
+in hoc est ulla repugnantia ex modo appetendi, vel ex ratione along with virtue. Nor is there any repugnance in this in the way of
+finis ultimi, ut ex dictis constat. 100R desiring or from the nature of an ultimate end, as is clear from what
+has been said.
+100	2. Assertio. 6. Dicendum secundo, neque etiam disjunctive potest 6. It should be said, secondly, that a human being also cannot in- The 2nd
+assertion.
+
+-- 3 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 4
+homo intendere plura bona distincta, et formaliter diversa, in- tend more than one distinct and formally diverse good disjunctively
+tendendo ea tanquam ultimum finem simpliciter, et totalem. in intending them as an unqualifiedly ultimate and complete end. Con-
+Suadetur primo. De hac re nihil locutus est D. Thomas: probari ergo potest 105R cerning this matter, St. Thomas has not said anything. It can, therefore, It is persuaded,
+firstly.	duobus modis, primo, quia intentio hæc objecti disjuncti quan- be proven in two ways. First, because the intention of this disjunctive
+105 do objecta, seu bona, quæ in disjunctione ponuntur, sunt for- object when the objects or goods which are placed in disjunction are
+maliter diversa, est inefficax respectu singulorum, et insuffi- formally diverse is ineffective with respect to a single one of them and
+ciens ut moveat ad opus, et ad electionem faciendam: ergo insufficient to move to an action and to making a choice. Therefore,
+non potest hæc esse sufficiens intentio ultimi finis. Antecedens 110R this cannot be a sufficient intention of an ultimate end. The antecedent
+declaratur primo, quia neutrum illorum bonorum absolute is shown first, because neither of those goods is intended absolutely,
+110 intenditur, sed quasi sub conditione, vel in defectu alterius. but only as if under a condition or in the absence of the other. Next,
+Deinde, quia cum bona sint formaliter diversa, licet fort- because when the goods are formally diverse, although perhaps one
+asse unum, vel alterum medium possit ad utrumque conferre or another means can directed to both on account of some agreeabil-
+propter aliquam convenientiam, quam inter se habere possunt: 115R ity which can hold between them, nevertheless absolutely and strictly
+tamen absolute et simpliciter indigent diversis mediis et elec- speaking they require diverse means and choices. Therefore, that inten-
+115 tionibus: ergo illa intentio non est sufficiens ad <32> elec- tion is not sufficient for making the choices as long as it is determined
+tiones faciendas, donec ad aliquod ex illis bonis determine- to something by those goods. Therefore, as long as it is under a dis-
+tur: ergo quamdiu est sub disjunctione, neutrum illorum junction, it [i.e., the intention,] respects neither of those goods as an
+Secundo. bonorum respicit ut ultimum finem simpliciter. Secunda ra- 120R unqualifiedly ultimate end. The second argument is because through Secondly.
+tio est, quia per talem intentionem, seu amorem, non potest such an intention or love one cannot desire either of those goods as
+120 utrumque illorum bonorum appeti ut necessarium vel suffi- necessary or sufficient for the one desiring. Therefore, neither is loved
+ciens appetenti: ergo neutrum amatur per modum ultimi fi- in the way an ultimate end is loved. The antecedent is clear because
+nis. Antecedens patet, quia quodlibet illorum bonorum am- neither of those goods is loved unqualifiedly but only in the absence of
+atur non simpliciter, sed in defectu alterius: ergo neutrum per 125R the other. Therefore, neither is thought absolutely necessary through
+se existimatur necessarium absolute, sed ad summum sub con- itself but at most under the condition ‘if the other one is absent’. On
+125 ditione, si aliud desit. Rursus, cum utrumque aliquo modo the other hand, when each of them is desired in some way, each of them
+appetatur, utrumque censetur bonum appetentis, et cum sint is thought good for the one desiring and, when the goods are formally
+bona formaliter diversa unum non confert ad bonitatem al- diverse, one does not add to the goodness of the other nor the other
+terius, neque e contrario: ergo fieri non potest ut aliquod eo- 130R way around. Therefore, it cannot happen that one of them is desired as
+rum appetatur tanquam per se sufficiens ad satiandum hominis in itself sufficient for satisfying the desire of the human. Therefore, in
+130 appetitum: ergo revera neutrum amatur ut ultimus finis. reality neither is loved as an ultimate end.
+3. Assertio. 7. Dicendum tertio, si bonum, quod amatur per modum 7. It should be said, thirdly, that if the good which is loved in the The 3rd
+assertion.	ultimi finis, sit unum formaliter, seu ejusdem rationis, nullum way an ultimate end is loved is formally one or of the same nature, then
+est inconveniens, quod sub disjunctione appetatur ut obtinen- 135R there is nothing disagreeable about it being desired under a disjunction
+dum in hac, vel illa re numero diversa. Exempla sunt facilia: as obtaining in this or that thing diverse in number. Examples are eas-
+135 si quis, verbi gratia, canonicatum appetat, et in hoc constit- ily come by: if someone, for example, desires the office of canon, and
+uat suum finem ultimum, bene potest sub disjunctione inten- his ultimate end is constituted in this, he may well under a disjunction
+Eius ratio. dere hunc, vel illum, quicumque ille sit. Ratio est, quia tunc intend this or that one, whichever that may be. The reason is because Its reason.
+finis est unus formaliter, et illa distinctio numerica rerum nat- 140R then the end is one formally and that numerical distinction of natural
+
+-- 4 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 5
+uralium nihil refert vel ad mutandam intentionem, vel ad sa- things refers nothing either to changing intention or to satisfying the
+140 tiandum hominis appetitum. Quod explicatur illa duplici ra- human appetite. This is explained by the two reasons given in the pre-
+tione facta in præcedenti assertione contrario modo inducta: ceding assertion brought in the opposite mode. First, certainly, because
+primo quidem, quia illa intentio sufficit ad adhibenda media, that intention suffices for applying the means and making the choices
+et electiones faciendas usque ad assecutionem ipsius finis: quod 145R all the way to the comprehension of the end itself. If it is sometimes
+si interdum necesse est adhibere aliquod speciale medium ad necessary that some particular means be applied in pursuing that end
+145 consequendum illum finem potius in una re quam in alia, illud more in one thing rather than another, that is rare and per accidens and
+est raro et per accidens, et tunc jam determinabitur intentio ad then in that case the intention will be determined to that thing more
+rem illam potius quam ad aliam: non quia habeat aliam ratio- than to the other, not because it has another aspect of good nor be-
+nem boni, nec quia censeatur sufficientior ad saturandum ap- 150R cause it is thought more sufficient for sating the appetite, but because
+petitum, sed quia accidit ut fortasse hic et nunc facilius acquiri it happens that perhaps it can more easily be acquired here and now
+150 possit, quam alia. Secundo, quia cum illis in rebus sit eadem ra- than another. Second, because when there is the same aspect of good
+tio boni, quæ licet per se sufficit ad satiandum appetitum, qui for these in the things, which, granted, in itself suffices for satisfying
+non quærit nisi tale ac tantum bonum, et in illo ponit finem the appetite, he does not strive for except if it is such and only such a
+suum. 155R good and in that he places his end.
+Obiectio contra
+præced. assert.
+8. Sed objici potest, nam ille, qui sub dis- <col. b> junc- 8. But one can object, for the person who under a disjunction de- An objection
+against the
+preceding
+assertion.
+155 tione ita appetit duas res, revera utramque appetit: ergo non sires two things in this way, really desires both of them. Therefore, he
+potest alterutra earum satiari: ergo non potest eas disjunctive cannot be satisfied by either of them. Therefore, he cannot desire them
+appetere per modum ultimi finis, sed necessarium est, ut ap- disjunctively in the way an ultimate end is desired, but it is necessary
+petat aggregatum utriusque tanquam ultimum. Antecedens 160R that he desire the aggregate of each of them as ultimate. The antecedent
+patet, quia si quis velit interficere Petrum, aut furari bona is clear because if someone wishes to kill Peter or to steal his goods, he
+160 ejus, peccat peccato furti et homicidii: ergo signum est illum sins by the sins of theft and homicide. Therefore, it is a sign that he
+consentire in utrumque peccatum, atque adeo utrumque velle. shared in each sin and therefore wished each of them. I respond that The solution.
+Solutio. Respondetur, eum, qui tantum sub disjunctione vult unum he who only under a disjunction wishes one of two does not in real-
+e duobus, revera non velle absolute et simpliciter utrumque. 165R ity absolutely and unqualifiedly want each of them. This is clear, first,
+Quod patet primo, quia cum illo proposito stat voluntas efficax because with that purpose the will stands effective not by committing
+165 non committendi utrumque. Secundo, quia homo id tantum to each of them. Second, because the human who only wants what he
+vult, quod sibi proponit per modum objecti, proponit autem proposes to himself in the mode of an object, proposes a disjunction
+sibi disjunctum, ut in alterutra parte exequendum, et non in to himself so that he pursues either part but not both at the same time.
+utraque simul. Tertio, quia qui vult orare, vel eleemosynam 170R Third, because he who wishes either to worship or to give alms does not
+facere, non ita meretur sicut ille, qui vult orare, et eleemosy- thereby earn merit just as the one who wishes to worship and give alms.
+170 nam facere. Et idem est in malis objectis, præsertim si sint And the same is true in bad objects, especially if they are of the same
+ejusdem rationis: qui enim proponit furari decem vel a Petro, nature. For he who proposes either to steal ten from Peter or ten from
+vel a Paulo, non ita peccat, ac si proponeret furari decem a Paul does not sin the same degree as if he were to steal ten from Peter
+Petro, et decem a Paulo: ergo voluntas, quæ fertur ad aliquod 175R and ten from Paul. Therefore, the will which is brought to some dis-
+disjunctum, non est absoluta respectu singularium partium, junction is not absolute with respect to a single part but rather is only
+175 sed potius tantum secundum quid et quasi conditionaliter, et [brought] qualifiedly and as if conditionally. And therefore if those
+ideo si membra illa tantum materialiter diversa sint, illa vol- members are only materially diverse, that willing is equivalent in force
+
+-- 5 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 6
+untas æquivalet voluntati unius rei determinatæ habentis eam- to a willing for one determinate thing having the same goodness or bad-
+dem bonitatem, vel malitiam: in illo autem exemplo in con- 180R ness. Moreover, in that example brought in for the contrary, because
+trarium adducto, quia in singulis membris disjunctiones sunt in the single members the disjunctions are formally diverse badnesses,
+180 malititæ formaliter diversæ, ideo opus voluntatis ab utraque therefore the work of the will takes up badness from each of those parts,
+illarum partium sumit malitiam, quia non solum peccat volun- because not only does the will sin absolutely in willing a corrupt act,
+tas absolute volendo pravum actum, sed etiam volendo illum but also in willing it under a condition, namely, in the absence of some-
+sub conditione, scilicet in defectu alterius, et quia in eo casu 185R thing else. And because in that case it consents conditionally in each of
+in utrumque consentit saltem conditionaliter, ideo utriusque them, therefore it participates in the badness of each of them, although
+185 malitiam participat, quamvis utraque fit minor, quam si objec- each of them becomes less than if the object were conjunctively willed.
+tum esset copulative volitum. Unde propter eamdem causam Hence, on account of the same cause, if someone consents to a disjunc-
+si quis consentiat in objectum disjunctum constans una parte tive object that clearly is morally good (honesta) in part and shameful in
+honesta, et altera turpi, simpliciter peccat ea malitia, quam sub 190R part, he unqualifiedly sins by that badness which he desires under the
+disjunctione appetit, ut si proponat subvenire proximo, vel ex disjunction (for example, if he proposed to assist his neighbour, either
+190 propriis bonis, vel ex alienis, furando illa, si aliter non possit ei with his own goods or with foreigners’ goods, plundering them if he
+subvenire. could not assist him otherwise).
+Ad 1. & 2.
+argum. in n. 1.
+9. Ad argumenta initio facta, primum solutum est expli- 9. To the arguments made at the beginning, the first was resolved To the 1st and
+2nd arguments in
+n. 1.
+cando primam conclusionem. Ad secundum vero facile re- 195R in explaining the first conclusion. And to the second is easily responded
+spondetur, eum, qui mutat intentionem finis ultimi, hoc ipso that he who changes his intention for the ultimate end by the very do-
+195 retractare priorem intentionem, et ideo neque <33> actu, ing of this retracts his former intention and therefore neither actually
+neque virtute intendere duos ultimos fines. nor virtually intends two ultimate ends.
+Ad 3. in eodem
+num. 2.
+Responsio
+Adriani.
+10. De tertio vero argumento multa scribuntur ab auc- 10. But concerning the third argument many things are written by To the 3rd
+argument in n. 2.
+Adrianus’s
+response.
+toribus, sed quando illa difficultas ad materiam de peccatis, in 200R authors, but when that difficulty concerning the matter of sin appears
+tract. 5, spectat, breviter est expedienda. Primo ergo respon- in treatise 5, it should be briefly explained. First, therefore, Adrianus3
+200 det Adrianus, quodl. 5, art. 3, negando eum, qui peccat mor- responds in Quæstiones Quodlibeticæ q. 5, art. 3, by denying that he
+taliter necessario constituere ultimum finem suum in creatura, who sins mortally necessarily sets his ultimate end in a created thing
+quia revera non diligit illam plus quam Deum, imo nec plus because he does not really love that more than God, nor, indeed, more
+quam rem aliam temporalem: qui enim peccat, verbi gratia, 205R than another temporal thing. In fact, he who sins, for example, for the
+propter voluptatem carnis, non daret totam substantiam suam sake of carnal pleasure would not give his complete substance so that
+205 ut ea voluptate frueretur brevi tempore: ergo non diligit il- he might enjoy that pleasure for a brief time. Therefore, he does not
+lam voluptatem plus quam substantiam. Rursus, illemet, qui love that pleasure more than [his] substance. Again, he who sins in this
+sic peccat propter concupiscentiam, fortasse non negasset fi- way for the sake of concupiscence perhaps did not deny the faith and
+dem et religionem divinam, etiamsi oporteret totam substan- 210R divine religion, even if he might have to destroy [his] entire substance.
+tiam perdere: ergo illemet amat Deum plus quam substan- Therefore, he loves God more than his substance; therefore, more than
+210 tiam suam: ergo plus quam voluptatem: ergo signum est il- pleasure. Therefore, this is a sign that that human, when he thus sinned
+lum hominem, dum sic peccavit mortaliter, non amasse illam mortally, did not love that pleasure more than everything else nor more
+3Born Adriaan Florenszoon Boeyen; became for a short time the unhappy Pope Adrian VI.
+201 in creatura ] increatura V.
+
+-- 6 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 7
+voluptatem plus quam omnia, nec plus quam Deum, nec per than God; nor [did he love it] in the way an ultimate end is loved.
+modum ultimi finis. Et similia argumenta multiplicat Adri- 215R And Adrian multiplies similar arguments, most of which are collected
+anus, quæ magna ex parte congerit Medina: et juxta hanc sen- by [Bartolomé de] Medina. And with this view the response to the
+215 tentiam est facilis responsio ad argumenta. arguments is easy.
+Rejicitur a
+Caietan. & aliis.
+11. Tamen Cajetanus, Conradus, Medina et alii hanc sen- 11. Nevertheless, Cajetan, Conradus, Medina, and others gener- It is rejected by
+Cajetan and
+others.
+tentiam communiter rejiciunt, asserentes, qui mortaliter pec- ally reject this view, asserting that he who sins mortally does set his
+cat, constituere finem ultimum in creatura. Et videtur aperta 220R ultimate end in a created thing. And it clearly appears to be the view
+sententia D. Thomæ 2, 2, quæst. 24, art. 10, ad 2, ubi dicit, of St. Thomas in [ST ] IIaIIæ.24.10 ad 2, where he says: ‘Cupidity is
+220 duplex est cupiditas; una, qua finis in creatura constituitur, quæ two-fold: one, by which the end is placed in a created thing, which al-
+mortificat totaliter charitatem, cum sit venenum ipsius, etc., ubi together kills charity, since it is its poison . . . ’.4 He must be speaking
+necesse est loqui de fine ultimo. In eadem est sententia Sco- here of an ultimate end. Scotus’s view is the same in [Sent.] I, dist. 1,
+tus, in 1, dist. 1, q. 5, ubi dicit peccatorem, quantum in se est, 225R q. 5, where he says: ‘a sinner, insofar as he is in himself, enjoys a cre-
+frui creatura; loquitur autem de fruitione simpliciter prout est ated thing’. Moreover, he speaks of enjoyment strictly speaking as it is
+225 ultimi finis. Cui sententiæ favet modus loquendi sacræ Scrip- of an ultimate end. The mode of speaking in the holy Scriptures sup-
+turæ ut est illud ad Philip. 3: Quorum Deus venter est; et illud ports this view, for example, that [passage] from Phil. 3[:19], ‘whose
+Jerem. 3: Me dereliquerunt fontem aquæ vivæ. Unde sumitur God is the belly’, and that from Jer. 3 [i.e., 2:13]: ‘They have forsaken
+ratio: nam qui peccat mortaliter, avertitur a Deo tanquam ab 230R me, the fountain of living water’. Whence the argument is taken: For
+ultimo fine: ergo convertitur ad creaturam, ut ad finem ulti- he who sins mortally is turned from God just as from an ultimate end.
+230	Eorum responsio
+ad 3. argum.
+mum. Juxta hanc vero opinionem ad difficultatem tactam re- Thefore, he is turned to a created thing as to an ultimate end. But con-
+spondent aliqui, peccatorem non converti ad creaturam, circa cerning this opinion some respond to the mentioned difficulty that the Their response to
+the 3rd argument.	quam peccat, ut ad finem ultimum, sed ad seipsum, quem sinner does not turn to the created thing concerning which he sins as
+Non citat verba,
+sed sensum.
+diligit plusquam Deum, juxta illud Matth. 10: Qui diligit an- 235R to an ultimate end, but to himself, whom he loves more than God, as
+imam suam plusquam me, non est me dignus, et illud Augus- that [passage says] in Matth. 10: ‘Whoever loves his soul more than me He does not cite
+words, but sense.	235 tini 14, de Civit., cap. ult.: Amor sui usque ad con- <col. b> is not worthy of me’5 and that [passage] from the last chapter of book
+temptum Dei ædificat civitatem Balylonis, unde D. Thomas 1, 14 of Augustine’s City of God: ‘Self-love up to contempt of God builds
+2, quæst. 77, art. 4, dicit omnia peccata oriri ex amore sui. the city of Babylon’. Hence, St. Thomas says in [ST ] IaIIæ.77.4 that
+Non satisfacit. Sed hæc responsio non satisfacit, quia ipse peccator non est fi- 240R all sins arise from self-love. But this response does not satisfy, because It is not
+satisfactory.	nis cujus, sed cui amatur bonum illud, cujus gratia peccat, et the sinner himself is not the finis cuius, but rather the finis cui, [i.e., the
+240 de illo bono dicitur quod habeat rationem finis ultimi illius end for whom] that good for the sake of which he sins is loved. And
+peccati, nec est contra rationem finis ultimi, quod alicui ap- concerning that good is said that it has the nature of the ultimate end
+petatur. Unde propter illud bonum censetur peccator deserere of that sin, nor is it contrary to the nature of an ultimate end that it
+Deum, et illo fruitur tanquam bono adepto et sufficienti sibi. 245R is desired for something else. Hence, on account of that good the sin-
+Aliorum
+responsio
+probabilis.
+Quapropter aliter responderi potest, si plura peccata mortalia ner is thought to forsake God and he enjoys that just as a good that is
+245 tantum successive committantur, tunc peccatorem toties inten- both attained and sufficient for him. For this reason one can respond A probable
+response of
+others.
+dere vel mutare finem ultimum, quoties de novo mortaliter in another way: if many mortal sins are committed only successively,
+4Quotation is not exact.
+5I am not sure which verse Suárez has in mind. Cf. vss. 37–38: ‘Whoever loves father or mother more than me is not worthy of me; and whoever loves son or daughter more
+than me is not worthy of me; and whoever does not take up the cross and follow me is not worthy of me’.
+
+-- 7 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 8
+peccat, præsertim si peccatum sit diversum a præcedentibus, then the sinner intends or changes his ultimate end as many times as he
+vel illi repugnans quantum ad conversionem: nam quamvis 250R sins mortally concerning something new, especially if the sin is differ-
+præcedentia peccata semper moveant habitualiter, et quantum ent from the preceding ones or incompatible with it insofar as turning
+250 ad reatum, tamen intentio actualis, vel virtualis peccantis mu- to it. For although the preceding sins always move habitually and with
+tari potest, atque boc modo semper manet fixa in uno ultimo respect to guilt, nevertheless the actual or virtual intention of the sin-
+fine. Si autem simul committat plura peccata mortalia, tunc ner can be changed and in this way always remain fixed on one ultimate
+non convertitur ad singula objecta talium peccatorum ut ad 255R end. If, however, he commits many mortal sins at the same time, then
+fines ultimos totales, sed partiales tantum, et ultimus finis to- he is not turned to a single object of such sins as to complete ultimate
+255 talis erit aggregatum ex illis omnibus. Et hæc responsio est ends but only as to partial [ends], and the complete ultimate end will
+probabilis et facile sustineri potest. be the aggregate of all those. And this response is probable and can
+easily be supported.
+Notatio ad
+probabiliorem
+responsionem.
+12. Vera tamen doctrina, ut existimo, est, dupliciter intel- 260R 12. Nevertheless, it is a true doctrine, as I think, that to say that Notes towards a
+more probable
+response.
+ligi posse eum, qui mortaliter peccat, ponere ultimum finem in he who sins mortally places the ultimate end in creatures can be un-
+creatura primo formaliter ac propria intentione: secundo tan- derstood in two ways: first, by a formal and proper intention, second,
+260 tum interpretative, seu imputative. Prior modus verus non est, by an intention that is only interpretative or imputed. In the first way,
+ut recte probant argumenta Adriani et exempla ipsa: non enim it is not true, as the arguments of Adrian and the examples themselves
+omnis peccator dum peccat, ita diligit creaturam circa quam 265R rightly proved. For not every sinner while he sins thus loves the cre-
+peccat ut se, et omnia sua in illam referat, et ut illam amet ated thing concerning which he sins so that he refers himself and all his
+expresse, et formaliter tanquam bonum sibi sufficiens: quin actions to it and so that he loves it expressly and formally as his suffi-
+265 potius nec semper amatur ut finis proximus res illa, circa quam cient good. On the contrary, that thing concerning which he sins is not
+peccatur, sed solum ut medium; ut cum quis furatur propter even always loved as a proximate end but only as a means. For example,
+mœchiam, non constituit finem in objecto furti, quantum est 270R when someone is enraged on account of an adulteress, he does not con-
+ex formali intentione sua. Posterior igitur modus verus est, stitute his end in the object of his rage insofar as his formal intention is
+nam quia peccator propter bonum creatum deserit suum finem concerned. Therefore, in the latter way it is true, for because the sinner
+270 ultimum et bonum illud præfert divinæ amicitiæ, ideo inter- deserts his ultimate end on account of a good created thing and prefers
+pretative censetur diligere illam creaturam plus quam Deum, that good to divine friendship, he therefore is thought interpretatively
+ut amicum et ultimum finem: et hac ratione imputative et in- 275R to love that created thing more than God as a friend and ultimate end.
+terpretative dicitur ponere ultimum finem in creatura. And for this reason he is said interpretatively and by imputation to
+place his ultimate end in a created thing.
+Auctoris
+responsio ad
+3. argum. in fine
+num. 2.
+13. Ex qua doctrina est facilis responsio ad difficultatem 13. With this doctrine there is an easy response to the posited diffi- The response of
+the author to the
+3rd argument at
+the end of n. 2.
+275 positam: cum enim dicimus, non posse aliquem intendere culty. For when we say that someone cannot intend multiple ultimate
+plures ultimos fines, <34> intelligendum id est de propria et 280R ends, it should be understood concerning proper and formal intention,
+formali intentione, nam in hac reperitur repugnantia supra for in this is found the repugnance posited above. But on the other
+posita, at vero interpretative tantum, et secundum moralem hand if it is only about interpretative intention and according to moral
+imputationem non repugnat intendere plura ut ultimos fines, imputation, then it is not repugnant to intend multiple things as ulti-
+280 quia tunc in actibus formalibus non est repugnantia, quia mate ends, because then there is not a repugnance in formal acts, be-
+neuter eorum tendit in objectum suum formaliter, ut in sum- 285R cause neither of them tends to the object itself formally, as sufficient
+mum bonum sufficiens: id autem quod implicite tantum, et in- for the highest good. Moreover, that which only implicitly and inter-
+
+-- 8 of 9 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 3 9
+terpretative continetur in actu, non variat rationem operis, nec pretatively is contained in the act does not vary the nature of the work
+modum operandi; unde fit, ut peccator in informali modo suo nor the mode of acting. Hence it happens that the sinner in his infor-
+285 operandi aliquid amet ut medium, et tamen illi imputetur, ac mal mode of acting loves something as a means and yet it is imputed to
+si amaret ut finem: et idem est de amore talis objecti super alia 290R him as if he had loved it as end. And likewise concerning love of such
+bona: nam quantum est ex formali affectu, non semper diligit an object beyond other goods. For insofar as it is from a formal affect,
+illud plus quam alia omnia: tamen interpretative illi imputatur, the person does not always love it more than all others. Nevertheless,
+ac si ita diligeret. interpretatively it is imputed to him as if he loves it thus.
+
+-- 9 of 9 --

@@ -1,0 +1,829 @@
+Last revision: March 17, 2016Francisco Suárez, S. J.
+DISPUTATIO METAPHYSICA X, SECT. 11
+© Sydney Penner 2016
+<328, col. a>2
+DE BONO SEU BONITATE TRANSCENDENTALI. ON TRANSCENDENTAL GOOD OR GOODNESS.
+1. Haec est ultima proprietas simplex, quae enti This is the last simple property attributed to being. With re-
+attribuitur, de qua imprimis supponimus bonitatem spect to it we assume in the first place that there is goodness.
+esse: id enim tam certum et per se notum est, ut This is so certain and self-evident that it does not require
+non indigeat probatione: nam et Scriptura dicit, proof. For both the Scriptures say that God saw goodness
+5 vidisse Deum bonitatem in creaturis a se productis, 5R in the creatures made by him (Genesis 1[:31]) and Aristotle
+Genesis primo et Aristoteles dixit, bonum esse, quod says that the good is what all things desire (Nicomachean
+omnia appetunt, 1. Ethicorum cap. 1. Unde, quam Ethics I, ch. 1). Hence, just as it is certain and cognized
+<col. b> est certum et experimento cognitum, esse through experience that there is in things a natural incli-
+in rebus naturalem inclinationem seu appetitum nation or appetite for something, so also it is known that
+10 ad aliquid, tam est etiam notum, esse bonum, seu 10R there is good or goodness in things. Having posited this, it
+bonitatem in rebus. Hoc ergo posito explicandum remains to explain what goodness is, its kinds, and which of
+est, quidnam bonitas sit, et quotuplex, et quaenam those kinds is an attribute of being and how it is related to
+illarum sit passio entis, et quomodo ad ipsum ens being itself.
+comparetur.
+SECTIO 1. SECTION 1.
+QUID BONUM, SEU BONITAS SIT. WHAT GOOD OR GOODNESS IS.
+1. Cum bonum nomen sit connotativum, seu de- 1. Since ‘good’ is a connotative or denominative name, we are
+nominativum, hic non inquirimus, quid illud sit, not here inquiring into what that is which is denominated
+quod bonum denominatur: nam certum est, illud good. For it is certain that, commonly speaking, it is being
+in communi loquendo, esse ens, quod natura seu that precedes good by nature or by ratio, as was said above
+5 ratione bonum antecedit, ut in superioribus dictum 5R and will be made more clear in what follows. But we are
+est, et ex sequentibus magis constabit, sed inquir- inquiring into what that form or ratio is according to which
+imus, quaenam sit illa forma seu ratio, a qua res a thing is denominated good. There is the same variety of
+1Latin text . . . by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked
+the text against the Vivès edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition
+does not have marginal notes; many, though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at
+the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 20 --
+
+Suárez, DM X, sect. 1 2
+bona denominatur. In qua explicanda eadem est opinions in explaining this as with the other attributes of
+varietas opinionum, quae in caeteris passionibus being.
+10 entis.
+2. Prima opinio ait, bonitatem non dicere ali- 10R 2. The first opinion says that goodness does not express
+quam rationem realem, sed solum relationem ratio- some real ratio but only a conceptual relation of agreeability
+nis convenientiae unius ad alterum. Quae opinio of one thing to another. Capreolus mentions this opinion in
+indicatur a Capreolo 2. dist. 34. q. 1. et in hunc II, dist. 34, q. 1. It is explained in this way: For goodness,
+15 modum explicatur. Nam bonitas, ut ex ipsa voce as is clear from the word itself and from the way it is com-
+et ex communi modo concipiendi constat, non ad- 15R monly conceived, does not add any privative ratio to being,
+dit enti aliquam rationem privativam, quia privatio because privation rather expresses a lack of perfection or
+potius dicit carentiam perfectionis seu bonitatis: goodness. Therefore, it expresses a positive nature. Again,
+dicit ergo positivam rationem. Rursus, non dicit goodness does not formally express the ratio itself of entity,
+20 formaliter ipsam rationem entitatis, tum quia haec both because we conceive and explain these two with dif-
+duo diversis conceptibus ac definitionibus a nobis 20R ferent concepts and definitions, and also because otherwise
+concipiuntur et explicantur, tum etiam, quia alias goodness would not be a property of being but rather the
+bonitas non esset proprietas entis, sed potius voces two words ‘being’ and ‘good’ would be synonymous. Neither
+illae essent synonymae. Neque etiam bonitas potest can goodness include entity in its concept and add some-
+25 in suo conceptu includere entitatem, et aliquid illi thing to it, since a property does not intrinsically include
+addere, quia proprietas non includit intrinsece in 25R the ratio or essence of its subject in its concept. It is nec-
+conceptu suo naturam seu essentiam sui subiecti. essary, therefore, that goodness express something added
+Necesse est ergo ut bonitas dicat aliquid superad- to being. But this cannot be something real, because, as
+ditum enti: sed hoc non potest esse aliquid reale: was shown extensively above concerning the attributes of
+30 quia ut supra late ostensum est de passionibus en- being in general, to real being as such no real ratio that is an
+tis in communi, enti reali ut sic non potest addi 30R attribute of it can be added, whether distinct ex nature rei or
+aliqua ratio realis non solum ex natura rei, verum even only conceptually distinct. Also, because such a ratio
+nec ratione distincta, quae sit passio eius. Item can neither be something absolute nor a real relation, as we
+quia nec talis ratio potest esse absoluta, nec rela- will prove below. Therefore, good can only add something
+35 tio realis, ut infra probabimus: ergo solum addere conceptual to being, which cannot be anything other than
+potest bonum supra ens, aliquid rationis, quod non 35R the aforementioned relation of agreeability.
+potest esse, nisi praedicta relatio convenientiae. Qui This line of thinking seems to belong to St. Thomas in
+discursus videtur esse D. Thomae q. 1. De veritate On Truth, q. 1, art. 1 and q. 21, art. 1. It can, moreover, be
+art. 1. et q. 21. art. 1. Et confirmari potest quia confirmed because goodness and desirability are the same
+40 bonum et appetibile in re idem sunt, quamvis his in reality, even though these names do not signify the same
+<329> nominibus non idem respectus significetur: 40R respect. For desirability expresses a formal denomination
+nam appetibile dicit formalem denominationem ab from appetite or a respect to it; good, however, does not
+appetitu, vel respectum ad illum: bonum autem express that [respect] formally but rather expresses that
+non id dicit formaliter, sed id, quod ex parte obiecti which on the part of the object is the foundation of such a
+
+-- 2 of 20 --
+
+Suárez, DM X, sect. 1 3
+45 est fundamentum talis denominationis, seu habi- denomination or habitude.3 On account of that the following
+tudinis: propter quod haec causalis vera est, quia 45R causal [claim] is true: Because it is good, it is desirable. But
+bonum est, est appetibile. Sed omnis res appetitur, every thing is desired on account of the agreeability which
+propter convenientiam, quam habet cum appetente: it has with the one desiring. For each one loves what is
+amat enim unusquisque, quod conveniens est: ergo agreeable. Therefore, the ratio of good consists in this ratio
+50 ratio boni in hac ratione convenientiae consistit: of agreeability. Moreover, this ratio of agreeability is nothing
+haec autem ratio convenientiae non est nisi relatio, 50R but a relation, as the very word shows through itself. And it
+ut ipsa vox prae se fert: et explicari potest, quia res can be explained because the very same thing with respect
+eadem quoad omnia absoluta huic est conveniens, to everything absolute is agreeable to this and disagreeable
+illi disconveniens, ut calor est conveniens igni, et to that, as heat is agreeable to fire and disagreeable to water.
+55 disconveniens aquae: ergo consistit convenientia in Therefore, agreeability consists in a relatio. Moreover, it does
+relatione, et non reali, ut ostendemus: ergo rationis. 55R not consist in a real relation, as we will show, [so it must]
+therefore [consist in] a conceptual one.
+Bonitas non est relatio rationis. Goodness is not a conceptual relation.
+3. Sed nihilominus haec opinio virtute improbata 3. But this opinion, however, has been implicitly disproven
+est in superioribus, quoad duo. Primum quod neget, above in two ways. First, because it denies that these at-
+has passiones entis includere in conceptu suo for- tributes of being include entity in their formal and intrinsic
+mali et intrinseco entitatem, quod tam in communi, concepts, which we showed to be false as much in general as
+5 quam in singulis supra tractatis ostendimus esse 5R in the individual cases discussed above. It seems even more
+falsum, et in praesenti videtur manifestius: nam obvious in the present case. For what does not include entity
+quod entitatem non includit, nihil est: quis autem is nothing. But who would conceive goodness to be nothing,
+concipiat bonitatem esse nihil, cum illa trahat ap- when it draws desire and is said to have the ratio of a final
+petitum, et rationem causae finalis habere dicatur, cause and is the very perfection of a thing, either wholly or
+10 et sit ipsa perfectio rei, vel integra, vel ex parte ut 10R in part, as we will explain? Hence, St. Thomas, in ST Ia.48.5,
+explicabimus? Unde D. Thomas 1. p. q. 48. art. 5. [co.], says that good consists essentially and principally in
+dicit, bonum per se et principaliter consistere in perfection.4 But perfection without entity is unintelligible.
+perfectione: perfectio autem sine entitate, neque Hence, Augustine says in On Christian Doctrine I, ch. 32,
+intelligi potest. Unde Augustinus lib. 1. De doctrina that ‘insofar as we are, we are good’.
+15 Christiana cap. 32. ait, quod in quantum sumus, 15R Second, [because it holds that] a conceptual relation is
+boni sumus. Secundum est, relationem rationis esse an attribute of being. For, speaking strictly speaking about
+passionem entis, nam loquendo proprie de relatione conceptual relations as they express something fabricated
+rationis, prout dicit aliquid mente confictum, et by the mind and added, as it were, to things, we showed this
+3I am using ‘habitude’ as a placeholder translation for habitudo (rather than translating it with ‘relation’, as Garcia and Davis do), since it is pretty
+clear from DM XLVII that Suárez at least some of the time makes a distinction between habitudo and relatio. My ‘habitude’ should be taken in the
+archaic usage found in, e.g., Locke and Berkeley; cf. the second definition in the entry in the OED.
+4‘I reply that bad, as was said above, is the privation of good, which consists principally and essentially in perfection and actuality’ (Respondeo
+dicendum quod malum, sicut supra dictum est, est privatio boni, quod in perfectione et actu consistit principaliter et per se).
+
+-- 3 of 20 --
+
+Suárez, DM X, sect. 1 4
+quasi additum rebus, ostendimus id esse falsum, to be false and it obviously remains true in the present case.
+20 et in praesenti evidenter etiam constat. Primo quia, 20R First, because, as Aristotle teaches at the end of Metaphysics
+ut Aristoteles docet 6. Metaphysicae in fine, Bonum VI, good is in things, and in this he distinguishes it from the
+est in rebus, et in hoc distinguit illud a vero, non true. Therefore, it is not formally a mere conceptual relation.
+est ergo formaliter sola relatio rationis. Deinde quia Also, because St. Thomas says in ST Ia.5.5, [s. c.], drawing
+Augustinus. ut ex Augustino, lib. De natura boni cap. 3. trac- on ch. 3 of Augustine’s On the Nature of the Good, that ‘good Augustine.
+25 tat D. Thomas 1. p. q. 5. art. 5. Bonum consistit in 25R consists in mode, species, and order’ (which we will explain
+modo, specie, et ordine, quod etiam infra expone- below). These, however, are not fashioned through the intel-
+mus: haec autem non sunt conficta per intellectum, lect, but exist in things themselves. Therefore, neither is the
+sed in rebus ipsis existunt: ergo neque ratio boni. ratio of good [fashioned through the intellect]. Likewise, be-
+Item, quia haec est differentia inter verum bonum, cause the difference between true good and apparent [good]
+30 et apparens, <col. b> quod apparens solo intellectu 30R is this: the apparent good is only imagined and apprehended
+fingitur, et apprehenditur, verum autem bonum in by the intellect, but the true good subsists in reality itself
+re ipsa subsistit, et ante omnem fictionem intellec- and is assumed prior to every imagination of the intellect.
+tus supponitur: unde de Deo dicitur; vidit omnia Hence, it is said of God: ‘He saw all the things which he
+quae fecerat, et erant valde bona, at non vidit in eis had made and they were very good’.5 But he did not see
+35 relationem rationis, non ergo consistit bonitas in 35R a conceptual relation in them. Therefore, goodness does
+ficta relatione neque haec ad illam requiritur. not consist in a fashioned relation nor is this required for
+goodness.
+4. Sunt vero, qui dicant, quamvis aliquae re- 4. But there are those who say that although some
+lationes rationis tales sint, quae a fictione et cogi- conceptual relations are such that they depend on the fash-
+tatione intellectus pendeant, ut relationes generis, 40R ioning and thinking of the intellect (for example, the relations
+40 vel speciei, alias vero esse quae sunt in rebus ipsis of genera and species), others are such that they are in the
+absque cogitatione intellectus, ut relatio creatoris things themselves apart from the intellect’s cogitation (for
+vel domini in Deo. Sed hi vel aequivoce loquuntur example, the relation of being creator or lord in God).
+de relationibus, vel in verbis involvunt repugnan- But these people are either speaking equivocally or are
+tiam. Quomodo enim in rebus ipsis sunt ante opus 45R involved in a contradiction of words. For how can they be in
+45 rationis, si relationes rationis esse dicuntur? Aut the things themselves before the work of reason if they are
+in quo differunt a relationibus realibus, si sunt said to be conceptual relations? Or how do they differ from
+subiective in rebus, et non tantum obiective in in- real relations if they are in things as in a subject and not just
+tellectu? Nec illae denominationes creatoris aut in the intellect as its objects? Nor are these denominations of
+domini prout intelliguntur antecedere cogitationem 50R ‘creator’ or ‘lord’ insofar as they are understood to precede the
+50 intellectus sumuntur a relationibus rationis, de quo thinking of the intellect taken up from conceptual relations
+alias. Adde, qualiscumque haec relatio fingatur, ([we will talk] about this elsewhere). In addition, however this
+non posse in ea rationem bonitatis consistere, quod relation is fashioned, the ratio of goodness cannot consist in
+magis constabit ex his, quae de relatione reali dice- it. This will become clearer from what we will say about real
+mus. Fundamentum autem huius sententiae ad 55R relations. Moreover, the foundation of this opinion at most
+5Genesis 1:31.
+
+-- 4 of 20 --
+
+Suárez, DM X, sect. 1 5
+55 summum probat, bonum praeter totam intrinse- proves that ‘good’, besides connoting the whole intrinsic
+cam rei entitatem connotare aliquid aliud extrinse- entity of a thing, also connotes some other extrinsic thing or
+cum, seu denominationem sumptam ex consortio a denomination taken up from the conjunction of multiple
+plurium, praesertim, quando una res dicitur bona things, especially when one thing is said to be good for
+alteri, ut infra declarabimus. 60R another, as we explain below.
+Bonitas non est relatio realis. Goodness is not a real relation.
+5. Secunda sententia ponit, rationem bonitatis in 5. The second opinion posits that the ratio of goodness con-
+aliqua relatione reali superaddita enti consistere. sists in some real relation added to being. This opinion is to
+Quae opinio fundanda ac declaranda est sumpto be supported and declared by assuming the principle proven
+principio contra praecedentem sententiam probato, against the previous view, [namely, that] goodness must con-
+5 bonitatem consistere debere in ratione aliqua re- 5R sist in some real ratio. For the former [i.e., goodness] cannot
+ali: nam illud non potest esse mere absolutum, ut be simply absolute, as is sufficiently proven by the argument
+probat satis argumentum factum, quod eadem res that was made from the fact that the same thing with re-
+respectu unius sit bona, et respectu alterius mala: spect to one thing is good and with respect to another is bad.
+erit ergo relatio realis. Quae sententia tribuitur Du- Therefore, it will be a real relation. This view is attributed to
+10 rando in 2. dist. 34. q. 1. Sed cum Durandus in aliis 10R Durandus, II, dist. 34, q. 1. But since Durandus also denies
+etiam rebus neget proprias relationes reales, alia est proper real relations in other things, he means something
+in praesenti mens eius, ut infra videbimus. Cuius- different in the present case, as we will see below.
+cumque autem sit illa sententia, manifeste falsa Moreover, this view is obviously false regardless to whom
+est. Quod eisdem argumentis, quibus de veritate id it might belong. The same arguments by which we proved
+15 probavimus, cum proportione applicatis hic ostendi 15R this concerning truth can show this, when applied propor-
+potest. Primo, quia Deus ab aeterno bonus est boni- tionally. First, [it is false] because God is good from eternity
+tate transcendentali communi <330> tribus perso- by a transcendental goodness common to the three persons
+nis, et tamen in eo nulla est relatio realis communis [of the Trinity] but there is in him no real relation common
+tribus personis. Secundo, quia calor, ubicumque to the three persons.
+20 existat, habet totam suam bonitatem, etiamsi ignis 20R Second, because heat has all its goodness whenever it
+non existat, neque aliquod aliud subiectum, cui con- exists, even if neither fire nor any other subject to which
+veniens sit calor: ergo, et tunc non habet relationem heat is agreeable exists. Therefore, heat also does not have
+realem convenientiae: ergo non consistit bonitas a real relation of agreeability in that case. Therefore, [its]
+in hac relatione. Tertio, etiam quando calor existit goodness does not consist in this relation.
+25 in igne, vel iustitia in homine, non est bonum eius 25R Third, even when heat exists in fire or justice in a human
+propter relationem realem: nam hoc ipso, quod talis being, they are not their good on account of a real relation.
+forma per suam entitatem absolutam informat tale For they are their good and perfection simply in virtue of the
+subiectum, est bonum et perfectio eius, praecisa fact that such a form through its absolute entity informs
+omni insurgente relatione, vel secundum realem du- such a subject, apart from any relation that arises, whether
+9 tribuitur ] attribuitur V.
+
+-- 5 of 20 --
+
+Suárez, DM X, sect. 1 6
+30 rationem, si revera nulla est talis relatio, vel secun- 30R according to real duration (if there really is no such relaion)
+dum intellectum, et naturae ordinem: prius enim or according to the intellect and order of nature. For such
+natura sunt talia extrema secundum suas entitates relata (extrema) according to their entities and absolute per-
+et perfectiones absolutas, quam inter ea insurgat fections are prior in nature to a relation that arises between
+relatio. Quarto, quia, vel relatio illa realis dicit per- them.
+35 fectionem, et entitatem realem, vel non. Si non dicit 35R Fourth, because either that real relation expresses real
+(ut multi existimant) aliquam perfectionem realem, perfection or entity or not. If, as many think, it does not
+quomodo potest esse bonitas alicuius rei, cum boni- express some real perfection, how can it be the goodness
+tas perfectionem dicat? Si autem dicit perfectionem, of some thing when goodness expresses perfection? But
+ergo et bonitatem: dicit ergo realem relationem con- if it expresses perfection, then it also expresses goodness.
+40 venientiae, et illa relatio erit eius bonitas: et sic 40R Therefore, it expresses a real relation of agreeability and that
+procedetur in infinitum, quod argumentum vulgare relation will also be its goodness. And thus one proceeds to
+est in relationibus. Vel si illa relatio est conveniens infinity. This argument is common with relations.6 Or, if that
+et bona absque tali relatione convenientiae, idem relation is agreeable and good apart from such a relation of
+facillime intelligi poterit in quacumque forma, vel re agreeability, the same could very easily be understood in the
+45 absoluta. 45R case of any absolute form or thing.
+Bonitas nihil absolutum dicit in re distinctum ab en- Goodness expresses nothing absolute that is really distinct
+titate. from entity.
+6. Tertia sententia est, bonitatem dicere quamdam 6. The third view is that goodness expresses a kind of
+proprietatem absolutam ac realem superadditam absolute and real property added to being that is ex natura
+enti, et ex natura rei seu formaliter distinctam ab rei distinct from the latter. This view is attributed to Scotus
+illo, quae sententia tribuitur Scoto in 1. dist. 3. q. 3. in I, dist. 3, q. 3, and in other places that were treated above.7
+5 et aliis locis, quae supra tractata sunt, et videre licet 5R It may also be seen in Capreolus in II, dist. 34, q. 1. It can be
+in Capreolo 2. dist. 34. q. 1. Et potest probari ex proven from what was said by a sufficient enumeration. For
+dictis sufficienti enumeratione, quia bonitas oportet goodness must be something real and it cannot be a relation.
+ut sit aliquid reale, et non potest esse relatio: ergo Therefore, it must be something absolute. And in order to be
+debet esse absolutum. Et ut sit proprietas oportet a property, it must be distinguished in reality in some way.
+10 ut in re aliquo modo distinguatur. Sed contra hanc 10R But everything that was said about the attributes of
+sententiam procedunt omnia, quae in communi de being in general and about unity and truth in particular goes
+passionibus entis, et in particulari de unitate, et against this view. Furthermore, in order to better understand
+veritate dicta sunt. Et praeterea, ut clarius in prae- what is false in the present case, we can distinguish two
+senti falsa esse intelligatur, distinguere possumus, ways in which some being can be called good. In one way
+15 dupliciter ens aliquod dici bonum, uno modo abso- 15R absolutely and in itself, namely, because it is good in itself
+lute et in se, scilicet, quia in se bonum est, quomodo in the way that God is called good or a human being is called
+6Cf. DM 47.4.7.
+7DM 3.1.2.
+
+-- 6 of 20 --
+
+Suárez, DM X, sect. 1 7
+dicitur Deus bonus, aut homo bonus. Alio modo dic- good. Something is called good in the second way when it
+itur aliquid bonum, <col. b> quia alteri bonum est, is good for something else, in the way that virtue is said to
+quomodo virtus dicitur esse bona, quia bonum facit be good because it makes the one who has it good. In this
+20 habentem, et sic ait D. Thomas q. 21. De veritate art. 20R way St. Thomas says in On Truth, q. 21, art. 1, that good
+1. bonum dicere rationem perfectivi alterius. De qua expresses a ratio perfective of another.
+distinctione statim plura dicemus. Res ergo, quae We shall immediately say more about this. The thing
+dicitur bona alteri, non potest denominari bona ab that is said to be good for something else, then, cannot be
+aliquo modo reali et absoluto ex natura rei distincto denominated good from some real and absolute mode that
+25 ab entitate eius: quia huiusmodi res praecise con- 25R is ex natura rei distinct from its entity, because a thing of
+cepta in sua entitate, ratione illius est conveniens this kind when conceived precisely in that entity by reason
+ei, cui bona dicitur, ut sanitas per seipsam et non of which it is agreeable to that other thing is said to be good
+ratione alicuius modi superadditi, est conveniens for it. For example, health is agreeable to an animal in itself
+animali, et virtus aut scientia ex eo praecise quod and not by reason of some mode added to it, and virtue or
+30 virtus et scientia est, est conveniens homini: omnino 30R science are agreeable to a human being precisely from their
+ergo fictum est ponere in huiusmodi formis modos being virtue or science. It is, therefore, entirely fictitious to
+superadditos, quibus bonae sint: praescindamus posit added modes to these forms by which they are good.
+enim per intellectum talem modum, et considere- For if we prescind from such a mode through the intellect
+mus in scientia solam essentiam eius, et inveniemus and we consider in science only its essence, we shall also
+35 illam convenientem, valdeque proportionatam hu- 35R find it agreeable and very proportional to the human intellect.
+mano intellectui. Et similiter forma ex eo praecise Likewise, form is good for and agreeable to matter precisely
+quod forma est, est bona et conveniens materiae, et from the fact that it is form. Likewise in other cases.
+sic de aliis. Adde, hic etiam habere locum argumen- Let us add that the argument about that added mode
+tum illud, quod de illo modo superaddito interrogari also has a place here. One could ask about the mode whether
+40 poterit, an sit conveniens alteri necne: nam si con- 40R it is agreeable to another or not. For if it is not agreeable,
+veniens non est, quomodo forma illo modo affecta then how can the form affected by that mode be agreeable
+ratione illius potest esse conveniens? Si autem by reason of it? But if that mode is also agreeable through
+etiam ille modus conveniens est per seipsum (ne itself (lest we proceed further and to infinity), the form could
+ulterius et in infinitum progrediamur) etiam forma also be agreeable in virtue of its own essence or ultimate
+45 ex vi suae essentiae, seu differentiae ultimae per 45R difference.
+seipsam poterit esse conveniens.
+7. Et hinc facile intelligitur, in re, quae bona dic- 7. And from this it is easily understood that in a thing
+itur in se et absolute, etiam esse confictum modum which is said to be good in itself and absolutely, that mode
+illum. Aut enim res dicitur bona essentialiter, aut has also been constructed. For the thing is said to be good ei-
+50 accidentaliter, quomodo dicitur bonus homo stu- ther essentially or accidentally (in the way in which someone
+diosus. Hoc posteriori modo est quidem bonitas 50R studious is said to be good). In the second way, goodness
+aliquid distinctum ab ipsa re, quae denominatur is indeed something distinct from the thing itself that is de-
+bona, ut sanitas est distincta a sano, et pulchri- nominated good, as health is distinct from what is healthy
+tudo a pulchro: unde interdum est modus rei sic and beauty from what is beautiful. Hence, sometimes it is
+
+-- 7 of 20 --
+
+Suárez, DM X, sect. 1 8
+55 affectae ut figura, interdum vero est entitas addita a mode of a thing thus affected (for example, figure), but
+alteri enti ad perficiendum illud, ut scientia additur 55R sometimes it is an entity added to another being in order to
+intellectui. Non tamen est haec bonitas, quam nunc perfect it (for example, science added to an intellect).
+consideramus, quia talis bonitas respectu illius en- But this is not the goodness that we are now consider-
+tis cui accidit, non est intrinseca passio entis, sed ing, since with respect to the being in which such goodness
+60 est quoddam accidens eius: unde non est bonitas happens to fall it is not an intrinsic attribute of that being.
+transcendentalis, sed potest dici bonitas formalis, 60R Rather, it is a kind of accident of it. Hence, it is not transcen-
+vel materialis, vel obiectiva, vel alia similis iuxta dental goodness, but rather may be called goodness that is
+varios respectus convenientiae, quos una res potest formal or material or objective or something else like that,
+ad alteram habere. Nisi forte consideretur illa boni- according to the various respects of agreeability that one
+65 tas respectu ipsiusmet rei vel formae, quae bona thing can have to another. Unless, perhaps, that goodness
+alteri dicitur, de <331> qua iam dictum est: vel 65R is considered with respect to the very thing or form that is
+respectu totius constituti per illam, quomodo est said to be good for another (which was already discussed), or
+intrinseca pars entitatis eius, sicut forma est intrin- with respect to the whole constituted through it. In the latter
+seca pars compositi, et dici potest quoddam bonum, way, goodness is an intrinsic part of its entity, just as a form
+70 vel bonitas eius, et sic iam pertinet ad bonitatem es- is an intrinsic part of the composite and can be said to be a
+sentialem illius constituti ut sic. De hac ergo etiam 70R kind of good or goodness of it. Thus it already belongs to the
+est evidens non posse addere modum intrinsecum et essential goodness of what is constituted as such.
+absolutum ex natura rei distinctum ab entitate rei: Concerning this goodness, then, it is also evident that
+quia bonitas totius non est, nisi quae consurgit ex it cannot add an intrinsic and absolute mode that is ex
+75 bonitate partium: sed ostensum est, bonitatem for- naturae rei distinct from the entity of the thing, since the
+mae non addere aliquid intrinsecum ultra formam, 75R goodness of the whole is nothing other than what arises
+et consequenter nec bonitatem materiae supra ma- from the goodness of the parts. But it was already shown
+teriam, nec bonitatem unionis supra unionem, ergo that the goodness of a form does not add anything intrinsic
+nec bonitas compositi addet aliquam proprietatem beyond the form. Consequently, neither does the goodness
+80 distinctam supra totam entitatem compositi ut sic. of matter add anything intrinsic beyond the matter nor the
+Et declaratur applicando argumentum factum: nam 80R goodness of a union anything beyond the union. Therefore,
+praecisa illa proprietate manent in illo composito neither does the goodness of the composite add any distinct
+tota bonitas materiae, et formae, inter se unitae: property beyond the whole entity of the composite as such.
+ergo et bonitas compositi. Quod si neque in ente This is shown by applying the argument already made. For,
+85 composito bonitas addit illum modum, neque etiam prescinding from that property, the whole goodness of the
+in ente simplici quod ordinatur ad aliud componen- 85R matter and of the form that are united to each other remains
+dum: evidenter infertur, etiam in substantiis simpli- in the composite. Therefore, the goodness of the composite
+cibus bonitatem substantialem seu essentialem vel also [remains]. But if goodness does not add that mode
+transcendentalem nihil intrinsecum addere entitati either to a composite being or even to a simple being that is
+90 earum, est enim eadem vel maior ratio: quia haec ordered to composing another being, it is obviously inferred
+entia sunt et simpliciora et perfectiora. 90R that substantial or essential or transcendental goodness
+also does not add anything intrinsic to the entity of simple
+
+-- 8 of 20 --
+
+Suárez, DM X, sect. 1 9
+substances. In fact, the argument is as strong or stronger
+[in this case], since these beings are both more simple and
+more perfect.
+8. Et hinc a fortiori impugnatur opinio, quam 95R 8. From here the opinion to which Soncinas refers in
+refert Soncinas 4. Metaphysicae q. 19. quae as- Metaphysics IV, q. 19—which asserts that this transcenden-
+serebat, bonitatem hanc transcendentalem esse tal goodness is a certain accident that truly and properly
+95 accidens quoddam vere ac proprie pertinens ad belongs to the category of quality—is a fortiori challenged.
+praedicamentum qualitatis. Quod est evidenter That view is evidently false, both because a transcendental
+falsum, tum quia praedicatum transcendens non 100R predicate cannot be limited to one genus and because each
+potest ad unum genus limitari, tum etiam quia un- thing is good through itself. This is not only most certain
+aquaeque res per seipsam bona est, quod non solum in the case of God but also in the case of other beings from
+100 in Deo est certissimum, sed etiam in aliis entibus, the reasoning given. A soul, for example, precisely by rea-
+ex discursu facto. Nam anima verbi gratia praecise son of its substance, has something of perfection and is
+ratione suae substantiae aliquid perfectionis habet, 105R good and is agreeable for and desirable to a human being.
+et bona est ac conveniens homini, et appetibilis ab The same is true with quantity and with the qualities them-
+ipso, et idem est in quantitate, et in qualitatibus selves. For there is a proper goodness and perfection in
+105 ipsis: nam in singulis speciebus est propria bonitas each species. Hence, goodness does not constitute a proper
+ac perfectio, unde bonitas non constituit proprium genus or species of quality. Otherwise, one quality would be
+qualitatis genus, vel speciem, alioqui una qualitas 110R good through another quality, which is laughable, especially
+per aliam bona esset, quod est ridiculum: maxime since the same quality can be good for one thing and bad for
+cum eadem qualitas possit esse bona uni, et mala another.
+110 alteri.
+Bonitas absolute non consistit in perfectione reali en- Goodness absolutely does not consist in a real perfection of
+tis. being.
+9. Est ergo quarta sententia, bonitatem nihil al- 9. There is, then, the fourth view that goodness expresses
+iud dicere, quam intrinsecam rei per- <col. b> fec- nothing other than the intrinsic perfection of a thing, a
+tionem quae absoluta est in absolutis, et relativa perfection that is absolute in absolute things and relative
+in relativis. Unde fieri videtur consequens, bonum in relative things. From this it seems to follow that good is
+5 nihil aliud esse quam ipsum ens, quatenus in se 5R nothing other than the being itself insofar as it has something
+aliquid perfectionis habet. Haec opinio tribuitur of perfection in itself. This opinion is attributed to Hervaeus
+Hervaeo Quodlibet 3. q. 2. ibi tamen magis sentit in Quodlibets III, q. 2. Nevertheless, in that [text] he thinks
+bonitatem dicere entitatem, quatenus est perfectiva that goodness expresses entity insofar as it is perfective of
+alterius, seu quatenus ad alterius perfectionem or- something else or insofar as it is ordered to the perfection
+10 dinatur, quam ut in se habet perfectionem aliquam, 10R of something else rather than that it has some perfection in
+de quo sensu infra dicam. Aliter ergo potest expli- itself. I shall talk about this sense below.
+cari haec opinio, quod bonitas uniuscuiusque rei sit This opinion can also be explained in a different way: the
+illa perfectio, qua unaquaeque res in sua entitate goodness of each thing is that perfection by which each thing
+
+-- 9 of 20 --
+
+Suárez, DM X, sect. 1 10
+perfecta est: unde si sit ens simpliciter, erit in se is perfect in its own entity. Hence, if it is a being simpliciter,
+15 habens tantam perfectionem, ratione cuius in se 15R it will hold in itself such perfection by reason of which it will
+etiam erit quoddam bonum: si vero sit ens secun- in itself also be a kind of good. But if it is a being secundum
+dum quid, seu entis ens, ut pars totius, vel accidens quid or a being of a being, either as a part of a whole or as
+subiecti, sic erit bonum illius, cuius est ens, et ra- an accident of a subject, then it will be the good of that for
+tione perfectionis entitativae, quam habet, dicetur which it is a being. By reason of the entitative perfection that
+20 in se quoddam bonum: ea vero ratione, qua illa 20R it has, it will be called a kind of good in itself. But by reason
+perfectio, vel instituta est, vel apta ad perficiendum of the fact that this perfection is either instituted for or apt
+aliud, dicetur bonum alterius. Unde, sicut acci- to perfect something else, it will be called good for another.
+dens eadem entitate est in se ens, et ens alterius, Hence, just as an accident by the same entity is a being in
+ita eadem perfectione est in se, id est, intrinsece itself and a being of another, so also by the same perfection
+25 quoddam bonum, et bonum alterius. Sic ergo recte 25R it is a kind of intrinsic good or good in itself and also the
+intelligitur et explicatur, bonitatem in unaquaque good of another. In this way, then, it is rightly understood
+re, nihil esse praeter uniuscuiusque perfectionem. and explained that the goodness in each thing is nothing
+other than the perfection of each thing.
+10. Probatio autem huius sententiae sic ex- 10. Moreover, the proof for this view explained in this
+positae imprimis sumi potest ex dictis, a sufficienti 30R way can in the first place be taken from what was said by a
+30 enumeratione: quia bonitas non est relatio ratio- sufficient enumeration. For goodness is neither a relation,
+nis nec realis, neque absolutum quid additum enti: whether conceptual or real, nor something absolute that is
+nihil ergo aliud superest, quod esse possit nisi rei added to being. Nothing, then, is left for it to be other than
+perfectio. Deinde, quia bonum et perfectum idem the perfection of the thing. Furthermore, since the good
+sunt, ut docet D. Thomas 1. p. q. 5. art. 1. 3. et 35R and the perfect are the same—as St. Thomas teaches in ST
+35 5. et infra declarabimus: ergo et bonitas et per- Ia.5.1, 3, and 5, and as we will show below8—goodness and
+fectio sunt idem: nam bonum et perfectum non perfection, therefore, are also the same. For the good and the
+materialiter tantum, sed formaliter idem sunt: quia perfect are not only materially but also formally the same,
+unumquodque in tantum bonum est, in quantum since any given thing is good to the same degree that it is
+est perfectum. Denique hoc modo facile concipi et 40R perfect. Finally, in this way the ratio of goodness can easily
+40 declarari potest ratio bonitatis, et nulla ratio est, be conceived and explained. And there is no reason that
+quae cogat ad aliquid aliud addendum, neque quid compels adding anything further, nor can one easily explain
+illud sit, facile potest explicari, vel intelligi, ergo or understand what that would be. This is a sign, then, that
+signum est in hoc consistere rationem bonitatis. the ratio of goodness consists in this.
+11. Sed licet haec sententia videatur per se fa- 45R 11. Yet, although this view may in itself seem easy and
+45 cilis ac perspicua, et magna ex parte rem declaret, perspicuous and may seem to explain the matter for the
+non tamen omnino, et ideo aliquid aliud addere most part, it does not, however, entirely [explain the matter]
+oportet, propter duo. Primo, quia iuxta hanc expo- and so it is necessary to add something further for two
+sitionem, bonum non est passio entis realis, sed reasons. First, because according to this exposition, good is
+essentia eius. Unde bonum et ens potius tamquam 50R not an attribute of real being but is its essence. As a result,
+8See n. 15.
+
+-- 10 of 20 --
+
+Suárez, DM X, sect. 1 11
+50 synony- <332> ma convertentur, quam ut subiec- good and being would more be convertible as synonyms
+tum et passio. Sequela patet, quia nihil est magis than as subject and attribute. The consequence is clear,
+essentiale enti reali, quam habere aliquid perfec- because nothing is more essential to real being than to have
+tionis, et donec concipiatur aliquid ut ens alicuius something of perfection, and until something is conceived
+perfectionis, non concipitur ut ens reale: unde in 55R as a being of some perfection it is not conceived as a real
+55 hoc sensu si aliqua est differentia inter haec duo being. Hence, if in this sense there is a difference between
+nomina, magis erit in etymologia, quam in re sig- these two names, it would be more in etymology than in
+nificata: quia ens sumptum est ab actu essendi, signified things, since being is taken from the act of being
+bonum autem a perfectione, quam formaliter et ex but good from the perfection that the act of being formally
+necessitate includit actus essendi. Secundum est, 60R and necessarily includes. Second, there is the argument
+60 argumentum supra propositum quod eadem res dic- proposed above that the same thing is said to be good for
+itur bona uni et mala alteri, cum tamen eamdem one thing and bad for another, even though it includes the
+perfectionem includat. same perfection.
+Bonitas addit enti rationem convenientiae. Goodness adds a ratio of agreeability to being.
+12. Dicendum ergo est, bonum supra ens solum 12. It should be said, then, that good can only add a ratio
+posse addere rationem convenientiae: quae non est of agreeability to being. This is not properly a relation, but
+proprie relatio, sed solum connotat in alio talem only connotes in another thing a nature that has a natural
+naturam habentem naturalem inclinationem, ca- inclination, capacity, or conjunction with such a perfection.
+5 pacitatem, vel coniunctionem cum tali perfectione: 5R Hence, goodness expresses the perfection itself of the thing
+unde bonitas dicit ipsam perfectionem rei, con- while connoting the aforementioned agreeability or denomi-
+notando praedictam convenientiam seu denomina- nation arising from the coexistence of multiple things. This
+tionem consurgentem ex coexistentia plurium. Hanc is the conclusion that Durandus had in mind in the cited
+conclusionem intendit Durandus citato loco, et pro- place.10
+10 bari potest primo a sufficienti enumeratione ex om- 10R It can be proven, first, by a sufficient enumeration from
+nibus dictis contra alias sententias: et quia nihil all that has been said against the other views and because no
+aliud excogitari potest, illis exclusis. Secundo, quia other view can be thought of once those have been eliminated.
+quae adducta sunt in favorem ultimae sententiae, Second, because what was brought up in favour of the last
+probant sine dubio perfectionem includi in conceptu view proves without doubt that perfection is included in the
+15 bonitatis, et idem etiam confirmant, quae dicta sunt 15R concept of goodness.11 The same [reasons] also confirm what
+contra primam sententiam, quia non potest boni- was said against the first view,12 since goodness cannot fail
+tas non includere entitatem et consequenter per- to include entity and thereby perfection.
+fectionem. Rursus quae obiecta sunt contra ulti- On the other hand, the objections against the last view
+10See n. 5.
+11See the previous paragraph.
+12In n. 3.
+7–8 denominationem ] denotationem V.
+
+-- 11 of 20 --
+
+Suárez, DM X, sect. 1 12
+mam sententiam, optime salvantur posita praedicta are best resolved through the positing of the aforementioned
+20 connotatione: nam illa sufficit ut sit nonnulla dis- 20R connotation. For it is sufficient for there to be some distinc-
+tinctio rationis fundata in rebus inter bonum et tion of reason founded in reality between good and being in
+ens, ut sic possit bonum attribui enti tamquam such a way that good can be attributed to eing as a property
+proprietas, et non esse synonymum cum illo: quia without being synonymous with it. Formally it is one thing
+formaliter aliud est esse seu habere entitatem, al- to be or to have entity, but another thing always in virtue
+25 iud vero ratione entitatis habere semper aliquam 25R of entity to have some agreeability on account of which the
+convenientiam, quam ratio boni declarat. Deinde ratio of good is shown. Furthermore, this is sufficient for
+hoc satis est, ut eadem res, retinens eamdem per- the same thing, retaining the same perfection, to be good for
+fectionem, sit bona uni, et mala alteri: nam cum one thing and bad for another. For when a thing, beyond
+dicitur bona uni, praeter perfectionem eius, quae its perfection that is said to be good, is said to be good for
+30 bona dicitur, connotatur in altera cui bona dicitur, 30R one thing, there is connoted in the other thing for which it
+inclinatio seu capacitas connaturalis alterius, in is said to be good a connatural inclination or capacity for
+alia vero cui mala dicitur, connotatur carentia talis something else. But in the other thing for which it is said
+capacitatis, seu inclinationis, vel potius contraria to be bad, there is connoted the absence of such a capacity
+inclinatio: ergo hoc modo salvantur omnia, quae in or inclination, or, rather, a contrary inclination. In this way,
+35 bonitate inveniuntur absque <col. b> alia relatione 35R therefore, all the things that are found in goodness apart
+adiuncta, ut in simili dictum etiam est de veritate. from any adjoining relation are saved, just as was also said
+Tandem hoc potest declarari inductione in omnibus about truth.
+bonis: nam bonum honestum ex omnium sententia Finally, this can also be shown by induction from every
+dicit bonum quod per se est conveniens naturae ra- [kind of] good. For good that in itself is agreeable to rational
+40 tionali ut sic, bonum item delectabile nihil aliud est, 40R nature as such is called the fine (bonum honestum), accord-
+quam bonum habens convenientiam cum natura ing to everyone’s view. Likewise, pleasurable good is nothing
+sensibili, ut Caietanus late tractat 1.2. q. 32. art. other than good having agreeability with sensible nature, as
+1. explicans quomodo id non sit relatio, sed ipsa Cajetan discusses more widely in ST IaIIae.32.1, explain-
+res ut accommodata tali naturae, quod nihil aliud ing how that is not a relation but the very thing itself as
+45 dicere potest, quam mutuam rerum connexionem, 45R accommodated to such a nature, which can express nothing
+et fundamentalem proportionem: idemque reperitur other than a mutual connection of things and a fundamental
+suo modo in bono utili, quod solum dicit bonum proportion. The same thing is found in its way in the case of
+aptum et accommodatum ad finem intentum. Recte useful good, which the good that is apt and accommodated
+igitur convenientia, quam dicit bonum, praedicto to an intended end is called. Therefore, the agreeability that
+50 modo declaratur. 50R good expresses is rightly explained in the stated way.
+Obiectio. 13. Una tantum superest difficultas, quia hoc 13. Just one difficulty remains: for in this way the ratio Objection.
+modo non adaequate, sed tantum ex parte ratio of good is explained only partially, not adequately. For, as I
+boni explicatur: nam, ut supra dicebam, bonum said above, good is customarily said of things in two ways:
+dupliciter de rebus dici solet, scilicet vel quia res namely, because the thing is good in itself or because it is
+55 in se bona est, vel quia est bona alteri, quae di- 55R good for another. This division is taken from Augustine, On Augustine.
+St. Thomas.	Augustinus.
+D. Thomas.
+visio sumpta est ex Augustino 8. De Trinitate cap. the Trinity VIII, ch. 3, and from St. Thomas, II, dist. 27, q.
+
+-- 12 of 20 --
+
+Suárez, DM X, sect. 1 13
+3. et ex D. Thoma in 2. dist. 27. q. 1. art. 2. ad 1, art. 2, ad 1, On the Virtues q. 1, art. 2, ad 1, and ST
+1. et q. 1. De virtutibus art. 2. ad 1. et 1.2. q. 26. IaIIae.26.4, where he also adds that the good in itself is
+art. 4. Ubi etiam addit id quod in se bonum est, good absolutely and without qualification, but the good for
+60 esse absolute et simpliciter bonum: quod autem est 60R another is only good with qualification. In same sense, St.
+bonum alteri, tantum est bonum secundum quid. Thomas usually says that an accident is not good insofar as
+Quo sensu dicere solet idem D. Thomas accidens it has goodness but because it yields goodness to the subject,
+non esse bonum ut habens bonitatem, sed quia as may be seen in ST III.11.5 ad 3. And in ST IaIIae.55.4
+cedit in bonitatem subiecti, ut videre licet in 3. p. ad 1, he says that the virtues are not so much certain goods
+65 q. 11. art. 5. ad 3. Et 1.2. q. 55. art. 4. ad 1. dicit 65R as certain goodnesses. This was said not because they do
+virtutes, non tam esse bona quaedam, quam boni- not have perfection in themselves, but because that have it
+tates quasdam, quod dictum est, non quia in se non accommodated in order to perfect something else. [This is]
+habeant perfectionem, sed quia eam habent accom- just like accidents being called beings of beings rather than
+modatam ad perficiendum aliud. Sicut accidentia beings, because any given thing only has goodness insofar as
+70 dicuntur esse entis entia potius, quam entia, quia 70R it has being, as the same St. Thomas says in ST IaIIae.18.1.
+tantum habet unaquaeque res de bonitate, quan- Scotus makes the same distinction between good according
+tum habet de esse, ut idem D. Thomas ait 1.2. q. to itself and good with respect to another in Quodlibet 18.
+18. art. 1. Eamdem distinctionem boni secundum On the other hand, the aforementioned ratio of goodness
+se, seu respectu alterius habet Scotus Quodlibet 18. as explained by us only applies to a thing insofar as it is
+75 At vero praedicta ratio boni, ut a nobis explicata est, 75R said to be good for another. For that a thing’s being good
+solum convenit rei, ut dicitur bonum alterius: sub expresses a perfection of such a thing connoting a capacity,
+hac enim ratione optime explicatur, quod rem esse inclination or some other similar connection to another thing
+bonam dicat perfectionem talis rei, connotando in is best explained under this ratio. But this cannot apply to
+altera capacitatem, inclinationem, vel aliam similem that goodness by which a thing is said to be good in itself,
+80 connexionem: hoc autem non potest convenire illi 80R since this goodness is said completely absolutely and without
+bonitati, qua res dicitur in se bona, quia haec boni- any respect to something else, even a respect according to
+tas omnino absolute dicitur, et absque ullo respectu being said or [only] in foundation. Therefore, neither the
+ad aliud, etiam fundamentali seu secundum dici: adequate nor the principal ratio of good can be explained in
+ergo illo modo <333> non explicatur adaequata, this way.
+85 nec praecipua ratio boni.
+1. Responsio. 14. Ad hanc difficultatem responderi potest 85R 14. To this difficulty can be responded, first, that we 1st response.
+primo, nos hic describere bonitatem, quae est pas- are describing here the goodness that is an attribute of
+sio entis: bonum autem solum esse passionem entis being. But good can only be an attribute of being insofar
+prout dicit convenientiam ad alterum seu prout est as it expresses agreeability to another thing or insofar as
+90 bonum alteri: hoc enim modo distinguitur bonum it is good for something else. For in this way good is in
+aliquo modo ab ente, et convenit omni enti, etiam 90R some way distinguished from being and [yet] applies to every
+perfectissimo: Deus enim, qui summe bonus est, being, even the most perfect being. For God, who is the
+etiam est bonum aliorum: nam Deus clare visus est highest good, is also the good for other things. For God
+58 et ] om. V.
+
+-- 13 of 20 --
+
+Suárez, DM X, sect. 1 14
+summum bonum obiectivum creaturae rationalis, et having been seen clearly is the highest objective good of
+95 Verbum Divinum est maximum bonum humanitatis rational creatures and the divine Word is the greatest good
+Christi. Bonum autem absolute sumptum, scilicet, 95R for Christ’s humanity.
+prout est bonum in se, non videtur pertinere ad pas- Moreover, good taken absolutely—that is, insofar as it is
+sionem entis, sed potius ad essentiam seu entitatem good in itself—does not seem to pertain to the attribute of
+eius, ut supra argumentabar, quia bonum hoc modo being but rather to the its essence or entity, as was argued
+100 idem est, quod perfectum, ut D. Thomas saepe dicit earlier. For the good in this way is the same as the perfect,
+1. p. q. 5. perfectum autem includitur in essentiali 100R as St. Thomas often says in ST Ia.5. But the perfect is
+conceptu entis realis, quia non potest concipi ens included in the essential concept of real being, since a being
+cum entitate, quin concipiatur cum perfectione es- cannot be conceived with entity without conceiving it with
+sentiali. Tum quia ipsum esse est perfectio, tum essential perfection. [This is so] not only because to be
+105 etiam, quia perfectio essentialis convenit enti per is itself a perfection, but also because essential perfection
+se primo, et in hoc differt a perfectione acciden- 105R applies to being primarily through itself. In this it differs
+tali sive sit extrinseca, sive intrinseca ad modum from accidental perfection, whether it be extrinsic or intrinsic
+propriae passionis. Unde per hanc perfectionem in the matter of a proper attribute.
+essentialem unaquaeque res constituitur in certo Hence, through this essential perfection each thing is
+110 gradu entis, et per eamdem inter se distinguuntur constituted in a certain grade of being. The beings are distin-
+et ordinantur entia. Sic enim (ut supra dicebamus) 110R guished from each other and ordered to each other through
+primo distinguitur ens in infinitum et finitum se- the same [essential perfection]. For in this way, as I was
+cundum perfectionem essentialem: ergo huiusmodi saying above, being is first divided into infinite and finite
+perfectio essentialis non addit aliquid supra ens et being according to essential perfection. Therefore, essential
+115 essentiam: ergo bonum sub hac ratione non vide- perfection of this kind does not add anything beyond being
+tur proprie esse passio entis, sed ipsum ens. Et 115R and essence. Therefore, good under this ratio does not seem
+hoc modo dixit Scotus Quodlibet 6. magnitudinem properly to be an attribute of beings or being itself. In this
+perfectionis essentialis non esse aliud ab essen- way, Scotus says in Quodlibet 6 that the greatness of essen-
+tia, etiam in creaturis. Quod caeteri omnes docent. tial perfection cannot be anything other than essence even
+120 Et potest hoc a simili explicari ex his quae supra in created things. All the others teach this [as well].
+dicebamus de veritate, scilicet, quod quatenus dicit 120R This can be explained similarly from the things we said
+absolutam rationem verae entitatis, id est, non fic- above concerning truth: namely, that insofar as it expresses
+tae, sed ratae, ut sic non dicit passionem entis, sed an absolute ratio of true being—that is not as constructed
+declarat solum ipsam realis entis rationem, ideoque but as reckoned—as such it does not express an attribute of
+125 solum est passio ut connotat aliquo modo conveni- being. Rather it shows only the very ratio of real being. For
+entiam ad intellectum: sic ergo videtur dicendum 125R this reason, truth is only an attribute insofar as it in some
+de bono, servata proportione. way connotes an agreeability to intellect. It seems that the
+same should be said about good, preserving proportion.
+Quomodo
+bonum et
+perfectum
+comparentur.
+15. Quae responsio fiet verisimilior, si exacte 15. This response will be made truer if it is understood How the good
+and the
+perfect are
+related.
+intelligatur, quomodo se habeant ratio boni, et ra- precisely how the ratio of good and the ratio of perfect are
+95 bonum ] om. V.
+
+-- 14 of 20 --
+
+Suárez, DM X, sect. 1 15
+130 tio perfecti: dicit enim Aristoteles 5. lib. Metaphys- 130R relate to each other. For Aristotle says in Metaphysics V, ch.
+icae cap. 16. perfectum dici, extra quod non <col. 16 that ‘that is called perfect outside of which there is no
+b> est ullam partem accipere, seu cui nihil deest. part or that which lacks nothing’. In this sense not every
+Quo sensu non omne bonum perfectum est, ut per good is perfect, as is evident in itself, nor is every being
+se constat, neque etiam omne ens est perfectum, perfect even if it is good. For a boy is being and a man, but
+135 licet sit bonum: puer enim ens est et homo, non- 135R not yet perfect. A man who has perfect quantity but does not
+dum tamen perfectus: et homo habens perfectam have the qualities or habits suitable to his nature, although
+quantitatem, non vero qualitates, vel habitus suae he may be good in some way, is, nevertheless, not perfect. In
+naturae consentaneos, licet bonus aliquo modo sit, this sense, then, not just any good is called perfect, but only
+non tamen perfectus. Hoc ergo sensu perfectum the good that is completed in every way. This is the good
+140 dicitur non quodcumque bonum, sed illud quod 140R simpliciter.
+omni ex parte consummatum est, quod est sim- Nevertheless, in another way anything can be said to
+pliciter bonum. Alio tamen modo potest perfectum be perfect which under some ratio of being has the neces-
+dici quidquid sub aliqua ratione entis, habet per- sary and essential perfection, in the way that a boy can be
+fectionem simpliciter necessariam et essentialem, said to be a perfect man with respect to essence. Likewise
+145 quomodo puer potest dici perfectus homo quoad 145R theologians say that although remiss charity may be called
+essentiam, et similiter dicunt Theologi charitatem imperfect with respect to intensity, it is, nevertheless, perfect
+remissam, licet dicatur imperfecta respectu inten- speaking strictly and with respect to its essence. As John
+sae, tamen simpliciter et quoad essentiam esse per- says in 1 John 2[:5]: ‘In him who keeps his word, the charity
+fectam, quomodo ait Ioannes 1. Canon. cap. 2: Qui of God is truly perfected in him.’ And in this way good and
+150 servat verbum eius, vere in hoc charitas Dei perfecta 150R perfect are convertible. Indeed, they are entirely the same in-
+est. Atque hoc modo bonum et perfectum conver- sofar as good expresses that which is good in itself or which
+tuntur, immo sunt omnino idem prout bonum dicit has goodness, that is, which has the perfection it ought to
+id, quod in se bonum est, seu quod habet boni- have. But this is nothing other than to have the essence or
+tatem, id est perfectionem sibi debitam: hoc autem entity that it ought to have. Therefore, good under this ratio
+155 nihil aliud est, quam habere essentiam vel enti- 155R essentially and formally expresses nothing other than being.
+tatem sibi debitam: igitur bonum sub hac ratione For to be perfect charity in the stated way really is nothing
+nihil aliud essentialiter, ac formaliter dicit, quam other than to be charity. Likewise for the other cases. In
+ens, esse enim charitatem perfectam dicto modo, ni- fact, to be perfect in the former way or to be good simpliciter
+hil aliud revera est, quam esse charitatem, et sic de is nothing other than to be a being having the whole entity
+160 aliis. Immo etiam esse perfectum priori modo, seu 160R required for its fulfillment.
+bonum simpliciter, nihil aliud est, quam esse ens
+habens totam entitatem, quae ad complementum
+eius requiritur.
+16. Et hoc modo intelligendus est D. Thomas 16. This is the way that St. Thomas should be under-
+165 cum dicere solet (ut videre licet 1. p. q. 5. art. 1. ad stood when he usually says (as may be seen in ST I.5.1 ad
+1.) aliter inter se comparari in creaturis ens sim- 1) that being simpliciter and being secundum quid are re-
+pliciter et secundum quid, quam bonum simpliciter lated differently in created things than good simpliciter and
+
+-- 15 of 20 --
+
+Suárez, DM X, sect. 1 16
+et secundum quid: nam res habet, quod sit ens sim- 165R good secundum quid. For a thing has that it is a being sim-
+pliciter per esse substantiale, secundum quid vero pliciter through substantial being, but being secundum quid
+170 per esse accidentale: habet autem quod sit bona through accidental being. A thing is good secundum quid,
+secundum quid per esse substantiale, simpliciter however, through substantial being, but good simpliciter
+autem per esse accidentale. Hoc tamen ultimum through accidental being. But this last claim should be un-
+intelligendum est non praecise de esse accidentali, 170R derstood not precisely of accidental being but of accidental
+sed ut coniuncto esse substantiali: non esset enim being conjoined to substantial being. For a human being
+175 bonus homo per accidentales virtutes, nisi sup- would not be good through accidental virtues unless presup-
+poneretur homo, et consequenter substantialiter, et posed to be a human being and consequently substantially
+naturaliter bonus. Unde in illis vocibus secundum and naturally good. Hence, there seems to be an equivo-
+quid, et simpliciter, videtur esse aequivocatio: nam 175R cation in these words ‘secundum quid’ and ‘simpliciter’. For
+cum dicuntur de ente, videntur dici de substantia et when they are said of being they seem to be said about the
+180 accidente praecise comparatis, cum <334> autem substance and of accident compared precisely, but when
+dicuntur de bono, dicuntur de substantia creata they are said of good they are said about the created sub-
+aut solitarie sumpta, aut ut affecta dispositionibus, stance either taken alone or as affected by dispositions and
+et facultatibus sibi connaturalibus. Quo fit, ut licet 180R faculties connatural to it. The result is that although there
+in modo loquendi sit diversitas, in re tamen nulla is a difference in the way of speaking, in reality, however,
+185 videatur esse differentia, quia etiam bonitas, vel per- there seems to be no difference, because even the goodness
+fectio, quam confert accidens, si praecise compare- or perfection that an accident confers is secundum quid if
+tur ad eam bonitatem, quam confert substantia, est compared precisely to the goodness that a substance con-
+secundum quid. Sic enim in universum verum est, 185R fers. In this way what we quoted from St. Thomas above is
+quod ex D. Thoma supra retulimus, unumquodque generally true: that each thing has goodness to the extent
+190 quantum habet de esse, tantum habere de boni- that it has being. And what we quoted Augustine—that we
+tate, et quod etiam retulimus ex Augustino, quod in are good insofar as we are—is also true.
+quantum sumus, boni sumus.
+17 [16b].9 Atque ita tandem fit, quod bonum ab- 17. And so it also follows that good said absolutely is
+solute dictum nihil aliud sit, quam ens ipsum, quo- 190R nothing other than the being itself. This is the way in which
+195 modo dicuntur res naturaliter bonae, vel perfectae, things that are fulfilled in their entity are called naturally
+si in sua entitate sint consummatae, et homo dici- good or perfect, and a human being who has the moral
+tur moraliter bonus, si habeat morales virtutes seu virtues or perfections (which are nothing by certain real
+perfectiones, quae non sunt, nisi reales quaedam forms and entities) is called morally good. Likewise, even
+formae et entitates: sic etiam Deus dicitur summe 195R God is called supremely good and perfect by reason of his
+200 bonus et perfectus ratione suae entitatis, etiamsi own entity, even if related to nothing else. And the same is
+ad nihil aliud comparetur, et sic de aliis. Haec igitur true in other cases. This doctrine and response explained in
+doctrina et responsio hoc modo exposita probabilis this way, then is probable and shows a certain clarity and
+est, et claritatem ac facilitatem quamdam prae se facility, as Henry of Ghent indicated in the place cited above.
+9From this point on the paragraph numbering diverges between the first edition and the Vivès edition. Numbers in square brackets indicate the
+numbering from the 1597 first edition.
+
+-- 16 of 20 --
+
+Suárez, DM X, sect. 1 17
+fert, eamque indicavit Henricus in loco supra citato.
+205 18 [17]. Verumtamen propter usum vocum 200R 18. Nevertheless, another response can be given on ac-
+potest adhiberi alia responsio. Nam licet prior in count of the use of the word. For, although the previous
+hoc habeat verum, quod bonum sub ea ratione in answer is true in that good under this ratio does not differ
+re non differt ab ente, nihilominus possunt ratione from being, nevertheless, they can be distinguished concep-
+distingui, quod satis est ut bonum assignetur ut tually. That is enough for good to be assigned as a property
+210 proprietas entis, ad modum aliorum transcenden- 205R of being in the way of the other transcendentals. For this
+tium. Est itaque quoad impositionem, vel signifi- reason, it should be noted that with respect to the imposition
+cationem nominis advertendum, ens solum dici ab or signification of the name, being is only said from being or
+esse aut entitate ut supra exposuimus, perfectum entity, as we explained above. Perfect, however, more clearly
+autem clarius exprimere entis perfectionem: in quo expresses the perfection of being, in which a certain negation
+215 negationem quamdam includit, vel saltem sine illa 210R is included or at least we cannot explain without that what it
+non potest a nobis eius significatum explicari, scil- signifies, namely, that that [the perfect thing] lacks nothing
+icet, quod nihil ei desit secundum eam rationem with respect to that ratio according to which it is said to
+secundum quam perfectum dicitur. Bonum vero be perfect. But good expresses some agreeability by reason
+dicere convenientiam aliquam ratione cuius habet of which the thing is desirable. For the good is so-called
+220 res quod appetibilis sit: nam bonum per ordinem 215R through some relation to appetite, as St. Thomas taught
+aliquem ad appetitum dictum est, ut D. Thomas in ST Ia.5.1, following Aristotle in NE I: ‘the good is what
+docuit 1. p. q. 5. art. 1. ex illo Aristotele 1. Ethico- all desire.’ (This will be explained in more detail shortly.13)
+rum: Bonum est, quod omnia appetunt, et statim Hence, it is necesssary that things—even those which are
+magis explicabitur. Unde necesse est res etiam illas, called good absolutely and according to themselves—be de-
+225 quae absolutae et secundum se dicuntur bonae, sic 220R nominated good because they have the perfection agreeable
+denominari: quia habent perfectionem sibi conve- and desirable to themselves. As a result it also happens
+nientem et appetibilem, et ita etiam fit, ut bonum that good in this way formally signifies an existing perfection
+hoc modo de formali significet perfectionem exis- in such a thing, connoting in the same thing a capacity,
+<col. b> tentem in tali re, connotando in eadem inclination, or natural connection to such perfection.
+230 re capacitatem, inclinationem, seu naturalem con- 225R This is more clearly evident when such a perfection is dis-
+nexionem cum tali perfectione. Quod clarius patet, tinct from the thing itself that is denominated good through
+quando talis perfectio est distincta ab ipsa re, quae that perfection. For when a human being is called good by
+ab illa bona denominatur; nam quando homo dicitur reason of virtue, virtue is not formally signified in any other
+bonus ratione virtutis, de formali significatur virtus, way than as a certain goodness that includes not only the
+235 non utcumque sed ut bonitas quaedam, in quo im- 230R perfection of virtue but also the agreeability that it has to
+portatur, non tantum perfectio virtutis, sed etiam human nature, connoting on the part of the nature itself a ca-
+convenientia, quam habet cum humana natura con- pacity or propensity to such perfection. But in those things
+notando ex parte ipsius naturae capacitatem, vel in which there is no distinction between the perfection and
+propensionem ad talem perfectionem. In his vero re- the thing which is called perfect, it seems to be more difficult
+240 bus, in quibus non est distinctio inter perfectionem, 235R to explain this agreeability or connotation. Nevertheless, it
+13In nn. 19–21.
+
+-- 17 of 20 --
+
+Suárez, DM X, sect. 1 18
+et rem quae perfecta dicitur, difficilius videtur ex- should be said that although the perfection is not distinct
+plicari haec convenientia, vel connotatio: dicendum in reality, we, however, conceive and signify it in the way
+est tamen, quamvis in re non sit distinctio, a nobis we do distinct things, that is, in the way of a denominating
+tamen concipi ac significari ad modum distincto- form and a denominated thing. For this reason, that form is
+245 rum, id est, per modum formae denominantis, et 240R signified as a perfection accommodated to the thing in which
+rei denominatae, et ideo significari illam formam ut it exists, in which a natural connection between it and such
+perfectionem accommodatam ei, in quo existit, in a form is reckoned. In this way, such good is distinguished
+quo computatur naturalis connexio eius cum tali from being, at least conceptually.
+forma, et ita distingui tale bonum ab ente, saltem
+250 ratione.
+Bonum et appetibile quomodo comparentur. How the good and the desirable are related.
+19 [18]. Ex his, quae de ratione boni dicta sunt, 19. From the things that have been said about the ratio of
+intelligere licet, quomodo se habeant bonum, et ap- good, one may understand how the good and the desirable
+petibile. Aliqui enim existimant, idem formaliter et are related. For some think that the same thing is formally
+synonyme his vocibus significari, et consequenter and synonymously signified by these words and they say,
+5 aiunt, bonum supra ens addere respectum ad ap- 5R consequently, that good adds to being a respect to the desir-
+petibile: quibus favere videtur D. Thomas dicta q. able. St. Thomas seems to favour these claims in the already
+5. 1. dicens, Ratio boni in hoc consistit, quod aliquid mentioned ST Ia.5.1, saying: ‘the ratio of good consists in
+sit appetibile, et art. 3. ad 1. dicit expresse, Bonum this, that something be desirable’. And in art. 3, ad 1, he
+non addit aliquid supra ens, sed rationem tantum says explicitly: ‘good does not add anything to being except
+10 appetibilis, et art. 4. ad 1. Bonum (inquit) respicit 10R a ratio of desirable’. And in art. 4, ad 1, he says: ‘good looks
+appetitum. Similia habet 1. p. q. 16. art. 1. et 3. et to desire’. He holds similar views in ST Ia.16.1 and 3 and in
+lib. 1. Summae contra gentiles cap. 4. rat. 3. favet SCG I, ch. 4, arg. 3. Aristotle favours [this view] in NE 1, ch.
+Aristoteles 1. Ethicorum cap. 1. definiens, Bonum 1, where he defines ‘good to be what all desire’.
+esse quod omnia appetunt. Et potest confirmari Moreover, this can be confirmed by proportionally apply-
+15 sumpto proportionali argumento ex his, quae de 15R ing an argument from what was said about the true. For
+vero dicta sunt: nam ita comparatur bonum ad ap- good is related to appetite in the same way that the true is
+petitum, sicut verum ad intellectum, sed verum non related to the intellect. But true does not add anything to
+addit supra ens nisi conformitatem ad intellectum: being except a conformity to intellect. Therefore, good does
+ergo bonum non addit nisi convenientiam ad appeti- not add anything except an agreeability to appetite.
+20 tum. Alii distinguunt inter bonum et appetibile, ut 20R Others distinguish between the good and the desirable,
+Caietanus 1. p. q. 5. art. 1. ubi ait, appetibile sumi as Cajetan does in ST I.5.1, where he says that desirable
+dupliciter, scilicet fundamentaliter et formaliter. Pri- is taken in two ways: namely, fundamentally and formally.
+ori modo ait esse idem bonum et appetibile, et ita Taken in the former way, he says that the good and the
+exponit D. Thomam ibi, nam proxima ratio ob quam desirable are the same, and he explains St. Thomas here
+21 1 ] 5 V.
+
+-- 18 of 20 --
+
+Suárez, DM X, sect. 1 19
+25 res habet ut possit movere ap- <335> petitum, est 25R in this way. For the immediate ratio on account of which a
+bonitas eius, quam habet respectu appetentis, in thing can move appetite is its goodness, which it has with
+qua includitur non sola entitas, et perfectio rei se- respect to what desires. In this is included not only the entity
+cundum se, sed prout habet aliquam convenientiam and perfection of the thing in itself, but also as having some
+cum appetente. Posteriori autem modo dicit dis- agreeability with what desires. But taken in the second way,
+30 tingui bonum ab appetibili saltem ratione seu de- 30R he says that the good can be distinguished from the desirable
+nominatione, quia appetibile ut sic importat respec- at least conceptually or by denomination, because the desir-
+tum ad appetitum, et denominationem extrinsecam able as such brings in a respect to appetite and an extrinsic
+provenientem ab illo, seu consurgentem ex conve- denomination arising from it or arising from the agreeability
+nientia et proportione inter bonum et appetitum: and proportion between the good and the appetite. Therefore,
+35 aliquid ergo formaliter explicat appetibile, quod non 35R the desirable formally explains something that good as such
+dicit bonum ut sic, ratione cuius haec causalis vera does not express, by reason of which this causal claim—a
+est, quia res est bona, ideo est appetibilis, sicut thing is desirable because it is good—is true, just as this
+haec etiam causalis est vera, quia res est lucida et causal claim—a thing is visible because it is illuminated and
+colorata, ideo est visibilis: ita enim comparatur ap- coloured—is also true. For the desirable is related to the
+40 petibile ad bonum, sicut visibile ad lucidum. Unde 40R good just as the visible is related to the illuminated. Hence,
+D. Thomas 1. Ethicorum cap. 1. declarans illam when St. Thomas comments on Aristotle’s description in NE
+descriptionem Aristotelis, Bonum est, quod omnia I, ch. 1, that ‘good is what all desire’, he says that it is taken
+appetunt, ait sumptam esse a posteriori: quia ratio a posteriori, because the ratio of desirable is posterior to the
+appetibilis posterior est, quam ratio boni. Et haec ratio of good. And this view is true. It has also been taught
+45 sententia vera est, quam prius docuerat Capreolus 45R earlier by Capreolus in II, dist. 2, q. 3, and later by Ferrara,
+in 2. dist. 2. q. 3. Et postea Ferrariensis 1. Summae in SCG I, ch. 3.
+contra gentiles cap. 3.
+Discrimen
+inter bonum et
+verum.
+20 [19]. Ex quo intelligitur, aliter comparari 20. From this it is understood that the good is related A difference
+between the
+good and the
+true.
+bonum ad appetitum, quam verum ad intellectum: differently to appetite than the true to intellect. For the
+50 nam verum transcendens (de hoc enim loquimur) in- transcendent true (for this is what we are talking about)
+cludit in sua ratione et denominatione aliquam con- 50R includes in its ratio and denomination a certain conformity
+formitatem ad intellectum, bonum autem formaliter to the intellect. But the good does not formally include in its
+in ratione et denominatione sua non includit confor- ratio and denomination a conformity to appetite, although
+mitatem ad appetitum, quamvis haec ad rationem this may follow from the ratio of good. Hence, the ratio of
+55 boni consequatur. Unde ratio veri transcendentis the transcendental true is not properly presupposed in the
+non supponitur proprie in obiecto, ut formaliter at- 55R object as formally attained by the intellect, but is a denomi-
+tingatur ab intellectu, sed est denominatio sumpta nation taken from the proportion or conformity between the
+ex proportione vel conformitate inter ipsum obiec- object itself and its power or act. For this reason, truth is
+tum et potentiam seu actum eius, et ideo dici solet usually said to be a condition that follows or accompanies
+60 illa veritas conditio consequens vel concomitans the object of the intellect, rather than a condition formally
+obiectum intellectus, potius quam formaliter illud 60R constituting it. But goodness is presupposed in the object of
+46 2 ] 1 V.
+
+-- 19 of 20 --
+
+Suárez, DM X, sect. 1 20
+constituens, bonitas autem supponitur in obiecto the appetite and is the formal reason for attaining it. Desir-
+appetitus, et est ratio formalis attingendi illud: ap- ability, however, expresses a denomination taken from the
+petibilitas autem dicit denominationem sumptam ex proportion between such an object and such a power. Hence,
+65 proportione talis obiecti cum tali potentia: unde non it does not express a formal ratio of the object, but rather a
+dicit formalem rationem obiecti, sed conditionem 65R concomitant condition.
+concomitantem.
+Quomodo se habeat bonum ad rationem finis. How the good is related to the ratio of end.
+21 [2.pr.].14 Ex his etiam constat, quomodo ratio fi- 21. From these things it is also clear how the ratio of end is
+nis ad bonum comparetur. Ait enim D. Thomas 1. p. related to the good. For St. Thomas says in ST Ia.5.2 ad 1
+q. 5. art. 2. ad 1. bonum, cum habeat rationem ap- that the good, since it has the ratio of desirable, introduces
+petibilis, importare habitudinem causae finalis. Et a habitude to the final cause. In the same sense he says
+5 in eodem sensu ait 1. Summae contra gentiles cap. 5R in SCG I, ch. 38, arg. 3, that the good has the ratio of end
+38. rat. 3. Bonum ha- <col. b> bere rationem fi- in virtue of the fact that it has the ratio of desirable. For
+nis, eo scilicet modo quo habet rationem appetibilis. if the habitudo and denomination of end is taken formally,
+Etenim si formaliter sumatur habitudo, ac denomi- it does not belong to the ratio of good but can follow from
+natio finis, illa non est de ratione boni, sed ad illam it. For an end as such expresses the ratio of cause with
+10 consequi potest. Nam finis ut sic dicit rationem 10R respect to the means or with respect to some action that is
+causae in ordine ad media, vel ad aliquam actionem done for the sake of the end. Good does not express that
+quae propter finem fiat: quam habitudinem non habitudo, but only a ratio of agreeability. But if the end
+dicit bonum, sed solam rationem convenientis. Si is taken fundamentally, it is attributed to the good in this
+autem sumatur finis fundamentaliter, sic attribuitur way, because the has the power to final-cause by reason of
+15 bono, quia ratione bonitatis habet finis vim cau- 15R goodness. Moreover, this should be understood about the
+sandi finaliter. Hoc autem intelligendum est de good simpliciter, of the kind that is good in itself. For if the
+bono simpliciter, quale est per se bonum, nam si good is taken in its whole breadth, it includes not only the
+sumatur bonum in tota sua latitudine, non tantum end but also means, as will become clear in the following
+finem, sed etiam media complectitur, ut ex sequenti section.
+20 sectione constabit.
+14Instead of being the final paragraph of sect. 1, in the 1597 edition this paragraph opens sect. 2. The 1597 edition also includes an out-of-place
+marginal note: ‘Prima divisio.’
+15 quia ] qua V.
+
+-- 20 of 20 --

@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "augustine-confessions-book-8-chapter-12",
+      "rawFilePath": "data/raw/augustine-confessions-book-8-chapter-12.txt",
+      "sourceUrl": "https://www.newadvent.org/fathers/110108.htm",
+      "sentenceStartsWith": "No further would I read, nor did I need;"
+    },
+    {
+      "id": "ignatius-smyrnaeans-chapter-7",
+      "rawFilePath": "data/raw/ignatius-smyrnaeans-chapter-7.txt",
+      "sourceUrl": "https://www.newadvent.org/fathers/0109.htm",
+      "paragraphStartsWith": "They abstain from the Eucharist and from prayer"
+    },
+    {
+      "id": "aquinas-summa-theologiae-i-q2-a3",
+      "rawFilePath": "data/raw/aquinas-summa-theologiae-i-q2-a3.txt",
+      "sourceUrl": "https://www.newadvent.org/summa/1002.htm",
+      "paragraphStartsWith": "The first and more manifest way is the argument from motion."
+    }
+  ]
+}

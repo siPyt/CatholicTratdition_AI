@@ -141,6 +141,43 @@ describe('server handlers', () => {
     expect(upstreamPayload.messages[0].role).toBe('system');
     expect(upstreamPayload.messages[0].content).toContain('Retrieved canonical source context');
     expect(upstreamPayload.messages[0].content).toContain('Thomas Aquinas, Summa Theologiae, Prima Pars, Question 2, Article 3');
+    expect(upstreamPayload.messages[0].content).toContain('prioritize scholastic authorities');
+    expect(upstreamPayload.messages[0].content).toContain('identify them separately in the response');
+    expect(upstreamPayload.messages[0].content).toContain('Prefer Aquinas as the primary authority');
+    expect(response.statusCode).toBe(200);
+  });
+
+  it('does not inject Fathers-only retrieval context into proofs mode', async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => JSON.stringify({
+        model: 'gpt-4.1-mini',
+        choices: [{ message: { content: 'A scholastic reply.' } }],
+        usage: { total_tokens: 12 }
+      })
+    });
+
+    vi.stubGlobal('fetch', fetchMock);
+
+    const response = createMockResponse();
+
+    await chatHandler(
+      {
+        method: 'POST',
+        body: {
+          mode: 'proofs',
+          messages: [{ role: 'user', content: 'What is the Eucharist according to the Fathers?' }]
+        }
+      },
+      response
+    );
+
+    const upstreamPayload = JSON.parse(fetchMock.mock.calls[0][1].body as string) as {
+      messages: Array<{ role: string; content: string }>;
+    };
+
+    expect(upstreamPayload.messages[0].content).not.toContain('Augustine, Confessions, Book 8, Chapter 12\nSummary:');
+    expect(upstreamPayload.messages[0].content).not.toContain('Ignatius of Antioch, Letter to the Smyrnaeans, Chapter 7\nSummary:');
     expect(response.statusCode).toBe(200);
   });
 
@@ -471,5 +508,87 @@ describe('server handlers', () => {
     };
 
     expect(payload.results[0]?.citation).toBe('Ignatius of Antioch, Letter to the Smyrnaeans, Chapter 7');
+  });
+
+  it('limits proofs retrieval to proofs-tagged corpus entries', () => {
+    const response = createMockResponse();
+
+    retrieveHandler(
+      {
+        method: 'GET',
+        query: {
+          q: 'What is the Eucharist according to the Fathers?',
+          mode: 'proofs',
+          limit: '5'
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(200);
+
+    const payload = response.payload as {
+      count: number;
+      results: Array<{ citation: string; author: string; tier: string }>;
+    };
+
+    expect(payload.count).toBeGreaterThan(0);
+    expect(payload.results.every((result) => result.tier !== 'patristics')).toBe(true);
+    expect(payload.results.every((result) => result.author !== 'Augustine' && result.author !== 'Ignatius of Antioch')).toBe(true);
+  });
+
+  it('returns Aquinas proofs citations with author identity and expanded location formatting', () => {
+    const response = createMockResponse();
+
+    retrieveHandler(
+      {
+        method: 'GET',
+        query: {
+          q: 'Give me a proof for God as first cause.',
+          mode: 'proofs',
+          limit: '1'
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(200);
+
+    const payload = response.payload as {
+      count: number;
+      results: Array<{ citation: string; author: string; tier: string }>;
+    };
+
+    expect(payload.count).toBe(1);
+    expect(payload.results[0]?.author).toBe('Thomas Aquinas');
+    expect(payload.results[0]?.tier).toBe('aquinas');
+    expect(payload.results[0]?.citation).toBe('Thomas Aquinas, Summa Theologiae, Prima Pars, Question 2, Article 3');
+  });
+
+  it('returns Suarez proofs retrieval by work citation rather than website provenance', () => {
+    const response = createMockResponse();
+
+    retrieveHandler(
+      {
+        method: 'GET',
+        query: {
+          q: 'How many kinds of causes are there?',
+          mode: 'proofs',
+          limit: '5'
+        }
+      },
+      response
+    );
+
+    expect(response.statusCode).toBe(200);
+
+    const payload = response.payload as {
+      count: number;
+      results: Array<{ author: string; citation: string }>;
+    };
+
+    expect(payload.count).toBeGreaterThan(0);
+    expect(payload.results.some((result) => result.author === 'Francisco Suarez')).toBe(true);
+    expect(payload.results.some((result) => result.citation.includes('sydneypenner'))).toBe(false);
   });
 });

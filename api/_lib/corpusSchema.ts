@@ -86,14 +86,24 @@ export function normalizeCitationLocation(location: string): string {
 }
 
 export function formatCanonicalCitation(citation: CanonicalCitation): string {
-  return `${citation.author}, ${citation.work}, ${normalizeCitationLocation(citation.location)}`;
+  const location = citation.tier === 'aquinas'
+    ? normalizeCitationLocation(citation.location)
+      .replace(/^1,\s*q\.\s*(\d+),\s*a\.\s*(\d+)$/i, 'Prima Pars, Question $1, Article $2')
+      .replace(/^2\s*[-,]\s*1,\s*q\.\s*(\d+),\s*a\.\s*(\d+)$/i, 'Prima Secundae, Question $1, Article $2')
+      .replace(/^2\s*[-,]\s*2,\s*q\.\s*(\d+),\s*a\.\s*(\d+)$/i, 'Secunda Secundae, Question $1, Article $2')
+      .replace(/^3,\s*q\.\s*(\d+),\s*a\.\s*(\d+)$/i, 'Tertia Pars, Question $1, Article $2')
+      .replace(/\bq\.\s*(\d+)/gi, 'Question $1')
+      .replace(/\ba\.\s*(\d+)/gi, 'Article $1')
+    : normalizeCitationLocation(citation.location);
+
+  return `${citation.author}, ${citation.work}, ${location}`;
 }
 
-export function formatChunkCitation(chunk: Pick<CorpusChunk, 'author' | 'work' | 'location'>): string {
+export function formatChunkCitation(chunk: Pick<CorpusChunk, 'author' | 'work' | 'location' | 'tier'>): string {
   return formatCanonicalCitation({
     author: chunk.author,
     work: chunk.work,
     location: chunk.location,
-    tier: 'secondary'
+    tier: chunk.tier
   });
 }

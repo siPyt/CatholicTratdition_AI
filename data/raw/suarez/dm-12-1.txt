@@ -1,0 +1,1275 @@
+Last revision: August 25, 2014
+Francisco Suárez, S. J.
+DM XII.11
+© Sydney Penner 2014
+<372, col. b>2
+DISPUTATIO XII. DISPUTATION XII.
+De causis entis in communi. On the causes of being in general.
+Postquam dictum est de essentiali ratione, et proprietatibus After what has been said about the essential ratio and properties of be-
+entis in quantum ens est, priusquam ad divisiones eius de- ing insofar as it is being but before descend to the divisions of being,
+5 scendamus, oportet de causis eius exacte disputare. Nam 5R we must discuss the causes with precision. For, although causes are
+licet Physicus de causis disputet, id tamen est nimis con- discussed in physics, that discussion, nevertheless, is rather contracted
+tracte et imperfecte, quatenus ratio causae in Physica ma- and incomplete, insofar as the ratio of cause in physics is concerned
+teria, vel cum aliquo motu aut Physica mutatione exerce- with matter or with some motion or physical change. But the ratio of
+tur: ratio autem causae universalior est et abstractior: nam cause is more universal and abstract. For with respect to itself it ab-
+10 secundum se abstrahit a materia, tam sensibili, quam intel- 10R stracts from matter, sensible as well as intelligible. For this reason, its
+ligibili: et ideo propria eius consideratio ad Metaphysicum proper consideration belongs to metaphysics. First, indeed, insofar as
+pertinet. Primo quidem quatenus ipsamet ratio causae, seu the very ratio of cause—or causality, as they say—participates in a cer-
+causalitas (ut aiunt) aliquem gradum entis participat: de quo tain grade of being. Concerning this, it needs to be shown what and
+oportet declarare quid, et quo modo sit. Secundo, quia ipsa in what way it is. Second, because this causality is as it were a kind
+15 causalitas est veluti proprietas quaedam entis ut sic: nullum 15R of property of being as such. For there is no being that does not par-
+est enim ens quod aliquam rationem causae non participet. ticipate in some ratio of cause. Third, because it belongs to science to
+Tertio, quia ad scientiam pertinet considerare causas sui consider the causes of its object. Moreover, although not every being
+obiecti. Quamvis autem non omne ens comprehensum sub comprehended under the object of this science has a true and proper
+obiecto huius scientiae, habeat veram ac propriam causam, cause—for God does not have a cause—nevertheless, every other being
+20 nam Deus causam non habet: tamen omnia alia praeter ip- 20R besides God has a cause. And in those beings not only the determinate
+sum causam habent: et in eis non solum determinatae seu and particular rationes of being but the very ratio of being itself is per
+particulares rationes entis, sed etiam ipsa entis ratio per se ac se and properly caused so that it is true to say that being insofar as it
+proprie causatur, ita ut verum sit dicere, ens in quantum ens is being specifically even if not reduplicatively has a cause. Especially
+specificative, etsi non reduplicative, habere causam. Eo vel in view of the fact that it belongs to the same doctrine to contem-
+25 maxime quod eiusdem doctrinae est rationem causae et ef- 25R plate the ratio of cause and effect. But there is no being that is not
+fectus contemplari: nullum autem est ens quod non <373> either an effect or a cause. In addition, although God does not have a
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes: many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 26 --
+
+Suárez, DM XII.1 2
+sit vel effectus, vel causa. Accedit quod, licet Deus non true and real cause, nevertheless certain rationes of him are conceived
+habeat veram et realem causam: quaedam tamen rationes by as if they were causes of others. In order better to explain these
+eius concipiuntur a nobis ac si essent causae aliarum, ad quas it will also be useful first to know the true rationes of causing. On
+30 melius declarandas utile etiam erit veras rationes causandi 30R account of these reasons, then, the consideration of causes belongs to
+praenoscere. Ob has ergo rationes ad Metaphysicum per- metaphysics. Concerning these causes, we will first say a few things in
+tinet causarum consideratio. De quibus pauca prius in com- general about the ratio of cause and about its members. Then we will
+muni dicemus de ratione causae et membris eius: deinde have a more extended discussion about the individual kinds of causes
+fusius de singulis, postremo eas inter se, et cum effectibus and, finally will compare them in various ways to each other and with
+35 variis modis conferemus. 35R their effects.
+SECTIO I. SECTION I.
+Utrum causa et principium idem omnino sint. Whether cause and principle are entirely the same.
+Causam esse est
+longe
+notissimum.
+1. Non inquirimus an causa sit, quia nihil est per se notius: 1. We are not asking whether there is a cause, since nothing is That there is a
+cause is very
+well-known.
+ad investigandum autem quid sit, commode a ratione prin- more known per se. But in order to investigate what a cause is, we
+40 cipii initium sumimus, quoniam omnis causa principium 40R fittingly make our beginning with the ratio of principle, since every
+est, et per illud tamquam per genus, vel loco generis definiri cause is a principle and it can and ought to be defined through the
+potest, et debet. Ratio igitur dubitandi in proposita quaes- latter as through a genus or with that in the genus position.
+tione ex variis dictis Aristotelis sumitur, nam interdum sig- A reason for doubting, therefore, in the proposed question is
+nificat, causam et principium, idem omnino esse; et re- taken from the various things said by Aristotle. For sometimes he From the Greek
+Fathers’ way of
+speaking.
+Damascene, De
+fide I, chs. 8, 9,
+and 11;
+Athanasius in the
+acts of the Nicean
+synod; Gregory
+of Nazianzus,
+Oration 29 (‘On
+Dogma and the
+Appointment of
+a Bishop’) and
+Oration 35,
+which is the first
+concerning the
+Son and the third
+theological
+oration.
+45	Ex modo
+loquendi Patrum
+Graecorum.
+Damas. lib. 1. De
+fide cap. 8. et 9. ac
+11. Athanas. in
+Actis Nicenae
+synodi. Nazian.
+orat. 29. de
+dogmate, et
+constitutione
+Episcop. et orat.
+35. quae est 1. de
+Filio et 3. de
+Theologia.
+ciproce dici. Nam in 4. Metaphysicae cap. 2. ait, ita comparari 45R indicates that ‘cause’ and ‘principle’ are entirely the same and can be
+inter se causam et principium, sicut ens, et unum: ens autem said reciprocally. For in Metaphysics IV.2 he says: ‘Cause and princi-
+et unum convertuntur inter se, ut supra dictum est. Item ple are related to each other just as being and one are’. But being and
+5. Metaphysicae cap. 1. ubi varios modos principii enumerat, one are convertible with each other, as was said above.3 Likewise, in
+in fine ita concludit: Totidem autem modis et causae dicun- Metaphysics V.1 where he lists the various modes of principles, he con-
+50 tur, omnes enim causae, principia sunt. Rursus cum 1. Phys- 50R cludes at the end as follows: ‘Causes are spoken of in as many ways,
+icae privationem inter principia rei naturalis numerasset, for all causes are principles’. Again, since in Physics I he numbered
+in 12. Metaphysicae cap. 2. eam causam vocat: sentit ergo privation among the principles of a natural thing, in Metaphysics XII.2
+causam et principium esse idem. Et huic sententiae favet he calls it a cause. He, therefore, thinks that cause and principle are
+modus loquendi aliquorum Patrum Graecorum, qui etiam the same. And the Greek Fathers’ way of speaking favours this view,
+55 in divinis personis Patrem vocant causam Filii, eo quod 55R who in the case of the divine persons also call the Father the cause of
+sit principium eius: et similiter Patrem et Filium causam the Son in virtue of the fact that he is the principle of the Son.4 Like-
+Spiritus sancti: quod est indicium, apud Graecos idem esse wise, the Father and the Son are the cause of the Holy Spirit. This
+causam quod principium. Quod significavit, illos Patres ex- is evidence that among the Greeks ‘cause’ is the same as ‘principle’.5
+3DM 4.4.
+4The numbering of the orations by Gregory of Nazianzus in the marginal citations seems incorrect, but I have not yet properly sorted this out.
+5Suárez here uses the Latin terms rather than the Greek ‘aition’ and ‘arche’.
+
+-- 2 of 26 --
+
+Suárez, DM XII.1 3
+ponens Concilium Florentinum, sess. ult. Ratio vero esse (This indicated the Council of Florence, last session, expositing those
+60 potest, quia principium relationem dicit ad principiatum, 60R Fathers.6 The reason can be that principle expresses a relation to the
+sicut causa ad effectum: principiatum autem idem esse vide- principiatum just as causes expresses a relation to the effect. But the
+tur quod effectum. <col. b> principiatum seems to be the same as the effect.7
+2. Aliquando vero significare videtur Aristoteles cau- 2. Sometimes, however, Aristotle seems to indicate that cause
+sam latius patere quam principium: ait enim libro 5. De gen- extends more broadly than principle. For in On the Generation of
+65 eratione animalium cap. 7. de ratione principii esse, ut ipsum 65R Animals V.7 he says that it belongs to the notion of principle ‘that
+quidem causa sit multorum, sed ipsius nulla sit superior causa, it itself be the cause of multiple things but that there be no higher
+non est autem de ratione causae ut non habeat superiorem cause of it’. But it does not belong to the nature of a cause not to have
+causam: ergo iuxta Aristotelis sententiam, principium quid a higher cause. Therefore, according to Aristotle’s view, principle is
+contractius est quam causa. Unde etiam 1. Physicae cap. 5. de something more contracted than cause. Hence, in Physics I.5 he also
+70 ratione principiorum ait esse, ut non sint ex sese, nec ex aliis, 70R says that it is of the nature of principles ‘to not be from themselves
+sed alia ex ipsis, de ratione autem causae non est ut non sit and not from other things but for other things to be from them’. But
+ex principiis et causis: latius ergo patet causa quam prin- it is not of the nature of cause not to be from principles and causes.
+cipium. Denique aliunde apparet manifestum, principium Cause, therefore, clearly extends farther than principle. Finally, from
+generalius quid esse, quam causam: nam omnis causa prin- elsewhere it appears obvious that principle is more general than cause.
+75 cipium est, ut ex Aristotele retulimus: non tamen omne 75R For every cause is a principle, as we cited from Aristotle, but not every
+principium potest dici causa: privatio enim, teste Aristotele, principle can be called a cause. For privation, as Aristotle attests, is a
+est principium generationis, non tamen causa, et aurora est principle of generation but it is not a cause, and the dawn is a principle
+principium diei et non causa. Et apud Theologos sana et of the day but not a cause of it. And the sound, received doctrine
+recepta doctrina est, in divinis personis unum esse princip- among the theologians is that in the case of the divine persons one is
+80 ium alterius, non tamen causam, ut patet ex D. Thoma 1. p. 80R the principle of another but not the cause, as is clear from St. Thomas
+q. 33. art. 1. ad. 1. in ST Ia.33.1 ad 1.
+Varii principiorum modi, et illorum ordo. Different modes of principles and their order.
+3. Ad explicandam hanc quaestionem incipiendum est 3. In order to explain this question, we should begin from the
+a nomine et ratione principii: quoniam vero, ut Dama- name and the ratio of principle. But, because (as John of Damascus
+scenus ait Dialogus contra Manichaeos in initio, principii said in the beginning of the Dialogue against the Manicheans) the word
+5 vocabulum, aequivocum, id est analogum, est, melius erit 5R ‘principle’ is equivocal, that is, analogical, it will be better to enumer-
+varias eius significationes enumerare, quas ibi recenset Dam- ate its various significations. John of Damascus lists them in the cited
+ascenus et prius Aristoteles 5. Metaphysicae cap. 1. Ut vero place and Aristotle before him in Metaphysics V.1. But as a certain re-
+aliqua certa methodo a nobis tradantur, primo distinguere liable method has been taught by us, we can first divide principle into
+6The Council of Florence in 1439 was one of the attempts to overcome the Great Schism of 1054 between East and West. One of the main sources of contention in the schism
+was the Latin term ‘filioque’ that the Latin churches used in the Nicene-Constantinopolitan Creed so that it read that the Spirit ‘proceeds from the Father and the Son’ rather than
+reading that the Spirit ‘proceeds from the Father’ as the Greek churches preferred. The filioque-clause was discussed at great length at the Council of Florence and a resolution of
+sorts was eventually achieved. The intended reconciliation, however, never materialized and so the churches of East and West still disagree about whether to use the filioque.
+7I will use the Latin term ‘principiatum’ to preserve the etymological connection with principle (principium), but it could be translated as ‘grounded’ or ‘originated’. As should
+be clear from the text, the principiatum is that of which the principle is a principle.
+
+-- 3 of 26 --
+
+Suárez, DM XII.1 4
+possumus duplex principium, aliud rei, aliud cognitionis seu two: one of the thing, the other of cognition or of scientia. Another
+10 scientiae, quod alio modo solet distingui in principia incom- 10R customary way is to divide it into simple (incomplexa) principles and
+plexa, et complexa: nam principium rei incomplexum est, complex principles. For a principle of a thing is simple, but a princi-
+congnitionis autem complexum. Quamquam enim prin- ple of cognition is complex.8 For although the principles of cogniz-
+cipia cognoscendi frequenter desumantur ex principiis rei, ing are frequently taken from the principles of things, nevertheless, Complex
+principles or
+what the ones of
+cognition.
+Principium
+complexum seu
+cognitionis quid.
+proxime tamen non sunt principia scientiae nisi prout ex proximatedly they are not principles of scientia except insofar as they
+15 eis fiunt principia complexa. Et hoc modo, ait Aristoteles 15R become complex principles. And in this way, Aristotle says earlier,
+supra, suppositiones demonstrationum vocantur principia: et ‘the hypotheses of demonstrations are called principles’.9 And in On
+2. De sophisticis elenchis cap. ult. in principiis cognoscendis Sophistical Refutations in the last chapter of book II he says that this
+ait praecipue insistendum esse, quia illis cognitis, facile est must be insisted on especially in the case of the principles of cogniz-
+cognoscere ea quae sequuntur. De his autem principiis com- ing, since once those are cognized it is easy to cognize those things
+20 plexis nihil amplius a nobis dicendum est, nam quae ad hanc 20R that follow. But nothing further need be said by us about these com-
+doctrinam necessaria sunt, disp. 1 et 3. sunt tradita: reliqua plex principles, for those things that are necessary for this doctrine
+vero ad libros Analytica posteriora <374> spectant. Denom- were already related in disputations 1 and 3; the remaining things per-
+inatio autem principii quae his tribuitur, ad aliquod genus tain to the Posterior Analytics. But the denomination of principle that
+causalitatis pertinet, vel ad aliquam habitudinem ex his is attributed to these belongs to some genus of causality of to some
+25 quae statim numerabimus: nam quia cognitio res quaedam 25R disposition (habitudinem) of those that we will number at once.10 For
+est, principium cognitionis secundum aliquam habitudinem since cognition is a kind of thing, it is called a principle of cognition
+dicitur, in qua convenit cum aliis principiis rerum. according to some disposition, in which it agrees with other principles
+of things.
+4. Principium igitur rei dici potest aut solum ratione or- 4. Therefore, something can be called the principle of a thing ei-
+dinis, et cuiuscumque connexionis, aut ratione intrinsecae 30R ther by reason of an order or of some sort of connection alone or by
+30 habitudinis. Priori modo dixisse videtur Aristoteles in Poet- reason of an intrinsic disposition. Aristotle seems to have spoken in
+ica, aliquantulum a principio: Principium illud esse dicimus the first way in the Poetics a little after the beginning: ‘We call that a
+quod non necessario post aliud est, et post ipsum aliquid esse principle which is not necessarily after another, and after itself there
+vel fieri natum est. Haec autem appellatio sub hac ratione is something or something started to become. On this account, how-
+multiplex est. Primo enim in omni actione aut negotio 35R ever, this appellation is manifold. For, first, in every action or activity
+35 illud unde inchoatur, principium dicitur, quod aliquando that from whence it arises is called a principle. Sometimes this is an
+est arbitrarium, seu casuale, aliquando est debitum ipsi rei, arbitrary or chance thing, sometimes it is owed to the thing itself or
+vel saltem magis consentaneum, ut convenienter fiat, vel at least it is very fitting in order for it to come about agreeably, either
+spectata natura rei quae fit, vel interdum considerata cog- with respect to the nature of the thing that is brought about or some-
+nitione operantis. Atque hoc modo in ordine traditae sci- 40R times in consideration of the cognition of the one operating. Aristotle
+8Suárez presumably has in mind that the premises of demonstrative knowledge are complex because they predicate something of something, e.g., ‘Some animals are rational’.
+9Metaphysics V.1 1013a15.
+10‘Habitudo’ could also be translated with ‘relation’. One should be cautious, however, about assuming that habitudo refers to the categorial relations discussed under the name
+‘relation’ in DM 47.
+22 Analytica ] om. V.
+
+-- 4 of 26 --
+
+Suárez, DM XII.1 5
+40 entiae ait supra Aristoteles, id quod est notius nobis appel- speaks in this way above in relation to the transmitted scientiae: that
+lari posse principium doctrinae, quia inde convenienter in- which is better-known to us can be designated a principle of doctrine,
+choatur scientia. Secundo in successione seu ordine tem- since scientia is suitably entered into from there. Second, with regard
+poris aurora dicitur principium diei, quia inde incipit dies. to the succession or order of time, the dawn is called a principle of
+Tertio in ordine loci qui primus sedet, dicitur principium 45R the day because that is where the day begins. Third, with regard to
+45 caeterorum, et locus etiam ille ex quo fons oritur, dici so- the order of place, what lies first is called a principle of the remaining
+let principium eius. Quarto addit Damascenus etiam sol- things, and that place from which a spring originates is customarily
+ere dici propter ordinem dignitatis, ut, Rex (ait) est prin- called its principle. Fourth, John of Damascus adds that it is custom-
+cipium eorum quibus praeest: quamvis hoc possit ad causali- ary to call something [a principle] on account of the order of dignity:
+tatem pertinere, ut Aristoteles significat. Denique quidquid 50R ‘A king’, he says, ‘is a principle of those whom he leads’, although this
+50 alteri praesupponitur, potest dici principium eius, ut fun- can pertain to causality, as Aristotle indicates. Finally whatever is pre-
+damentum dicitur principium domus, et unitas principium supposed by another can be called its principle, as the foundation is
+numeri. Et in omni re quae extensionem habet vel lati- called a principle of the house, and unity a principle of number. And
+tudinem, prima pars aut primum extremum, quod aliis sup- in every thing that has extension or latitude, the first part or the first
+ponitur, dici potest principium totius, vel reliquarum par- 55R extreme that is presupposed by the others can be called a principle of
+55 tium. Unde haec acceptio vel denominatio principii latis- the whole or of the remaining parts. Hence, this meaning (acceptio)
+sima est, et variis modis potest multiplicari, ita ut non pos- or denomination of principle is very broad and can be multiplied in
+sit ad certam et scientificam rationem revocari, quia est fere various ways, so that it cannot be brought to a certain and scientific
+aequivoca denominatio. account (rationem). For it is almost an equivocal denomination.
+Strictius
+acceptum
+principium quid
+significet
+5. Alio igitur modo, et magis philosophico, dicitur 60R 5. Therefore, in another and more philosophical way, something What the stricter
+sense of
+‘principle’
+signifies.
+60 principium ratione alicuius habitudinis per se inter ipsum, is called a principle on account of some disposition per se between it-
+et id cuius est principium, ita ut ex illo aliquo modo per self and that of which it is the principle such that the latter in some
+se oriatur. Quod duobus modis accidere potest. Primo way arises per se from the former. This can happen in two ways. First,
+per positivum influxum et communicationem sui esse: qui through a positive influx and communication of the principle’s own
+modus respectu rerum <col. b> creatarum semper est cum 65R being. With respect to created things, this way always involves depen-
+65 dependentia et causalitate, ut explicabimus: quare huius- dence and causality, as we will explain. For this reason, a principle of
+modi principium, philosophice loquendo, semper induit ra- this kind, speaking philosophically, always takes on the ratio of cause.
+tionem causae. Solum in divinis personis invenitur prin- Only in the divine persons does one find a principle with true influx
+cipium cum vero influxu, et communicatione proprii esse and communication of proper being but without causality. (But why
+sine causalitate: cur autem hoc ita sit, sectione sequenti ex- 70R this is so we will try to explain in the following section.) Hence, this
+70 plicare tentabimus. Unde hoc genus principii quatenus ra- genus of principle, insofar as it includes the ratio of cause, can be di-
+tionem causae includit, in tot membra dividi potest, quot vided into as many members as there are causes. For there are certain
+causa. Sunt enim quaedam principia intrinsece constituen- principles intrinsically constituting a thing, but others are extrinsic,
+tia rem: alia vero sunt extrinseca, quae esse influunt in rem, which inflow being into a thing and remain external to that thing, as
+et extra illam manent, ut finis, et efficiens, de quibus postea 75R the end and efficient cause do, concerning which we must speak later.
+75 dicendum est.
+Privatio qualiter
+dicitur
+principium rei
+naturalis.
+6. Secundo potest aliquid ex alio per se oriri ut ex prin- 6. Second, something can arise per se from something else as from How privation is
+called a principle
+of a natural thing.
+cipio, non per positivum influxum, sed solum propter nec- a principle, not through a positive influx but only on account of a
+
+-- 5 of 26 --
+
+Suárez, DM XII.1 6
+essariam et per se habitudinem ad aliud. Quo modo pri- necessary and per se disposition to the other thing. In this way priva-
+vatio inter principia rei naturalis numeratur ab Aristotele, tion is numbered among the principles of natural things by Aristotle.
+80 quae mediam quamdam rationem habere videtur inter duos 80R It seems to have a kind of intermediate ratio between the two kinds
+modos principiorum declaratos. Nam ille prior latissimus of principle that have already been explained. For the former kind is
+est, et solum fundatur in quolibet ordine prioritatis, nec re- most broad and is founded merely on any kind of order of priority.
+quirit habitudinem per se, sed in quolibet genere composi- It does not ever require a disposition per se, but can be found in any
+tionis, aut successionis inveniri potest: privatio autem per- genus of composition or succession. Privation, however, is called a
+85 fectiori modo et magis intrinseco dicitur principium gener- 85R principle of natural generation in a more perfect and more intrinsic
+ationis naturalis. Alter vero modus principii per influxum, way. But the second kind of principle through influx is more perfect
+perfectior est quam ut possit privationi convenire, quia pri- than anything that can agree with privation. For privation, since it is
+vatio cum non sit vera res, non potest habere proprium in- not a real thing, cannot have a proper influx into a thing that comes
+fluxum in rem quae fit, seu in eius generationem: et multo to be or into its generation. Much less can it intrinsically compose the
+90 minus potest intrinsece componere rem genitam. Dicitur 90R generated thing. Therefore, it is called a principle on account of an in-
+ergo principium propter intrinsecam habitudinem genera- trinsic disposition of the generation toward it. For because generation
+tionis ad ipsam: nam quia generatio essentialiter est transi- is essentially a transition from non-being to being, it for that reason
+tus de non esse ad esse, ideo per se supponit privationem, et per se presupposes privation, and comes to be per se from it as from a
+ex illa tamquam ex necessario termino per se fit: hac ergo necessary terminus. For this reason, therefore, privation is said to be
+95 ratione dicitur privatio esse principium rei naturalis, non 95R a principle of a natural thing, not indeed of its constitution as a being
+quidem constitutionis eius in facto esse, sed generationis. having been made already but of its generation.
+Forma aliter
+generationis,
+aliter rei genitae
+principium.
+7. Immo (ut hoc obiter dicam) etiam forma ut est prin- 7. Indeed, if I may mention this in passing, even form when it is a Form is a
+principle of
+generation in one
+way, a principle
+of the generated
+thing in another
+way.
+cipium generationis, longe aliter est principium, quam ut principle of generation is a principle in a very different way than when
+est principium rei genitae et constitutionis eius: ipsius enim it is a principle of the generated thing and of its constitution. For of
+100 rei est principium per influxum et causalitatem formalem, 100R the thing itself it is a principle through influx and formal causality,
+ut infra declarabimus: generationis autem non potest esse as we will show below,11 but it is not a principle in this way of the
+principium hoc modo, quia ipsa non potest esse causa pro- generation. For it cannot be a proper cause of the generation through
+pria eius <375> generationis per quam fit, ita ut in eam which it is made such that it truly inflows being into it, unless per-
+vere influat, nisi forte reducatur ad causam finalem: nam haps it were reduced to a final cause (for the end of generation is the
+105 finis generationis est formae introductio: vel etiam ad for- 105R introduction of the form) or even to an extrinsic formal [cause] in-
+malem extrinsecam, in quantum generatio speciem sumit sofar as generation takes its species from the form to which it tends.
+a forma ad quam tendit: quae causalitates Physicae sunt [But] these physical causalities are very improper with respect to such
+valde impropriae respectu talis formae, ut postea patebit. a form, as will be clear later. And for this reason this ratio of princi-
+Et ideo haec ratio principii qua forma dicitur principium ple according to which a form is said to be a principle of generation
+110 generationis, proprie pertinet ad hunc postremum modum: 110R properly pertains to this last kind [of principle]. For generation per
+nam generatio per se et intrinsece intendit formam, ut for- se and intrinsically intends the form as the formal terminus to which
+malem terminum ad quem tendit: quod satis est ut dicatur it tends. That is sufficient for calling it a principle of generation.
+Materia qualiter
+principium
+generationis.
+generationis principium. Secus vero est de materia: quia But it is otherwise with matter, since matter also has a kind of How matter is a
+principle of
+generation.	11DM 15.
+
+-- 6 of 26 --
+
+Suárez, DM XII.1 7
+haec etiam respectu generationis habet aliquem influxum et influx and causality with respect to generation, although different
+115 causalitatem, licet diversum ab ea quam habet circa constitu- 115R from that which it has concerning the consitution of a natural thing.
+tionem rei naturalis, in hanc enim rem naturalem influit ma- For matter inflows into this natural thing, intrinsically constituting it
+teria intrinsece constituendo illam per seipsam: in genera- through itself. But in generation it does not [constitute] but only sus-
+tionem vero non ita, sed solum sustentando, et recipiendo il- tains and receives. And these things are occasionally said about these
+lam. Et haec sint per occasionem dicta de his principiis quia principles, since the name ‘principles of a natural thing’ is customarily
+120 illis solet per antonomasiam nomen principii rei naturalis 120R applied to them through antonomasia.
+accommodari. Denique ad hanc ultimam principii denom- Finally, some examples posited for the first and general denomi-
+inationem possunt reduci aliqua exempla posita in prima nation can be reduced to this last denomination of principle insofar as
+et generali denominatione, quatenus in eis reperiri potest a per se and from intrinsic necessity order can be found in them. For
+ordo per se, et ab intrinseco necessarius: sic enim punctus in this way a point can be called a per se principle of a line, a first grade
+125 dici potest per se principium lineae, et primus gradus, totius 125R of the whole quality, and a foundation of the house, although in these
+qualitatis, et fundamentum, domus: quamquam in his talis cases such a kind of per se principle is always reduced to some genus
+modus principii per se semper reducitur ad aliquod genus of influx or causality.
+influxus seu causalitatis.
+Esse prius, omni principio qualiter commune. In what way being before is common to every principle.
+8. Ex hac principiorum enumeratione colligi potest primo 8. From this enumeration of principles one can gather, first, that
+commune esse omni principio ut sit aliquo modo prius it is common to every principle that it be prior in some way to the
+principiato: hoc enim prae se fert ipsum principii nomen. principiatum. For the very name ‘principle’ shows this. In fact, Aris-
+5 Immo Aristoteles citato loco 5. Metaphysicae colligit, com- 5R totle in the cited passage from Metaphysics V gathers that ‘it is common
+mune omni principio esse ut sit primum: quod aliquid maius to every principle that it be first’, which is something stronger than
+est quam esse prius: nam hoc solum dicit antecessionem ad being before. For the latter merely implies being antecedent to the
+principiatum: illud vero dicit negationem prioris. Sed con- principiatum but the latter implies the negation of anything prior [to
+siderandum est, principium simpliciter in aliquo genere, vel the principle]. It should be considered, however, that what is called
+10 sub aliqua ratione dici, quod ita est principium ut non sit 10R the unqualified principle in some genus or under some aspect is that
+principiatum sub illa ratione, nam si sit principiatum ab alio which is a principle in such a way that it is not a principiatum under
+in ea serie, non erit principium simpliciter in illo ordine, sed that aspect. For if it is the principiatum of something else in that series,
+tantum secundum quid respectu alicuius: verbi gratia punc- it will not be the unqualified principle in that order but only a qual-
+tus tunc est proprie principium lineae, <col. b> quando ified principle with respect to something else. For example, a point
+15 ante illum nullus punctus, et consequenter nec pars lineae 15R is then properly the principle of a line when there is no other point
+antecessit: punctus autem continuans partes lineae, tantum before it and consequently no part of the line precedes it. But a point
+respective potest dici principium subsequentium partium, on continuing parts of the line can be called a principle only with re-
+cum sit terminus praecedentium. Quod clarius in tempore spect to the subsequent parts, since it is the terminus of the preceding
+considerare licet: absolute enim illud solum instans est prin- parts. This may be considered more clearly in the case of time. For in
+20 cipium temporis, ante quod instans nullum tempus praeces- 20R an absolute sense only that instant is the principle of time which has
+sit, sed immediate subsequitur: instans autem intermedium no time preceding it but is immediately followed. An intermediate in-
+
+-- 7 of 26 --
+
+Suárez, DM XII.1 8
+non dicetur simpliciter principium temporis, sed tantum re- stant, however, is not called an unqualified principle of time, but only
+spective vel sub aliqua determinata ratione, scilicet princip- respectively or under some determinate aspect, namely, the principle
+Concil. Tolet.
+VI. et XI. in
+principio.
+Dionys. c. 1. De
+caelest. hierarch.
+et 2. De div. nom.
+Cap.
+Damnaemus, de
+summa Trinit. et
+fide cathol.
+Nazianz. orat. 29.
+Athanas. orat. in
+illud dictum.
+Deus de Deo.
+Aug. 4. De Trin.
+c. 20.
+ium diei, vel anni. Et ad hanc verborum proprietatem vi- of a day or of a year.
+25 dentur alludere Sancti cum dicunt, Patrem aeternum, esse 25R The saints seems to allude to this property of the words when Concil. Tolet.
+VI. et XI. in
+principio.
+Dionys. c. 1. De
+caelest. hierarch.
+et 2. De div. nom.
+Cap.
+Damnaemus, de
+summa Trinit. et
+fide cathol.
+Nazianz. orat. 29.
+Athanas. orat. in
+illud dictum.
+Deus de Deo.
+Aug. 4. De Trin.
+c. 20.
+principium, fontem, et originem totius deitatis. Non enim they say that the eternal Father is the principle, fount, and origin of
+ita loquuntur quia Pater sit principium ipsius naturae div- the whole deity. For they do not say that because the Father is the
+inae: quia iuxta fidem catholicam divina natura non habet principle of the divine nature itself. For according to the catholic faith
+principium, quia a nullo procedit, alias ab eo distinguere- the divine nature has no principle, since it proceeds from nothing.
+30 tur: unde sicut damnatur haec locutio, essentia generat: ita 30R Otherwise it would be distinguished from that [from which it pro-
+et haec, essentia generatur, vel procedit. Vocant ergo Pa- ceeds]. Hence, just as the phrase ‘the essence generates’ is condemned,
+trem principium divinitatis, quia in illo gradu, seu ordine so also the phrase ‘the essence is generated or proceeds’. Therefore,
+(ut ita dicam) divinarum personarum solus ipse ita est prin- they call the Father the principle of divinity because in that grade or
+cipium aliarum personarum in divinitate subsistentium, ut order (if I may speak in this way) of divine persons only the Father is
+35 nullum principium habeat: et ideo dicitur principium di- 35R the principle of the other persons subsisting in divinity in such a way
+vinitatis, id est omnis communicationis divinitatis. Filius that he himself has no principle. And for that reason he is called the
+autem, quia principium habet, non potest absolute vocari principle of divinity, that is, of every communication of divinity. The
+principium divinitatis: dicitur autem vere principium Spiri- Son, however, because he has a principle cannot be called the princi-
+tus sancti, seu communicationis divinitatis per modum spi- ple of divinity in an absolute sense. Moreover, he is not truly called
+40 rationis, quia sub ea ratione non habet principium. Sic ig- 40R a principle of the Holy Spirit or of the communication of divinity
+itur de ratione omnis principii est ut sit prius eo cuius est through the mode of spiration because under that aspect he does not
+principium, quod si absolute et simpliciter in aliquo ordine have a principle. In this way, therefore, it belongs to the ratio of every
+principium sit, erit etiam primum in illo ordine. principle to be before that of which it is the principle, and, if it is the
+principle absolutely and unqualifiedly in some order, it will also be
+45R first in that order.
+Forma an prior
+generatione.
+9. Dices, Forma est principium generationis rei natu- 9. You may say that a form is a principle of the generation of a Whether a form
+is prior to
+generation.
+45 ralis, et tamen nullo modo est prior generatione, cum sit natural thing and yet in no way is prior to the generation since it is
+formalis terminus eius. Item obiiciet Theologus in divinis its formal terminus. Likewise, a theologian will object that no proper
+personis nullam propriam prioritatem inveniri, cum tamen priority can be found among the divine persons, yet there is a most
+in eis sit propriissima ratio principii. Ad priorem partem 50R proper ratio of principle among them.
+respondetur formam esse <376> priorem generatione in ra- To the former part, it is responded that a form is prior to gen-
+50 tione termini per se, ad quem ordinatur generatio, quae re- eration in the ratio of the terminus per se to which the generation is
+vocatur ad prioritatem in ordine intentionis. Non deerit ordered, which is called back to the priority in the order of intention.
+tamen qui dicat formam etiam esse priorem natura in exse- Nevertheless, one who says that form is also prior in nature in execu-
+cutione et in genere causae formalis: sed id non recte dicitur 55R tion and in the genus of formal cause will not be incorrect. But that is
+respectu generationis, quia ut dixi, non est propria causa il- not rightly said with respect to generation, because, as we said, form
+55 lius, satis ergo est prior habitudo generationis ad formam ut is not a proper cause of that. The prior disposition of generation to
+haec sit principium illius, quidquid sit de propria causalitate the form is enough, therefore, for the latter to be the principle of the
+respectu illius. Dices, Ergo actus vocari poterit principium former, whatever may be the case about the proper causality with re-
+
+-- 8 of 26 --
+
+Suárez, DM XII.1 9
+potentiae: quia licet sit posterior generatione, vel tempore, 60R spect to the former. You may say that an act will then be able to be
+quam potentia, tamen est terminus quem per se respicit po- called the principle of a power. For, although it is posterior in genera-
+60 tentia, et a quo speciem sumit: unde natura est prior ordine tion or in time than the power, nevertheless, it is the terminus which
+intentionis. Respondetur primo concedendo sequelam in eo the power respects per se and from which it takes its species. Hence,
+genere principii specificantis: quod enim est inconveniens? by nature it is prior in the order of intention. It is responded by first
+Deinde multo maior est ratio de forma respectu generatio- 65R conceding the consequent in that genus of specifying principles. For
+nis, quia forma est ita extrinseca generationi, ut insepara- what would be objectionable about that? Furthermore, the ratio of
+65 biliter, et intime ac essentialiter habeat illam coniunctam, the form with respect to generation is much greater, since the form is
+ita ut non possit intelligi actualis generatio quin ibi interve- extrinsic to the generation in such a way that it has that conjunction
+niat forma actu informans: actus vero est magis extrinsecus inseparably, intimately, and essentially, such that the actual generation
+potentiae. 70R cannot be understood without the involvement of an actually inform-
+ing form. But an act is more extrinsic to a power.
+10. Altera pars obiectionis ad Theologos magis per- 10. The latter part of the objection belongs more to the theolo-
+70 tinet. Inter quos diversitas quaedam est fortasse potius in gians. Some of the differences between them are perhaps more verbal
+modo loquendi, quam in re. D. Thomas itaque in 1. p. than real. Consequently, in ST Ia.42.2 co., St. Thomas, although he
+q. 42. art. 3. in corpore, licet concedat inter Divinas per- 75R concedes that there is an order of origin among the divine persons,
+sonas esse ordinem originis, negat tamen simpliciter unam he denies that strictly speaking one is before the others, since in the
+esse priorem alia, quia in Trinitate (inquit) est ordo natu- Trinity, he says, there is an order of nature without priority. And in
+75 rae sine prioritate. Et in solutione ad secundum declarat, the response to the second argument he declares that in the Trinity
+ibi nec prioritatem naturae esse, nec intellectus, quia il- there is neither priority of nature nor of intellect, since those persons
+lae personae et relativae sunt, et in unamet natura subsis- 80R both are relatives and they all subsist in the very same nature. Hence
+tunt: unde nec ex parte naturae habere possunt prioritatem, they cannot have priority on the part of nature, since that is the same,
+cum illa eadem sit: nec ex parte relationum, cum correla- nor can they have priority on the part of the relations, since the cor-
+80 tiva sint simul natura, et intellectu. Quapropter idem Doc- relatives are also the same in nature and intellect.
+tor sanctus dicta q. 33. art. 1. ad 3. ita respondet difficul- As a result, the same holy Doctor in the same work, Ia.33.1 ad 3,
+tati, quam nunc tractamus, ut negare nostram assertionem 85R responds in such a way to the difficulty that we are now discussing that
+videatur. Dicit enim, quamvis nomen principii sumptum he seems to deny our assertion. For he says that, although the name
+sit a prioritate, non tamen significare prioritatem. Nam ‘principle’ is taken from priority, it nevertheless does not signify pri-
+85 frequens est, ut in nomine aliud sit, quod significet, aliud ority. For it often happens that what signifies in a name is one thing
+vero illud, a quo ad significandum imponitur. Nec sibi est but that there is something else by which it is imposed in order to sig-
+contrarius D. Thomas, cum 1. p. q. 40. art. 4. inquit, per- 90R nify. Nor is St. Thomas opposing himself, since in ST Ia.40.4, he says
+sonam producentem esse nostro modo intelligendi priorem in our way of understanding the person producing is prior to the per-
+persona producta. Nam ibi loquitur de modo intelligendi son produced. For here he speaks about our imperfect and confused
+90 nostro imperfecto et confuso. In altero autem loco agit de way of understanding. But in the other place he talks about perfect
+intelligen- <col. b> tia perfecta, quae rebus ipsis prout in intelligence, which must [present] things as they are in themselves.
+se sunt, debetur. Et ita intelligunt Caietanus et Thomis- 95R This is the way Cajetan and the Thomists understand the matter and
+tae, et cum eis in re concordat Durandus in 1. p. dist. 9. in this case Durandus agrees with them in I, dist. 9, q. 2, and dist. 20,
+q. 2. et dist. 20. q. 2. Estque haec sententia satis proba- q. 2. And this view is probable enough and that way of speaking is
+
+-- 9 of 26 --
+
+Suárez, DM XII.1 10
+95 bilis, modusque ille loquendi cautus est, et securus: iuxta cautious and safe. According to this opinion, our assertion can be
+quam opinionem assertio nostra limitari poterit, ut Meta- limited so that it is understood metaphysically but not theologically,
+physice intelligatur, non Theologice, id est, de principio, 100R that is, as concerning the principles that are cognized by the light of
+quod lumen naturae cognoscit, non quod sola fides reve- nature but not those revealed only through faith.
+lat. Nihilominus Scotus in 1. p. dist. 12. q. 2. et dist. 28. Nevertheless, Scotus grants in I, dist. 12, q. 2, and dist. 28, last q.,
+100 q. ultima, quem sequitur Gabriel in 1. p. dist. 9. q. 3. con- (Gabriel follows him in I, dist. 9, q. 3) that just as among the divine
+cedit, sicut in divinis personis una est principium alterius, persons one is the principle of another, so also one is prior, not in du-
+ita esse priorem, non duratione, perfectione aut natura, sed 105R ration, perfection, or in nature, but in origin alone. For this priority
+origine tantum. Nam haec prioritas imperfectionem non in- does not include imperfection, and is necessarily included in the very
+cludit, et in ipsa ratione principii producentis necessario in- ratio of a producing principle. Each is clear, since it only requires that
+105 cluditur. Utrumque patet, quia solum importat in persona in the producing person that it have being apart from such an origin
+producente, quod habeat esse absque tali origine, secundum according to which the other person proceeds from it, as the Father
+quam alia persona ab illa procedit: ut Pater habet esse ab- 110R has being apart from generation but the Son does not have it except
+sque generatione, Filius vero non nisi per generationem: et through generation. And each has being apart from spiration, but the
+uterque habet esse absque spiratione, sanctus vero Spiritus Holy Spirit does not except through spiration. This genus of prior-
+110 non nisi per illam. Quod genus prioritatis inter correlativa ity between correlatives cannot be found in created things, since one
+non potest in creatis rebus inveniri, quia unum relativum ut relative as such does not proceed from another. But in the divine case
+tale est non procedit ab alio: in Divinis autem reperitur pro- 115R there is found a procession of one correlative from another insofar as
+cessio unius correlativi ab alio, quatenus talia sunt. Et iuxta they are such. And according to this view, our assertion has truth
+hanc sententiam, assertio nostra universaliter verum habet: universally. For if it is found to be true in the case of the divine per-
+115 nam si in Divinis personis vera invenitur, multo magis in son, much more is it true in the case of created things. Moreover, it
+creatis. Non est autem mirum, quod sicut ratio principii is not surprising that just as the ratio of principle in those persons is
+in illis personis singularis est, ita etiam modus prioritatis sit 120R unique, so also the mode of priority is peculiar and of a very different
+peculiaris, et longe alterius rationis ab omnibus, qui in crea- character than everything that can be found among creatures.
+turis inveniantur. Estque hic modus loquendi etiam proba- And this way of speaking is also probable and in reality (as I
+120 bilis, et in re (ut opinor) non contradicit D. Thomas, quia think) does not contradict St. Thomas, since he never explicitly de-
+ipse nunquam expresse negavit hoc prioritatis genus in Di- nies this kind of priority among the divine persons, but denies other
+vinis personis, sed alia, quae in creaturis inveniuntur. Tacuit 125R kinds that are found among creatures. Nevertheless, he leaves it un-
+tamen, nunquamque usus est illa locutione, sed ordinem mentioned and never uses that locution, but he pronounces that order
+originis appellavit non prioritatem. Et sane non sine causa, of origin is not priority. And reasonably and not without cause, both
+125 tum quia in rebus Divinis modus loquendi Patrum imitan- because in divine matters the Fathers’ way of speaking should be imi-
+dus est, apud quos illa locutio non reperitur: tum etiam, tated and that locution is not found among them, and also because the
+quia prioritas originis non est absolutae prioritatis, prout 130R priority of origin is not absolute priority as it is found in the divine
+in Divinis personis reperitur: quia prioritas simpliciter et persons. For priority that is unqualified and without any asserted ad-
+sine addito asserta imperfectionem aliquam in re, quae pos- ditions seems to imply some imperfection in the thing that is called
+130 terior dicitur, indicare videtur. Item, quia illud dicitur ab- posterior. Likewise, because that is said to be absolutely prior which
+solute prius, quod potest aut esse, aut saltem exacte intelligi either can exist or can at least be understood exactly without another.
+sine alio: una vero persona divi- <377> na neutro modo 135R But a divine person is not related to another in either way.
+
+-- 10 of 26 --
+
+Suárez, DM XII.1 11
+ad aliam comparatur. Quod vero addunt aliqui, unam per- Some people, however, add that one divine person is prior to an-
+sonam divinam esse priorem alia in ordine naturalis enumer- other in the order of natural enumeration, in the way that we number
+135 ationis, quomodo, primam, secundam, et tertiam personam them the first, second, and third person. This, I say, is not different
+numeramus: hoc (inquam) non est diversum a praecedenti, from the previous claim, for there is no ground for this mode of enu-
+nam hic modus enumerandi non fundatur nisi in prioritate 140R merating if not in the priority of origin. Hence, in reality this does
+originis, unde in re ipsa non indicat aliud prioritatis genus, not indicate a different kind of priority. That mode of enumerating,
+declarat autem optime ille enumerandi modus hunc modum however, best shows this mode of the priority of origin if with fitting
+140 prioritatis originis, si congruis verbis, et sano sensu declare- words and sound sense it is shown not to be wholly alien to the way
+tur, non esse omnino alienum a modo loquendi Ecclesiae, of speaking of the Church and the Doctors.
+et Doctorum. Unde cum illo addito acceptari potest, suffi- 145R Hence, once that has been added, it can be accepted and it is suf-
+ciensque est ut in universum verum sit, omne principium ficient so that it is universally true that every principle is in some way
+esse aliquo modo prius eo, cuius est principium: quamvis prior to something else of which it is the principle, although this al-
+145 hoc semper maneat singulare in Trinitate, quod cum ratio ways remains unique in the case of the Trinity, insofar as the ratio
+principii absolute, et simpliciter conveniat uni personae re- of principle absolutely and unqualifiedly agrees with one person with
+spectu alterius, ratio autem prioris solum cum addito, et 150R respect to another, but the ratio of prior is attributed only with an
+limitatione tribuatur, nam illud absolute dictum nullam im- addition and limitation. For the former said absolutely implies no im-
+perfectionem in altero extremo, hoc vero aliquam indicare perfection in either extreme, but the latter seems to indicate some im-
+150 videtur. Prioritas ergo originis dicto modo explicata, satis perfection. Therefore, once the priority of origin has been explained
+est ut vera ratio principii in divinis inveniatur: unde quod in the stated way, it is sufficient so that a true ratio of principle can be
+D. Thomas ait, nomen principii sumptum esse a prioritate, 155R found in the divine case. Hence, the claim that St. Thomas makes—
+non vero significare illam, si per prioritatem intelligat abso- that the name ‘principle’ is taken from priority but does not signify
+lutam et positivam prioritatem, quae imperfectionem con- it—is true if priority is understood to be absolute and positive prior-
+155 notet in principiato, verum est: si tamen sit sermo de pura ity, which connotes imperfection in the principiatum. Nevertheless,
+antecessione quasi negativa, sub ea ratione sub qua princip- if the discussion is about a pure, negative, as it were, coming before
+ium dicitur, sic non solum nomen principii sumptum est 160R (antecessione), under which ratio something is called a principle, then
+a prioritate, sed etiam illam significat, et requirit cum pro- in that way the name ‘principle’ not only is taken from priority but
+portione debita, ut declaratum est, et constat ex definitione also signifies it and requires due proportion to it, as was shown and
+160 Aristotelis, et ex omnibus adductis. is clear from Aristotle’s definition and from everything else that has
+been brought up.12
+Descriptio principii in communi consummatur. The description of principles in general is completed.
+Inter principium
+et principiatum
+connexio
+requisita.
+11. Secundo infertur ex dictis, ad rationem principii non 11. Second, it is inferred from what was said that for the ratio The required
+connection
+between
+principle and
+principiatum.
+satis esse ut sit prius alio, sed necessarium esse ut inter illa of principle it is not enough that something be prior to another. It
+sit aliqua connexio, vel consecutio unius ab alio, quod prin- is also necessary that there be some connection [between them] or
+5 cipium denominatur. Hoc patet ex communi modo con- 5R the resulting of one from the other that is denominated the principle.
+cipiendi hominum, et inductione facile declaratur. Nam This is clear from the common way of conceiving of human beings,
+12It is unclear to me how best to read the Latin in the last sentence.
+
+-- 11 of 26 --
+
+Suárez, DM XII.1 12
+homo heri natus non est principium eius qui hodie nasci- and is easily shown by induction. For a human being born yester-
+tur, licet sit prior illo, et in divinis si Spiritus sanctus non day is not the principle of one born today even though it is prior to
+procederet a Filio, Filius non posset dici principium eius, the it. And among the divine persons, if the Holy Spirit were not to
+10 etiamsi cogitari aliquo modo posset ratione prior, eo scil- 10R proceed from the Son, the Son would not be called its principle, even
+icet modo quo actus intellectus <col. b> dicitur prior actu if he could be thought in some way prior in reason, namely, in the
+voluntatis. Est ergo necessaria aliqua connexio, vel conse- way in which an act of intellect is said to be prior to an act of will.
+cutio: et ideo iuxta varios modos talis consecutionis, varia Therefore, some connection or resulting is necessary. For this reason,
+etiam est denominatio principii: interdum enim oritur ex the denomination ‘principle’ is various after the varios modes of such
+15 situ: interdum ex successione intrinseca: aliquando ex dima- 15R resulting. For sometimes it arises from position, some from an in-
+natione, et sic de aliis superius enumeratis. Atque hoc totum trinsic succession, sometimes from dimanation, and so on concerning
+Aristoteles. significavit Aristoteles dicto loco 5. Metaphysicae cum dixit, the others enumerated above. And Aristotle indicated all this in the Aristotle.
+Principium esse primum, unde aliquid est, etc. nam illa dictio cited passage from Metaphysics V when he said that ‘a principle is first,
+unde, praedictam connexionem vel consecutionem indicat. from which something is . . . ’ For that phrase ‘from which’ implies
+20 Est autem hoc cum proportione intelligendum, nam esse 20R the aforementioned connection or resulting. This must, however, be
+potest principium in actu et in potentia, et utroque modo understood with proportion, for a principle can be in actuality or po-
+requirit habitudinem ad alterum, quod ad illud consequitur, tentiality, and in either way it requires a disposition to another which
+vel actu vel potentia. results from it, either actually or potentially.
+12. Atque ita concluditur descriptio principii in com- 12. And so the description of principle taken generally and most
+25 muni et confusissime sumpti, quam sub his terminis D. Tho- 25R vaguely is concluded, which St. Thomas taught under these terms in St. Thomas.
+D. Thomas. mas tradit 1. p. q. 33. art. 1. Principium est id a quo aliquid ST Ia.33.1 [co.]: ‘a principle is that from which something proceeds in
+procedit quocumque modo: ubi verbum illud procedit, non any way whatsoever’. The word ’proceeds’ there should not be taken
+est sumendum stricte pro vera origine, sed pro quocumque strictly for true origin, but for any resulting or connection whatso-
+consecutione, vel connexione, ut hactenus locuti sumus: et ever, in the way we have been speaking so far. Perhaps in order to sig-
+30 ad hoc significandum addidit fortasse D. Thomas illam par- 30R nify this, St. Thomas adds the little phrase ‘in any way whatsoever’.
+ticulam quocumque modo. Atque hoc sensu sumpta est illa This is the way that definition from the cited passage13 from Aristo-
+definitio ex praedicto loco Aristotelis, dicentis principium tle where he says that a principle is ‘that from which something is’
+esse, id unde aliquid est. Consulto enim videtur abstinuisse should be taken. For he seems deliberately to have avoided a peculiar
+a peculiari verbo significanti originem, vel alium modum word signifying origin or any other mode of emanation, so that ev-
+35 emanationis, ut per illam particulam unde, omnem modum 35R ery kind of conjunction or resulting is included through that phrase
+Principii
+generalis
+quaedam divisio.
+coniunctionis seu consecutionis complecteretur. Addit vero ‘from which’. For a more thorough explanation, he adds that a prin- A certain general
+division of
+principle.
+ad maiorem explicationem principium esse, Id unde aliquid ciple is ‘that from which something is, or comes to be, or is cognized’.
+est, aut fit, aut cognoscitur, ut simul cum descriptione gen- He does this in order to explain a certain division of principles at the
+eralem quamdam divisionem principiorum explicaret: ad same time along with the general description. For all principles, es-
+40 illa enim tria membra modo commemorata possunt om- 40R pecially those that are per se, can be brought under only these three
+nia principia revocari, praesertim ea quae sunt per se: nam aforementioned members. (Those that are per accidens cannot easily
+quae sunt per accidens, vix possunt ad certam methodum be brought under a reliable method except insofar as they are reduced
+13See the previous paragraph.
+
+-- 12 of 26 --
+
+Suárez, DM XII.1 13
+revocari, nisi quatenus reducuntur ad ea quae sunt per se. to those that are per se.
+Sic igitur principia omnia aut sunt principia rei in fieri, aut So, then, all principles are either principles of a thing in coming
+45 principia rei in esse: et ad haec duo membra reducuntur om- 45R to be (in fieri) or principles of a thing in being (in esse). All princi-
+nia principia rerum, quia non potest intelligi in rebus alius ples of things can be brought under these two members, since no state
+status nisi in fieri, vel in esse: et non semper principium other than becoming or being can be understood of things. And a
+effectionis, est principium constitutionis rei, ut patet in pri- principle of effecting is not always a principle of the constitution of
+vatione. Sub principio autem eius quod fit, comprehenditur the thing, as is clear in the case of privation. Under the principle of
+50 omne principium motus vel operationis ut sic, vel cuiusli- 50R that which comes to be, however, is included every principle of mo-
+bet rei successivae: nam ista omnia <378> habent suum tion or operation as such or any sort of successive thing. For every
+esse in fieri: sub principio vero eius quod est, includun- such thing has its being in becoming. But under the principle of that
+tur omnia principia rerum, quae aliquo modo habent esse which is is included every principle of things that in some way have
+(ut aiunt) in facto esse. Quia vero etiam res successivae, et being in the being having been made (as they say). But because even
+55 actiones ipsae aliquo modo sunt, ideo generalius sumendo 55R successive things and actions themselves in some way are, for that rea-
+verbum est, dici solet a Theologis Principium esse id, unde son the word ‘is’ must be taken more generally. It is customarily said
+aliquid est. Atque eodem posset sub his verbis comprehendi by the theologians that ‘a principle is that from which something is’.
+principium cognitionis, et revera comprehenditur, si cog- And a principle of cognition can be included in the same way under
+nitio consideretur quatenus quaedam res est, quae fit, vel these terms. It really is included, if cognition is considered insofar
+60 est: merito tamen Aristoteles tertium membrum adiunxit 60R as it is a kind of thing that comes to be or is. Nevertheless, Aristo-
+de principiis cognitionis, ut significaret non semper prin- tle justifiably added a third member about the principles of cognition
+cipium cognitionis esse principium rei cognitae, sed saepe to indicate that a principle of cognition is not always a principle of a
+alia esse principia rei in esse cognito, a principiis eiusdem thing cognized, but often the principles of a thing cognized in being
+rei in esse aut fieri. Non addidit autem in speciali princip- are different from the principles of the same thing in being or in com-
+65	Intrinsecum
+principium quod,
+quod vero
+extrinsecum.
+ium amandi, quia hoc nullum est nisi vel principium es- 65R ing to be. Moreover, he did not add a special principle of loving, since
+sendi, vel cognoscendi. Atque ex his satis constat tum de- this is nothing other than either a principle of being or of cognizing.
+scriptio, tum etiam divisio ab Aristotele tradita: divisio (in- And from these things both the description and also the division—the
+quam) dicta, quae est trimembris. Post illam vero subiungit aforementioned division that has three members—taught by Aristotle
+Aristoteles aliam bimembrem, dicens, aliud esse principium are sufficiently clear.
+70 intrinsecum, aliud extrinsecam, quae est subdivisio priorum 70R After that, Aristotle adds in another two-fold division, saying: Which principles
+are intrinsic and
+which extrinsic.
+membrorum, ut ipsemet satis clare indicat. Atque ad illam ‘one is an intrinsic principle, another is extrinsic’. This is a subdivi-
+trimembrem divisionem revocat omnes acceptiones prin- sion of the prior members, as he himself makes sufficiently clear.
+cipii quas supra numeraverat: et omnes alias quae excogitari And he brings every sense of principle that he enumerated earlier
+possunt. Non enim sollicitus fuit in enumerandis omnibus and all the others that can be thought of under this three-fold divi-
+75 significationibus ipsius vocis, quod prolixum esset et min- 75R sion. For he was not anxious to enumerate every signification of that
+ime necessarium, sed eas quae vel erant magis usitatae, vel word—which would be prolix and hardly necessary—but only those
+ex quibus aliae facile poterant cognosci. Et ideo supervaca- that either are of more use or from which something else can be read-
+neum censo scrupulose inquirere aliam sufficientiam illius ily understood. For this reason I think it superfluous to search scrupu-
+enumerationis. Quod si quis copiosam de illa re disputa- lously for another sufficiency of that enumeration. But if someone
+80 tionem requirat, legat Fonsecam lib. 5 Metaphysicae cap. 1. 80R needs a copious disputation concerning this matter, he may read Fon-
+
+-- 13 of 26 --
+
+Suárez, DM XII.1 14
+per quaestiones septem, praesertim in quarta. seca, Metaphysics, V.1, the first seven questions, especially the fourth.
+Analogia principii declaratur. The analogy of principles is shown.
+13. Tertio ex dictis infertur, Principium non dici mere 13. Third, it is inferred from what has been said that ‘principle’ is not
+equivoce de omnibus membris quae sub illo continentur, su- said merely equivocally of all the members that are contained under
+periusque numerata sunt, quandoquidem non tantum nom- it and that were listed above, since not only the name but also the ra-
+5 en, sed etiam aliqua ratio nominis est illis communis. Du- 5R tio of the name is common to them. It is usual to wonder whether
+bitari vero solet an sit univoca, vel analoga. Ad quod bre- it is univocal or analogous. To which it ought to be replied briefly
+viter dicendum est non posse esse univocam. Tria enim that it cannot be univocal. For three things can be considered in a
+possunt in principio considerari, unum est res ipsa quae principle. One is the thing itself that is denominated a principle. An-
+denominatur principium: aliud propria relatio secundum other is the proper relation according to being (relatio secundum esse)
+10 esse, quae principia ad principiatum concipitur: tertium 10R that the principle bears to the principiatum. The third is that which
+<col. b> est id quod intelligitur tamquam proxima ratio is understood as the proximate grounding reason (ratio fundandi) for
+fundandi illam relationem, quae est consecutio illa seu di- that relation, which is that resulting or dimanation of the principia-
+manatio principiati a principio. In nullo autem ex his con- tum from the principle. But in none of these do all those things that
+veniunt univoce ea omnia quae principia dicuntur. Primum are called principles agree univocally.
+15 patet, quia principium denominatur non tantum ens increa- 15R The first case is clear, since not only uncreated being but also cre-
+tum, sed etiam creatum, nec solum ens reale, sed etiam ra- ated being is denominated principle, not only real being but also being
+tionis: sed haec non conveniunt univoce in aliqua ratione of reason. But these do not agree univocally in any proper and intrin-
+propria et intrinseca: ergo. Atque eadem ratio fieri potest de sic ratio. Therefore. And the same argument can be made concerning
+secundo, nam etiam relatio principii communis est ad crea- the second case. For the relation of a principle is also common to cre-
+20 tum et increatam, quamvis hanc posteriorem Philosophia 20R ated and uncreated being, even if philosophy does not recognize the
+non agnoscat. Item ad relationes reales et rationis. Et ex his latter.14 Likewise for real relations and relations of reason. And from
+idem concludi potest de tertio: primo quidem, quia tanta these the same thing can be concluded for the third case. First, indeed,
+est varietas in illis rationibus seu connexionibus principi- because the variety in those rationes or connections of the principiata
+atorum cum principiis, ut vix inter se conveniant nisi in to their principles is so great that they agree with each other in hardly
+25 nomine et proportionalitate aliqua. Secundo, quia quando 25R anything other than in name and some proportionality. Second, be-
+id quod denominatur principium, est ens rationis tantum, cause when that which is denominated a principle is merely a being of
+ratio fundandi relationem principii non potest esse realis: reason, the grounding reason for the relation of the principle cannot
+in aliis vero rebus saepe est vera dimanatio et processio re- be real. But in other things there often is a true dimanation and real
+alis. Rursus haec interdum est creata, interdum increata: est procession. In turn, this is sometimes created but sometimes uncre-
+30 ergo in his eadem ratio analogiae. Tandem, quia principia 30R ated. Therefore, in these cases there is the same ratio of analogy. Fi-
+quae solum ob successionem temporis aut ordinem situs, vel nally, because the principles that are denominated principles only on
+aliam similem accidentalem connexionem sic denominan- account of the succession of time or of the order of position or some
+tur, longe distant a principiis per se, et maxime ab illis, quae other similar accidental connection are very different from principles
+per verum influxum et causalitatem talia sunt. Neque huic per se and especially different from those that are such through a true
+14See n. 10.
+
+-- 14 of 26 --
+
+Suárez, DM XII.1 15
+35 analogiae obstat unitas descriptionis datae: nam termini 35R influx and causality.
+quibus illa constat, adeo sunt transcendentales, ut analogiam Nor does the unity of the description [of principle] given op-
+in se involvant. Neque etiam obstat quod fere semper ab- pose this analogy. For the terms with which it is constructed are tran-
+solute et sine addito principium dicatur de quocumque sig- scendental precisely to the point that they involve analogy in them-
+nificato supra posito: nam hoc accidere potest vel propter selves. Nor is it any problem that ‘principle’ is almost always said
+40 proportionalitatem claram et notam, vel quia ex subiecta 40R absolutely and without any addition concerning any of the signifi-
+materia constat in qua significatione sumatur vox: vel certe cates mentioned above. For this can happen on account of a clear and
+propter aliquam propriam et intrinsecam rationem prin- well-known proportionality, because in what signification the word is
+cipii, iuxta ea quae inferius dicemus de analogia entis. taken is clear from the subject matter, or, at any rate, on account of
+some proper and intrinsic ratio of principle. We will say more about
+45R these things below when discussing the analogy of being.15
+Idem respectu
+diversorum et
+attributionis et
+proportionalitatis
+analogum.
+14. Quaeret autem fortasse aliquis qualis sit haec analo- 14. Perhaps someone will ask what this analogy is and which of The same term
+with respect to
+different things is
+analogous by
+attribution and
+by
+proportionality.
+45 gia, et de quibus significatis principium primario dicatur. the significates of ‘principle’ is said primarily. Interpreters have said
+De qua re multa dicunt interpretes dicto lib. 5. Metaphys- a great deal about this matter concerning the aforementioned Meta-
+icae cap. 1. Ego tamen breviter censeo hanc analogiam physics V.1. Nevertheless, I, briefly, think that this analogy is not one
+non esse unam sed multiplicem respectu diversorum sig- 50R but is multiple with respect to different significates. For it is not re-
+nificatorum: non enim <379> repugnat idem nomen pri- pugnant for the same name that primarily signifies some thing to be
+50 mario significans rem aliquam ad quasdam alias transferri transferred to other things through [the analogy] of attribution and
+per attributionem, ad alias vero per proportionalitatem. Ut to yet other things through [the analogy] of proportionality. For ex-
+sanum primario significans animal, per attributionem signi- ample, ‘health’ primarily signifies an animal but through attribution
+ficat medicinam, per proportionalitatem vero pomum inte- 55R signifies the medicine and through proportionality signifies a sound
+grum et incorruptum. Sic igitur dicendum censeo de prin- and uninjured fruit. This, then, is what I think should be said about
+55 cipii nomine respectu suorum significatorum. Est autem the name ‘principle’ with respect to its significates.
+considerandum, aliud esse loqui de prima impositione huius It should be considered, however, that it is one thing to speak
+vocis prout ab hominibus facta est, aliud de re significata per about the first imposition of this expression as it has been made by
+illam, ut in simili distinguit D. Thomas 1. p. q. 13. art. 6. 60R human beings and another thing to speak about the signified thing
+Priori modo existimo hanc vocem impositam esse ad sig- through it (as St. Thomas distinguishes in a similar case in ST Ia.13.6
+60 nificandum principium motus, vel temporis, nam quia pri- [co.]). In the former way, I think this imposed expression is for sig-
+Ordo
+impositionis
+vocis principium
+ad sua significata.
+ores Philosophi non cognoscebant nisi res corporales, in eis nifying the principle of motion or of time. For since earlier philoso- The order of
+imposition of the
+expression
+‘principle’ to its
+significates.
+primum distinxerunt principium, medium, et finem: haec phers were not aware of anything bu corporeal things, they first dis-
+autem videntur primum cognita ex motu seu actione ali- 65R tinguished principle, means, and end by reference to corporeal things.
+qua: et ideo verisimile est nomen principii, primum fuisse These, moreover, seem to have been cognized first from some motion
+65 impositum ad significandum principium motus vel actio- or action. And for this reason it is likely true that the name ‘princi-
+nis, vel partem illam magnitudinis a qua incipit motus. Et ple’ was first imposed for signifying the principle of notion or action
+fortasse hoc significavit Aristoteles primo loco hanc accep- or that part of magnitude from which motion begins. Perhaps Aris-
+15DM 28.3.
+62 distinxerunt ] distinxerant V.
+
+-- 15 of 26 --
+
+Suárez, DM XII.1 16
+tionem enumerans. Hinc vero derivata est haec vox per pro- 70R totle indicated this in the first passage in which he listed this meaning.
+portionem vel proportionalitatem ad alia significata. But through proportion or proportionality this expression has been
+extended from here to other significates.
+70	Quid primario,
+secundario quid
+significet
+principium.
+15. At vero quantum ad rem significatam principalius 15. On the other hand, as far as the thing signified is concerned, What ‘principle’
+signifies
+primarily and
+what secondarily.
+significat haec vox principia per se quam per accidens: et this expression ‘principle’ more principally signifies per se principles
+ea praesertim quae sunt principia per verum et realem in- 75R than per accidens principles, and especially those that are principles
+fluxum, quia in his est multo verior et proprior dimana- through a true and real influx. For in those there is a much truer and
+tio unius ab alio et origo, quam nomen principii prae se more proper origin and dimanation of one thing from another, which
+75 fert. Haec autem ratio principii cum causalitate coniuncta [is the aspect to which] the name ‘principle’ draws attention. More-
+est respectu creaturarum, et convenit tum Deo, tum etiam over, this ratio of principle is conjoined with causality with respect
+creaturis. Et hac ratione potest de Deo, et creaturis dici se- 80R to creatures and agrees both with God and also with creatures. And
+cundum analogiam attributionis: verbi gratia esse princip- with this ratio it can be said of God and of creatures according the
+ium efficiens analogice dicitur de Deo et creaturis, non se- analogy of attribution, not only according to proportionality, but on
+80 cundum proportionalitatem tantum, sed propter veram, et account of a true and real fittingness, yet analogous and including at-
+realem convenientiam, analogam tamen et includentem at- tribution, as we will explain more generally below [when discussing]
+tributionem, ut inferius generaliter explicabimus in analogia 85R the analogy of being to God and creatures. And the same thing can
+entis ad Deum et creaturas. Et idem dici potest de principio be said about the final and exemplary principle. But how the ratio of
+finali, vel exemplari. Quomodo vero ratio principii com- principle is common to the efficient, final, and exemplary principles
+85 munis sit principio efficienti, finali, et exemplari, pertinet pertains to the division of cause into these and other members, about
+ad divisionem de causa in haec et alia membra, de qua infra which we will talk below. But only in God and towards himself is
+dicemus. In solo autem Deo ad intra (quod Philosophia non 90R found the true ratio of a positive and per se principle (which philoso-
+agnovit) reperitur vera ratio principii positivi ac per se cum phy does not recognize) with a true influx and production but apart
+vero influxu seu pro- <col. b> ductione absque causalitate, from causality, which is a higher and more marvelous ratio of princi-
+90 quae est altior et mirabilior ratio principii. ple.
+De Deo, ut Dei,
+et creaturarum
+principium est,
+qualiter dicatur
+principium.
+16. Unde merito solet a Theologis inquiri an princip- 16. Hence, it is rightly customary for theologians to ask whether How ‘principle’
+is said of God as
+he is the principle
+of God and of
+creatures.
+ium in communi, etiam dictum de ipso Deo, ut est prin- 95R principle in general, having been said of God himself as principle is of
+cipium creaturarum, vel ut una persona divina est princip- creatures or as one divine person is the principle of another, is univo-
+ium alterius, sit univocum, vel analogum. Quidam putant cal or analogous. Some think it is analogous and is said of God accord-
+95 esse analogum, et per prius dici de Deo secundum emana- ing to the emanations to external things before [according to emana-
+tiones ad extra, quam ad intra, quia creatura procedit a Deo, tions] to internal things, since creatures proceed from God not only
+non tantum secundum personam, sed etiam secundum nat- 100R according to his person but also according to his nature and essence.
+uram, et essentiam: et ideo maior ratio principii videtur esse For this reason, there seems to be a greater ratio of principle in God
+in Deo respectu creaturarum, quam sit in Patre aeterno re- with respect to creatures than there is in the eternal Father with re-
+100 spectu Filii, cuius personam producit, non naturam. Et con- spect to the Son, whose person but not nature is produced. It is con-
+firmatur, quia ratio principii respectu creaturarum est abso- firmed, since the ratio of principle with respect to creatures is absolute
+luta et essentialis: alia vero relativa et notionalis; ea vero 105R and essential, but the other one is relative and notional. But those that
+quae sunt essentialia, ex propriis conceptibus videntur po- are essential seem better according to the proper concepts and prior to
+tiora, et priora notionalibus. Confirmatur secundo, quia the notional ones. It is confirmed, second, because power simpliciter
+
+-- 16 of 26 --
+
+Suárez, DM XII.1 17
+105 potentia simpliciter in Deo prius dicitur de potentia pro- in God is said more about the power for producing external things
+ducendi ad extra, quam ad intra: unde Deus simpliciter est than from the power for internal things. Hence, God is omnipotent
+omnipotens per potentiam operandi ad extra, non vero ad 110R simpliciter through the power of operating on external things, but not
+intra, alias Spiritus sanctus non esset omnipotens eo quod through the power of operating internally. Otherwise the Holy Spirit
+ad intra producere non possit. At vero eadem est ratio de would not be omnipotent as a result of not being able to produce in-
+110 principio quae de potentia, cum principium sit ratione po- ternal things. But the reasoning is the same in the case of principle as
+Durandus. tentiae. Atque ita sentit Durandus in 1. p. dist. 29. q. 1. in the case of power, since [God] is a principle by reason of power.
+115R (Durandus thinks this in I, dist. 29, q. 1.) Durandus.
+17. Aliis vero placet esse analogum, per prius dictum 17. But to others it is pleasing [to say] that it is analogous [but] is
+de principio ad intra quam ad extra, tum quia relatio prin- said of the principle to internal things before [being said of the prin-
+cipii ad creaturas est rationis: inter personas vero divinas est ciple] to external things, both [i] because the relation of the principle
+115 realis, tum etiam quia principium est unde aliquid est: sed to creatures is of reason but between the divine persons is real and
+creatura analogice est respectu divinae personae proceden- 120R also [ii] because a principle is that from where something is but crea-
+tis, quia haec procedit in esse increato, illa in creato: ergo ture is analogical with respect to the divine persons proceeding since
+illa processio est longe nobilior, etiam secundum analogiam: the latter proceeds to uncreated being but the former to created being.
+ergo etiam ratio principii quae illi respondet, per prius dici- Therefore, the former procession is far more noble, even according
+120 tur secundum emanationem ad intra quam ad extra. Atque to the analogy. Therefore, the ratio of principle that corresponds to
+D. Thomas. huius sententiae videtur esse D. Thomas 1. p. q. 33. art. 1. 125R it is said more according to the emanation of to internal rather than
+ad 4. et art. 3. Sed illis locis non agit de nomine principii, to external things. St. Thomas seems to be of this view in ST Ia.33.1 St. Thomas.
+sed de nomine patris, de quo est longe diversa ratio. Sed ad 4 and Ia.33.3. But in other places he does not deal with the name
+Capreolus.
+Richardus.
+Albertus.
+sub nomine principii id expresse affirmat in 1. p. dist. 29. ‘principle’ but with the name ‘father’, concerning which there is a
+125 q. 1. art. 2. ubi Capreolus, Albertus, Richardus, et alii idem very different argument. But with respect to the name ‘principle’, he
+sentiunt. 130R expressly affirms it in I, dist. 29, q. 1, art. 2, where Capreolus, Albert, Capreolus.
+Richard.
+Albert.
+Richard, and others think the same thing.
+18. Tertia vero sententia esse potest hoc nomen prin- 18. The third view can be that this name ‘principle’ is univocal
+cipium esse univocum ad illas duas rationes: non enim re- with respect to those two rationes. For it is not repugnant for the same
+pugnat idem nomen quod est analogum respectu plurium, name that is analogous with respect to multiple things is univocal with
+130 <380> esse univocum respectu aliquorum, ut per se con- 135R respect to some of them, as is obvious in itself and as we will talk
+stat, et infra tractando de communitate entis et accidentis more about below when discussing the community of being and of
+latius dicemus. Quod autem ita sit in praesenti quoad hanc accidents. But that it is so with respect to the part we are discussing
+partem de qua agimus, probatur quia hic non intervenit now is proven on grounds that neither the analogy of proportionality
+analogia proportionalitatis, nec attributionis. Prior pars or of attribution intervenes here.
+135 probatur, tum quia alias solum per translationem dicere- 140R The former part is proven, both because otherwise God would
+tur Deus principium creaturarum, non per proprietatem, said to be the principle of creatures only through transference and
+tum etiam quia D. Thomas supra expresse fatetur dari unam not through propriety and because St. Thomas expressly admitted to
+rationem communem originis processionis creaturarum a giving one common ratio of the origin of procession of creatures from
+Deo, vel unius personae divinae ab alia, quae est, aliquid God or of one divine person from another, namely, that ‘something
+140 ab aliquo esse: et sic etiam dari unam communem rationem 145R is from something’. And in that way is also given one common ratio
+
+-- 17 of 26 --
+
+Suárez, DM XII.1 18
+principii: in analogia autem proportionalitatis non est una of principle. But in an analogy of proportionality there is no one
+communis ratio. Secunda autem pars probatur, quia Deus common ratio.
+ut dicitur primum principium creaturarum, non refertur The second part is proven, because when God is said to be the
+ad se ut est principium personarum: ergo nulla potest ibi first principle of creatures one does not refer to him as the principle
+145 esse analogia attributionis. Item, quia alias Spiritus sanctus 150R of the [divine] persons. Therefore, there can be no analogy of at-
+diceretur principium creaturarum per attributionem ad Pa- tribution here. Likewise, since otherwise the Holy Spirit would be
+trem, vel ad Filium, quod videtur satis absurdum. Item quia called the principle of creatures through attribution to the Father or
+hic cessat ratio analogiae attributionis, quae esse solet in- to the Son, which seems absurd enough. Also, because here the ratio
+ter Deum et creaturas, nimirum quod omne esse seu omnis of an analogy of attribution that there usually is between God and
+150 perfectio creaturae primario est in Deo, et ab illo pendet: 155R creatures—namely, that every being or every perfection of creatures is
+hic autem una ratio principii non causatur ab alia, neque ab primarily in God and depends on God—ends, since here one ratio of
+illa pendet: immo nec emanatio creaturarum per se pendet principle is not caused by the other and does not depend on it. Indeed,
+ex dimanationibus divinarum personarum: quia multitudo the emanation of creatures does not per se depend on the dimanation
+personarum non erat per se necessaria ad productionem ad of the divine persons, since the multiplicity of persons is not neces-
+155 extra: cessat ergo in praesenti omnis ratio analogiae attribu- 160R sary per se for the production of things external [to God]. Therefore,
+tionis. every ratio of analogy of attribution ends in the present case.
+19. In hac re distinguenda videntur illa tria, quae 19. In this matter three things should be distinguished which we
+supra in omni principio distinximus, scilicet relatio prin- already distinguished above for every principle,16 namely, the relation
+cipii, proxima ratio talis relationis, et id quod principium of the principle, the proximate reason for such a relation, and that
+160 nominatur. Quoad primum non est dubium quin hic sit 165R which is named the principle. With respect to the first there is no
+analogia, quia relatio principii Dei ad creaturas est ratio- doubt but that there is an analogy here, since the relation of principle
+nis: personae autem divinae producentis ad productam est from God to creatures is a relation of reason, but that of the producing
+realis. Et hunc sensum declaravit expresse Scotus dist. 29. divine person to that produced is real. Scotus expressly declares this
+q. 1. Immo haec analogia, vel non est attributionis, sed pro- sense in dist. 29, q. 1. Indeed, this analogy is either not of attribution
+165 portionis tantum: vel saltem si est attributionis, non est se- 170R but only of proportion or, if it is an analogy of attribution, it is not
+cundum communem conceptum: quia hic nullus est ad ens according to a common concept, since there is no common concept
+rationis, et reale. between being of reason and real being.
+20. Quoad secundum etiam existimo probabilius ra- 20. With respect to the second, I also think that it is more likely
+tionem principii actualis dici analogice, et principalius de that the ratio of an actual principle is said analogically and more pri-
+170 Deo secundum processiones ad intra, quam ad extra, prop- 175R marily of God according to the internal processions than according
+ter rationes adductas. Est autem haec analogia attributio- to the processions to external things for the reasons already given.
+nis, et non solum proportionis, si- <col. b> cut est analo- This is, moreover, an analogy of attribution and not only one of pro-
+gia entis, et aliorum attributorum quae de Deo et crea- portion, just as the analogy of being and of the other attributes said
+turis proprie dicuntur. Nam haec analogia principii fun- properly both of God and creatures. For this analogy of principle is
+175 datur in analogia quae est inter creationem et processiones 180R grounded in the analogy that there is between creatures and the pro-
+16See n. 13.
+163 declaravit ] declarat V.
+
+-- 18 of 26 --
+
+Suárez, DM XII.1 19
+divinarum personarum in ratione originis seu emanationis. cession of the divine persons in the ratio of origin or of emanation.
+Quia si productiones non conveniunt univoce in communi For if the productions do not agree univocally in general by reason of
+ratione productionis, nec ratio principii potest esse univoca, production, then the ratio of principle also cannot be univocal, espe-
+praesertim cum esse hoc modo actuale principium creat- cially since to be in this way an actual principle of creatures does not
+180 urarum, non conveniat Deo nisi per denominationem ex- 185R agree with God except through an extrinsic denomination based on a
+trinsecam ab emanatione creaturae ab ipso. Quod autem creature’s emanation from him.
+ratio processionis analoga sit respectu creatae, et increatae: Moreover, that the ratio of procession is analogous with respect to
+quodque per prius dicatur de processione increata, probatur created and uncreated things and that it is said primarily of uncreated
+primo ex generali regula divinorum attributorum, quae pro- procession is proven, first, from the general rule of divine attributes,
+185 prie semperque per prius de Deo dicuntur: ut infra proba- 190R which are properly always said primarily of God, as we will show be-
+turi sumus. Habet autem verum non tantum in essential- low. This is true not only with essential attributes but also with per-
+ibus, sed etiam in personalibus: nam persona analogice dici- sonal attributes. For person is said analogically of created and uncre-
+tur de creata et increata: et pater aut Filius, dicuntur analog- ated things, and father and son are said analogically of divine persons
+ice de divinis personis et humanis. and human persons.
+190 21. Secundo, quia etiam in hac ratione est aliquo modo 195R 21. [It is proven,] second, because even in this ratio there is in
+necessaria dependentia, et antecessio naturalis inter origines some way a necessary dependency and natural antecedence between
+ad extra, et ad intra. Nam licet creatio ex parte sua per the origins directed outwards and those directed inwards. For al-
+se non requirat Trinitatem personarum, et consequenter though creation for its part does not per se require a Trinity of persons
+nec processiones ad intra: ex parte tamen Dei per se ac and, consequently does not require internal processions, nevertheless,
+195 necessario illas requirit, et ab eis suo modo pendet. Tum 200R on the part of God they are per se and necessarily required and in his
+quia omnis effectio per se pendet a persona agente: in Deo way depends on them. [This is so] because every effecting depends
+autem non potest esse persona sine productione, vel pro- per se on the acting person, but in God there can be no person with-
+cessione ad intra. Tum etiam, quia creaturarum productio out production or internal procession. Also because the production
+ex se pendet ex intelligentia et amore: non potest autem of creatures depends of itself on intelligence and love. But there can-
+200 esse in Deo intelligentia sine Verbo, nec amor sine Spiritu 205R not be intelligence in God without the Word and there cannot be love
+D. Thomas sancto. Et iuxta hanc considerationem dixit D. Thomas without the Holy Spirit. St. Thomas speaks according to this consid- St. Thomas.
+1. p. q. 45. art. 6. Processiones personarum esse rationes pro- eration in ST Ia.45.6: ‘the processions of the persons are the rationes
+ductionis creaturarum: et in responsione ad primum addit of the productions of creatures’. And in response to the first argument
+quod procesiones divinarum personarum sunt causa creatio- he adds that ‘the processions of the divine persons are causes of cre-
+205 nis. Atque ita solutum manet fundamentum, quod ref- 210R ation’. In this way the foundation which in referring to the third view
+erendo tertiam sententiam attulimus contra hanc partem. we raised against this part is destroyed.
+Fundamentum autem Durandi nil obstat, immo declarat, Durandus’s foundation, moreover, is no obstacle. Indeed, he
+processiones divinarum personarum, cum sint sine ulla de- shows that the processions of the divine persons—since they are with-
+pendentia vel imperfectione, esse adeo eminentis rationis, ut out any dependency or imperfection—are for that reason of an em-
+210 non possint cum creatis productionibus univoce convenire. 215R inent ratio, such that they cannot agree univocally with the created
+Quod ergo in persona producta, essentia non producatur productions. Therefore, that in the produced person the essence is
+sed communicetur tantum, non minuit veritatem produc- not produced but only communicated does not lessen the truth of
+tionis sed potius pertinet ad infinitam perfectionem eius. production but rather belongs to its infinite perfection, just as that
+
+-- 19 of 26 --
+
+Suárez, DM XII.1 20
+Sicut quod Pater <381> aeternus producat Filium, non the eternal Father produces the Son not only in the like specific na-
+215 tantum similem in natura specifica, sed etiam eiusdem nu- 220R ture but also of the same number of nature does not lessen the truth
+mero naturae, non minuit veritatem generationis, sed per- of generation but belongs to its infinite perfection. St. Thomas well
+tinet ad infinitam perfectionem eius, ut optime annotavit notes this in ST Ia.41.5 ad 1.
+D. Thomas 1. p. q. 41. art. 5. ad 1.
+22. Quod vero ad tertiam attinet, id est, ad id quod 22. But with respect to the third thing, that is, with respect to that
+220 principium denominatur, si omnino materialiter (ut ita di- which is denominated the principle, if it is taken wholly materially (if
+cam) sumatur, clarum est non posse intercedere analogiam, 225R I may speak in this way), then it is clear that no analogy can intercede
+neque esse aliquid prius quam id quod primum principium and that there is nothing before that which is denominated the first
+creaturarum denominatur. Neque etiam esse potest aliquid principle of creatures. Nor can there be anything more perfect than
+perfectius, quam id quod ex parte talis principii est radix et that which on the part of such a principle is the root and origin of
+225 origo talis denominationis: est enim infinita perfectio eius. such a denomination. For it is its infinite perfection.
+Immo etiam si non adeo materialiter de illo principio loqua- 230R In fact, if for that reason we do not speak materially of that prin-
+mur, sed formaliter: quatenus est (ut sic dicam) principium ciple but rather formally, insofar as (if I may speak in this way) the
+in potentia, sic etiam existimo rationem principii non posse principle is in potency, in that way I also think the ratio of principle
+dici minus proprie aut per posterius de Deo ut est princip- cannot be said less properly or more secondarily of God insofar as he
+230 ium creaturarum: et hoc persuadent nonnulla argumenta is the principle of creatures. Some of the arguments made for the first
+facta in prima et tertia opinione. Et maxime quod haec de- 235R and third opinions recommend this, especially that this denomination
+nominatio est absoluta, aeterna, et essentialis: sumitur enim is absolute, eternal, and essential. For it is taken from the attribute of
+ex attributo omnipotentiae, potentia autem Dei in ratione omnipotence, but the power of God in the ratio of an active or produc-
+potentiae activae, vel productivae non est analogice poten- tive power is not analogically a power but primarily and principally.
+235 tia, sed primario ac principaliter. Ratio ergo principii prout Therefore, the ratio of principle as taken precisely from that cannot
+ab illa praecise sumitur, non potest esse analoga. 240R be analogous.
+Satisfit
+obiectioni.
+23. Dices. Ergo potentia non dicitur analogice de po- 23. You will say that therefore power is not said analogically of An objection is
+addressed.	tentia creandi, et generandi, vel spirandi: consequens autem the power for creating, the power of generating, or the power of spi-
+videtur falsum, nam talis est potentia, qualis est actio vel rating. But the consequent seems false, for the power is such as the
+240 productio, sed productio est analoga, ergo et potentia. Re- action or production is. But the production is analogous.
+spondeo primum concedendo non esse talem analogiam, 245R Therefore, so is the power. I respond, first, by conceding that it
+quae posterius dicatur de potentia creandi: quia, ut dixi, po- is not an analogy of the sort that afterwards is said of the power of
+tentia effectiva Dei non potest esse analogice potentia: quia creating. For, as I said, the effective power of God cannot be a power
+per nullam proportionem aut attributionem ita nominatur: analogically. For it is not named that through any proportion or at-
+245 et quia est prima ac perfectissima potentia. Unde addo vel tribution and it is the first and most perfect power. Hence I add that
+quoad hoc esse univocationem, vel si est aliqua analogia, ut 250R either there is univocity with respect to this or, if there is some anal-
+fortasse est, per prius potentiam productivam dici de poten- ogy, as there perhaps is, then productive power is said of the power for
+tia creandi, etc. quam generandi, etc. Ratio est, quia for- creating and so on before being said of the power of generating and so
+malis ratio potentiae, quae actum primum ad producendum on. The reason is that the formal ratio of power, which signifies a
+250 significat, cum omni proprietate et perfectione reperitur first act for producing, is found with every property (proprietate) and
+in Deo respectu creaturarum: respectu autem internarum 255R perfection in God with respect to creatures. But with respect to in-
+
+-- 20 of 26 --
+
+Suárez, DM XII.1 21
+originum, vel divinarum personarum procedentium, magis ternal origins or the producing of divine persons, it is more according
+est secundum modum concipiendi nostrum, quam secun- to our way of conceiving than according to reality. For in reality it
+dum rem. Quia in re non tam est actus primus quam ul- is not so much the first act as the last act with respect to the internal
+255 timus respectu interna- <col. b> rum processionum, ut processions, as will become more clear below in discussing the scien-
+latius infra constabit tractando de scientia, voluntate, et po- 260R tia, will, and power of God. The reason, moreover, is that the power
+tentia Dei. Ratio autem est, quia potentia Dei respectu crea- of God with respect to creatures is for a transeunt emanation that is
+turarum est ad emanationem transeuntem reipsa distinc- really distinct and not necessarily flowing from such a power. For this
+tam, et non necessario fluentem a tali potentia: et ideo illa reason, that is most properly a power and first act with respect to such
+260 est propriissime potentia et actus primus respectu talis em- an emanation. On the other hand, the power for generating or spirat-
+anationis: at vero potentia generandi vel spirandi est secun- 265R ing is according to an immanent procession, which in reality cannot
+dum processionem immanentem, quae in re non potest esse be only in potency but is always in act. Nor can it be really distinct
+tantum in potentia, sed semper in actu, nec potest esse in from that which is conceived in the mode of a power by us, as far as
+re distincta ab eo quod a nobis concipitur per modum po- its absolute perfection is concerned. This is clear from St. Thomas, ST
+265 tentiae, quantum ad absolutam perfectionem eius, ut con- Ia.41.4. For this reason, according to reality and truth, power is said
+stat ex D. Thoma 1. p. q. 41. art. 5. et ideo secundum rem 270R more properly of the creative power than of the generative power and
+et veritatem proprius dicitur potentia de creativa, quam de so on.
+generativa, etc.
+24. Neque obstat quod origo, vel productio sit analoga: 24. Nor is it a problem that origin or production is analogous.
+270 tum quia potentia Dei non sumit rationem suam ex habi- For the power of God does not take its ratio from a disposition to
+tudine ad extrinsecum, sed ex sua essentiali et abolutissima something extrinsic but rather from its essential and most absolute
+perfectione: tum etiam quia ad excellentiam divinae poten- 275R perfection. Also, it belongs to the excellence of the divine power taken
+tiae absolute sumptae pertinet ut neque ex necessitate sit absolutely such that it is not of necessity conjoined with its action and
+coniuncta suae actioni, nec etiam possit habere actionem it cannot have an action adequate to itself or of its order. And so it
+275 sibi adaequatam seu eiusdem ordinis: atque ita fit ut im- happens that an imperfection that essentially includes production or
+perfectio quam essentialiter includit productio seu depen- dependency in a creature not only does not lessen the perfection and
+dentia creaturae, non solum non diminuat perfectionem, et 280R proper sense (proprietatem) of God’s power for acting externally but
+proprietatem potentiae Dei ad agendum extra se, sed etiam even is a manifest indication of its infinite perfection. In the other
+sit manifestum indicium infinitae perfectionis eius. E con- direction, the excellence of the internal origins indicates the highest
+280 trario vero excellentia internarum originum indicat sum- and infinite perfection and propriety of the immanent acs of God and
+mam et infinitam perfectionem et proprietatem actuum im- consequently in some way lessens the proper sense of the power in
+manentium Dei, et consequenter aliquo modo minuit pro- 285R first act, as was shown. And these things were said in passing for the
+prietatem potentiae in actu primo, ut declaratum est. Atque sake of explaining precisely the analogy of principle.
+haec sint obiter dicta propter declarandam exacte analogiam But the question that is often asked, whether principle when said Whether
+principle is said
+univocally of the
+generative
+principle and the
+spirative
+principle.
+285	Principium
+generativum, et
+spirativum an
+dicantur univoce.
+principii. Illud vero magis Theologicum est quod quaeri so- of God with respect to generating and spirating internally is univocal
+let an principium dictum intra Deum de generante, et spi- or analogous, is more theological. On this matter, I along with Scotus
+rante sit univocum, vel analogum: in quo ego censeo cum 290R in the place cited above think that it is univocal, just as the relation
+Scoto loco supra citato esse univocum, sicut est relatio vel or person. Nor do I understand any analogy or attribution in those
+persona, neque in his quae cum omni proprietate dicantur things that are said in every proper sense of the divine persons, since
+
+-- 21 of 26 --
+
+Suárez, DM XII.1 22
+290 de divinis personis intelligo analogiam, vel attributionem, here there is no dependency, imperfection, priority of nature.
+cum ibi nulla sit dependentia, aut imperfectio, vel prioritas In turn it is often asked whether principle directed outwards is How ‘principle’
+is said of God
+creating and of
+God operating
+on a subject.
+naturae. Rursus quaeri solet utrum principium ad extra dic- 295R said analogously of God with respect to creating and with respect to
+tum de Deo ut creante, vel operante ex praesupposita mate- operating in cases where matter is presupposed. Some seem to think
+Principium de
+Deo creante, et
+operante ex
+subiecto qualiter
+dicatur.
+ria, sit analo- <382> gum: quod aliqui sentire videntur: ego so. But I think that it is univocal. For effecting is said univocally of
+295 vero censeo esse univocum: quia effectio univoce dicitur de creation and eduction, especially where they come to be by God as by
+creatione, et eductione, praesertim quae a Deo fit ut a primo a first agent. But this is enough about these matters.
+agente, sed de his haec sunt satis.
+Principalis quaestionis resolutio. Resolution of the main question.
+Principium latius
+patet quam causa.
+25. Ultimo ex dictis colligitur responsio ad quaestionem 25. Last, from the things that have been said, the response to the It is clear that
+‘principle’ is said
+more broadly
+than ‘cause’.
+propositam, propter quam tam multa de Principio dix- proposed question on account of which we have said so much about
+imus, scilicet, Principium et causam non esse omnino idem, ‘principle’ can be gathered: namely, that principle and cause are not
+5 nec reciproce dici, sed principium communius esse quam 5R entirely the same and cannot be said reciprocally. Rather, principle
+causam. Ita docet expresse D. Thomas 1. p. q. 33. art. 1. is more general than cause. St. Thomas teaches this explicitly in ST
+ad 1. inde rationem sumens cur in Deo una persona di- Ia.33.1 ad 1, taking from there the reason why in God one person is
+catur principium alterius, et non causa. Idem habet in 1. p. said to be the principle of another but not said to be the cause. He
+dist. 29. art. 1. in corp. et ad 2. et De potentia q. 10. art. 1. holds the same view in I, dist. 29, art. 1, co. and ad 2, and in De
+10 ad 9. et est communis sententia. Quam recte probant ra- 10R potentia q. 10, art. 1, ad 9. It is also the common view. The arguments
+tiones dubitandi positae in principio in tertio loco, et ex for doubting posited at the beginning in the third place rightly show
+omnibus dictis de Principio manifeste constat. Nam Prin- this, and it is manifestly clear from everything that has been said about
+cipium dicitur etiam de eo qui proprie non influit in alium, ‘principle’. For ‘principle’ is said even of that which does not properly
+causa vero minime. Item hinc fit ut principium non tan- inflow into another, but ‘cause’ minimally. Also, from here it happens
+15 tum entibus realibus, sed etiam entibus rationis seu priva- 15R that principle agrees not only with real beings but also with beings of
+tioni conveniat: causa vero non item. Est ergo haec conclu- reason or privations. But cause does not. Therefore, this conclusion
+sio manifesta comparando causam ad principium in tota sua is obvious when comparing cause to principle in its whole generality.
+generalitate: si vero comparetur ad principium vere ac per But if it were compared to principle as truly and per se inflowing some
+se influens aliquod esse in eo cuius est principium, est etiam being in that of which it is a principle, the conclusion would also be
+20 vera conclusio, tamen ita difficilis, ut non possit cognosci lu- 20R true although difficult such that it could not be cognized by the light
+mine naturae, quia in solo Trinitatis mysterio reperitur talis of nature. For such a kind of principle is found only in the mystery
+principii modus, et ideo difficile est discrimen et rationem of the Trinity. For this reason it is difficult to assign a distinguishing
+assignare, de quo dicemus sectione sequenti. feature and ratio. We will discuss this in the following section.
+Solvuntur argumenta. The arguments are resolved.
+25	An principium et
+causam idem
+Aristoteles
+reputaverit.
+26. Ad primum testimonium Aristotelis initio positum 25R 26. To the first testimony from Aristotle related at the beginning, Whether
+Aristotle
+reckoned
+principle and
+cause to be the
+same.
+multi respondent per illam regulam dialecticam, exemplo- many respond with the dialectical rule that truth is not required of
+
+-- 22 of 26 --
+
+Suárez, DM XII.1 23
+rum non requiri veritatem: in eo enim loco obiter et gratia examples. For in that passage Aristotle posits principle and cause in
+exempli posuit Aristoteles principium et causam. Sed haec passing for the sake of giving an example. But this interpretation is
+dura interpretatio est, vel modesta potius concessio Aris- harsh or rather a modest admission of an Aristotelian lapse. Others
+30 totelici lapsus. Alii exponunt nomen causa ibi non accipi 30R explain that the name ‘cause’ in that passage is not taken properly but
+proprie, sed vulgari modo, prout de quacumque occasione in the everyday way as expressing a certain occasion or necessary con-
+Varii Aristotelis
+loci ad id
+expenduntur.
+vel conditione necessaria dicitur. Sed haec etiam expositio dition. But this interpretation also has a difficulty, to be touched on Various passages
+from Aristotle
+are examined for
+it.
+habet difficultatem infra attingendam, nam nomen causae below, for even in the everyday sense the name ‘cause’ is never taken
+etiam vulgariter sumptum nunquam tam late patet sicut as broadly as ‘principle’. Therefore, it can be said that Aristotle here
+35 principium. Dici ergo po- <col. b> test, Aristotelem duo ibi 35R says two things about being and one. The first is that they are the
+dicere de ente et uno. Primum est, esse idem. Secundum est, same. The second is that are convertible with each other. Therefore,
+converti inter se: cum ergo Aristoteles ait, sicut principium when Aristotle says ‘just as principle and cause’, he is not comparing
+et causa, non comparat ea in secundo, sed in primo: intendit them in the second way but in the first. For he means to teach that
+enim docere ens et unum esse idem re, non tamen ratione: et being and one are the same in reality but not the same in reason. To
+40 ad hoc inducit exemplum dicens quod se habent sicut prin- 40R do this he brings up the example, saying that they are related just as
+cipium et causa, non sicut tunica et vestis: unde immediate principle and cause but not as undergarment and garment. For this
+post illa verba principium et causa, subdit, sed non ut quae reason after those words ‘principle and cause’ he immediately adds
+una ratione dicuntur. Vel si in utroque fiat comparatio, non ‘but not as those that are called the same in reason’. Or if the compar-
+oportet universaliter intelligi de principio et causa, sed in- ison were made in either case, it would not be understood universally
+45 definite: quod aliquando principium et causa, licet mutuo 45R of principle and cause but indefinitely: that sometimes principle and
+consequantur, ratione differant, verbi gratia principium et cause, although they follow on each other, differ in reason (for exam-
+causa efficiens. ple, principle and efficient cause).
+27. Ad secundum testimonium ex 5. Metaphysicae re- 27. To the second testimony, from Metaphysics V, some respond
+spondent aliqui etiam ibi sumi nomen causae lato et vulgari that here, too, the name ‘cause’ is taken in the broad and everyday
+50 modo. Sed hoc aperte est contra mentem Aristotelis, cum 50R sense. But this is clearly contrary to the mind of Aristotle, since he
+distincte tractet de principio et causa: et utriusque signifi- discusses principle and cause distinctly and explains the significates of
+cata Philosophice et proprie exponat. Alia expositio est, each philosophically and properly. The other interpretation is that
+cum Aristoteles ait, tot modis dici causam, quot princip- when Aristotle says that cause is said in as many ways as principle is,
+ium, non esse intelligendum positive, sed negative, id est it should not be understood positively but negatively. That is, cause
+55 causam non dici aliis modis, quam his quibus dicitur prin- 55R is not said in ways other than those in which principle is said, but it
+cipium, licet non necesse sit dici omnibus illis modis. Et is not necessary said in all those ways. And certainly, although the
+quidem licet proprietas illius vocis tot modis refragari huic proper sense of that phrase ‘as many’ seems opposed to this interpre-
+expositioni videatur, tamen ratio quam Aristoteles subiun- tation, nevertheless, the reason that Aristotle added seems to compel
+git, videtur cogere ad illam admittendam: subdit enim: Quo- admitting it. For he also says: ‘since all causes are principles’. From
+60 niam omnes causae principia sunt. Ex qua ratione ineptis- 60R this reason it would be most foolish to infer that cause is said in every
+sime inferretur, causam dici omnibus modis quibus dicitur way in which principle is said. That would be to argue affirmatively
+principium: esset enim argumentari a superiori id inferius from superior to inferior. This is the same as if someone were to for-
+affirmative: ut si quis colligeret, Omnis substantia est ens: mulate: every substance is a being, therefore, in as many ways as being
+ergo quot modis dicitur ens, totidem dicitur substantia. is said substance is said.
+
+-- 23 of 26 --
+
+Suárez, DM XII.1 24
+65 28. Aliam vero expositionem indicat Alexander Alen- 65R 28. Alexander of Hales suggests another interpretation, namely, Alexander of
+Hales.	Alensis. sis, scilicet tot modis dici principium quot dicitur causa, that principle is said in as many ways as cause is said, since every cause
+quia omnis causa est principium. Ita ut post enumeratas is a principle. In this way, after enumerating the significations of prin-
+significationes principii subiunxerit Aristoteles quasi gen- ciple, Aristotle added a general, as it were, rule, that principle is also
+eralem regulam, quod principium etiam dicitur omnibus said in all the ways that cause is said although not only in those ways.
+70 modis quibus dicitur causa, quamvis non illis solis. Et iuxta 70R Aristotle’s argument can best be squared according to this sense. Nev-
+hunc sensum optime quadrat ratio Aristotelis: tamen vix ertheless, it can hardly be accommodated to the earlier words.
+potest accommodari ad priora verba. Alia expositio indi- Another interpretation is suggested by St. Thomas, namely, the
+catur a D. Thoma, scilicet, principii acceptiones ibi numer- meanings of principle listed in this passage are as many as agree with
+atas tot convenire causae, quamvis non sub eadem ratione: cause, although not under the same ratio. For motion begins from
+75 nam ex causa incipit motus, et sic de aliis. Iuxta quam expo- 75R cause, and likewise for the others. According to this interpretation,
+sitionem probatio Aristotelis aliter est inducenda, scilicet, Aristotle’s proof is different from inducing, namely, it is confirmed
+ut <383> inde confirmet, illas acceptiones habere locum from the fact that those meanings have a place in principle because
+in principio, quia etiam habent locum in causa, quia omnis they also have a place in cause, since every cause is a principle. Hence,
+causa principium est: inde tamen non sequitur causam et from there it does not follows that cause and principle are said re-
+80 principium reciproce dici, quia licet acceptiones ibi numer- 80R ciprocally, since although the meanings numbered there according to
+atae secundum alias rationes possint causae accommodari, other rationes can be accommodated to cause, nevertheless, principle
+tamen principium latius patet, quia dicitur omnibus il- is clearly broader, since it is said in all the ways that cause is said and
+lis modis quibus dicitur causa, et secundum propriam ra- according to the proper ratio of cause, and, furthermore, it is said in
+tionem causae: et praeterea dicitur aliis modis secundum other ways according to the general ratio of principle.
+85 generalem principii rationem.
+29. Ad tertium testimonium ex 12. Metaphysicae, ubi 85R 29. To the third testimony, from Metaphysics XII, where Aristo-
+Aristoteles privationem vocat causam, communis omnium tle calls privation a cause, the common and necessary interpretation
+et necessaria expositio est ibi fuisse usum nomine causae according to everyone is that here there is a use of the name ‘cause’ in
+vulgari modo, prout causa dicitur quidquid ad aliud quovis the everyday way, in the way where cause is said of anything that is
+90 modo requiritur. required in any way for something else.
+30. Sed dicet aliquis; Ergo si vere, et cum proportione 90R 30. But someone will say: therefore, if we speak truly and with
+loquamur, fatendum est, principium et causam reciproce proportion, it should be admitted that principle and cause are said
+dici, nam si utrumque in tota sua amplitudine, et analo- reciprocally, for they are convertible if each is taken in its whole
+gia, et vulgari usu sumatur, convertuntur: si autem stricte breadth, analogy, and common use, and cause is also convertible with
+95 et cum omni proprietate causa sumatur, etiam convertitur principle if each is taken strictly and with every proper sense. But
+cum principio eodem modo sumpto. Si vero causa sumatur 95R But if cause is taken properly and principle broadly and then for that
+proprie, et principium late; et ideo dicatur principium gen- reason principle is said to be more general than cause, the compari-
+eralius esse quam causa, impropria fit comparatio: et eadem son is improper. By the same reasoning cause could be said to apply
+ratione dici posset causa latius patere quam principium, quia more widely than principle, since if cause is taken widely and princi-
+100 si causa large sumatur et principium proprie, latius patebit. ple properly, then it will be wider.
+Respondeo negando utramque partem assumptionis: nam 100R I respond by denying each part of the assumption. For in com-
+comparando principium proprium ac per se ad propriam et paring proper and per se principle to proper and per se cause, principle
+
+-- 24 of 26 --
+
+Suárez, DM XII.1 25
+per se causam, communius est principium, ut patet Theo- is more common as is clear in theology in the case of the principles
+logice in principiis divinarum processionum, et Physice in of divine processions and in physics in the case of privation. And
+105 privatione. Et sumendo utrumque in sua latissima signifi- when taking each in its widest signification, I also think that principle
+catione, etiam existimo principium esse quid communius. 105R is more common. For although cause thus taken encompasses many
+Nam licet causa sic sumpta plura comprehendat quae non things that are not properly, truly, and per se causes, nevertheless, it
+sunt proprie, vere, ac per se causae; tamen nihil comprehen- encompasses nothing that is not contained in the general signification
+dit quod sub generali significatione principii non continea- of principle. But principle includes some things that in no way are
+110 tur: principium vero aliqua complectitur quae nullo modo called causes, even in everyday speech. For a first-born son is called a
+dicuntur causae, etiam vulgari sermone: primogenitus enim 110R principle of the sons but in no way is called a cause.
+vocatur principium filiorum, non tamen causa ullo modo.
+Graeci Patres
+causae nomine
+pro principio usi.
+31. Ad modum loquendi Patrum Graecorum respon- 31. To the Greek Fathers’ way of speaking, it is responded that The Greek
+Fathers use the
+name ‘cause’ for
+principle.
+detur usurpasse nomen causae latius, quam in Latina pro- they apply the name ‘cause’ more broadly than it can properly or
+115 prietate possit aut debeat usurpari: re tamen ipsa non at- ought to be applied in Latin. But in reality they do not attribute the
+tribuisse nomen causae personis divinis ad intra quatenus name ‘cause’ between the divine persons insofar as it implies a rela-
+proprie dicit relationem ad ef- <col. b> fectum, et in eo in- 115R tion to an effect and thereby indicates some imperfection. Rather,
+dicat aliquam imperfectionem: sed solum ut dicit originem they attribute it only insofar as it implies the origin of one thing from
+unius ad alia. another.
+120	Principiatum an
+aliquid in divinis,
+et quod principii
+correlativum.
+32. Ad rationem, Theologi negant Principiatum esse 32. In response to the argument, theologians deny that there is a Whether there is
+a principiatum in
+the divine cases
+and what is
+correlative to
+principle.
+correlativum Principii in divinis: et ideo licet concedant Pa- principiatum correlative to principle in the divine cases. For that rea-
+trem esse principium Filii, negant tamen Filium esse prin- 120R son, although they grant that the Father is the principle of the Son,
+cipiatum a Patre. Ita D. Thomas 1. p. q. 33. art. 1. ad 2. they, nevertheless, deny that the Son is the principiatum of the Father.
+et alii communiter. Iuxta quem loquendi modum, correla- St. Thomas says this in ST Ia.33.1 ad 2, and it is commonly said by
+125 tivum principii erit, id quod est ab alio. Quae sententia mer- others. According to this way of speaking, the correlative of a princi-
+ito approbata est a Theologis Latinis ob reverentiam mys- ple will be that which is from another. This view is rightly approved
+terii Trinitatis, et ad tollendam occasionem erroris: nam 125R by the Latin theologians on account of reverence for the mystery of
+principiatum videtur significare aliquid factum, ut supra ar- the Trinity and in order to avoid occasion for error. For principiatum
+gumentabamur, vel etiam indicat idem, quod initiatum, et seems to signify something that was made, as we argued above, or at
+130 consequenter indicat initium essendi. Omisso vero illo mys- least it indicate the same thing as that it was begun and consequently
+terio, et ablata vocis invidia, si nomine principiati solum indicates the beginning of being. But having set aside that mystery
+significetur id quod est correlativum principii, sic negatur 130R having removed the dislike for the expression, if by the name ‘prin-
+idem esse principiatum quod causatum, vel effectum: sed cipiatum’ one only signifies that which is the correlative of principle,
+significare tantum id quod ad alio est, vel quod habet prin- one would thus deny that principiatum is the same as what is caused
+135 cipium, non durationis (haec enim aequivocatio etiam tol- or as effect. Rather, it would only signify that which is from another
+lenda est) sed vel originis, vel cuiusvis alterius modi. Atque or that has a principle, but not one of duration (for this equivocation
+in hoc sensu sunt explicandi Graeci, qui, ut D. Thomas 135R should also be removed) or of origin or anything of any other mode.
+supra refert, admittunt Filium principiari a Patre.
+121 in divinis ] om. A.
+121 et ideo licet concedant ] Licet igitur dicant V.
+
+-- 25 of 26 --
+
+Suárez, DM XII.1 26
+Solvuntur quae
+probant causam
+principio
+latiorem.
+33. Ad argumenta secundo loco facta, quibus probatur 33. In response to the arguments made in n. 2, by which it The arguments
+that show cause
+to be broader
+than principle are
+resolved.
+140 causam latius patere quam principium, respondetur Aris- was shown that cause is applied more widely than principle, it is re-
+totelem in primo testimonio non loqui generatim de prin- sponded that Aristotle in the first testimony is not speaking generally
+cipio, sed de primo principio in aliquo ordine, quod habeat about principle but about the first principle in any order, which has
+influentiam et causalitatem. De quo principio ibidem dix- 140R influence and causality. In the very same place he said about this prin-
+erat, licet magnitudine parvum sit, facultate esse magnum. Et ciple: ‘although it is small in magnitude, it is great in ability’. By
+145 de hoc primo principio negat habere causam superiorem, this he denies that the first principle has a superior cause, namely, in
+scilicet in illo ordine. Nam solum Primum principium ab- that order. For only the first principle absolutely and in the whole
+solute et in tota latitudine entis nullam habet causam. Et breadth of being has no cause. In the same sense in Physics I he posits
+eodem sensu in 1. Physicae ponit in definitione principio- 145R in the definition of the principles of natural being that ‘they are not
+rum entis naturalis quod non sint ex aliis: eo scilicet modo, from other things’, namely, in the way in which natural being is from
+150 quo ens naturale est ex ipsis, quia illa sunt prima principia in them, because they are first principles in that order. One ought to
+illo ordine. De quibus principiis ut principia sunt, et eorum discuss these principle insofar as they are principles and their proper
+propria definitione in Philosophia disputandum est: ut vero definition in philosophy. But insofar as some of them are causes, we
+aliqua eorum sunt causae, de illis dicetur inferius. 150R will discuss them below.
+
+-- 26 of 26 --

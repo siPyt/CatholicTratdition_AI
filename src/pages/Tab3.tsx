@@ -24,8 +24,7 @@ const Tab3: React.FC = () => {
             <article className="pathway-card">
               <h2>Logical Proofs</h2>
               <p>Open a scholastic chat centered on argument, distinctions, and indexed source support.</p>
-              <p className="pathway-example">Starter question: Give me a Thomistic argument for the existence of God and explain each step.</p>
-              <IonButton routerLink={`/tab1?mode=proofs&prompt=${encodeURIComponent('Give me a Thomistic argument for the existence of God and explain each step.')}`} expand="block">
+              <IonButton routerLink="/tab1?mode=proofs" expand="block">
                 Open Chat
               </IonButton>
             </article>
@@ -33,8 +32,7 @@ const Tab3: React.FC = () => {
             <article className="pathway-card">
               <h2>Ask a Father</h2>
               <p>Open a patristic chat focused on the voice and witness of the early Church.</p>
-              <p className="pathway-example">Starter question: How did the early Church Fathers speak about the Eucharist as the real presence of Christ?</p>
-              <IonButton routerLink={`/tab1?mode=fathers&prompt=${encodeURIComponent('How did the early Church Fathers speak about the Eucharist as the real presence of Christ?')}`} expand="block">
+              <IonButton routerLink="/tab1?mode=fathers" expand="block">
                 Open Chat
               </IonButton>
             </article>
@@ -42,8 +40,7 @@ const Tab3: React.FC = () => {
             <article className="pathway-card">
               <h2>Apologetic Answers</h2>
               <p>Open a public-facing Catholic chat for clear explanations without heavy jargon.</p>
-              <p className="pathway-example">Starter question: How would you explain Marian devotion to a Protestant friend without using insider jargon?</p>
-              <IonButton routerLink={`/tab1?mode=apologetics&prompt=${encodeURIComponent('How would you explain Marian devotion to a Protestant friend without using insider jargon?')}`} expand="block">
+              <IonButton routerLink="/tab1?mode=apologetics" expand="block">
                 Open Chat
               </IonButton>
             </article>
@@ -52,10 +49,10 @@ const Tab3: React.FC = () => {
               <h2>Papal Documents</h2>
               <p>Choose whether the chat should stay with pre-Vatican II popes or span the full papal archive.</p>
               <div className="pathway-actions">
-                <IonButton routerLink={`/tab1?mode=papalPreVaticanII&prompt=${encodeURIComponent('What did pre-Vatican II popes teach about the kingship of Christ?')}`} expand="block">
+                <IonButton routerLink="/tab1?mode=papalPreVaticanII" expand="block">
                   Pre-Vatican II
                 </IonButton>
-                <IonButton routerLink={`/tab1?mode=papalAll&prompt=${encodeURIComponent('How have papal documents explained grace across the centuries?')}`} expand="block" fill="outline">
+                <IonButton routerLink="/tab1?mode=papalAll" expand="block" fill="outline">
                   All Popes
                 </IonButton>
               </div>
@@ -64,8 +61,7 @@ const Tab3: React.FC = () => {
             <article className="pathway-card">
               <h2>Handbook of Dogmatic Sources</h2>
               <p>Ask doctrinal questions, identify the theological note, and receive concise handbook answers from the approved dogmatic source set.</p>
-              <p className="pathway-example">Starter question: What is the theological note on sanctifying grace, actual grace, and justification?</p>
-              <IonButton routerLink={`/tab1?mode=dogmaticSources&prompt=${encodeURIComponent('What is the theological note on sanctifying grace, actual grace, and justification?')}`} expand="block">
+              <IonButton routerLink="/tab1?mode=dogmaticSources" expand="block">
                 Open Chat
               </IonButton>
             </article>

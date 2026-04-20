@@ -1,0 +1,184 @@
+Last revision: December 18, 2010	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 3, SECT. 41
+© Sydney Penner 2010
+<34>2
+Utrum possit aliquis simul intendere duos fines ultimos, unum Whether someone can at the same time intend two ultimate ends, one un-
+simpliciter, et alterum secundum quid qualifiedly ultimate and the other qualifiedly ultimate
+Ratio dubitandi
+pro neg. parte.
+1. Hæc sola superest nobis facienda comparatio in qua ratio 1. Only this comparison remains to be made by in which there is a The reason for
+doubting for the
+negative side.
+dubitandi est; quia finis ultimus simpliciter est ille, in quem reason for doubting. Because the unqualifiedly ultimate end is that to
+5 homo dirigit se, et omnia sua: ergo impossibile est, ut cum 5R which a human being directs himself and all his actions. Therefore, it is
+tali fine simul intendatur alius, qui sit ultimus, etiam secun- impossible that with such an end another which is ultimate is intended
+dum quid tantum et negative. Patet consequentia, quia vel ille at the same time, even [if ultimate only] qualifiedly and negatively. The
+finis ordinatur ad alium finem, qui dicitur ultimus simpliciter, consequence is clear because either that end is ordered to another end,
+vel non; primum, ergo jam ille non est ultimus, etiam nega- which is called unqualifiedly ultimate or not. If the first, then that end
+10 tive, cum ordinetur ad alium; si secundum, ergo alter non 10R is now not ultimate, even negatively, since it is ordered to another. If
+est finis ultimus simpliciter, cum non omnia ordinentur in the second, then the other is not an unqualifiedly ultimate end, since not
+Confirm. 1. ipsum. Confirmatur primo, quia de ratione finis ultimi sim- everything is ordered to it.
+pliciter est, ut sit bonum sufficiens: ergo impossibile est appe- It is confirmed, firstly, because it is of the nature of an unquali- The first
+confirmation.	tere cum illo aliud bonum non propter ipsum, quando tunc fiedly ultimate end that it is a sufficient good. Therefore, it is impossible
+15	Confirm. 2 jam non censeretur ipsum per se sufficiens. Et confirmatur 15R to desire along with it another good that is not for its sake, since then
+secundo, quia necesse est hominem operari omnia propter ul- it would not be thought itself per se sufficient. And it is confirmed, The second
+confirmation.	timum finem simpliciter, ut divus Thomas hic docet, artic. 6; secondly, because it is necessary that a human being do everything for
+ergo fieri non potest ut cum tali fine intendatur alius, qui sit the sake of an unqualifiedly ultimate end, as St. Thomas teaches here in
+ultimus negative. art. 6.3 Therefore, it cannot happen that along with such an end another
+20R end is intended that is negatively ultimate.
+20	Ratio pro affir.
+parte.
+2. In contrarium est, quia justus, qui venialiter pec- 2. It is to the contrary, because the just person who sins venially Reason for the
+affirmative side.	cat, habet Deum pro ultimo fine simpliciter, et tamen in holds God for the unqualifiedly ultimate end and yet constitutes his qual-
+objecto venialis constituit finem ultimum secundum quid. ifiedly ultimate end in the venial object. This question is especially pro-
+Propter quam difficultatem præsertim mota est hæc quæs- voked because of this difficulty. Indeed, with this not standing in the
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the
+1628 edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V =
+Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3ST IaIIæ.1.6.
+18 sit ] fit V.
+
+-- 1 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 4 2
+Quorundam
+resolution.
+tio, illa enim non obstante, multi Thomistæ sentiunt, non 25R way, many Thomists think that it is not possible that a human being at A resolution of
+these issues.	25 posse hominem simul <col. b> duos fines ultimos intendere the same time intend two ultimate ends—even in the way stated—because
+etiam dicto modo, propter rationem in principio positam: of the reason posited in the beginning. And therefore they try to find a
+et ideo conantur invenire modum, quo defendant istum ve- way in which they can defend that the person sinning venially holds God
+nialiter peccantem habere Deum pro ultimo fine, etiam in for the ultimate end even in the very act of venial sin. They say, there-
+Improbatur hæc
+resolutio.
+ipso actu venialis peccati. Dicunt ergo, in eo actu operari jus- 30R fore, that in that act the just person acts for the sake of God, at least
+30 tum propter Deum, saltem habitualiter: sed hoc, ut ex supra habitually.
+dictis constat, duobus modis potest intelligi: primo, proprie, But this, as is clear from what was said above, can be understood in This resolution is
+disproven.	ita ut revera justus per aliquem actum suum referat peccatum two ways. First, properly, such that the just person really through some
+veniale in Deum, saltem ea intentione universali, qua refert act of his refers the venial sin to God, at least by that universal intention
+omnia sua in Deum. Et hoc modo intellecta hæc sententia est 35R by which he refers all his actions to God. And understood in this way
+35 valde falsa, quia peccatum veniale non est hoc modo referibile this view is obviously false, because a venial sin is not referable in this
+in Deum, essetque contrarium divino honori hoc modo re- way to God and it would be contrary to divine honour to refer a venial
+ferre peccatum veniale in Deum, quia esset profiteri peccatum sin to God in this way because it would declare the venial sin to please
+veniale placere Deo: et ideo, quando illa relatio fit universalis God. And, therefore, since that relation to God is made universal of
+omnium operum in Deum, aut debet intelligi distributio ac- 40R every action, either a suitable division ought to be understood, namely,
+40 commoda, scilicet, omnium, quæ apta sunt referri in ipsum, of everything which is apt to be referred to God, or, surely, if the just
+vel certe si justus interdum habuit generale propositum ab- person sometimes held a general practice absolutely and unqualifiedly of
+solute et simpliciter operandi propter Deum, quando postea acting for the sake of God, he (when afterwards he sins venially) changes
+venialiter peccat, mutat ex parte prius propositum, et non from the part of the earlier practice and is not constant in it.
+est in illo constans. Secundo, potest hæc sententia intelligi 45R Secondly, this view can be understood improperly, because, namely,
+45 improprie, quia scilicet cum peccato veniali simul esse potest with the venial sin there can be at the same time a turning of the one
+habitualis operantis conversio ad Deum ut ultimum finem, et habitually acting to God as ultimate end and this, whatever the way of
+hoc, quidquid sit de modo loquendi re ipsa verum est: tamen speaking is, is true by the thing itself. Nevertheless, thus is not explained
+sic non explicat, quis sit finis ultimus illius operis peccati ve- that something is the ultimate end of that action of venial sin, because,
+nialis, quia, ut supra, distinct. 2, quæest. 4, numero 2, dixi, illa 50R as I said above in dist. 2, q. 4, n. 2, that habitual relation is not of the
+50 relatio habitualis non est operis, sed subjecti, neque informat action but of the subject, nor does it inform in any way the action itself
+ullo modo ipsum opus, sed concomitatur tantum: ergo per but only accompanies it. Therefore, through this alone is not explained
+hoc solum non explicatur quem finem habeat ipsum opus, which end the action itself has or which end the one acting has in such
+aut operans in tali actu, cum illum non referat in Deum. an act when it is not referred to God.
+Quid alii
+resoluant.
+3. Respondet Medina justum referre actum peccati ve- 55R 3. Medina responds that the just person refers the act of venial sin How others
+resolve it.	55 nialis in se ipsum, et quia se ipsum refert habitualiter in Deum to him himself and because he himself refers habitually to God through
+per habitum charitatis, ideo consequenter refert habitualiter an act of charity; consequently the very act of venial sin for that reason
+Impugnantur. ipsum actum peccati venialis. Sed hoc non est recte dictum, refers [to God]. But this is not rightly said nor does it satisfy. First, They are
+opposed.	nec satisfacit, primo, quia operans non refert peccatum ve- because the one acting does not refer the venial sin and its object to him-
+niale, et objectum ejus in se ipsum, nisi tanquam in finem 60R self except as to a finis cui. Moreover, this relation does not exclude the
+60 cui: hæc autem relatio non excludit rationem ultimi finis, ut nature of an ultimate end, as I have often said.
+sæpe dixi. Deinde, quia licet persona referatur habitualiter Finally, because although the person is referred habitually to God,
+
+-- 2 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 4 3
+in Deum, non sequitur quidquid inest personæ, referri etiam it does not follow that whatever is in the person is also referred habit-
+habitualiter in Deum: nam quod est illicitum, nullo modo ually to God. For what is unlawful in no way is a means of tending to
+est medium tendendi ad Deum; et ideo licet persona secun- 65R God. And therefore although the person with respect to himself is re-
+65 dum se referatur, non tamen ut est finis peccati venia- <35> ferred [to God], yet nevertheless not so that God is the end of the venial
+lis, alias posset etiam actualiter referri peccatum veniale in sin. Otherwise, the venial sin could also be actually referred to God, be-
+Deum, quia potest justus actu referre se ipsum in Deum, ut cause the just person can actually refer himself to God as ultimate end,
+ultimum finem, et tamen venialiter actu peccare per aliquem and yet actually venially sin through some place and some vain concomi-
+locum, et vanam complacentiam concomitantem, et e con- 70R tant complacency. And, contrariwise, he can venially sin for the sake of
+70 trario potest venialiter peccare propter alium, qui sit in pec- someone else who is in mortal sin by referring the venial sin itself to the
+cato mortali referendo in ipsum tanquam in finem cui ipsum other person as to a finis cui, apart from any other relation to a further
+veniale peccatum absque alia relatione in ulteriorem finem a end intended by him or the other person for whose sake he acts.
+se, vel ab alio, propter quem operatur, intentum.
+Verior resolutio,
+per conclusionem
+affirmantem.
+4. Dicendum ergo existimo, nullam esse repugnantiam 4. Therefore, I think it should be said that there is no repugnance in A better
+resolution,
+through
+affirming the
+conclusion.
+75 quod aliquis simul intendat unum finem ultimum simpliciter 75R someone at the same time intending one unqualifiedly ultimate end with
+respectu personæ operantis, et tamen quod in aliquo opere respect to the person acting and yet that in some action he will stop in
+sistet in aliquo fine; qui sit ultimus negative, seu secundum some end which is ultimate negatively or qualifiedly only with respect
+Probatur
+exemplo.
+quid solum respectu talis operis. Hoc probat sufficienter to such an action. The example that was brought up concerning the just It is proved by
+example.	exemplum adductum de homine justo peccante venialiter; human who sins venially sufficiently shows this. Indeed, almost the same
+80 imo idem fere procedit in homine existente in peccato mor- 80R thing happens in the case of the human existing in mortal sin, for he can
+tali, nam ille etiam potest venialiter peccare, et per talem ac- also sin venially. And through such an action he does not constitute [his]
+tum non constituit ultimum finem simpliciter in creatura, unqualifiedly ultimate end in a created thing, nor does he refer that to the
+nec refert illum in finem peccati mortalis, alias in eo etiam end of the mortal sin. Otherwise, he would actually mortally sin in that
+Alterum
+exemplum.
+actu mortaliter peccaret. Item, fieri potest simile argumen- as well.
+85 tum de infideli idololatra, qui retulit omnia sua opera in 85R Also, a similar argument can be made concerning the infidel idol- Another
+example.	idolum, tanquam in ultimum finem, et tamen postea absque ater, who referring all his actions to the idol as to an ultimate end, and
+ulla memoria illius finis, eleemosynam facit ductus honestate yet afterwards without any memory of that end gives alms, having been
+naturali, ille enim tunc bene moraliter operatur juxta sanam led by natural moral goodness (honestate). For he in that case he acts
+et certam doctrinam, non ergo refert illud opus in idolum morally well according to sound and reliable doctrine. Therefore, that
+90 tanquam in finem ultimum: sistit ergo ejus intentio in ob- 90R action does not refer to the idol as to an ultimate end. Therefore, his
+jecto illius operis per se bono et amabili, tanquam in fine intention stops in the per se good and lovable object of that action as in
+ultimo, saltem negative, licet operans habitu retineat alium an ultimate end, at least negatively, although the one acting habitually
+Ratio. finem ultimum simpliciter. Ratio autem est, quia in hoc nulla retains another unqualifiedly ultimate end.
+est repugnantia ex parte ipsorum objectorum seu finium, et The reason, moreover, is because there is no repugnance in this on By reason.
+95 alioquin voluntas est libera ad operandum pro ut voluerit. 95R the part of the objects themselves or of the ends and, besides, the will is
+Antecedens patet, quia non est necesse ut intentio finis ul- free to act as it wills. The antecedent is clear, because it is not necessary
+timi simpliciter informet omnes alios actus hominis habentis that the intention of an unqualifiedly ultimate end inform every other act
+72 relatione ] ratione V.
+84 peccaret ] peccare V.
+
+-- 3 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 4 4
+talem intentionem; quod facilius patebit respondendo rationi of the human being having such an intention, which will be more clear
+dubitandi positæ in principio. in responding to the argument for doubting posited in the beginning.
+100	Ad rationem
+dubitandi in
+num. 1.
+5. Ad quam sic respondetur, non esse de ratione ul- 100R 5. To this I respond that it is not of the nature of an unqualifiedly To the reason for
+doubting in n. 1.	timi finis simpliciter, ut qui illum intendit, omnia opera sua ultimate end that he who intends it actually refers all his actions to it; it
+actu referat in ipsum, sed satis est quod hoc sit debitum is enough that this is owed to the ultimate end itself, if it is true and is
+ipsi ultimo fini; si verum sit, et cum dignitate et propor- desired with dignity and proportion. For otherwise it is enough so that
+tione appetatur: nam alioqui ut operans dicatur intendere the one acting is said to intend such an end that he loves nothing that
+105 talem finem, satis est, ut nihil amet, quod illi repugnet sim- 105R opposes it and that he absolutely intends to employ all necessary means
+pliciter, et quod absolute intendat adhibere media necessaria for its attainment, since with that intention he can stand so that in such
+ad <col. b> consequendum illum, cum qua intentione stare an action he has a fickle inordination with respect to such an end to the
+potest ut in tali opere habeat levem inordinationem respectu extent that he does not tend to it through such an action.
+Discrimen inter
+mortale et
+veniale.
+talis finis, quatenus per tale opus in illum non tendit. Unde Whence, by the way, a certain difference between mortal and ve- A distinction
+between mortal
+and venial.
+110 obiter notari potest differentia quædam inter mortale et ve- 110R nial can be noted: through a mortal [sin] a human being unqualifiedly
+niale, quod per mortale simpliciter deserit homo ultimum deserts his ultimate end, because he absolutely prefers some good to it.
+finem suum, quia aliquod bonum illi absolute præfert: per ve- But through a venial [sin] he does not desert the end itself, but only does
+niale autem non deserit ipsum finem, sed solum non quærit not seek it through such an act.
+Ad 1. confir. ibid. illum per talem actum. Unde ad primam confirmationem re- Whence is responded to the first confirmation that the unqualifiedly To the 1st
+confirmation in
+n. 1.
+115 spondetur, finem ultimum simpliciter intendi ut bonum suffi- 115R ultimate end is intended as a sufficient good after it has been achieved.
+ciens, postquam sit consecutus: tamen quamdiu non est com- Nevertheless, as long as it has not been gotten hold of, a human being
+paratus, potest homo aliquid aliud bonum amare extra illum can love some other good more than the end. This indeed—although it
+finem: quod quidem licet sit inordinatum, quando ille ul- is inordinate, since that ultimate end is true and owed—is, nevertheless,
+timus finis est verus et debitus, non tamen est impossibile, not impossible, because it is not necessary that someone who intends
+120 quia non est necesse, ut qui intendit aliquod bonum, ut suf- 120R some good as sufficient in all his actions inquire into it. The second How to respond
+to the 2nd
+confirmation?
+Ad 2. quid? ficiens in omni actu suo, illud inquirat. Secunda confirmatio confirmation aims at the following question, where it will be cleared up.
+petit sequentem quæstionem, ubi expedietur.
+
+-- 4 of 4 --

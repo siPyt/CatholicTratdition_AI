@@ -1,0 +1,340 @@
+Last revision: March 30, 2013	Francisco Suárez, S. J.
+DM XXVI, SECT. 11
+© Sydney Penner 2013
+<916, col. b>2
+DISPUTATIO XXVI. DISPUTATION XXVI.
+De comparatione causarum ad sua effecta. Concerning the comparison of the causes to their effects.
+Postquam de singulis causis disputatum est, oportet ad huius After having discussed each of the causes individually, it is necessary
+tractatus complementum, nonnulla, quae omnibus possunt in order this treatise to discuss some of the things that can be com-
+5 esse communia, disserere: quod commode fiet, comparando 5R mon to all of them. This will be done neatly by comparing the causes
+tum causas ad effectus, quod nunc agimus, tum etiam in- to their effects, which we will do now, and then also comparing the
+ter se, quod praestabimus disputatione sequenti. Comparari causes to each other, which we will leave for the following disputation.3
+autem possunt causae ad effectus vel in perfectione, vel in Moreover, causes can be compared to their effects either with respect to
+sufficientia, vel in duratione seu in ratione prioris et poste- perfection,4 with respect to sufficiency in number,5 or with respect to
+10 rioris. 10R duration or to the notion of prior and posterior.6
+SECTIO 1. SECTION 1.
+Utrum omnis causa sit effectu suo nobilior. Whether every cause is more noble than its effect.
+1. Potest effectus comparari in perfectione vel ad singulas 1. An effect can be compared with respect to perfection either to each
+causas suas, vel ad omnes simul sumptas: idque vel ad omnes of its causes individually or to all of them taken at once, either to all
+15 simpliciter, vel ad omnes eiusdem generis seu rationis. 15R causes strictly speaking or to all causes of the same genus or ratio.
+2. Primo igitur certum est non posse effectum excedere 2. First, therefore, it is certain that an effect cannot exceed in per-
+in perfectione omnes causas suas simul sumptas. Probatur, fection all its causes taken at once. It is proven: for there is nothing of
+quia nihil est perfectionis in effectu, quod non habeat a cau- perfection in the effect that it does not have from its causes. Therefore,
+sis suis: ergo nihil perfectionis habere potest effectus, quod an effect cannot have anything of perfection that did not pre-exist in
+20 non praeexistat in aliqua causarum suarum, vel formaliter, 20R one of its causes, either formally or eminently. For causes cannot give
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in volume 25 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+3DM 27.
+4DM 26.1.
+5DM 26.3.
+6DM 26.2.
+
+-- 1 of 9 --
+
+Suárez, DM XXVI, sect. 1 2
+vel eminenter, quia causae dare non possunt quod nullo that which they do not in any way contain in themselves.
+modo in se continent.
+Comparatio effectus ad intrinsecas causas. Comparison of effects to the intrinsic causes.
+3. Secundo dicendum est, si comparetur effectus ad eas tan- 3. Second, it should be said that if an effect is compared to only those
+25 tum causas quibus intrin- <917> sece constat, non posse ex- causes by which it is constituted intrinsically, then it cannot exceed in
+cedere in perfectione omnes illas simul sumptas, ut actu cau- 25R perfection them all taken together at once as actually causing. That is
+santes. Quod est dicere substantiam, verbi gratia, composi- to say, a composite substance, for example, which is an intrinsic effect
+tam, quae est effectus intrinsecus materiae et formae, non of matter and form, cannot exceed in perfection that matter and form
+posse excedere in perfectione ipsam materiam et formam taken at once and united. For I added the phrase ‘actually causing’ in
+30 simul sumptas et unitas; ideo enim addidi actu causantes, order to include their union. And thus the assertion is easily proven.
+ut earum unionem comprehenderem. Atque ita facile pro- 30R First, because that effect is not distinguished in re from causes of this
+batur assertio, primo quia ille effectus non distinguitur in sort taken at once and actually causing (as I will show below when treat-
+re ab huiusmodi causis simul sumptis et actu causantibus, ut ing material substance). Therefore, there cannot be an inequality of
+infra ostendam tractando de substantia materiali: ergo non perfection between them. Second, because an effect cannot have per-
+35 potest esse inter eas inaequalitas perfectionis. Secundo, quia fection formally or entitatively from elsewhere than from those causes
+effectus non habet aliunde formaliter, seu entitative perfec- 35R by which it is constituted intrinsically. Therefore, it cannot exceed in
+tionem nisi ab eis causis quibus intrinsece constat: ergo non perfection all those along with their causalities, since there is nowhere
+potest excedere in perfectione omnes illas cum suis causali- from which it might have that excess of perfection.
+tatibus, quia non est unde habeat illum perfectionis exces- You will say that many things that pertain to perfection apply to
+40 sum. Dices, multa convenire composito, quae ad perfec- a composite that cannot be attributed to its intrinsic causes as they are
+tionem pertinent, et causis eius intrinsecis attribui non pos- 40R in themselves and operate in themselves. For example, living applies to
+sunt, ut sunt per se esse, per se operari, ut in rebus viven- composite living things but it does not apply to either matter or form.
+tibus composito convenit vivere, quod nec materiae nec for- It is responded that these perfections do not apply to individual intrin-
+mae convenit. Respondetur, has perfectiones non convenire sic causes taken in themselves, but it does apply to them as taken at once
+45 singulis causis intrinsecis per se sumptis; convenire autem and actually causing. Hence, the argument only shows that something
+eis ut simul et actu causantibus: unde solum concluditur 45R more perfect arises from the union or causality of these causes than
+ex unione seu causalitate harum causarum aliquid perfec- what the aggregate (if I may speak in this way) of these causes without
+tius consurgere, quam sit aggregatum (ut sic dicam) harum their union and causality with each other would be.
+causarum absque unione et causalitate earum inter se.
+50 4. Hinc vero infertur, et dicitur tertio, comparando 4. But from this is inferred and is stated, third, that when compar-
+effectum totum ac simpliciter ad singulas causas intrinse- ing the effect taken as a whole and simpliciter with individual intrinsic
+cas, perfectiorem esse effectum qualibet earum. Probatur 50R causes, then the effect is more perfect than any of the causes. It is man-
+aperte, quia includit totam perfectionem cuiuscumque ea- ifestly proven from the fact that it includes the whole perfection of any
+rum, et praeterea includit perfectionem alterius, et praeterea one of them and also includes the perfection of the other one and fur-
+55 perfectionem unionis earum inter se. Item, si talis effectus thermore the perfection of their union with each other. Likewise, if
+sit substantia composita, constat esse perfectionem quam such an effect is a composite substance, it clearly is more perfect than
+
+-- 2 of 9 --
+
+Suárez, DM XXVI, sect. 1 3
+materiam: supra etiam ostensum est esse perfectiorem quam 55R the matter. It was also shown above that it is more perfect than the
+formam. Neque hoc mirum videri potest, quia talis effectus form. Neither of these seem remarkable, since such an effect does not
+ex neutra talium causarum per se sumpta habet intrinsece intrinsically have its whole perfection from either of of these causes
+60 totam perfectionem suam; et ideo quamlibet earum per se taken in itself. For this reason the composite substance can exceed ei-
+sumptam excedere potest ratione alterius. Dixi autem, si ther of the intrinsic causes taken in itself by virtue of the other one. I
+totus effectus simpliciter comparetur secundum totam perfec- 60R said, moreover, if the whole effect simpliciter is compared according to
+tiorem quam habet, nam si solum fiat secundum quid com- the whole perfection that it has, for if that comparison is made secun-
+paratio in eo praecise, quod effectus habet a tali causa, non dum quid precisely with respect to that effect that it has from such a
+65 potest excedere in ea ratione perfectionem causae, cum ab cause, then it cannot exceed in that ratio the perfection of the cause,
+illa nihil amplius habere pos- <col. b> sit quam ipsa in se since the effect cannot have anything more from that than what it con-
+contineat. Immo sub ea consideratione causa quodammodo 65R tains in itself. Indeed, under this consideration the cause exceeds [the
+excedit, in quantum ipsa est, quae communicat alteri suam effect] in a certain way insofar as it is the cause that communicates its
+perfectionem, et in quantum effectus ab ea pendet sub ea perfection to the effect and insofar as the effect depends on the cause
+70 ratione. Dices, Quando hic effectus est aliquod composi- under that ratio.
+tum accidentale, non semper est perfectior altera causa per You will say that when this effect is some accidental composite,
+se sumpta, nimirum materiali, quae est ipsamet substantia. 70R it is not always more perfect than one cause taken in itself, namely,
+Respondetur, etiam hoc compositum superare substantiam the material cause, which is the substance itself. It is responded that
+ipsam saltem in perfectione accidentalis formae, eiusque in- even this composite outdoes the substance itself at least with respect
+75 formatione: haec enim aliqua perfectio est. Quod si con- to the perfection of the accidental form and its information. For the
+tingat totam hanc perfectionem eminenter in sola substan- accidental form is some perfection. If it happens that this whole per-
+tia contineri, illud non erit ratione causalitatis materialis, 75R fection is contained eminently in the substance alone, that will not be
+sed alia superiori ratione. Unde illud est per accidens ad by the ratio of material causality but by some superior ratio. Hence,
+comparationem causae materialis ut sic ad suum effectum, that is per accidens with respect to the comparison of the material cause
+80 quam nunc facimus. Poterat vero hic ulterius fieri compara- as such to its effect, which is what we are dealing with now. But here
+tio inter ipsasmet causas materialem et formalem, quatenus a further comparison could be made between the material and formal
+una potest esse effectus alterius: sed hanc comparationem 80R causes themselves insofar as one can be the effect of the other. But this
+attingemus melius sectione sequenti. comparison will be better handled in the following section.7
+Comparatio effectus ad efficientes causas. Comparison of effects to efficient causes.
+5. Quarto dicendum est, effectum nunquam posse excedere 5. Fourth, it should be said that an effect can never exceed in perfection
+in perfectione omnes causas efficientes, quae ad illum con- all the efficient causes taken together than concur for it. Indeed, it can
+currunt, simul sumptas: immo neque aliquam earum, quae never exceed in perfection any of them that concur for it as a principal
+5 ut causa principalis et totalis in aliquo genere ad illum con- 5R and total cause in some genus. Conversely, a principal efficient cause
+currat: e converso vero causa efficiens principalis saepe ex- often exceeds its effect in perfection. Both parts of this assertion are
+cedit in perfectione suum effectum. Haec assertio quoad obvious from what we discussed more thoroughly with respect to the
+7DM 26.2.7 and 9.
+
+-- 3 of 9 --
+
+Suárez, DM XXVI, sect. 1 4
+omnes partes est facilis ex iis, quae de causa efficiente latis- efficient cause.8 The first part, indeed, is proven from the fact that the
+sime disputavimus. Et prima quidem pars probatur, quia whole perfection of the effect flows from the efficient causes. There-
+10 tota perfectio effectus manat a causis efficientibus: ergo 10R fore, it cannot happen that there is some perfection in the effect that is
+fieri non potest ut aliqua perfectio sit in effectu, quae non not in one of the efficient causes either in an equal or a more noble way.
+aequali, vel nobiliori modo sit in aliqua causarum effici- Therefore, the effect cannot exceed in perfection all its efficient causes
+entium: ergo non potest excedere effectus in perfectione taken at once.
+omnes suas causas efficientes simul sumptas. Dices, Praeter You will say that the effect has other causes intrinsic to it be-
+15 causas efficientes habet effectus alias sibi intrinsecas: ergo 15R yond the efficient causes. Therefore, in virtue of them it can exceed
+ratione illarum potest excedere in perfectione causas effi- its efficient causes in perfection. It is responded that those intrinsic
+cientes. Respondetur, ipsas intrinsecas causas componentes causes composing the effect necessarily flow from some extrinsic effi-
+effectum manare necessario ab aliqua efficienti causa ex- cient cause. For this reason it cannot happen that an effect compared
+trinseca; et ideo fieri non potest ut effectus comparatus ad to an efficient cause that is adequate to it has some perfection from its
+20 causam efficientem sibi adaequatam habeat aliquam perfec- 20R intrinsic causes that do not exist in its extrinsic or efficient cause in an
+tionem a suis causis intrinsecis, quae non sit aequali vel no- equal or more noble way.
+biliori modo in extrinseca seu efficienti.
+6. Altera vero pars, qua comparatur effectus ad singulas 6. The other part—in which the effect is compared to individual ef-
+causas efficientes, decla- <918> ratur facile ex distinctione ficient causes—is easily shown by using the distinction between a prin-
+25 causae principalis et instrumentalis. Nam instrumentalis cipal cause and an instrumental cause. For an instrumental cause can
+potest esse ignobilior effectu, ut supra dictum est, et notavit 25R be less noble than the effect, as was said above and as St. Thomas noted
+D. Thomas in 4. dist. 1. q. 1. art. 4. qc. 1. ad 3. quia effec- in Sent. IV, dist. 1, q. 1, art. 4, qc. 1, ad 3. For an effect does not proceed
+tus non procedit principaliter ex virtute eius. At vero causa principally from its power. On the other hand, a principal cause can
+principalis nunquam potest esse ignobilior, praesertim si never be less noble, especially if it is complete and total in its genus. The
+30 sit integra et totalis in suo genere, nam de partiali res est matter is more doubtful concerning a partial cause, although speaking
+magis dubia. Quamvis loquendo proprie de perfectione in- 30R properly about intensive perfection, it is more probably that even a par-
+tensiva, probabilius sit etiam causam partialem principalem tial principal cause is never less intensively perfect than its effect. For
+nunquam esse intensive minus perfectam suo effectu, quia it differs especially in this from an instrumental cause and since such a
+in hoc maxime differt a causa instrumentali, et quia talis cause, although it is partial on the part of the action, nevertheless, on
+35 causa licet ex parte actionis sit partialis, tamen ex parte the part of the effect it acts on that whole. For this reason, the effect
+effectus agit in totum illum, et ideo excedere non potest 35R cannot exceed the grade of its perfection, as was touched on in earlier
+suae perfectionis gradum, ut in superioribus tactum est. Et sections. And from here it is clear a fortiori that when a cause is a total
+hinc a fortiori constat, quando causa est totalis principalis, principal cause, it cannot be a lesser perfection than its effect, since it
+non posse esse inferiorem perfectione suo effectu, quia non could not give perfection to the effect that it does not have in itself.
+40 posset illi dare perfectionem quam in se non haberet. In- But among principal causes, certain ones are univocal and others
+ter causas autem principales quaedam sunt univocae, aliae 40R are equivocal, as we said above. Among these the latter ones neces-
+aequivocae, ut supra diximus: ex quibus posteriores nec- sarily are more noble than their effects, since when they are different
+8DM 17–22 concern the efficient cause.
+42 posteriores ] priores A V.
+
+-- 4 of 9 --
+
+Suárez, DM XXVI, sect. 1 5
+essario sunt effectibus nobiliores, quia cum sint diversae in species from their effects, it is necessary that they not contain the
+speciei ab effectibus, necesse est ut non contineant perfec- perfection of their effects formally and according to the same ratio.
+45 tionem eorum formaliter et secundum eamdem rationem: Therefore, it is necessary that they have it is a more eminent way, as
+ergo oportet ut illam habeant eminentiori modo, ut notavit 45R St. Thomas noted in ST Ia.4.2, ad 3, and as is frequently said among
+D. Thomas 1. p. q. 4. art. 2. ad 3. et est frequens apud omnes all the philosophers. On the other hand, a univocal cause, although it
+Philosophos. At vero causa univoca, quamvis non possit cannot be inferior to its effect, does not, however, necessarily exceed
+esse effectu inferior, non tamen necesse est ut illum exce- it. For it communicates its whole perfection, which it produces in the
+50 dat, communicat enim totam suam perfectionem, quem in same species, and therefore an equality is found between them. But if
+eadem specie producit, et ideo inter ea invenitur aequalitas. 50R you object that Augustine says in q. 2 of his book Eighty-three Questions
+Quod si obiicias Augustinum liber 83. Quaestionum q. 2. di- that everything that happens cannot be equal to that by which it comes
+centem: Omne quod fit, ei a quo fit, par esse non potest. to be, it is responded, first, that this can be understood as saying that
+Respondeo primum, intelligi posse, effectum nunquam esse an effect is never equal to its cause in everything. For an effect is infe-
+55 parem causae in omnibus, nam saltem in relatione depen- rior at least in its relation of dependence. Yet it need not be inferior in
+dentiae est inferior: non tamen in absoluta et intrinseca per- 55R absolute and intrinsic perfection. Or, second, and perhaps this is more
+fectione. Vel secundo, et fortasse magis ad mentem Augus- in keeping with the mind of Augustine, I respond that this should be
+tini respondeo id esse intelligendum de eo, quod fit ab alio understood about that which comes to be from another thing as from a
+tamquam a necessario principio a quo essentialiter pendet: necessary principal on which it depends essentially. But an effect never
+60 effectus autem nunquam habet huiusmodi dependentiam a has a dependency of this sort on a univocal cause, but only on some
+causa univoca, sed ab aliqua superiori; et ideo de tali effectu 60R superior cause. And for this reason it is true concerning such an effect
+verum est nunquam posse pervenire ad aequalitatem cum that it can never reach equality with its cause.
+causa.
+7. Aliunde obiicere quis potest, quando plures causae 7. Someone could object from elsewhere that when multiple prin-
+65 principales per se subordinatae ad eumdem effectum con- cipal causes per se subordinated concur for the same effect, then even
+currunt, etiamsi <col. b> unaquaeque in suo genere et if each one is total in its genus and grade nothing stands in the way of
+gradu sit totalis, nihil obstare quod effectus excedat inferi- 65R the effect exceeding the inferior or proximate cause, provided that it
+orem seu proximam causam, dummodo non excedat superi- does not exceed all the superior ones. For it suffices that the effect’s
+ores omnes, quia satis est quod tota perfectio effectus sit in whole perfection be in the whole series of causes, even if it is not in an
+70 tota serie causarum, quamvis non sit in singulis. Atque ita individual cause. And thus it happens that a less perfect brute animal
+contingit, ut brutum minus perfectum generet aliud perfec- could generate another animal of a more perfect species. It happens
+tioris speciei; et frequentius evenit, ut unus homo generet al- 70R even more frequently that one human being generates another one of
+ium melioris ingenii, atque adeo in individuo perfectiorem. better talents and to that extent a more perfect one with respect to the
+Respondetur ad argumentum ex superioribus, nullas causas individual. It is responded to the argument from what was said in ear-
+75 esse per se et essentialiter subordinatas in agendo nisi secun- lier sections: no causes are subordinated per se and essentially in acting
+dam et primam: causae enim secundae inter se non habent except the secondary cause and the first cause. For secondary causes
+illam adeo intrinsecam subordinationem: quamquam in- 75R do not have that subordination intrinsic to that degree between them-
+ter secundas dentur aliquae universales et superiores, quae selves, although there are some universal and superior ones among the
+suo modo adiuvant inferiores ad suos effectus. Causa igitur secondary causes which in their way help the inferior causes to their ef-
+80 prima, quando agit cum secunda principaliter operante in fects. The first causes, therefore, when it acts with a secondary principal
+
+-- 5 of 9 --
+
+Suárez, DM XXVI, sect. 1 6
+suo ordine, accommodat actionem suam perfectioni et nat- cause operating in its order, accommodates its action to the perfection
+urae talis causae; et ideo nunquam potest effectus excedere 80R and nature of such a cause. Hence, the effect can never exceed the per-
+perfectionem causae secundae, nec potest aliqua perfectio fection of the secondary cause, nor can any perfection flow from the
+dimanare a causa prima in effectum, nisi per secundam: alio- first cause into the effect except through the secondary cause. Other-
+85 qui in communicanda illa perfectione iam non ageret causa wise, in communicating that perfection the first cause would already
+prima ut concurrens cum secunda, sed per sese ut supponens not act as concurring with the secondary cause, but would act through
+aliquem defectum causae secundae. Ac simili modo si inter- 85R itself as supposing some defect in the secondary cause. In a similar
+dum effectus ex influentia caelorum habet aliquam maiorem way, if an effect sometimes has from the influence of the heavens some
+perfectionem quam causa particularis univoca, quoad illam greater perfection than a particular univocal cause, then with respect to
+90 perfectionem non procedit a particulari causa, saltem ut a that perfection it does not proceed from a particular cause (at least not
+principali, sed a caelo, vel alia causa universali, quae in eo as from a principal cause) but from heaven or another universal cause,
+effectu gerit vicem proximae causae principalis. 90R which in that effect takes the place of the proximate principal cause.
+8. Unde ad exempla de animantibus, quae in perfec- 8. Hence, in response to the examples about living things that seem
+tiori specie videntur generari ab aliis minus perfectis, vel to be generated in a more perfect species from other less perfect species,
+95 negandum est assumptum, quia semper alterum saltem ex one should either deny the assumption (since the latter at least with
+generantibus est aeque perfectum, vel perfectius in specie; respect to the ones generating is always equally perfect or more perfect
+vel certe dicendum est, talia generantia ad eum effectum 95R in species) or one should certainly say that generating things of that
+non concurrere ut causas principales, sed ut instrumentales sort do not concur for that effect as principal causes but as instrumental
+disponentes materiam: generationem autem perfici virtute causes disposing the matter. But generation can be perfected by virtue
+100 alicuius superioris causae: sicut contingit etiam in effectione of some superior cause, just as also happens in the effecting of a mixture
+mixti, quod ex mutua actione et mixtione elementorum that is generated from the mutual action and mixing of the elements.
+generatur. De inaequalitate autem individuali, si teneamus 100R But concerning unequal individuals, if we hold that individuals of
+individua eiusdem speciei non esse inaequalia nisi in acci- the same species are not unequal except with respect to accidental dis-
+dentalibus dispositionibus, ut multorum est opinio, facilis positions (which is the opinion of many), the response is easy. For the
+105 est responsio, nam perfectio talis dispositionis seu complex- perfection of such a disposition or constitution does not always come
+ionis non provenit semper a <919> proximis et univocis into being from proximate and univocal causes but from other circum-
+causis, sed ex aliis circumstantibus, et praesertim ex caelesti 105R stances and especially from celestial influence, as is the shared view of
+influentia, ut est omnium Philosophorum concors senten- all philosophers. And if perhaps there is an inequality of perfection
+tia. Quod si fortasse in ipsismet individuis est inaequalitas in those very individuals and the more perfect individual is generated
+110 perfectionis, et individuum perfectius generatur ab imper- by the less perfect one, it is necessary to say that that excess of perfec-
+fectiori, necessario dicendum est, etiam illum excessum per- tion also comes to be from the concomitance and concurrence of other
+fectionis provenire ex concomitantia et concursu aliarum 110R causes. Just as such causes aid in disposing matter for something more
+causarum; quae sicut iuvant ad perfectius disponendam ma- perfect, so also they aid in introducing a more perfect form individu-
+teriam, ita et ad introducendam formam individualiter per- ally. This issue is usually disputed properly in books on the soul and it
+115 fectiorem. Quae res proprie disputari solet in libris de an- is well discussed by Fonseca in Metaphysics V, ch. 28, q. 16.
+ima, et bene a Fonseca 5. Metaphysicorum cap. 28. q. 16.
+
+-- 6 of 9 --
+
+Suárez, DM XXVI, sect. 1 7
+Comparatio effectus ad finalem causam. Comparison of effects to the final cause.
+9. Ultimo dicendum est, finalem causam non semper esse 9. Lastly, it should be said that the final cause is not always more perfect
+perfectiorem suo effectu: quamquam, si finis sit ultimus, than its effect. If, however, the end is ultimate and the ordering to the
+et ordo in finem sit rectus, et iuxta institutionem naturae, end is right and according to the institution of nature, then the final
+5 semper sit perfectior suo effectu, seu re ordinata in finem. 5R cause is always more perfect than its effect or than the thing that is
+Prior pars constat primo inductione: nam saepe quis ex- ordered to the end. The former part is obvious, first, by induction. For
+ercet nobilissimas actiones propter pecuniam, vel hominum often someone performs the most noble actions for the sake of money
+aestimationem, qui fines imperfectiores sunt. Et ratio est, or for human esteem, which are more imperfect ends. The reason is
+quia finis solum movet agens metaphorice ad operandum; et that the end only moves the agent to activity metaphorically and for
+10 ideo non oportet ut vel formaliter, vel eminenter contineat 10R that reason it is not necessary that it contain the effect either formally
+effectum, sed satis est quod habeat aliquam rationem boni or eminently. It is enough that it have some ratio of good under which
+sub qua possit movere voluntatem. Posterior pars etiam it can move the will.
+constat inductione, nam quatenus Deus propter finem op- The latter part is also clear by induction. For insofar as God acts
+eratur, clarum est finem ultimum quem ipse intendit esse for the sake of an end, it is clear that the ultimate end that he intends is
+15 nobiliorem caeteris rebus propter talem finem procreatis. 15R more noble than all the remaining things that have been brought into
+Rursus naturalia agentia, cum non operentur propter finem existence for the sake of such an end. Natural agents in turn, even when
+ultimum a Deo intentum, etiam agunt propter nobiliorem they do not act for the sake of the ultimate end intended by God, also
+finem. Quod si considerentur praecise quatenus agunt ex act for the sake of a more noble end.
+naturali impetu naturae, uno ex tribus modis operantur. But if they are considered precisely insofar as they act from the
+20 Primus est propter individui prefectionem vel convenien- 20R natural impetus of nature, they act in one of three ways. The first is for
+tem statum, ut quando movetur lapis ut quiescat in centro, the sake of the preservation or an agreeable state of the individual, as
+vel brutum ut vitam conservet; et in hoc modo operandi when a stone is moved to rest at the centre or a brute animal is moved
+ipsummet agens est finis illius actionis, et aliquo modo ul- to conserve its life. In this way of acting the agent itself is the end of
+timus, scilicet in illa serie: et ita constat finem huiusmodi its action and is in some way an ultimate end, namely, ultimate in that
+25 esse perfectiorem tali actione, vel formali termino eius. Se- 25R series. And thus it is clear that an end of this kind is more perfect than
+cundus modus est, quando haec agentia agunt propter con- such an action or than its formal terminus. The second way is when
+servationem suae speciei, ut cum ignis generat ignem, etc. et these agents act for the sake of the conservation of their species, as when
+tunc finis quodammodo est aeque perfectus, quatenus ipsa fire generates fire, and so on. In this case the end is in a certain way
+forma geniti dicitur ab Aristotele finis generationis, vel equally perfect, insofar as the form of the generated thing is called by
+30 quatenus ipsummet generans est finis suae actionis: quo- 30R Aristotle the end of generation or insofar as the generating thing itself is
+dammodo <col. b> est finis perfectior, quatenus bonum the end of its action. In a certain way the end is more perfect, insofar as
+commune totius speciei ac perpetuitas eius est excellentius the common good of the whole species and the species perpetuation is
+bonum quam sit unum vel alterum individuum. Tertius a more excellent good than the good of one or another individual. The
+modus est, quando hae causae operantur propter commu- third way is when these causes act act for the sake of communicating in
+35 nicandum aliquo modo esse quod habent, ut cum sol illumi- 35R some way the being that they have, as when the sun illuminates. The
+nat, et idem est de omnibus influentiis caelorum: non enim same is true in all the cases of the influence of the heavens. For they do
+agunt ut se conservent, cum sint incorruptibiles: solum ergo not act in order to conserve themselves, since they are incorruptible.
+
+-- 7 of 9 --
+
+Suárez, DM XXVI, sect. 1 8
+agunt ut se communicent, vel (quod idem est) ut alia conser- Rather, they act only in order to communicate themselves or—what is
+vent aut perficiant. In qua actione si consideretur finis prox- the same thing—in order to conserve or perfect other things. In that
+40 imus ipsius actionis, ille quidem minus perfectus est quam 40R action if the proximate end of the action itself is considered, then it is
+sit ipsum agens, tamen ille non est finis ipsius agentis, sed indeed less perfect than the agent itself. But that is not the end of the
+solius actionis: si autem consideretur finis ultimus, propter agent, but of the action alone. If, however, the ultimate end for the sake
+quem dici possint agere huiusmodi agentia, ille secundum of which agents of this kind can be said to act is considered, then it is
+quamdam rationem aut seriem est bonum totius universi: according to a certain ratio or series the good of the whole universe.
+45 simpliciter autem est Deus ipse, quem haec agentia imitan- 45R Strictly speaking it is God himself, whom these agents are imitating
+tur, dum se communicant: et utroque modo finis est quid when they communicate themselves. Either way, the end is something
+excellentius eo quod ad finem ordinatur. more excellent than that which is ordered to the end.
+10. Denique intellectualia agentia creata, si recte et ordi- 10. Created intellectual agents, finally, if they rightly and ordi-
+nate operentur propter finem, per suas operationes tendunt nately act for the sake of an end, tend through they activities to the
+50 in verum ultimum finem, qui est Deus, vel expresse, aut 50R true ultimate end, which is God. They tend to God either expressly or
+saltem implicite, quatenus propter virtutem et honestatem at least implicitly insofar as they act for the sake of virtue and honestas.9
+operantur. In quo etiam aliquo modo operantur propter In this they also act for the sake of themselves in a certain way insofar
+se, quatenus operantur propter propriam perfectionem, non as they act for the sake of their own perfection, not indeed by stopping
+quidem sistendo in seipsis tamquam in fine ultimo cuius gra- in themselves as in an ultimate end for the sake of which they act but
+55 tia operantur, sed tamquam in fine cui perfectionem illam 55R as in an end for which (fine cui) they procure that perfection.10 And
+procurant. Atque ita finis quem ultimate intendunt, abso- thus the end that they ultimately intend absolutely is more perfect than
+lute est perfectior omni eo quod ad finem ordinant; nam de everything that they order to that end. For it is obvious in the case of
+Deo constat: de ipsismet autem agentibus, quatenus ad se God. But with respect to the agents themselves insofar as they order
+aliquid ordinant, et ad illud comparantur ut ultimus finis in something to themselves and are compared to that as an ultimate end
+60 aliqua serie, etiam necesse est ut sub ea ratione sint perfec- 60R in some series, it also is necessary that they be more perfect under that
+tiora, nam haec agentia, perfectiora sunt suis operationibus. ratio. For these agents are more perfect than their activities. But if they
+Quod si ipsa dicuntur esse propter suas operationes, non ita are said to be for the sake of their activities, they do not stop in those
+in eis sistunt, quin ad se illas ordinent, ita ut complete inten- activities in such a way that they do not order the activities to them-
+dant seipsa in statu perfecto; qui potest dici intrinsecus finis selves such that fully intend themselves in a perfect state.11 This can be
+65 ultimus talis actionis, non tamen simpliciter ultimus, cum 65R called the intrinsic ultimate end of such an action. Yet it is not ultimate
+tota illa actio vel referatur, vel ex se tendat in ulteriorem simpliciter, since that total action either is referred or tends of itself to a
+finem ultimum extrinsecum qui est Deus. further extrinsic ultimate end which is God.
+11. Aliquando vero possunt haec agentia ordinare res 11. But sometimes these agents can order other more perfect things
+alias perfectiores se, etiam Deum ipsum ad seipsa ut ad ul- to themselves, even God himself to themselves as to an ultimate end
+70 timum finem simpliciter; tamen ille est perversus ordo, et 70R simpliciter. But that is a perverse ordering and alien to right reason and
+a recta ratione, et ab eo quod naturae rerum <920> postu- to that which the natures of things demand. This is why I said in the
+lant, alienus: et ideo dixi in conclusione, si ordo in finem end ‘if the ordering to the end is right and according to the institution
+9See De fine hominis 2.4 for more discussion of different ways of acting for the sake of an end.
+10For the distinction between a finis cuius and fines cui, see DM 23.2.2–8.
+11That is, their intention fully spelled out is for themselves to be in a perfect state.
+
+-- 8 of 9 --
+
+Suárez, DM XXVI, sect. 1 9
+sit rectus ex ipsa naturae institutione. Atque hoc modo in- of nature’. This is the way one should understand it when Aristotle
+telligendum est quod Aristoteles dixit, finem esse optimum said that the end is the best of each thing. For he is talking about the
+75 uniuscuiusque rei: loquitur enim de fine ultimo respective, 75R respectively ultimate end (if I may call it that), that is, either simpliciter
+ut sic dicam, id est vel simpliciter, vel secundum quid, in or secundum quid in relation to that of which it is the ultimate end.
+ordine ad id cuius est finis ultimus. Et ratio est, quia finis The reason is that the ultimate end is desired for its own sake and other
+ultimus propter se appetitur, et alia propter ipsum; et ideo things for its sake. And therefore it is loved more than the remaining
+etiam magis amatur quam caetera, iuxta illud, Propter quod things according to that principle ‘that on account of which something
+80 unumquodque tale, et illud magis, et ideo si recte, et con- 80R is what it is is even more so’. And so if something is loved rightly and in
+sentanee ad rerum naturas ametur, oportet ut ipsum magis harmony with the natures of things, it is necessary that the end is more
+amabile sit, et consequenter maius et excellentius bonum. lovable and, consequently, that it is the greater and more excellent good.
+12. Secus vero est de fine non ultimo: recte enim potest, 12. But it is not the same with a non-ultimate end. For a more per-
+et convenientissimo ordine res perfectior ad minus perfec- fect thing can rightly and in a most fitting ordering be ordered to a less
+85 tam ut ad finem proximum ordinari, dummodo ad alium 85R perfect thing as to a proximate end, as long as the whole series is referred
+finem ultimum et perfectiorem tota series referatur, quia to another ultimate and more perfect end. For then the proximate end
+tunc non tam attenditur finis proximus ut per se amabilis is not so much attended as a per se lovable thing is in accordance with its
+est ex propria bonitate et perfectione, quam ut est amabilis own goodness and perfection than as something lovable in accordance
+ex relatione ad perfectiorem finem. with its relation to a more perfect end.
+
+-- 9 of 9 --

@@ -1,0 +1,352 @@
+Last revision: January 6, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 1, SECT. 11
+© Sydney Penner 2010
+<1>2
+DISPUTATIO I. DISPUTATION I.
+De causalitate finis, respectu humanæ voluntatis. On the causality of the end with respect to human will.
+Universa hæc doctrina maxima ex parte versatur in explican- This entire doctrine chiefly stems from its part in explaining human ac-
+dis humanis actionibus, quatenus humanæ sunt, ac bonitatis, tions insofar as humans are capable of both moral goodness and badness.
+5 ac malitiæ moralis capaces: in quo potissimum a fine pendent, 5R They above all depend in this on the end, which is the principle of moral
+qui est principium moralium actionum, et ideo prius hanc Dis- actions. For this reason, I start first with this disputation that should
+putationem præmittendam duxi, in qua munus, varios modos, come first, in which I explain the function, different modes, nature, or
+rationem, seu distinctionem finis explicabo: hæc enim Dispu- distinctions of the end. For it seems necessary to set this disputation
+tatio necessario præmittenda videtur, ad explicanda nonnulla at the beginning in order to explain some principles and different la-
+10 principia, et varium titulum, quibus, in sequentibus utendum 10R bels which we will make use of in the following [sections] so that we
+nobis est, ne cogamur eadem semper repetere: curabimus autem are not compelled always to repeat the same thing. Moreover, we will
+a quæstionibus philosophicis, quoad fieri potest, abstinere, aut take care, insofar as possible, to stay away from philosophical questions
+eas tantum breviter attingere, quantum ad rem Theologicam or to touch on them only briefly insofar as they are necessary for the
+fuerit necessarium. theological matter.
+15 SECTIO I. 15R SECTION I.
+In quo consistat causalitas finis respectu humanæ voluntatis. In what the causality of the end consists with respect to human will.3
+Causalitatem
+finis esse proprie
+erga humanam
+voluntatem
+ostenditur.
+1. Primum omnium statuendum est, finem et causalitatem ejus, 1. First of all, it should be established that the end and its causality, It is shown that
+the causality of
+the end is
+properly towards
+human will.
+qualiscumque illa sit, proprie suum locum habere in voluntate whatever that is, properly has its place in the human will and in its acts
+humana, et in actibus, seu effectibus ejus, quod est certissimum. or effects. This is most certain. First, [it is certain] because of the way
+20 Primo ex modo loquendi Scripturæ sacræ, ubique enim tribuit 20R of speaking in Holy Scripture, for it everywhere attributes to human
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the 1628
+edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès
+edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3Suárez also discusses this subject in DM XXIII.4.
+16 respectu ] repectu V.
+
+-- 1 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 2
+homini modum operandi propter finem, quod maxime illi con- beings the way of acting for the sake of an end which is especially suitable
+venit ratione voluntatis, ad Romanos 8: Propter te mortifica- for them by reason of the will. For example, Romans 8[:36–37]: ‘For
+mur tota die, etc. Sed in his omnibus superamus propter eum, your sake we are put to death all the day long . . . But in all these things
+qui dilexit nos, et Psalmo 118: Inclinavi cor meum ad facien- we overcome for the sake of him who loved us.’ And Psalm 119[:112]:
+25 das justificationes tuas, propter retributionem. Secundo experi- 25R ‘I have inclined my heart to doing your right things for the sake of the
+entia constat, hominem non casu, <col. b> nec fortuito in in- reward.’ Secondly, it is clear from experience that a human being is
+certum ferri, sed in definitum finem dirigere operationes suas. not brought to an indefinite thing by chance or by fortune; rather, he
+Tertio, constat etiam ratione, quia motio finis præcipue habet directs his actions to a definite end. Thirdly, it is also clear by reason,
+locum in agentibus per intellectum: nam finis movet agens ad because the motion of an end especially has a place in agents through
+30 operandum, movet autem per cognitionem; agens autem intel- 30R the intellect. For the end moves an agent to acting, but it moves through
+lectuale maxime cognoscere potest rationem finis, et ordinem cognition. But intellectual agents especially can cognize the ratio of the
+ejus ad media: ergo voluntas, quæ ratione ducitur, maxime end and its relation to means. Therefore, the will, which is led by reason,
+potest moveri a fine. can especially be moved by the end.
+Suppositio pro
+sensu quæstionis.
+2. Secundo, ut intelligatur proprius quæstionis sensus, sup- 2. Secondly, in order that the proper sense of the question is un- An assumption
+for the sense of
+the question.
+35 ponendum est ex Cajetano, 1 part., quæst. 5, art. 4, et clarius 2, 35R derstood, one should suppose according to Cajetan in Ia.5.4 and more
+2, quæst. 17, a. 5, sicut in causa efficienti quatuor distinguuntur clearly in IIaIIæ.17.5 that just as four things are distinguished in an ef-
+ita etiam posse in causa finali distingui, scilicet, res quæ causat, ficient cause, so also [four things] can be distinguished in a final cause.
+ratio, seu forma, quæ est principium causandi, causalitas ejus Namely, the thing which causes, the nature or form that is the principle
+actualis et effectus causatus: in hac sectione præcipue agimus of causing, its actual causality, and the caused effect. In this section we
+40 de tertio, scilicet de causalitate actuali finis, qua intellecta, facile 40R will deal especially with the third, namely, with the actual causality of
+constabit, quis sit, et quotuplex effectus finis in humana volun- the end. Once this is understood it will easily be clear what the effect
+tate: de ratione autem seu principio causandi, dicemus postea in of the end in a human will is and how many kinds of effects there are.
+sectione tertia: et inde constabit, quænam res possit esse causa Moreover, concerning the nature or principle of causing, we will speak
+finalis. Quare in universum, et in omni genere causæ illa res later in the third section. And thereupon it will be clear what then can
+45 potest rationem causæ participare, cui potest convenire forma 45R be a final cause. Wherefore in general and in every genus of cause that
+illa, quæ est ratio causandi. thing can participate in the nature of cause with which that form which
+is the nature of causing can agree.
+1. Opinio in
+præsenti quæst.
+3. Tertio, his positis, duæ possunt esse extremæ senten- 3. Thirdly, these things having been posited, there can be two ex- The first opinion
+in the present
+question.
+tiæ in præsenti sectione. Prima est, causalitatem finis non treme views in the present section. The first is that the causality of the
+consistere in motione aliqua respectu humanæ voluntatis, sed 50R end does not consist in some motion with respect to the human will but
+50 in hoc solum, quod effectus, qui a voluntate progreditur, in in this alone, namely, that the effect which is advanced by the will is or-
+aliquid ut in finem ordinetur, ita ut esse finem nihil aliud sit, dered to something in such a way that to be the end is nothing other than
+quam esse id, cujus gratia aliud sit: nam hoc modo rationem to be that for the sake of which something exists. For Aristotle describes
+finis Aristoteles ubique describit, præsertim 2, Physicor. et 5 the nature of the end in this way everywhere, especially in Phys. II and
+Metaphysicæ. Unde Cajetanus supra dicit, causalitatem finis 55R Metaph. V. Hence Cajetan says earlier that the causality of the end is in-
+55 esse innominatam, significari vero per hanc vocem esse propter nominate, but is signified through this expression: ‘to be for the sake
+Suadetur
+exemplis.
+quod, seu id esse, cujus gratia. Et potest suaderi hæc sen- <2> of which’ or ‘to be that for the sake of which’. And this view can be It is urged by
+examples.	tentia, quia in operibus Dei est propria causalitas finis, Deus urged because there is a proper causality of the end in God’s actions, for
+
+-- 2 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 3
+enim vere ac perfecte operatur propter finem: sed respectu Dei God truly and perfectly acts for the sake of an end. But with respect to
+non potest hæc causalitas consistere in motione voluntatis ejus, 60R God this causality cannot consist in the motion of his will, as seems per
+60 ut videtur per se notum, quia id esset maxima imperfectio in se notum since that would be a great imperfection in God. Similarly, in
+Deo. Similiter in inferioribus agentibus naturalibus est propria lower natural agents there is a proper causality of the end, which cannot
+causalitas finis, quæ non potest consistere in motione agentis, consist in the motion of the agent, since the agent does not cognize the
+cum non cognoscat finem: ergo similiter in voluntate humana, end. Therefore, one should philosophize likewise in the case of the hu-
+quæ est quasi media inter Deum et res inferiores, philosophan- 65R man will, which is, as it were, the middle between God and lower things.
+65	Item ratione. dum est. Secundo, quia vix potest intelligi, quæ vel qualis illa Secondly, because it can scarcely be understood what that motion is or The same by
+reason.	motio, quia vel est aliquid antecedens actum voluntatis, et hoc what sort of thing it is, since either it is something antecedent to the act
+non, quia nihil est in voluntate: vel est ipsemet actus volun- of will (and this cannot be the case since there is nothing in the will) or
+tatis, et hoc non, quia talis actus potius est effectus finis, quam it is the very act of will itself (and this cannot be the case since such an
+causalitas ejus: movet enim finis ad talem actum trahendo, et 70R act is more an effect of the end that its causality). For the end moves to
+70 alliciendo voluntatem: ergo, etc. such an act by drawing and enticing the will. Therefore, etc.
+Impugnatur
+proxima opinion.
+4. Nihilominus hæc sententia nec rem ipsam, nec com- 4. Nevertheless, this view explains neither the matter itself nor the The preceding
+view is attacked.	munem modum loquendi theologorum et philosophorum ex- common way of speaking of theologians and philosophers. For first, all
+plicat. Primo enim auctores omnes ponunt causalitatem finis the authors place the causality of the end in a metaphorical motion with
+in motione metaphorica respectu nostræ voluntatis. Ita sen- 75R respect to our will. St. Thomas thinks in this way in [ST ] IaIIæ.1.1 and
+75 tit D. Thomas 1, 2, quæst. 1, art. 1, et in quæst. de Veritate, in De Veritate, q. 22, art. 2, where these words should be noted: ‘Just
+quæst. 22, art. 2, ubi notanda sunt illa verba: Sicut influere as to inflow in the way of an efficient cause is to act, so to inflow in
+causæ efficientis est agere, ita influere causæ finalis est appeti seu the way of a final cause is to be sought (appeti) or to be desired.’ An
+desiderari: et in quæstionibus de Pœnitentia, quæst. 5, art. 1, in- in De Pœnitentia, q. 5, art. 1, [co.], he says: ‘The is not a cause except
+quit: Finis non est causa, nisi quatenus movet efficientem ad agen- 80R insofar as it moves the efficient cause to acting. Hence, where there is
+80 dum: unde ubi non est actus, non est causa finalis 3, Metaphysicæ, no act, there is no final cause, [as is clear from] Metaph. III, text. 12.’
+text. 12. Et videtur hæc doctrina sumpta ex Aristotele 1, de And it seems that this doctrine is taken from Aristotle De gen. I, cap. 7.
+Generat., cap. 7. Secundo, quod finis dicatur esse id, cujus gra- Secondly, that the end is said to be that for the sake of which some-
+tia aliquid fit, solum est denominatio quædam extrinseca in ipso thing happens is only a certain extrinsic denomination on the end itself
+fine; ex eo quod aliquid aliud ordinatur ad ipsum: ergo non satis 85R from the fact that something else is ordered to it. Therefore, this is not
+85 est hoc ad causalitatem propriam finis. Patet consequentia, tum enough for a proper causality of the end. The consequence is clear, both
+quia hæc denominatio non dicit emanationem aliquam realem, because this denomination does not express some real emanation or in-
+nec influxum: tum etiam, quia alias quilibet terminus motus, flux and also because otherwise any terminus whatever of motion and
+et quodlibet objectum cujuscumque actus, quatenus est termi- any object of any act (insofar as it is a terminus to which the action of
+nus, ad quem tendit operatio agentis, habebit propriam causal- 90R the agent tends) will have the proper causality of an end. Likewise—in
+90 itatem finis. Item, cessante actione agentis hoc solo quod res a case where an agent rests from action—by the mere fact that the thing
+esset propensa, seu inclinata natura sua in finem, duraret sem- disposed or inclined by its nature to the end, the causality of the end
+per causalitas finis, quia semper durat illa denominatio, quod would always remains, because thet denomination that his thing is for
+hæc res est propter illam, quæ emanare potest ex sola actione the sake of that—which can emanate merely from an action of the agent
+præterita, et ordinata ipsius agentis: hoc ergo solum non satis 95R that is past and ordered—always remains. Therefore, this alone is not
+95 est ad explicandam hanc causalitatem finis. <col. b> sufficient to explain this causality of the end.
+
+-- 3 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 4
+2. Opinio,
+eiusque
+explication.
+5. Secunda sententia est, hanc causalitalem consistere in 5. The second view is that this causality consists in metaphorical The second
+opinion and its
+explication.
+motione metaphorica voluntatis, quæ ex se antecedit tempore, motion of the will, which from itself temporally precedes and is distin-
+et distinguitur ab omni actu elicito ab ipsa voluntate. Quæ guished from every act elicited by the will itself. This opinion can be
+opinio in hunc modum explicari potest, quia finis non movet 100R explicated in this way, [namely,] because the end does not move the will
+100 voluntatem, nisi præcognitus sit: hoc autem ipso quod finis est unless it was first cognized. But by this very fact that the end and its
+cognitus, et bonitas ejus, etiamsi voluntas per proprium suum goodness is cognized—even if the will does not tend to it, for the will is
+actum in illum non tendat (est enim libera, et potest suum ac- free and can suspend its act—the will is excited and moved by the cog-
+tum suspendere) intelligitur excitari et moveri a fine cognito, nized end so that it loves and intends the end. For this excitation and
+ut ipsum amet et intendat: hæc enim excitatio et motio ante- 105R motion precedes the consent of the will and is understood to arise from
+105 cedit consensum voluntatis, et intelligitur oriri ex conjunctione the union and sympathy of the powers of intellect and will, insofar as the
+et sympathia potentiarum intellectus et voluntatis, quatenus in essences are rooted in the same soul. Therefore, the causality of the end
+eadem animæ essentia radicantur: ergo in hac motione consistit consists in this motion, since this metaphorical motion does not seem to
+causalitas finis, quia hæc motio metaphorica non videtur posse be able to be explained in another way. And a second argument made in It is confirmed,
+first.	Confirmatur 1. alio modo explicari. Et hoc confirmat secunda ratio facta in 110R the preceding section confirms this. For whatever follows after this mo-
+110 præcedenti sententia: quia quidquid post hanc motionem se- tion is nothing other than love or intention for the end, which are acts
+quitur, non est nisi amor, vel intentio finis, qui sunt actus volun- of the will. These are not causality but rather the effect of the causality
+tatis, qui non sunt causalitas: sed potius effectus causalitatis fi- of the end. Secondly, because, apart from the aforementioned motion, Secondly.
+Secundo. nis. Secundo, quia, seclusa prædicta motione, postea finis solum afterwards the the end only holds itself as the terminus specifying the
+se habet ut terminus specificans actum tendentem in ipsum: at 115R act tending to it. But, to be sure, the end does not exercise the causality
+115 vero sub hac ratione finis non exercet causalitatem finis, sed of the end under this aspect, but rather participates in the causality of
+potius participat causalitatem formæ specificantis, ut significat the specifying form, as St. Thomas indicates in IaIIæ.2.6 ad 1. And in
+D. Thomas, 1, 2, quæst. 2, art. 6, ad. 1, et in omnibus objectis, all object the specificative act is the same nature and mode of causality.
+actus specificativus est eadem ratio et modus causalitatis: ergo. Therefore.
+Refellitur
+prædicta opinio
+tanquam
+insufficiens.
+6. Hæc vero nec intelligi possunt, nec satisfacere: quia hic 120R 6. But this cannot be understood and does not satisfy. For we are
+120 non agimus de causalitate finis in actu primo, ut sic dicam, seu not dealing here with the causality of the end in the first act—if I may
+de proxima applicatione ejus ad causandum, sed de causalitate, speak that way—or with the proximate application of it to causing, but
+et influxu ejus in actu secundo, hic autem intelligi non potest with its causality and influx into the second act. But this cannot be un-
+priusquam in voluntate aliquid causatum sit, quia realis causali- derstood before something is caused in the will, because real causality
+tas debet ad aliquid reale haberi, alias nihil esset: sed si in volun- 125R must be had towards something real. Otherwise, it is nothing. But if
+125 tate nulla est res nova, nec operatio aliqua, vel affectio, nihil in- there is no new thing in the will, neither any action or affection, then
+telligi potest, quod a fine causatum sit: ergo nec intelligi potest nothing can be understood as having been caused by the end. There-
+Refellitur
+amplius.
+causalitas finis in actu secundo. Confirmatur ac declaratur, quia fore, no causality of the end can be understood in the second act. It It is refuted more
+broadly.	illa excitatio, quæ dicitur esse in homine cognoscente finem et is confirmed and shown because that excitation which is said to be in
+bonitatem ejus, antequam voluntas proprio motu moveatur, ni- 130R the human who is cognizing the end and its goodness before the will is
+130 hil aliud est revera, quam cognitio et judicium intellectus, nam moved by a proper motion, is really nothing other than the cognition
+in voluntate nihil de novo positum est, quod ante non esset: sed and judgement of the intellect, of nothing new was posited in the will
+judicium intellectus non est causalitas finis, ut per se constat, that was not there before. But the judgement of the intellect is not the
+sed potius est approximatio finis, ut <3> causare possit: ergo causality of the end, as is clear per se, but rather is an approach of the
+
+-- 4 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 5
+Evasio. non potest in hoc solo consistere causalitas finis. Dices fortasse 135R end so that it can cause. Therefore, the causality of the end cannot con-
+135 ex hoc judicio statim resultare in voluntate affectionem vel mo- sist in this alone. You may perhaps say that from this judgement there Evasion.
+tionem aliquam saltem per simplicem complacentiam, ratione at once results in the will some affection of motion, at least through a
+cujus est actualiter, et universaliter propensa in finem, ut illum simple taking of pleasure, by reason of which it is actually and generally
+Præcluditur. intendat, et efficaciter amet. Sed hoc nihil refert ad rem de qua favourably disposed to the end, so that it intends and efficaciously loves
+agimus, explicandam: primo quidem, quia, si hæc affectio est 140R it. But this has no bearing on the matter that needs to be explained and It is blocked off.
+140 libera, potest voluntas illam suspendere: si autem est naturalis, with which we are dealing. First, indeed, because if this affection is free,
+non est per se ac semper necessaria ad causalitatem finis: hu- the will can suspend it. But if it is natural, it is not per se and always
+jusmodi enim imperfecti motus ex imperfecto modo operandi necessary for the causality of the end. For motions of this imperfect
+insurgunt in nobis, vel ex conjunctione appetitus, vel ex imper- sort rise up in us from an imperfect way of acting or from a union of de-
+fecta deliberatione. At vero, seclusis his imperfectionibus, non 145R sire or from imperfect deliberation. But, on the other hand, apart from
+145 sunt necessarii illi imperfecti actus, ut voluntas ex perfecto ju- these imperfections, these imperfect acts are not necessary in order for
+dicio ac libertate a fine moveatur, ut videre licet in Angelis, in the will to be moved by the end from freedom and perfect judgement, as
+Beatis, in Christo et Virgine, et nonnunquam etiam contingit in may be seen in the case of angels, the blessed, Christ, and the Virgin, and
+Refellitur ultimo. nobis. Deinde de illomet affectu simplici redit eadem difficultas: sometimes even in us. Next, the same difficulty returs concerning the It is refuted lastly.
+nam ille etiam est quidam actus voluntatis, unde est quidam ef- 150R simple affect itself. For it is also a certain act of the will. Hence it is a cer-
+150 fectus ipsius finis, de quo inquirendum superest, quæ sit causal- tain effect of the end itself, concerning which it remains to be inquired
+itas finis circa talem actum: et quod de illo dictum fuerit, dici what the causality of the end is with respect to such an act. And what
+etiam poterit de perfecto actu intentionis, seu electionis. has been said about that, will also be able to be said about the perfect act
+of intention or election.
+1. Assertio veræ
+sententiæ, de qua
+videndus Author
+disp. 23 Metaph.
+sect. 4.
+7. Dico ergo causalitatem finis circa voluntatem nostram 155R 7. I say, therefore, that the causality of the end concerning our will The first
+assertion of the
+true view; see the
+author’s DM
+XXIII.4.
+non esse in actu secundo, donec ipsa voluntas actu moveatur, et is not in the second act until the will itself is actually moved and tends
+155 tendat in ipsum finem. Hæc assertio probatur sufficienter argu- to the end itself. This assertion is sufficiently proved by the arguments
+mentis factis contra secundam sententiam, et videtur mihi ex- made against the second view and it seems to me explicit in St. Thomas
+Eius ratio ex D.
+Thom.
+presse divi Thomæ, locis nuper citatis, ex cujus verbis potest ra- in the places just cited, from whose words it can be confirmed anew by An argument for
+it from
+St. Thomas.
+tione nova confirmari: quia donec causa efficiens sit in actu, non 160R reason. Because until the efficient cause actually is, the final cause can-
+potest intelligi causa finalis actu causare: nam finis, ut definit not be understood to actually cause. For the end, as Aristotle defines it,
+160 Aristoteles, est, cujus gratia aliquid fit: si ergo nihil actu fit, non is that ‘for the sake of which something happens’. If, therefore, noth-
+est actu finis; si autem efficiens actu non efficit actu, nihil fit: ing actually happens, the end is not actually. But if the efficient cause
+et consequenter nihil fit propter finem: ergo, de primo ad ul- actually does not actually effect [anything], nothing happens. And con-
+timum, ante actum agentis non est causalitas finis: ergo pari 165R sequently nothing happens for the sake of the end. Therefore, from the
+ratione in voluntate ante actionem voluntatis non est causalitas first to the last, there is no causality of the end before an act of the agent.
+165	Confirmatur. finis circa ipsam in actu secundo. Quod tandem declaratur, quia Therefore, by a like argument, before an action of the will there is no
+vel hæc causalitas esset circa ipsam potentiam voluntatis, et hoc causality of the end in the second act concerning it in the will. This is It is confirmed.
+non, quia, secluso actu, illa non aliter se habet, nec immutatur shown, finally, because this causality would concern either the power
+aliquo modo: vel est circa actum ipsius voluntatis, et hoc esse 170R itself of the will (and this is not the case, because, apart from an act, it
+non potest sine ipso actu. could not hold itself otherwise nor is it changed in some way) or an act
+of the will itself (and this cannot be without the very act).
+
+-- 5 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 6
+170	2. Assertio. 8. Dico secundo: Causalitas finis in voluntate non est res 8. I say secondly: the causality of the end in the will is not some The second
+assertion.	aliqua, nec modus distinctus ab actu et actione voluntatis: sed thing or mode distinct from the act and action of the will. Rather, it is
+est ipsamet actio, quæ simul est et a voluntate in genere cau- 175R the very action itself which is at the same time both by the will in the
+<col. b> sæ efficientis, et a fine in suo genere, scilicet, trahente, genus of effecient cause and by the end in its genus, namely, by drawing
+Eius probatio. et determinante voluntatem ad talem actum. Hæc conclusio and giving determinateness to the will to such an act. This conclusion Its proof.
+175 hoc solo sufficienter probatur, quia non potest intelligi quid is sufficiently proven by this alone that it cannot be understood what
+aliud sit hæc causalitas finis, nec aliud est necessarium ut vol- else this causality of the end would be nor is anything else necessary
+Declaratur
+exemplo uno.
+untas moveatur in finem: ergo revera in hoc consistit. Deinde 180R for the will to be moved to the end. Therefore, it really does consist in
+potest exemplis declarari, quia sicut in potentia cognoscitiva ac- this. Finally, it can be shown by examples, since just as in the case of It is shown by
+one example.	tio ejus natura sua pendet a potentia, et ab objecto ut movente cognoscitive power an action depends by its nature on the power and on
+180 potentiam, ita suo modo actio voluntatis, in potentia autem the object as moving the power, so also in its way an action of the will.
+cognoscitiva eadem actio ut est a potentia est concursus ejus ad But in the case of the cognoscitive power the same action insofar as it
+talem actum, et ut est ab objecto est similiter causalitas ejus: 185R comes from the power is a concursus of it to such an act and insofar as
+ergo eodem modo in voluntate actio ejus, quia intrinsece, et es- it comes from the object is likewise its causality. Therefore, in the same
+sentialiter pendet ab his duobus principiis, scilicet a potentia way, in the case of the will its action, because it depends intrinsically
+185 et a fine proposito, ut est effective a voluntate, est concursus and essentially on these two principles (namely, on the power and on
+ejus: ut vero est a fine in suo genere causæ, est motio actualis the proposed end), is its concursus, insofar as it effectively comes from
+ejus, nec oportet in illa actione duas rationes, aut modos dis- 190R the will. But insofar as it comes from the end in its own genus of cause
+tinguere, quia per se ipsam et essentialiter postulat utramque it is its actual motion. Nor is it necessary to distinguish in that action
+habitudinem. Solum est differentia, quod in potentia cognosc- two aspects or modes, because it requires through it itself and essentially
+190 itiva concursus potentiæ pertinet ad causam effectivam, in vol- each habitude. The only difference is that in the case of the cognoscitive
+untate vero ad causam finalem, quod provenit ex propriis modis power the concursus of the power pertains to the effective cause, but in
+Altero. operandi talium potentiarum. Aliud exemplum adhiberi potest 195R the case of the will to the final cause. This results from the proper modes
+in causa exemplari, quæ media apprehensione concurrit etiam of acting of such powers. Another example can be employed in the case Another
+example.	ad effectum suum, et concursus ejus solum in hoc consistit, of an exemplar cause, which also concurs with its effect by means of an
+195 quod fiat effectus ad imitationem ejus: unde in re non distin- apprehension. And its concursus consists only in this, namely, that the
+guitur ab actione agentis, sed eadem actio quæ profluit effective effect comes about by imitation of it. Hence, it is not distinguished in
+ab agente, manat ab idea exemplariter, ut sic dicam, et ut sic, est 200R reality from the action of the agent, but the same action which flows
+concursus ejus: sic ergo in præsenti dicendum est. forth effectively from the agent flows from the idea exemplarily, if I may
+speak in this way. And, as such, it is its concursus. Therefore, the same
+sort of thing should be said in the present case.
+1. Corollar.
+causalitatem finis
+proprie solum
+reperiri in
+agentibus
+intellectualibus.
+9. Unde intelligitur primo hujusmodi modum causalitatis 9. Hence, it is understood, first, that the mode of this sort of causal- The first
+corollary: the
+causality of the
+end is properly
+found only in
+intellectual
+agents.
+200 finis tantum habere locum in agentibus per cognitionem, nam 205R ity of the end only has a place in agents through cognition. For other
+alia agentia non possunt a fine moveri; et ideo est communis agents cannot be moved by the end. And for this reason it is the com-
+omnium sensus, apprehensionem finis esse illi vel rationem cau- mon sense of everyone that for it the apprehension of the end is either
+sandi, vel rationem necessariam ad causandum. Ut autem hæc the nature of causing or a nature necessary for causing. Moreover, for
+causalitas propria ac formalis sit, necesse est ut hæc cognitio this causality to be proper and formal, it is necessary that this cognition
+205 sit intellectualis: quia, ut infra dicemus, solum finis movet sub 210R be intellection, because, as we will say below, the end only moves under
+
+-- 6 of 7 --
+
+Suárez, De Fine Hominis, disp. 1, sect. 1 7
+ratione boni et convenientis. Sub hac autem ratione proprie the aspect of good and agreeability. But something can be properly and
+et formaliter solum cognosci potest per intellectum, quia nec- formally cognized under this aspect only through the intellect, since it is
+essarium est cognoscere habitudinem unius ad aliud, et pro- necessary to cognize the habitude of one thing to another and a certain
+portionem quamdam inter appetibile et appetentem, seu in- proportion between the desirable things and the one desiring or between
+210 ter medium et finem. Unde bruta, quamvis per cogitationem 215R means and end. Hence, brute animals, although they are moved to desir-
+moveantur ad ap- <4> petendum, et ideo fit in eis quædam par- ing things through thought and therefore a certain participation in this
+ticipatio hujus causalitatis finis, tamen non est perfecta in eis ac causality of the end happens in them, still, it is not perfect in them and
+formalis ratio finis propter causam dictam. for that reason it is not called the formal nature of the end.
+2. Corollarium
+non tamen
+reperiri in
+intellectuali
+increato.
+10. Secundo colligitur, hanc causalitatem finis, prout ex- 10. It is gathered, secondly, that this causality of the end, as it is
+215 ercetur in voluntate, non reperiri proprie in Deo, nec in vol- 220R exercised in the will, is not properly found in God nor in his will but
+untate ejus: sed solum in voluntate creata, quæ per actionem only in a created will which through a proper action and act distinct
+propriam, et actum a se distinctum movetur in finem: quia, ut from itself is moved to the end. For, as I said, where there is no action
+dixi, ubi non est actio agentis, non est actualis motio finis: sed of the agent, there is no actual motion of the end. But in the divine
+in voluntate divina non est propria actio, quæ tendat in finem, will there is no proper action which tends to the end, because the act by
+220 quia actus, quo Deus vult quidquid vult, non distinguitur a vol- 225R which God wills whatever he wills is not distinguished from his will nor
+untate ejus, nec est aliquid factum, seu causatum: nihil enim, is something made or caused. For nothing that is God himself can have
+quod sit ipsemet Deus, potest habere veram causam, voluntas a true cause, but the will of God is God himself. You may say: therefore An assumption
+against this
+corollary is
+excluded first.
+Illatio contra hoc
+corollar.
+excluditur primo.
+autem Dei est ipsemet Deus. Dices, ergo Deus non vere ac pro- God does not truly and properly act for the sake of a true end. I respond
+prie operatur propter verum finem. Respondeo, negando con- by denying the consequence, strictly speaking. For, as Gabriel noted in
+225 sequentiam simpliciter: quia, ut notavit Gabriel, in 2, dist. 1, 230R II, dist. 1, q. 5, art. 1, it is one thing to speak of the end, but another to
+quæst. 5, art. 1, aliud est loqui de fine, aliud de causa finali: finis speak of the final cause. The end, moreover, only expresses a terminus
+autem tantum dicit terminum seu rationem extremi, ad quod or the nature of an extreme to which something else is ordered. But
+aliud ordinatur; causa vero finalis, proprie dicit id, quod movet the final cause properly expresses that which moves the agent to acting.
+agens ad operandum: quamvis autem respectu Dei, et voluntatis Although with respect to God and his will, the end does not have this
+230 ejus, finis non habeat hanc causalitatem, tamen Deus altiori, et 235R causality, nevertheless, God orders his effects and external actions to
+perfectiori modo ordinat effectus suos, seu exteriores actiones determinate ends in a higher and more perfect way. And, therefore, he
+ad determinatos fines: et ideo perfectissimo modo, et ablatis acts for the sake of an end in a most perfect way that is free from all
+Excluditur 2. omnibus imperfectionibus, operatur propter finem. Secundo, imperfections. Secondly, because, although a proper cause is not given A second
+[assumption] is
+excluded.
+quia licet divinæ voluntatis non detur propria causa, dari tamen to the divine will, a reason can nevertheless be given for it on the part of
+235 potest ratio ejus ex parte finis desumptæ, ut docet D. Thomas 240R the chosen end, as St. Thomas teaches in SCG I, c. 86. And in this way
+1, cont. Gent., c. 86, et hoc modo sine causalitate finis circa div- God can properly act for the sake of an end without causality of the end
+inam voluntatem Deus proprie operatur propter finem. Atque around the divine will. And by these things there is a sufficient response
+ex his satis responsum est ad fundamenta aliarum opinionum, to the foundations of the other opinions in nn. 3–5. And it will become
+in num. 3 et 5, et amplius patebit ex sequenti sectione. even more clear in the following section.
+
+-- 7 of 7 --

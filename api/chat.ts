@@ -1,4 +1,4 @@
-import { buildTheologySystemPrompt, ChatMode, sanitizeChatMode } from './_lib/theologyPrompt.js';
+import { buildTheologySystemPrompt, sanitizeChatMode } from './_lib/theologyPrompt.js';
 import { buildRetrievalContext } from './_lib/retrieval.js';
 import { ApiRequest, ApiResponse, ensurePostMethod, parseJsonBody, requireEnv, sanitizeMessages } from './_lib/runtime.js';
 

@@ -1,0 +1,356 @@
+Last revised: September 16, 2015	Francisco Suárez, S. J.
+DM XXIII, sect. 91
+© Sydney Penner 2010
+<882, col. a>2
+Utrum causalitas finis locum habeat in divinis actionibus Whether the causality of the end has a place in divine actions and
+et effectibus. effects.
+1. Ratio dubitandi sumitur ex hactenus dictis de agen- 1. The reason for doubting is taken from what has was said about
+tibus intellectualibus creatis, nam in his non habet locum created intellectual agents. For in their case the causality of the
+5 causalitas finis quoad actiones externas, nisi media causal- 5R end has no place with respect to external actions, except by an
+itate in ipsam voluntatem causae agentis, sed finis non intermediate causality in the will itself of the acting cause. But an
+potest habere causalitatem suam in voluntatem Dei: ergo end cannot have its causality in the will of God and so it cannot
+neque in effectus vel actiones externas quae ab illa vol- have it in the external effects or actions which proceed from his
+untate procedunt. In contrarium vero est, quia Deus pro- will. But to the contrary, because God is most properly the end of
+10 priissime est finis creaturarum omnium, unde et proprie 10R all created things. Hence, he is also properly said to do all things
+dicitur omnia propter seipsum operari: ergo est causa fi- for his own sake. Therefore, he is the final cause of all things and
+nalis rerum <col. b> omnium, et actionum quae ab ipso actions which proceed from him.
+procedunt.
+Sitne in decretis liberis divinae voluntatis causalitas finis. Whether there is causality of the end in free decrees of the divine
+will.
+2. Circa hanc dubitationem duo breviter declaranda sunt. 2. Two doubts should be indicated briefly concerning this mat-
+Primum, an et quo modo finis exerceat rationem suam ter. The first is whether and in what way an end exercises its ratio
+vel causalitatem circa ipsas liberas determinationes div- or causality concerning these free determinations of the divine
+inae voluntatis, quae sunt veluti actus immanentes in ipsa. will, which are as if immanent in itself. Second, what should be
+5 Secundum, quid dicendum sit de actionibus transeun- 5R said concerning the transeunt actions which proceed out of the
+tibus quae a divina potentia egrediuntur, et consequenter divine power and consequently also about the effects in which
+etiam de effectibus ad quos terminantur. Circa priorem they are terminated. With respect to the first part, Soncinas in Soncinas.
+Soncinas. partem, Soncinas 5. Metaphysicae q. 2. sentit, in divina Metaphysics V, q. 2, thinks that the proper causality of an end can
+voluntate reperiri propriam causalitatem finis. Funda- be found in the divine will. His foundation is that the motion of
+10 mentum eius est, quia motio finis tantum est metaphor- 10R the end is only metaphorical, but that this metaphorical motion
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the
+Vivès edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many,
+though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 9 --
+
+Suárez, DM XXIII, sect. 9 2
+ica, sed in Deum cadit haec metaphorica motio, quia div- applies to God because the divine goodness for the sake of which
+ina bonitas propter quam Deus agit, movet voluntatem God acts moves God’s will. Therefore, final causality also applies
+Dei: ergo et causalitas finalis cadit in divinam volun- to the divine will. Second, because God loves himself for the sake
+tatem. Secundo quia Deus amat se propter bonitatem of his goodness as for the sake of an end but this signifies nothing
+15 suam tamquam propter finem, sed per hoc nihil aliud sig- 15R other than that the divine goodness moves God’s will to a love of
+nificatur, nisi quod divina bonitas movet voluntatem Dei his essence. Therefore. Third, because God loves creatures for the
+in amorem suae essentiae: ergo. Tertio quia Deus amat sake of his goodness, but to love one thing for the sake of some-
+creaturas propter suam bonitatem, sed amare unum prop- thing else is nothing other than to be metaphorically moved by a
+ter aliud, nihil aliud est, quam ex amore unius metaphorice love for one thing to love for another thing. Therefore, in that way
+20 moveri ad amorem alterius: ergo ita movetur Deus meta- 20R God is metaphorically moved by himself as by an end. Fourth, the
+phorice a seipso ut fine. Quarto afferri potest ratio supra argument suggested above can be brought to use, because other-
+insinuata, quia alias effectus Dei ut ab ipso sunt non haber- wise the effects of God as they are from him would have no final
+ent causam finalem: nam causa finalis nullum effectum cause. For a final cause has no effect except by means of an agent
+habet nisi medio agente, quod ad agendum movet: si ergo that it moves to acting. Therefore, if a final cause has no causality
+25 circa ipsum agens non habet causalitatem, neque circa 25R with respect to the agent itself, it can also not have any causality
+effectus agentis potest causalitatem habere. with respect to the agent’s effects.
+Negative
+respondetur.
+3. Haec vero sententia falsa omnino est. Unde dicen- 3. But this view is completely false. For this reason it should It is responded
+in the negative.	dum est finem non posse exercere causalitatem suam in be said that the end cannot exercise its causality in the divine
+D. Thomas. divinam voluntatem quantum ad actus immanentes, seu will as far as immanent acts or free determinations of the will are
+30 determinationes liberas eiusdem voluntatis. Haec sum- 30R concerned. This is taken from St. Thomas in Ia.19.5 where in this St. Thomas.
+itur ex D. Thoma I. p. q. 19. art. 5. ubi in hoc sensu gen- sense he universally denies that any cause can be given for the
+eraliter negat dari aliquam causam divinae voluntatis: et divine will. And in Summa contra gentiles I, c. 86 and 87, he says
+I. Summae contra gentiles c. 86. et 87. dicit quod licet div- that although there is some reasons for the divine will there is,
+inae voluntatis sit aliqua ratio, non tamen aliqua causa. nevertheless, no cause. Alexander of Hales in I, q. 35, art. 3, and
+35 Idem Alensis I. p. q. 35. art. 3. Driedo De concordia liberi 35R John Driedo in De concordia liberi arbitrii et praedestinationis I,
+arbitrii et praedestinationis I. lib. tract. 1. cap. 4. memb. tract. 1, c. 4, memb. 1, ad 4, say the same thing. Francis Sylvester
+1. ad 4. Idem sentit Ferrariensis in dictum cap. 87. qui of Ferrara in the mentioned c. 87, where he points out that al-
+advertit, quod licet divina bonitas secundum nostrum though divine goodess is a cause of the divine will in our way of
+modum in- <883> telligendi sit causa divinae voluntatis, understanding, it is, nevertheless, not a cause according to real
+40 non tamen secundum realem causalitatem. Quod etiam 40R causality. The first part of this needs to be understood in a sound
+est sano modo intelligendum quoad priorem partem: non way. For one should not think that objectively or on the part of
+enim existimandum est obiective seu ex parte Dei esse in God there is causality in him even in our way of understanding.
+ipso causalitatem, etiam nostro modo intelligendi, alio- Otherwise, we understand falsely. But we should understand that
+qui falsum intelligeremus, sed ex parte nostra intelligere on our part we understand and explain divine will’s reason in the
+45 et explicare nos rationem divinae voluntatis ad modum 45R mode of causality, because we cannot conceive or explain the di-
+causalitatis, quia non possumus divina concipere aut ex- vine except in the mode of created things. Furthermore, in the
+14 se ] om. V.
+35 3 ] 5 V.
+
+-- 2 of 9 --
+
+Suárez, DM XXIII, sect. 9 3
+plicare nisi ad modum rerum creatarum. Praeterea, in eo- same sense, St. Augustine in Liber 83 quaestionum, q. 28, denies St. Augustine.
+D. Augustinus. dem sensu, D. Augustinus Liber 83 quaestionum q. 28. negat to be seeking the cause for why the divine will wished to create
+quaerendam esse causam divinae voluntatis, ob quam the world. And he gives the reason that ‘every cause is efficient’,
+50 voluit mundum creare, et rationem reddit quia omnis 50R which I think, as I also explained above, should be understood
+causa efficiens est, quod ita intelligendum puto, ut supra as meaning that some efficient cause is involved in every true
+etiam exposui, id est quia in omni vera causalitate inter- causality.
+cedit aliqua efficiens causa.
+4. Atque hinc sumitur prima ratio huius veritatis, 4. And from here is taken the first argument for this truth. For
+55 quia in divina voluntate nulla est vera efficientia circa there is no true efficiency in the divine will with respect to an im-
+actum immanentem in ipsa etiam ut libere terminatum 55R manent act in itself even as freely terminated in an external object.
+ad obiecta externa: ergo nec vera causalitas finis habere Therefore, true causality of an end cannot have a place with re-
+potest locum circa talem actum. Consequentia patet ex spect to the same act. The consequence is obvious from what was
+superius dictis, nam causalitas finis non habet locum nisi said earlier, for the causality of the end does not have any place
+60 in ordine ad causalitatem efficientem. Secundo declaratur except in relation to efficient causality. Second, this is explained
+amplius, quia actus divinae voluntatis quoad entitatem 60R further by the fact that an act of the divine will cannot have any
+sibi essentialem ac necessariam non potest habere ul- true of any kind as far as the essential and necessary entity for it is
+lam veram causam in aliquo genere, quia ut sic est ens concerned. For as such it is a being through essence and wholly
+per essentiam, et omnino independens. Neque etiam independent. Nor can that act as freely terminated in a created
+65 ille actus ut libere terminatus ad creaturas potest habere thing have a real cause, since as such it adds nothing real to the
+realem causam, quia ut sic nihil reale addit entitati neces- 65R same act’s necessary entity. Nor can one imagine a real cause that
+sariae eiusdem actus: nec potest fingi causa realis, quae has only a respect of reason for its effect. For this reason those
+habeat pro effectu solum respectum rationis. Quocirca, who think that a free determination adds something real to the di-
+qui putant determinationem liberam addere aliquid reale vine will which, strictly speaking, cannot be in itself consequently
+70 divinae voluntati quod simpliciter posset non esse in ipsa, can—or even ought to—posit this kind of causality with respect to
+satis consequenter ponere possunt, vel etiam debent, hoc 70R that act. For, as it seems to me, they are compelled also to posit
+causalitatis genus circa illum actum: nam, ut ego ex- effective causality, which is just as absurd as the foundation from
+istimo, coguntur ponere etiam causalitatem effectivam, which it follows is false, as I will show below in its place. Nor does
+quod, quam est absurdum, tam est falsum illud funda- Soncinas proceed in this way, for he admits this final causality not
+75 mentum ex quo sequitur, ut infra suo loco ostendam. only in the case of free determinations but also in the case of the
+Neque Soncinas hac via procedit, quia non solum circa 75R act itself, e.g., the necessary love for God. This, taken rigorously, is
+liberas determinationes, sed etiam circa ipsum actum, ut improbable on every account, for that act as such is the being it-
+est necessaria dilectio Dei, admittit illam causalitatem fi- self through essence and therefore is independent and not caused
+nalem, quod, in rigore sumptum, est omni ratione im- under any account. Hence, further, if a free determination insofar
+80 probabile, quia ille actus ut sic est ipsum ens per essen- as it is something of the thing is nothing beyond the act itself and
+tiam, et ideo independens, et non causatus sub quacum- 80R insofar as it is something of reason that does not really exist but
+que ra- <col. b> tione. Unde ulterius, si determinatio lib- is conceived or imagined according to our way of conceiving, the
+era ut est aliquid rei, nihil est praeter ipsum actum, et ut result is that that act cannot have a true cause under any account.
+est quid rationis revera non est, sed concipitur aut fingi-
+
+-- 3 of 9 --
+
+Suárez, DM XXIII, sect. 9 4
+85 tur ex modo nostro concipiendi, fit, ut sub nulla ratione
+possit ille actus veram causam habere.
+Respondetur argumentis in oppositum. It is responded to the argument in opposition.
+5. Ad argumenta respondetur, quod sicut Deus emi- 5. I respond to the arguments that just as God loves himself
+nentissimo modo se per seipsum amat sine ulla causal- through himself in a most eminent way without any causality (ei-
+itate, vel effectiva circa amorem quatenus a nobis con- ther effective with respect to the love to the extent that he is con-
+cipitur ut vitalis actus, vel formali circa ipsum amantem, ceived by us as vital act or formal with respect to the lover himself
+5 quatenus tali amore amans constituitur, ita intelligendum 5R insofar as the lover is constituted by such love), so also it should be
+est Deum eminentissimo modo amare se propter se, et understood that God loves himself for his own sake and also loves
+alia etiam propter bonitatem suam absque ulla causal- all other things for the sake of his own goodness in a most emi-
+itate finali circa eumdem amorem vel sui, vel aliorum. nent way apart from any final causality with respect to the same
+Atque ita, cum dicitur se amare, metaphorice motus vel love whether for himself or for other things. And thus, when he
+10 illectus a bonitate sua, locutio est metaphorica, sumpta 10R is said to love himself, having been moved or enticed metaphor-
+ex modo quo nos concipimus res divinas ad modum hu- ically by his goodness, the locution is metaphorical, having been
+manarum. Quomodo dixit etiam Boetius, lib. 3. De con- taken from the way in which we conceive divine matters in a hu-
+Boetius. solatione philosophiae pros. 3. Insitam bonitatem livore man way. As Boethius also said in On the Consolation of Philos- Boethius.
+carentem pepulisse Deum ut res externas operaretur. ophy III, pros. 3: ‘innate goodness free from envy pushes God so
+15R that he does external things’.
+15 6. Unde ad primum negatur metaphoricam motionem 6. Hence, in response to the first argument I deny that the
+finis ita habere locum in divina voluntate sicut in nos- metaphorical motion of an end has a place in the divine will the
+tra, nam in nostra ita illa motio dicitur metaphorica, ut way it does in ours. For in our will that motion is called metaphor-
+tamen sit vera causalitas, quia est vera dependentia in ical in such a way that it is still true causality, because there is a
+actu propter finem elicito ab ipso fine, in divina autem 20R true dependency in the act elicited for the sake of the end on the
+20 voluntate non est talis motio metaphorica, sed est emi- end itself. In the divine will, however, there is no such metaphori-
+nens quaedam amandi ratio, quae sicut est sine distinc- cal motion, but there is a certain eminent reason for loving, which,
+tione actuum vel potentiarum, ita etiam est sine ulla vera just as it is without distinction of act or potency, so also it is with-
+motione etiam metaphorica. Quare cavenda est aequiv- out any true motion, even metaphorical. For this reason one
+ocatio in vocabulo metaphoricae motionis, nam respectu 25R should avoid equivocation in the term ‘metaphorical motion’. For
+25 nostri illa particula metaphoricae additur ad distinguen- with respect to us that word ‘metaphorical’ is added in order to
+dam illam motionem a motione efficientis causae, non distinguish that motion from the motion of the efficient cause,
+vero ad excludendam illam a tota latitudine motionis et but not in order to exclude it from the whole breadth of what is
+causalitatis realis proprie dictae, cum vero Deus dicitur properly called real motion and causality. But when God is said
+moveri aut allici a bonitate sua, tota locutio est metaphor- 30R to be moved or attracted by his goodness, the whole locution is
+30 ica ad explicandam solam rationem divinae voluntatis. metaphorical in order to explain only the account of the divine
+will.
+Deus qualiter
+dicatur se vel
+alia amare
+propter suam
+ipsius
+bonitatem.
+7. Et per haec responsum est ad secundam et tertiam 7. And through this I have also responded to the second and
+
+-- 4 of 9 --
+
+Suárez, DM XXIII, sect. 9 5
+rationem, nam illa particula propter, quando Deus dici- third arguments, for that phrase ‘for the sake of’ in the case where
+tur amare se vel alia propter bonitatem suam, non signifi- 35R God is said to love himself or other things for the sake of his own
+cat veram causam ipsius amoris, sed rationem tantum (ut goodness does not signify a true cause for that love but only a
+35 dixi) voluntatis divinae. Falsum autem est, Deum <884> reason (as I call it) for the divine will. Moreover it is false that God
+se amare propter se tamquam propter finem, Deus enim loves himself for the sake of himself just as for the sake of an end,
+non est finis sui ipsius: quis enim unquam ita locutus est? for God is not an end for himself. For who ever speaks that way?
+aut quomodo potest habere finem qui non habet prin- 40R Or how can something that has no principle have an end? Unless
+cipium? Nisi fortasse negative dicatur finis sui, quia non perhaps he is said to be his end negatively in that he does not have
+40 habet alium finem, sic enim dicitur Deus esse a se. Sed any other end in the way God is said to have being from himself.
+hoc sensu non est finis sui per causalitatem finalem, sicut But in this sense he is not his end through final causality, just as
+neque est a se per efficientem. Falsum item est, amare he does have being from himself through efficient causality. Like-
+unum propter aliud, esse idem, quod ex amore unius 45R wise, it is false that to love one thing for the sake of another is the
+moveri ad amorem alterius, si illud ex significet causali- same thing as to be moved to a love for one thing by love for an-
+45 tatem propriam, vel distinctionem in re inter unum amor- other thing, if that ‘by’ signifies proper causality or a distinction
+em et alium: nam in rigore ad veritatem illius locutionis in reality between one love and another. For taken rigorously it
+sufficit, quod unum sit ratio amandi aliud. Unde sicut is enough for the truth of that statement that one is the reason
+quando Deus dicitur esse immortalis, quia est immate- 50R for loving another. Hence, just as when God is said to be immor-
+rialis, illa particula quia designat non veram causam, sed tal because he is immaterial that particle ‘because’ designates not
+50 rationem, ita dicitur amare creaturas propter bonitatem a true cause but a reason, so also God is said to love creatures
+suam, non quia sit causa, sed quia est ratio amandi illas. for the sake of his own goodness not because it is the cause but
+Et sicut Deus illo actu quo se amat necessario, libere amat because it is the reason for loving them. And just as God freely
+creaturas sine additione vel augmento reali, ita idem ac- 55R loves creatures by that act by which he necessarily loves him-
+tus ut terminatus ad Deum potest dici ratio nostro modo self without any real addition or augmentation, so also the same
+55 concipiendi, cur extendatur (ut ita dicam) ad creaturas, act as terminating in God can be called the reason, according to
+nulla interveniente causalitate propria. Nam sicut illa our way of conceiving, for why it is extended (if I may speak in
+terminatio fit eminentissimo modo sine augmento reali, this way) to creatures without any intervening proper causality.
+ita etiam sine causalitate reali. Quomodo dixit Diony- 60R For just as that termination comes to be in a most eminent way
+sius 4. cap. De divinis nominibus quod divinus amor non without real augmentation, so also without real causality. Just as
+60 dimisit Deum esse sine germine. Dionysius says in On the Divine Names, c. 4: ‘divine love does not
+permit God to be without offspring’.
+Sitne causalitas finis in externis actionibus, et effectibus Whether the causality of an end is in God’s external actions and
+Dei. effects.
+8. Quarta ratio illius opinionis postulat ut explicemus se- 8. The fourth argument for that opinion demands that we explain
+cundum punctum in principio propositum, scilicet quo- the second point proposed in the beginning, namely, how true
+modo in actionibus, et effectibus Dei ad extra detur vera final causality is granted in the case of God’s actions and effects
+causalitas finalis, si in ipsamet Dei voluntate non reper- that are beyond himself if such causality is not found in God’s will
+
+-- 5 of 9 --
+
+Suárez, DM XXIII, sect. 9 6
+5 itur talis causalitas. Et ratio dubitandi satis proposita est 5R itself. And the reason for doubting was adequately laid out in the
+in principio, et in illa ratione quarta. Propter quam pos- beginning and in that fourth argument. For this reason some-
+set aliquis concedere, in effectibus Dei inveniri proprie one could concede that in God’s effects there is properly found
+finem ad quem ordinantur, et propter quem fiunt, non an end to which they are ordered and for the sake of which they
+tamen reperiri propriam causalitatem finalem. Ut enim were brought about yet no proper final causality is found. For as
+10	Gabriel. notat Gabriel, in 2. dist. 1. q. 5. in principio, finis et causa 10R Gabriel notes in II, dist. 1, in the beginning of q. 5: end and final Gabriel.
+finalis non omnino sunt idem, nam finis ut sic solum dicit cause are not entirely the same, for an end as such only expresses
+terminum ad quem tendit operatio, vel ad quem motus a terminus to which an activity tends or to which a motions are
+ordinantur: causa autem finalis est, quae movet agens ad ordered but a final cause is that which moves an agent to acting.
+operandum. Quapropter, si detur finis qui non moveat This is why if an end were given which does not move the agent
+15 agens per propriam causalitatem, poterit <col. b> dari 15R through a proper causality, an end would be given that is not a fi-
+finis, qui non sit causa finalis in proprietate et rigore nal cause taken properly and rigorously. Therefore, in this way it
+sumpta. Sic igitur vere dici potest Deus omnia operari can truly be said that God does everything for the sake of himself
+propter se ut propter finem ultimum in quem omnia or- as for the sake of an ultimate end to which everything is ordered,
+dinantur, non tamen per causalitatem finis, sed per emi- yet not through the causality of an end but through a more em-
+20 nentiorem modum ab omni causalitate liberum. Sed hic 20R inent way that is free of all causality. But this way of speaking is
+modus dicendi non omnino satisfacit. Primo quidem, not entirely satisfactory. First, indeed, because it is the view of all
+quia ex omnium Theologorum sententia Deus est causa theologians that God is the final cause of all things, as St. Thomas
+D. Thomas. finalis omnium rerum, ut tradit D. Thomas, I. p. q. 44, art. 4. relates in I.44.4. Second, because Aristotle defines a final cause
+Secundo, quia Aristoteles definit causam finalem esse id to be that for the sake of which something is done. But God truly
+25 propter quod aliquid fit: Deus autem vere ac proprie est 25R and properly is that for the sake of which creatures were made,
+id propter quod creaturae fiunt, iuxta illud Proverbiorum according to Proverbs 16[:4]: ‘The Lord has made all things for his
+16. Universa propter semetipsum operatus est Dominus. own sake’. Third, because a final cause as such includes no im-
+Tertio, quia causa finalis ut sic nullam includit imperfec- perfection (in fact, it is thought to be the first and most perfect
+tionem, immo censetur esse prima, et perfectissima om- of all the causes in a way to be explained below). Therefore, it is
+30 nium causarum, modo inferius explicando: ergo convenit 30R fitting to God properly and formally and with the highest perfec-
+Deo proprie ac formaliter, et cum summa perfectione: tion. But it is not fitting to him except with respect to the effects
+non convenit autem illi nisi respectu effectuum ad extra: beyond him. Therefore.
+ergo.
+9. Quare dicendum est, quod licet causa finalis non 9. Wherefore it should be said that, although a final cause
+35 causet proprie effectus suos nisi quodammodo medio does not properly cause its effects except in a certain way via an
+agente quod movet et allicit ad operandum, tamen, ut fi- 35R agent that it moves and entices to acting, nevertheless, in order
+nis sit propria causa effectus agentis, necessarium non for an end to be a proper cause of the effects of an agent it is not
+est, ut prius habeat in ipso agente aliquam causalitatem necessary that it first have some proper causality in the agent it-
+propriam. Nam licet hoc contingat in agentibus intel- self. For although this happens in the case of created intellectual
+40 lectualibus creatis, eo quod immediate ipsa se movent, agents by the fact that they immediately move or apply them-
+27 16 ] 6 A V.
+
+-- 6 of 9 --
+
+Suárez, DM XXIII, sect. 9 7
+seu applicant ad operandum, vel amandum per aliquam 40R selves to acting or to loving through some real motion and proper
+realem motionem, et propriam causalitatem: tamen in causality, it is, nevertheless, not necessary in the case of an uncre-
+agente intellectuali increato id non est necessarium, quia ated intellectual agent. For in a most simple and eminent way it
+sine ulla sui mutatione, vel reali additione, dependen- applies (if I may speak in this way) or determines itself to freely
+45 tia, aut causalitate, simplicissimo et eminentissimo modo loving and acting without any change, real addition, dependency,
+sese applicat (ut ita dicam) seu determinat ad libere aman- 45R or causality in it. Moreover the final causality of God with respect
+dum et operandum. Consistit autem causalitas finalis Dei to effects beyond himself consists in this: that God by an intu-
+respectu effectuum ad extra in hoc, quod Deus intuitu et ition and love for his goodness produces effects beyond himself.
+amore suae bonitatis effectus extra se producit: unde ip- Hence, the very activity which he has beyond himself essentially
+50 samet operatio quam ad extra habet, essentialiter pendet depends on God both in the ratio of an effecting cause and also
+a Deo tum in ratione efficientis, tum etiam in ratione fi- 50R in the ratio of an end. For it is related to God both as omnipotent
+nis, quia respicit Deum et ut omnipotentem, et ut summe and as the highest good, who by reason of his goodness is both
+bonum, qui ratione suae bonitatis, et dignus est ut om- worthy of having everything ordered to him as to an end and of
+nia ad ipsum ut ad finem ordinentur, et seipsum dicto inclining himself in the eminent way mentioned earlier to com-
+55 eminenti modo inclinat ad communicandam aliis suam municating to other things his goodness for his own sake. And in
+bonitatem propter ipsam. Atque ita facilis est responsio 55R this way there is a ready response to the reason for doubting: for
+ad rationem dubitandi: negamus enim esse semper nec- we deny that it is always necessary that there be causality of an
+essariam causalitatem finis intra ipsum agens, ut habere end internal to the agent itself in order for it to be able to have
+<885> possit locum extra ipsum in alios effectus eius: a place beyond the agent in its other effects, just as we will also
+60 quomodo inferius etiam declarabimus habere locum in show later that exemplary causality has a place in God’s effects
+effectibus Dei causalitatem exemplarem, sine ulla causal- 60R without having any proper causality internal to God.
+itate propria intra ipsum Deum.
+Dubium
+occurrens
+expeditur.
+Caietanus.
+10. Atque hinc expeditur facile dubium quod attin- 10. And now it is easy to resolve the doubt that Cajetan A doubt that
+occurs is
+resolved.
+Cajetan.
+git Caietanus circa dictum art. 4. q. 44. 1. p. an possit con- touches on concerning the statement in Ia.44.4 about whether it
+65 cedi Deum ut agens est, habere causam finalem: quod can be granted that God has a final cause insofar as he is an agent.
+idem est ac quaerere an actio Dei ad extra habeat pro- This is the same as to ask whether an action of God beyond him-
+priam finalem causam. Dicendum est enim habere qui- 65R self has a proper final cause. For it should indeed be said to have
+dem causam finalem. Nam Deus vere ac proprie ex- a final cause. For God truly and properly exercises that action for
+ercet illam actionem propter aliquem finem quem in- the sake of some end that he intends. Also because, as St. Thomas St. Thomas.
+70	D. Thomas. tendit. Item quia, ut D. Thomas ait in illo articulo, idem says in that article, the same thing is the end for the agent and
+est finis agentis et patientis, licet diversimode: est autem for the patient, although in different ways. Moreover, the discus-
+sermo de agente ut agens est, et de patiente late ut se ex- 70R sion is about agents insofar as they are agents and about patients
+tendit ad effectum ab agente factum: sed effectus Dei ut more widely insofar as they extend to effects brought about by
+sic habet propriam causam finalem: ergo actio Dei ut sic the agents. But an effect of God as such has a proper final cause.
+75 habet eamdem causam finalem, quae licet non sit finis Therefore, an action of God as such has the same final cause,
+Dei, est tamen finis effectuum Dei, et consequenter etiam which, although it is not an end for God, is nevertheless an end
+actionis eius: finis enim ad quem ordinatur effectus, est 75R for God’s effects and consequently also for his action. For the end
+qui movet agens ad operandum: unde ad eumdem ordi- to which an effect is ordered is that which moves an agent to act-
+
+-- 7 of 9 --
+
+Suárez, DM XXIII, sect. 9 8
+nat actionem suam. ing. Hence, it orders his action to the same end.
+80	Obiectio. 11. Sed statim insurgit difficultas, nam actio Dei est 11. But a difficulty arises at once, for God’s action is the very An objection.
+ipsa essentia Dei: ergo non potest habere causam finalem. essence of God; therefore, it cannot have a final cause. The
+In qua obiectione haerent et laborant Thomistae: et Cai- 80R Thomists are stuck to this objection and labour over it. Cajetan
+etanus respondet illam actionem quantum ad rem quae responds that that action insofar as the thing that is the action is
+est actio, non habere causam finalem: formaliter tamen concerned does not have a final cause, yet formally inasmuch as
+85 in quantum actio est habere causam finalem ipsam boni- the action is it has a final cause, [namely], the very goodness of
+tatem Dei. Sed non satisfacit responsio, quia vel illa actio God. But the response is not satisfactory, since either that action
+ut actio aliquid rei addit ipsi Deo, et sic non erit in Deo, vel 85R as action adds something to the thing, to God, and thus would
+nihil rei addit, et secundum id non potest habere causam not be in God, or it does not add anything and accordingly cannot
+finalem. Respondent nonnulli moderni, actionem ut sic have a final cause. Some moderns respond that action as such
+90 solum addere respectum rationis intrinsecum, et quan- only adds an intrinsic relation of reason and with respect to that
+tum ad illum habere causam finalem. Adduntque, cum fi- has a final cause. And they add that when an end metaphorically
+nis moveat agentem metaphorice, non esse necessarium 90R moves an agent, it is not necessary that there be a real distinction
+ut inter finem et agentem, seu eius operationem sit realis between the end and the agent or its activity, but that a distinc-
+distinctio, sed sufficere distinctionem rationis: et quod tion of reason suffices. And insofar as an agent is determined by
+95 agens determinetur a fine ad actionem, sive illa deter- an end to an action, either that determination is through a real
+minatio sit per modum realem, sive per modum rationis. mode or through a mode of reason. But this doctrine is false and
+Sed haec doctrina falsa est, et incidit in opinionem Son- 95R collapses into Soncinas’s opinion. It plainly follows that God’s love
+cinatis, et ex illa plane sequitur amorem Dei ut libere ter- as freely terminated in creatures has a proper final cause. But this
+minatum ad creaturas, habere propriam causam finalem: was already shown to be entirely false. And the consequence is
+100 quod tamen esse omnino falsum ostensum est. Et se- obvious, for in that free determination there is also a real iden-
+quela patet, nam <col. b> in illa determinatione libera tity and a mode of reason, arising in its way from God as from an
+est etiam identitas realis, et modus rationis, proveniens 100R end. Likewise, it is false that a relation of reason belongs to the
+suo modo a Deo ut a fine. Item falsum est, relationem intrinsic account of a real act, for it is nothing. And for that reason
+rationis esse de intrinseca ratione actus realis, cum illa it is no more intelligible that it is caused through a proper final
+105 nihil sit. Ideoque etiam non magis potest intelligi quod causality than through a proper efficient causality. And, there-
+per propriam causalitatem finalem causetur, quam quod fore, other Thomists deny what we say, namely, that God acts for
+per propriam efficientiam. Et ideo alii Thomistae negant 105R the sake of an end in such a way that that end is the cause of his
+quod diximus, nempe Deum ita operari propter finem, ut action, but only of passion, if I may call it that, or of the effect or
+ille finis sit causa actionis Dei, sed tantum passionis, ut even of its becoming. They indeed seem to speak logically in this,
+110 sic dicam, seu effectus, aut etiam ipsius fieri. In quo qui- for according to them the action of God is nothing other than the
+dem videntur consequenter loqui, nam iuxta illos actio volition of God, but the volition of God cannot have a final cause.
+Dei non est aliud quam volitio Dei: volitio autem Dei non 110R But they are forced to retreat from the true view because of a false
+potest habere causam finalem. Sed ex falso fundamento foundation.
+coacti sunt recedere a vera sententia.
+115	Vera responsio. 12. Et ideo facilius respondetur negando antecedens, 12. And, therefore, I easily respond by denying the antecedent. The true
+response.	nam actio Dei transiens non est Deus, nec in Deo, sed in For a transeunt action of God is not God nor in God, but is in
+
+-- 8 of 9 --
+
+Suárez, DM XXIII, sect. 9 9
+creatura, et ideo habere potest causam finalem, et ordi- something created. And so it can have a final cause and be or-
+nari in finem. Atque ita, licet Deus non habeat finem sui 115R dered to an end. And thus, although God does not have an end
+esse, habet tamen finem suae actionis transeuntis: qui si for himself, he nevertheless has an end for his transeunt action,
+120 sit finis proximus, esse potest aliquid extra Deum: agit which, if the end is proximate, can be something outside of God.
+enim Deus ad extra ut sese communicet: quae commu- For God acts externally in order to communicate himself. This
+nicatio aliquid est extra Deum, et in universum actio dici communication is something external to God. And action can
+potest ordinari in terminum ut in suum finem: si vero sit 120R universally be said to be ordered to a terminus as to its end. But
+sermo de fine ultimo, est ipsemet Deus, non quia intendat if the discussion is about the ultimate end, it is God himself, not
+125 aliquid commodum vel bonum sibi acquirere, sed quia because he intends to acquire some advantage or good for him-
+agit propter suam bonitatem communicandam et mani- self, but because he acts for the sake of communicating and man-
+Durandus. festandam. Et hanc sententiam bene declarat Durandus, ifesting his goodness. And Durandus reveals this view nicely in II, Durandus.
+in 2. dist. 1. q. 6. quamvis nonnulla misceat quae vera non 125R dist. 1, q. 6, although he mixes in some things which are not true.
+sunt, quae nunc examinare non est necesse. But it is not necessary to examine those things now.
+
+-- 9 of 9 --

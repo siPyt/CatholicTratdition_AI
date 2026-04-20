@@ -1,0 +1,625 @@
+Last revision: December 30, 2015
+Francisco Suárez, S. J.
+DE GENERATIONE ET CORRUPTIONE 1.11
+© Sydney Penner 2015
+<f. 1r>2
+PREFATORY QUESTION.
+Whether these books have an object.
+Different things please different authors in assigning an ob-
+ject to this science.
+For Alexander and Philoponus want the object of this science
+to be generation and corruption, since that is how the books
+describe it.
+But other authors, who say that the object of the science
+in De caelo is simple body, say that the object of this science is
+mixed body.
+On the other hand, St. Thomas and Albert the Great want
+the object to be being mobile to form (ens mobile ad formam).
+Moreover, through “being mobile to form” they understand being
+that is generable, augmentable, and alterable. Through “form”
+they understand something inhering intrinsically, which can per
+se be the terminus of motion. But in an object of this kind the
+name must abstract from terminatively and subjectively mobile
+being. For being that is mobile to substantial form is terminative
+but being that is mobile to accidental form is subjective.
+Nevertheless if we consider what is said in the remaining parts
+of Physics, <f. 1v> the object of this science is easily discovered.
+I say, therefore: the object is generable being or body.
+This can be gathered from what was said, for the adequate
+object of physics is being that is mobile according to its sub-
+stance and essential principles, not according to some property
+(passionem) or accident. Rather, the latter are demonstrated in
+philosophy of its object.
+1Translation is based on Salvador Castellote’s transcription (available at
+http://www.salvadorcastellote.com/investigacion.htm.
+2Numbers in angle brackets are the manuscript page numbers included in
+Professor Castellote’s transcription.
+
+-- 1 of 16 --
+
+Suárez, De generatione et corruptione 1.1 2
+As a result mobile being in general is assigned as the object
+of physics. But the assigning of objects for the other parts of phi-
+losophy must be done according to the essential division of those
+kinds into their species having different knowable abstractions.
+Moreover, the first division of mobile being is more suitable for
+dividing sciences. It is that by which it is divided into generable
+and ingenerable body. For these two members have different
+knowable rationes, as we explained in [our lectures on] the first
+book of the Posterior Analytics.
+Therefore, just as the object of the science of the heavens was
+assigned as ingenerable body, so consequently generable body
+should be assigned as the object of this science. It will become
+more evident while refuting the views already presented.
+The first of those views has no probability. For just as physics
+does not concern motion as an object but as a property of an
+object, so also no part of physics primarily concerns motion or
+change as an object. Rather, it primarily concerns being as that
+which is ordered to such motion. Nor does the argument from
+the title of the books carry any weight, since a book is not always
+titled after its object, as is clear in the case of Physics.
+The second opinion is easily excluded, since just as the object
+of the books De caelo is not simple being, so also this object
+is not mixed body, as will be clear from the discussion of this
+doctrine. For a large part of it is occupied with the cognition of
+the elements. For this reason, <f. 2> it should be taken from
+abstraction. For the heavens have per se an abstraction sufficient
+for constituting one science, and for this reason the science of
+the heavens does not mix into its object any other things or
+things brought in by simple bodies.3 In general, it has some
+common properties applying to every simple body, through which
+it is necessary to constitute a special science about it, especially
+since the substantial principles of generable simple bodies are
+physically entirely distinct and have a very different abstraction.
+On the other hand, the principles of simple and mixed gener-
+able things are very much the same, for they agree in a common
+matter and in a common ratio of form. For this reason a division
+of physics is much more suitable if it is into one science about
+ingenerable body and another one about generable body.
+The third opinion, moreover, either differs only in name from
+ours or is not true. For when “being mobile to form” is said, one
+3The Latin of the last part of this sentence (“neque illatas corporis simplicis”)
+puzzles me. I suspect there is a textual problem.
+
+-- 2 of 16 --
+
+Suárez, De generatione et corruptione 1.1 3
+either understands that the very proximate disposition to form is
+the formal ratio of the object of this science or one understands
+that being having such an essence (so that a disposition to those
+motions flows from it) is the object as such. The former is false.
+For just as the object of physics is not mobile being as it expresses
+a property but as it expresses the ratio of a property, so also one
+should not assign some property of some natural being as the
+formal object of any part of physics. The latter [interpretation]
+differs only in name from our view. For every generable being has
+an essence of this kind.
+But so far “being mobile to form” in this sense does not
+properly assign an object to this science.
+First, because heaven is a being mobile to form. For it
+assumes and acquires perfective qualities. Hence, something
+should be added <f. 2v> to exclude heaven.
+Second, because this view presupposes another: namely, that
+the division of these objects should be taken from the division of
+motion, and so far that being mobile to where is the object of the
+books De caelo. Yet we will not disprove this here.
+Third, because these words suggest that this science only
+considers in the subject a disposition for a motion tending to a
+form. And this is the meaning of speaking in that way. Yet this
+is false. For it belongs to the sciences to consider every property
+(proprietates) of a generable thing, as well as its principles and
+causes, the number and mixtures of elements, and many other
+things that are brought to light in the progression of science.
+And it is proven by reason:
+Because generable being according to its nature is material
+being. Therefore.
+Because a science considering some object considers all its
+properties and not only those three motions.
+It is confirmed: for if it belongs to this science to deal with
+generable being according to its precise disposition for those
+motions, then there must be one part dealing with substance
+and another part with its properties. But there is no such part.
+Therefore.
+But so far the arguments are against our view.
+It is argued, first: Science must be of incorruptible and
+perpetual things. Therefore, it cannot be of generable things.
+It is argued, second: This science proves that there is genera-
+tion. Therefore, there must also be a generable thing. Therefore,
+this cannot be its object, because there is no science that proves
+
+-- 3 of 16 --
+
+Suárez, De generatione et corruptione 1.1 4
+its own object to be.
+It is argued, third: The object of physics as a whole is mobile
+being. Therefore, the object of a part of physics must be a mobile
+being of that sort, namely, mobile to form. For the object of a
+part must be proportionate to the object of the whole.
+It is argued, fourth: For if generable being is the object, then
+any <f. 3> generable being whatever belongs to this science’s
+consideration. Every animate thing, therefore, [belongs to this
+science’s consideration]. But this is false.
+It is argued, fifth: What is dealt with in these books [of Aristo-
+tle’s Physics] is not generable being, but generation, corruption,
+alteration, and augmentation.
+I respond to the first argument in the same way as the similar
+response in the beginning of the Physics: corruptible things have
+properties that apply to them and that can be demonstrated
+of them. It is not necessary that the object of a science be
+incorruptible. Rather, the demonstrated propositions must hold
+forever and be necessary. Their subject can be the object of a
+science, since they abstract from existence.
+To the second argument, it is responded that a science can
+show a posteriori of something that its object exists.
+It is said, second, that it cannot show that there is generation,
+but it can show what it is and in what way it is distinguished
+from alteration.
+It is said, third, that generation is not the subject, but is
+the way to produce it. Being generable is a property of the
+subject. Hence, to demonstrate that there is generation is not to
+demonstrate that the subject is. Rather, this is to show a property
+(passionem) of the subject, which is proper to science.
+To the third argument, it is responded that generable being is
+included under subjectively mobile being, and this is the required
+proportion between the object of the part and of the whole. For
+just as mobile being is not taken for an aptitude but rather
+for describing an essential difference of material being, so also
+generable being does not imply properties but rather is taken for
+describing an essential difference of material being from which
+an aptitude for coming under generation and corruption.
+The fourth argument asks that we explain how far <f. 3v>
+the treatment of this science extends.
+To this it should be replied that a science dealing with a
+generic ratio deals with the specific rationes contained under the
+generic ratio as long as they are included in the same knowable
+
+-- 4 of 16 --
+
+Suárez, De generatione et corruptione 1.1 5
+abstraction. Animate things, therefore, are included in the object
+of this science under the common ratio of generable and mixed
+being, but not under their proper ratio of animate being. For
+being animate adds a grade of a higher ratio and therefore is
+under another abstraction, as is clear from what was said in
+the Posterior Analytics I. On the other hand, all inanimate beings
+are included under their proper rationes in the object of this
+science, since they are all in the same grade of being and have
+their activity in the same way concerning matter.
+It belongs to this science, therefore, to deal with generable
+being in general and with its properties (passionibus), with the
+elements, with mixtures of them, and with inanimate mixtures.
+Hence, these books and the books of Meteorology (in which
+imperfect mixtures are discussed) make one science. Any trea-
+tise dealing with the cognition of inanimate mixtures, such as
+of minerals—about which Albert the Great composed a special
+book—and similar things, also belongs to the same science.
+The fifth argument asks us to explain the order of speaking.
+Here it should be noted, first, that two things belong to
+science. The first is to explain the principles and causes of the
+object. The second is to demonstrate the properties of the object.
+And these two things should be done in this science concerning
+its designated object.
+Second, it should be noted that the principles and causes
+of generable being are already entirely known from what was
+said about these in Physics, where we explained the principles
+of natural things, <f. 4> which are the same as the principles of
+generable things. In fact, as we noted there, the principles were
+explained there in the particular case of generable things because
+those are better-known to us.
+For this reason, then, Aristotle does not repeat the treatment
+of matter and form, but only deals with substantial generation
+and motions, which are proper to generable things, and deals
+with elements and mixtures of them.
+Therefore, the order to be kept is this:
+First, we will deal with generable being and its generation.
+Next, second, with its two affections, namely, alteration and
+augmentation. For nothing remains that should now be said
+about motion and its other properties.
+But after this, third, in dividing generable being into sim-
+ple and mixed, we will talk about simple bodies (which are the
+elements).
+
+-- 5 of 16 --
+
+Suárez, De generatione et corruptione 1.1 6
+Finally, in the last place we will talk about mixture and the
+mixed things themselves.
+Note, then, that this science will contain five or six disputa-
+tions: first about generable being and its generation, the second
+about alteration, the third about augmentation, the fourth about
+the elements, the fifth about mixture and mixed things in general,
+and in the sixth part we will say a little about mixed things in
+particular.
+In this way this matter will be brought to a close. A different
+order will not be followed because the one proposed seems more
+agreeable. Nevertheless, we will always note the place in the
+Physics. A literal commentary on the books of On Generation
+and Corruption will remain from going through the disputations,
+insofar as it seems necessary for fully acquiring this science.
+
+-- 6 of 16 --
+
+Suárez, De generatione et corruptione 1.1 7
+DISPUTATION I.
+On Substantial Generation.
+Natural beings and especially generable beings are cognized by
+us throught mutual transmutation. For this reason, in dealing
+with generable beings one should deal with their generation and
+the converse. For one is cognized from the other. In fact, since
+generation is better known to us, Aristotle deals especially with it
+and investigates the one principle of generable being through it.
+Therefore, we set up this disputation about substantial gen-
+eration.
+Aristotle discusses this material in the first four chapters.
+In the first two he refutes the opinion of others, and then he
+presents his own opinion. His opinion seems to include these
+conclusions:
+First conclusion: Substantial generation is possible, for it
+comes from not being in actuality but being in potentiality.
+Second conclusion: The generation of one being is the corrup-
+tion of another. For this reason generations can always endure.
+Third conclusion: Generation can be simpliciter or with qual-
+ification. The former is generation of a substance, but the latter
+of an accident.
+Fourth conclusion: Among substantial [generations], some
+are generations simpliciter (as when a more perfect substance
+is generated from less perfect substances) and some are with
+qualification (which is the contrary mode). The same is the case
+in its way with the generation of accidents.
+Fifth conclusion: Generation precedes corruption and cor-
+ruption follows generation.
+Sixth conclusion: Matter that is generated is subjected. For
+it is a being if related to termini.
+Seventh conclusion: Generated and corrupted matter must
+be the same simpliciter, insofar as it is subject to each form.
+Nevertheless, in a qualified way it is otherwise insofar as it has
+different being <f. 5> under different forms.
+These are held up to the third chapter.
+Eighth conclusion: Generation differs from alteration in that
+there is generation when a whole is changed to another whole
+with nothing sensible remaining. But there is alteration when an
+enduring sensible object changes in its affections.
+This is from the fourth chapter.
+
+-- 7 of 16 --
+
+Suárez, De generatione et corruptione 1.1 8
+Quidditative cognition of generation and of a generable thing
+depends on the cognition of principles and causes. We discussed
+these more thoroughly in Physics I, and therefore only a few
+things should be added, not repeating any of the things already
+said.
+
+-- 8 of 16 --
+
+Suárez, De generatione et corruptione 1.1 9
+QUESTION I.
+Whether there is substantial generation and corruption and what
+it is.
+Physics I settles this question in the question on the principle
+in general, where we show that matter and substantial form
+must necessarily be given. For the conclusion to this question is
+gathered from that principle.
+First conclusion: Substantial generation is given in things.
+This is shown from the composition of matter found in these
+things. For given that these things differ in their substantial
+forms, it is therefore evident that, if one is transmuted into an-
+other, there must be transmutation with respect to substantial
+form and that this thing—for example, a horse—must be sub-
+stantially generated and another thing be corrupted.
+Since, therefore, it is obvious that one thing is transmuted
+into another, it is also clear that there is substantial generation.
+Hence the ancients who did not recognize physical composi-
+tion from a subject and accidents <f. 5v> for that reason also did
+not admit substantial generation.
+Wherefore, to the extent that it is evident that there is matter
+and form in generable things, it is also evident that there is
+substantial generation.
+But someone will say that it does not follow from having
+posited such substantial composition that such substantial gen-
+eration is possible, as is clear from the case of the heavens.
+It is responded that although generation cannot be imme-
+diately inferred from substantial composition alone, [it can be
+inferred] once experience of sensibles has been assumed, namely,
+that fire turns into water and water into air.
+From this it can clearly be gathered that transmutation does
+not happen from accidents alone but also from forms constituting
+a thing in substantial being.
+Therefore, Aristotle uses another argument here in chapter
+1, confirming that there is generation: namely, that if generation
+is not possible, then alteration is also not possible. But the
+consequent is false. Therefore.
+But that conditional seems false. For that which is prior is
+not removed by that which is posterior having been removed. But
+alteration is prior to generation. Therefore.
+And it is confirmed: for in the heavens there is alteration but
+not generation.
+
+-- 9 of 16 --
+
+Suárez, De generatione et corruptione 1.1 10
+It is confirmed, second: for if we understood the substance
+of all things to be one, if there were a difference in qualities, we
+could understand alteration to be possible without generation,
+as one human being alters another human being although not
+generating him.
+To this it is replied that Aristotle’s argument seems to be ad
+hominem, granting what was said by the ancients, for it is not
+absolutely efficacious in proving that there is substantial genera-
+tion. For those who deny it consequently deny that alteration is
+ordered to substantial generation.4 Rather, [they say it is ordered
+to] accidental generation.
+Second, nevertheless, it is said that that proposition is true.
+For which <f. 6> it should be noted that there are certain
+qualities by the positing of which the union of matter and form is
+necessarily dissolved.
+From this it is gathered that these qualities by their very
+nature are disposed, instituted, I say, for disposing matter to
+receive a substantial form.
+That conditional proposition, then, should be understood to
+be about alteration tending to qualities of this sort. And it is
+verified about those: for such alteration of its nature is ordered
+to substantial generation just as to an ultimate end, although
+an extrinsic one. Therefore, just as with the removal of an end
+all the things that are ordered to the end are removed, so also
+with the removal of substantial generation alteration is removed.
+For alteration, although it is posterior in the order of execution,
+nevertheless is prior in the order of intention. Hence, since
+generation is impossible, alteration disposing matter to receiving
+the form of the heavens is also impossible.
+This is finally confirmed. For these qualities depend intrin-
+sically on substantial form. Therefore, they cannot be admitted
+without a change of substantial forms. Therefore, if transmuta-
+tion with respect to substantial forms is impossible, transmuta-
+tion according to these properties is also impossible.
+You will say that remission of these qualities will at least be
+possible, which is also proper alteration.
+To the contrary, for remission tends to total destruction.
+Therefore, if the latter is not possible, neither is the former.
+But to the contrary, for it does not follow from there not being
+generation that there is no alteration. Therefore, it also does not
+4Castellote emended this sentence with the addition of a ‘non’; I omit it.
+
+-- 10 of 16 --
+
+Suárez, De generatione et corruptione 1.1 11
+follow from generation not being possible that alteration is not
+possible.
+It is responded by denying the consequent. For they are
+related just as means and end. But from the positing of a means,
+the end does not follow at once. But if an end were not possible,
+neither would a means be possible.
+This is how it is explained by Avicenna in this place; by Giles
+of Rome in IX, 3, dub. 2; by Marsilius in q. 4; and by [Paul of]
+Venice in Summa c. 13, q. 3, concl. 2.
+The second conclusion follows from these things: Generation
+is change <f. 6v> from non-being simpliciter to being simpliciter
+and corruption the converse.
+Moreover, through “being simpliciter” is understood a com-
+plete substantial being. Generation and corruption are distin-
+guished through this from other changes that are accidental.
+Moreover, it is called change as distinct from creation.
+And this is the same as what Aristotle says in his definition:
+“generation is a change of this whole into that whole,” that is of
+this substance into another substance. This should not be under-
+stood in such a way that the whole substance is transmutated so
+that nothing of it remains under any form, namely, generated and
+corrupted. Rather, it is said that the whole is changed because an
+absolutely whole substance is generated and a whole substance
+is corrupted.
+(That the words “no sensible” are rightly introduced will be
+seen in q. 4.)
+But it is argued against this definition: for it follows from
+this definition that true substantial generation is involved in the
+creation of the heavens.
+This is clear in this way: for there is a true union of mat-
+ter with form in the case of the heavens. Therefore, one first
+understands matter, to which the form that is educed from its
+potentiality advenes. Such a change, then, is generation.
+It is responded that in the case of the heavens there is only
+one action by which the form is created and communicated to the
+whole. For the matter and form of the heavens are not created
+except as united. Hence, one should not imagine one action that
+produces the matter and another action that educes the form
+from a potentiality of the matter. Rather, the heavens are created
+by one action, both the parts with their mutual union and the
+dependency of one on the other. But that action does not count
+as generation, since it does not come about from a presupposed
+
+-- 11 of 16 --
+
+Suárez, De generatione et corruptione 1.1 12
+subject.
+So far some doubts remain here, however.
+The first is how some substantial generations can be sim-
+pliciter and others with qualification. For every substances is a
+being simpliciter. Therefore, every generation of a substance is a
+generation simpliciter. Likewise with corruption.
+It is responded that the question in fact only concerns names.
+Hence, it is said <f. 7> that in the same way in which a
+substance is called a being simpliciter its production is also a
+generation simpliciter. Nevertheless, Aristotle’s way of speaking
+holds true with respect to a certain comparison. For if that which
+is less perfect is compared to that which is more perfect, the
+former is as it were a non-being. And to aqcquire an imperfect
+thing with the loss of a perfection is, simpliciter, not to acquire
+but to lose. In that way of speaking, then, when a more imperfect
+thing begins to exist as a result of the corruption of a more
+perfect thing, it is not deemed a generation simpliciter but rather
+a corruption. For that which was lost is better than that which
+was acquired.
+The second doubt concerns how the generation of one sub-
+stance is the corruption of another when they have different
+definitions.
+It is responded that the sense is that whenever one form is
+introduced to one matter, a contrary form must be expelled.
+The reason is that the matter can neither have multiple forms
+nor have no forms.
+Hence, it is not necessary for the truth of that proposition
+that only one thing be generated as a result of the corruption
+of one thing. It is possible that multiple things be generated, if
+different forms are induced in different parts of the matter. It is
+also possible for one thing to be generated from the corruption of
+multiple things, if the same form is induced in all of the matter
+[of those things].
+An example of each is when a mixture is resolved into its
+elements and when a mixture is generated from mixing elements.
+Strictly speaking, it is not necessary that some thing simpliciter
+be generated from a corrupted thing nor that a new form be
+educed from a potentiality of the matter. Rather, it is sufficient
+that some form be introduced into that matter, whether through
+generation or through aggeneration, as happens with the inges-
+tion of food, which is converted into the substance of the one
+being nourished.
+
+-- 12 of 16 --
+
+Suárez, De generatione et corruptione 1.1 13
+From these things it follows:
+First, that the sense of that proposition is causal and not
+formal. For generation and corruptions are different changes, yet
+one comes about as a result of the other.
+And this is the sense <f. 7v> of the proposition, which is
+also annotated in the Physics. It is also the common sense of
+the doctors: Giles of Rome, Marsilius, Albert, and Nifo here; St.
+Thomas in II, dist. 34, art. 2, and De veritate q. 29, art. 2 and
+6 in the body, and ST I.94.1 ad 5; Cajetan in II.13.6 ad 2, and
+Ferrariensis in SCG II.
+But enough has been said about this in its place.
+Second, it follows that that proposition is verified in the case
+of substantial generation and corruption but not in the case of
+alteration. For it is possible to acquire a quality without losing
+another. The proposition can, however, be verified in the case of
+those alterations which happen between contraries. For [in those
+cases] the introduction of one quality is the exclusion of another
+thing.
+But there is a third doubt. If generation and corruption follow
+on each other, which of them is prior? Which is posterior?
+For Aristotle seems to grant that generation comes about as
+a result of corruption and that corruption is prior.
+The contrary, however, seems to be true: generation and
+corruption are simultaneous in time. For in the same measure in
+which the generated thing begins, the corrupted thing ceases to
+be. The first being of the generated thing is the first non-being of
+the corrupted thing.
+Nor is it necessary to grant another instant in which the thing
+is, whatever Giles of Rome may say. To refer to his opinion would
+take too log. For he says that for any thing whatever there is given
+a duration of intrinsic being in which there is given an instant in
+which the thing first is and another of cessation in which it last
+is.5 From this it clearly follows that in that instant the matter
+has two forms.
+That argument suffices for opposing this opinion. Generation
+and corruption, then, exist in the same instant, for the first
+instant of non-being for the corrupted thing is the first instant of
+being for the generated thing. For corruption is like a privation in
+becoming and is not a positive change, as was said elsewhere.
+5It is unclear to me how to read the Latin of this sentence: “Dicit enim quod
+in quacumque re datur duratio intrinseci esse in qua datur instans in quo primo
+fit, et aliud desitionis in quo ultimo sit.”
+
+-- 13 of 16 --
+
+Suárez, De generatione et corruptione 1.1 14
+By reason of this simultaneity, it is said that generated things
+and corrupted things are contiguous in duration. This contiguity
+does not consist in the fact that they are simultaneous but in the
+fact that one immediately follows after the other, as we said.
+Second, we say that generation is prior by nature to corrup-
+tion and the contrary in different genera of causes. For generation
+is prior in the genera of efficient and formal causes. The agent
+causes the corruption through generation as through a first ac-
+tion, and the form of the produced thing formally expells the
+form of the corrupted thing. On the other hand, in the genus
+of dispositive cause, which is reduced to the material [cause],
+corruption is prior to generation. In order to introduce a form
+a necessary disposition, as it were, of the matter is the expul-
+sion of the other form, which in a certain way happens through
+preceding dispositions.
+For more about this, see q. 4.
+From these things a fourth doubt is resolved, which here
+can be whether the power to generate is introduced in the na-
+ture on account of corruption or whether, the other way around,
+corruption is followed per accidens.
+There is a reason for doubting. It seems to be for this reason
+that natures are not lacking the power to generate things similar
+to themselves, because otherwise they could not conserve the
+species without a succession of individuals on account of their
+corruptibility.
+Hence we see that a power of this kind is not attributed to
+incorruptible things.
+From this it seems to follow that such a power to generate is
+introduced in order to restore the nature from corruption. <f. 8>
+But the contrary is the case. Corruption follows per accidens
+from the generation of another thing. Therefore, the power to
+generate is prior to corruptibility. For this reason, such a power
+is not given in order to repair the harm of corruption. Rather,
+that evil follows per accidens on that good [of generation].
+It is responded, first, that a power of this kind was introduced
+to nature on account of the good that is bestowed to nature itself.
+For it is essentially good to act and communicate its perfection.
+Corruption follows per accidens from this beyond the intention of
+nature.
+Second, it was introduced on account of a kind of imperfec-
+tion in the ratio of being generable, namely, because the perfec-
+tion of the whole species shines perfectly in one individual, but
+
+-- 14 of 16 --
+
+Suárez, De generatione et corruptione 1.1 15
+it is maximally shown in the multiplication of individuals and
+in their diverse perfection, in the miraculous way in which one
+thing generates something similar to itself.
+But an incorruptible thing does not need the power to gener-
+ate, since the species is more perfectly represented in any given
+individual, nor can such a power be conferred on it by reason of
+its incorruptibility.
+Third, a power of this kind was introduced so that corruptible
+things can be perpetuated. For considering the nature of those
+things intrinsically, they have a dissoluble composition and for
+that reason are corruptible of themselves (having set aside the
+relation to generations).
+A human being is corruptible because the form is united to
+matter through dispositions which can be lost—we understand
+corrupted—even apart from the generation of another human
+being, as when a man kills himself, not because death tends
+to the introduction of another form, but because it removes the
+disposition necessary for the conservation of the human being.
+For these reasons, then, the power of generating is introduced
+into nature. But the power to corrupt and corruptibility itself
+were not directly intended by nature, but followed per accidens
+from the imperfection of nature.
+From these things, the last doubt is resolved, namely,
+whether corruption is natural or preternatural. It should be
+said that in attending to the natural order of things and of the
+whole universe, corruption can be called natural, since it nec-
+essarily follows in nature. But if the inclination of the natural
+thing that is corrupted is considered, corruption is absolutely
+preternatural.
+But to the contrary. For Aristotle in Physics IX and Of Meteors
+I divides corruption into natural and violent corruptions and
+divides generation likewise.
+It is replied, however, that with natural things and especially
+with living things, generations and corruptions have determinate
+periods. For a human being is generated after forty days after
+insemination, is born after nine months, and has the fixed time
+of their generations.
+The same is true in the case of corruption. For a human being
+naturally lives only for so and so long, as long as the natural heat
+can be conserved in his power of radical moisture.
+Aristotle, therefore, in the stated place, calls those genera-
+tions natural that happen for a time determined by nature. But
+
+-- 15 of 16 --
+
+Suárez, De generatione et corruptione 1.1 16
+those that are hastened or slowed down by some violence are
+called preternatural. This is not with respect to the generated
+thing but with respect to the natural order. That is, having been
+made without order or with the order of nature.
+Hence, when a human being dies <f. 9v> in old age, it is
+called a natural death. But when killed by force, the death is
+called violent. Nevertheless, if we attend to the inclination of the
+one living, either corruption is violent.
+
+-- 16 of 16 --

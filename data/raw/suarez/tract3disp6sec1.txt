@@ -1,0 +1,304 @@
+Sydney Penner
+Last revised: August 21, 2009
+Francisco Suárez, S. J.
+DE BONITATE ET MALITIA HUMANORUM ACTUUM, DISP. 6, SECT. 11
+<354>
+DISPUTATIO VI. DISPUTATION VI.
+DE BONITATE ACTUS INTERIORIS VOLUNTATIS EX FINE. ON THE GOODNESS RESULTING FROM THE END OF AN INTERIOR
+ACT OF THE WILL.
+Finis quatenus voluntatem movet et excitat, ad objectum vol- The end pertains to the object of the will insofar as it moves and
+untatis pertinet: quatenus vero interdum esse solet extra sub- 5R excites the will. But insofar as it sometimes is accustomed to being be-
+5 stantiam actus, inter circumstantias numeratur, et ideo postquam yond the substance of the act, it is numbered among the circumstances.
+de bonitate ex objecte, et circumstantiis dictum est, commode And for that reason after the goodness resulting from the object and
+explicanda sequitur bonitas ex fine sumpta, de qua re tractavit circumstances has been discussed, the goodness taken up from the end
+D. Thomas 1, 2, quæst. 18, per varios articulos, et quæst. 19, follows in a helpful explanation. St. Thomas treated this matter in [ST ]
+art. 7 et 8, quos omnes in hac disputatione exponemus. 10R IaIIæ.18, various articles, and IaIIæ.19.7–8, all of which we will explain
+in this disputation.
+10 SECTIO I. SECTION I.
+Utrum bonus finis sit necessarius ut actus voluntatis sit bonus. Whether a good end is necessary in order for an act of the will to be good.
+Notatio 1 pro
+resolutione.
+1. Primo supponendum est duobus modis versari voluntatem 1. First, it should be supposed that the will can turn in two ways con- A first note on
+behalf of a
+resolution.
+circa finem: uno modo propter se: alio modo circa alia propter 15R cerning the end. In one way, for its own sake; in another way, concern-
+ipsum: et hoc modo distingui solet in genere duplex motus vol- ing something else for its sake. And in this way two motions in kind
+15 untatis in finem, scilicet intentio et electio, comprehendendo of the will towards the end are usually distinguished, namely, intention
+tamen sub intentione simplicem voluntatem et amorem, seu and election. Still, simple will and love or desire for the end for its own
+desiderium finis propter se ipsum, et sub electione comprehen- sake should be included under intention and use and any other acts that
+dendo usum, et quemcumque alium actum, qui versatur circa 20R turn concerning some object for the sake of an extrinsic end should be
+1The Latin text is from the Vivès edition. Marginal notes—some of which, but not all, are reproduced in the Vivès edition as italicised text at the beginning of paragraphs—are
+from the 1628 edition.
+
+-- 1 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 2
+aliquod objectum propter extrinsecum finem. included under election.
+20	Notatio 2. 2. In quo est secundo advertendum duobus modis posse 2. Secondly, in this it should be noted that an act of the will can The second note.
+actum voluntatis versari circa aliquid propter finem extrinse- turn concerning something for the sake of an extrinsic end in two ways.
+cum. Uno modo in intentione diligendo, seu eligendo medium In one way, in intention by loving or electing a means for the sake of
+propter finem, ita ut tota ratio, et proximum motivum talis 25R the end so that the end itself is the entire reason and proximate motive
+actus sit ipse finis. Secundo modo fieri potest, ut ipse finis for such an act. In the second way, it can happen that the end itself
+25 solum remote terminet actum, qui refertur in ipsum: ita ut terminates the act which is referred to it only remotely, so that the will
+voluntas proxime velit aliquod objectum propter bonitatem in- proximately wills some object for the sake of its intrinsic goodness and
+trinsecam illius: et præterea referat illum actum in ulteriorem in addition refers that act to a further end. There is a difference between
+finem: inter quos actus est differentia: nam in priori licet finis 30R these acts. For in the former act, although the end seems extrinsic with
+videatur extrinsecus respectu materiæ volitæ, seu medii electi, respect to the willed matter or elected means, still, with respect to the
+30 tamen respectu ipsius voluntatis se habet, ut objectum formale will itself, it holds itself as a formal object proximately moving [the
+proxime movens ad talem actum: at vero in posteriori actu, will] to such an act. But, on the other hand, in the latter act, the end is
+finis non est objec- <col. b> tum formale, nam supponit al- not the formal object, for it supposes another proximate formal motive,
+iud motivum formale proximum, sed solum est veluti causa 35R but is only as if an extrinsic cause remotely moving and applying the
+extrinseca movens remote, et applicans voluntatem, et ut bre- will. And, in order to use short terms, we will always call the former
+35 vibus terminis utamur, priorem actum vocabimus semper pu- act ‘pure election’, but the latter act we will call an ‘act ordered to an
+ram electionem: posteriorem vero vocabimus actum ordina- extrinsic end’. For under this nature it holds itself as election or use,
+tum ad finem extrinsecum, nam sub hac ratione se habet, ut although it also participates in the nature of intention to the extent
+electio, vel usus, quamvis participet etiam rationem intentio- 40R that it turns concerning some good object for its own sake.
+nis, quatenus versatur circa aliquod objectum bonum propter
+40 se ipsum.
+Notatio 3. 3. Ex quo potest tertio adverti interiorem actum volun- 3.
+tatis, de quo solum nunc agimus, interdum esse tantum elic-
+itum ab illa, ut est, verbi gratia, prima intentio, seu primus
+amor finis: interdum vero est simul elicitus et imperatus, nam
+45 imperatus tantum nullus esse potest in actibus internis, de
+quibus agimus, sed illud est proprium externorum, nam actus
+interior voluntatis debet esse elicitus ab illa: quia vero sicut vol-
+untas potest velle actus aliarum potentiarum, ita etiam potest
+velle suos per alios actus distinctos, ideo sicut potest imperare
+50 actus eliciendos per alias potentias, ita etiam et eliciendos per
+se ipsam, et hoc modo potest dari in ipso actus simul elicitus et
+imperatus, qui necessario supponit alium pure elicitum.
+Notatio 4. 4. Unde etiam fit dupliciter posse esse actum voluntatis 4.
+imperatum ab ipsa scilicet, vel virtualiter tantum, vel etiam for-
+55 maliter. Formaliter voco eum quando actus est directe, et for-
+maliter volitus per alium actum, ut cum volo dolere de pecca-
+
+-- 2 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 3
+tis, aut volo amare Deum: virtualiter autem cum actus unus ex-
+citatur ex vi alterius, quia includit virtualem voluntatem illius,
+et hoc modo omnis electio dici valet imperata ab intentione ef-
+60 ficaci, quia posita tali intentione ex vi illius applicatur voluntas
+ad electionem, etiamsi non habeat formaliter hunc actum, volo
+eligere, quia satis est quod hic actus virtute in intentione effi-
+caci includatur: nam qui intendit finem, vult illum consequi, et
+consequenter virtute vult applicare media, atque adeo eligere
+65 illa, atque hoc modo omnes actus circa finem revocabimus ad
+elicitos et imperatos: et eliciti proprie sunt, qui versantur circa
+ipsum finem propter se, imperati vero sunt omnes qui versan-
+tur circa alia propter finem.
+1. Pronuntiatum
+certum in
+præsenti quæst.
+5. His positis nonnulla sunt certa in hac quæstione. Pri- 5. These things being in place, some things are certain regarding The first certain
+pronouncement
+regarding this
+question.
+70 mum erit intentionem finis, ut bona sit, requirere bonum this question. The first will be that in order for an intention for the
+finem eo modo, quo ipsa est propter finem. Hoc constat ex 45R end to be good, it requires a good end in the way in which it is for the
+dic- <355> tis, disput. 4, nam respectu actus, talis finis et ob- sake of the end. This is clear from what was said in disp. 4, for with
+jectum coincidunt: sicut ergo, ut actus sit bonus requirit hon- respect to an act such an end and object coincide. Therefore, just as
+estum objectum, ita intentio honesta requirit finem honestum, an act requires an honest object in order to be good, so also an honest
+75 et hoc est habere bonum finem, et esse propter illum, et hanc intention requires an honest end. And this is to have a good end and
+conclusionem posuit D. Thomas, 1, 2, quæst. 19, art. 7. 50R to be for its sake. And St. Thomas put this conclusion down in [ST ]
+IaIIæ.19.7.
+2. Pronuntiatum. 6. Secundo est certum, actum puræ electionis, ut bonus 6. Secondly, it is certain that in order for an act of pure election to The second
+pronouncement.	sit requirere honestum finem, ut sic, quod etiam sumitur ex be good, it requires an honest end . . .
+D. Thoma, eo loco, et constat eadem ratione, quia respecta
+80 talis actus, finis se habet, ut motivum et objectum formale:
+ergo, ut actus sit bonus ex illo, oportet, ut motivum sit hones-
+tum. Confirmatur: quia ille actus ex materiali objecto non ha-
+bet honestatem, quia supponimus non tendere in illud propter
+bonitatem, quæ in ipso est, ideo enim est pura electio. Dictum
+85 est autem supra, actum non accipere bonitatem ab objecto hon-
+esto, nisi tendat in illud propter honestatem ejus: ergo ut talis
+actus sit bonus, oportet ut saltem ex fine habeat honestatem.
+Unde confirmatur tandem, quia si finis ille sit malus, actus est
+malus, si indifferens, saltem ex illo fine non est bonus: ergo ut
+90 ipse sit bonus, necesse est habere finem bonum.
+Tertium. 7. Tertio colligitur hinc, ut certum, quoties actus volun- 7. Thirdly, it is gathered from this as certain how often an act of The third.
+tatis versatur circa objectum indifferens, et ordinat illud in ul- 55R the will that concerns an indifferent object and orders it to a further
+teriorem finem, requirere bonum finem, ut bonus sit. Hoc end requires a good end in order to be good. This is clear, since it does
+
+-- 3 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 4
+patet, quia non habet aliud caput unde sumat bonitatem: an not have any other head from which to take goodness. But whether
+95 vero illud sufficiat, postea dicam. this suffices, I will say later.
+Quartum. 8. Quarto est certum, quando actus voluntatis versatur 8. Fourthly, it is certain that when an act of the will concerns an The fourth.
+circa objectum, ut honestum, ut simpliciter bonum sit, nec- 60R object as honest, it is necessary that it not be ordered to a bad end in
+essarium esse ut non ordinetur ad malum finem. In hoc etiam order to be good strictly speaking. . . .
+omnes conveniunt cum D. Thoma, loco citato, estque commu-
+100 nis doctrina Sanctorum, ut videre licet apud Ambrosium, l. 2,
+de Jacob, et Vita beata, c. 4, Augustinum, 2, de Moribus Eccle-
+siæ, c. 13, et præfatione in psal. 31, et lib. de Opere monacho-
+rum, c. 26, ubi illa exponit illud Matth. 6: Attendit ne justitiam
+vestram faciatis, etc., et Lucerna corporis tui est oculus tuus: ubi
+105 nomine oculi intentionem finis intelligit, quod etiam Cassianus
+præstat, collat. 1, c. 22, quamvis, collat. 2, cap. 2, per oculum
+discretionem intelligat, sic etiam ad hoc propositum exponit
+Gregorius 1, Moral., cap. 23 et seq., illud Eccles. 1: Væ pecca-
+tori ingredienti terram duabus viis, et illud psal. 77: Cor autem
+110 eorum non erat rectum cum eo, de quo videri potest Chrysos-
+tomus, <col. b> hom. 23, ad Populum: consentit Aristoteles,
+2, Ethicorum ad Eudemum, in fine: Qualis unusquisque est, ex
+electione judicamus, non quid, sed cujus gratia, fiat expendentes:
+idem late 7, Politicorum, cap. 13: Et is curam appetitus suscipere
+115 oportet gratia mentis, et curam corporis gratia animæ: ratio est
+illa communis, quia bonum ex integra causa. Item quia motio
+in finem est aliquo modo forma, et dans speciem aliquo modo,
+et denominationem actui morali, ut infra dicam, omitto nunc
+tractare, utrum intentio proprii honesti objecti, ut sic, neces-
+120 sario excludat malum finem, nam de hoc occurrit proprius lo-
+cus, disp. 8.
+Quid sit dubium
+in præsenti
+quæstione.
+1. Opinio.
+9. His ergo stabilitis solum dubitari potest, utrum ac- 9. These things having been established, therefore, it can only be What the doubt
+with regard to
+the present
+question is.
+The first opinion.
+tus habens honestum objectum, ut sit bonus simpliciter, re- doubted whether an act having an honest object requires an extrinsic
+quirat finem bonum extrinsecum. Quidem theologi existimant good end in order to be good strictly speaking. Certain theologians
+125 esse necessarium, ut actus præter objectum bonum referatur 65R think that it is necessary that an act be referred beyond a good object
+ab operante ad ultimum finem bonum, sine qua relatione ne- by the one acting to a good ultimate end. They deny that the act is
+gant actum esse absolute bonum, et quidam ex eis dicunt esse absolutely good without this relation and some of them say that it is
+malum. Alii vero neque bonum, neque malum, sed indiffer- bad. But others say that it is neither good nor bad, but indifferent.
+entem: quæ opinio, ut minimum limitanda est ad illos actus, This opinion at a minimum should be limited to those act which have
+130 qui habent objectum distinctum ab ipso ultimo fine: nam illi 70R an object that is distinct from the ultimate end itself. For those that are
+qui versantur circa ipsum ultimum finem, ut proximum ob- directed to the ultimate end itself as proximate object (for example, love
+
+-- 4 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 5
+jectum, ut amor Dei propter se ipsum, non possunt referri for God for his own sake) cannot be referred to another end because
+in alium finem, quia nullum possunt habere meliorem, quam they can have nothing better than their own proper object. And in this
+suum proprium objectum, et hoc modo tribuitur hæc opinio way this opinion is attributed to Scotus . . .
+135 Scoto, in secundo, distinctione decima quarta, quæst. unica,
+et in 3, distinctione trigesima septima, quæstione prima, ubi
+docet nisi præcedat aliquod bonum velle circa ultimum finem,
+non posse esse bonum velle circa alia objecta: unde concludit
+si in pura lege naturæ non teneretur homo aliquando amare
+140 Deum absolute, etiam non posse teneri ad bene operandum.
+Eamdem opinionem tenet Gregorius, in 2, d. 18 et 38, Almai-
+nus, tractatu 1, Moralium, cap. 2, inclinat Bonaventura, in 2,
+Eius
+fundamentum.
+d. 41, art. 1, q. 3. Fundamentum sumi potest vel ex illo 1, ad
+Corinth. 10: Quæcumque facitis, omnia in gloriam Dei facite: si-
+145 cut ergo tenetur homo eligere Deum super omnia: ita tenetur
+omnia opera sua in eum, ut in ultimum finem referre: ergo ac-
+tus carens hac relatione, caret circumstantia necessaria ad boni-
+Confirm. tatem simpliciter. Confirmatur, nam ut actus circa creaturam
+sit bonus simpliciter, oportet, ut non sit per modum fruitionis,
+150 sed per modum usus, juxta doctriuam vulgarem Augustini, de
+qua <356> D. Thomas 1, 2, q. 10; ergo necesse est, ut ametur
+creatura per ordinem ad ultimum finem: nam hoc est illa uti.
+Dicta opinio
+varie accipitur a
+suis auctoribus.
+10. Non conveniunt autem hi auctores in explicanda hac 75R 10. These authors, however, do not agree in explaining this rela- The stated
+opinion is taken
+in different ways
+by its authors.
+relatione, qualis scilicet esse debeat: Gregorius contentus est tion, namely, in what sort of thing it is supposed to be. Gregory is
+155 relatione habituali, quam in hoc ponit, quod ex præceden- content with a habitual relation, which he takes to be a habit acquired
+tibus actibus circa ultimum finem, acquisitus, seu comparatus or built up from previous acts concerning the ultimate end by which
+fit habitus, a quo dicit cæteros actus habitualiter referri; sed, [habit] he says the remaining acts are habitually referred [to the ulti-
+ut recte notavit Almainus, hic habitus impertinens est ad sub- 80R mate end]. . . .
+sequentes actus circa alia objecta, nisi ipse proprium suum ac-
+160 tum eliciat, quia alii actus non possunt esse eliciti a tali habitu,
+cum non contineantur sub objecto illius: neque etiam pos-
+sunt esse imperati: quia habitus non imperat actum nisi medi-
+ante proprio actu. Scotus vero solum videtur requirere, quod
+præcesserit aliquis actus circa ultimum finem, ut patet ex locis
+165 citatis: sed, ut infra latius dicam, ex hoc præcise nihil boni-
+tatis communicatur sequentibus actibus, nisi ille prior actus
+per se, vel per virtutem aliquam influat in posteriores actus,
+quia alioqui nulla erit dependentia: neque causalitas unius ac-
+tus ab alio, sed sola temporis successio, quæ impertinens est ad
+
+-- 5 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 6
+170 bonitatem actus. Alii vero requirunt, ut saltem in principio cu-
+jusque actionis actualiter referatur in ultimum finem, quamvis,
+in progressu actionis possit tantum virtualiter manere in con-
+tinuatione ipsius operis; sed quamvis, ut infra dicam, hoc pos-
+sit sufficere ad virtualem relationem, tamen valde rigorosum
+175 est hominibus hanc obligationem in cunctis operibus suis im-
+ponere.
+Autoris decisio. 11. Dicendum est ergo, ad bonitatem actus voluntatis suf- 11. It should be said, therefore, that an honest object suffices for The decision of
+the author.	ficere honestum objectum, esto ab orante non referatur in ul- the goodness of an act of the will (may it be one that is not referred
+teriorem finem, ita sentiunt communiter discipuli D. Thomæ, to a more ultimate end by one praying). The followers of St. Thomas
+180 et sumitur ex ipso, in 1, 2, quæst. 19, art. 10, ad primum, di- commonly think this and it is taken from him in IaIIæ.19.10 ad 1 where
+cente: Quicumque vult aliquid sub ratione quacumque boni hon- 85R he says: ‘Whoever will anything under some aspect of honest good has
+esti, habet voluntatem, conformem divinæ in ratione volendi, a will that is conformed to the divine [will] in the reason for willing
+et ideo bene operatur, et ita explicat doctrinam illius articuli and therefore he acts well.’3 In this way he explains the doctrine of this
+et præcedentis. Idem D. Bonaventura supra, solum enim re- article and the previous ones. Likewise St. Bonaventure above, for he
+185 quirit relationem in ultimum finem intrinsecam et innatam only requires a relation to the ultimate end that is intrinsic and innate
+ipsi operi bono absque alia relatione operantis, nam hoc modo 90R to the good action itself apart from any relation of the one acting. For
+diximus supra, tractatu 1, actus omnes honestos tendere in in this way we said above in treatise I that all honest acts tend to God as
+Deum natura sua, ut in ultimum suum finem, quæ tendentia to an ultimate end by their nature. This tendency does not confer on
+non confert actui distinctam bonitatem præter illam, quam the act a distinct goodness beyond that which is taken from the object,
+190 sumit ex objecto, nisi forte distinctæ rationis secundum ra- except perhaps of a distinct nature according to generic and specific
+tionem gene- <col. b> ricam et specificam, ut potest sumi ex 95R nature, as can be gathered from St. Thomas in IaIIæ.18.7. I will explain
+D. Thoma 1, 2, quæst. 18, art. 7, quem latius infra exponam: this in more detail below. Scotus also confirms this view more broadly
+hanc etiam sententiam late confirmat Scotus, l. 2, de Natura, in De natura II, c. 20, and III, c. 4.
+c. 20, et lib. 3, cap. 4.
+195	Eius
+fundamentum.
+12. Fundamentum est, quod actus habens objectum bo- 12. The foundation of this view is that an act which has a good Its foundation.
+num habet ex illo specificam bonitatem, ut supra probatum object thereby has specific goodness, as was proven above, but it does
+est, sed ex carentia ulterioris finis non habet semper malitiam: 100R not always have badness as a result of lacking a further end. There-
+ergo sine illa relatione manebit actus bonus simpliciter. Pro- fore, it will remain a good act strictly speaking apart from that relation.
+batur consequentia, quia illa res est bona simpliciter, quæ ha- The consequence is proven: because that thing is good strictly speaking
+200 bet omnia sibi debita secundum speciem, et individuum. Unde which has everything that it ought to have according to species and in-
+Scotus non consequenter loquitur concedens actum ex caren- dividual. Hence, Soctus does not consequently say that he is conceding
+tia hujus finis non habere malitiam, et negans esse bonum, cum 105R that an act does not have badness as a result of lacking this end and deny-
+habeat bonum objectum, cum enim dicitur bonum consurgere ing that it is good when it has a good object. For when it is said that
+ex integra causa; non est intelligendum ad actum bonum sim- ‘goodness arises from a complete cause’, one should not understand that
+205 pliciter necessarium esse omne id, quod conferre valet boni- for an act to be good strictly speaking everything is necessary that has
+3Suárez’s quotation is not exact: quicumque vult aliquid sub quacumque ratione boni, habet voluntatem conformem voluntati divinae, quantum ad rationem voliti.
+
+-- 6 of 7 --
+
+Suárez De Bonitate et Malitia Humanorum Actuum disp. 6, sect. 1 7
+tatem, alioqui non est bonus actus, nisi optimus: requiritur the power to confer goodness. Otherwise, no act would be good except
+ergo, et sufficit integra causa perfectionis, et bonitatis deb- 110R the best. Therefore, a cause completed of the perfection and goodness
+itæ speciei, vel in individuo: ergo. Probatur minor proposi- owed to the species or to the individual is what is required and what suf-
+tio, quia nullum extat præceptum obligans hominem ad hujus- fices. Therefore. The minor proposition is proven, because there is no
+210 modi relationem, vel actualem, vel virtualem ex proprio ipsius precept on record that obligates a human being to making a relation of
+hominis actu circa ultimum finem faciendum, nam hoc præ- this sort, whether actual or virtual, by a proper act of the human being
+ceptum non est naturale, nulla enim sufficienti ratione con- 115R himself concerning the ultimate end. For this precept is not natural.
+vinci potest. Item satis est homini operari semper juxta ra- For no one can be convinced with sufficient reason. Also, it is enough
+tionem rectam circa objecta, quæ illi proponuntur, et plus ab for a human being always to act according to right reason concerning
+215 ipso exigere ex præcepto, præsertim naturali, superat humanas the objects which are proposed to him and to compel more from him
+vires. Item infidelis, qui verum Deum2 ignorat, potest ali- by precept, especially by natural [precept], surpasses human strength.
+quando bene operari juxta sanam doctrinam. Item puer ve- 120R Also, the infidel who does not know the true God can sometimes act
+niens ad usum rationis non tenetur statim in primo usu ratio- well according to sound doctrine. Likewise, a child approaching the use
+nis Deum in se ipso diligere, sed in his, quæ ipsi occurrunt bene of reason is not bound at once to love God in himself in the first use of
+220 moraliter se gerere, et hoc ipso virtualiter censetur converti in reason, but to conduct himself in a morally good way in those things
+Deum: nullum ergo est tale præceptum naturale, neque etiam which come up for him. And in doing that he is thought to turn vir-
+est positivum humanum, aut divinum; neutrum enim ostendi 125R tually to God. Therefore, there is no such natural precept, nor is there
+potest, et humanum quidem superaret potestatem humanam, even [such a] human or divine positive precept, for neither can be re-
+tum quia esset de re difficillima, tum quia esset de re interna, vealed. And, indeed, a human [precept like this] would surpass human
+225 divina autem præcepta positiva nulla sunt, præsertim in lege power, both because it would be a most difficult matter and because
+Satisfit contrario
+fundam. in n. 9.
+gratiæ, nisi fidei, et sacramentorum: in citatis autem, n. 9, ver- it would be an internal matter. But there are no divine positive pre-
+bis Pauli, Omnia in gloriam Dei facite, vel non habetur præcep- 130R cepts, especially in the law of grace other than [precepts] of faith and
+tum, sed consilium, vel solum præcipitur, ita semper operari, of the sacraments. Moreover, in the cited words from Paul in n. 9 (‘Do
+ut omnia opera nata sint cedere in gloriam Dei, et apta, ut refer- all things for the glory of God’), either no precept is held but rather
+230 antur in ipsum, atque adeo quod ex se in illum tendant, quod counsel or it is only commanded to always act in such a way that all
+ha- <357> bent cuncta honesta hoc ipso, quod honesta sunt; one’s actions were produced to make way for the glory of God and to
+et eodem modo tenemur cuncta referre in ultimum finem, et 135R be suitable to be referred to him and for this reason that they tend to
+præterea nihil facere, quod non tendat aliquo modo in ipsum. him out of themselves. All honest actions have this by the fact that
+they are honest. And in that way we are bound to refer everything to
+the ultimate end and, furthermore, to do nothing that does not tend to
+it in some way.
+2Vivès omits ‘Deum’.
+
+-- 7 of 7 --

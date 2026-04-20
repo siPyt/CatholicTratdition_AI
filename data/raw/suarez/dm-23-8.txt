@@ -1,0 +1,482 @@
+Sydney Penner
+Last revised: Feb. 9, 2008
+Francisco Su´arez, S. J.
+DM XXIII, SECT. 81
+WHETHER THE END MOVES ACCORDING TO ITS OWN REAL BEING OR ACCORDING TO
+BEING COGNIZED (Utrum finis moveat secundum suum esse reale, vel secundum esse
+cognitum)
+1. The former view.—The first view affirms that the end moves according to the being that
+it has in cognition, not according to being real and indeed the cognition is not so much
+a condition sine qua non, but is the formal nature of causing finally. This is thought to be
+by Avicenna, Metaph. VI, c. 5, and Soncinas holds it in Metaph. V, q. 3, and several other
+modern Thomists. And they attribute to St. Thomas, [ST] IaIIæ.31.3 ad 1, where he says:
+‘the object of animal appetite is apprehended good and therefore a diversity of apprehen-
+sions pertain in a certain way to a diversity of objects.’ And similarly in [ST] Ia.80.1 and
+2 he says that the appetite is varied according to the form or apprehension which is fol-
+lowed and thus he distinguishes three appetites: natural [appetite], sensitive [appetite],
+and will. For the first follows natural form apart from apprehension, the second fol-
+lows the form apprehended through sense, and the third follows the form apprehended
+through intellect.
+Prior sententia.—Prima sententia affirmat finem movere secundum esse quod
+habet in cognitione, non secundum esse reale; atque adeo cognitionem non
+tantum esse conditionem sine qua non, sed esse formalem rationem causandi
+finaliter. Haec censetur esse Avicen., VI Metaph., c. 5, eamque tenet Sonci-
+nas, V Metaph., q. 3, et nonnulli alii moderni2 thomistae; et attribuunt D.
+Thomae, I-II, q. 31, a. 3, ad 1, ubi ait obiectum appetitus animalis esse bonum
+apprehensum, et ideo diversitatem apprehensionis pertinere quodammodo ad diversi-
+tatem obiecti. Et similiter I, q. 80, a. 1 et 2, ait appetitum variari iuxta formam
+vel apprehensionem quam sequitur, et ita distinguit tres appetitus, naturalem,
+sensitivum et voluntatem; nam primus sequitur naturalem formam absque
+apprehensione, secundus sequitur formam apprehensam per sensum, tertius
+sequitur formam apprehensam per intellectum.
+2. The first reason for this view can drawn from this doctrine. For that which is distin-
+guished essentially on the part of the object from appetite is not only a condition, but
+also a formal reason of moving or the object of the moving. But diverse apprehension
+1Latin text is from http://perso.wanadoo.es/v963918818/d23.htm. Retrieved Feb. 5, 2008.
+2Changed from ‘modemi’.
+
+-- 1 of 11 --
+
+Su´arez, DM XXIII, sect. 8 2
+is sufficient reason for distinguishing essentially from appetite. Therefore. The minor is
+from St. Thomas above. But the major is clear from the common doctrine that powers are
+distinguished through formal objects not through the conditions of the objects. Hence, St.
+Thomas in the cited place, when he has said in the body of the article that the appetite
+is the power of motion but that it is moved by an apprehended appetible and therefore
+through that is distinguished, he applies it in the solution to the first [argument]:
+The appetible does not accidentally happen to be apprehended through sense
+or intellect, but agrees to it per se. For the appetible does not move the ap-
+petite except insofar as it is apprehended. Hence, differences in the thing ap-
+prehended are per se differences in the appetible. Hence, appetitive powers
+are distinguished according to the difference of apprehensions as according to
+their proper objects.’
+And St. Thomas has the same in [ST] IaIIæ.30.3 ad 2, where he similarly distinguishes
+natural concupiscences from unnatural ones by diverse apprehensions. And Cajetan ob-
+serves here that he was manifestly held by this response: ‘that apprehension with respect
+to the object of appetite does not hold itself as an approach of the active to the passive but
+as objective reason.’
+Ex qua doctrina potest concipi prima ratio pro hac sententia; nam id quod
+ex parte obiecti distinguit essentialiter appetitus, non est tantum conditio,
+sed etiam formalis ratio movendi, seu obiecti moventis; sed apprehensio di-
+versa est sufficiens ratio distinguendi essentialiter appetitus; ergo. Minor est
+D. Thomae supra. Maior vero constat ex communi doctrina, quod potentiae
+distinguuntur per obiecta formalia, non per conditiones obiectorum. Unde D.
+Thomas citato loco, cum dixisset in corpore articuli appetitum esse potentiam
+motam, moveri autem appetibili apprehenso et ideo per illud distingui, subdit
+in solutione ad primum: Appetibili non accidit esse apprehensum per sensum vel
+intellectum, sed per se ei convenit. Nam appetibile non movet appetitum nisi in quan-
+tum est apprehensum, unde differentiae apprehensi sunt per se differentiae appetibilis.
+Unde potentiae appetitivae distinguuntur secundum differentiam apprehensorum si-
+cut secundum propria obiecta. Et idem habet D. Thomas, I-II, q. 30, a. 3, ad 2, ubi
+similiter ex diversa apprehensione distinguit concupiscentias naturales a non
+naturalibus; et Caiet. ibi notat ex illa responsione manifeste haberi quod appre-
+hensio respectu obiecti appetitus non se habet ut approximatio activi ad passivum, sed
+ut ratio obiectiva.
+3. And this reason is confirmed: for in the same intellective appetite, the effect of the
+final cause is greatly varied by the diversity of cognition. But the condition or application
+of the cause along cannot suffice for such diversity. The antecedent is thought, for the
+cognition of God through vision clear or obscure, intuitive or abstractive, causes, as many
+wish, specific diversity in love, and, at a minimum, is in the cause so that one love is free
+and another necessary. Again, the same apprehended good absolutely causes love so that
+
+-- 2 of 11 --
+
+Su´arez, DM XXIII, sect. 8 3
+absent and needing to be acquired it causes desire or intention. But as present it causes
+joy. These acts are diverse in species. And sadness and fear are distinguished by the same
+proportion according to evil apprehended as absent or present. Again, acts of virtue and
+vice in the will are not distinguished by an object according to its real being but according
+to its apprehended being. For from here it happens that if someone wishes to give alms
+out of a wrong conscience, thinking that he is acting well, he does not perform an act of
+vice but virtue, properly and according to the true species of real virtue. Finally, a similar
+argument is that good does not move by the kind it is but by the kind that is apprehended.
+And therefore we said with Aristotle that for causality of the end it does not report what
+kind it is but what kind it is estimated (existimetur). Moreover, to be estimated is the same
+as to be apprehended.
+Et confirmatur haec ratio; nam in eodem appetitu intellectivo, effectus causae
+finalis plurimum variatur ex diversitate cognitionis; sola autem conditio vel
+applicatio causae non posset sufficere ad tantam diversitatem. Antecedens
+patet, nam cognitio Dei per visionem claram vel obscuram, intuitivam aut
+abstractivam, causat, ut multi volunt, diversitatem specificam in amore, et,
+ut minimum, est in causa ut unus amor sit liber et alter necessarius. Rursus
+idem bonum apprehensum absolute causat amorem, ut absens et acquiren-
+dum causat desiderium vel intentionem; ut praesens vero causat gaudium,
+qui actus specie diversi sunt; et eadem proportione distinguuntur circa malum
+apprehensum ut absens vel praesens, tristitia et timor. Rursus actus virtutis et
+vitii in voluntate non distinguuntur ex obiecto secundum eius esse reale, sed
+secundum eius esse apprehensum; hinc enim fit ut, si quis ex conscientia er-
+ronea velit eleemosynam facere putans se malefacere, ille non sit actus virtutis
+sed vitii; et e converso, qui ex ignorantia invincibili vult furari ut eleemosy-
+nam faciat, putans se bene facere, non facit actum vitii, sed virtutis, proprie
+et secundum veram speciem realem virtutis. Denique simile argumentum est,
+quod bonum non movet quale est, sed quale apprehenditur; et ideo supra
+diximus cum Aristotele ad causalitatem finis non referre qualis sit, sed qualis
+existimetur; esse autem existimatum idem est quod esse apprehensum.
+4. The second principal reason for this view is that the former to be that which the final
+cause per se and alone requires in order to cause is not only a condition but a formal
+principle of causing. But to be existent is not a requisite for causing by the end. However,
+to be cognized is per se necessary and that alone suffices. Therefore. The majow seems to
+be known from its terms, because the formal principle of causing is nothing other than to
+be that which per se first and formally is required in a cause so that it can cause. Hence
+in the above [sections] we often said, and also will say below, that to be existent is not
+a requisite condition with respect to the efficient cause but the same nature of causing,
+because it is the entity itself of the thing and first to be that which is required for causing.
+The minor, moreover, as long as the first part was satisfactorily proven in the above sec-
+tion and that necessity of the apprehension is through itself from the strength of the final
+cause, is clear from the manner of its causality, which is through metaphorical motion.
+
+-- 3 of 11 --
+
+Su´arez, DM XXIII, sect. 8 4
+for this proceeds through itself from objective being, not from the being of the thing in
+itself. Indeed, as long as the other part is clear from what was said, for it was shown that
+the end often causes before it exists. More correctly, even one which never will be or even
+sometimes those which cannot even be, if nevertheless it is apprehended as possible.
+Secunda ratio principalis pro hac sententia est quia illud esse quod per se ac
+solum requirit finalis causa ut causet, non est tantum conditio, sed formale
+principium causandi; sed esse existentiae non est requisitum in fine ad cau-
+sandum; esse autem cognitum est per se necessarium et illud solum sufficit;
+ergo. Maior videtur nota ex terminis, quia nihil aliud est esse formale prin-
+cipium causandi quam esse id quod per se primo ac formaliter requiritur in
+causa ut causare possit. Unde in superioribus saepe diximus, et inferius etiam
+dicemus, esse existentiae respectu causae efficientis non esse conditionem req-
+uisitam, sed ipsam rationem causandi, quia est ipsa entitas rei et primum esse
+quod ad causandum requiritur. Minor autem quoad priorem partem satis pro-
+bata est in superiori sectione, et, quod illa necessitas apprehensionis sit per se
+ex vi causae finalis, constat ex modo causalitatis eius, qui est per metaphori-
+cam motionem; haec enim per se procedit ex esse obiectivo, non ex esse rei
+in se. Quoad alteram etiam partem constat ex dictis, nam ostensum est saepe
+finem causare antequam sit; immo et illum qui nunquam futurus est, vel etiam
+interdum qui nec esse potest, si tamen ut possibilis apprehendatur.
+5. The latter contrary view.—The second view is that the end moves according to real being
+and that being is the formal reason for moving and consequently cognition of the end
+is only a condition or necessary approach for this kind of cause. This opinion is widely
+taught by Cajetan [commenting on ST] IaIIæ.1.1, around ad 1, and he thinks that it is the
+view of Averroes in Metaph. XII, com. 36, to the extent that he says that the health which
+is in the thing causes finally, although just as it is in the soul it effects a desire for it. And
+it can be taken from St. Thomas [ST] Ia.82.3, insofar as he says: ‘the will is inclined to the
+thing itself just as it is in itself’; and from the Philosopher, who is cited here, in Metaph. VI,
+text. 8, saying: ‘good and bad, which are the objects of the will, are in things’. Francesco
+Silvestri holds the same opinion in [his commentary on] SCG I, c. 44, where he says that to
+be in the mind is only a requisite condition for finalizing. Javellus also holds it in Metaph.
+V, q. 6; and Ockham in [Sent.] II, q. 3, a. 2; and Biel in [Sent.] II, dist. 1, q. 1, a. 3; and it is
+also taken from Scotus in [Sent.] I, dist. 1, q. 4.
+Posterior sententia contraria.—Secunda sententia est finem movere secundum
+esse reale illudque esse rationem formalem movendi, et consequenter cog-
+nitionem finis esse tantum conditionem seu approximationem necessariam
+huiusmodi causae. Hanc opinionem docuit late Caietanus, I-II, q. 1,. a. 1, circa
+ad 1, existimatque esse sententiam Averrois, XII Metaph., com. 36, quatenus
+ait sanitatem quae est in re causare finaliter, licet prout est in anima efficiat
+desiderium sui. Et potest sumi ex D. Thoma, I, q. 82, a. 3, quatenus ait volun-
+tatem inclinari ad ipsam rem prout in se est; et ex Philosopho, quem ibi citat, in VI
+
+-- 4 of 11 --
+
+Su´arez, DM XXIII, sect. 8 5
+Metaph., text. 8, dicentem bonum et malum, quae sunt obiecta voluntatis, esse in
+rebus. Eamdem opinionem tenet Ferrariensis, I cont. Gent., c. 44, ubi dicit esse
+in mente tantum esse conditionem requisitam ad finalisandum. Tenet etiam
+Iavellus, V Metaph., q. 6; Ocham, In II, q. 3, a. 2; et Gabr., In II dist. 1, q. 1, a.
+3; et sumitur etiam ex Scoto, In I, dist. 1, q. 4.
+Judgement is brought between the stated views (Fertur inter praedictas sententias iudicium)
+6. Between these views this latter one seems to me to be true, strictly speaking. And
+the whole matter appears so clear that there can hardly be strength for dissenting except
+some equivocation in the words themselves confounds matters. That will easily be clear,
+if we distinguish those in which the authors of either opinion agree or those which are so
+manifest that it is necessary to agree in them.
+Inter has sententias haec posterior mihi videtur simpliciter vera; et res tota tam
+clara apparet ut vix possit esse dissentiendi ratio, nisi in vocibus ipsis aliqua
+aequivocatio misceatur. Quod patebit facile, si ea in quibus auctores utriusque
+opinionis conveniunt, vel tam manifesta3 sunt ut in eis convenire necessario
+debeant, distinxerimus.
+7. The end does not need actual existence so that it causes.—And so first all agree that the end
+does not need real existence or having been exercised (as they say) for causing finally, by
+which sense it is clear that to be existent is not the nature of causing finally nor, indeed, a
+necessary condition. I add, furthermore, that neither is being of a true essence or being of
+possible existence really necessary for causing finally. For apprehension suffices. And by
+this alone they for the greater part prove the reasons for the first opinion.
+Finis ut causet non eget existentia actuali.—Primo itaque conveniunt omnes fi-
+nem non indigere existentia reali, seu exercita (ut vocant) ad causandum fi-
+naliter, quo sensu clarum est esse existentiae non esse rationem causandi fi-
+naliter, immo nec conditionem necessariam. Addo etiam neque esse essentiae
+verum aut esse existentiae possibile reipsa esse necessarium ad causandum
+finaliter; nam apprehensum sufficit, et hoc tantum magna ex parte probant
+rationes primae opinionis.
+8. The will is not brought to pursuing the end in being cognized, but in being real. Second, it is
+certain that the will does not tend to the end so that in it [i.e., the end] being cognized as
+such it is pursued, but so that in proper real being, which is apprehended in it according
+to its condition, the former is followed, and in this sense it is most certain that being in
+cognition is not the reason for finalizing, but only a necessary condition. The former part
+of the example and of the thing itself becomes evident in the saying. For anyone who
+intends health or riches does not intend to cognize them or to think about them, but to
+really pursue the thing according to true real existence, and likewise for other [ends].
+3Changed from ‘manifiesta’.
+
+-- 5 of 11 --
+
+Su´arez, DM XXIII, sect. 8 6
+The reason, moreover, should be taken from the statements in sect. 5 that the nature of a
+final cause’s formal causing is its goodness and agreeability. The thing, however, which
+moves as end does not have its goodness and agreeability in being objective or cognized,
+but in order to itself be real. For health is agreeable as belonging [to one], not as being
+apprehended. Therefore, the formal nature of moving is its real being, insofar as it is
+agreeable or good or the its real agreeability insofar as real being is founded in it and it
+delivers [something] good and appetible.
+It is confirmed because the end according to that being moves and according to that the
+appetite of the agent is satisfied after it [i.e., the end] has been attained and without which
+it would not be at rest. But then the end is compared to the will according to real being
+and not according to apprehended being. Therefore. The major is clear, first, because that
+is first in intention which is last in execution and second also because the end is that to
+which the impetus of the agent tends. That to which it tends, moreover, is that by the
+achievement of which it rests. The minor is also clear, because the soul is not at rest by the
+apprehension of the end unless it is attained in reality by the soul. And apart from this
+kind of attainment the intention of the agent is thought to be frustrated. And the authors
+of the first opinion do not deny this, Medina4 finally admits in [his commentary on ST]
+IaIIæ.1.1, although perhaps not entirely appropriately, as will be clear from what will be
+said.
+Voluntas non fertur ad assequendum finem in esse cognito, sed in esse reali.—Secun-
+do certum est voluntatem non tendere in finem ut illum in esse cognito ut sic
+assequatur, sed ut in proprio esse reali, quod in eo apprehendit iuxta eius con-
+ditionem, illud assequatur, atque hoc sensu certissimum est esse in cognitione
+non esse rationem finalisandi, sed solum conditionem necessarium. Prior pars
+exemplis et ipsius rei declaratione fit evidens. Nam qui intendit sanitatem aut
+divitias, non intendit illas cognoscere aut de illis cogitare, sed reipsa consequi
+secundum veram existentiam realem, et idem de aliis. Ratio autem sumenda
+est ex dictis sect. 5, quod ratio formalis causandi finalis causae est bonitas eius
+et convenientia; res autem quae movet ut finis non habet suam bonitatem et
+convenientiam in esse obiectivo seu cognito, sed in ordine ad suum esse reale;
+sanitas enim est conveniens ut insit, non ut apprehendatur; ergo formalis ra-
+tio movendi est reale esse eius, quatenus conveniens seu bonum, seu realis
+convenientia eius, quatenus in ipso esse reali fundatur et illud reddit bonum
+et appetibile. Confirmatur, quia finis secundum illud esse movet secundum
+quod satiat appetitum agentis postquam illum est consecutus et sine quo non
+quiescit; sed ita comparatur finis ad voluntatem secundum esse reale et non
+secundum esse apprehensum; ergo. Maior constat, tum quia illud est primum
+in intentione quod est ultimum in exsecutione; tum etiam quia finis est id in
+quod tendit impetus agentis; in id autem tendit quo consecuto quiescit. Minor
+etiam est clara, quia non quiescit animus apprehensione finis nisi illum in re
+ipsa consequatur, et absque huiusmodi consecutione frustrari censetur inten-
+4Which one? Su´arez cites more than one. But perhaps Bartholomew Medina is the likeliest one—
+certainly, he wrote a commentary on the Prima Secundæ.
+
+-- 6 of 11 --
+
+Su´arez, DM XXIII, sect. 8 7
+tio agentis. Et hoc non negant auctores primae opinionis, ut tandem fatetur
+Medina, I-II, q. 1, a. 1, quamquam fortasse non admodum consequenter, ut ex
+dicendis constabit.
+9. I said, moreover, that the will tends to the end according to real being along with its
+condition, because sometimes it happens that the end itself of the acting will is nothing
+other than the cognition of some object, as when we intend or desire to see God. For then
+that being seen pertains to the formal nature of such a final cause. And it is similar when
+a human desires as end solely the contemplation or speculation of some truth. And also
+in this way the theologians say that sometimes a human can be delighted in a cognition
+alone and not in the thing cognized, except according to being cognized, by which in this
+case the act receives its goodness or badness.
+But although the cognition itself is desired as end in these and similar examples, yet it
+has its own proper real being according to which it is desired. And such a cognition then
+is also not the nature of finalizing insofar as any prerequisite on the part of the end as it
+moves the will but insofar as it is a certain action which in itself is judged agreeable and
+as such is put forward to the will as sufficient for moving it or as the terminus to which
+it tends. And so according to the appropriate division that is true for everyone the end
+moves according to real being which by means of an apprehension is put before the will.
+For according to that it is judged agreeable and, insofar as it is judged agreeable, it moves
+[the will].
+Dixi autem voluntatem tendere in finem secundum esse reale iuxta eius con-
+ditionem, quia interdum contingit ipsum finem voluntatis operantis non esse
+alium quam obiecti alicuius cognitionem, ut cum intendimus seu desidera-
+mus videre Deum; tum enim illud esse visum pertinet ad rationem formalem
+talis causae finalis; et simile est quando homo appetit ut finem solam con-
+templationem vel speculationem alicuius veritatis. Et hoc etiam modo dicunt
+theologi interdum hominem posse delectari in sola cognitione et non in re cog-
+nita, nisi secundum esse cognitum, a quo tunc actus accipit suam bonitatem
+vel malitiam. Quamquam vero in his et similibus exemplis cognitio ipsa ap-
+petatur ut finis, tamen ipsa habet suum proprium esse reale, secundum quod
+appetitur, et talis cognitio etiam tunc non est ratio finalisandi in quantum est
+quid praerequisitum ex parte finis ut voluntatem moveat, sed in quantum est
+actio quaedam quae per se iudicatur conveniens et ut sic proponitur voluntati
+tamquam sufficiens ad movendum illam, seu tamquam terminus in quem ten-
+dat. Atque ita secundum accommodatam distributionem verum in universum
+est finem movere secundum esse reale, quod media apprehensione obiicitur
+voluntati; nam secundum illud iudicatur conveniens, et quatenus conveniens
+iudicatur, movet.
+10. The cognition alone is a necessary condition for causing finally.—Third, it must be said
+that the apprehension or its judgement of real agreeability properly and formally speak-
+ing is not the nature of moving or finalizing, but is a necessary condition through the
+
+-- 7 of 11 --
+
+Su´arez, DM XXIII, sect. 8 8
+mode of necessary approach to such a genus of causality. As long as this more truly and
+properly is said by the second view and is shown because to be in cognition is not the
+goodness or agreeability according to which the end moves, as has been proven. There-
+fore, the cognition itself is not the formal nature of the end itseld as it moves. Therefore,
+it will be a necessary condition. The consequence is thought by a sufficient enumeration
+of the parts.I.e., induction? Wherefore, just as with an efficient cause a local approach is a
+requisite condition, so with the final cause a quasi-animal or -vital approach is a requisite
+condition for such a mode of causing, because since the motion of this cause is metaphori-
+cal, it ought to happen through a natural concordance of cognitive and appetitive powers,
+as has often been said.
+Cognitio tantum est conditio necessaria ad causandum finaliter.—Tertio dicendum
+est apprehensionem seu iudicium illius convenientiae realis proprie ac for-
+maliter loquendo non esse rationem movendi seu finalisandi, sed esse con-
+ditionem necessariam per modum approximationis necessariae ad tale genus
+causalitatis. Quoad hoc verius ac proprius loquitur secunda sententia, et pro-
+batur quia esse in cognitione non est bonitas seu convenientia secundum quam
+finis movet, ut probatum est; ergo nec cognitio ipsa est ratio formalis ipsi fini
+ut moveat; erit ergo necessaria conditio. Patet consequentia a sufficienti par-
+tium enumeratione. Quocirca, sicut in causa efficienti approximatio localis
+est conditio requisita, ita in causa finali approximatio quasi animalis seu vi-
+talis est requisita conditio ad talem causandi modum, quia cum motio huius
+causae metaphorica sit, debet fieri per naturalem consensionem potentiarum
+cognoscitivae et appetitivae, ut saepe dictum est.
+11. To this it should be added, fourth, that this kind of cognition is such by its nature or
+rather by mediating it that the nature or principle of formally finalizing can vary, not be-
+cause it itself is the formal motive nature, but because it applies diverse formal natures of
+moving. And in this the authors of the first view seem to have laboured in equivocation.
+Moreover, it is declared from the stated similarity of the efficient cause. For although that
+which applies the cause through itself acting is only the cause per accidens, nevertheless, if
+the power is for applying diverse causes having diverse principles of acting, it will be able
+by that part to vary the formal nature of acting and consequently to be the cause of diver-
+sity in effect. Such therefore, because apprehensive strength is unvirsal, can be the cause
+or occasion so that a nature of this kind is varied. And by a similar reason apprehensive
+strength can apprehend the same material thing under diverse reasons, either truly or ap-
+parently. And for that reason also come forth so that from a diversity of apprehension or
+judgement the motion or causality of the end is changed, not because that variety comes
+forth formally and through itself from the apprehension, but because it formally applies
+a diverse end, as was said.
+Hinc addendum est quarto hanc cognitionem talem esse ut ratione illius, vel
+potius mediante illa, possit variari ratio seu principium formale finalisandi,
+non quia ipsa sit ratio formalis motiva, sed quia applicat diversam rationem
+
+-- 8 of 11 --
+
+Su´arez, DM XXIII, sect. 8 9
+formalem movendi. Et in hoc videntur aequivocatione laborasse auctores pri-
+mae sententiae. Declaratur autem ex praedicto simili causae efficientis; quam-
+vis enim is qui applicat causam per se agentem solum sit causa per accidens,
+tamen si potens sit ad applicandas diversas causas habentes diversa principia
+agendi, poterit ex ea parte variare rationem formalem agendi, et consequenter
+esse causa diversitatis in effectu. Sic igitur, quia vis apprehensiva universalis
+est, potest applicare diversa obiecta et diversas rationes formales movendi; et
+ideo, licet ipsa non sit ratio finalisandi, potest esse causa vel occasio ut huius-
+modi ratio varietur. Et simili ratione potest vis apprehensiva eamdem mate-
+rialem rem sub diversis rationibus apprehendere, aut vere aut apparenter; et
+inde etiam provenit ut ex diversitate apprehensionis vel iudicii mutetur mo-
+tio vel causalitas finis; non quia formaliter ac per se illa varietas proveniat ex
+apprehensione, sed quia applicat finem formaliter diversum, ut declaratum
+est.
+The foundation of the first view is set free (Fundamenta prioris sententiae expediuntur)
+12. And according to this last assertion all the testimony and reasons which the former
+view brought forward are best revealed and set free. For whenever St. Thomas says
+that a diversity of apprehensionm pertains to a diversity of object, ‘pertains’ should be
+understood not formally but applicatively, if I may say it thus. Or it can be said in another
+way (and it comes to the same) that diversity of apprehension, not that which it holds
+on the part of the subject, but that which it holds on the part of the object, varies the
+appetite and its object and the causality of the end. Moreover, I call the conditions of
+apprehension on the part of the subject which is clear or obscure, certain or probably,
+and similarly, which overflow to the application of the object under diverse reasons of
+goodness or agreeability. However, when the diversity of apprehension concerns this, it
+is also said to be diverse on the part of the object.
+Et iuxta hanc ultimam assertionem declarantur optime et expediuntur testi-
+monia omnia et rationes quas prior sententia afferebat. Quandocumque enim
+D. Thomas ait diversitatem apprehensionis pertinere ad diversitatem obiecti,
+intelligendum est pertinere non formaliter, sed applicative, ut sic dicam. Vel
+aliter dici potest (et in idem redit) diversitatem apprehensionis, non quae se
+tenet ex parte subiecti, sed quae se tenet ex parte obiecti, variare appetitum et
+obiectum eius et causalitatem finis. Voco autem conditiones apprehensionis ex
+parte subiecti quod sit clara vel obscura, certa aut probabilis, et similes, quae
+non redundant in applicationem obiecti sub diversa ratione bonitatis vel con-
+venientiae; quando autem diversitas apprehensionis ad hoc pertingit, dicitur
+esse diversa etiam ex parte obiecti.
+13. Hence, with regards to the first reason, the major should be distinguished. For what
+on the part of the object is distinguished essentially from appetite, if through itself in
+the first place it makes that, it will be the formal nature of the object. But if it makes
+only that as applying to a diverse formal object, it will be able to be only a requisite
+
+-- 9 of 11 --
+
+Su´arez, DM XXIII, sect. 8 10
+condition. And in this way the apprehension concurs with this diversity. And intellective
+and sensitive appetite must be understood to be distinguished according to the same
+doctrine, because they follow the apprehension of sense of intellect. For if this distinction
+should be reduced to the apprehended object, it consists in that that through the sense
+it is applied to the object under a diverse reason of agreeability to sensitive and rational
+nature. And althought sometimes the intellect can apprehend and propose the nature of
+agreeability to the sensitive nature, nevertheless this is with respect to it as if materially.
+For the adequate nature of it is more universal and in that itself it applies the formal
+nature of such a good far differently than sense, and so that whole diversity, to the extent
+that by the apprehension it overflows to the object, does not happen except as through
+the condition having been applied.
+And the same should be said about all the examples which are adduced for confirmation.
+For vision and abstractive cognition, if perhaps they are in a cause, so that loves are di-
+verse in species, is for this reason, namely, that the goodness of God through vision is
+also applied very differently on its part, so that according to all its perfections formally
+and distinctly cognized in one, most simple, perfect, and clear vision it moves the will
+of the one seeing, when yet in abstractive cognition it only moves as cognized under the
+determinate nature of some attribute or under some nature of some very blurred good.
+And similarly if necessity, which is greater in one love than in another, comes from the
+object, it is because they are apprehended through the vision and object and love of it as
+here and now more necessary. Also such a good absent or present does not vary the act
+on account on only the apprehensions, but because the thing itself and the condition in
+the apprehended thing itself was started to cause a diverse motion in the appetite. And
+the same reason applies to the remaining examples, as each person will easily be able to
+understand by the application of each to the given doctrine.
+Unde ad primam rationem distinguenda est maior; nam quod ex parte obiecti
+distinguit essentialiter appetitus, si id per se primo faciat, erit ratio formalis
+obiecti; si vero solum id faciat ut applicans diversum obiectum formale, esse
+poterit tantum conditio requisita; atque hoc modo concurrit apprehensio ad
+hanc diversitatem. Et iuxta eamdem doctrinam intelligendum est appetitum
+intellectivum et sensitivum distingui, quia consequuntur apprehensionem sen-
+sus vel intellectus; nam si haec distinctio reducenda est ad obiectum apprehen-
+sum, in eo consistit quod per sensum applicatur obiectum sub diversa ratione
+convenientiae ad naturam sensitivam vel rationalem. Et quamvis interdum
+intellectus possit apprehendere et proponere rationem convenientiae ad natu-
+ram sensitivam, tamen hoc est respectu illius quasi materiale; nam adaequata
+ratio eius universalior est, et in eo ipso longe aliter applicat rationem formalem
+talis boni quam sensus, et ita tota illa diversitas, quatenus ex apprehensione in
+obiectum redundat, non fit nisi ut per conditionem applicantem. Atque idem
+dicendum est ad omnia exempla quae in confirmationem adducuntur; nam
+visio et abstractiva cognitio, si fortasse in causa sunt, ut amores sint diversi
+in specie, ideo est quia bonitas Dei per visionem longe aliter applicatur etiam
+ex parte eius, ita ut secundum omnes perfectiones suas formaliter ac distincte
+
+-- 10 of 11 --
+
+Su´arez, DM XXIII, sect. 8 11
+cognitas in una simplicissima perfectione clare visa moveat voluntatem viden-
+tis, cum tamen in cognitione abstractiva solum moveat ut cognita sub deter-
+minata ratione alicuius attributi vel sub aliqua ratione boni valde confusi. Et
+similiter si necessitas, quae est maior in uno amore quam in alio, provenit ex
+obiecto, ideo est quia per visionem et obiectum et amor eius apprehendun-
+tur ut hic et nunc magis necessaria. Sic etiam bonum absens vel praesens non
+variant actus propter solas apprehensiones, sed quia ipsa res et conditio in ipsa
+apprehensa nata est diversum motum causare in appetitu; eademque ratio est
+de caeteris exemplis, ut facile unusquisque intelligere poterit applicando sin-
+gula ad doctrinam traditam.
+14. To the second argument is responded that there can be equivocation in either of the as-
+sumed premisses. For when in the major is said that the former being of the cause which
+by itself and alone is required for causing is the formal nature of causing, it it is under-
+stood concerning being of existence having been exercised, it is false in the final cause,
+because, as was frequently said, it does not always require this being for causing. But it it
+is understood concerning the being of existence, strictly speaking, namely, by abstracting
+from that which is then when it causes or that will be in the future or is estimated, then it
+is true that some being of this sort is in the cause the nature of causing. But in this sense
+the minor is false, because, although the end when it first moves in reality itself often does
+not have this existence except in apprehension, just as it is said to be first in intention, yet
+it is put before and is represented in that apprehension according to some real being on
+account of which the will is moved.
+Ad secundam rationem respondetur, in utraque praemissa sumpta posse esse
+aequivocationem. Cum enim in maiori dicitur illud esse causae quod per se
+ac solum requiritur ad causandum esse rationem formalem causandi, si intel-
+ligatur de esse existentiae exercito, falsum est in causa finali, quia, ut saepe
+dictum est, non semper requirit hoc esse ad causandum. Si vero intelligatur
+de esse existentiae absolute, scilicet abstrahendo ab eo quod tunc sit quando
+causat, vel quod futurum sit, aut existimetur, sic verum est rationem causandi
+esse in causa aliquod huiusmodi esse. In hoc vero sensu falsa est minor, quia,
+licet finis cum primo movet in re ipsa saepe non habeat hanc existentiam nisi
+in apprehensione, quomodo dicitur esse primum in intentione, tamen in illa
+apprehensione obiicitur et repraesentatur secundum aliud esse reale, propter
+quod voluntas movetur.
+
+-- 11 of 11 --

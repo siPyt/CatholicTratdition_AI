@@ -1,0 +1,192 @@
+Last revision: December 18, 2010	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 3, SECT. 51
+© Sydney Penner 2010
+<35, col. b>2
+Utrum necesse sit, hominem semper operari propter finem ulti- Whether it is necessary that a human being always act for the sake of an
+mum simpliciter a se intentum. unqualifiedly ultimate end that he himself intends.
+Duplex sensus
+quæstionis.
+1. Duplex potest esse sensus quæstionis, primus absolutus, an 1. The question can have two senses. The first is absolute: whether it Two senses of the
+question.	necessarium sit præcedere in homine aliquam intentionem finis is necessary that there precede in a human being some intention for an
+5 ultimi absolute propter quem operetur. Secundo ex hypoth- 5R absolutely ultimate end for the sake of which he acts. The second is by
+esi, an postquam homo habuit talem intentionem, necessarium hypothesis: whether after a human being had such an intention, it is nec-
+sit, ut ab illa procedant omnes alii actus circa fines particulares. essary that all other acts about particular ends proceed from it.
+Expeditur prior
+sensus.
+Prior sensus resolutus fere est ex dictis in prima sectione hujus The former sense was nearly resolved by what was said in the first The former sense
+is explained.	disputationis, pauca vero addenda sunt propter quosdam auc- section of this disputation, but a few words should be added because of
+10 tores, qui necessarium putant, ut ante omnes intentiones finem 10R certain authors who think that in a human being acting rationally an in-
+particularium, antecedant in homine secundum rationem oper- tention for the universal ultimate end must precede before every intention
+ante, intentio finis ultimi universalis, non quidem finis ultimi for a particular end—[a universal ultimate end, but] not indeed a material
+materialis, quia non est necesse, ut in aliqua re particulari pri- ultimate end, because it is not necessary for an unqualifiedly ultimate end
+mum omnium ponatur finis ultimus simpliciter, quia neque hoc to be placed first of all in some particular thing, for neither is this neces-
+15 est necessarium ad posteriores actus, qui versantur circa particu- 15R sary for the posterior acts which are turned to particular goods. And this
+laria bona, nec fere est homini possibile, quia constituere finem is hardly possible for a human being, because to constitute the ultimate
+ultimum in hac, vel illa re, est valde difficile, et magnam cog- end in this or that thing is very difficult and requires powerful cognition.
+De 2. sensu
+placitum
+aliquorum.
+nitionem requirit: loquuntur ergo hi auctores de fine ultimo Therefore, these authors speak of the formal ultimate end, that is, of the Of the 2nd sense
+pleasing to some.	formali, id est, de complemento totius boni, volunt enim nec- complement of all good. For they want it to be necessary that the first
+20 essarium esse, ut primus actus humanæ voluntatis sit circa fe- 20R act of a human will is about felicity or about the good in general or about
+licitatem, vel circa bonum in communi, seu circa perfectum et the perfect and complete good of a human being, so that acts concerning
+completum bonum ho- <36> mini, ut ex hoc affectu oriantur particular goods arise from this disposition (affectu).
+actus circa particularia bona. Huic sententiæ videtur favere di- St. Thomas seems to favour this view in these words from [ST ]
+vus Thomas, prima secunda, quæst. 1, art. 6, ad 3, in illis ver- IaIIæ.1.6 ad 3: ‘The force of the first intention which is with respect to
+25 bis: Virtus primæ intentionis, quæ est respectu ultimi finis, movet 25R the ultimate end moves in any desire for whatever thing, even if one does
+in quocumque appetitu cujuscumque rei, etsi de ultimo fine actu not actually think about the ultimate end’. The same seems to be thought
+non cogitet. Idem videtur sentire in 1 part., quæst. 60, art. 2, in Ia.60.2 [co.]; in Capreolus, [Sent.] I, dist. 1, q. 5, art. 1, concerning the
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the 1628
+edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès
+edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 5 2
+et Capreolus, in 1, dist. 1, quaest. 5, art. 1, circa primam con- first conclusion and in [Sent.] IV, dist. 49, q. 3, a. 1; and in Cajetan, [ST ]
+clusionem, et in 4, dist. 49, quæst. 3, a. 1, et Cajetanus, eadem IaIIæ.1.6 and in Ia.22.2, dub. 2. They usually also cite Durandus in [Sent.]
+30 1, 2, et 1 part., quæst. 22, art. 2, dub. 2. Citari etiam solent 30R II, dist. 38, q. 3 and dist. 39, q. 3 and Henry [of Ghent] Quodl. III, q. 17.
+Durandus, in 2, dist. 38, quæst. 3, et dist. 39, quæst. 3, et Hen- But these authors say nothing expressly but only that the will is naturally
+riquez, quodlibeto 3, quæst. 17. Sed hi auctores nihil expresse carried to a good proposed to it.
+dicunt, sed solum voluntatem naturaliter ferri in bonum sibi
+propositum.
+35	Eorum
+fundamentum
+primum.
+2. Fundamentum hujus sententiæ est primo, quia voluntas 2. The foundation of this view is first because the will cannot love Their 1st
+foundation.	non potest amare bonum imperfectum, nisi propter perfectum: an imperfect good except for the sake of a perfect [good]. Moreover, any
+quodlibet autem particulare bonum est imperfectum: ergo vol- 35R particular good you please is imperfect. Therefore, the will does not desire
+untas non appetit illud nisi ex vi intentionis boni perfecti et con- it except by strength of an intention for a perfect and complete good.
+Secundum. summati. Secundo, quia sicut secundæ causæ efficientes, pen- Secondly, because just as second efficient causes depend essentially in 2nd.
+40 dent essentialiter in causalitate sua ab influxu primæ causæ, et their causality on the influx of a first cause, so also particular ends depend
+ita particulares fines pendent ab ultimo: ergo sicut non potest on an ultimate [end]. Therefore, just as a second cause cannot act without
+causa secunda agere, nisi movente prima, ita non possunt fines 40R the moving of a first [cause], so particular ends cannot move without the
+particulares movere nisi movente ultimo, quia non movet nisi moving of an ultimate [end], because they do not move except by virtue
+virtute præcedentis intentionis: ergo necesse est ut hujusmodi of the preceding intention. Therefore, it is necessary that the intention
+45	Tertium. intentio præcedat. Tertio, quia, juxta Aristotelem, ita se habet precede in this way.
+finis ultimus in appetibilibus, sicut prima principia in specula- Thirdly, because, according to Aristotle, the ultimate end is related 3rd.
+bilibus: sed non potest intellectus assentire conclusionibus, nisi 45R to desirable things just as the first principle to speculative things. But
+præcedat assensus circa principia: ergo nec potest voluntas ferri the intellect cannot assent to conclusions without assent to the principle
+in particulares fines nisi præcedat intentio circa ultimum. having preceded. Therefore, neither can the will be brought to particular
+ends without an intention for the ultimate [end] preceding.3
+50	1. Assertio pro
+priore sensu
+quæstionis.
+3. Sed quod attinet ad hanc priorem partem, sive sen- 3. But with regards to the first part or sense of the question, it should The 1st assertion
+for the prior
+sense of the
+question.
+sum quæstionis, dicendum est, non esse necessarium absolute, 50R be said that it is not necessary absolutely that an intention for an ultimate
+ut ante intentiones seu appetitiones particularium bonorum end, either formal or material, go before intentions or desires for partic-
+præcedat intentio finis ultimi vel formalis, vel materialis. Hæc ular goods. This is the view of Scotus in [Sent.] IV, dist. 49, q. 3 and in
+est sententia Scoti, in 4, distinct. 49, quæst. 3, et in 1, quæst. 4, I, q. 4, where John Mair follows this way. And Durandus clearly thinks
+55 ubi Major modum hunc sequitur, et plane idem sentit Duran- the same, in the second place cited above, [i.e., Sent. II, dist. 39, q. 3, as
+dus, secundo loco supra citato, Medina 1, 2, ad art. 6, supra 55R well as Medina in [ST ] IaIIæ. ad art. 6, cited above. In the end, he judges
+citatum. Tandem judicat hanc sententiam probabiliorem. Et this view more probable. And it can easily be proven from what was said
+probari facile potest ex dictis, sect. 1 hujus disputationis, et ex in sect. 1 of this disputation and confirms it from the part. For is there
+parte illam confirmat: quis est enim, qui hujusmodi actum in se anyone who has experienced an act of this sort in himself that is before
+60	Demonstratur
+tripartito
+argumento.
+expertus sit ante omnes alios? Et ratione demonstratur breviter, everything else?
+quia vel necessitas hujus actus oritur ex intellectione, aut ex ob- 60R And it can be demonstrated briefly by argument, because the neces- It is
+demonstrated by
+a tripartite
+argument.
+3Aquinas seems to make arguments very much like this in ST Ia.60.2 co. and Sent. IV, dist. 49, q. 1, art. 3, qc. 4, co.
+58 et ] om. V.
+
+-- 2 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 5 3
+jecto, aut ex voluntate ipsa <col. b> indigente hujusmodi actu sity of this act arises either [i] from the intellection, [ii] from the object,
+ad alios subsequentes, sed nullum horum potest probabiliter or [iii] from the will itself requiring an act of this kind before other sub-
+Primo. dici primum de intellectu. Probatur, quia nihil est, quod ne- sequent [acts]. But none of these can plausibly be said.
+65 cessitet illum ad cogitandum prius de bono: quin potius facilius Firstly, concerning the intellect. It is shown: because there is nothing First.
+excitet ad aliquam exteriorem cogitationem, tum quia movetur 65R that necessitates it to cognizing first concerning the good. In fact, it more
+a sensibus, qui primo offerunt particularia bona: tum etiam, easily excites to some external cogitation, first, because it is moved by
+quia in infantia ante usum rationis habet homo consuetudinem the senses, which in the first place offer particular goods, and then also,
+Secundo. cogitandi de his particularibus bonis. Secundum de objecto, because a human being in infancy before he has the use of reason has a
+70 etiam per se constat, quia si objectum illud non sit prius cogni- custom of thinking about these particular goods.
+tum, non prius movebit voluntatem: ostensum autem est non 70R Secondly, concerning the object. It also is evident per se, because if Second.
+necessario prius cognosci, aut proponi, et aliunde in bonis par- that object is not first cognized, it will not first move the will. Moreover,
+ticularibus, quæ per se bona sunt, est sufficiens ratio objectiva it was shown that it is not necessarily first cognized or proposed, and,
+ad movendam voluntatem, et terminandum actum ejus, quia in from elsewhere, in the case of particular goods which are good per se, an
+75 quolibet bono continetur communis boni ratio, quæ est for- objective reason is sufficient for moving the will and terminating its act,
+Tertio. malis ratio objecti voluntatis. Et hinc tandem concluditur ul- 75R because the nature of general good, which is the nature of the object of
+tima pars, quod nec ex parte voluntatis creatæ datur hæc ne- the will, is contained in any good whatever.
+cessitas, quia si objecto sit sufficiens ratio, ut per se ametur, And from here, finally, is concluded the last part, that this necessity is Third.
+voluntas habet sufficientem virtutem, ut eliciat actum circa il- not given on the part of the created will, because if the object is a sufficient
+80 lud absque priori actu, quia habet naturalem inclinationem ad reason so that it is loved per se, the will has sufficient strength for eliciting
+bonum, et vires ad appetendum illud si sibi proportionatur: hac 80R an act concerning it without a prior act. [This is] because it has a natural
+enim ratione quælibet alia potentia animæ sive sensitiva, sive in- inclination to the good and strength for desiring that if it is proportionate
+tellectiva, potest primo operari circa quodlibet objectum, si sibi to the will. For this reason any other power of the soul, whether sensitive
+sufficienter proponatur: nulla est ergo necessitas, ut ille actus or intellective, can first act concerning any object, if it is sufficiently pro-
+85 generalis alios antecedat, nec rationes contrariæ sententiæ aliq- posed to it. Therefore, there is no necessity that that general act precede
+uid probant. 85R the others, nor do the arguments for the contrary view show anything.
+4. Circa secundum sensum quæstionis positæ, qui sequun- 4. Concerning the second sense of the posited question, those who
+tur primam sententiam citatam, numer. 3, consequenter dicunt, follow the first cited view, n. 3, consequently say that, an intention for
+supposita intentione ultimi finis, necessarium esse ut reliquæ the ultimate end having been assumed, it is necessary that the remaining
+90 particulares intentiones ab illa procedant ut a causa et ratione particular intentions proceed from it as from a cause and reason for acting.
+operandi: imo ad hoc ponunt illam primam intentionem, ut sit 90R Indeed, for this reason they posit that first intention so that it is the cause
+2. Assertio pro
+2. sensu
+quæstionis.
+causa cæterarum. Dicendum tamen est, etiamsi contingat illam of the rest. Nevertheless, it should be said that even if happens that that 2nd assertion for
+the 2nd sense of
+the question.
+universalem intentionem praecedere, non esse necessarium, ut universal intention precede, it is not necessary that all the posterior acts
+ab illa procedant omnes posteriores actus voluntatis, qui versan- of the will which are turned to particular goods proceed from it. From
+95	Probatur. tur circa particularia bona. Ex quo evidentius constat, illam in- this it is even more evident that that intention is not necessary.
+tentionem non esse necessaria. Probatur, quia talis intentio, vel 95R It is proven: for such an intention either actually or virtually gives in- It is proven.
+influeret actu, vel virtute in actus posteriores: neutrum autem flux to the posterior acts. But neither can be said. Therefore, [it gives in-
+dici potest: ergo nullo modo, omitto enim relationem mere ha- flux to them] in no way (for I omit the merely habitual relation, because,
+bitualem, quia, ut supra dixi, hæc non consistit in aliquo influxu as I said above [in disp. 2, sec. 4, n. 3], this does not consist in any in-
+
+-- 3 of 4 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 5 4
+100 et vera causalitate, sed est mere extrinseca. Probatur ergo prior flux and true causality, but is merely extrinsic). Therefore, the prior part
+pars de actuali influxu, quia hic non est sine actuali cogitatione: 100R concerning actual influx is proven, because this does not exist without ac-
+non semper autem actu cogitamus de <37> ultimo fine quando tual cogitation. Moreover, we do not always think about the ultimate end
+aliquid appetimus in particulari. Altera vero pars de virtuali in- when we desire something in particular. But the other part concerning
+fluxu probatur, quia fieri potest ut illa intentio tanto tempore virtual influx is proven because it can happen that that intention went be-
+105 antecesserit, ut omnino non maneat nec in memoria, nec, in fore by such a long time that nothing remains in memory or in any effect
+aliquo effectu suo: influxus autem virtualis intelligi non potest 105R of it. Virtual influx, however, cannot be understood without something
+sine aliquo istorum, ut supra ostensum est, disput. 2, sect. 4, of these, as was shown above, disp. 2, sec. 4, n. 4. Therefore.
+Confirm. num. 4; ergo. Et confirmatur, nam licet demus præcessisse in And it is confirmed: for although we may grant that the desire for his It is confirmed.
+homine appetitum consummati boni sui, tamen fieri potest, ut consummate good precedes in a human being, yet it can happen that such
+110 talis homo nunquam contulerit particulare bonum, verbi gratia, a human being will never consider a particular good, for example, health,
+sanitatem cum illo objecto universali, considerando nimirum 110R with respect to that universal object, considering without doubt that this
+hoc bonum esse partem quamdam illius completi boni: ergo good is a certain part of that complete good. Therefore, when the will
+quando voluntas postea appetit hoc particulare bonum, non afterwards desires this particular good it is not moved by the strength of
+movetur ex vi prioris intentionis, sed solum ex vi præsentis ob- the prior intention, but only by the strength of the present object, because
+115 jecti, quia ad amandum, vel eligendum ex vi præcedentis inten- the intention alone does not suffice for loving or electing with the strength
+tionis, non sufficit sola intentio, sed requiritur etiam collatio 115R of the preceding intention, but it requires also the bringing together of the
+objecti electionis cum objecto intentionis, quæ fit per consulta- object of election with the object of the intention, which happens through
+tionem, ut postea dicam. consideration (consultationem), as I will talk about later.
+Concluditur
+proposita
+quæstio.
+5. Atque ex his tandem concluditur, non esse necessarium 5. And from these is finally concluded that it is not necessary that a The proposed
+question is
+concluded.
+120 hominem operari semper propter ultimum finem simpliciter a human being always act for the sake of an unqualifiedly ultimate end that
+se intentum, seu ex vi intentionis suæ, vel quia non est necesse 120R he has intended or [that he always act] from the force of his intention
+ut talis intentio antecedat, vel quia etiamsi antecesserit, non [for such an end], either because it is not necessary that such an intention
+est necesse ut ab illa procedant reliqui omnes actus: utrumque go before or because even if it went before it is not necessary that all the
+enim ostensum est. Et ita soluta relinquitur quædam confir- remaining acts proceed from it. For each of them has been shown. And
+125 matio posita in fine sectionis præcedentis huc remissa, et ex ibi [with the question] thus resolved, a certain confirmation posited at the
+dictis confirmari etiam potest hæc veritas. Quo autem sensu 125R end of the preceding section and having been referred to here remains.
+D. Thomas sit exponendus, dicam, sect, sequent., ex quo etiam And from what was said there this truth can also be confirmed. Moreover,
+facile patebunt solutiones rationum primæ sententiæin num. 2, in what sense St. Thomas should be explained, I will say in subsequent
+quæ solum probant ad summum voluntatem debere semper sections, by which also it will easily be clear what the solutions of the
+130 moveri ab aliquo objecto bono per se amabili, quod in se inclu- arguments of the first view in n. 2 are, which only show at most that the
+dat rationem communem boni, et in virtute contineat aliquo 130R will ought always to be moved by some good object lovable in itself, that
+modo saltem implicite et interpretative ultimum finem, ut jam in itself includes the general nature of good and in virtue of that contains
+explico. the ultimate end in some way, at least implicitly and interpretatively, as I
+will explain now.
+107 4 ] 5 V.
+
+-- 4 of 4 --

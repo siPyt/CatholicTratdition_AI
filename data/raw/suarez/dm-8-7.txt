@@ -1,0 +1,1310 @@
+Sydney Penner
+Last revised: Nov. 10, 2007
+Translation incomplete!
+Francisco Su´	arez, S. J.
+Disputationes Metaphysicæ VIII1
+Sect. 7
+Whether truth is something in things which is an attribute of being (Utrum veritas aliqua
+sit in rebus quae sit passio entis)
+1. This question is especially intended in this disputation, for we sent ahead the rest for
+explaining the truth of being. Therefore it seems that it cannot happen that some truth
+is an attribute of real being, first, indeed, since Aristotle towards the end of book VII of
+Metaph. says that true and false are not in things but in the mind, and in this is constituted
+its difference since good and bad are in things but true and false are not [in things] but only
+in the mind. Second, because true adds either nothing beyond being or only an extrinsic
+denomination. Therefore, in no way can it be a property of being. The consequence is shown,
+because if it adds nothing, it is nothing other than the very being itself and consequently is
+no more a property of it than the very being is a property of itself. If, however, it adds only
+an extrinsic denomination, that cannot suffice for the nature of a property of being. Besides,
+because other properties of this sort can be multiplied to infinity, because denominations
+of this sort can be to infinity. Moreover also because this denomination is not common to
+beings or conceptual beings. For just as gold is called true gold, so a conceptual relation can
+be called a true conceptual being and (as we were saying not long ago) so a negation has
+truth just as an affirmation. Therefore, truth cannot by reason of this denomination be a
+property of real being, which is what we are talking about. Finally, also, because even other
+falsities can be called properties of real being. For, just as being can be known true, so also
+false. Therefore, just as thence is denominated true, hence can be denominated false.
+Haec quaestio est praecipue intenta in hac disputatione, nam ad explicandam
+veritatem entis reliqua praemisimus. Videtur ergo fieri non posse ut veritas ali-
+qua sit passio entis realis, primo quidem ex Aristotele, VII Metaph., in fine,
+dicente verum et falsum non esse in rebus sed in mente, et in hoc constituente
+differentiam quod bonum et malum sunt in rebus, non autem verum et falsum,
+sed in mente tantum. Secundo, quia verum supra ens aut nihil addit, aut so-
+lam denominationem extrinsecam; ergo nullo modo potest esse proprietas entis.
+Probatur consequentia, quia si nihil addit, nihil aliud est quam ipsummet ens
+et consequenter non magis est proprietas eius quam ipsum ens sit proprietas
+1Latin text is from: http://homepage.ruhr-uni-bochum.de/Michael.Renemann/suarez/suarez dm8.html
+
+-- 1 of 29 --
+
+Su´arez, DM VIII.7 2
+sui. Si autem addit solam denominationem extrinsecam illa non potest sufficere
+ad rationem proprietatis entis; tum quia alias infinitae proprietates huiusmodi
+possent multiplicari, quia infinitae possunt esse huiusmodi denominationes; tum
+etiam quia haec denominatio communis est non entibus seu entibus rationis; si-
+cut enim aurum dicitur verum aurum, ita relatio rationis potest dici verum ens
+rationis et (sicut nuper dicebamus) ita negatio habet veritatem sicut affirmatio;
+non ergo potest veritas ratione huius denominationis esse proprietas entis realis
+de qua agimus. Tum denique quia alias etiam falsitas posset dici proprietas en-
+tis realis; nam, sicut potest ens vere cognosci, ita etiam false; ergo sicut inde
+denominatur verum, hinc potest denominari falsum.
+2. But the first antecedent of this argument is declared and shown. For when some being,
+for example, gold is called true good, such a denomination can be or be understood in two
+ways. First, as it is entirely absolute and intrinsic. And in this way it can add nothing to
+such being, but, rather, only explains its entity and reality, because in this way true gold is
+nothing other than not being just apparent or fictitious [gold] but having the proper and real
+nature and essence of gold. This, however, adds nothing other than being gold. Therefore
+this denomination’s being true gold adds nothing beyond being gold. And for the same
+reason being true real being never expresses any other concept than being real being, that is,
+not fictitious or chimærical [being]. For this reason we were saying above that thing addes
+nothing beyond real being, because it expresses nothing except having a fixed essence, which
+is nothing other than having a real essence. And it the same to say true essence.
+And in taking up in this sense the denomination of true, Augustine seems to have said in
+ch. 5 of book II of Soliloquies that the true is that which is, but not that which seems, or
+that which is such as it seems to be. Because, even if a thing does not seem to not have
+conformity with some cognition, it is true just the same. In which it signifies that truth
+is not extrinsic denomination. And in the same sense the definition given by Avicenna is
+squared: the truth of each thing is the property of it being what is established to it. For
+when he says that it is a property, he does not take that word as signifying the customary
+attribute or some faculty, but signifying being proper, that is, not [something] extraneous
+or alien, which adds nothing beyond being itself but can explain in the way of a relation of
+[self-]identity.2 For in this way a relation can be called of a property. For thus in this way
+some one thing has that being which is its own or is what is established to it. And it is this
+very thing to have the truth of such a being.
+Primum vero antecedens huius rationis declaratur et probatur; nam cum ens
+aliquod, verbi gratia, aurum dicitur verum aurum, dupliciter potest esse aut in-
+telligi talis denominatio. Primo, ut sit omnino absoluta et intrinseca et hoc modo
+nihil potest addere tali enti, sed solum magis explicare entitatem et realitatem
+eius, quia hoc modo esse verum aurum nihil aliud est quam non esse tantum
+apparens vel fictum sed habens propriam et realem naturam et essentiam auri.
+Hoc autem nihil aliud est quam esse aurum; ergo esse verum aurum quoad hanc
+2Relations of self-identity are conceptual relations, according to Su´arez.
+
+-- 2 of 29 --
+
+Su´arez, DM VIII.7 3
+denominationem nihil addit supra esse aurum. Et eadem ratione in universum
+esse verum ens reale nullum alium conceptum dicit quam esse ens reale, id est,
+non fictum neque chymaericum. Qua ratione supra dicebamus rem nihil addere
+supra ens reale, quia nihil dicit nisi habere ratam essentiam, quod nihil aliud est
+quam habere realem essentiam et idem est dicere veram essentiam. Et sumendo
+hoc sensu denominationem veri, dixisse videtur Augustinus, lib. II Soliloquio-
+rum, c. 5, verum esse id quod est, non autem id quod videtur, aut quod tale
+est quale videtur; quia, etiamsi res non videatur neque conformitatem habeat
+cum aliqua cognitione, nihilominus vera est; in quo significat veritatem non esse
+denominationem extrinsecam. Et in eodem sensu quadrat definitio Avicennae
+dicentis: Veritas uniuscuiusque rei est proprietas sui esse quod stabilitum est
+ei. Cum enim ait esse proprietatem, non sumit illam vocem ut significare solet
+passionem seu facultatem aliquam, sed significat esse proprium, id est, non ex-
+traneum nec alienum, quod nihil addit supra ipsum esse sed explicari potest ad
+modum relationis identitatis; sic enim dici potest relatio proprietatis; nam hoc
+modo sic unaquaeque res habet illud esse quod suum est seu quod stabilitum est
+ei, et hoc ipsum est habere veritatem talis entis.
+3. But in another way that denomination can be taken not as absolute and intrinsic, but
+as coming from elsewhere, and in this way it cannot be except an extrinsic denomination of
+the thing, namely, that by true such is revealed or is revealable. That seems to be what St.
+Thomas thought in [ST ] Ia.16.1, saying that true names that to which intellect tends, and is
+in the intellect according to that which is conformed to the thing of the intellect, and from
+the intellect is derived for the understood thing, which is called true according to that which
+has some order to the intellect. It is clear, however, that the conformity of the intellect to
+the thing only results in an extrinsic denomination in the cognized thing. Hence, in a. 6 St.
+Thomas expressly says that all created things are denominated true by one and the same
+truth, namely, by the truth of the divine intellect from which, nevertheless, they cannot but
+be denominated extrinsically. And in the solution ad 2, he confirms this from what Anselm
+says in c. 11 of De Veritate: just as time holds itseld to temporal [things], so truth to true
+things. St. Thomas understands that concerning one common time, by which he agrees that
+temporal things are only denominated extrinsically.
+Finally, for this reason it is clear, because either it is true because it conforms to the intellect
+or because the intellect is conformed to it. The first cannot be said, because it is rather
+from that which the thing is or not is that the intellect is true. We would elsewhere fall into
+the error of the philosophical statements that nothing is true except what is understood.
+If, however, the second is said, it manifestly follows that such is an extrinsic denomination,
+because the the intellect being conformed to the thing posits nothing in the thing except
+only that it is cogn
+Besides those two [options], however, nothing else can be thought of, because by the general
+consensus of everyone every truth is taken from the conformity of intellect and thing. And
+this is confirmed, because falsity in things cannot exist except by an extrinsic denomination.
+Therefore, neither truth. For opposites have the same or proportional nature. To the
+contrary, however, because, by the witness of Aristotle in book II, c. 1 of Metaph.: insofar as
+
+-- 3 of 29 --
+
+Su´arez, DM VIII.7 4
+each one is, so also it is true. By these words he signified that truth accompanies being just
+as there is in each one the grade of truth according to ade and nature of entity. Therefore,
+this is a sign that truth accompanies being as an attribute of it.
+Alio vero modo potest illa denominatio sumi non ut absoluta et intrinseca, sed ut
+aliunde proveniens, et hoc modo esse non potest nisi extrinseca rei denominatio,
+scilicet, quod vere talis enuntietur seu enuntiabilis sit. Quod sensisse videtur D.
+Thomas, I, q. 16, a. 1, dicens verum nominare id in quod tendit intellectus,
+esseque in intellectu secundum quod conformatur rei intellectae, et ab intellectu
+derivari ad rem intellectam, quae vera dicitur secundum quod habet aliquem or-
+dinem ad intellectum. Constat autem ex conformitate intellectus ad rem solum
+resultare in re cognita denominationem extrinsecam. Unde a. 6 expresse dicit
+D. Thom. omnes res creatas denominari veras una et eadem veritate, scilicet,
+veritate intellectus divini a qua tamen non possunt nisi extrinsece denominari.
+Et in solutione ad 2 hoc confirmat ex Anselm., lib. De Verit., c. 11, dicente,
+sicut tempus se habet ad temporalia, ita veritas ad res veras; quod D. Thomas
+intelligit de uno tempore communi, a quo constat solum extrinsece res tempo-
+rales denominari. Ratione denique patet, quia aut est vera quia conformatur
+intellectui, aut quia intellectus conformatur ad ipsam. Primum dici non potest,
+quia potius ex eo quod res est vel non est, intellectus est verus; alias incideremus
+in errorem philosophorum dicentium nihil esse verum nisi quod intelligitur. Si
+autem secundum dicatur, aperte sequitur illam tantum esse denominationem ex-
+trinsecam, quia intellectum conformari ad rem nihil ponit in re nisi tantum vere
+cognosci. Praeter illa autem duo nihil aliud excogitari potest, quia ex communi
+omnium consensu omnis veritas sumitur ex conformitate intellectus et rei. Et
+confirmatur, quia falsitas in rebus esse non potest nisi denominatio extrinseca;
+ergo nec veritas; nam oppositorum eadem est seu proportionalis ratio. In con-
+trarium autem est, quia teste Aristotele, lib. II Metaph., c. 1, ut unumquodque
+est, ita et verum est; quibus verbis significat veritatem ita comitari ens ut iuxta
+gradum et rationem entitatis sit in unoquoque gradus veritatis; signum ergo est
+veritatem comitari ens ut passionem eius.
+Whether truth is a transcendental (Transcendentalis veritas an sit)
+4. In this matter it is evident that the denomination of true is customarily applied to things.
+For thus we are in the habit of saying that it is true gold in order to distinguish it from
+apparent [gold] and true human in order to distinguish from a picture and true God in order
+to separate him from false [gods]. And they speak in this way not only in sacred and profane
+writings but even among the masses. Hence, it is made plain that the same appellation of
+true can be attributed to any real being you please, either as distinct from fictitious and
+imaginary beings or as is it is judged to have in its own species and nature such an essence
+as it proper to the thing, for as long as these same two are the reason for this appellation in
+all beings.
+And from this, on the other hand, it is manifest that true under some aspect is an attribute
+of being is converted with it. In order, however, that it may be shown what kind of de-
+
+-- 4 of 29 --
+
+Su´arez, DM VIII.7 5
+nomination this is, it is necessary before anything else to explain what this truth is which is
+attributed to being so that thereby it may be evident how it can be a property of it [being]
+and be converted with it. Therefore, various ways of explaining truth can be devised.
+In hac re constat veri denominationem solere rebus attribui; sic enim dicere
+solemus esse verum aurum ut illud ab apparenti distinguamus, et verum hominem
+ut distinguamus a picto, et verum Deum ut a falsis illum separemus, et hoc modo
+loquuntur non solum sacrae et profanae litterae, sed etiam universi homines.
+Unde plane fit eamdem veri appellationem posse cuilibet enti reali attribui, vel ut
+ab ente ficto et imaginario separetur, vel ut in sua specie et ratione propriam talis
+rei essentiam habere iudicetur; nam quoad haec duo eadem est huius appellationis
+ratio in omnibus; entibus. Atque hinc rursus manifestum etiam est verum sub
+aliqua ratione esse attributum entis et cum illo converti. Ut autem declaretur
+qualis sit haec denominatio, oportet ante omnia exponere quid sit haec veritas
+quae enti attribuitur ut inde constet quomodo possit esse proprietas eius, et cum
+illo converti. Possunt ergo varii modi explicandi veritatem excogitari.
+The first opinion which is rejected (Prima sententia circa quid sit improbatur)
+5. The first [opinion] is that transcendental truth signifies a certain real absolute property
+that is distinct by a reasoned reason (ratione ratiocinata) from being. Certain modern
+Thomists think this, I, q. 16, and they think that this is the view of St. Thomas in q. 1,
+a. 8 of De Veritate: Capreolus in Sent. I, dist. 19, q. 3, concl. 3; Soncinas Metaph. VI,
+q. 17; and Javelli, Tractatus de Transcendentalibus c. 5. It is shown, because truth is a
+real perfection. Therefore, it expresses a real, not relative, nature. Therefore, [it expresses
+an] absolute [nature]. And the name is not synonnymous signifying the same as ‘entity’.
+Therefore, it expresses perfection that is at least conceptually distinct from entity.
+The first antecedent is evident, moreover because a thing being true is not some fiction. On
+the contrary, this itself would seem to exclude the name ‘truth’. Then also because all things
+are true by themselves and not in virtue of consideration by the intellect. Then also because
+truth in God is a great perfection and that is a measure of created truth. Then, finally,
+because truth cannot fail to be a real perfection, since it is a property of being. But that it
+is not a relative will easily be shown below.
+Finally that ‘truth’ and ‘entity’ are not the same in the way of synonyms is clear from the
+general way that everyone conceives [of them] and from the different definitions by which their
+objective concepts are explained by us. Therefore, it is necessary that they be distinguished
+at least by reasoned reason (ratione ratiocinata). On the contrary, following the opinion of
+Scotus in the above discussion where we deal with these attributes in general, it should be
+said that it is distinguished formally ex natura rei.
+Primus est veritatem transcendentalem significare quamdam proprietatem realem
+absolutam et ratione ratiocinata distinctam ab ente. Ita sentiunt quidam thomis-
+tae moderni, I, q. 16, et putant esse sententiam D. Thomae, q. 1 De Verit., a. 8;
+Capreoli, In I, dist. 19, q. 3, concl. 3; Soncin., VI Metaph., q. 17; Iavel., tract.
+
+-- 5 of 29 --
+
+Su´arez, DM VIII.7 6
+de Transcendentalib., c. 5. Probatur, quia veritas est realis perfectio; ergo dicit
+rationem realem, non relativam; ergo absolutam; et non est nomen synonymum
+idem significans quod entitas; ergo dicit perfectionem saltem ratione distinctam
+ab entitate. Primum antecedens patet, tum quia rem esse veram non est aliq-
+uid fictum, immo hoc ipsum videtur excludi nomine veritatis; tum etiam quia
+res omnes ex se sunt verae et non ex intellectus consideratione; tum praeterea
+quia veritas in Deo est magna perfectio et illa est mensura veritatis creatae; tum
+denique quia cum veritas sit proprietas entis non potest non esse perfectio realis.
+Quod vero illa relativa non sit, facile inferius probabitur. Quod denique veritas
+et entitas non sint idem tamquam synonyma, constat ex communi modo con-
+cipiendi omnium et ex diversis definitionibus quibus earum conceptus obiectivi
+a nobis explicantur; necesse est ergo saltem ratione ratiocinata distingui. Immo,
+secundum sententiam Scoti supra tractatam cum de his passionibus in communi
+ageremus, dicendum esset distingui formaliter ex natura rei.
+6. But in this opinion and in all the following it should be noted that it is one thing to speak
+of that whole which includes truth in being but another [to speak] of that which adds truth
+beyond entity or (what is the same thing) true beyond being. In the first way, we admit
+that the truth of a real entity expresses real perfection as the arguments that were made
+show, as well as the other [arguments] by which we showed above that unity does not express
+only negation but entity beneath the negation. For so it should now be asserted that truth
+does not express only a nature that is extrinsic or fashioned by the intellect, but is an entity
+signified under some other concept. Or by adding something, into which we now inquire.
+Therefore, in this sense the stated opinions are true and, in fact, St. Thomas, Capreolus
+and other ancient Thomists did not intend anything else. But the modern [Thomists] seem
+to signify something more.
+Sed in hac sententia et in omnibus sequentibus observandum est aliud esse loqui
+de toto illo quod includit veritas in essendo, aliud vero de eo quod addit veri-
+tas supra entitatem seu (quod idem est) verum supra ens. Priori modo admit-
+timus veritatem entium realium dicere perfectionem realem ut argumenta facta
+probant, et alia quibus supra ostendimus unitatem non dicere solam negationem,
+sed entitatem sub negatione; sic enim nunc asserendum est veritatem non dicere
+solam rationem extrinsecam vel intellectu fabricatam, sed esse entitatem sub ali-
+qua alia ratione significatam, vel addendo aliquid, quod nunc inquirimus. In hoc
+ergo sensu vera est dicta sententia et revera D. Thomas, Capreol. et antiquiores
+thomistae nihil aliud intendunt, moderni vero plus significare videntur.
+7. Therefore, in another way it can be understood that truth adds to being an absolute and
+real property beyond the nature of essence or entity. And in this sense I think the stated view
+is false. And first, if it is understood of perfection distinct ex natura rei, it can sufficiently be
+shown then by the arguments made above against Scotus concerning the attributes of being
+in general, then by what was said above concerning distinctions ex natura rei.
+For there cannot here intervene a real distinction of thing from thing, as everyone admits,
+
+-- 6 of 29 --
+
+Su´arez, DM VIII.7 7
+because there is no foundation for fashioning such a distinction. There cannot even be a
+modal distinction, then because no indication of a distinction between such a mode and being
+can be thought of. For they are so entirely inseparable that they can hardly be prescinded
+by the intellect, as I will say at once. Then also because no thing is understood to be true
+through a superadded mode, but through its own entity. If it has that [entity], even if you
+separate every other mode, you will understand the thing to remain true either in the concept
+of being or in the concept of such a being, what kind of aptness it is to be constituted by
+such an entity.
+And this reason applied with proportion also shows that truth cannot add beyond the entity
+some perfection that is co-distinct by a reasoned reason (ratione ratiocinata) from the entity.
+For, if they are so co-distinguished that neither extreme is included in the prescinded concept
+of the other (for so we say), truth may be separated by reason from being and, I argue, from
+either extreme. Precise being is thus intelligible insofar as it is from itself, then because
+it is conceived with a direct and proper concept by the intellect, then also because, to
+the extent that each one has something of being so it has of intelligibility, as St. Thomas
+taught elsewhere in [ST ] Ia.16.3. Therefore being in that precise concept includes every real
+perfection which is required for the concept of truth, because this itself which is being is
+intelligible, is true. For in this sense true is said to be the object of the intellect, and because
+between every intelligible being and intellect there can be conformity.
+But the argument is also taken from the other side. For either truth thus precise is understood
+to include real entity and is not prescinded in the stated mode, or that [real entity] is
+not included and so it does not express real perfection. And St. Thomas signified all of
+this in [ST ] Ia.16.3 ad 3, saying that although being can be apprehended as not having
+been apprehended by the concept of true, that is, including that expressly and formally,
+nevertheless by the contrary cannot be apprehended true unless the concept of being is
+apprehended. Because being falls in the concept of true. Also, being cannot be apprehended
+except the concept of true follows that apprehension, that is, unless being itself, as precise
+a concept as you like, is true and can be apprehended under the concept of true, even if no
+absolute perfection is added to it. And he adds the example, saying: And it is similar if we
+compare the intelligible to being, for being cannot be understood unless being is intelligible,
+but yet being can be understood, so that intelligibility is not understood of it. And similarly,
+being having been understood is true, yet being that is not understood is understood true.
+Alio ergo modo intelligi potest veritatem addere enti supra rationem essentiae vel
+entitatis proprietatem absolutam et realem. Et hoc sensu existimo falsam esse
+praedictam sententiam. Et primum, si intelligatur de perfectione ex natura rei
+distincta, sufficienter probari potest, tum argumentis supra factis contra Scotum
+de passionibus entis in genere, tum ex supra dictis de distinctionibus ex natura
+rei. Nam hic non potest intervenire realis distinctio rei a re ut omnes fatentur,
+quia nullum est fundamentum ad fingendam talem distinctionem; neque etiam
+potest esse distinctio modalis, tum quia nullum indicium distinctionis inter talem
+modum et ens excogitari potest; sunt enim omnino inseparabilia ita ut vix possint
+etiam intellectu praescindi, ut statim dicam. Tum etiam quia nulla res intelligitur
+esse vera per modum superadditum, sed per suam entitatem, quam si habeat,
+
+-- 7 of 29 --
+
+Su´arez, DM VIII.7 8
+etiamsi omnem alium modum separes, intelliges manere veram rem vel in ratione
+entis vel in ratione talis entis, quale aptum est tali entitate constitui. Atque haec
+ratio cum proportione applicata probat etiam non posse veritatem addere supra
+entitatem perfectionem aliquam ratione ratiocinata condistinctam ab entitate;
+nam, si ita condistinguuntur ut neutrum extremum in praeciso conceptu alterius
+includatur (sic enim loquimur), separetur ratione veritas ab ente et argumentor
+de utroque extremo. Ens sic praecisum est intelligibile quantum est ex se, tum
+quia directo et proprio conceptu ab intellectu concipitur, tum etiam quia, quan-
+tum unumquodque habet de esse, tantum habet de intelligibilitate, ut alias dixit
+D. Thomas, I, q. 16, a. 3; ergo ens in illo praeciso conceptu includit omnem
+perfectionem realem quae requiritur ad rationem veri, quia hoc ipso quod ens est
+intelligibile, verum est; nam hoc sensu dicitur verum esse obiectum intellectus,
+et quia inter omne ens intelligibile et intellectum potest esse conformitas. Ex alio
+vero extremo etiam sumitur argumentum; nam aut veritas sic praecisa intelligitur
+includere entitatem realem et sic non praescinditur dicto modo. vel illam non in-
+cludit, et sic non dicet perfectionem realem. Et hoc totum significavit D. Thomas,
+dict. I, q. 16, a. 3, ad 3, dicens quamvis ens possit apprehendi non apprehensa
+ratione veri, id est, includendo illam expresse ac formaliter, tamen e contrario
+non posse apprehendi verum quin apprehendatur ratio entis: quia ens cadit in
+ratione veri: neque etiam posse apprehendi ens nisi ad eam apprehensionem ratio
+veri consequatur, id est, quin ipsum ens, quantumvis praecise conceptum, verum
+sit et sub ratione veri apprehendi possit, etiamsi nulla perfectio absoluta ei ad-
+datur. Et addit exemplum dicens: Et est simile si comparemus intelligibile ad
+ens; non enim potest intelligi ens quin ens sit intelligibile, sed tamen potest intel-
+ligi ens, ita quod non intelligatur eius intelligibilitas; et similiter, ens intellectum
+est verum, non tamen intelligendo ens intelligitur verum.
+8. In addition I argue the second by investigating what then this absolute perfection is
+which true adds beyond being. For it cannot be understood as the kind of absolute that
+does not include a transcendental respect or a respect according to being said (as they say),
+as even the previously mentioned authors acknowledge as a result of the common concept of
+everyone. For everyone conceives of truth as a conformity between the thing and intellect or
+as ordered to it. Nor can such a real and entirely absolute nature that is distinct from the
+nature of being and in which truth consists easily be imagined or explained.
+If, however, this nature is called an absolute with a transcendental respect or explained in
+the mode of a respect, that cannot be except by being ordered to some intellect. But truth
+as explained through such a respect cannot be something other than the entity itself with the
+same respect. Nor can a real nature that is absolute even if conceptually distinct be added
+beyond it. Therefore. The major is shown from the given definition of truth, which declared
+just as the first conception of it. For truth signifies a certain adequation and conformity. But
+not every conformity has the nature of truth, for equality between two things is a certain
+conformity, as is similitude, and it is not called truth. Therefore, truth expresses a special
+nature of conformity, which cannot be something other than that which is taken or explained
+as being ordered to intellect.
+
+-- 8 of 29 --
+
+Su´arez, DM VIII.7 9
+Hence, the minor is shown because this conformity to intellect can be understood in two
+ways, namely, as actual and as aptitudinal. Actual [conformity] can only consist in this that
+such a thing is as it is understood by the act. But aptitudinal [conformity] in this that
+the thing is such as by a true and proper concept of the thing can be understood. But by
+neither of these ways is added beyond the entity some real absolute perfection, because to
+understand with the act adds nothing to the understood act as such. Therefore, neither can
+the thing being the way it is understood add to it an absolute real nature.
+On the other hand, this itself that being is being or such a being, if in another is the power for
+understanding, is apt to be adequated to a true concept. Therefore, it is not only superfluous
+but also impossible that this actual or aptitudinal conformity add some absolute perfection
+to being, even conceptually distinct. Just as it is impossible that in whiteness being apt to
+become similar to another expresses an absolute perfection added to the concept of whiteness,
+and it is much more impossible that actual similitude add an intrinsic absolute nature to the
+whiteness itself.
+Praeterea argumentor secundo,3 inquirendo quaenam sit haec perfectio abso-
+luta quam verum addit supra ens; non enim potest intelligi ita absoluta ut nec
+respectum transcendentalem aut secundum dici (ut vocant) includat, ut etiam
+praedicti auctores fatentur ex communi omnium conceptu; nam omnes concipi-
+unt veritatem per conformitatem inter rem et intellectum vel in ordine ad illam;
+nec facile fingi posset aut explicari talis ratio realis omnino absoluta et distincta
+a ratione entis, in qua veritas consistat. Si autem dicatur haec ratio absoluta
+cum respectu transcendentali vel explicata per modum respectus, ille esse non
+potest nisi in ordine ad aliquem intellectum; sed veritas ut explicata per talem
+respectum non potest esse aliud quam entitas ipsa cum eodem respectu; neque
+supra eam addere potest rationem realem absolutam etiam ratione distinctam;
+ergo. Maior probatur ex dicta veritatis definitione, quae declarat veluti primam
+conceptionem eius. Nam veritas adaequationem quamdam et conformitatem sig-
+nificat; sed non omnis conformitas rationem veritatis habet, aequalitas enim inter
+duas res, et similitudo, est conformitas quaedam, et non dicitur veritas; ergo ver-
+itas dicit specialem rationem conformitatis, quae non potest esse alia nisi quae
+in ordine ad intellectum sumitur seu explicatur. Unde probatur minor quia haec
+conformitas ad intellectum duplex intelligi potest, scilicet, actualis et aptitudi-
+nalis. Actualis in hoc tantum consistere potest, quod res talis sit qualis actu
+intelligitur; aptitudinalis vero in hoc quod res sit talis ut vero ac proprio con-
+ceptu talis rei intelligi possit. Sed neutro ex his modis additur supra entitatem rei
+aliqua realis perfectio absoluta, quia actu intelligi nihil addit entitati intellectae
+ut sic; ergo neque rem esse talem qualis intelligitur potest illi addere rationem
+realem absolutam. Rursus, hoc ipso quod ens est ens vel tale ens, si in alio
+sit vis ad intelligendum, aptum est adaequari vero conceptui; ergo non solum
+superfluum, sed etiam impossibile est quod haec actualis vel aptitudinalis con-
+formitas addat enti aliquam perfectionem absolutam, etiam ratione distinctam.
+Sicut impossibile est quod in albedine esse aptam assimilari alteri dicat perfec-
+3Replacing a period with a comma in accordance with the Viv´es edition.
+
+-- 9 of 29 --
+
+Su´arez, DM VIII.7 10
+tionem absolutam additam rationi albedinis, et multo magis impossibile est quod
+actualis similitudo addat rationem absolutam intrinsecam ipsi albedini.
+The second opinion is examined under various interpretations (Secunda opinio cum variis
+interpretationibus examinatur)
+9. On account of this, therefore, there can be a second opinion which says that truth adds
+to being a relation of conformity to the intellect. For this seems to follow from the last
+argument made against the preceding opinion. However, various ways of explaining this
+opinion can be thought of. One is as understood of an actual relation of conformity. For
+truth seems to signify an actual conformity.
+Another is as understood of an aptitudinal conformity. And in this way they say that
+transcendental truth is nothing other than the intelligibility of being, which intelligibility not
+only expresses an extrinsic denomination from the faculty which has the intellective thing
+for understanding every being, but on the part of the very thing intelligibility expresses a
+certain aptitude as having the power to be understood, which adds a relation to the intellect,
+to which, insofar as it is in and of itself, it can be conformed.
+On the other hand, certain people understand this relation to have to be taken only as being
+ordered to the divine intellect, because all things depend essentially on that, but not on
+others. Rather, they are compared to others per accidens.
+Others think it should be taken as ordered to any intellect, because a thing of itself is intel-
+ligible by whatever and this is of itself apt to conform to everything. Hence, the mentioned
+relation can be said to be to every thing, just as colour insofar as it is visible expresses a
+relation to all vision, even if it does not depend on that.
+Finally, certain people think that this relation is real, because truth is a real thing and exists
+in things.
+Others want it to be a conceptual relation, because it does requires the existence or distinction
+of the extremes. This is what Durandus, Capreolus, and Cajetan thing in the places cited
+and to be cited. And St. Thomas favours it in [Sent.] I, dist. 19, q. 5, a. 1.
+Others, finally thing that that relation is sometimes real, but often conceptual on account
+of the capacity of the extremes. For example, Soncinas and Javelli, above; and Ferrara,
+Contra Gentiles I, c. 60. And St. Thomas favours it in De Veritate q. 1, a. 2 and in De
+Interpretatione book I, lect. 5.
+Propter haec ergo esse potest secunda sententia dicens veritatem addere enti rela-
+tionem conformitatis ad intellectum; hoc enim concludi videtur ratione proxime
+facta contra praecedentem sententiam. In hac autem opinione explicanda pos-
+sunt varii modi excogitari. Unus est ut intelligatur de relatione conformitatis
+actualis; nam veritas actualem conformitatem significare videtur. Alius est ut
+intelligatur de aptitudinali conformitate, et hoc modo dicunt aliqui nihil aliud
+esse veritatem transcendentalem quam intelligibilitatem entis, quae intelligibili-
+tas non solum dicit denominationem extrinsecam a facultate quam res intellectiva
+
+-- 10 of 29 --
+
+Su´arez, DM VIII.7 11
+habet ad intelligendum omne ens, sed ex parte ipsius rei intelligibilis dicit apti-
+tudinem quamdam ut intelligi valeat, quae addit relationem ad intellectum, cui,
+quantum est ex se, potest conformari. Rursus quidam intelligunt hanc relationem
+sumendam esse tantum in ordine ad divinum intellectum, quia ab illo res omnes
+pendent per se, non vero ab aliis; immo ad illos per accidens comparantur. Alii
+existimant sumendam esse in ordine ad quemcumque intellectum, quia res de
+se est intelligibilis a quocumque et ita est de se apta conformari omnibus, unde
+ad omnes dicere potest praedictam relationem, sicut color in quantum visibilis
+dicit relationem ad omnem visum, etiamsi ab illo non pendeat. Denique quidam
+existimant hanc relationem esse realem, quoniam veritas reale quid est et in re-
+bus existit. Alii volunt esse relationem rationis, quia non requirit existentiam
+nec distinctionem extremorum, quod sentiunt Dur., Capr.. Caiet., locis citatis
+et citandis; et favet D. Thomas, In I, dist. 19 q. 5, a. 1. Alii tandem putant
+illam relationem interdum esse realem, saepe vero rationis iuxta capacitatem ex-
+tremorum, ut Soncin. et Iavel., supra; Ferrar., I cont. Gent., c. 60; favetque D.
+Thomas, q. 1 De Veritate, a. 2, et lib. I De Interpretat., lect. 5.
+10. But, in order that we understand what truth and falsity can be in this way of speaking,
+it should be supposed that this opinion (as it is distinct from others) should be understood
+to be of proper relations which are called categorical, if it is real or similar to it, if it is
+conceptual. For, if relation is taken more broadly through every transcendental disposition
+or through whatever denomination you please which arises from the association of multiple
+things, then this opinion in one sense coincides with the previous one, but in another with
+that which we will discuss afterwards.
+Sed, ut intelligamus quid veritatis vel falsitatis esse possit in his dicendi modis,
+supponendum est hanc sententiam (ut sit ab aliis distincta) intelligendam esse
+de propria relatione quam praedicamentalem vocant, si sit realis, vel similem illi,
+si sit rationis. Nam, si late sumatur relatio pro omni transcendentali habitudine
+vel pro qualibet denominatione quae ex consortio plurium rerum consurgit, sic
+sententia haec in uno sensu coincidet cum praecedenti, in alio vero cum ea quam
+postea tractabimus.
+11. A strict conceptual relation is not required for transcendental truth.—First, therefore, I
+think a denomination is not taken up from some conceptual relation in the stated property
+having been taken up, because truth does not express a relation of this sort, nor an entity
+under such a relation. This is shown by the oft-repeated argument, because an attribute
+of real being cannot consist in the just-mentioned relation nor formally include it. Finally,
+because such a relation does not exist except as long as it is considered or fashioned (fingitur ).
+The truth of things, however, does not require a fashioning (fictionem) of this sort. In fact
+even more, as I was saying above, when by that it has a certain repugnance to the name of
+truth. Likewise, God is transcendentally true from eternity in accordance with the complete
+and accurate nature of truth, and yet he neither fashions conceptual relations nor can he
+require these in order to be and to be called the true God. Finally, this relation does not
+
+-- 11 of 29 --
+
+Su´arez, DM VIII.7 12
+exist except through the reflection and comparison of the intellect, before which even this
+being is true gold, for example, and is cognized to be such.
+Ad transcendentalem veritatem stricta rationis relatio non requiritur.—Primo ig-
+itur existimo denominationem non esse sumptam ex aliqua relatione rationis in
+dicta proprietate sumpta, quia veritas nec huiusmodi relationem dicit, nec enti-
+tatem sub tali relatione. Probatur ratione saepe repetita, quia passio entis realis
+non potest consistere in praedicta relatione, neque illam formaliter includere.
+Deinde, quia talis relatio non est, nisi dum consideratur aut fingitur: veritas
+autem rerum non requirit huiusmodi fictionem; quin potius, ut supra dicebam,
+cum ipso veritatis nomine quamdam habet repugnantiam. Item Deus ab aeterno
+est verus transcendentaliter secundum completam et exactam rationem veritatis,
+et tamen nec fingit relationes rationis, nec illas requirere potest ut verus Deus sit
+et dicatur. Denique haec relatio non est nisi per reflexionem et comparationem
+intellectus, ante quam et hoc ens est verum aurum, verbi gratia, et tale esse
+cognoscitur.
+12. A real relation is not necessary for transcendental truth.—This is shown in God.—In
+the second it seems certain (speaking in general concerning the transcendental true, as it
+abstracts from created and uncreated being) that it cannot consist in or require formally
+a real relation to another, from being ordered to which the denomination of true would be
+taken. It is clear, because transcendental truth in God cannot include a relation of this sort,
+because either that truth is considered in God as God is, just as we say that there are three
+persons in one true God, or it is considered in each individual person in accordance with the
+proper relations, so that we may give this to the theologians.
+In the first way, God has no real relation, because he neither as toward something (ad aliquid )
+without himself, as is agreed, or toward something (ad aliquid ) within himself, because true
+divinity has no distinctions in reality from all these which are within God. Likewise, because
+that relation, if it is, ought to be to intellect. Therefore, either it is to the intellect as
+causing—and this has no place in true divinity, because it has no cause—or it is to the
+intellect as understanding, and this cannot be a real relation to something within, since it is
+of the same to him himself.
+In the other way, it can also not be a real relation. First, because in God there are no
+other real relations besides those relations which accompany the origins, in which no others
+can be founded. Next, because in the Father, for example, that relation of truth cannot
+be to the intellect as producing, because the person of the Father is not produced, nor as
+understanding, because the relation is of the same to him himself.
+In the Son likewise, although the person is produced, the truth of filiation cannot consist in a
+relation of conformity to the intellect as producing, or, what is the same, as having the idea
+or exemplar by which such a thing is produced, because the divine Word is not produced
+through the idea, but is himself the image or exemplar by the Father naturally produced.
+Also, neither can it express a real relation of conformity to the intellect as understanding,
+because so also in the Word such a relation is of the same to him himself. For, although
+
+-- 12 of 29 --
+
+Su´arez, DM VIII.7 13
+the Word is understood also by the Father and he himself also understands the Father,
+nevertheless as they mutually understand each other, they are not distinguished by intellect
+and by the act by which they understand themselves. And the same reason applied in
+proportion holds true for the Holy Spirit. Therefore, in God there is no real relation of
+conformity in which truth could consist. And consequently the truth of being as it abstracts
+from the created and uncreated cannot require this real relation.
+Relatio realis ad veritatem transcendentalem non necessaria.—In Deo id probatur.—
+Secundo videtur certum loquendo in communi de vero transcendentali, ut ab-
+strahit ab ente creato et increato, non posse consistere aut requirere formaliter re-
+lationem realem ad alterum, in ordine ad quod veri denominatio sumatur. Patet,
+quia in Deo non potest veritas transcendentalis huiusmodi relationem includere,
+quia vel illa veritas consideratur in Deo ut Deus est, quomodo dicimus tres per-
+sonas esse unum verum Deum; vel consideratur in singulis personis secundum
+proprias relationes, ut hoc theologis demus. Priori modo Deus nullam habet
+relationem realem, quia neque ad aliquid extra se, ut constat, neque ad aliquid
+intra se, quia vera divinitas nullam in re distinctionem habet ab his omnibus quae
+intra Deum sunt. Item, quia illa relatio, si quae est, debet esse ad intellectum;
+vel ergo est ad intellectum ut causantem, et haec non habet locum in vera divini-
+tate, quae causam non habet; vel est ad intellectum ut intelligentem, et haec non
+potest esse relatio realis ad intra, cum sit eiusdem ad seipsum. Posteriori etiam
+modo non potest esse realis relatio. Primo, quia in Deo non sunt aliae relationes
+reales praeter relationes quae comitantur origines, in quibus nullae aliae fundari
+possunt. Deinde, quia in Patre, verbi gratia, non potest illa relatio veritatis esse
+ad intellectum ut producentem, quia persona Patris non est producta, neque ut
+intelligentem, quia est relatio eiusdem ad seipsum. In Filio item, quamvis sit
+persona productas non potest veritas filiationis consistere in relatione conformi-
+tatis ad intellectum ut producentem, seu, quod idem est, ut habentem ideam
+vel exemplar quo talis res producitur, quia Verbum divinum non producitur per
+ideam, sed est ipsa imago vel exemplar a Patre naturaliter productum. Neque
+etiam potest dicere relationem realem conformitatis ad intellectum ut intelligen-
+tem, quia sic etiam in Verbo talis relatio est eiusdem ad seipsum. Nam, licet
+Verbum intelligatur etiam a Patre et ipsum etiam intelligat Patrem, tamen ut
+sese mutuo intelligunt, non distinguuntur ab intellectu et ab actu quo se intelli-
+gunt. Et eadem ratio cum proportione applicata locum habet in Spiritu Sancto.
+In Deo ergo nulla est relatio realis conformitatis, in qua veritas possit consistere;
+et consequenter nec veritas entis ut abstrahit a creato et increato potest hanc
+relationem realem requirere.
+13. Third, even if we speak more restrictedly concerning created being and its transcendental
+truth, as those seem to talk who say that the truth of this being consists in conformity to the
+divine intellect as in itself it maintains the exemplars or ideas of created beings, although (I
+say) we speak concerning this being, I do not think that this truth consists in some proper
+and categorical real relation of this sort of being to a divine idea. Some show this, because
+this relation of conformity which is required for truth is common to these entities whether
+
+-- 13 of 29 --
+
+Su´arez, DM VIII.7 14
+they exist or not. Therefore, it cannot be a real relation. But this argument is not of much
+importance.
+In the first place, indeed, because perhaps it assumed falsehood. For, as I was saying above,
+creatures considered only according to the being of essence do not have the truth of essence
+from a conformity to the divine mind or idea. For a human is not such an essence because
+he is cognized as such by God, but rather such an essence is cognized because he is such
+essentially. Next, that posited relation may be said to be real with the proportion taken up.
+For in created being existing only in potency truth is also only in potency. Therefore, in the
+same way the real relation will be able to be only in potency. Moreover, in the same being
+by an existing act just as real truth is in the act, so also the real relation will be able to be
+in the act.
+Otherwise, therefore, it can be shown that that relation is not real, because otherwise an
+advance into infinity is given in such a relation. For that relation also has an idea to which
+it is conformed and that through another relation and so on into infinity. But this reason is
+common to almost all relations, especially these which are founded in unity, as are similitude,
+equality, and similar ones.
+Tertio, etiamsi contractius loquamur de ente creato eiusque veritate transcenden-
+tali, ut videntur loqui qui dicunt veritatem huius entis consistere in conformitate
+ad intellectum divinum ut in se continet exemplaria seu ideas creatorum entium,
+quamvis (inquam) de hoc ente loquamur, non existimo veritatem hanc consistere
+in aliqua relatione reali propria et praedicamentali huiusmodi entis ad ideam
+divinam. Quod aliqui probant, quia illa relatio conformitatis quae ad veritatem
+requiritur, communis est in his entibus sive existant sive non existant; ergo non
+potest esse relatio realis. Sed haec ratio non est magni momenti. Primo quidem,
+quia fortasse assumit falsum; nam, ut supra dicebam, creaturae consideratae tan-
+tum secundum esse essentiae non habent veritatem essentiae ex conformitate ad
+divinam mentem seu ideam; non enim homo est talis essentiae quia talis cognosc-
+itur a Deo, sed potius ideo talis essentiae cognoscitur quia talis est essentialiter.
+Deinde, posita illa relatione, dicetur esse realis cum proportione sumpta; nam in
+ente creato in potentia tantum existente est veritas etiam tantum in potentia;
+eodem ergo modo esse poterit relatio realis in potentia; in eodem autem ente actu
+existente sicut est veritas realis in actu, ita et esse poterit relatio realis in actu.
+Aliter ergo probari potest illam relationem non esse realem, quia alias daretur
+processus in infinitum in tali relatione, nam etiam illa relatio haberet ideam, cui
+esset conformis et illa per aliam relationem et sic in infinitum; sed haec ratio om-
+nibus fere relationibus communis est, praesertim his quae in unitate fundantur,
+ut sunt similitudo, aequalitas et similes.
+14. Therefore, it is shown otherwise, because it is either a relation of similitude or a relation
+of effect to cause, which by another name is customarily called the measured to the measure.
+Not the first, because a relation of similitude does not properly exist unless it is founded in
+unity or formal agreement. However, between a creature and an idea which it has in God
+is not such a formal agreement, but only intentional or ideal, just as there is not a proper
+
+-- 14 of 29 --
+
+Su´arez, DM VIII.7 15
+relation of similitude between an intentional appearance and a visible object, although it is
+an intentional representation.
+Nor can the second be said, because an idea or exemplar of a craftsman does not have another
+immediate influx into an effect, besides that which the craftsman has so that he a complete
+efficient cause, nor through another action unless it is efficient. Because an exemplar as such
+does not have another causality than to direct the action of an agent. Therefore, another
+relation does not result in the effect except that which follows from the strength of the
+agent’s action, so that he is the agent. Therefore, it does not have another real relation of
+conformity or dependency to the exemplar.
+If you say that the effect depends on the exemplar as to a specification but from an efficient
+[cause] as such as to an exercise, this itself establishes that a special relation to the exemplar
+does not result in the effect, but only that which is to the efficient cause, because it is a
+single causality and action by which the thing becomes and becomes such an appearance.
+And that distinction as to exercise and specification in the present case is only according to
+reason and adaptation, not according to the thing. Rather, the exemplar is not compared
+to the efficient [cause] as a distinct cause, but as constituting that in its own way in the first
+act of effecting. Therefore, neither does a multitudinous relation result in the effect, but
+only that which is the effect to its own efficient cause.
+Probatur ergo aliter, quia vel est relatio similitudinis vel relatio effectus ad
+causam, quae alio nomine dici solet mensurati ad mensuram. Non primum,
+quia relatio similitudinis proprie non est nisi quae fundatur in unitate vel con-
+venientia formali; inter creaturam autem et ideam quam habet in Deo non est
+talis convenientia formalis, sed solum intentionalis seu idealis, sicut inter speciem
+intentionalem et obiectum visibile non est propria relatio similitudinis, quamvis
+sit intentionalis repraesentatio. Nec secundum dici potest, quia idea vel exemplar
+artificis non habet alium influxum immediatum in effectum, praeter eum quem
+habet artifex ut causa perfecta efficiens est, neque per aliam actionem nisi qua
+efficiens est, quia exemplar, ut sic, non habet aliam causalitatem quam dirigere
+actionem agentis; ergo in effectu non resultat alia relatio, nisi quae consequitur
+ex vi actionis agentis, ut agens est; ergo non habet aliam relationem realem con-
+formitatis vel dependentiae ad exemplar. Quod si dicas effectum pendere ab
+exemplari quoad specificationem, ab efficiente vero ut sic quoad exercitium, hoc
+ipsum convincit in effectu non resultare specialem relationem ad exemplar, sed
+solum eam quae est ad causam efficientem, quia unica est causalitas et actio
+qua res fit et in tali specie fit, et illa distinctio quoad exercitium et specifica-
+tionem in praesenti solum est secundum rationem et accommodationem, non
+secundum rem. Immo exemplar non comparatur ad efficiens ut causa distincta,
+sed ut constituens illud suo modo in actu primo ad efficiendum; ergo neque in
+effectu resultat multiplex relatio, sed sola illa quae est effectus ad suam causam
+efficientem.
+15. Perhaps it will be said that the argument indeed shows that these relations are not
+distinct, yet for all that a true being includes a relation of a creature in its own essence so
+
+-- 15 of 29 --
+
+Su´arez, DM VIII.7 16
+that there is a relation of conformity to an idea of the creator, just as the action itself of
+the creator in its own essence includes what is from the idea. But whatever the case may be
+concerning such a real relation or whether it is distinct or not, I show further on that the
+nature of the truth of created being cannot consist in that.
+First, that general argument stated above that the attributes of being cannot add to being
+any real positive mode, neither absolute nor respective. Second, because it is one thing
+for a relation to follow from another, but another thing formally to constitute it. That
+relation, moreover, if it is, supposes the nature of truth in the created being and follows
+that. Therefore, truth is not formally constituted by such a relation.
+The consequence is evident, because that which is formally constituted through some form
+cannot itself be supposed of the form.But the antecedent is clear, first, by the perceptible
+examples of artifical things. For a thing made by art according to the idea and rule of the
+art is not therefore rightly made and conforming to the art because it has in itself some
+categorical relation to the art, but precisely because it has a certain figure, proportion, and
+so on, which sort of qualities the art demands. And from there afterwards follows a relation,
+if it truly results. Hence, if in the mind we prescind such a relation, or if perhaps it is a true
+opinion which denies resulting relations of this sort, nevertheless an artificial thing will be
+understood as true in the genus of artificial [things]. Therefore, the same is true in the case
+of a creature with respect to divine ideas. For it is compared to them just as to a craftsman.
+Finally, I explain in this way, because nature is a creature produced by God before to it
+itself is referred by a categorical relation of createdness. Therefore, it is both a true creature
+or true being prior to the nature which is referred to by the just-mentioned relation and
+similarly the nature is true human or true lion prior [to that]. Therefore, that relation is not
+formally and intrinsically included in the nature of truth.
+The antecedent is clear, because the nature is a foundation prior to being a relation. This
+relation, however, is founded in the entity of an existing creature and therefore is supposes
+that having been created and having come from God. But the first consequece is clear,
+because created being by the strength of that entity which it has from God before the
+nature which results in that categorical relation not only is intelligible by a true concept of
+being but also is truly constituted in such and such a species of created being. Therefore,
+precisely such a relation, can be foreknown to be a true being and such a being. Therefore,
+it does not add true as a true categorical relation beyond being.
+Dicetur fortasse argumentum quidem probare has relationes non esse distinctas,
+nihilominus tamen verum esse relationem creaturae in sua essentia includere ut
+sit relatio conformitatis ad ideam creatoris, sicut actio ipsa creatoris in sua es-
+sentia includit quod sit ab idea. Sed quidquid sit de tali relatione reali et sive
+distincta sit sive non, probo ulterius non posse in illa consistere rationem veritatis
+entis creati. Primo, illa ratione generali supra dicta quod passiones entis non pos-
+sunt addere enti modum realem positivum, neque absolutum neque respectivum.
+Secundo, quia aliud est relationem consequi ex alio, aliud vero formaliter illud
+constituere; illa autem relatio, si est, supponit rationem veritatis in ente creato
+
+-- 16 of 29 --
+
+Su´arez, DM VIII.7 17
+et illam consequitur; ergo non constituitur formaliter veritas tali relatione.4 Con-
+sequentia est evidens, quia id quod constituitur formaliter per aliquam formam,
+non potest ipsi formae supponi. Antecedens vero patet primo, exemplo sensibili
+rerum artificialium; nam res arte facta secundum ideam et regulas artis non ideo
+est recte facta et conformis arti quia in se habet relationem aliquam praedica-
+mentalem ad artem, sed praecise quia habet talem figuram, proportionem, etc.,
+qualem ars postulat, et inde postea sequitur relatio, si vere resultat. Unde si
+mente praescindamus talem relationem, vel si fortasse vera est opinio quae negat
+huiusmodi relationes resultantes, nihilominus intelligetur res artificialis vera in
+genere artificii; ergo idem est in creatura respectu divinarum idearum; nam com-
+paratur ad illas sicut ad artificem. Deinde explico in hunc modum, quia prius
+natura est creatura producta a Deo quam ad ipsum referatur relatione praedica-
+mentali creaturae; ergo et est vera creatura seu verum ens creatum prius natura
+quam referatur praedicta relatione; et similiter prius natura est verus homo aut
+verus leo; non ergo includitur illa relatio formaliter et intrinsece in ratione veri-
+tatis. Antecedens patet, quia prius natura est fundamentum quam relatio; haec
+autem relatio fundatur in entitate creaturae existentis, et ideo supponit illam
+creatam et manantem a Deo. Prima vero consequentia patet, quia ens creatum
+ex vi illius entitatis quam a Deo habet prius natura quam in illo resultet relatio
+praedicamentalis, non solum est intelligibile vero conceptu entis sed etiam est
+vere constitutum in tali vel tali specie entis creati; ergo, praecisa tali relatione,
+praeintelligi potest esse verum ens et tale ens; non ergo addit verum ut verum
+praedictam relationem supra ens.
+16. This reason not only proceeds against those who say that this relation is real, but
+also against those who say that it is a conceptual relation, if they speak about formal and
+actual relations. Otherwise, if [they speak] about fundamental, which is not so much a
+relation as an association of multiple thing or formal natures or a denomination is taken
+from such an association, as was declared above about the truth of cognition. But the just-
+mentioned reason chiefly proceeds concerning actual conformity to a divine idea. A fortiori,
+nevertheless, it shows concerning the similar actual conformity to whatever other cognition,
+because all other relations are posterior and more extrinsic.
+And it can also be applied to aptitudinal relations by which it is said that a thing is apt
+to be understood or to conform to the intellect having a proper or true concept of it. For
+this denomination really does not add a real relation in the thing which is called intelligible,
+because it is only an aptitude for a certain extrinsic denomination, to which the object is
+compared, as a terminus or matter to which the cognition is turned.
+Likewise, because, as the arguments made show, a thing is intelligible through it itself and
+not through a superadded relation, insofar as that which is required on the part of it. For
+on the part of another is required a faculty of understanding.
+4The digitized text reads as follows: ‘Secundo, quia aliud est relatioillud constituere; illa autem relatio, si
+est, nem consequi ex alio, aliud vero formaliter supponit rationem veritatis in ente creato et illam consequitur;
+ergo non constituitur formaliter veritas tali relatione’. Obviously part of the sentence was inserted into a
+different part. The Viv´es edition has it correctly.
+
+-- 17 of 29 --
+
+Su´arez, DM VIII.7 18
+Likewise, because the knowable as such does not express a real relation to science, as everyone
+teaches. And the same is true concerning the visible with respect to vision.
+Finally, even if you imagine that nothing is understood by an act, the thing will be intelligible
+and true in and of itself. Therefore, no matter what way truth may be explained, either
+through actual conformity or through aptitudinal [conformity], it cannot consist in a formal
+and proper relation.
+Quae ratio non solum procedit contra eos qui dicunt hanc relationem esse realem,
+sed etiam contra eos qui dicunt illam esse relationem rationis, si de formali et
+actuali relatione loquantur; secus si de fundamentali, quae non tam est relatio
+quam concomitantia plurium rerum vel rationum formalium, seu denominatio
+ex tali concomitantia sumpta, ut supra declaratum est in veritate cognitionis.
+Sed praedicta ratio praecipue procedit de conformitate actuali ad ideam div-
+inam; a fortiori tamen probat de simili actuali conformitate ad quamcumque
+aliara cognitionem, quia omnis alia relatio posterior est magisque extrinseca. Et
+applicari etiam potest ad relationem aptitudinalem qua dicitur res apta intel-
+ligi vel conformari intellectui habenti proprium seu verum conceptum eius; haec
+enim denominatio revera non addit relationem realem in re quae intelligibilis
+dicitur, quia solum est aptitudo ad quamdam extrinsecam denominationem, ad
+quam comparatur obiectum, ut terminus seu materia circa quam versatur cogni-
+tio. Item, quia, ut argumenta facta probant, res est intelligibilis per seipsam et
+non per relationem superadditam, quantum ad id quod ex parte eius requiritur;
+nam ex parte alterius requiritur facultas ad intelligendum. Item, quia scibile ut
+sic non dicit relationem realem ad scientiam, ut omnes docent; et idem est de
+visibili respectu visus. Denique etiamsi fingas nullum actu esse intellectum, res
+erit intelligibilis ex se et vera. Quomodocumque ergo veritas explicetur, sive per
+actualem conformitatem, sive per aptitudinalem, non potest in formali et propria
+relatione consistere.
+The third opinion is rejected (Tertia opinio improbatur)
+17. Tertia sententia excogitari potest, quod veritas transcendentalis supra ens solum ad-
+dat negationem aliquam. Quae sane opinio videri potest singularis, quia omnes auctores
+supponunt verum dicere positivam denominationem; tamen, si considerentur supra dicta,
+videbitur apparens, quia ostensum est non addere veritatem supra ens positivam rationem
+absolutam, neque etiam relativam rei aut rationis; ergo nihil relinquitur quod addere possit
+praeter negationem. Confirmatur ex communi modo declarandi hanc veritatem; ut enim
+argumentatur Aureol., apud Capreol., In I, dist. 13, q. 3, ut concipiamus et explicemus veri-
+tatem alicuius rei, verbi gratia, hoc esse verum aurum, non recurrimus ad exemplaria divina,
+neque ad aliquem alium intellectum, ut ex ipso usu concipiendi et loquendi constat, sed per
+negationem id declaramus; dicimus enim esse verum aurum quod non est fictum vel apparens
+tantum, sed quod habet propriam auri naturam, quam ex proprietatibus et effectibus col-
+ligimus. Unde haec veritas magis videtur explicanda per principia intrinseca rei, ut verus
+homo dicatur quia essentialibus principiis hominis constat; hoc autem nihil addit supra enti-
+tatem rei nisi negationem fictionis seu apparentiae. Praeterea declaratur a simili; nam, sicut
+
+-- 18 of 29 --
+
+Su´arez, DM VIII.7 19
+esse idem (ut supra dicebamus), quamvis per modum positivi significetur, tamen in re nihil
+addit supra ens nisi negationem, ita in vero contingere videtur; dicitur enim res aliqua vera
+in tali ratione entis, quia veram naturam aut propria principia essentialia illius rei habet;
+dicitur autem habere veram naturam, quia non habet fictam, nec extraneam et apparentem,
+sed eam quae est propria talis rei; sicque dicitur verus Deus ut a falsis distinguatur, et vera
+divinitas ut indicetur non esse fictam, sed quae ex se talis est. Denique ad hunc modum alia
+transcendentia a multis explicantur; nam res, quod significat essentiam ut realem et ratam,
+dicitur importare negationem imaginariae aut fictae essentiae, et aliquid negationem nihili
+aut negationem identitatis. Quid ergo mirum quod verum etiam per negationem declaretur,
+quamvis speciem habeat positivae proprietatis?
+18. Videtur ergo hic modus dicendi non omnino improbabilis; tamen, quia novus apparet,
+probandus nobis non est; nam ratio et definitio veritatis iuxta communem modum concip-
+iendi omnium qui de veritate loquuntur, includit vel connotat aliquo modo habitudinem
+ad intellectum seu ad potentiam cognoscentem; et non per modum negationis, ut per se
+constat; ergo per modum conformitatis, quae ut positivum aliquid concipitur. Deinde quia
+potius falsitas rei in negatione posita est, ut infra dicetur, quia dicit carentiam perfectio-
+nis debitae ad veritatem rei; ergo veritas non addit de formali negationem illius carentias
+perfectionis debitae neque negationem fictae naturae, sed propriam et positivam rei perfec-
+tionem. Denique, quamvis haec simplicia saepe explicentur a nobis per negationem (quod
+solum probant coniecturae adductae) non tamen propterea significant formaliter talem nega-
+tionem.
+Quarta opinio
+19. Est ergo quarta sententia, hanc veritatem solum esse denominationem extrinsecam. Ita
+sentit Caiet., I, q. 16, a. 6, in fine, ubi solum agit de rebus creatis, quas dicit esse veras
+denominatione extrinseca vel a veritate divina, quatenus sunt signa eius eamque imitantur,
+vel a veritate creata speculative intellecta, quatenus sunt vel esse possunt causa eius. Ra-
+tio eius est, quia ita se habet verum ad cognitionem et res, sicut sanum ad animal habens
+sanitatem et ad medicinam, etc.; nam sicut, ablata sanitate, quae formaliter est in animali,
+reliqua non denominarentur sana, ita ablata veritate cognitionis, reliqua non denominar-
+entur vera; ergo, sicut animal dicitur sanum intrinseca denominatione, reliqua vero tantum
+extrinseca, ita intellectus est qui formaliter et intrinsece denominatur verus, alia vero tantum
+extrinseca denominatione, quatenus sunt signa vel causae veritatis intellectus. Non declarat
+autem Caietan. quid dicendum sit de veritate qua Deus dicitur verus; fortasse tamen diceret
+etiam in eo significare denominationem extrinsecam, non signi seu causae, ut scilicet Deus
+dicatur verus quia potest veram sui cognitionem causare, vel proprie in alienis intellectibus
+vel improprie et secundum rationem tantum respectu sui intellectus, in quantum potest per
+modum obiecti esse suo intellectui ratio formandi de seipso verum conceptum Dei.
+20. Quod si obiicias, quia haec ipsa virtus causandi vel essendi sufficiens ratio obiectiva talis
+cognitionis est intrinseca ipsi enti; item, quod, cum cognitio Dei sit ei maxime intrinseca, non
+potest ab illa extrinseca denominatio sumi, responderi potest ad priorem partem virtutem
+quidem seu perfectionem illam esse intrinsecam, denominari tamen veram seu veritatem ab
+extrinseco; sicut etiam in medicina virtus causandi sanitatem intrinseca est, tamen ratio
+
+-- 19 of 29 --
+
+Su´arez, DM VIII.7 20
+sanitatis in illa est extrinseca. Ad alteram partem dicetur, quod, licet cognitio qua Deus se
+cognoscit, sit illi maxime intrinseca et ideo intrinsece denominet illum cognoscentem, tamen
+denominatio cogniti, ut sic, per se ac formaliter est extrinseca acciditque illi ut forma, a qua
+sumitur, sit intra rem quae cognita denominatur.
+21. Quae videantur obstare praecedenti opinioni.—Haec sententia quantum ad aliquid clara
+est, nimirum, quod verum supra ens non addit nisi concomitantiam alicuius extrinseci, ut
+infra ostendemus; quatenus vero dicit res solum per denominationem extrinsecam denomi-
+nari veras, videtur haec sententia difficilis. Primo, quia Aristoteles dicto loco II Metaph.,
+text. 4, sentit aliquam veritatem consequi ad omnia entia, quod etiam docet D. Thomas, I
+cont. Gent., c. 60, ratione ultima, distinguens duplicem veritatem, scilicet intellectus et rei
+et de posteriori exponens definitionem Avicen., tract. I suae Metaph., c. 6, et tract. VIII,
+c. 6: Veritas rei est proprietas esse uniuscuiusque rei, quod stabilitum est ei. Et I, q. 16,
+a. 1, de eadem veritate exponit definitionem August., lib. De Vera religione, c. 36, dicentis:
+Veritas est summa similitudo principii, quae sine ulla dissimilitudine est; et definitionem
+Anselmi, dialog. De Verit. c. 12: Veritas est rectitudo sola mente perceptibilis. In quibus
+omnibus significatur veritatem rei esse aliquam intrinsecam formam et perfectionem eius.
+Unde Augustinus supra: Vera (inquit) in tantum vera sunt, in quantum sunt; in tantum
+autem sunt, in quantum principalis unius similia sunt. Unde addit veritatem esse formam
+verorum sicut similitudo est forma similium. Praeterea D. Thomas, q. 1 De Verit., a. 4,
+quamvis multum videatur favere opinioni Caietani, tandem tamen dicit: quamvis veritas,
+secundum quam omnes res dicuntur verae, minus proprie veritas dicitur, tamen ab illa de-
+nominari rem veram, sicut a forma inhaerente, nihilque aliud esse quam entitatem intellectui
+adaequatam. Et idem sentit ibid., a. 5 et 6. Est ergo haec veritas aliquid intrinsecum re-
+bus et non tantum denominatio extrinseca. Ratione hoc confirmari potest, primo, quia sola
+extrinseca denominatio non potest proprie inter rei proprietates numerari; veritas autem
+dicitur ab omnibus proprietas entis; ergo non est tantum externa denominatio. Maior patet,
+quia proprietas debet ab intrinseco convenire; denominatio autem extrinseca accidentarie
+et ab extrinseco convenit. Quod maxime verum est de denominatione illa quae solum per
+analogiam sumi dicitur ex proportione vel habitudine ad aliud; nemo enim dixerit sanitatem
+ut sic esse proprietatem cibi aut urinae, vel risibilitatem esse proprietatem prati florentis,
+quia haec praedicata solum quasi metaphorice conveniunt illis subiectis.
+22. Dices: quamvis haec praedicata quoad impositionem vocum sint metaphorica, tamen
+revera significant quasdam proprietates earum rerum quibus attribuuntur; et hoc modo san-
+itas dici potest proprietas talis cibi non quoad ipsam formalem sanitatem, sed quoad id quod
+per talem denominationem sani declarari intenditur. Sed contra, nam hinc saltem recte col-
+ligimus sanitatem non esse proprietatem cibi distinctam ab illa quae per talem metaphoram
+declaratur; quod si illa non esset proprietas sed essentia ipsius cibi, certe sanum non signifi-
+caret proprietatem sed essentiam cibi. Sic ergo in praesenti, si verum tantum dicitur de rebus
+per analogiam et extrinsecam denominationem a veritate intellectus, interrogo quid indice-
+tur vel significetur in ipso ente per hanc metaphoram vel habitudinem. Aut enim indicatur
+sola rei entitas, et sic verum non est proprietas entis sed solum differt ab illo quod verum
+metaphorice significat id quod ens significat cum proprietate; sicut ridere non est in prato
+alia perfectio ab ea quae est esse viride vel floridum, sed est eadem metaphorice significata.
+
+-- 20 of 29 --
+
+Su´arez, DM VIII.7 21
+Aut per illam veri appellationem analogam indicatur in ente aliquid ab entitate diversum; et
+de hoc inquirimus quid sit et an sit sola denominatio extrinseca; nam, si ita est, non poterit
+esse proprietas entis; si autem est aliquid ultra denominationem extrinsecam, quoad id ratio
+veri intrinseca erit, quidquid sit de impositione vocis, an ab extrinseco desumpta sit.
+23. Et confirmatur, quia si veritas esset sola denominatio extrinseca, tam posset convenire
+entibus rationis sicut realibus, quia huiusmodi denominationes sumptae ex cognitione tam
+possunt convenire entibus rationis sicut realibus, ut esse genera, species, vere cognosci, sig-
+nificari, et similia. Quod si dicatur formaliter ita esse, fundamenta autem harum denomina-
+tionum aliter convenire entibus realibus, contra hoc urgeo semper rationem factam, quia hoc
+fundamentum in hac denominatione veri vel est aliquid praeter ens, vel non; si est aliquid,
+quaero quid illud sit, an extrinsecum vel intrinsecum, et redeunt argumenta facta; si non
+est aliquid, ergo verum prout est in rebus non est proprietas entis sed ipsum ens. Simile
+argumentum fieri potest, quia sequitur id quod est perfectius ens non esse perfectius verum
+veritate rei, quod est aperte contra Aristot. et D. Thomam supra, et contra communem sen-
+sum omnium; quis enim dicat non esse verius ens in ratione entis angelum quam hominem,
+vel etiam Deum quam angelum? Sequela vero patet, quia in denominatione illa quae sumi-
+tur ex veritate intellectus, non possunt habere inaequalitatem, quia tam vera est idea quam
+Deus habet de homine, sicut idea quam habet de angelo tantaque est conformitas inter illa
+extrema sicut inter haec; et tam vera est cognitio quam Deus habet de angelo sicut quam
+habet de se ipso.
+Resolution of the question (Quaestionis resolutio)
+24. What transcendental truth intrinsically expresses.—In this variety of opinions it is diffi-
+cult to make a true judgement concerning truth and perhaps the difficulty originates from
+the fact that we do not distinguish satisfactorily in our use of these words that from their
+imposition is taken or transferred and to which are imposed for signifying. Indeed, it can
+happen and likely has that every appellation of true led the origin from the truth of cogni-
+tion, as I say more fully in the following sections. But all the same by the name of true is not
+signified in things only a denomination taken up from the truth of cognition, but something
+else to which that name is imposed for signifying [it].
+Therefore, in order that I may declare this, I say first that transcendental truth intrinsically
+expresses the real entity itself of the thing which is denominated true, and besides that it
+addes to it nothing intrinsic, neither absolute nor relative, neither distinct ex natura rei or
+conceptually. This conclusion was satisfactorily shown by what was said in the first opinion
+and is clearly taken up from St. Thomas in the cited passages and in De Veritate q. 1, a. 1,
+ad 6 and a. 8, as well as Capreolus, Cajetan, Ferrara and others cited in the first opinion.
+Quid intrinsece dicat veritas transcendentalis.—In hac opinionum varietate diffi-
+cile est verum iudicium de veritate ferre, et fortasse difficultas inde orta est quod
+non satis in usu harum vocum distinguimus id a quo earum impositio sumpta vel
+translata est et ad quod significandum imponuntur; fieri enim potuit et verisimile
+est omnem veri appellationem ex veritate cognitionis duxisse originem, ut sec-
+tione sequenti commodius dicam; nihilominus tamen nomine veri non significari
+
+-- 21 of 29 --
+
+Su´arez, DM VIII.7 22
+in rebus solum denominationem sumptam ex veritate cognitionis, sed aliquid al-
+iud ad quod significandum nomen illud impositum est. Ut ergo hoc declarem,
+dico primo veritatem transcendentalem intrinsece dicere entitatem realem ipsius
+rei quae vera denominatur, et praeter illam nihil ei intrinsecum, neque absolu-
+tum, neque relativum, neque ex natura rei, nec sola ratione distinctum addere.
+Haec conclusio satis probata est ex dictis in prima sententia et sumitur clare ex
+D. Thoma, cit. locis, et q. 1 De Verit., a. 1. ad 6. et a. 8; Capreol., Caiet.,
+Ferrar. et aliis supra in prima opinione citatis.
+25. What transcendental truth connotes.—Second, I say that transcendental truth signifies
+the entity of the thing while connoting the cognition of concept of the understanding to which
+such an entity is conformed or in which such a thing is represented or can be represented as
+it is. This conclusion is also shown from what was said by a sufficient enumeration of the
+parts. And I think, although the authors speak in diverse ways, almost everyone wishes to
+teach the same thing and I explain it in this way.
+For I think that this concept of true being is virtually comparative of one thing or nature
+to a proper concept of that thing which is said to be true. As, for example, in the professed
+mystery of the Eucharist we are accustomed to saying that the consecrated host is the true
+body of the Lord Christ, where through ‘true body’ we express nothing other than that that
+same body which through a proper and true concept of the body of Christ is represented.
+And, similarly, in the confessed mystery of the Incarnation, we say that God is true man,
+that is, that he has that nature which we truly conceive in the essential species of human.
+And, henceforth, Hervæus says, Quodlibet III, q. 1, a. 2 and 3, that this truth is a conformity
+of the thing, just as it is in itself, to it itself as objective concept. But Durandus, in [Sent.]
+I, dist. 19, q. 5, says on the contrary that this truth is a conformity of the thing according
+to objective being to it itself according to real being. For either understood that truth
+adds nothing to being besides a denomination arising from a conjunction and proportion
+or conformity between understanding and the thing. But the same declare through the
+objective concept what we [declare] through the formal. Nevertheless, because an objective
+concept adds nothing besides the thing except a denomination with a terminus in the formal
+concept, therefore the conformity is not rightly explained as between the thing and an
+objective concept, but rather between the thing and the formal concept or idea.
+And I think those who say that true adds beyond being a conceptual relation of conformity
+of the being to the understanding think the same, as St. Thomas signifies in [Sent.] I,
+dist. 19, q. 5, a. 1. For this, as is true, should not be understood concerning a proper
+and actual relation, but concerning that mutual connection of the thing and concept and the
+connotation of one as corresponding to another, which, because it is conceived by us through
+the mode of relation, is customarily called a conceptual relation. Finally, in this sense that
+vulgar definition of truth, that it is a conformity between understanding and the thing, is
+easily applied to this truth. For that conformity is not understood to be some relation, as
+was explained above in [the section on] truth in cognition, but the denomination is taken
+up from the conjunction of multiple [things] having themselves such as one is such as it is
+represented by another.
+
+-- 22 of 29 --
+
+Su´arez, DM VIII.7 23
+Quid connotet veritas transcendentalis.—Dico secundo veritatem transcenden-
+talem significare entitatem rei connotando cognitionem seu conceptum intellectus
+cui talis entitas conformatur vel in quo talis res repraesentatur, vel repraesentari
+potest prout est. Haec conclusio probatur etiam ex dictis a sufficienti5 partium
+enumeratione. Et existimo, quamvis auctores diversimode loquantur, omnes fere
+hanc eamdem rem docere voluisse eamque in hunc modum explico. Existimo enim
+hunc veri entis conceptum esse virtualiter comparativum unius rei vel naturae
+ad proprium conceptum eius rei quae vera esse dicitur; ut, verbi gratia, ad profi-
+tendum Eucharistiae mysterium dicere solemus hostiam consecratam esse verum
+corpus Christi Domini, ubi per verum corpus nihil aliud significamus quam illud
+idem corpus quod per proprium ac verum conceptum corporis Christi repraesen-
+tatur. Et similiter, ad confitendum mysterium Incarnationis, dicimus Deum esse
+verum hominem, id est, habere illam naturam quam in essentiali specie homi-
+nis vere concipimus. Et hinc dixit Hervaeus, Quodl. III, q. 1, a. 2 et 3, hanc
+veritatem esse conformitatem rei, prout est in se, ad seipsam ut obiective con-
+ceptam; Durandus vero, In I, dist. 19, q. 5, e contrario dixit hanc veritatem esse
+conformitatem rei secundum esse obiectivum ad seipsam secundum esse reale;
+uterque enim intellexit hanc veritatem nihil rei addere praeter denominationem
+ortam ex coniunctione et proportione seu conformitate inter intellectum et rem.
+Sed ipsi declarant per conceptum obiectivum quod nos per formalem; tamen,
+quia conceptus obiectivus nihil praeter rem addit nisi denominationem termini
+conceptus formalis, ideo non recte explicatur conformitas inter rem et concep-
+tum obiectivum, sed inter rem potius et conceptum formalem seu ideam. Atque
+idem existimo sensisse eos qui dicunt verum addere supra ens relationem ratio-
+nis conformitatis entis ad intellectum, ut significat S. Thomas, In I, dist. 19, q.
+5, a. 1; hoc enim, ut verum sit, non est intelligendum de relatione propria et
+actuali, sed de illa mutua connexione rei et conceptus et connotatione unius, ut
+correspondentis alteri, quae quia per modum relationis a nobis concipitur, relatio
+rationis dici solet. Denique in hoc sensu facile applicatur ad hanc veritatem illa
+vulgaris veritatis definitio, quod sit conformitas inter intellectum et rem; illa enim
+conformitas non intelligitur esse relatio aliqua, ut supra in veritate cognitionis
+explicatum est, sed denominatio sumpta ex consortio plurium ita se habentium
+ut tale unum sit, quale ab alio repraesentatur.
+26. Augustine’s statement is explained.—Third, I say that transcendental truth can be
+explained both by way of aptitudinal conformity and by way of actual conformity, both in
+being ordered to the divine understanding and to created [understanding], and in the concept
+of cognized and cognizer if we are speaking universally of true being, or in the concept of
+caused and cause or measured and measure, if the discussion is about created or artificial
+being.
+I declare [them] one at a time, for in the first place, everyone admits that this truth can
+express actual conformity and by the very name of truth seems to stand a conformity to
+it. For it more signifies an act than an aptitude. Likewise, the truth of cognition expresses
+5Viv´es: sufficiente.
+
+-- 23 of 29 --
+
+Su´arez, DM VIII.7 24
+actual conformity and symmetry. Therefore, the same is the case proportionately concerning
+the truth of a thing.
+If you object that Augustine, Soliloquies II, c. 5 says that true is not rightly called that
+which holds itself in the way it seems to be cognized, because following this nothing would
+be true if nothing were cognized, we respond that in accordance with this denomination that
+definition should not be absolutely and simply rejects, if it is understood, as it should be
+understood, concerning a cognizor truly arriving at the thing itself. Hence, we also admit
+that that conditional is true. Nevertheless, just as the antecedent is impossible, at least
+with respect to divine understanding, so also the consequent. Hence, St. Thomas in [ST ]
+Ia.16.1 ad 1, discussing this passage from Augustine, says that it only excludes comparison
+to created intellect.
+Augustini dictum explicatur.—Dico tertio hanc veritatem transcendentalem posse
+et per modum aptitudinalis et per modum actualis conformitatis explicari, et in
+ordine ad intellectum divinum et ad creatum, et in ratione cogniti et cognoscentis
+si universaliter de ente vero loquamur, vel in ratione causati et causae vel mensu-
+rati et mensurae, si de ente creato seu artificiali sermo sit. Declaro singula, nam
+imprimis, quod haec veritas dicere possit conformitatem actualem omnes fatentur
+et ex ipso nomine veritatis ei conformitatis constare videtur; magis enim significat
+actum quam aptitudinem. Item veritas cognitionis dicit actualem conformitatem
+et commensurationem; ergo idem est proportionaliter de veritate rei. Quod si
+obiicias Augustinum, lib. II Soliloquiorum, c. 5, dicentem verum non recte dici
+esse id quod ita se habet, ut videtur cognitori, quia secundum hoc nihil esset
+verum, si nullus cognosceret; respondebimus secundum hanc denominationem
+non esse illam definitionem reiiciendam absolute et simpliciter, si intelligatur, ut
+intelligi debet, de cognitore vere attingente rem ipsam. Unde etiam admittimus
+illam conditionalem esse veram; tamen sicut antecedens est impossibile, saltem
+respectu intellectus divini, ita et consequens. Unde D. Thomas, I, q. 16, a. 1,
+ad 1, tractans hunc locum Augustini, dicit solum excludere comparationem ad
+intellectum creatum.
+27. Praeterea, quod haec veritas possit etiam per aptitudinalem conformitatem declarari,
+sumitur ex illo eodem loco Augustini, ubi post illa verba: Verum est quod ita se habet ut
+videtur cognitori, additur: Si velit et possit cognoscere. Quae verba aptitudinem signifi-
+cant. Clarius Anselmus, dialog. De Verit., c. 9, dicit veritatem esse rectitudinem sola mente
+perceptibilem. Et D. Thomas, dicta q. 16, a. 5, dicit veritatem inveniri in re secundum
+quod habet esse conformabile intellectui; et I cont. Gent., c. 60, declarans definitionem
+Avicennae: Veritas rei est proprietas esse uniuscuiusque rei, quod stabilitum est ei, addit:
+In quantum talis res nata est facere de se veram aestimationem. Et probatur quia omne ens
+reale natum est facere de se veram aestimationem, quomodo omne ens intelligibile dicitur,
+sive sit principium cognitionis, sive tantum terminus; haec enim aptitudo de se abstrahit ab
+his modis; ergo nihil impedit quominus haec possit nomine veri seu veritatis significari. Et
+confirmatur; nam, licet sit impossibile esse aliquod ens quod actu non vere concipiatur ab
+aliquo intellectu saltem divino, nihilominus tamen etiamsi intellectus apprehendat illam hy-
+
+-- 24 of 29 --
+
+Su´arez, DM VIII.7 25
+pothesim impossibilem in re positam, nimirum quod omnis intellectus etiam divinus cessaret
+ab actuali rerum conceptione, nihilominus adhuc esset in rebus veritas, nam et compositum
+ex corpore et anima rationali esset verus homo et aurum esset verum aurum, etc., vel se-
+cundum veritatem essentiae si intelligamus non manere res existentes, vel etiam secundum
+existentiam, si fingamus cessante actuali cognitione adhuc conservari res existentes a Deo
+operante per suam potentiam exsequentem; ergo haec veritas intelligi potest sufficienter per
+illam aptitudinalem conformitatem, etiamsi actualis non sit. Dices, simili argumento posse
+probari conformitatem aptitudinalem non esse necessariam, nam etiamsi fingatur alia hy-
+pothesis impossibilis, scilicet, quod res nec intelligatur nec possit ab aliquo intelligi, et quod
+maneat in sua essentia vel existentia, nihilominus unaquaeque res in sua essentia vera esset;
+et tamen tunc non intelligeretur ut apta ad faciendam veram de se aestimationem, quia non
+esset apud quem posset illam facere; ergo etiam illa aptitudo non est de ratione veritatis.
+Respondetur primum illam posteriorem hypothesim involvere magis directam et formalem re-
+pugnantiam cum propria ratione entitatis realis, saltem secundum essentiam; nam de ratione
+eius est ut sit possibilis, et consequenter ac multo magis ut sit intelligibilis. Deinde, facta
+illa hypothesi, posset res dici vera fundamentaliter seu non repugnanter, non tamen positive
+ac formaliter; quia tunc non esset possibilis veritas cognitionis, et consequenter omnis veri
+denominatio cessaret.
+28. Veritas rei maxime spectanda in ordine ad divinum intellectum.—Praeterea ex his facile
+constat hanc appellationem seu conformitatem potissime ac per se esse sumendam in ordina
+ad intellectum divinum, ut D. Thomas docet, dict. q. 16, a. 1, et aliis locis. Primo quia
+conformitas ad hunc intellectum est maxime per se in omnibus rebus, in creatis quidem
+propter dependentiam quam ab illo habent; in ipso vero ente increato propter intrinsecam
+et essentialem identitatem cum suo intellectu et actuali intellectione. Deinde quia in divino
+intellectu est summa et infallibilis veritas et perfectissima rerum omnium ratio seu reprae-
+sentatio; ergo tunc res maxime dicitur vera quando conformari potest conceptui quem de
+tali re Deus habet.
+29. Secundario in ordine ad creatum.—Quod autem etiam sumi possit in ordine ad intellec-
+tum creatum, quamvis secundario, docet expresse D. Thomas, q. 1 de Verit., loc. cit. Et
+potest facile declarari ex dictis; quia haec conformitas quam dicit veritas potest non solum
+de actuali, sed etiam de aptitudinali intelligi; at vero secundum aptitudinem omne ens na-
+tum est habere veram sui aestimationem in omni intellectu non solum divino, sed etiam
+creato. Unde, si velimus hanc denominationem per modum relationis concipere, intelligemus
+quodlibet ens habere hanc relationem intelligibilitatis non solum ad intellectum divinum, sed
+etiam ad quemcumque creatum. Item, quia intellectus creatus est quaedam participatio di-
+vini intellectus, cui natus est conformari in intelligendo, si vere intelligit; ergo, hoc ipso quod
+ens dicitur verum quia est conformabile intellectui divino, poterit etiam dici verum, quia
+est conformabile intellectui creato vere intelligenti. Tandem hoc probat argumentum illud,
+quod nos non semper cognoscimus veritatem rerum per conformitatem ad ideam divinam
+sed per conceptionem quam de tali re nos habemus. Atque hoc modo uti solemus definitione
+talis rei seu naturae ad probandum aliquid vere esse tale; definitio enim nihil aliud est quam
+explicatio talis naturae, ut a nobis concipitur; potest ergo haec veritas sumi non solum ex
+conformitate ad intellectum divinum, sed etiam ad creatum.
+
+-- 25 of 29 --
+
+Su´arez, DM VIII.7 26
+30. Conformitas veritatis in communi est conformitas cognoscentis et cogniti.—Hoc autem
+maxime verum habet si conformitas haec sumatur solum in ratione cognoscentis et cogniti,
+quomodo necesse est sumi si de transcendentali veritate in tota sua latitudine sermo sit.
+Quia in Deo non potest aliud genus conformitatis intelligi, cum non sit ens dependens neque
+causatum, ut per se constat; neque etiam proprie dici possit mensuratum in ratione veri
+per aliquam scientiam, non solum quia propter summam identitatem non potest ibi esse
+ratio mensurae, sed etiam quia eo modo quo possunt ratione distingui et commensurari,
+potius essentia Dei vera est mensura suae scientiae quam e converso; non enim Deus ideo
+verus Deus est quia talem se esse cognoscit, sed potius, quia est verus Deus, ideo vere
+se talem esse cognoscit. Ergo verum transcendentale in tota sua latitudine sumptum non
+potest dicere conformitatem ad intellectum ut ad causam vel ad mensuram, sed tantum
+ut ad repraesentantem seu cognoscentem, vel actu vel aptitudine. Hoc ergo modo talis
+conformitas praesertim aptitudinalis, in ordine ad quemcumque intellectum sumi potest ita
+ut Deus dicatur verus, quia in quocumque intellectu gignere potest verum conceptum Dei, vel
+quia reipsa in se habet illam naturam quam in Deo concipit quilibet intellectus vere Deum
+concipiens. Et idem eadem ratione est de entibus creatis; nam idem conceptus veritatis
+potest ad omnia proportionaliter applicari; et quod in Deo sufficit ad veritatem, si in aliis
+potest per participationem reperiri, ut revera potest, sufficiet etiam ad veritatem eorum per
+participationem.
+31. Entia creata intellectui divino ut opifici conformantur.—Additur vero in ultima parte
+conclusionis reperiri in entibus creatis conformitatem ad intellectum divinum ut ad causam
+et exemplar, ratione cuius possunt talia entia vera denominari, quia etiam illa est vera con-
+formitas ad intellectum practice cognoscentem et suo modo operantem. Et eadem ratione
+entia artificialia quae ab intellectu humano procedunt, respectu illius habent eamdem confor-
+mitatem ut ad suum exemplar vel ideam, et secundum eam vera etiam dici possunt. Immo
+sentit D. Thomas ab hac conformitate potissimum denominari vera entia creata, quia illa
+per se eis convenit; conformitas autem ad alios intellectus speculative cognoscentes est magis
+extrinseca et per accidens. Quod maxime habet locum in rebus existentibus et actu creatis;
+nam res secundum esse essentiae non habent actu causam exemplarem sicut neque efficien-
+tem; habent tamen in potentia, et ideo si considerentur ut possibiles sunt, per se requirunt
+exemplaria et ideas in primo artifice quae unumquodque tale esse repraesentent quale esse
+potest aut natura fieri postulat. Et hoc modo res omnes creatae etiam secundum esse es-
+sentiae, per se primario postulant esse in divino intellectu et habere conformitatem cum
+illo, tamquam cum primo artifice a quo solo possunt ad esse perduci. Deus autem cum in-
+creatum ens sit, ad nullum intellectum potest habere hanc habitudinem; nihilominus tamen
+alia ratione potest dici per se habere conformitatem respectu proprii intellectus potius quam
+aliorum; quia per se et essentialiter postulat ut seipsum actu intelligat sitque non solum
+intelligibilis sed etiam actu intellectus a seipso et suamet intellectio. Atque ita probata est
+conclusio quoad omnes partes eius.
+32. Sed obiicies: ergo ratio veritatis transcendentalis non est una sed multiplex, quia apti-
+tudinalis vel actualis conformitas et speculativa vel practica valde diversae sunt. Secundo
+specialiter obiici potest quia veritas dicit relationem mensurati ad mensuram saltem fun-
+damentaliter; ergo non potest veritas rerum sumi in ordine ad intellectum creatum, cuius
+
+-- 26 of 29 --
+
+Su´arez, DM VIII.7 27
+cognitio non est mensura veritatis rerum, sed per illas potius mensuratur. Unde argumentor
+tertio, nam cognitio est vera quia conformatur rebus cognitis; ergo non possunt e converso
+res dici verae per conformitatem ad talem cognitionem; quia inter haec non est relatio mu-
+tuae seu similis comparationis, qualis est inter duo similia, sed dissimilis seu non mutuae
+comparationis, qualis est inter mensuram et mensuratum.
+33. Ad primum aliqui non existimant inconveniens totum id concedere quod in argumento
+infertur; quia, cum hae tantum sint quaedam denominationes quae ad modum relationum
+desumuntur seu explicantur, non est inconveniens ex variis capitibus et diversis considera-
+tionibus multiplicari. Immo, quidam etiam addunt sub una ratione esse respectus reales,
+sub alia vero rationis. Quod saltem concomitanter probabile est, quamvis non sit verum
+formaliter. Melius tamen fortasse dicetur illos omnes respectus sub uno adaequato contineri,
+seu ad unum revocari, nimirum ad illam aptitudinem qua unaquaeque res nata est veram sui
+aestimationem conferre; nam illam habet respectu cuiuscumque intellectus vel cognitionis
+et supra illam nihil addit actualis conformitas praeter denominationem seu coexistentiam
+cognitionis. Quod si inde resultet relatio, quando illa cognitio est practica et causa rerum,
+illa supponit potius veritatem quam constituat, ut circa secundam opinionem ostensum est.
+Ad secundum respondetur in rigore non esse necessarium ut ens dicatur verum in ratione
+mensurati per cognitionem cui conformatur; alias non posset Deus verum ens dici, ut supra
+argumentabar, quia in ratione entis nullam habet mensuram nec secundum rem, nec secun-
+dum rationem; et ideo, ut I, q. 14, latius dictum est, divina scientia non comparatur ad
+suam essentiam suumque ens ut practica, sed ut speculativa tantum. Solum ergo in veri-
+tate cognitionis speculativae verum habet quod ratio veri sumitur in ratione mensurati; nam
+divina etiam scientia practica, ut practica est, vera est, quamvis ut sic non habeat rationem
+mensurati, sed potius mensurae. Unde ad tertium respondetur negando consequentiam; quia
+ipsamet ratio veritatis non eodem modo dicitur de cognitione et de rebus; et ideo non est
+inconveniens ut secundum diversas habitudines conveniat cognitioni per conformitatem ad
+res in quantum illas ut sunt repraesentat, et rebus in ordine ad cognitionem in quantum
+aptae sunt ut in ratione obiecti veram sui existimationem inducant.
+34. Transcendental truth is not merely an extrinsic denomination.—Lastly, I say that this
+transcendental truth is not merely an extrinsic denomination, although it includes some
+mode or connotes a conjunction of another thing from which it results. In this conclusion
+I differ from the opinion of Cajetan, although perhaps it is not so much different as the
+explanation of his view.
+Therefore, it is shown from what was said, because the truth of a thing intrinsically includes
+its entity. Therefore, it is not a mere extrinsic denomination. The antecedent is clear from
+the definitions of truth which Augustine, Anselm, Avicenna, and others mentioned above
+passed down. Likewise, because on account of this cause fictitious beings are not true being
+and the intelligibles are very different than true beings. For these from their own origins
+are apprehended and cognized just as they are. That, in truth, minimally, but it must be
+that they are clothed by the craft and strength of the intellect with appearance or shadow
+of some reality.
+Likewise, for the same reason by which the thing has more of entity, it also has more of this
+
+-- 27 of 29 --
+
+Su´arez, DM VIII.7 28
+truth. And what more perfectly is being, it from itself is called more intelligible. Hence, we
+can argue farther. Because being intelligible in not a mere extrinsic denomination. Therefore,
+it is not true objectively but really. The antecedent is clear from what has been said, because
+intelligibility follows from the entity of the thing. Next also, because the object is a prior
+natural potency and the reason for it. Therefore, some aptitude is supposed in the object,
+by reason of which it is apt for terminating an act of potency, like, for example, in colour
+and sound with respect to vision and hearing. Therefore, similarly, in being to the extent
+that it is intelligible is understood not only an extrinsic faculty which has the strength for
+understanding, although this is necessary, but also on the part of the being itself is supposed
+an intrinsic aptitude, by reason of which it can terminate an act of this sort. In addition,
+those [arguments] confirm this that were mentioned favourably in the first opinion and others
+that we added in subsequent section.
+Veritas transcendentalis non est mera denominatio extrinseca.—Dico ultimo hanc
+veritatem transcendentalem non esse meram denominationem extrinsecam, quamvis
+includat aliquo modo seu connotet coniunctionem alterius rei unde illa resultat.
+In hac conclusione differo ab opinione Caietani, quamvis fortasse non tam sit
+differentia quam explicatio sententiae eius. Probatur ergo ex dictis, quia veritas
+rei intrinsece includit entitatem eius; ergo non est mera denominatio extrinseca.
+Antecedens patet ex definitionibus veritatis quas tradunt August., Anselm. et
+Avicenna, et ex aliis supra adductis. Item, quia propter hanc causam entia fic-
+titia non sunt vera entia et longe aliter sunt intelligibilia quam vera entia; nam
+haec ex se nata sunt apprehendi et cognosci prout sunt; illa vero minime, sed
+oportet ut artificio et vi intellectus aliqua realitatis specie seu umbra induantur.
+Item hac ratione, quo res magis habet de entitate, magis etiam habet de hac
+veritate; et quod perfectius est ens, id ex se magis intelligibile dicitur. Unde
+ulterius argumentari possumus; quia esse intelligibile non est mera denominatio
+extrinseca; ergo neque esse verum obiective seu realiter. Antecedens patet tum
+ex dictis, quod intelligibilitas sequitur entitatem rei; tum etiam quia obiectum est
+natura prius potentia, et ratio illius; ergo supponitur in obiecto aptitudo aliqua,
+ratione cuius aptum sit terminare actum potentiae ut, verbi gratia, in colore et
+sono respectu visus et auditus; ergo similiter in ente quatenus intelligibile est non
+solum intelligitur facultas extrinseca quae vim habet intelligendi, quamvis haec
+necessaria sit, sed etiam ex parte ipsius entis supponitur aptitudo intrinseca, ra-
+tione cuius potest actum huiusmodi terminare. Praeterea hoc confirmant quae
+in favorem primae opinionis adducta sunt et alia addemus sectione sequenti.
+Corollaria ex superiori resolutione
+35. Increatum et creata entia quomodo vera.—Atque ex his intelligitur primo quomodo esse
+verum conveniat omni enti reali, sive creato sive increato; quia omne ens de se est aptum
+conformari intellectui; immo nullum est ens quod non sit actu conforme alicui intellectui,
+saltem divino. Quo fit ut haec ratio veri primario conveniat primo enti, quod est Deus; quia
+per se et essentialiter includit cognitionem et cum illa summam ac necessariam conformitatem
+habet; et quia per se (ut ita dicam) est ratio suae veritatis et est origo et mensura omnis
+
+-- 28 of 29 --
+
+Su´arez, DM VIII.7 29
+veritatis quae in creaturis reperitur.
+36. Verum qualiter passio entis.—Secundo intelligitur ex dictis quomodo veram sit passio
+entis. Dicitur enim passio non quasi sit realis proprietas distincta ex natura rei ab ente,
+sed latiori modo, solum quia est quoddam attributum quod reciprocatur cum ente et ab eo
+aliquo modo distinguitur, saltem secundum rationem seu connotationem. Primum constat,
+quia ostensum est omne ens esse verum. Constat item ex dictis omne verum, eo modo quo a
+nobis explicatum est, esse ens reale; quia, licet entia rationis, eo modo quo cognoscuntur, dici
+possint habere conformitatem cum intellectu, tamen, quia ex se non habent intelligibilitatem
+neque entitatem in qua fundetur illa conformitas, ideo neque veritatem habent quae est passio
+entis. Maxime cum ostensum sit hanc veritatem dicere entitatem ipsam ut conformem.
+Altera vero pars de distinctione satis etiam est ex dictis explicata. Neque contra illam
+procedunt quae circa tertiam opinionem Caietani obiiciebamus, quia non asserimus solam
+denominationem esse proprietatem, sed ipsam entitatem sub tali ratione conceptam. Quo
+fit ut per hoc veri attributum nulla nova perfectio aut realis ratio in ipso ente explicetur, sed
+solum declaretur amplius ipsamet ratio entis per habitudinem ad cognitionem, eo modo quo a
+nobis explicata est. Et, quia haec habitudo accidit quodammodo ipsi enti ut sic et est aliquo
+modo saltem secundum rationem posterior illo (quamvis semper sit cum illo coniuncta), ideo
+verum quod per hanc habitudinem declarat naturam entis, attributum seu proprietas eius
+dicitur.
+37. Aristotelis dictum explicatur.—Tertio intelligitur ex dictis quo sensu dictum sit ab Aris-
+totele, in fine lib. VI Metaph., verum non esse in rebus sed in mente; loquitur enim de
+veritate complexa quae est in compositione mentis, et de alio esse vel non esse quod per
+huiusmodi complexionem significatur et ad eius veritatem requiritur. Nam quia veritas est
+speciali modo in compositione et divisione intellectus ut supra dixi, ideo veritas quasi per
+antonomasiam vel analogiam specialiter dici solet de illa veritate quae est in compositione
+et divisione, quae in negationibus et affirmationibus aeque reperitur et per se non requirit
+reale esse, sed quale per complexionem significatur.
+
+-- 29 of 29 --

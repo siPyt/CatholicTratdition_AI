@@ -1,0 +1,320 @@
+Last revision: February 5, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 5, SECT. 11
+© Sydney Penner 2011
+<45, col. b>2
+DE OBJECTO HUMANÆ BEATITUDINIS. ON THE OBJECT OF HUMAN HAPPINESS.
+Expedita quæstione, an sit beatitudo; sequitur explicanda quæs- Having gone through the question whether happiness exists, it follows
+tio, quid sit: et quoniam formalis beatitudo, ut infra dicam, in that one should explain the question what it is. And since formal hap-
+operatione consistit, quæ speciem et rationem suam sumere so- piness, as I will discuss below, consists in activity, what its species and
+5 let ab objecto, ideo primum omnium de objecto dicendum est; 5R character is is usually taken up from the object. And for that reason the
+quod præcipue tractat D. Thomas, 1, 2, in tota quæst. 2, et at- discussion should first of all be about the object. St. Thomas discusses
+tingit etiam in sequenti, partim in art. 1, partim <46> in 6 et this especially in IaIIæ.2, but also touches on it in the following ques-
+7, et late 3, contr. Gent., a cap. 27 usque ad 63. Reliqui doc- tion, partly in art. 1 and partly in art. 6 and 7, and more thoroughly
+tores in 4, dist. 49. Solum est in hoc principio advertendum, in SCG III, from cap. 27 all the way to cap. 63. The remaining doctors
+10 hanc disputationem de objecto, communem esse omni beatitu- 10R [discuss it] in IV, dist. 49. It only remains to be noted in this begin-
+dini tam naturali quam supernaturali vitæ præsentis et futuræ, ning that this disputation is about the common object of all happiness,
+conveniunt enim omnes in illa re, in qua beatitudo consistit, natural and supernatural, of the present life and of the future life. For
+quamvis de modo attingendi, vel consequendi illam sit diversi- they all agree in this matter (in what happiness consists), although there
+tas, ut postea videbimus. are differences about the way of attaining or achieving it, as we will see
+15R later.
+15 SECTIO I. SECTION I.
+Utrum omnes creatura sine Deo possint esse sufficiens objectum Whether all created things without God could be a sufficient object of hu-
+humanæ beatitudinis. man happiness.
+De hominis
+beatitudine
+scriptores varii.
+1. Hæc quæstio celebris fuit inter antiquos philosophos, in- 1. This question was renowned among the ancient philosophers, Different writers
+on human
+happiness.
+ter quos fuit magna opinionum varietas in explicanda hominis 20R among whom there was a great diversity of opinions in explaining hu-
+20 beatitudine, de quibus, quia prolixum esset illas referre, legi man happiness. Because relating [all of those opinions] would be pro-
+possunt ex philosophis Aristoteles, lib. 1, Ethic. et 10, Cicero, lix, one can read, of the philosophers, Aristotle, EN I and X, and Ci-
+lib. de Finibus, et in Paradoxis; ex Patribus vero Augustinus cero, de finibus and Paradoxa. And, of the Fathers, Augustine, DCD,
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not
+always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+21 1 ] 11 V.
+
+-- 1 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 2
+10, de Civit., a principio, et cap. 56, et tractatu de Epicureis et from the beginning and cap. 56, and de Epicureis et Stoicis; Ambrosius,
+Stoicis: obiter Ambrosius, lib. 2, de Officiis, cap. 2, et Clemens 25R de officiis II, cap. 2, in passing; Clement of Alexandria, Stromata II,
+25 Alexandrinus, lib. 2, Stromat., circa finem, Lactantius, lib. 3, about the end; Lactantius, de falsa sapientia III, especially from cap. 7;
+de falsa Sapientia, præsertim a cap. 7, et Boetius, lib. 2 et 3, and Boethius, de consolatione II and III. Briefly, all created goods can be One genus of
+goods.	Unum genus
+bonorum.
+de Consolatione. Breviter omnia creata bona possunt ad tria grouped into three principal divisions. In the first division are external
+capita revocari; in primo sunt bona externa, quæ dicuntur goods, which are called the goods of fortune. And these do not intrin-
+bona fortunæ, et intrinsece non afficiunt ipsum hominem, ut 30R sically affect a human being himself. The four goods which St. Thomas
+30 sunt quatuor illa, de quibus D. Thomas, disp. 1, 2, quæst. 1, [discusses] in [IaIIæ.2.1–4]3 are examples: wealth, honour, fame, and
+art. 4, divitiæ, honor, fama, potestas, de quibus non invenio power. I do not find any philosopher who asserts that happiness con-
+philosophum aliquem asseruisse in illis solis consistere beati- sists in these goods alone, although some [assert that it consists] in these
+tudinem, licet aliqui ea conjunxerint cum aliis bonis. In se- conjoined with other goods. In the second division are goods of the The second
+genus.	Alterum genus. cundo capite sunt bona corporis, ut sunt sanitas, robur; et ad 35R body such as health and strength. Pleasure of the body and freedom
+35 hoc caput etiam spectat voluptas corporis et indolentia, et in from pain also belong in this division. Many constitute happiness in
+his bonis multi beatitudinem constituunt, ut Carneades apud these goods, as Carneades—who calls these the first goods of nature—
+Ciceronem, lib. 5, de Finib., qui hæc vocabant prima bona does according to Cicero in de finibus V. Aristippus also does according
+naturæ: et Aristippus apud Lactantium supra. Et multi in to Lactantius (cited above). And many also interpret the view of Epi-
+hunc modum interpretantur sententiam Epicuri, ut Augusti- 40R curus in this way, as Augustine (cited above), St. Thomas in SCG III,
+40 nus supra, et D. Thomas 3, contra Gent., et Lactantius, et alii and Lactantius. But others say that he was speaking about the pleasure
+Tertium genus. dicant esse locutum de animæ voluptate. In tertio ordine sunt of the soul. In the third order are the goods of the soul. Here we can The third genus.
+bona animæ, per quæ intelligere possumus, aut animam ipsam, understand either the soul itself and the perfection inhering in it or also
+et perfectiones illi inhærentes, aut etiam extrinsecum aliquod any extrinsic good in the mode of a principle or object. And in this way
+bonum per modum principii vel objecti. Et hoc modo etiam 45R God is also included among the goods of the soul. Here, therefore, we
+45 Deus inter bona animæ comprehenditur: <col. b> hic igitur deal with all goods with the exception of God.
+de omnibus bonis agimus, excepto Deo.
+1. Assert. neg. de
+bonis fortunæ.
+2. Dico ergo primo, bona fortunæ per se sola non pos- 2. Therefore, I say, firstly, that goods of fortune cannot in them- 1st negative
+assertion about
+goods of fortune.
+sunt hominem beatificare. Hanc conclusionem tractat bene ex selves alone make a human being happy. Of the scholastics, Major treats
+scholasticis Major dist. 49, quæst. 1, et est non solum certa, se this conclusion well in [IV], dist. 49, q. 1. Not only is it certain, it is
+50	1.Probatio
+generalis.
+etiam evidens. Et probatur primo generatim quia omnia hæc 50R also self-evident. And it is proven generally, firstly, because all these 1st general proof.
+bona imprimis sunt inferioris ordinis; deinde sunt extrinseca et goods are of an especially inferior order. Also, they are extrinsic and do
+nec perficiunt hominem in se ipso, neque possunt esse objecta not perfect a human being in himself nor can they be objects of perfect
+perfectorum actuum: tertio, non sunt bona stabilia, sed facil- acts. Thirdly, they are not stable goods, but they are very easily lost,
+lime amittuntur, etiam nobis invitis et sine ulla culpa: quarto, even against our will and without any fault [on our part]. Fourthly,
+55 his bonis etiam iniqui abundant, imo facilius illa consequun- 55R these goods also abound in unfairness—indeed, that follows more eas-
+tur: quinto, unum sine alio non satiat appetitum, nec omnia ily. Fifthly, one without another does not satisfy desire nor all of them
+simul sine salute. together without health.
+3The reference in the Latin text does not make sense. But Aquinas does discuss these four goods in turn as candidate ultimate ends in articles 1–4 of q. 2 of the prima secundæ.
+54 ulla ] om. V.
+
+-- 2 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 3
+2. Probatio
+singulatim ac
+primo de divitiis.
+3. Ratio breviter de singulis, nam primo divitiæ non sunt 3. An argument, briefly, for each one, for, firstly, wealth is not de- 2nd proof for
+each individually
+and, firstly, about
+wealth.
+propter se appetibiles, sed solum ut instrumenta vitæ: deinde sirable for its own sake but only as an instrument to life. Also, it is very
+60 difficillimi acquiruntur et difficilius conservantur; et si inor- 60R difficult to acquire and more difficult to keep. And if it is loved inordi-
+dinate, ac propter se amentur, nunquam satiant appetitum: nately and for its own sake, it never satisfies desire, for ‘the miser will
+avarus enim nunquam implebitur pecuniis, Eccl. 15. Et propter never have enough money’ (Eccl. 15). And for this reason the Christian
+hanc causam Christiana religio non solum non constituit beat- religion does not only not place happiness in wealth but decrees to de-
+itudinem in divitiis, sed etiam constituit eas despicere, ut beati spise it so that we can be happy. Concerning this matter, one can read
+65 esse possimus. De qua re legi potest Augustinus, sermon. 4 65R Augustine, ad fratres in Erem., sermon 4, and De verbis Apostoli 28; Gre-
+ad fratres in Erem., et 28, de verbis Apostoli, Gregorius, 3 gory, Pastoralis, part. 3, admonit. 27; and Chrysostom, homil. 69 and
+part. Pastoralis, admonit. 27, Chrysostom. homil. 69 et 70, in 70 on Matthew 20. Concerning honour, Aristotle says in EN I, cap. 5, About honour.
+De honore. Matth. 20. De honore ait Aristoteles, Ethicor. 1, cap. 5, esse that it is in honouring, not in having been honoured. And it depends
+in honorante, non in honorato, et pendere ex arbitrio ejus, on his choice and therefore cannot consist in that happiness, as those
+70 et ideo non posse consistere in illo beatitudinem, ut probant 70R arguments made about wealth also prove. Therefore, it is rather what
+etiam rationes factæ divitiis: potius ergo est quid consequens follows on happiness, because honour and an excellent report is owed
+beatitudinem, quia honor debetur virtuti, et testimonium ex- to virtue. But happiness ought rather to consist in some excellence than
+cellens; beatitudo autem debet potius consistere in aliqua ex- in a report of it. And in this way God is sometimes said to honour his
+cellentia, quam in testimonio ejus: et hoc modo dicitur Deus saints according to the reward of virtue, because he perfects those and
+75 interdum honorare Sanctos suos in præmium virtutis, quia ita 75R makes them excellent in such a way that he returns the most worthy
+illos perficit, et excellentes facit, ut reddat honore dignissimos, with honour. And it is said in this way in Psalm 139[:17], ‘your friends,
+et hoc modo dicitur in psalm. 138: Nimis honorati sunt am- O Lord, are made exceedingly honourable’, and Wisdom 5[:4–5], ‘we
+ici tui, Deus; et Sapient. 5: Existimabamus vitam illorum in- esteemed their life madness and their end without honour; behold, how
+saniam, et finem illorum sine honore; ecce quomodo computati they are numbered among the children of God’. Thirdly, there is the About fame.
+80	De fama. sunt inter filios Dei. Tertio, eadem est ratio de fama, quæ etiam 80R same argument concerning fame, which is also an extrinsic good and
+est bonum extrinsecum, et consistit in aliorum opinione, quæ consists in the opinion of others which is often not in our power. More-
+sæpe non est in potestate nostra: hoc autem præcipue intelli- over, this should especially be understood of fame or glory, which can
+gendum est de fama, seu gloria, quæ potest esse in mente crea- be in the mind of a creature. For that good fame which we can have
+turæ: nam illa bona fama, quam habere possumus in mente in the mind of God, as Cajetan notes in IaIIæ.2.3, can confer our hap-
+85 Dei, ut Cajetan notat 1, 2, quæst. 2, art. 3, conferre potest 85R piness, at least causally, because God confers happiness to those whom
+<47> nostram beatitudinem, saltem causaliter, quia Deus il- he cognizes as good and just. And this very knowledge, insofar as it is
+lis confert beatitudinem, quos bonos et justos cognoscit, et hæc God himself, can belong to the object of our happiness, although it does
+ipsa scientia, quatenus est ipsemet Deus, potest pertinere ad ob- not properly make us happy for the reason that they are terminated at
+jectum nostræ beatitudinis, quamvis non proprie nos beatificet us through the mode of the knowledge of vision, but rather in that he
+90 ea ratione, qua terminantur ad nos per modum scientiæ visio- 90R himself is an infinite good, as we will discuss more thoroughly later. But
+nis: sed quatenus in se est infinitum bonum, ut postea latius here might be asked whether these goods of honour and fame, although
+declarabimus. Hic vero inquiri poterat, an hæc bona honoris, they are not the ultimate good, might at least be desirable for their own
+et famæ, quamvis non sint ultimum bonum, sint saltem per sake as a proximate end. But this matter belongs to IIaIIæ.131. Finally, About power.
+67 Chrysostom. ] om. V.
+
+-- 3 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 4
+se appetibilia, ut finis proximus: sed hæc res pertinet ad 2, 2, the arguments made proceed in the same way concerning the power of
+95	De potestate. quæst. 131. Tandem rationes factæ eodem modo procedunt de 95R lordship. For this good is also very much extrinsic and of an inferior
+potestate dominandi; nam etiam hoc bonum est valde extrin- order. Moreover, it is not a stable good and can be snatched from us
+secum, et inferioris ordinis: non est autem bonum stabile, et unwillingly and unjust humans often excel in that. And, finally, the
+auferri potest nobis invitis, et in eo sæpe excellunt homines achievement of fame and honour can no more satisfy a human being
+iniqui. Ac denique non magis potest satiare hominem adep- than wealth. Finally, regarding the insufficiency of these goods and re-
+100 tio famæ et honorum, quam divitiæ. Denique de insufficientia 100R garding moderation in making use of them, one can read Chrysostom,
+horum bonorum, et moderatione in eis adhibenda, legi potest homil. 25 and ad pop., q. 3; Augustine, in psalm. 63; Gregory, Moralium
+Chrysostomus, homil. 25, et quæst. 3, ad populum, Augusti- 18; and Bernard, in Cant., serm. 13.
+nus in psalm. sexagesimum tertium, Gregorius 18, Moralium,
+et Bernardus, serm. 13, in Cant.
+105	2. Assert. neg. de
+bonis corporis.
+4. Dico secundo: nullum corporis bonum, etiam voluptas, 4. I say, secondly, that no good of the body, even pleasure, can be 2nd negative
+assertion about
+bodily goods.
+potest esse objectum humanæ beatitudinis. Hæc assertio etiam the object of human happiness. This assertion is also evident and so
+est evidens, et ita probata semper fuit a melioribus philosophis 105R was always proven by the better philosophers and the contrary rejected
+et contraria rejecta ut absurda et indigna hominibus, adeo ut as absurd and unworthy of humans, to such an extent that the Stoics
+Stoici dicerent, hæc inferiora commoda non esse appellanda said that these inferior goods should not be labelled goods except one,
+110 bona præter unum, nempe honestum bonum: in quo tamen namely, honest good. Nevertheless, they did not speak rightly with re-
+non recte dixerunt; habent enim hæc aliquam bonitatem et spect to these, for these have a certain goodness and conjunction with
+conjunctionem cum natura: ea tamen ab homine expetenda 110R nature, yet they are not to be sought by a human being unless conjoined
+non est, nisi cum honestate sit conjuncta. Et hinc facile pro- with honesty. And from here the conclusion is easily proven, because
+batur conclusio, quia hæc bona corporis sunt infima, et quo- these goods of the body are the most inferior and common in a certain
+115 dammodo aliis animalibus communia; homo autem ut supra way to other animals. But, as we were saying above according to Aristo-
+ex Aristotele dicebamus, non est capax beatitudinis secundum tle, a human being does not have a capacity for happiness according to
+id, quod commune habet cum brutis, sed secundum id, quod in 115R that which he has in common with brute animals but according to that
+eo divinum est. Deinde, quamvis homo habeat bona corporis, which in him is divine. Next, although a human being has the goods
+verbi gratia, salutem, robur, indolentiam, etc., si tamen careat of the body (for example: health, strength, freedom from pain, etc.), if,
+120 aliis bonis, etiam extrinsecis, ut honore et fama, etc., non est nevertheless, he lacks other goods, even extrinsic ones such as honour,
+contentus, nec satiatus: ergo non sunt hæc sufficiens bonum fame, and so on, he is neither content nor satisfied. Therefore, these are
+hominis, cum nec per se sola sufficient, nec secum afferant alia, 120R not a sufficient good for human beings, since they are neither sufficient
+Ultima specialis
+de voluptate.
+quæ necessaria sunt. Quæ omnia eodem modo procedunt de by themselves nor bring along other things which are necessary. All The last,
+especially about
+pleasure.
+voluptate, de qua possent aliæ rationes fieri: nam hæc sæpe est these in a certain way also proceed in the case of pleasure, concerning
+125 rectæ rationi contraria, et <col. b> impedit spiritualia bona: which other arguments can be made. For pleasure is often contrary to
+imo si sit nimia, ipsi etiam corpori nocet, et dolores atque ægri- right reason and impedes spiritual goods. In fact, if it is excessive, it
+tudines affert; si autem sit temperata, majus bonum est virtus, 125R even harms the body itself and brings along grief and sorrows. But if it
+quæ illam moderator: et hæc ipsa moderatio est signum, volup- is temperate, virtue, which is the moderator, is the greater good. And
+tatem non esse propter se expetendam, sed solum quoad nec- this very moderation is a sign that pleasure should not be sought for its
+105 Dico ] Dices A V
+124 de ] om. V.
+
+-- 4 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 5
+130 essarium fuerit, vel ad conservandam naturam, vel ad rectas own sake, but only to the extent that it is necessary either for preserv-
+operationes exercendas. Aliæ rationes videri possunt iu divo ing nature or for exercising the right activities. Other arguments can be
+Thoma 3, contra Gentes. 130R seen in St. Thomas, SCG III.
+3. Assertio neg.
+de bonis
+spiritualibus
+creatis. De
+anima.
+5. Dico tertio: etiam bona animi creata per se sola non 5. I say, thirdly, that even created goods of the soul do not suffice in 3rd negative
+assertion about
+created spiritual
+goods. About the
+soul.
+sufficere ad hominis beatitudinem. Probatur, quia inter hæc and by themselves for human happiness. It is proven, since among these
+135 bona primum est ipsa anima, quæ quidem est subjectum suæ goods the first is the soul itself, which indeed is the subject of its happi-
+beatitudinis, non tamen esse potest objectum, quia non potest ness, yet cannot be the object because it cannot be the ultimate end for
+esse finis ultimus sui ipsius, et ideo non potest in se conqui- 135R itself and therefore cannot take rest in itself. For just as it does not exist
+escere: nam sicut non est a se, ita non potest esse seipsa beata, from itself, so also it cannot be happy in itself, but seeks something bet-
+sed quærit aliud melius se et optimum, in quo quiescat. Se- ter than itself and best, in which it may rest. Secondly, there are among About goods
+inhering in the
+soul.
+140	De inhærentibus
+animæ.
+cundo sunt inter hæc bona illa, quæ formaliter inhærent ipsi these goods those which formally inhere in the soul itself (for example,
+animæ, ut sunt potentiæ suæ et actus, et in his consistere qui- the soul’s powers and acts). And formal happiness does in fact consist
+dem potest formalis beatitudo, non tamen objectiva, quia hæc 140R in these, yet not objective happiness, since these are less perfect goods
+minus perfecta bona sunt, quam ipsamet anima, saltem quoad than the soul itself, at least with respect to substantial entity. You may An example is
+resolved.	Instantia diluitur. entitatem substantialem. Dices: visio beata numeratur in his say: the beatific vision is numbered among these goods and yet it can
+145 bonis, et tamen illa posset esse sufficiens objectum beatitudi- be a sufficient object of happiness. For if anyone were to see in another
+nis: nam si quis videret in alio homine hujusmodi visionem, human being a vision of this sort, he would be happy because he would
+esset beatus, quia necessario videret Deum. Respondetur, eti- 145R necessarily see God. It is responded that even if the whole were con-
+amsi concedatur totum, non esse contra conclusionem, quia, ceded, it would not be contrary to my conclusion, since, if in seeing
+si videndo illam visionem, videtur Deus, non ideo erit aliquis that vision God is seen, then that person would not be happy because
+150 beatus, quia videt visionem, sed quia videt Deum: visio autem he saw the vision but because he saw God. But the vision itself will
+ipsa erit veluti medium cognitum ducens in Deum, si autem be, as it were, a cognized means leading to God. But if by that act hav-
+viso illo actu non necessario videtur Deus, quod fortasse verius 150R ing been seen, God is not necessarily seen, which perhaps is more true,
+est, cessat etiam argumentum, quia tunc illa visio ut objectum, then the argument also fails, because then that vision as object would
+non esset sufficiens ad beatificandum. not be sufficient to make one happy.
+155	De Angelis. 6. Ultimo connumerari possunt inter hæc bona Angeli, 6. Lastly, angels can be reckoned among these goods, insofar as About angels.
+quatenus sunt objecta, quorum cognitione multum perficitur they are objects the cognition of which greatly perfects the mind of hu-
+mens hominis: et hoc etiam non potest sufficere ad beati- 155R man beings. And this also cannot suffice for the happiness of a human
+tudinem hominis, qui est capax majoris boni, ut jam dicam: being, who is capable of a greater good, as I already said, and because
+et quia Angeli non sunt per se principium et causa animæ ho- angels are not per se principles and causes of the human soul and thus
+160 minis, et ita nec sunt finis hominis: item, nec sunt, nec conti- are not the ends for human beings. Nor are they nor do they contain
+nent omne bonum, sed sunt quoddam bonum participatum: every good, but rather they are a certain participated good. Therefore,
+non ergo possunt satiare hominem. Unde cum D. Thomas 160R they cannot satisfy a human being. Hence, when St. Thomas says in
+1, 2, quæst. 3, art. 7, dicit, in speculatione substantiarum sep- IaIIæ.3.7 that a certain imperfect human happiness is places in the spec-
+aratarum positam esse quamdam hominis imperfectam beati- ulation about separate substances, he should not be understood [to be
+165 tudinem, <48> non est intelligendus de beatitudine essentiali, referring to] essential happiness, even natural and of this life. But con-
+etiam naturali et hujus vitæ: sed de quadam accidentali perfec- cerning a certain accidental happiness, read his SCG III, cap. 17 and 25,
+tione: lege eumdem 3, contra Gent., capit. docimo-septimo et 165R and IV, cap. 54. Someone may say that angelic nature has a greater per- Objection.
+
+-- 5 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 6
+Obiectio. vigesimo-quinto, et lib. quarto, capit. 54. Dicet aliquis, ma- fection and proportion to human nature than God himself, since it has
+jorem perfectionem, atque proportionem habet natura Angel- a greater similarity and nearness. Therefore, human happiness consists
+170 ica cum humana, quam ipse Deus, quia habet majorem simil- more in the cognition of angels than of God. It is responded by deny- It is resolved.
+itudinem et propinquitatem: ergo magis consistit beatitudo ing the consequence, since although they have a greater proportion in
+Dissoluitur. humana in cognitione Angelorum, quam Dei. Respondetur 170R the perfection of being, yet not in the aspects of cause and effect and
+negando consequentiam, quia licet habeant majorem propor- in the aspect of an end and of a thing ordered to an end, nor also in
+tionem in perfectione entis, non tamen in ratione causæ et ef- necessary dependence and connection. Hence it happens so that just as
+175 fectus, et in ratione finis, et rei ordinatæ ad finem, nec etiam in the soul can exist without angels but not without God, so also it can be
+dependentia et connexione necessaria. Unde fit ut sicut potest happy without angels but not without God. Hence, it also happens as a
+esse anima sine Angelis non tamen sine Deo, ita potest esse 175R result that a human being can naturally attain a more perfect cognition
+beata sine Angelis, non tamen sine Deo: fit etiam inde, ut per- of God in this life than of angels.
+fectiorem cognitionem Dei possit homo naturaliter assequi in
+180 hac vita, quam Angelorum.
+Ultima assertio
+adæquata titulo
+quæstionis et de
+fide. Ratio
+D. Thomæ.
+7. Ultimo ex his concluditur, omnia bona creata simul 7. Lastly, from these it is concluded that all created goods taken The last assertion
+adequate to the
+title of the
+question and of
+the faith. An
+argument from
+St. Thomas.
+sumpta non posse sufficere ad beatificandum hominem sine together cannot suffice to make a human being happy without God.
+Deo, est de fide, ut a fortiori patebit ex his quæ dicemus, sec- This is of the faith, as will be clear a fortiori from the things we will
+tione sequenti. Ratione probat D. Thomas, 1, 2, quæst. 2, 180R say in the following section. St. Thomas shows it by reason in IaIIæ.2.8
+185 art. 8, ex capacitate potentiarum animæ nostræ, sunt enim uni- by appealing to the capacity of the powers of our soul, for they are
+versales potentiæ: quia habent universalissima objecta: volun- universal powers, because they have most universal objects. The object
+tatis objectum est bonum universale, sub quo omne bonum of the will is universal good, under which every good is comprehended.
+comprehenditur: bona autem creata sine Deo non complectun- But created good without God does not include every good. But only
+tur omne bonum: sed solus Deus est universale bonum: ergo 185R God is universal good. Therefore, all these goods without God cannot
+190 non possunt omnia sine Deo explere capacitatem hominis. satisfy the capacity of a human being. Cajetan writes much about this It is upheld
+against Cajetan.	Vindicatur a
+Caiet.
+Circa quam rationem multa notat Cajetanus, quia videtur in ea argument, because he seems to commit an equivocation in it. For God
+committi æquivocatio: nam Deus est bonum universale non in is a universal good not in predication but in causation and according
+prædicando, sed in causando, et secundum quamdam continen- to a certain eminential content. But the object of the will is universal
+tiam eminentialem: objectum autem voluntatis est universale 190R in predication. Nevertheless, there is no equivocation, but from one
+195 in prædicando: nulla tamen est æquivocatio, sed ex una uni- universality is made the best argument for the other. For since the
+versalitate fit optimum argumentum ad aliam: nam cum vol- object of the will is the good and of the intellect being, they clearly
+untatis objectum sit bonum, et intellectus sit ens, plane com- comprehend God under their objects and thus are in some way capable
+prehendunt Deum sub suis objectis, et ita sunt aliquo modo of God. In turn, God, since he is the highest good and highest being,
+capaces Dei. Rursus Deus cum sit summum bonum, et sum- 195R is the primary part for and primary object of these powers. Therefore,
+200 mum ens, est præcipua pars, et præcipuum objectum harum it cannot happen that a human being is made happy according to these
+potentiarum; ergo fieri non potest, ut homo secundum has po- powers in creatures alone without God, since that would be lacking
+tentias fiat beatus in solis creaturis sine Deo, quia deest illi id, which is supreme and best in his capacity.
+quod est supremum, et optimum in capacitate sua.
+Confirmat.
+quoad obiecta
+intellectus.
+8. Unde confirmatur, nam in homine operante secundum 8. Hence, it is confirmed, for in a human being acting according to It is confirmed
+with respect to
+the object of the
+intellect.
+205 rationem duplex facultas considerari potest; altera est specu- 200R reason, two faculties can be considered. One is the speculative faculty
+
+-- 6 of 7 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 1 7
+lative ad contemplandum, et hæc non potest esse contenta si for contemplation. And this cannot be content if it does not reach God,
+non perveniat ad Deum, qui est supremum intelligibile. Unde who is the supreme intelligible. Hence, Gregory of Nazianzus rightly
+recte Gregorius Nazianzenus, orat. 21, de Laudibus Athanasii: says of God in de laudibus Athanasii: ‘Of all intelligibles the highest,
+Intelligibilium omnium (inquit de Deo) summus est vertex, in he is the peak in which every desire consists and to which it is focused,
+210 quo desiderium omne consistit, ac defigitur, nec supra eum usque 205R nor is it brought all the way beyond him, for no mind has anything
+fertur, nec enim quippiam sublimius habet, aut habebit unquam more sublime nor will it ever have, although philosophical, tending to
+mens ulla, quamvis philosophica, et altissima tendens, ac summe the deepest things, and most diligent. For this is the farthest limit of all
+curiosa: hoc enim rerum omnium expetendarum extremum est, things to be sought, by which all speculation is brought to rest when
+quo cum pervenerimus, conquiescit omnis speculatio. Altera fac- we arrive at it.’ The other faculty of the human mind is for acting
+215 ultas humanæ mentis est ad operandum secundum rationem: 210R according to reason. But this even less can be perfect without God, but
+hæc autem multo minus potest esse perfecta sine Deo, sed [can be perfect] only when most honest activity is performed, which is
+solum quando honestissima operatione fungitur, quæ est amor love of God. For this reason, it says at the end of Ecclesiastes [12:13]:
+Dei. Propter quod dicit Eccles. ult.: Deum time, et mandata ‘Fear God and keep his commandments, for this is the whole duty of
+ejus observa, hoc est enim omnis homo. Nec contra hoc occurrit man.’ Nor does any difficulty of any importance occur against this.
+220 difficultas alicujus momenti.
+212 tendens ] tenens V.
+
+-- 7 of 7 --

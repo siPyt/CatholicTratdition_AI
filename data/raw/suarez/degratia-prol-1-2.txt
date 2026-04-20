@@ -1,0 +1,610 @@
+Last revision: April 9, 2013	Francisco Suárez, S. J.
+DE GRATIA, PROLEGOMENON 1, CAP. 21
+© Sydney Penner 2013
+<4, col. b>2
+CAPUT II. CHAPTER II.
+Quae sint necessaria, ut potentia sit libera, et libere operetur? What things are necessary for a power to be free and to operate freely?3
+In superiori capite solum voces, seu loquendi modos explicav- In the previous chapter we only explained words or ways of speaking,
+imus, nunc vero aliquid de re ipsa addendum, et fundandum but now something should be added and established, so that later we
+5 est, ut postea, in gratiae auxiliis explicandis, et cum libertate 5R can proceed effectively and in a secure manner when we explain the
+arbitrii conciliandis solide, et efficaciter procedere possimus. help of grace and reconcile it with freewill.
+1. Assertio. De
+ratione potentiae
+formaliter
+liberae, qua talis
+est ut sit potentia
+activa.
+Eccli. 15.
+1. Primum igitur omnium statuimus, de ratione poten- 1. First of all, therefore, we establish that it is of the ratio of a 1st assertion. It
+belongs to the
+ratio of a
+formally free
+power that by
+being such it is an
+active power.
+Sir. 15.
+tiae formaliter liberae esse, ut quatenus talis est, sit potentia formally free power that, insofar as it is such, it is an active power.
+activa. Est certa, et communis assertio, quam probare pos- This is a certain and common assertion that we can prove first from
+10 sumus primo ex Scriptura, ubicumque enim libertatem ar- 10R Scripture. For wherever it talks about freewill it uses words that per-
+bitrii declarat, verbis utitur ad propriam potestatem agendi tain to one’s own power of acting. For example: Sir. 15[:17]: ‘Stretch
+pertinentibus. Ut est illud Eccli. 15. Ad quod volueris por- out your hand to that which you want’. Sir. 15[:11]: ‘Do not do the
+rige manum tuam, et illud, Qua enim odit, ne feceris, et il- things that he hates’. Sir. 31[:10]: ‘He who could have done evil but
+lud cap. 31. Qui potuit facere mala, et non fecit. Item il- did not do it’. Zech. 1[:3]: ‘Turn to me’, through which words ‘we Zech. 1.
+15	Zachar. 1. lud Zachar. 1. Convertimini ad me, per quae verba liber- 15R are reminded of our freedom’, as the Council of Trent said. For no
+tatis nostra admonemur, ut Concilium Tridentinum dixit; one converts except by acting. It is similar with Rev. 3[:20]: ‘If any- Rev. 3.
+nemo autem seipsum convertit, nisi agendo. Simile est il- one will open the door for me, I will enter to him’. For the word
+Apocal. 3. lud Apocal. 3. Siquis aperuerit mihi iannam, intrabo ad il- ‘open’ implies efficient causality. And finally, 2 Pet. 1[:10]: ‘Labour 2 Pet. 1.
+lum: nam verbum aperiendi efficientiam includit. Ac denique the more that by your good works you may make sure your calling
+20	2. Petr. 1. 2. Petr. 1. Satagite, ut per bona opera certam vestram voca- 20R and election’. Similar passages occur throughout.
+tionem, et electionem faciatis. Et similia passim occurrunt. Se- Second, we prove it by the Council of Trent, sess. 6, ch. 5, where, Council of Trent.
+1Latin text by and large follows the 1620 Lyon edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the
+Vivès edition for significant variations. I have not yet been able to check the first edition (Coimbra, 1619). For recorded variants, B = 1620 edition and V = Vivès edition. Note
+that the Vivès edition does not have marginal notes; many, though not all, of the marginal notes from the 1620 edition are included in the Vivès edition as italicised text at the
+head of paragraphs.
+2Numbers in angle brackets indicate page numbers in volume 7 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+3Merely three years after the first publication of this work, the Spanish Franciscan Jeronimo Tamarit de Tavaria closely follows the present chapter in the identically titled
+chapter in his Flores theologiae (Valencia, 1622), tom. 1, pp. 492–95.
+20 1 ] 2 B V.
+
+-- 1 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 2
+Tridentinum. cundo id probamus ex Concilio Tridentinum sess. 6. cap. 5. when it has said that human beings are called by God through grace so
+ubi, cum dixisset, homines vocari a Deo per gratiam, ut eidem that ‘by freely assenting to and cooperating with that same grace they
+gratiae libere assentiendo, et <5> cooperando in ipsum Deum are turned to God himself’, it explains that free cooperation by saying:
+25 convertantur, explicat illam liberam cooperationem dicens. 25R ‘in such a way that, while God touches the human heart through the
+Ita ut tangente Deo cor hominis per Spiritus Sancti illumina- illumination of the Holy Spirit, the human being himself does not do
+tionem, neque homo ipse nihil omnino agat, inspirationem il- nothing at all while receiving that inspiration, inasmuch as he is also
+lam recipiens, quippe qui et illam abiicere potest. Neque tamen able to reject it. Yet he is not able to move himself to a just heart
+sine gratia movere se ad iustitiam coram illo libera sua vol- by his own free will without grace.’ For this reason the Council in
+30 untate posset. Et ideo in can. 4. damnat dicentes, liberum 30R can. 4 condemns those who say that ‘freewill in no way cooperates by
+arbitrium nihil cooperari assentiendo Deo excitanti, aut nihil assenting to God who excites it [. . . ] it does nothing whatever and is
+omnino agere, mereque passive se habere. Ergo ex sententia merely passive’. Therefore, according to the Council a passive power
+Concilii potentia passiva ad liberum usum non sufficit; est does not suffice for free use. It is, therefore, formally free in an active
+ergo libertas formaliter in potentia activa. power.
+35	Augustinus. 2. Tertio idem probatur Patrum auctoritate, Augustinus 35R 2. The same thing is proven, third, by the authority of the Fa-
+lib. 12. de Civitate cap. 6. et 7. ubi agens de causa actus mali, thers. Augustine in The City of God XII, chs. 6 and 7, where he is Augustine.
+dicit, ad voluntatem ipsam reduci tanquam ad causam effi- dealing with the cause of an evil act, says that it is traced back to the
+cientem, et deficientem. Idemque docet lib. 1. de Libero arbi- will itself as to an efficient and deficient cause. He teaches the same
+trio a cap. 12. et lib. 3. cap. 1. et 2. Additque cap. 3. illud esse thing in On Freewill I, from ch. 12, and III, chs. 1 and 2. He adds in
+40 in potestate nostra, quod cum volumus facimus, quapropter nihil 40R ch. 3 that ‘that is in our power which when we will to do it we do it;
+tam in nostra potestate, quam ipsa voluntas est. Quod repetit, wherefore nothing is so much in our power as the willing itself’. He
+et confirmat lib. 1. Retractationum cap. 9. et 22. Non dici- repeats and confirms this in The Retractions I, ch. 9 and 22. But some-
+tur autem aliquid esse in potestate nostra propter potentiam thing is not said to be in our power on account of a passive power but
+passivam, sed propter activam, quam ipsum nomen potes- on account of an active power, which is what the very name ‘power’
+45 tatis significat. Unde idem Augustinus lib. 1. Retractationum 45R signifies. Hence, the same Augustine says in The Retractions I, ch. 1,
+cap. 1. recognoscens verba, quae in q. 1. lib. 2. ad Simplicium when recollecting the words that he wrote in To Simplicius, On Dif-
+posuerat. Quamvis sit in cuiusque potestate quid possit, ait ideo ferent Questions II, q. 1: ‘Although what he wills is in the power of
+illa dixisse, quia non dicimus esse in potestate nostra, nisi quod every person’, he says that he said that ‘because we do not say that
+cum volumus fit, ubi primum, et maximum est ipsum velle. something is in our power unless, when we will it, it is done; for this
+50 Sine ullo quippe intervallo temporis praesto est voluntas ipsa, 50R reason, willing itself is first and foremost. For without any interval
+cum volumus. Unde etiam lib. 83. Quaestionum q. 8. Moveri of time, willing itself is instantly present when we will’. Wherefore
+(inquit) per se animam sentit, qui sentit in se esse voluntatem: he also says in Eighty-three Questions q. 8: ‘He thinks that the soul
+nam si volumus, non alius de nobis vult, et iste motus animae moves through itself who thinks that there is a will in himself. For if
+spontaneus est. Et q. 24. Nec peccatum, nec recte factum (ait) im- we will, it is not another person willing concerning us. That motion
+55 putari cuiquam iuste potest, qui nihil fecerit propria voluntate. 55R of the soul is spontaneous’. And in q. 24 he says: ‘Neither sin nor
+Et hoc modo ait utrumque esse in libero voluntatis arbitrio. having done rightly can rightly be imputed to one who does nothing
+Est ergo voluntas libera per potestatem activam, quam habet by his own will’. And in this way he says that each is in the free de-
+Damascenus. supra suos actus. Sic etiam dixit Damascenus lib. 2. de Fide cision (libero arbitrio) of the will. The will, therefore, is free through
+cap. 25. ideo hominem esse liberi arbitrii, quia in sua potes- an active power that it has over its own acts. Likewise, also, John
+
+-- 2 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 3
+60 tate habet eas actiones, quas libere operari dicitur, et ideo om- 60R of Damascus said in On the Faith II, ch. 25, that a human being has
+nem deliberationem actionis causa suscipi, et addit in cap. 26. freewill because those actions which he is said to perform freely are
+In nostra potestate sunt ea, quae liberum nobis est facere, vel in his power, and for this reason ‘every deliberation is undertaken for
+non facere. Et alia, quae prosequitur, per quae omnia docet the sake of action’. He adds in ch. 26: ‘Those things are in our power
+libertatem in nobis esse per activam potestatem. Idem sum- that we are free to do or not to do’. And other things which he pur-
+65	Anselmus.
+Bernardus.
+Nyssenus.
+Nemesius.
+itur ex Anselmo lib. de <col. b> Conceptu Virginali cap. 6. 65R sues, through all of which he teaches that the freedom in us is through
+Bernardo lib. de Gratia et libero arbitrio. Et citatur Nyssenus an active power. The same point is taken from Anselm, On the Virgin Anselm. Bernard.
+Gregory of
+Nyssa.
+Nemesius.
+lib. 7. Philosophia cap. 1. et 2. habet Nemesius de Natura ho- Conception, ch. 6, and Bernard, On Grace and Freewill. And Gregory
+minis cap. 29. 39. et sequentibus. of Nyssa, On Philosophy VII, chs. 1 and 2, is cited for what Nemesius
+has in On Human Nature, chs. 29 and 39 and following.4
+3. Quarto probatur ex Scholasticis, et imprimis ex 70R 3. It is proven, fourth, from the scholastics, especially from
+70	D. Thomas. D. Thoma 1. p. q. 82. art. 4. et q. 83. in co. et ad 2. Item St. Thomas, ST Ia.82.4 and 83[.2] co. and ad 2. Also in ST IaIIae.9.1 St. Thomas.
+1.2. q. 9. art. 1. et 3. quibus locis ait, voluntatem esse poten- and 9.3, in which places he says that the will is a power moving itself
+tiam se, et alias moventem per modum agentis, eamdemque and other things in the way of an agent, and the same is freewill in-
+esse liberum arbitrium, quatenus ad utrumlibet potest seip- sofar as it can move itself to either option. He has the same claim in
+sam movere. Idem habet q. 22. de Veritate art. 9. in co. et ad 75R On Truth q. 22, art. 9, co. and ad 1, and in q. 24, art. 4, co. and ad 15,
+75 1. et q. 24. art. 4. in co. et ad 15. in qua solutione declarat where in the solution he declares more expressly that freewill insofar
+expressius, liberum arbitrium, ut tale est, esse potentiam as it is such is a power that is not passive but operative. Capreolus Capreolus.
+Scotus.
+Durandus.
+Gregory.
+Henry of Ghent.
+Capreolus.
+Scotus.
+Durandus.
+Gregorius.
+Henricus.
+non passivam, sed operativam. Idem tradit Capreolus in teaches the same thing in II, d. 24, q. 1, art. 1, concl. 5, as well as Sco-
+2. d. 24. q. 1. art. 1. concl. 5. et Scotus in 2. d. 25. in argumen- tus in II, d. 25, in the arguments ‘Ad oppositum’ and throughout the
+tis Ad oppositum, et in toto discursu quaestionis, Durandus 80R entire discussion of the question; Durandus in II, d. 24, q. 2, nn. 10,
+80 d. 24. q. 2. n. 10. 19. et 34. Gregorius eadem d. q. unic. Hen- 19, and 34; Gregory in the only question of the same distinction; and
+ricus quodlibet 10. q. 9. ubi parum a principio ait, voluntatem Henry of Ghent in Quodlibet 10, q. 9, where near the beginning he
+totam esse moventem, et motam, sed moventem quatenus lib- says that the whole will is mover and moved but that it is a mover
+era est, quae libertas, ait, est formaliter in ipsa. Idem habet insofar as it is free, which freedom, he says, is formally in the will. He
+quodlibet 12. q. 17. Ad hoc (inquit) quod aliquid dicatur esse 85R has the same point in Quodlibet 12, q. 17: ‘In order that something is
+85 vere ex libero arbitrio, oportet quod sit ab illo, ut a movente said to be truly from freewill, it is necessary that it is from the will as
+proximo, et sic voluntas est domina suorum actuum. Bellarmi- from a proximate mover and in such a way that the will has dominion
+Bellarminus. nus lib. 3. de Gratia et libero arbitrio cap. 10. of its acts’. [See also] Bellarmine, On Grace and Freewill III, ch. 10. Bellarmine.
+4. Tandem ratione declaratur, quam Scotus supra optime 4. Finally, it is shown by reason, which Scotus reaches best in
+attigit: nam potentia libera est quae in manu, et potestate sua 90R the in the passage cited above. For a free power that has in its hands
+90 habet mutari, vel non mutari, nam hoc est esse dominam sui and in its power to be changed or not to be changed. For that is to
+actus, vel mutationis, in quo dominio libertas consistit. Haec have dominion over its act or change, in which dominion freedom
+autem potestas non est in potentia passiva, ut passiva est; ergo consists. But that power does not exist in a passive power insofar as it
+4In chapter 39, Nemesius says: ‘puta moveri et non moveri, impetu ire et non ire, dare et non dare, non concupiscere et concupiscere, mentiri et non mentiri, dare et non
+dare, laetari in his quae oportet, et non laetari, et quaecumque sunt talia, in quibus sunt virtutis et malitiae opera. Haec enim sunt in nostro libero arbitrio.’ Versions of this
+are often quoted and attributed to Gregory of Nyssa, On Philosophy VII, ch. 2. Suárez shows awareness in other places as well, e.g., DM 19.2.12, that he recognizes that this is a
+misattribution.
+
+-- 3 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 4
+oportet, ut sit in potentia activa, quatenus activa est. Minor is passive. Therefore, it must be the case that it is in an active power
+probatur, quia non est in potestate ac dominio patientis, ut 95R insofar as it is active. The minor premise is proven: for it is not in
+95 tale est, quod patiatur necne: hoc enim pendet ab agente, quia the power or dominion of a patient insofar as it is such that it either
+patiens ideo patitur, quia agens in illud agit. Actio enim in- undergo something or not. For that depends on the agent, since the
+fert passionem, et ordine naturae, vel rationis illam praecedit, patient undergoes something because the agent acts on it. For action
+et ideo talis est passio, qualis est actio, et non e converso, lo- implies passion, and according to the order of nature or of reason ac-
+quendo causaliter, et a priori. Ergo actio non est in potestate 100R tion precedes passion. For this reason passion is such as action is and
+100 patientis, ut patiens est, id est, in dominio eius, sed agentis; not the other way around, speaking causally and a priori. Therefore,
+quia prius non est in potestate posterioris, sicut praeceptum action is not in the power of a patient insofar as it is a patient. That is,
+non est in potestate subditi, sed superioris; ergo etiam passio it is not in the patient’s dominion but in the agent’s. For the former
+non est in potestate patientis, ut tale est, sed in <6> potestate is not in the power of the latter, just as a precept is not in the power
+agentis, quia posita actione necessario sequitur passio, et ideo 105R of the subject but in the power of the superior. Therefore, passion is
+105 eatenus tantum potest passio esse, aut denominari libera, in also not in the power of the patient insofar as it is such but is in the
+quantum actio fuerit libera; ergo utrumque est in potestate, power of the agent, since once the action is posited the passion follows
+et dominio agentis; ergo libertas solum est in potentia activa, necessarily. And for this reason a passion can only be or be denomi-
+ut activa est. Quapropter licet voluntas sit receptiva sui actus, nated free to the same extent that the action was free. Therefore, each
+et sub ea ratione sit potentia passiva, non est tamen libera, 110R is in the agent’s power and dominion. Therefore, freedom is only in
+110 nisi quatenus potestatem habet eliciendi, et non eliciendi ac- an active power insofar as it is active. Wherefore, although the will
+tum suum, et in tantum receptio eius potest esse libera ipsi is receptive if its act and under that ratio is a passive power, it is not,
+voluntati, in quantum illum efficere est illi liberum: si enim nevertheless, free except insofar as it has the power of eliciting or not
+ab alio agente reciperet actum, ipsa nihil efficiente, ex parte eliciting its act. And the reception of the act can be free for the will
+sua necessario illum reciperet: quod si esset in potestate al- 115R only insofar as it is free to effect the act. For if it were to receive the act
+115 terius agentis non immittere in voluntatem talem actum, al- from another agent and itself effecting nothing, it would for its part
+teri agenti esset liber ille effectus, non ipsi voluntati. In po- necessarily receive the act. But if it were in the power of another agent
+tentia ergo passiva, ut passiva est, non est libertas. not to introduce such an act to the will, that effect would be free for
+the other agent but not for the will itself. Freedom, therefore, is not
+120R in a passive power insofar as it is passive.
+Obiectio. 5. Dices. Passum interdum determinat actionem agen- 5. You will say that the one undergoing sometimes determines Objection.
+tis, vel ad illam confert, vel illam impedit; ergo eadem ratione the action of the agent, either by coming together with it or by im-
+120 potest ex parte potentiae passivae provenire, ut agens illam peding it. For the same reason, therefore, that the agent changes the
+immutet, vel non immutet; ergo etiam poterit libertas esse in patient or does not change the patient can come to be from the side of
+potentia passiva, ut passiva est. Antecedens patet in causa su- 125R the passive power. Therefore, there can also be freedom in a passive
+periori, et universali necessario agente, determinatur enim ad power insofar as it is passive. The antecedent is clear in the case of a
+hanc, vel illam actionem ex parte passi, ut patet in sole exs- superior and universal cause that acts necessarily, for it is determined
+125 iccante lutum, et liquefaciente ceram. Item in causis particu- to this or that action from the side of the one undergoing the action,
+laribus actio est maior, vel minor iuxta dispositionem passi, as is clear in the case of the sun drying out mud and liquefying wax.
+et interdum omnino impeditur propter resistentiam eius. Ac 130R Similarly, in the case of particular causes the action is greater or lesser
+denique in moralibus, et supernaturalibus quando Deus in- according to the disposition of the thing undergoing the action, and
+
+-- 4 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 5
+fundit habitum voluntati, ipsa voluntas mere passive se ha- sometimes is wholly impeded on account of its resistance. And, fi-
+130 bet, et nihilominus receptio est illi libera, quia ex eius pendet nally, in moral and supernatural cases, when God infuses a habit of
+dispositione. the will, the will itself holds itself merely passively and yet the recep-
+135R tion is free for it, since it depends on the will’s disposition.
+Responsio. 6. Respondeo negando secundam consequentiam, quia 6. I respond by denying the second consequence. For the un- Response.
+passum ut tale est, si sit omnino idem non potest determinare dergoing thing insofar as it is such, if it is entirely the same cannot
+actionem agentis, nec magis iuvare, vel impedire actionem determine the action of the agent, nor assist or impede the action of
+135 unius agentis, quam alterius: si vero sit diversum, seu diverso one agent more than that of another agent. But if it is different or dis-
+modo dispositum, tunc determinatio, resistentia, vel similis 140R posed in a different way, then the determination, resistance, or other
+effectus erit omnino necessarius, aut si participet aliquam in- similar effect will be entirely necessary, or, if it participates in some
+differentiam, necessario pendebit aliquo modo ex potentia ac- indifference, it will necessarily depend in some way on a free active
+tiva libera. Declaratur: nam si agens sit naturale, et potens power.
+140 ad plures effectus efficiendos propter universalem virtutem, It is shown: for if the agent is natural and has the power for effect-
+non potest circa idem passum eodem modo dispositum ad 145R ing different effects on account of some universal strength, it cannot
+certum effectum determinari, nisi passum illius tantum sit ca- be determined with respect to the same undergoing thing disposed in
+pax. Nam si passum sit de se <col. b> indifferens ad plures, the same way to a certain effect except the undergoing thing have the
+non est, cur ab illo determinetur tale agens ad unam actionem capacity for only that. For if the undergoing thing of itself is indiffer-
+145 potius, quam ad aliam, ut recte notavit Scotus supra §Con- ent to multiple effects, there is no reason why such an agent is deter-
+tra conclusionem. Si autem passum sit capax unius tantum 150R mined by it to one action rather than another one, as Scotus rightly
+effectus, tunc determinabit quidem actionem agentis, deter- noted in the previously cited text, §‘Contra conclusionem’. But if the
+minatio autem erit omnino naturalis, seu necessaria, ut per undergoing thing has the capacity for only one effect, then it will in-
+se constat. Et eodem modo si passum sit diverso modo dis- deed determine the action of the agent, but the determination will be
+150 positum determinat quidem actionem talis agentis, necessi- wholly natural or necessary, as is obvious per se. In the same way,
+tate tamen naturali, ut patet in illo exemplo de sole liquefa- 155R if the undergoing thing is disposed in different ways it indeed deter-
+ciente ceram, vel exsiccante lutum, utrumque enim facit ne- mines that action of such an agent, but by natural necessity, as is clear
+cessitate naturali. Et ratio est, quia ex parte recipientis, ut in those examples of the sun liquefying the wax or drying the mud, for
+sic, non provenit determinatio actionis, nisi propter incapac- the sun brings about each by natural necessity. The reason is that on
+155 itatem naturalem, vel limitationem capacitatis ab aliqua dis- the part of the receiving thing as such, the determination of the action
+positione provenientem, et ideo si limitatio illa, vel disposi- 160R does not happen except on account of a natural incapacity or a limita-
+tio naturalis sit, etiam determinatio est necessaria, nec potest tion of capacity arising from some disposition. And for this reason, if
+ex parte passi esse libera. Idemque est de resistentia, vel im- that limitation or disposition is natural, then also the determination
+pedimento, aut carentia illius proveniente ex naturali dispo- is necessary and it cannot be free on the part of the undergoing thing.
+160 sitione recipientis: intercedit enim eadem ratio. At vero si And the same is true about resistance or impediment or a lack arising
+agens sit liberum, tunc potest determinare suam actionem, 165R in it from a natural disposition of the receiving thing. For the same
+et consequenter etiam passionem circa idem passum de se in- reason applies.
+differens, et capax plurium actionum. Et tunc quidem de- On the other hand, if the agent is free, then it can determine its
+terminatio libera est, provenit autem ab eminentia potentiae own action and consequently also the passion with respect to one and
+165 activae, et dominio, quod habet in suam actionem, nec potest the same undergoing thing that is of itself indifferent and has the ca-
+
+-- 5 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 6
+aliunde provenire. Interdum etiam passio aliqua, seu receptio 170R pacity for multiple actions. And then the determination is indeed free,
+potest pendere ex dispositione libera passi, et tunc licet recep- but it arises from the eminence of the active power and the dominion
+tio proxime non possit esse libera ipsi recipienti, quia ab illo that it has over its action. Nor can it arise from elsewhere.
+non fit, remote potest denominari libera, quatenus ab eius Sometimes also some passion or reception can depend on a free
+170 libera dispositione pendet: illa autem libertas in eo posita est, disposition of the undergoing thing. In that case, although the recep-
+quod effectio talis dispositionis est libera, et ita semper manat 175R tion cannot be proximately free for the receiving thing, since it does
+ex potentia activa, in qua residet, et hoc modo receptio pri- not come to be by the receiving thing, it can be denominated remotely
+mae gratiae sanctificantis potest dici homini libera remote, in free insofar as it depends on the receiving thing’s free disposition. But
+quantum efficere contritionem est homini liberum, et in nat- that freedom is posited in the fact that the effecting of such a dispo-
+175 uralibus potest dici esse homini liberum calefieri a sole, in sition is free and in such a way that it always remains a result of the
+quantum libere potest ad solem accedere, vel ab illo recedere. 180R active power in which it resides. In this way the reception of the first
+Propria ergo libertas semper est in potentia activa, ut activa sanctifying grace can be said to be remotely free for the human being,
+est. insofar as effecting contrition is free for the human. And in natural
+things, a human being can be said to be free to be warmed by the sun
+insofar as he is free to approach the sun or to withdraw from it. Proper
+185R freedom, then, is always in an active power insofar as it is active.
+2. Assertio.
+Indifferentia
+dominativa
+potentiae activae
+ut activa est, ad
+formalem
+libertatem
+alicuius facultatis
+requiritur.
+7. Secundo dicimus, et sequitur ex dictis, ad formalem 7. Second, we say—and it follows from what has already been 2nd assertion.
+Dominative
+indifference of
+the active power
+insofar as it is
+active is required
+for the formal
+freedom of some
+faculty.
+180 libertatem alicuius facultatis requiri indifferentiam per emi- said—that for the formal freedom of some faculty is required a certain
+nentiam quamdam dominativam potentiae activae, ut activa dominative indifference of an active power insofar as it is active, both
+est, tum ad varias actiones, tum ad exercen- <7> das, vel for different actions and for exercising or not exercising those actions,
+non exercendas illas, aut simpliciter, aut in tali, vel tali de- 190R either strictly speaking or in determinate species of this or that sort.
+terminata specie. Ut hanc assertionem declarem, suppono, In order to show this assertion, I assume that the discussion is about
+185 sermonem esse de libertate creata, quae primario consistit created freedom, which primarily consists in relation to the proper
+in ordine ad proprios internos actus eiusdem facultatis, scil- internal acts of one faculty, namely, of the will, and by means of those
+icet, voluntatis, et illis mediantibus extenditur ad alias exter- is extended to other external actions. Matters are different in the case
+nas actiones; quod secus est in libertate divina, quae imme- 195R of divine freedom, which is immediately exercised in extrinsic actions
+diate in actionibus, seu effectibus extrinsecis exercetur, nam or effects. For in the case of God there can be no free effecting, re-
+190 in Deo ad intra nulla effectio, vel receptio, seu additio libera ception, or addition within him (something we now presuppose as
+esse potest, ut nunc suppono tanquam certum. Cum propor- certain). Nevertheless, with proportion the assertion can be applied
+tione tamen potest assertio ad libertatem divinam applicari, to divine freedom, as will easily become clear in considering the case.
+ut facile consideranti patebit. Deinde suppono vulgarem dis- 200R Finally, I presuppose the common distinction between two kinds of
+tinctionem duplicis libertatis quoad exercitium, et specifica- freedom—with respect to exercise and with respect to specification—
+195 tionem, quarum prior consistit in potestate habendi, et non of which the former consists in the power of having and not having
+habendi, posterior in potestate habendi hunc, vel illum ac- and the latter consists in the power of having either this act or that
+tum. Et illius facultatis conditio quatenus illorum plurium act.5 And the condition of that faculty insofar as it has the capacity
+actuum, seu statuum capax est, indifferentia vocatur. Dico 205R for multiple of those acts or states is called indifference. I say, then,
+5Cf. DM 19.4.9.
+
+-- 6 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 7
+ergo hanc indifferentiam, ut sit verae libertatis, debere con- that this indifference, in order to be of a true freedom, must apply to
+200 venire tali facultati per se, et ut potentia activa est. such a faculty per se and insofar as it is an active power.
+8. Probatur primo de indifferentia quoad exercitium, 8. It is proven, first, concerning indifference with respect to exer-
+quia imprimis ad illam necessaria est potentia activa. Hoc cise, since an active power is especially necessary for that. For all those
+enim probant omnia adducta in praecedenti assertione, et per 210R things mentioned in the previous assertion prove this, and it is per se
+se evidens est, quia nisi supponatur vis agendi in tali facul- evident. For unless a power for acting is presupposed in such a faculty,
+205 tate, semper carebit actione, quia actio esse non potest, nisi ab it will always lack the action, since an action cannot be except from
+habente vim agendi, eritque illa carentia non per modum pri- something having the power to act. And that lack will not be in the
+vationis, sed per modum simplicis negationis, sicut potest esse mode of a privation, but in the mode of a simple negation, just as can
+in qualibet re inepta ad agendum. Deinde probatur de poten- 215R be in any thing whatever that is entirely unsuitable for acting. Next, it
+tia ad non agendum, quia, si potentia careat actione ex aliqua is proven concerning a power for not acting, since, if a power lacks an
+210 impotentia agendi, tunc non est libertas in carentia actionis, action as a result of an inability to act, then there is no freedom in the
+sed necessitas; quia impotentia aequivalet impossibilitati, et lack of the action, but necessity. For inability is equivalent to impos-
+impossibilitas agendi aequivalet necessitati non agendi: ergo sibility and the impossibility of acting is equivalent to the necessity of
+ut carentia actionis libera esse possit, supponit in ipsa facul- 220R not acting. Therefore, so that order for the lack of an action can be
+tate talem potentiam agendi, quae vi sua possit non agere, non free, there is presupposed in the faculty itself such a power of acting
+215 ex impotentia, sed ex eminentia virtutis, quam recte vocarunt which by its own strength can not act, not as a result of inability, but
+Theologi dominium actus. Carere enim actione ex impoten- as a result of an eminence of strength, which the theologians rightly
+tia, non est dominium, cum de ratione dominii sit potestas call dominion over acts. For to lack an action as a result of inability
+utendi, et non utendi, ergo ut potentia vere sit domina sui ac- 225R is not dominion, since the ratio of dominion is the power to use and
+tus quoad exercitium eius, oportet, ut non ex impotentia, sed to not use. Therefore, in order for a power to truly have dominion
+220 ex interna, et eminenti potestate actionem possit suspendere. over its can suspend the action, not from an inability, butfrom an in-
+Et ob hanc causam non potest talis indifferentia inveniri im- ternal and eminent power. And for this reason such an indifference
+mediate in potentia passiva, ut passiva est, respectu passionis: annot be found immediately in a passive power insofar as it is passive
+quia <col. b> licet possit interdum pati, et interdum non 230R with respect to passion. For although it can sometimes undergo and
+pati, in utroque pendet ab agente. Unde si adsit agens, nec- sometimes not undergo something, in each case this depends on an
+225 essario patitur, vel absolute, si agens sit naturale, vel ex sup- agent. Hence, if the agent is present, the patient necessarily undergoes
+positione actionis, si agens sit liberum, et velit. Si vero agens the action, either absolutely if the agent is natural or by supposition
+absit, vel cohibeat actionem, tum etiam necessario non pati- of the action if the agent is free and wills it. But if the agent is absent
+tur, et ex quadam impotentia, quia ut passiva est, non potest 235R or refrains from the action, then also the patient necessarily does not
+se ad actum reducere. undergo the action and this is the result of a certain inability, since as
+it is passive it cannot reduce itself to act.
+230 9. Probatur deinde assertio de indifferentia quoad spec- 9. Next, the assertion is proven concerning indifference with re-
+ificationem, ex dictis etiam in assertione praecedenti, quia spect to specification, also from what was said in the previous asser-
+libertas est proprie, et immediate conditio potentiae activae, 240R tion. For freedom is a proper and immediate condition of an active
+ut activa est, ergo si talis indifferentia sit respectu plurium power insofar as it is active. Therefore, if there is such an indifference
+actuum, necesse est, ut in tali facultate sit vis effectrix om- with respect to multiple acts, it is necessary that there be in such a
+235 nium illorum actuum: nam si tali virtute careat, ad aliquem faculty an originating power of all those acts. For if it lacked such a
+
+-- 7 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 8
+illorum efficiendum respectu illius non erit libera, cum re- power to effect something of those acts, it would not be free with re-
+spectu illius non sit activa. Non sufficit autem ad liber- 245R spect to them, since it would not be active with respect to them. But
+tatem circa tales actiones vis superior, et quasi universalis a superior and, as it were, universal power effective towards multiple
+effectiva plurium actionum, vel effectuum, quia in agente actions or effects is not enough for freedom, since a similar power
+240 naturali potest similis virtus inveniri, ut in sole, cuius vir- can be found in natural agents (for example, in the sun), whose power
+tus per eminentiam quamdam indifferens est ad plures effec- has a certain indifference to multiple effects and actions through em-
+tus, et actiones; ergo ad indifferentiam libertatis, ultra illam 250R inence. Therefore, for the indifference of freedom, beyond that, as it
+quasi universalem vim activam, necessarium est, ut illa sit were, universal active power, it is necessary that that power be con-
+coniuncta cum quadam eminentia dominativa, ratione cuius joined with a certain dominative eminence, by reason of which it can
+245 potest inter ipsas actiones eligere, aut se ad hanc potius, quam elect from among those actions and turn itself to this action rather
+D. Thomas. ad illam flectere. Propter quod merito dixit D. Thomas in than that one. On account of this St. Thomas rightly said in Sent. II, St. Thomas.
+2. d. 28. q. 1. art. 1. Hominem non fore liberi arbitrii, nisi ad 255R d. 28, q. 1, art. 1, that ‘a human being will not have freewill unless the
+eum determinatio sui operis pertineret. Et q. 22. de Veritate determination of his works belongs to him’. And in On Truth q. 22,
+art. 9. in fine corporis dixit, in potestate voluntatis esse, ut art. 9, in the end of the body, he said that it is in the power of the will
+250 obiectum oblatum sibi acceptet, vel non acceptet, quia non to accept or to not accept an object presented to it, since it is not natu-
+est naturaliter determinata. Et in solutione ad primum addit, rally determined. In ad 1 he adds that ‘the will can directly turn itself
+posse voluntatem directe seipsam immutare respectu aliquorum, 260R with respect to some things, since has dominion over its own acts’.
+cum sit domina suorum actuum. Et plura alia in lib. 3. af- And we will report many others in Book III. Scotus thinks the same Scotus.
+Scotus. feremus. Et idem sensit Scotus in 1. d. 25. ad ultimum et thing in I, d. 25, in response to the last argument, and other authors
+255 alii auctores allegati. Potestque comprobari omnibus Scrip- have been mentioned. It can be confirmed by all of Scripture and by
+turae, et Patrum testimoniis, quae in assertione prima addux- the testimony of the Fathers that we brought up in the first assertion.
+imus, nam ab omnibus indifferentia haec per modum huius 265R For this indifference is explained through the mode of this domin-
+dominii declaratur. Et si quis plura desiderat, legat Stapleto- ion by everyone. And if someone desires more, he may read Thomas Stapleton.
+Ruard Tapper.
+Bellarmine.
+Stapletonius.
+Ruardus.
+Bellarminus.
+nium lib. 4. de Iustificatione cap. 3. et Ruardum art. 7. §. Stapleton, On Justification IV, ch. 3; Ruard Tapper, [Explicatio articu-
+260 Est autem, et fere per totum, et Bellarminum lib. 3. de Libero lorum] art. 7, in the section ‘But it is . . . ’ and almost throughout; and
+arbitrio cap. 5. Bellarmine, On Freewill III, ch. 5.
+3. Assertio.
+Completa vis
+activa et
+dominativa
+requiritur in
+virtute libera.
+10. Dico tertio, ad libertatem proximam, et absolutam 270R 10. I say, third, that for the proximate and absolute freedom of 3rd assertion: a
+complete active
+and dominative
+power is required
+in the free power.
+arbitrii requiri, ut virtus facultatis in suo or- <8> dine causae choice it is required that the the power of the faculty that is the prox-
+proximae habeat completam vim activam, et dominativam imate cause in its order have complete active and dominative power
+265 illorum actuum, ad quos dicitur simpliciter, et proxime lib- over those acts with respect to which it is said to be free proximately
+era. Haec assertio sequitur ex praecedentibus, et probatur, and without qualification. This assertion follows from what was said
+quia alias, si facultas ipsa, seu voluntas haberet vim agendi 275R before. It is also proven from the fact that otherwise, if the faculty
+tantum dimidiatam, et incompletam, non posset simpliciter itself or the will only had half a power for acting or an incomplete
+velle, aut nolle; ergo simpliciter non habebit in sua potestate power, it could not without qualification will or nill. It would, there-
+270 activa suum actum; ergo nec habebit dominium eius, neque fore, not have its act in its active power, and therefore would not have
+proximam, et absolutam libertatem. Et declaratur, quia si dominion over them and would not have proximate and absolute free-
+proposito sufficienter obiecto voluntas non habeat sufficien- 280R dom. This is shown by the fact that if the object has been proposed
+tem vim activam ad volendum, vel nolendum tale obiectum, sufficiently but the will does not have a sufficient power for willing
+
+-- 8 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 9
+sed tantum partialem, seu inchoatam, erit in potentia pas- or nilling such an object but only has a partial and inchoate power,
+275 siva ad recipiendum complementum potestatis activae, ergo then it will be up to the passive power to receive the complement of
+ex ea parte, qua est in potentia receptiva talis complementi the active power. Therefore, as a result of the part that is in the power
+virtutis activae, non est libera, quia non habet illud comple- 285R that receives such a complement of active power, the faculty is not
+mentum in sua potestate activa, sed in receptiva; ergo etiam free, since it does not have that complement in its own active power
+non est proxime libera ad ipsum effectum, seu actum secun- but in the receptive power. Therefore, it is also not proximately free
+280 dum, donec in sua virtute agendi compleatur. Unde est at- with respect to that effect or second act as long as it is completed in its
+tente considerandum, quod licet potentia libera, etiam sup- power of acting. Hence, one should attentively consider that, even if a
+posita integra libertate possit (ut dixi) esse passiva, respectu 290R free power—with a complete freedom also having been presupposed—
+actus secundi volendi, aut nolendi, quia haec potentialitas could (as I said, be passive with respect to the second act of willing or
+potest supponere in eadem facultate integram vim activam, nilling, since this potentiality can presuppose a complete active power
+285 nihilominus non potest esse integre libera, si sit in sola po- in the same faculty, it cannot, nevertheless, be completely free if it is
+tentia passiva ad totam, vel aliquam partem virtutis activae in the passive power alone for all or some part of the active power for
+suorum actuum, quia sine integra virtute activa nondum ha- 295R its acts, without which complete active power it would not yet have
+D. Thomas. bet actum in manu sua. Ideoque optime D. Thomas dicta the act in its hands. And for this reason St. Thomas well said in the St. Thomas.
+q. 24. de Veritate art. 4. dixit, liberum arbitrium in eo con- aforementioned On Truth q. 24, art. 4, that freewill consists in the fact
+290 sistere, quod non excedit vim potentiae. Nam secundum hoc that ‘it does not exceed the strength of the power’. For according to
+aliquid fieri dicitur, quod est in potestate facientis, quod de this something is said to be done that is in the power of the one acting,
+potestate operativa, seu activa in solutione ad ultimum ex- 300R which was explained concerning an operative or active power in the
+plicuit. solution to the last objection.
+Obiectio. 11. Dices, ad libertatem necessarium non esse, ut sola 11. You will say that it is not necessary for freedom that the will Objection.
+295 voluntas per se habeat integram vim activam sui actus etiam alone have per se the complete active and proximate ability for its act.
+proximam: nam multi putant obiectum, vel notitiam eius For many think that the object or knowledge of it actively concurs to
+concurrere active ad actus liberos voluntatis, et homo est sim- 305R produce the free acts of the will, and that a human being is without
+pliciter liber ad videndum, licet non habeat speciem, vel lu- qualification free to see even though he does not have the species or
+men. Item ad actus supernaturales libera est voluntas, licet light. Likewise, the will is free to perform supernatural acts, even
+300 integram vim eliciendi illos sola per se non habeat. Respon- though it does not alone and per se have the complete ability to elicit
+Responsum. deo ad primam partem, probabilius esse solam voluntatem them.
+esse principium proximum sui actus, et in hoc distingui ab 310R I respond to the first part that it is more probably that the will Response.
+D. Thomas. intellectu, ut aperte sensit D. Thomas in loco proxime alle- alone is the proximate principle of its acts, and in this is distinguished
+gato de Veritate ad 9. Verumtamen licet contraria senten- from the intellect, as St. Thomas clearly thinks in On Truth q. 24, St. Thomas.
+305 tia supponatur, nihil obstabit, quia, <col. b> iuxta illam art. 4, ad 9. Nevertheless, even if the contrary view were granted,
+consequenter dicendum erit voluntatem solam per se spec- it would pose no problem, since, according to it one should conse-
+tatam, et nondum coniunctam notitiae obiecti non habere 315R quently say that the will alone regarded per se and without yet a con-
+completam, sed inchoatam libertatem, quod sine inconveni- junction with knowledge of the object does not have complete free-
+enti dici potest, quia in eo statu nihil potest eligere; com- dom but only the beginning of freedom. This can be said without
+291 potestate ] potentia V.
+
+-- 9 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 10
+310 parata autem notitia obiecti habere completam libertatem, disagreeability because in that state it cannot elect anything. But once
+quia iam habet completam vim agendi, et non agendi volun- there is knowledge of the object, it has complete freedom, since now it
+tarie, et per illam qualemcumque coniunctionem voluntatis 320R has the complete ability voluntarily to act and to not act. And through
+cum notitia, seu obiecto cognito, censetur completa virtus that sort of conjunction of the will with knowledge or with the cog-
+eius activa in actu primo proxime requisito ad volendum, vel nized object, its active power is thought to be completed in the first
+315 nolendum. Ad secundam partem dicitur hominem posse esse act as proximately required in order to will or to nill.
+simpliciter liberum ad volendum, vel desiderandum videre, With respect to the second part, it is said that a human being can
+quando non habet integram facultatem videndi, quia sine 325R be free without qualification to will or to desire to see even while it
+hac potest habere integram potestatem volendi, aut concu- does not have the complete faculty of seeing, since without this it can
+piscendi. At vero ad videndum non habere proximam liber- still have the complete power of willing or desiring. On the other
+320 tatem, quia oportet, ut in potestate sua habeat acquirere com- hand, it does not have proximate freedom to see, since for that it is
+plementum virtutis videndi, et necessarium est, ut inde suam necessary that it be in its power to acquire the complete power for
+liberam actionem inchoet illam speciem procurando, et ita 330R seeing. It is also necessary that from there its free action begin by
+remote dicitur habere libertatem ad videndum, quatenus vim procuring that species and that in that way it is said remotedly to have
+habet se movendi ad comparandum quidquid ad integram fac- the freedom for seeing, insofar as it has the ability to move itself to
+325 ultatem videndi illi deest. provide whatever is missing for a complete faculty of seeing.
+12. Ad tertiam partem dicimus, doctrinam absolute in- 12. With respect to the third part, we say that the doctrine abso-
+telligi de libertate naturali voluntatis secundum se spectatae 335R lutely is understood concerning natural freedom of the will according
+in ordine ad actus ex natura rei sibi proportionatos; cum pro- to itself considered in relation to acts proportionate ex natura rei to the
+portione tamen applicandam esse ad actus supernaturales, ut will, but it should be applied with proportion to supernatural acts, as
+330 postea videbimus, et nunc breviter explicatur. Nam voluntas we will see later and is briefly explained now. For the will alone taken
+sola per se sumpta non est proxime, et simpliciter libera ad ac- in itself is not free proximately and without qualification to perform
+tus supernaturales, sed de se habet tantum quamdam inchoat- 340R supernatural acts. Of itself it only has a kind of beginning of free-
+ionem libertatis ad tales actus, in quantum habet aliquam vim dom for such acts insofar as it has some innate active ability, either
+activam innatam; vel naturalem, vel obedientialem, ad illos natural or obediential, for effecting those acts and insofar as it has the
+335 efficiendos, et est capax complementi illius virtutis: quamdiu capacity for a complement of that power. But as long as it does not
+vero illud complementum non habet actu illa potentia remota have that complement in act, that power is remote, and the freedom
+est, et similiter libertas ad eosdem actus remota est, et incom- 345R for those same acts is likewise remote and incomplete. For this reason
+D. Thomas. pleta. Et ideo D. Thomas in dicto art. de Veritate ad 9. dixit St. Thomas in ad 9 from the mentioned article from On Truth said St. Thomas.
+liberum arbitrium in ordine ad actum charitatis, dicere po- that freewill in relation to an act of charity expresses a power together
+340 tentiam cum habitu infuso utique, vel aliquo alio principio, with an infused habit or at any rate some other principle that supplies
+quod suppleat [vim] eius. Quomodocumque ergo voluntas its ability. Therefore, in whatever way the will is supposed to have
+supponatur habere integram vim agendi actum, sive per se 350R a complete ability to perform its act, whether through itself alone or
+sola, sive per aliquid iam illi additum, vel sufficienter coniunc- through something else already added to it or sufficiently conjoined
+tum, esse poterit plene, et sufficienter libera: quamdiu vero with it, it will be fully and sufficiently free. But as long as it is a power
+345 est in potentia tantum receptiva alicuius virtutis proximae ac- only receptive to some proximate active power that is necessary for
+341 vim ] vicem B V.
+
+-- 10 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 11
+tivae, ac necessariae ad ac- <9> tum eliciendum, nondum ha- eliciting the act, it does not yet the absolutely and without qualifica-
+bet absolute, et simpliciter liberam, et proximam facultatem. 355R tion free proximate faculty. Hence, St. Thomas in ST Ia.83.2 ad 2 said St. Thomas.
+Idem. Unde D. Thomas 1. p. q. 83. art. 2. ad 2. dixit liberum arbi- that freewill is named a faculty because it must be a power having been
+trium nominari facultatem, quia debet esse potestas expedita readied to act. But how will it have been readied if it is not complete
+350 ad agendum: quomodo autem erit expedita, si non sit integra, or has not been completed (if I may speak in that way)? This assertion
+vel integrata, ut ita dicam? Et hanc assertionem confirmant, is confirmed by what Bellarmine brings up in On Grace and Freewill Bellarmine.
+John Driedo.
+Ruard Tapper.
+Bellarminus.
+Driedo. Ruardus.
+quae adducit Bellarminus lib. 6. de Gratia et libero arbitrio 360R VI, ch. 15, assertions 1–3, and by those cited by John Driedo in On the
+cap. 15. assert. 1. 2. et 3. et Driedo in Concordia cap. 3. et Harmony of Freewill and Predestination, ch. 3, and by Ruard Tapper
+Ruardus art. 7. quos allegat. in [Explicatio articulorum], art. 7.
+355	4. Assertio.
+Libertas remota,
+et proxima
+requirit
+indifferentiam
+potentiae activae.
+13. Ad maiorem intelligentiam praecedentium conclu- 13. In order to reach a better understanding of the preceding con- 4th assertion:
+remote and
+proximate
+freedom require
+the active power’s
+indifference.
+sionum dico quarto, libertatem in actu primo esse posse re- clusion, I say, fourth, that freedom in the first act can be remote and
+motam, et proximam, et utramque requirere indifferentiam 365R proximate, and that each requires the active power’s indifference, mu-
+potentiae activae, servata proportione: nam remota liber- tatis mutandis. For remote freedom requires indifference of the active
+tas requirit indifferentiam potestatis activae in facultate for- power in a faculty formally free in itself and taken apart from any-
+360 maliter libera secundum se, et nude spectata; proxima autem thing else, but proximate freedom in the first act requires indifference
+libertas in actu primo requirit indifferentiam activam in fac- of the active power in the faculty readied for acting and proposed with
+ultate ipsa agendi expedita, et proposita cum omnibus requi- 370R all the things required for acting. This division is known from the gen-
+sitis ad agendum. Divisio haec ex generali doctrina potentiae eral doctrine about active powers and Scotus touches on it in IV, d. 49, Scotus.
+Scotus. activae nota est, eamque attigit Scotus in 4. d. 49. q. 6. sub §. q. 6, under the section that starts ‘I say, therefore, according to the doc-
+365 Dico ergo ex doctrina Aristotele 9. Metaphysicorum cap. 12. ubi trine of Aristotle in Metaphysics IX, ch. 12 . . . ’ He says there that he
+ait, eum, qui habet solam potentiam operativam, et non ha- who has only an operative poewr and does not have the other things
+bet alia requisita ad operationem, solum secundum quid, et 375R required for operation is only with qualification and with respect to
+quantum est ex parte sui, esse potentem ad operandum. Si- its own contribution a power for operating, just as one who has sight
+cut dicitur potens ad videndum qui habet visum, etiamsi lu- is said to have the power to see even if there is no light. Strictly speak-
+370 mine careat. Simpliciter vero dicitur potens, qui ita est dis- ing, however, he is said to have power who is in such a condition for
+positus ad operandum, ut sine immutatione ulla, vel in se, acting that he without any change either in him, the patient, the ob-
+vel in passo, vel in obiecto, vel in aliquo alio potest actionem 380R ject, or in any other thing can produce the action. We accordingly call
+emittere. Priorem itaque statum vocamus potestatis remotae, the former state one of having a remote power, but the latter one of
+posteriorem autem potestatis proximae. Hi ergo duo status having a proximate power. These two states are applicable in the case
+375 locum habent in potestate libera, ut per se notum est, et ipsi of a free power, as is known per se, and are rightly accommodated to
+libertati recte accommodantur; nam qui dormit, libertatem ti. For he who sleeps has freedom in the first act, but only remotely,
+habet in actu primo, remote tamen, quia multa immutatione 385R since he needs much change in order to use that freedom. But he who
+indiget, ut libertate utatur: qui vero vigilat, et actu considerat is awake and actually considering what he should will or not will, as
+volendum sit necne, dum nihil eligit, liber est tantum in actu long as he elects nothing, is free only in the first act but proximately,
+380 primo, sed proxime, quia immediate, sine interventu alicuius since he can will or nill immediately without the intervention of any
+actionis, aut mutationis potest velle, vel nolle. action or change.
+370 qui ] quia B.
+
+-- 11 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 12
+14. Atque hinc facile patet prior pars assertionis, nimi- 390R 14. From here the former part of the assertion—namely, that im-
+rum in utroque statu requiri immunitatem a necessitate ac- munity from the necessity of the action in the power that is formally
+tionis in ea potentia, quae est formaliter libera, seu indiffe- free is required for either state or that indifference in the active power
+385 <col. b> rentiam potentiae activae tali statui accommodatam. accommodated to such a state is required—is readily clear. This indeed
+Quod quidem in statu remoto per se notum est: nam ideo is known per se in the case of the remote state. For because of this he
+qui dormit, vel non considerat, liber nihilominus est, quia 395R who sleeps or does not consider is nevertheless free, since he retains
+voluntatem retinet, quae de se est facultas potens operari sine his will, which of itself is a faculty with the power to operate without
+necessitate. Si enim talem potentiam, vel illam proprietatem necessity. For if will lacked such a power or lacked that property of it,
+390 eius amitteret, iam nullo modo dici posset liber. Imo inter- it could in no way be called free. In fact, sometimes it does not seem
+dum non videtur esse satis solam potentiam retinere, nam enough only to retain the power, for a boy before the use of reason
+puer ante usum rationis, vel amens non dicitur habere lib- 400R or someone demented is not said to have freedom, even if he has a
+ertatem, etiamsi potentiam de se liberam habeat, quia est in- power that is of itself free. For he is intrinsically unable and lacking
+trinsece impotens, et indispositus ad multa praevia, et neces- the required condition for many things that are also necessary for the
+395 saria ad usum libertatis. Dici tamen potest habere naturam de use of freedom. Nevertheless, he can be said to have a nature of it-
+se liberam, vel habere libertatem in actu primo remotissimo. self free or have freedom in the first act in a very remote way. But he
+Qui autem est intrinsece aptus ad usum libertatis non tantum 405R who is intrinsically apt for the use of freedom not only on the part
+ex parte voluntatis, sed etiam ex parte aliarum potentiarum, of the will but also on the part of the other powers and of the intrin-
+et intrinseca dispositione organorum, licet actu sit impedi- sic condition of the organs, even though he is actually impeded, for
+400 tus, verbi gratia, per somnum, minus remotam facultatem ha- example, through sleep, has a less remote faculty for using freedom.
+bet utendi libertate, et ideo communi usu liber vocatur, quia For that reason he is by common use called free, since he both has the
+et facultatem habet de se indifferentem ad agendum, et non 410R faculty of itself indifferent between acting and not acting and is not
+agendum, et intrinsece impeditus non est ad usum illius, licet intrinsically impeded from using that faculty, although that freedom
+quoad caetera requisita adhuc illa libertas remota sit. is remote so far with respect to the remaining things that are required.
+405	Cardo concordiae
+gratiae, et libero
+arbitrio.
+15. Altera pars de libertate proxima in actu primo, et 15. The other part concerning proximate freedom in the first and, The crux of the
+harmony of grace
+and freewill.
+quasi immediato est difficilior, est tamen verissima, et valde as it were, immediate act is more difficult. It is, however, most true
+necessaria, et fortasse est quasi cardo totius concordiae gratiae 415R and very necessary, and it may be, as it were, the crux of the whole
+cum libero arbitrio, et ideo diligenter probanda est. Primo harmony of grace with freewill. For this reason it should be proven
+ergo probatur, quia illa etiam est potestas vere libera; ergo with care.
+410 in illo etiam statu retinere debet indifferentiam activam in First, therefore, it is proven by the fact that it also is a power that
+operando, quia haec est de intrinseca ratione libertatis, ut is truly free. Therefore, in that state also it must retain an active indif-
+ostensum est. Secundo, quia alias nunquam potentia libera 420R ference in acting, since this belongs to the intrinsic ratio of freedom,
+in actu primo remoto esset proxime libera ad agendum, vel as was shown.
+non agendum, quod est contra omnem rationem potentiae Second, because otherwise no power remotely free in the first act
+415 activae, et plane contra usum libertatis. Explicatur sequela, would be proximately free to act or to not act, which is contrary to
+quia potentia per se, ac formaliter libera in re non utitur, nec every ratio of active power and plainly contrary to the use of freedom.
+valet uti sua libertate et indifferentia, nisi proxime disposita 425R The consequence is explained: for a power that is per se and formally
+399 intrinseca ] extrinseca V.
+
+-- 12 of 13 --
+
+Suárez, De gratia, proleg. 1, cap. 2 13
+ex parte sua, et ex parte intellectus, et obiecti, et ex omni free in re does not use and is not strong enough to use its freedom and
+alia parte necessaria ad opus; ergo si postquam est proxime indifference except if it is proximately disposed for its part and on the
+420 disposita, iam non manet cum plena indifferentia, profecto part of the intellect and the object and every other part necessary for
+nunquam in re ipsa libere operatur, nec utitur innata liber- the work. Therefore, if after it is proximately disposed it does not still
+tate. Tertio probatur, quia libertas formalis, et quasi essen- 430R remain with full indifference, then surely it never operates freely in re
+tialis voluntatis duplicem potestatem inadaequatam, seu ra- and does not use its innate freedom.
+tione distinctam includit circa idem obiectum, eodem modo It is proven, third, by the fact that the formal and, as it were, es-
+425 hic, <10> et nunc propositum, una est potestas volendi, alia sential freedom of the will includes two powers that are inadequate or
+est potestas non volendi, seu nolendi illud. Si ergo volun- distinct by reason, two powers concerning the same object proposed
+tas iam expedita, et proxime disposita ad operandum circa 435R in the same way here and now. One is the power for willing the ob-
+tale obiectum, non est indifferens ad utramque partem illius ject and the other is the power for not willing or nilling the object. If
+potestatis, sicut erat per se praecise, ac remote, et nude spec- the will, then, is already prepared and proximately disposed for acting
+430 tata; ergo ad unam partem illarum manebit proxime, et sim- with respect to such an object, it is not indifferent to each part of that
+pliciter potens, ad alteram vero non nisi remote, ac subinde power, as it was taken in itself, remotely, and separately. For one part
+proxime impotens; ergo de facto voluntas tunc non oper- 440R of those, therefore, it will continue to have the power proximately
+atur tanquam domina utriusque potestatis, sed perinde se ha- and without qualification. But for the other part it will not except
+bet, ac si alteram tantum potestatem haberet, ac proinde non remotely and, consequently, proximately unable. Therefore, in fact
+435 libere operatur. Ut declaremus, et probemus consequentiam, the will does not then operate as having dominion over either power,
+constituamus, et consideremus voluntatem dicto modo prox- but it holds itself just as if it has only one or the other of those pow-
+ime dispositam, ac praeparatam, seu applicatam ad primum 445R ers and thereby does not operate freely. In order to show and prove
+usum libertatis suae, prius natura quam libertate utatur. Aut the consequence, we set up and consider the will in the stated way
+ergo etiam tunc retinet indifferentiam ad utramque partem, as proximately disposed and prepared or applied to the first use of its
+440 et hoc est, quod intendimus; aut alteram tantum potestatem freedom, but prior in nature to using the freedom. Either it then also
+exercere potest, verbi gratia, volendi, et tunc profecto se- retains an indifference to each part (and this is what we intend), or it
+quitur, ut sit hic, et nunc simpliciter, et proxime impotens 450R can exercise only one or the other power, for example, the power to
+ad nolendum, quia ut posset nolle, deberet aliter praeparari, will. In the latter case it surely follows that here and now it is strictly
+seu disponi, quod iam non est in potestate illius, nec antea speaking and proximately unable to nill, since in order to be able to
+445 fuit, quia nondum usa fuerat libertate sua, ut supponitur: nill it has to be prepared or disposed differently. But that is no longer
+ergo illa libertas remota nunquam ad usum liberum appli- in its power, nor was it before, since it had not yet used its freedom,
+catur. Atque hic discursus, et assertio ex capite sequenti am- 455R as was assumed. Therefore, that remote freedom is never applied to
+plius confirmabitur. the use of freedom. And this discussion and assertion will be more
+thoroughly confirmed by the following chapter.
+
+-- 13 of 13 --

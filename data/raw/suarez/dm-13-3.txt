@@ -1,0 +1,739 @@
+Last revision: August 28, 2025
+Francisco Suárez, S. J.
+DM XIII.31
+© Sydney Penner 2014
+<402, col. a>2
+SECTION III.
+Whether the single first material cause of generable substances is
+some simple body or a whole ( integra) substance.
+1. As Aristotle and the other authors cited in the preceding section
+report, the ancient philosophers who posited only one material
+principle of all natural things almost all thought that it is some
+whole substance or simple body (of the sort that Averroes thinks
+celestial body to be). But there were many opinions among them
+about that body or material cause.
+The opinions of the philosophers about the one material principle.
+2. First, it was asserted that this principle is water. The author of
+this view was Thales of Miletus. But others, such as Plutarch, think
+the origin is more ancient and drawn from Orpheus.3 The second
+opinion attributes this function to air. Anaximenes [of Miletus] and Anaximenes.
+Diogenes.
+Aristotle.
+Simplicius.
+Hippasus.
+Heraclitus.
+Diogenes of Apollonia taught this, as Aristotle reports in Physics I.3
+and as Simplicius shows in the same place. The third opinion was
+that fire is a cause of this sort. Hippasus and Heraclitus taught
+this and the Stoics followed the same opinion, as it in Cicero, De
+natura deorum 3.4 <col. b> The fourth view can elect earth to
+this office from the fact that it stands under all things and is, as
+it were, the common mother of all things. Nevertheless, Aristotle
+says in Metaphysics I.7 that this was the vulgar opinion but that
+none of the philosophers are inclined towards it by the fact that
+1Translation is based on the 1597 edition. Paragraph numbering, however, in
+which the 1597 and Vivés editions do not agree in this case, follows the Vivés
+edition, since it is the most widely used edition (The 1597 paragraph numbers
+are included in square brackets). Numbers in angle brackets also indicate page
+numbers in the Vivés edition for ease of reference.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for
+ease of reference, given that it is the most widely used edition.
+3De Isis et Osiris 34?
+4Vivés edition cites book 2 instead.
+
+-- 1 of 16 --
+
+Suárez, DM XIII.3 2
+earth on account of its excessive density and dryness seems to
+be unsuitable for receiving the forms or figures of other things.
+Nevertheless, Hesiod in his Theogony unreservedly calls earth the Hesiod.
+Pherecydes.	material principle of all things and Theodoretus in De materia et
+mundo reports that Pherecydes [of Syros] thinks the same thing. The
+fifth opinion attributes this function to none of these four elements
+but to a certain insensible body in the middle of or between water
+and air, as Aristotle reports in Metaphysics I.7, or between air and
+fire, as Anaximander reports, who adds that this intermediate body
+is infinite lest generation cease at some point. From this it seems
+to be gathered that this philosopher did not consider this body
+incorruptible. Otherwise, there would be no reason to fear that
+it could be consumed through a succession of generations if it
+were finite, although one can hardly understand how he made it
+corruptible if he considered it to be simple and the common subjects
+of generation.
+3. It would be long-winded and superfluous to report the proper A judgement is brought
+regarding the
+aforementioned views.
+motive of all these philosophers, as a result both of being uncertain
+and of not wearing any probability or verisimilitude on their sleeves,
+so that it will become clear from what will be said along the way. But
+what seems to have been common to all is that they thought that
+nothing new could come to be strictly speaking. For from nothing
+nothing can come to be. For this reason they seem to recognize
+neither substantial forms nor substantial generation or corruption.
+In fact, many of them proclaimed that there are no accidental forms
+that are true beings, since they did not understand that some new
+true thing can come to be. They thought that every change that we
+experience consists in various ways (in variis modis) of holding itself
+of that thing which they thought was common matter.
+From this some progressed further than that so that they did
+not say that the material cause of all beings is one but that all beings
+are one, not in number but in substance and essence. Although
+what they said is false and improbable, nevertheless they spoke
+logically (consequenter) if they were dealing only with generable
+bodies. For if these are not transformed substantially and do not
+differ through substantial forms but only through accidental forms
+or through <403> holding themselves in different ways, no material
+cause of substance is really given, but only a simple substance that
+is not essentially one and another, but is one holding itself in one
+way and another way under different accidents.
+4. And this was the opinion of Xenophanes, Parmenides, and Xenophanes.
+Parmenides.
+Melissus.
+Melissus, who in this sense said that everything is one being and
+
+-- 2 of 16 --
+
+Suárez, DM XIII.3 3
+whatever is beyond that is not being. For they do not count accidents
+or the modes of those beings as beings. Consequently, they get rid
+of every generation or change strictly speaking by the fact that they
+make that being ungenerable and incorruptible and by the fact that
+they do not think that accidental changes merit the absolute title of
+change since they do not give being strictly speaking.
+But some of these philosophers are interpreted in other ways,
+namely, that through one being they understood one universe that
+contains all things, as Aristotle hints at in De generatione I.8 and
+Simplicius in Physics I.2. Or through one being they understand
+God, who alone truly is. For Aristotle in Metaphysics I.5 and Cicero
+in Academica 2 report that Xenophanes named that one being God.
+And thus many, weighty authors deem these philosophers to have
+spoken through enigmas and to have hidden the truth through
+figurative expressions. But Aristotle attacked their views insofar
+as they seem to be advanced through the surface appearance of
+those words. Concerning this matter, one can read St. Thomas in St. Thomas.
+Philoponus.
+Simplicius.
+Steuco.
+Mirandola.
+Bessarion.
+Metaphysics III, text. 15; Philoponus and Simplicius in Physics I.2;
+Agostino Steuco, De perenni philosophia III.5; Giovanni Francesco
+Pico della Mirandola5 Examen vanitatis doctrinae gentium VI.1, and
+Basilios Bessarion, Contra calumniatorum Platonis. What these
+philosophers think or what mystery they hide with their words is of
+little importance for us. Nevertheless, there is no doubt that if they
+disregard substantial forms as they seem to have disregarded them,
+given that they make no mention of them, they could consequently
+easily and sufficiently have fallen into that view as described by us.
+Hence, this a proof and confirmation of substantial forms will refute
+this view just as well as others.
+5 [4]. But one can refer in this place to another view, which The opinion asserting
+that the form of
+corporeity is coeval
+with matter.
+many of the modern philosophers follow and which places in prime
+matter a form of corporeity that is coeval with it and inseparable
+from it. For although with respect to such a form its material cause
+is simple—that is, apart from essential and physical composition—
+nevertheless, the common subject that <col. b> remains through
+every transformation and that is the universal material cause of
+every generation and of every substantial form that comes to be
+through eduction and of every composit that is generated, that sub-
+ject, I say, is not simple according to the just-mentioned opinion.
+Rather, it is essentially composite and is some body that is not
+mixed, nor something from the elements, nor something intermedi-
+5An Italian philosopher and nephew of the better-known Giovanni Pico della
+Mirandola.
+
+-- 3 of 16 --
+
+Suárez, DM XIII.3 4
+ate between them through a participation in them, but is absolutely
+a body through the cutting away of all lower forms. Avicenna holds Avicenna.
+Scotus.
+Henry.
+this opinion in The Book of Healing I.2. Its foundation is that the
+subject of generation must be corporeal and extended and conse-
+quently a quantity, but it cannot be something of this sort unless it
+has some substantial form.
+Scotus and Henry of Ghent follow this view in part. For the
+former thinks in IV, dist. 11, q. 3, art. 2, that this kind of form
+of corporeity or of mixture (as he puts it) is necessary in all and
+only living things. But the latter in Quodlibet 2, qq. 2 and 3, and
+Quodlibet 3, qq. 13 and 14, thinks that it should only be admitted
+in the case of human beings on account of the divisibility of the
+rational soul. Hence, these two authors do not posit this form
+as inseparable from matter nor as per se necessary for the first
+material causality of the subject of generation, but on account of
+other special reasons. For this reason their opinion does not pertain
+to the present topic.
+Resolution of the question.
+6 [5]. It should be said first, then, that the material cause that is The first conclusion.
+universal and first in its order is not something from the sensible
+bodies or elements that are affected by contrary qualities. This
+assertion is contrary to the first four opinions and it is evident from
+what was said in the preceding section. If these elements and all
+sensible bodies are substantially transformed into each other, none
+of them can be the first subject of transformation. For the first
+subject, which is the first material cause which we are seeking, is
+not transformed and neither does it withdraw from its substance.
+Otherwise, it would resolve into some prior subject and thus would
+not be the first subject.
+Furthermore, since generation takes place between contraries,
+it is necessary that the common subject of generation not have
+any of the contraries naturally innate in itself. Otherwise, it will
+either never be capable of the other contrary or it will be destroyed
+through the casting down of what is connatural to it, just as an
+element is destroyed when a quality <404> that is necessary to it
+is removed. Since, therefore, the individual elements are affected by
+proper qualitied having contraries, none of them can be a suitable
+subject of generation. Therefore, neither can any of them be the
+first material cause of natural beings.
+7 [6]. From here a third argument arises, since there is no
+
+-- 4 of 16 --
+
+Suárez, DM XIII.3 5
+reason why this causality is attributed to one element rather than
+to another, nor why it is more repugnant to all of them at once
+than to some one of them. But it was shown that it cannot agree
+with all of them. Therefore, it is not truly attributed to any of them.
+The former part of the major proposition is shown by the fact that
+the individual elements are simple bodies. And each of them is
+designed for and suitable for the generation of mixtures, and none
+of them can in any way be constituted from the others. For each has
+proper qualities repugnant to the others. Therefore, in all of them
+there is an equal ratio or repugnance, so that they cannot be the
+common matter of all generable things. For that in certain things
+there are certain conditions accommodated to the office of common
+matter—as is, for example, subtlety in fire, by reason of which it can
+easily penetrate all things, and in air, which almost is the common
+place of all things and easily receives external impressions, and
+humidity in water since it is conjoined to density, which seems to
+be proportionate for constituting nourishment for all things—these
+conditions, I say, are of no relevance. First, because they are of
+more help for the ratio of effecting or for the ratio of transient matter
+than for the proper and intrinsic ratio of a material cause. Second,
+because these conditions also are just as accommodated to certain
+things as they are repugnant to others. For the subtlety of fire has
+proportion with the matter of subtle things but not with the matter
+of dense things. Likewise for the others. But the first material cause,
+since it is common to all things, must of itself be indifferent to all
+things.
+8 [7]. The other part of the major proposition is proven by the
+fact that all elements at once cannot be the common matter, since
+they are substantially transformed into each other. But this argu-
+ment works equally well for each element taken in itself. Therefore.
+Hence, finally, it is confirmed: for no element can be the matter of
+other elements, as seems to be known per se, since they are repug-
+nant to it. Nor can it be the matter of some mixture while remaining
+in its own nature, since the form of the mixture is also repugnant to
+the form of the element. Therefore, no element <col. b> can be the
+common matter of all natural things. And these reasons a fortiori
+establish [the case] concerning all mixtures, especially since these
+are constituted from the elements. For this reason no one has so
+far attributed this causality to any mixture.
+9 [8]. I say, second: prime matter is not some body or some The second conclusion.
+complete substance, both whole in essence and in a species of sub-
+stance. That matter is a substance of this sort can be understood in
+
+-- 5 of 16 --
+
+Suárez, DM XIII.3 6
+two ways. First, such that it alone is the substance of all generable
+things and is formed through its distinct accidents. This is the sense
+in which the assertion was proved from the fact that natural things
+differ not only in accidents but also in substance and essence, as
+we argued in a previous section against Epicurus and others.6 It
+should also be rejected (and this comes to almost the same thing)
+from the truth of substantial forms, which we will demonstrate in
+the 15th Disputation. For when that truth is supposed, it obviously
+follows that matter is not the whole substance of material things.
+And these things differ not only in accidents but also in essence
+and substance. They are transformed not according to accidents
+only but according to substance. This is also sufficiently evident
+from experience itself. For when a thing is changed with respect to
+accidents only, some trace of its properties and operations remains
+in it, or at least it returns to its state and nature when the contrary
+agents are removed.7 But we see that some things are changed and
+destroyed in such a way that the former properties and operations
+are completely lost, even if every contrary action ceases. Conversely,
+other things are produced and generated in such a way that they
+constantly remain in that being that they acquire as if it were proper
+and connatural, and they have their proper and connatural opera-
+tions and dispositions in accordance with it, which they preserve
+as long as they can. If sometimes they are made to waver or to be
+diminished by some contrary, they return to them from their proper
+and intrinsic nature as soon as the contrary action ceases. This
+is a sign, then, that things are corrupted and generated not only
+with respect to sensible accidents but also with respect to proper
+substance. In these ways the five opinions listed above are attacked
+as much as the opinion that asserts that all things are one in the
+explained sense.
+10 [9]. In another way, then, someone could imagine matter
+to be a whole complete substance in some species of substance
+and yet <405> being apt for receiving further substantial forms
+and with them composing the different substances and essences of
+material things. This sense, too, is improbable. For matter would
+be a complete substance that is either entirely simple or that is a
+composite of some potentia and substantial actus.8
+6DM 13.2.
+7Cf. DM 15.1.8 and 12.
+8Because they are the key technical terms and because it is unclear how best
+to translate them, I will leave ‘actus’ and ‘potentia’ untranslated in this section.
+Generally, ‘actus’ could have been translated either with ‘act’ or with ‘actuality’,
+
+-- 6 of 16 --
+
+Suárez, DM XIII.3 7
+But the latter cannot be said, first, because in that case it would
+not be the whole composite that is the first material cause but rather
+the potentia from which it is composed. Perhaps it will be said that
+this is true with respect to the composite that is being imagined
+as ungenerable and incorruptible, but, nevertheless, with respect
+to every generable being or generation the first material cause is
+the whole composite. But against this is objected, second, that
+such a composite is imagined without any foundation. For there
+is no indication or sensible sign of that form placed between pure
+matter and the other forms that are introduced through generation.
+For that form has no sensible property by which it is discerned
+(dignoscatur). For the primary qualities follow per se on the forms
+of the elements and the temperament composed from those qualities
+on the forms of the mixtures. But all the remaining qualities or
+properties that we experience presuppose the prior qualities at least
+in the genus of material and dispositive. There is, then, no sensible
+or material indication of such a form. Hence, there is a third
+[objection] as it is wholly superfluous, since there is no physical
+effect for the sake of which it is necessary. For it is not for the sake
+of effecting, since it has no quality through which to effect, and from
+elsewhere the proper form that is connatural to a quality suffices for
+that quality. Nor is it for the sake of receiving, for that potentia that
+is said to stand under such a form is sufficient for this. For why
+would that not also immediately be made the subject of the form
+that is introduced through generation? For the same reason such a
+form is also not necessary for conserving the potentia whose actus it
+is said to be. For the form that is introduced through generation is
+sufficient for this. Therefore, such a form is imagined superfluously
+and without foundation.
+11 [10]. Fourth, there is added the impossibility of conjoining
+those two forms to the same potentia or matter. For, although it
+is in question whether a generic, as it were, and a specific form
+can actualize matter simultaneously (something we will touch on
+a little farther down), it is, nevertheless, plainly impossible for
+two specific forms to be conjoined simultaneously for actualizing
+the same substantial potentia. Almost all the authors <col. b>
+agree about this. Either those two forms immediately actualize the
+matter or one would be the actus of the other or the actus of the
+while ‘potentia’ could have been translated either with ‘potency’ or ‘potentiality’.
+In other contexts, ‘potentia’ can also mean ‘power’ but that is probably not the
+right translation in this context. Suárez also uses ‘actualitas’, ‘potentialitas’, and
+cognates; these I will render into their closest English cognates.
+
+-- 7 of 16 --
+
+Suárez, DM XIII.3 8
+matter as informed through the other. The first cannot be said,
+especially according to that view, since otherwise the prior form
+would not necessarily be presupposed for the latter form. Nor can
+the composite of matter and such a form be the proximate potentia
+and material cause of the subsequent form. The second also cannot
+be said, since a substantial form constituting a whole and complete
+substance has the ratio of a last actus in the ratio of substantial
+and essential actus, since it constitutes a certain ultimate species of
+substance. Therefore, it cannot be related in the way of a substantial
+potentia to the further form.
+Finally, there is a general reason, since one and the same sub-
+stance cannot be essentially and per se constituted in two ultimate
+species. But it would be constituted in a proper and complete
+species through any one of those forms. Therefore, those two forms
+cannot be simultaneously conjoined to the same matter. Other-
+wise, any substance, regardless how complete, could be actualized
+through a further substantial form, since no better reason can be
+given in one case than in another.
+Also relevant here is that common argument that a form coming
+to a being already constituted in actus cannot make something one
+per se but only something one per accidens, according to Aristotle
+in Metaphysics VII, text. 49, and De anima II, text. 7. For this
+reason it cannot be a substantial form but only an accidental form,
+since a substantial form constitutes something one per se rather
+than something one per accidens. The reason is that substantial
+form gives unqualified and essential being, and for that reason
+cannot presuppose a thing constituted in unqualified being and
+in a complete and consummate essence. But an accidental form
+gives qualified being, which is joined per accidens to a consummate
+essence. It is impossible, therefore, for the subject that is the
+material cause of generable things and of substantial generation to
+be a complete substance and to be constituted through a proper
+and specific form.
+12 [11]. And these arguments equally effectively show that that
+subject cannot be a simple substance that is whole and complete
+in a ratio and species of substance. For it would be impossible for
+such a substance to be further actualized and completed through a
+substantial form. For if this is repugnant to a composite substance,
+it is much more so to a simple substance that through itself is in
+complete and perfect actus. For that repugnancy does not arise
+from composition, but from <406> complete actuality in a ratio and
+essence of substance, which cannot within that genus be further
+
+-- 8 of 16 --
+
+Suárez, DM XIII.3 9
+actualized susbtantially and essentially. This argument of repug-
+nance, moreover, has a place by the same or greater reason in the
+case of simple substance, if a whole and complete being is supposed
+in that genus of substance. By this reason an immaterial substance
+cannot have the ratio of a substantial potentia to a further form,
+since it is a complete simple susbtance. The same is true in the
+case of celestial substance if it is physically simple, as many wish.
+For it is complete in a certain species of substance and, therefore,
+it cannot be further actualized substantially. Prime matter, there-
+fore, which can be actualized substantially and which can compose
+together with a substantial form a being that is one per se, cannot
+be a simple substance of the sort that is whole and complete in the
+genus of substance.
+13 [12]. I say third: the material cause of generable things The third conclusion.
+is not a substance composed of a substantial potentia and some
+substantial form that is incomplete and quasi generic. Almost all the
+authors endorse this assertion against Avicenna, especially those
+who deny that there are multiple substantial forms in the same
+composite, as St. Thomas does in ST Ia.76.3–4, in SCG II.58, and St. Thomas.
+Capreolus.
+Ferrarienses.
+Cajetan.
+Soncinas.
+Javellus.
+Soto.
+Marsilius.
+Astudillo.
+Albert of Saxony.
+Avicenna.
+in Metaphysics VII, lect. 12. The Thomists follow him: Capreolus
+in II, dist. 15, q. 1; Cajetan in the cited place in the first part of
+ST and De anima II.1; Ferrariensis in the cited place from SCG;
+Soncinas in Metaphysics VIII, q. 8; Javellus in q. 4; Soto in Physics
+I, q. 7; Astudillo in De generatione I, q. 1; Marsilius in the same
+place, q. 6; Albert of Saxony in q. 5; and, more widely, Giles of
+Rome in De pluralitate formarum and in De anima II, dub. 6. The
+same is taught by Philoponus in De generatione in the beginning
+of book I; Themistius in Physics V, text. 7; and the Commentator
+in De substantia orbis, in Metaphysics I, text. 17, and in Physics
+I, text. 65 and 69. In fact, even Avicenna in De anima I, p. 1,
+ch. 3, indicates that only the matter remains in corruption and
+in The Book of Healing I, ch. 3, he questions whether corporeity
+also passes away in corruption, as he himself said. Aristotle also
+clearly indicates the same view in De generatione I, text. 12, and
+in the other places cited above. Various arguments are made by
+the doctors. Nevertheless, two suffice, since they can be taken with
+proportion from the proofs for the previous assertion.
+14 [13]. The first argument is that there is no indication in
+nature of such a form that is coeval with and inseparable from
+matter nor is there any effect for the sake of which it is necessary.
+Therefore, <col. b> to imagine such a form is without foundation or
+necessity. The antecedent is shown: for that form has no quality
+
+-- 9 of 16 --
+
+Suárez, DM XIII.3 10
+proper to it through which it is cognized nor can it be gathered
+from substantial transformation. For all that can be gathered from
+transformations of that sort is that there is some substantial subject
+for it. But that it be composite is not necessary for it to have the
+ratio of a subject and it cannot be inferred from any other indication.
+You will say that being extended and divided from other things
+is necessary for the ratio of a subject of physical change, and for
+this it is necessary that it have some form. For matter alone through
+itself does not have the capacity for extension and division, since it
+is an actus that distinguishes. For this was the foundation of the
+contrary view.
+But this reason is of no moment, since either we suppose that in
+the order of nature quantity and extension strictly precede substan-
+tial generation in prime matter or we suppose that they follow on the
+form introduced through generation and affect the whole composite.
+In neither way is it necessary that the subject of generation be
+a composite of matter and some form. Each part is shown: for if
+quantity is presupposed for the form introduced through generation,
+it can easily be understood as inhering in the entity of matter itself.
+For, as we will show below, matter has true and substantial entity.
+15 [14]. It is confirmed: for this composite of matter and the
+form of corporeity that is being imagined is incomplete in what it is
+and potential such that it naturally seeks a further form without
+which it either cannot be at all or at least cannot be in a connatural
+way. Nevertheless, it is said that this composite is by nature first
+a sufficient subject of quantity before it receives a further form.
+Therefore, it would be much better and easier to attribute that whole
+capacity to the simple entity of matter, since no greater repugnancy
+can be imagined with respect to this in simple entity than in that
+composite. Nor will the actuality of such an entity, of whatever sort
+it is, be more repugnant with union and per se composition with
+an ultimate substantial form than the actuality of that composite
+of matter and the form of corporeity. Therefore, that form is not
+necessary according to this way of supposing.
+Much less is it necessary if we suppose that quantity follows
+the form that is introduced through generation. For according to
+this view quantity in the order of nature presupposes a substance
+composed of matter and proper form. Hence, according to this
+opinion it should consequently be said that before <407> the intrin-
+sic instant of generation, in the whole time in which the previous
+alteration happens there is presupposed matter in itself extended
+and divided from other things through the quantity and form of the
+
+-- 10 of 16 --
+
+Suárez, DM XIII.3 11
+thing that will be corrupted, but in the instant of generation it is
+conserved extended and divided through the introduced form and
+the quantity concomitant with it in the same instant. Therefore,
+there is no natural effect and no sign by reason of which such a
+form or composite on the part of matter should be admitted.
+16 [15]. The second argument is that a form of this sort is
+incompossible in matter with the subsequent forms. This is com-
+monly shown from the maxima that something one per se does not
+come to be from two entities in actus. For the first substantial form
+constitutes a being in absolute and unqualified actus, since it gives
+unqualified being. Therefore, no additional (superveniens form can
+constitute a being that is one per se and unqualifiedly.
+But it can be responded to this argument that it only proceeds
+with respect to a substantial form that gives specific and ultimate
+being. For a form that precisely gives generic being, then, although
+it has the ratio of actus with respect to the matter, it nevertheless
+is related as potentia to the lower form. And since it is of the same
+genus, it will be able to constitute a being per se one with its actus.
+For in this way these authors philosophize in the case of physical
+forms just as we all argue in the case of metaphysical differences.
+In the latter sort of case, the subalternate difference is the actus
+actuating the higher genus and constituting a proper species. Yet
+that species is a potentia towards a lower difference, with which
+it metaphysically composes a being per se one. According to the
+aforementioned view, the same thing should be said in the case of
+physical forms. Hence, when it is said that every substantial form
+constitutes a being unqualifiedly in actus, it will be responded that
+this is true in due proportion. For a generic form constitutes a being
+in actus in a generic grade, but a specific form in a specific grade.
+And the maxim ‘that what comes to a being in actus comes to it
+accidentally’.9
+17 [16]. For this reason, in order to attack that view at the No form can precisely
+give a generic grade.	root, we must prove that there cannot be a form that precisely gives
+generic being lest it also give some specific being in that genus. For
+once this has been proved, the given reasoning will proceed well
+enough, since every substantial form constitutes a being unqual-
+ifiedly in actus and in some ultimate species of substance. And
+for this reason it is impossible for a composite constituted through
+such a form to be further actualizable through a substantial form.
+That assumption, moreover, <col. b> is proven first by induc-
+9On the issue of how many substantial forms one substance has, see DM
+15.10.
+
+-- 11 of 16 --
+
+Suárez, DM XIII.3 12
+tion, first in the case of accidental forms and then also in the case
+of separate forms. For qualities are also conceived as giving specific
+being (for example, being white) and generic being (for example,
+being coloured, etc.), and yet there is no accidental form that in the
+thing precisely gives generic being and not some specific being. Like-
+wise, in the case of angels there is given the generic ratio of spirit
+and the proper specific difference. But there cannot be—in fact,
+there cannot be conceived—some separate form that is a spiritual
+substance and that in the thing itself stops precisely in this generic
+ratio. Therefore, for the same reason, in the case of substantial
+forms, which are as it were intermediate no form can be given that
+in the thing precisely gives a generic grade. For no reason can be
+given for the difference.
+Whence, I argue, second, from the proper ratio of the forms
+themselves, since one cannot understand a form existing in the
+thing itself that is not essentially constituted in some ultimate
+species of substantial form. But every form communicates its
+whole being and its whole essence to the composite. Therefore, it
+constitutes the composite in some ultimate species of composite
+substance. The consequence with the minor are evident and can
+best be shown by the induction made in the first argument. But
+the major also seems most certain, since every substantial form
+has a proper entity distinct in the thing itself from matter or from
+other forms. Therefore, it is necessary to understand in that en-
+tity the ultimate and proper difference or ratio through which it
+is essentially distinguished from the other forms having different
+essences but with which it agrees in the common ratio of substantial
+form. Therefore, every substantial form is necessarily constituted
+according to its entity in some ultimate species of substantial form.
+18 [17]. You will say: prime matter also has its own proper
+substantial entity and yet according to itself is not constituted in
+some ultimate species but is only reduced to the genus of material
+substance until it is determined to some particular ratio through
+form. Therefore, the same thing can be said about the form common
+to coeval matter.
+I respond that the assumption is false, for the prime matter The prime matter of
+generables is a stable
+indivisible and claims a
+species for itself.
+of generable things, which we are now discussing, is essentially
+constituted in some ultimate species of matter. It retains this under
+every form and cannot change it; at most it can be accommodated
+to this or that form through superadded accidents. But since
+<408> this essence of matter, although in itself it is specific and
+ultimate, is such that it can itself really be communicated to multiple
+
+-- 12 of 16 --
+
+Suárez, DM XIII.3 13
+substances essentially diverse. For this reason, as far as it itself
+is concerned, it is said to be reduced to the material substance
+of generables as such and not to some species of that. From this
+is gathered in passing that the concept of generable substance as
+such is not generic by reason of matter but by reason of a common
+grade or agreement in form.
+19 [18]. You will press on and say that even if matter in its
+essence has the ultimate specification of matter, it nevertheless is
+common to multiple substances essentially diverse. Therefore by
+equal reason although a form of corporeity in its entity and essential
+concept has some ultimate specification, it nevertheless could be
+common to multiple substances having further rationes essentially
+diverse.
+I respond that the reasons are not equal. For the essence of
+matter is as it were the foundation of a whole substantial and
+composite nature. For this reason it is only a kind of inchoate
+essence (if I may put it this way) through the mode of potentia, and
+for this reason it of itself is indifferent so that it may be completed
+through different actus. Form, on the other hand, is the complement
+of substantial nature and essence. For this reason, by the very
+fact that it has a determinate and specific ratio of form, once it is
+conjoined to matter it completes with it a whole substantial nature
+and is constituted in some ultimate substantial species. For this
+reason it does not leave that nature indifferent to a further species.
+On account of this all those who posit a form of corporeity in all
+things or in all natural things consequently say that that form is
+precisely constituted in the subalternate grade of corporeity apart
+from any essential contraction, which really is unintelligible.
+20 [19]. And they consequently also admit that the composite
+of matter and form of that sort, if it were conserved in reality apart
+from a further form, is an individual of a genus of corruptible body
+and not placed in any of its ultimate species. Moreover, that it
+can be thus conserved in that way through [God’s] absolute power
+seems evident, speaking consistently, since the lower forms really
+are distinguished from that composite and a fortiori will be clear
+from the things that we will say below about matter. But Scotus
+also thinks it is possible naturally, as, for example, in the death of
+a human being or other similar cases. For he admits substantial
+corruption in that case without generation and that a cadaver is
+nothing other than this individual body affected by these accidents
+and not constituted in any lower <col. b> substantial species.
+This consequence, however, to me seems in itself absurd and
+
+-- 13 of 16 --
+
+Suárez, DM XIII.3 14
+incredible. For no more can this individual body existing per se
+without any specification be conceived than this spirit beyond all
+species or this coloured thing affected by this colour but by no
+species of colour. And the reason was given above. For individual
+entity necessarily differs essentially from others and therefore it
+is necessary that it in itself be constituted in a proper essence
+not common to others. Hence, it is confirmed, for it follows from
+the stated position that the generic and specific rationes are really
+distinct in one and the same thing, since they are taken from really
+distinct forms. But that the consequent is false is clear from what
+was said above concerning universals and will also be shown in the
+following arguments.
+21 [20]. The third argument is taken from the difference between
+essential composition that is physical and that is metaphysical. To
+make these equivalent in this is the cause of the error, since one
+composition exists in things but the other in concepts. For this
+reason, I argue: for if physical form that only confers a generic
+grade can be given, then really distinct substantial forms should be
+multiplied to as many as there are generic and specific grades of
+material substances. The conclusion is false. Therefore.
+The inference is shown by equivalent reason. For what rea-
+son can be offered on account of which a certain generic grade is
+given through a really distinct proper form but not the other ones?
+Especially given the fact that according to the view that we are
+combatting the form that gives the being of a body is distinguished
+from the form giving the being of fire or of a stone or others like
+them not only in the case of things that seem to be elevated to a
+higher grade of body (for example, living things) but also in the
+case of the lowest inanimate bodies. This contraction exists with
+the minimum of difference that there can be between some genus
+and a substantial difference. If, therefore, that suffices for a real
+distinction of forms, any difference whatever will suffice.
+Hence, although philosophers who admit that conclusion are
+not lacking, it is, nevertheless, not only false but also ridiculous. The absurdity from the
+opinion of those
+asserting a form of
+corporeity.
+First, because it stands evidently by the induction made earlier that
+that real distinction of forms is not necessary for abstracting the
+concepts of genus, difference, and species (for example, in the case
+of angels and accidents).10 Second, because it follows that in the
+case of human beings soul should be multiplied to three, which is a
+view that is entirely false, as I assume from the science of <409>
+the soul. In fact, they would have to be multiplied even more, since
+10See n. 17.
+
+-- 14 of 16 --
+
+Suárez, DM XIII.3 15
+within the grade of sentient things some essential agreement can be
+abstracted between human beings and some perfect animals that is
+not common to all animals. And in the ratio of intelligent things a
+generic ratio can be abstracted that is common to human beings and
+angels but that is contracted through a proper difference to human
+beings. Hence, it follows further that innumerable really distinct
+forms must be asserted in individual composites. For generic and
+specific differences can be multiplied in different ways according to
+difference agreements and differences that can easily be considered
+in things and according to which different common or particular
+concepts can be abstracted.
+It is, therefore, a serious error in metaphysics and philosophy Worthy of note.
+to distinguish real and physical forms on account of our confused
+or distinct way of conceiving from which the multiplication of genera
+and differences often arises. Otherwise, not just one but two or
+three forms of corporeity must be posited. One is of body in general
+insofar as it is a genus of corruptible and incorruptible things,
+simple or mixed. Another is of corruptible or mixed bodies as such.
+All of these are ridiculous. Hence, not only is it not necessary to
+multiply these forms on account of those operations of the mind, it
+is also truly repugnant to them. For it belongs to the ratio of proper
+genus and proper difference that they express the same essence of
+a thing conceived in different ways.
+22 [21]. This, finally, is confirmed: for it is impossible for
+there to be a substantial form giving a specific grade of substance
+that does not also give that generic grade and formal effect that is
+thought to be a distinct form of corporeity. Therefore, such a form
+is both superfluous and impossible.
+The consequence is evident, because the same essential pred-
+icate and the same formal effect cannot apply to the same thing
+through two really distinct forms. The antecedent is proven: for
+a substantial form that confers a specific grade and does not es-
+sentially include the common and generic ratio of a substantial
+form informing matter cannot be given; rather, precisely this ratio
+is sufficient to constitute a form of corporeity. Therefore, the form
+of corporeity is not a special form, but is any substantial form
+whatever considered according to the common ratio of an informing
+substantial form. The minor is proven (for the remaining premises
+are clear): for precisely from the fact that some substance is un-
+derstood a composite of <col. b> matter and substantial form, it
+is essentially a corporeal substance or a body in the category of
+substance. For from the force of such a composition it is both
+
+-- 15 of 16 --
+
+Suárez, DM XIII.3 16
+essentially distinct from incorporeal substance and is capable of
+quantity or the three dimensions in which the ratio of corporeal
+substance consists. Hence, the form of corporeity as such does not
+imply or require that it itself be corporeal or extended, but only that
+it informs matter. In virtue of the composite resulting from that
+informing, it is capable of the three dimensions. An intermediate
+form that gives the generic being of a body is, therefore, neither
+necessary nor possible. Rather, any substantial form by the force of
+its generic ratio confers that [generic being].
+23 [22]. What remains, then, from all that has been said is The conclusion is
+inferred from all that
+has been said.
+that the first material cause of generable substances is not some
+whole substance, nor is it any body or composite of matter and
+form. And hence for the generation of substances, no ingenerable
+and incorruptible body is presupposed in the mode of a subject in
+which the generation is received. Only prime matter is presupposed.
+(Only, I say, with respect to substance. For what should be said
+with respect to accidents, we will see later.)
+
+-- 16 of 16 --

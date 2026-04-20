@@ -1,0 +1,1149 @@
+Sydney Penner
+Last revised: June 8, 2009
+Francisco Suárez, S. J.
+DE ANGELIS LIB. VII, CAP. 6
+Utrum omne peccatum voluntatis defectum aliquem in intellectu Whether every sin of the will presupposes come defect in the practical intel-
+practico supponat.1 lect.
+1. Habitualis defectus intellectus non necessario ad peccandum 1. It is not necessary to presuppose a habitual defect of intellect for sinning.—
+supponitur.—Defectus actualis multipliciter sumitur.—Sicut in intel- An actual defect is taken in multiple ways.—
+lectu speculativo positum, et privativum, habitualem, et actualem
+defectum distinximus: ita in intellectu practico distingui potest, ut
+notum est. Suppono autem in præsenti non esse sermonem de ha-
+bituali defectu, quia sine dubio ille non necessario supponitur ad
+peccatum. Nam primus homo antequam peccaret perfectissimus
+erat habitualiter, non tantum in speculativo intellectu, sed etiam
+in practico per prudentiam, et alios habitus illi annexos, et idem in
+Angelis certius est; imo in hominibus mortalibus sæpe id contin-
+git. Et ratio est, quia habitualis perfectio si non exeat in actum, non
+movet voluntatem, et ita non potest illam impedire, ne peccet. De-
+fectus autem actualis intellectus practici, si sit privativus, consistit
+in carentia alicujus actus intellectus necessarii ad bene operandum,
+vel resistendum peccato. Datur in homine honeste operante, seu
+resistente tentationi judicium practicum dictans hic et nunc, quid
+voluntate agere oporteat: præter quod judicium aliqui distinguunt
+imperium practicum, quod posterius sit ipso judicio practico, et ef-
+ficacius ad movendam voluntatem. Et ita duplex cogitari potest de-
+fectus privatus practici intellectus, unus est carentia solius imperii,
+etiamsi supponatur practicum judicium, alius est carentia judicii
+practici: quo deficiente, a fortiori deficiet imperium, sive sit actus
+distinctus, sive non. Defectus autem positivus erit aliquis error
+per practicum judicium contrarium. Hic autem error subdistingui
+solet in errorem deceptionis, qui sit contrarius veritati rei, et in er-
+rorem moris, seu electionis, aut de re agenda, contrarium quidem
+
+-- 1 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 2
+rectitudini morum, non tamen veritati rei, et de his omnibus sunt
+opiniones, quæ sigillatim tractandæ sunt.
+2. Prima opinio requirit ad peccandum solum defectum imperii
+practici honesti.—Prima opinio dicit, ad omne peccatum supponi
+defectum imperii practici honesti, nullumque alium defectum esse
+necessarium. Distinguit enim hæc sententia imperium a practico
+judicio, dicitque etiamsi intellectus habeat judicium practicum de
+turpitudine peccati, et de hones- <826> tate contrarii actus, vel
+omissionis ejus, si tamen careat imperio continente voluntatem a
+malo, vel jubente, ut bonum velit, posse voIuntatem peccare, si
+ergo intellectus habeat tale imperium, minime posse voluntatem
+resistere, ideoque saltem hunc defectum imperii necessarium esse
+ad peccandum, eumque sufficere. Hanc sententiam docuit Aure-
+olus, in 2, dist. 4, art. 3, hunc solum defectum intellectus, admit-
+tens in Angelis pro illo instanti, in quo peccaverunt; eamdemque
+sententiam approbat Capreolus in 3, dist. 36, ad 1 Scoti contra
+1 conclusionem, in fine, ubi ait, neminem peccare contra actuale
+imperium prudentiæ, et ideo defectum, sed hujus imperii semper
+ad peccandum supponi, ille vero non solum hunc defectum, sed
+etiam defectum judicii in particulari prærequirit, de quo paulo post
+dicam. Cajetanus vero 1, 2, q. 77, a. 2, licet prius dicat sæpe concur-
+rere defectum judicii in particulari, et præcepti, nihilominus addit,
+defectum imperii sufficere, etiamsi in judicio particulari nullus sit
+defectus. Et idem fere sentit Conradus, dicta q. 77, art. 2, præcipue
+in Notab. penult., circa corpus articuli, et Valentia, dicta q. 8, de
+Peccatis, part. 1 et 2, et favet Aristoteles, locis supra citatis. Ex
+quo præcipuum sumitur fundamentum: quia stante actu perfecto
+prudentiæ, non potest simul voluntas peccare, sed propriissimus,
+et perfectissimus actus prudentiæ est imperium actus honesti, et
+contrarii peccato; ergo. Major est Aristotelis, dict. lib. 6 Ethicor.,
+c. 3, ubi absurdum esse putat, simul aliquem prudenter judicare,
+et intemperate agere. Et ideo D. Thomas, in 1, 2, quæst. 59, art. 5
+et q. 65, art. 1, dicit, prudentiam esse non posse sine virtutibus
+moralibus: et prudentiæ opponi, qui volens peccat, quod refert
+Aristoteles, l. 6 Ethicor., cap. 9. Minor etiam est Aristotelis, lib.
+6 Ethicor, cap. 10, 11, ubi ait, prudentiam esse præceptivam, quod
+late docet, et probat D. Thomas 2. 2, quæst. 47, art. 8.
+3. Hæc sententia impugnatur.—Efficaci dilemmate ostendi- 3. This view is attacked.—It is shown by an effective dilemma.—Neverthe-
+
+-- 2 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 3
+tur.—Nihilominus hæc sententia quatenus distinguit judicium less, this view cannot be proven to us, insofar as it distinguishes practical
+practicum, et particulare ab imperio, et hunc defectum ponit in judgement, even a particular one, from command and places this defect in
+carentia imperii prudentis, potius quam judicii, nobis probari non the absence of a prudent command rather than [in the absence of such] a
+potest. Primo, quia nullum censemus in intellectu esse imperium, judgement. First, because we think that nothing in the intellect is a com-
+quod non sit judicium, quod in materia de Legibus, et de Oratione mand that is not a judgement, which we touched on in the works On Laws
+a nobis tactum est, et ex professo dicturi sumus in 1, 2, tomo 1 and On Prayer and which we will soon discuss ex professo in IaIIæ, vol. 1
+(si Deus vitam concesserit). Ratio autem in summa est, quia in- (if God will have granted life). But the main reason is because the intellect
+tellectus essentiali- <col. b> ter est cognoscitiva potentia, et ideo is essentially a cognoscitive power and therefore has no act which is not a
+nullum habet actum, qui non sit cognitio, vel per modum appre- cognition, either in the mode of apprehension or in the mode of judgement.
+hensionis, vel per modum judicii, quæ ratio ex sequenti magis This argument will be further confirmed from what follows. Therefore, I
+confirmabitur. Secundo igitur argumentor, quia si actus judicii argue, secondly, for if the acts of practical judgement and of command are
+practici, et imperii, distincti sunt, vel ad peccandum non potest distinct, then either a defect of prudent command cannot be more necessary
+magis necessarius esse defectus imperii prudentis, quam judicii, vel for sinning than a defect of judgement or it is unintelligible in what way an
+non potest intelligi quomodo ad volendum, vel eligendum sit nec- act of command distinct from judgement is necessary for willing or electing.
+essarius actus imperii distinctus a judicio. Probatur, quia positio . . .
+judicio prudentiali de objecte, et actu particulari cum omnibus
+determinatis circumstantiis ejus, vel sequitur necessario irnperium
+prudentiæ: vel non ex necessitate sequitur. Si primum dicatur, se-
+quitur manifeste pars nostri dilemmatis, scilicet, quod non poterit
+procedere ad peccatum defectus imperii, quin præcedat defectus ju-
+dicii: quia si posito judicio necessario sequitur imperium; ergo non
+potest deesse imperium, quin supponatur defectus judicii: quia si
+causa necessario infert effectum, carentia effectus causæ absentiam
+necessario supponit. Ergo frustra dicitur, stante judicio particu-
+lari recto sine imperio posse peccatum committi. Et hinc etiam
+intelligitur frustra illos actus distingui, quia si judicium necessario
+infert imperium, imperium etiam esse non potest sine præcedenti
+judicio, quia non præcipitur prudenter, nisi quod prudenter ju-
+dicatur; ergo isti duo actus semper sese comitantur; ergo frustra
+distinguntur, quia solum requiruntur ad movendam voluntatem
+per applicationem objecti, quæ per judicium particulare sufficien-
+tissime fit.
+4. Secunda dilemmatis pars ostenditur.—Si vero dicatur, im-
+perium supponere quidem judicium, sed non ex illo necessario se-
+qui, ac proinde posse rectum esse judicium, et cum illo posse esse
+peccatum ex defectu imperii: contra hoc instatur ex alia parte nos-
+tri dilemmatis, quia intelligi non potest, quomodo tale imperium
+ad volendum necessarium sit. Quia si imperium non sequitur nec-
+
+-- 3 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 4
+essario ex judicio; ergo sequitur voluntarie, ac libere; ergo medi-
+ante aliquo actu libero voluntatis; ergo vel ad illum actum est nec-
+essarium aliud imperium, et sic procedetur in infinitum: vel non
+est ad illam voluntatem necessarium imperium, sed judicium suf-
+ficit. Et tunc sequitur, imprimis esse impertinens, et superfluum
+tale imperium ad electionem faciendam, tum quia non est major
+necessitas illius pro ipsa electione, quam pro voluntate, ut impere-
+tur electio: tum etiam, quia si voluntas, posito <827> judicio,
+potest intellectum applicare, ut sibi imperet electionem facilius,
+poterit ipsam immediate ad electionem medii judicati applicare.
+Deinde sequitur, defectum imperii supponere defectum voluntatis
+non applicantis intellectum ad imperandum, quod honestum est,
+qui defectus voluntatis non supponit priorem defectum intellec-
+tus. At ita verum non est, peccatum voluntatis habere primam
+originem in defectum intellectus, quia revera non habet illam, nisi
+in ipsa voluntate. Imo tunc ille defectus non erit in voluntate sine
+aliqua culpa.
+5. Responsio ex Aureolo ad factum dilemma.—Ad hunc discur-
+sum virtute respondet Aureolus supra, constituendo discrimen in-
+ter judicium practicum, et imperium, quod judicium practicum,
+quod enuntiativum appellat, et per hæc verba explicat, faciendum
+est, hoc sequitur naturam rei, et discursum syllogisticum ex cer-
+tis præmissis inferentem, hoc esse agibile, vel agendum; imperium
+vero, quod hac voce explicatur, fac hoc, non sequitur ex natura
+rei; neque ex vi discursus, sed ex determinatione liberi arbitrii,
+quod non tantum intellectum, sed etiam voluntatem includit. Et
+ita consequenter dicit, imperium esse ab utraque potentia simul;
+quomodo autem ab illis sit, satis obscure explicat, dicens: Quod
+liberum arbitrium movet se ad imperium, illud autem movens in-
+cludit duo, libertatem, scilicet, quæ tenet se ex parte voluntatis,
+et arbitrium, quod se tenet ex parte intellectus: Unde intellectus
+(ait) repræsentat proportionem aliquam voluntati enuntiative tan-
+tum: voluntas vero ex libertate sua determinat illam imperando: et
+tunc notitia illa facta est primo imperativa, et movet voluntatem ad
+electionem, et sic voluntas movet se primo ad determinationem, et
+imperium intellectus, et mediante illo movet se ad volendum, voli-
+tionemve. Unde inferius addit: voluntatem non determinare in-
+tellectum ad imperium mediante volitione, quia volitio est posterior
+
+-- 4 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 5
+tali determination, sed illam determinationem esse a voluntate, ut est
+actus primus immediate, absque aliquo passive recepto in voluntate.
+Quod infra magis declarans ait: notitiam enuntiativam, ut præcedit
+in intellectu esse indifferentem ad rationem imperativi, sed voluntate
+copulante se, facit eam esse primo determinatam, et imperativam, ac
+moventem voluntatem ipsam ad electionem, seu aliam volitionem
+determinatam.
+6. Hæc responsio rejicitur.—Ut occurrat Aureolus.—Hæc vero re-
+sponsio, et doctrina multa continet, quæ nec probari, nec satis in-
+<col. b> telligi possunt, et licet admittantur, difficultatem non
+evacuant. Et primo invenitur inconstantia, et perplexitas quædam
+in illo discursu. Nam prius dixerat Aureolus, in intellectu prac-
+tico esse duos actus, unum enuntiativum, quo intellectus dicit,
+hoc esse faciendum, vel esse agibile: alium imperativum, quo in-
+tellectus dicit, fac hoc. Postea vero dicit, quod notitia indicativa
+priusquam illi adjungatur voluntas, est indifferens ad rationem im-
+perative actus, et voluntate copulante se, facere eamdem notitiam esse
+determinatam, et imperativam. Hæc autem repugnantia esse viden-
+tur, quia ex duobus actibus intellectus non fit unus, neque unus
+eorum fit alius: si ergo judicium, et imperium sunt actus distincti,
+nunquam judicium fit imperium, nec per adjunctionem illam vol-
+untatis ipsum judicium fiet imperium, nec accipiet vim movendi
+voluntatem. Deinde interrogo, quomodo voluntas copuletur in-
+tellectui, ut illum, ejusve notitiam determinet, ut fiat imperium.
+Nam voluntas non potest libere copulari intellectui formaliter, ac
+per seipsam, ut per se notum videtur: nec, etiam copulatur ac-
+tive, et libere, quia priusquam intellectus imperet, nihil vult vol-
+untas (ut ille auctor supponit). Ad hoc vero dicere videtur Aure-
+olus, voluntatem copulari intellectui active, agendo in intellectu
+actum imperii, vel modum aliquem, aut quidquid illud est, quod
+judicium practicum, seu notitia indicativa (idem enim sunt) fit, seu
+determinatur ad esse imperativum, et accipit vim movendi volun-
+tatem. Unde juxta mentem illius auctoris, licet imperium dicatur
+actus intellectus: quia in eo recipitur, non tamen ab eo elicitur; et
+e contrario voluntas est principium activum illius actus, seu modi,
+tamen per illum passive non afficitur, neque immutatur, sed illum
+efficit in intellectu, imo indicat Aureolus, voluntatem immediate
+facere illum in ipsa notitia enuntiativa intellectus. Sic enim ait:
+
+-- 5 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 6
+Sic voluntas determinat illam notitiam, quod illa (id est, volun-
+tas) in se non determinatur ad hoc passive, sed prima determinatio
+passiva est in tali notitia sic determinata. Et infra hunc ponit or-
+dinem: Quod intellectus primo habet notitiam enuntiativam, id est,
+judicium practicum. Secundo voluntas per suum imperium, et lib-
+ertatem facit, illam notitiam esse determinatam, ultimam, et imper-
+ativam, et hic adhuc nihil subjective receptum est in voluntate. Et
+tertio sequitur determinatio voluntatis. Quocirca quod dixerat, ju-
+dicium, et imperium esse duos actus intellectus, intelligere videtur,
+esse <828> duos non omnino condistinctos, sed tanquam inclu-
+dentem, et inclusum, quia ipsum judicium sit imperium per aliquid
+ei additum a voluntate, et consequenter utrumque esse intellectus
+subjective, non vero active saltem quoad totum id, quod includit
+imperium.
+7. Multipliciter ostenditur non satis occurrere.—Sed in hac dec-
+laratione plura includuntur, quæ mihi quidem nova et absurda, et
+sine fundamento, vel necessitate dicta videntur. Unum est, quod
+voluntas creata habeat aliquam efficientiam et determinationem
+liberam sine volitione libera, et sine aliqua mutatione, quam in
+seipsa faciat. Hoc planum est ex dictis illius auctoris. Nam judi-
+cium practicum non determinat voluntatem; sed illud est indiffer-
+ens ad rationem imperii, et voluntas etiam illo posito manet indif-
+ferens, ut determinet, vel non determinet intellectum, et postea
+libere determinat judicium intellectus ad rationem imperii effi-
+ciendo libere aliquid in intellectu, et nihil in se recipiendo; ergo ha-
+bet voluntas determinationem liberam sine volitione libera: quia
+si volitionem liberam haberet, illam in se reciperet. Quod autem
+hoc sit novum, patet, quia omnes theologi docent, determina-
+tionem liberam voluntatis creatæ esse in ipsa voluntate. Item quod
+aliter id fieri non possit, probatur, quia si voluntas aliquid libere
+facit, voluntarie facit; ergo vult illud facere, et voleado determi-
+nat, se ad illud faciendum; ergo repugnat libere facere, et non
+recipere, et facere in se voluntatem libere faciendi. Confirmatur, ac
+declaratur: quia propter hanc rationem docent theologi, actiones,
+quæ libere fiunt ab aliis potentiis hominis extra voluntatem, ab ipsa
+voluntate volente illas procedere, seu imperari oportere, quia non
+possunt aliunde habere voluntariam ac liberam determinationem;
+ergo multo magis, quando voluntas determinat seipsam ad aliquid
+
+-- 6 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 7
+agendum, necesse est, ut volendo se determinet libere. Et ideo aliæ
+potentiæ subjiciuntur liberæ motioni voluntatis, ipsa autem sola
+seipsam libere movet; sicut autem alias non determinat ad agen-
+dum, nisi volendo: ita nec seipsam ad liberam efficientiam deter-
+minare potest, nisi volendo.
+8. Alterum absurdum illius sententiæ est, quia ponit volun-
+tatem efficere in intellectu actum imperii, seu illud (quidquid est)
+quod judicium in se imperii constituit. Nullus enim tribuit volun-
+tati aliquam efficientiam in intelIectu immediatam, et quasi elici-
+tivam, immediate, et per se efficiendo in intellectu actum in ipso
+receptum, sed tantum efficientiam re- <col. b> motam, et applica-
+tivam potentiæ ad eliciendum suum actum, quæ motio fit tantum
+volendo, et per sympathiam potentiarum, ut philosophi docent.
+Alioqui sequitur actum imperii, ut talis est, non esse actim elic-
+itum, neque vitalem: quia nec est vitalis voluntati: quia in ipsa
+non recipitur, nec per ipsum aliquid vult, nec etiam est vitalis
+intellectui, quia ab ipso non fit. Tertio invenitur in illo dicendi
+modo, quidam circuitus gratis compositus. Nam illa sententia
+supponit intellectum non habere vim movendi active voluntatem,
+determinando efficaciter illam per imperium: et ideo dicit volun-
+tatem active dare actui intellectus, scilicet, judicio hanc vim, con-
+stituendo illum in ratione imperii, vel efficiendo in intellectu ip-
+sum imperium, quo determinet voluntatem. At hoc superfluum
+est: nam facilius creditur, et intelligitur, voluntatem libere deter-
+minare seipsam ad volendum sufficienter proposito objecto per
+judicium. Nam id, quod voluntas dicitur facere in intellectu, vel
+in ejus judicio, non pertinet ad cognitionem ohjecti amandi, nec
+auget illam; ergo ex parte objecti non confert ad motionem pas-
+sivam voluntatis, quatenus ab intellectu esse potest; quia intellec-
+tus per se non movet voluntatem, nisi ex parte objecti: ergo ut
+voluntas efficaciter applicetur ad volendum, vel eligendum, super-
+fluus est ille circuitus, scilicet, ut id faciat dando intellectui aliquid,
+per quod ab illo determinetur. Maxime cum prius necessarium
+sit, ipsam voluntatem libere determinari ad id efficiendum in in-
+tellectu, quod non potest facere, nisi libere volendo, ut probavi.
+Præterquam quod intelligibile non est, quid sit illud, quod vol-
+untas efficit in intellectu: vel quomodo intellectus capax illius sit,
+cum neque ab ipso eliciatur, neque ad cognitionem aliquid condu-
+
+-- 7 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 8
+cat.
+9. Ultimo juxta illam sententiam defectus voluntatis non re-
+funditur in defectum intellectus: sed potius ex defectu voluntatis
+defectus in intellectu provenit. Nam licet intellectus consideret
+et judicet, quantum potest, tam in universali, quam in particu-
+lari, et tam speculative, quam practice, nihilominus imperare non
+potest, nisi voluntas illum determinet: ergo si intellectus deficit in
+imperando, quod honestum est, non ex se habet talem defectum,
+sed ex voluntate, quæ illum non determinat ad imperandum, vel
+potius non facit imperium in illo: ergo talis defectus privativus
+ex omissione voluntatis habet originem. Idemque erit de defectu
+positivo, si in intellectu considera- <829> tur positivus actus im-
+perium volendi, vel faciendi, quod non expedit: qui actus imper-
+fectus est, et defectus positivus intellectus dici potest. Verumta-
+men intellectus nunquam hoc posset determinate præcipere, nisi a
+voluntate determinaretur libere: ergo ab hac libera determinatione
+voluntatis incipit ejus defectus, et in illam ultimo resolvendus est;
+non in defectum intellectus. Hæc ergo sententia de defectu solius
+imperii probanda non est. De fundamento autem ejus dicemus in
+puncto sequenti, quia est utrique commune: nam imperium, quod
+vere ponitur esse proprius actus prudentiæ, non est nisi rectum
+judicium practicum in materia morali, ut mox dicemus.
+10. Secunda opinio ad peccatum requirit solum defectum ju-
+dicii practici.—Est ergo secunda opinio dicens neminem peccare,
+nisi præcedat in intellectu saltem carentia judicii practici, quo in-
+tellectus consideret, quid secundum rectam rationem hic et nunc
+agere expediat, vel agendum sit, ac proinde saltem hunc defectum,
+et inconsiderationem esse necessariam, ut voluntas possit peccare.
+Hanc sententiam videtur maxime probare Capreolus, quem se-
+quitur Conradus. Et secundum illam interpretantur Aristotelem,
+et illam vulgarem propositionem, Omnis peccans est ignorans, ab
+illo sumptam in 3 Ethicor. Et hanc sententiam videtur tradere
+D. Thomas, q. 1, de Virtut. in communi, art. 6, ad 1, ubi ait: Ad
+prudentiam pertinere, judicare de singulis agibilibus, prout sunt nunc
+agenda, et hoc judicium corrumpi per quodlibet peccatum, et ideo pru-
+dentia manente, neminem peccare: ergo ex sententia D. Thomæ
+omne peccatum supponit carentiam judicii practici. Et hoc modo
+tacite exponit, quod in aliis locis cum Aristotele dicit, hominem
+
+-- 8 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 9
+peccantem agere posse contra universalem scientiam actualem, id
+est, contra judicium de agendis in universali, non tamen in particu-
+lari. Et specialiter, quæst. 24, de Veritat., art. 9, ait: Judicium ratio-
+nis in universali quandoque esse contrarium appetitui. Sed judicium
+de hoc particulari operabili, ut nunc, nunquam posse esse contrariam
+appetitui.
+11. Probatur.—Fundamentum hujus sententiæ est: quia volun-
+tas non movetur, nisi mota a ratione: ergo si ratio actu, et in par-
+ticulari, ac practice dictat hoc esse vitandum, fieri non potest, ut
+voluntas illud non eligat: ergo e contrario, quoties voluntas eligit,
+quod vitandum esset, semper supponit in intellectu ca- <col. b>
+rentiam illius dictaminis, seu judicii. Secundo, quia impossibile
+est, intellectum simul habere opposita judicii, sed quando volun-
+tas eligit aliquid turpe, intellectus judicat, hic et nunc illud esse
+appetendum: ergo impossibile est, ut simul judicet, illud esse vi-
+tandum: ergo necesse est, ut qui peccat, careat illo judicio practico
+de tali actu vitando, vel contrario faciendo. Tertio hic maxime
+urget ratio Aristotelis supra tacta: quia vitiosus non potest esse
+prudens, servata proportione, id est, vitiosum habitualiter non
+posse esse habitualiter prudentem, nec peccantem actualiter habere
+posse actualiter dictamen, seu judicium prudentiæ: quia prudentia
+connexionem habet cum virtute morali, ut supra tactum est: ergo
+necesse est, ut is, qui actu peccat, careat tunc actu prudentiæ, qui
+est practicum judicium de re agenda.
+12. Astruitur contra præcedentem sententiam non præcedere nec-
+essario in peccando prædicti judicii carentiam.—Hæc vero sententia
+non placuit Scoto, Ochamo, et aliis, quos supra retulimus: putant
+enim stante pleno judicio practico cum integra consideratione ac-
+tus, et objecti, ac circumstantiarum ejus in particulari posse vol-
+untatem peccare. Et hoc sequuntur Corduba, Valentia, Molina,
+et multi alii moderni. Et potest suaderi hæc opinio rationibus,
+quibus in duobus capitibus præcedentibus probavimus, stante in
+intellectu scientia actuali, non solum in universali, sed etiam in
+particulari posse voluntatem peccare. Primo quidem, quia actualis
+scientia particularis non habetur nisi per cognitionem, considera-
+tionem, et judicium de honestate, quam talis actus hic et nunc eli-
+gendus, vel vitandus habet tam ex objecto, quam ex circumstantiis.
+Sed judicium de actu sic considerato est judicium practicum quan-
+
+-- 9 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 10
+tum moraliter esse potest: ergo si voluntas potest deficere stante
+practica consideratione in particulari, et in actu, etiam poterit pec-
+care stante dicto judicio practico, ac subinde defectus, seu carentia
+talis judicii non erit ad peccandum necessaria. Consequentia nota
+est: et major supra est probata. Minor ergo probatur, quia non
+datur in intellectu actus imperii distinctus ab omni judicio prac-
+tico et morali, ac particulari, ut contra præcedentem opinionem
+probatum est. Ergo ex parte intellectus non potest dari judicium
+particulare magis practicum, quam sit illud, quod est de particu-
+lari opere cum omnibus peculiaribus circumstantiis ejus, nimirum,
+judicando, quid agere oporteat secundum rectam rationem om-
+<830> nibus circumstantiis, et objecto plene consideratis.
+13. Progreditur probatio.—Probatur consequentia, quia vel il-
+lud judicium, quod dicitur omnino practicum, addit aliquid supra
+judicium particulare speculativum ex parte rei cognitæ, vel ex
+parte ipsius actus, seu modi, quo fit. Non primum, quia posuimus,
+intellectum speculativum omnia in particulari considerasse, et cog-
+novisse. At vero ultra omnia, nihil relinquitur denuo cognoscen-
+dum per judicium practicum. Nec etiam secundum dici potest,
+quia, seclusa distinctione, seu additione imperii ultra judicium
+practicum, in ipso practico judicio nullus modus intelligi potest,
+nisi vel compositionis: aut simplicitatis intentionis, aut remissio-
+nis, vel alii similes, qui etiam in judicio speculative inveniuntur.
+Ergo considerando judicium illud, quatenus cognitio quædam, et
+consideratio intellectus, nulla distinctio inter judicium particulare,
+speculativum, et practicum invenitur. Sed ad summum idem judi-
+cium particulare de objecto operabili, seu de operatione singulari
+cum omnibus ejus circumstantiis sub diversis respectibus poterit
+dici speculativus, et practicus, scilicet, speculativus, quatenus ver-
+itatem quamdam contemplatur, practicus vero quatenus de se ad
+opus inducit: vel certe ut secundum se spectatus, et ut pure in-
+tellectualis est, dicatur speculativus; quatenus vero a tali, vel tali
+intentione voluntatis procedit, dicatur practicus: quia ut sic habet
+efficacitatem in movendo ad opus, ut dixi, et statim amplius ex-
+plicabo. Quod si hoc ita est, profecto ex parte intellectus nulla
+major imperfectio, quæ ad peccandum sit necessaria in illo actu ut
+practico, quam ut speculative considerari potest. Nam si quæ est,
+provenit ex parte voluntatis, vel nolentis consentire tali judicio,
+
+-- 10 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 11
+vel non habentis debitam intentionem: et ita non provenit lapsus
+voluntatis ex defectu intellectus, sed potius ex defectu voluntatis,
+judicium intellectus dicetur practice imperfectum.
+14. Satisfit argumentis contrariis in n. 11.— Præterea vis hu-
+jus rationis magis innotescet, respondendo ad motiva præceden-
+tis opinionis: simulque hæc sententia magis suadebitur. Ad pri-
+mam ergo rationem negatur prima consequentia. Quia licet volun-
+tas non se moveat, nisi prius ab intellectu moveatur: nihilominus
+etiamsi ab illo moveatur, non statim se necessario movet. Unde
+potest in contrarium argumentum retorqueri, applicando ad judi-
+cium practicum argumentum supra factum de judi- <col. b> cio
+speculativo. Nam posito judicio practico, voluntas non necessi-
+tatur quoad exercitium ad consentiendum illi, utique ex vi illius:
+ergo potest non consentire illi: ergo et peccare. Major supra pro-
+bata est: quia intellectus per se non movet voluntatem, quoad
+exercitium, nec determinata illam omnino ad operandum. Dixi
+autem ex vi illius: quia si præcedat intentio efficax alicujus finis
+honesti, posito judicio practico de tali medio necessario ad illum
+finem, ut hic et nunc exercendo: tunc persistendo in intentione
+necessario sequitur consensus voluntatis; tunc tamen illa necessi-
+tas non ab intellectu secundum se, sed ab ipsa voluntate ex vi in-
+tentionis præexistentis sequitur. Et eadem ratione posita illa in-
+tentione honesta, et judicio recto, non poterit quidem voluntas
+peccare, non ex eo tantum, quod in intellectu non præcedit defec-
+tus, sed quia illa dispositio intellectus supponit illam efficacem in-
+tentionem voluntatis, illique conjungitur. Ergo absolute loquendo
+de voluntate libere prodeunte ad primam intentionem, seu volun-
+tatem finis particularis, non potest necessitari a judicio practico, et
+consequenter, illo non obstante, poterit peccare, sine prævio tali
+defectu intellectus.
+15. Dicet fortasse aliquis, quod licet judicium illud practicum
+per se non necessitet voluntatem quoad exercitium, saltem neces-
+sitat quoad specificationem, et hoc satis esse ut illo existente in
+intellectu, voluntas actualiter peccare non possit. Sed contra hoc
+urgent instantiæ, et replicæ supra factæ: quæ in præsenti eamdem
+vim habent. Prior est, quod saltem poterit voluntas peccare, omit-
+tendo sine tali defectu intellectus. Sequela patet, quia potest vol-
+untas suum actum suspendere eo tempore, pro quo affirmativum
+
+-- 11 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 12
+præceptum obligat, quia tunc non necessitatur quoad exercitium,
+et sic peccabit. Alias est, quia neque quoad specificationem neces-
+sitatur voluntas ab illo judicio practico recto, quia cum illo potest
+intellectus simul considerare aliud contrarium objectum, vel opus,
+judicando illud esse amabile sub ratione delectabilis; ergo voluntas
+propria libertate potest ferri in illud, quia solum judicium illam
+impedire non potest, ut supra ostensum est: ergo potest voluntas
+non solum contradictorie non velle, quod sic judicatum est, sed
+etiam contrarie velle oppositum; ergo manet libera quoad exerci-
+tium, et specificationem, ac proinde sine suspensione, vel carentia
+talis judicii peccare potest.
+16. Ad secundum in eodem n. 11.—Ad <831> tertium ibidem.—
+Ad secundum respondetur, hæc duo judicia, hoc est, honestum
+est secundum rectam rationem sequendum, et hoc est delectabile,
+secundum sensum, et amabile, non esse contraria, sed simul esse
+posse in intellectu, et illa sufficere, ut voluntas ex illis objectis
+amet, quod voluerit. Nec enim necesse est, ut intellectus defi-
+nite judicet hoc esse prosequendum, seu amandum, ut voluntas
+illud velit: sed satis est, quod intellectus illud proponat, ut ama-
+bile sub aliqua ratione, ut in sequenti puncto latius ostendemus.
+Et ita respondetur ad tertium, duplex esse judicium prudentiale;
+unum dici solet speculative practicum, aliud practice practicum:
+alii vero primum vocant judicium prudentiale lato modo, secun-
+dum autem stricte, et rigorose, ut videri potest in Corduba, dicto
+libro 2, quæst. 9, 10 et 11. Inter hæc autem judicia discrimen assig-
+nari potest, non solum in hoc, quod prius non supponit rationem
+finis, a qua procedit posterius: sed otiam in hoc, quod per prius
+judicium solum proponitur objectum, ut secundum se bonum, vel
+connexum cum tali fine in se spectato: per posterius autem judi-
+cium proponitur medium, ut connexum cum intentione efficaci
+ipsius operantis, ex quo habet peculiarem vim movendi ad elec-
+tionem, vel executionem ejus. Unde tandem fit, judicium pruden-
+tiale large sumptum, seu aliquo modo speculativtim esse posse op-
+time in homine actu peccante, etiam cum cognitione, et actuali
+consideratione omnium circumstantiarum; et in hoc sensu con-
+cedimus sequelam; nec est contra Aristotelem, ut jam dicam. Ju-
+dicium autem prudentiale omnino practicum, et rigorose sump-
+tum non potest esse simul cum actuali peccato: et de hoc, seu
+
+-- 12 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 13
+carentia ejus loquitur Aristoteles cum dicit libro 7, capite 2, ne-
+minem contra id, quod est optimum, agere, nisi per ignorationem,
+et cum dicit, capite 3, ultimam propositionem esse dominam, id
+enim dicit propter efficaciam ultimi Judicii: loquitur autem de Ju-
+dicio, quod post consultationem concluditur ex vi appetitus recti,
+seu intentionis efficacis finis, de quo jam diximus, non posse esse
+simul cum actuali peccato. Quia vero defectus ejus magis est delec-
+tus voluntatis, nam ab illa habet originem, ideo concluditur, omne
+peccatum supponere defectum intellectus, qui in carentia judicii
+prudentialis consistit, quatenus vim cognoscendi habet, sed tan-
+tum quatenus habet vim movendi, qui defectus a voluntate radi-
+caliter provenit, ut declaratum est.
+17. Tertia opinio requirit ad peccatum prac- <col. b> ticum
+errorem positivæ deceptionis.—Duplex est error practicus.—Est ergo
+tertia sententia, quæ etiam in intellectu peccantis practicum defec-
+tum admittit, illum tamen dicit esse non inconsiderationis tantum,
+vel alterius privationis, sed positivæ deceptionis per practicum er-
+rorem. Est autem considerandum, quod sicut judicium practicum
+duplicem habet rationem: unam quatenus cognitio quædam est; al-
+teram quatenus motio voluntatis est; ita etiam duplicem habet con-
+formitatem, et veritatem, quam Scotus supra recte distinxit. Una
+est veritas cognitionis, quatenus tale judicium est conforme rei cog-
+nitæ, in quo talis veritas speculativa est, vel illa assimilatur; alia est
+veritas electionis, seu practica, quatenus tale judicium est appetitui
+recto conforme. Eadem ergo ratione, ac proportione duplex esse
+potest error practicus: unus deceptionis, alter electionis. Prior est
+per difformitatem ad rem cognitam, ut quando judicatur licere,
+quod non licet, aut esse honestum, quod revera est turpe. Alter er-
+ror est per difformitatem ad appetitum rectum. Ut quando incon-
+tinens judicat, hic et nunc hoc sibi esse amandum, quia delectabile
+est. Nam fieri potest, ut nihil falsum judicet; et nihilominus aber-
+rat in itinere veritatis, et ab appetitu recto, et sub ea ratione dicatur
+practice errare: quia per viam non rectam dirigit voluntatem, quo
+modo dicitur, non esse appetitui recto conforme.
+18. Dicta sententia a quibusdam accipitur de primo errore.—
+Juxta hos ergo duos modos deceptionis dupliciter etiam dicta sen-
+tentia explicatur. Quidam enim de proprio errore deceptionis
+aiunt necessario præcedere ante omne peccatum. Quia priusquam
+
+-- 13 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 14
+voluntas amet, vel eligat, intellectus absoluto et definite judicio sta-
+tuit, sibi esse conveniens hoc, vel illud eligere, aut amare. Ergo
+quoties voluntas amat pravum objectum, in intellectu præcedit de
+illo tale judicium; at vero tale judicium semper est erroneum, non
+solum devians a via recta, sed etiam a veritate respectu rei judi-
+catæ, quia revera tale objectum non est simpliciter conveniens, nec
+comparatione aliorum eligendum, vel amandum; ergo semper judi-
+cium erroneum ante peccatum voluntatis præcedit. Et hanc opin-
+ionem videtur simpliciter supponere Durandus, in 2, dist. 5, q. 1,
+n. 11, et dist. 7, q. 1, ubi ob hanc causam in Angelis, qui peccaver-
+ant, hunc errorem admittit. Et universaliter idem tradit, dist. 23,
+quæst. 1, et dist. 93, q. 1. Declarat autem deceptionem hanc in
+judicio practico esse vel circa princi- <832> pale objectum, vel
+tantum circa circumstantias. Priori modo oritur error (ut ait) vel
+ex ignorantia circa principia, vel ex aliqua passione: et sic errat,
+qui absolute judicat esse bonum, et amandum, quod revera malum
+est; ut hic et nunc esse fornicandum, nam hic error est de princi-
+pali objecto, et non contingit sine errore in principiis, vel magna
+passione. Posteriori autem modo errat practice, qui judicat, hoc
+bonum, quod revera bonum est, hic et nunc esse amandum, cum
+tamen ob circumstantias amandum non esset. Et ita hic error non
+provenit ex deceptione circa principia, nec ex passione, sed ex cir-
+cumstantiarum consideratione. Et hunc saltem errorem putat Du-
+randus esse necessarium ad peccandum; et illum solum in Angelis
+admittit. Et hanc opinionem in re sequitur Malonius, in 2, dist. 6,
+disput. 3, quamvis judicium illud peculiare, quod solum deficit ex
+inconsideratione circumstantiæ alicujus, simpliciter non vocet er-
+rorem, sed inconsiderationem: nec videtur ab hac sententia alienus
+divus Thomas, 1 part., quæst. 63, a. 1, ad 4.
+19. Prima assertio.—Non requiritur ad peccatum positivas ul-
+lus error cognitionis.—Nihilomiuus dicendum censeo, posse vol-
+untatem male eligere, sive deficiendo circa principale objectum,
+volendo utique quod malum est, sive deficiendo in circumstantiis,
+volendo bonum, quando, vel quomodo non oportet sine ullo pos-
+itivo errore intellectus, qui sit proprius cognitionis error, veritati
+rei contrarius. Hæc assertio satis commnnis est. Docent illam Sco-
+tus, Gabriel, et alii, in 3, dist. 30, et Almainus, tract. 3, Moralium,
+cap. 4, et sumitur ex Henrico, quodl. 5, quæst. 17, et quodl. 10,
+
+-- 14 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 15
+q. 10, et ex Adriano, quodl. 4, quæst. 1, a principio, et sequun-
+tur Molina et Valentia supra. Et probari potest primo: quia ad
+peccandum sufficit simpliciter apprehensio boni sub quacumque
+ratione convenientis, etiamsi proprium judicium non intercedat:
+sed in simplici apprehensione non est proprius error; ergo ad pec-
+candum non est simpliciter necessarius error intellectus. Verum-
+tamen hæc ratio fundatur in principio valde incerto, nimirum vol-
+untatem posse moveri ab objecto apprehenso ante judicium, quod
+nunc non est disputandum: quia in capite decimo, numero duodec-
+imo habebit commodiorem locum. Nunc ergo supponimus, ser-
+monem esse de voluntatis electione; vel absoluta, et efficaci dilec-
+tione alicujus boni: nam hoc modo Angelos peccasse ostendemus
+infra. Hæc autem motio voluntatis <col. b> non fit sine pro-
+prio judicio intellectus, ut omnes fatentur; et in tractatu de An-
+ima latius dicemus, nam de motione simplici voluntatis, quam
+velleitatem vocant, utrum ad illam sufficiat apprehensio sine judi-
+cio, parum nunc refert: et aliquid, ut dixi, paulo post attingemus.
+Solum hic adverto, si fieri possit, et contingat, ut aliquis peccet per
+simplicem apprehensionem sine judicio, eo ipso non peccare sine
+magna imperfectione intellectus: nam valde temere, et inconsider-
+ate per voluntatem efficitur, sine judicio intellectus.
+20. Probatur assertio efficacius.—Supponendo ergo, voluntatem
+non moveri sine proprio judicio intellectus motione absoluta, et
+deliberata, probatur, non esse necessarium judicium erroneum
+dicto modo, ut voluntas sic malum diligat, vel eligat. Quia ut vol-
+untas amet aliquod objectum, non est necessarium, ut intellectus
+judicet, illud esse honestum, vel consentaneum rectæ rationi; ergo
+satis est, ut judicet esse delectabile, vel utile, vel alio modo naturæ
+conveniens: sed hoc potest intellectus judicare sine errore de ob-
+jecto, alias turpi: ergo circa tale objectum potest voluntas peccare
+sine prævio errore practico intellectus, id est, sine judicio difformi
+rei judicatæ. Primum antecedens probatur imprimis a posteriori:
+quia alias nemo posset deliberata voluntate fornicari, nisi præjudi-
+cando, fornicationem esse honestam, et rectæ rationi conformem,
+quod dici non potest, alias omnis, qui fornicatur, prius esset hæreti-
+cus. A priori vero ratio est, quia objectum adæquatum intellec-
+tus non est solum bonum honestum, verum, vel apparens: sed
+est bonum absolute, et abstracte, sub quo variæ rationes bonorum
+
+-- 15 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 16
+comprehenduntur, et quælibet sufficit ad movendam voluntatem,
+et ipsa pro sua potest libertate, quam voluerit, amare, seu eligere.
+Et intellectus potest plures earum sine deceptione proponere, quia
+in eodem objecto possunt vel omnes illæ inveniri, vel una tantum
+cum carentia alterius: et intellectus potest de illis judicium ferre, si-
+cut sunt, non solum in universali, sed etiam in particulari de tali re
+judicando, hic et nunc esse delectabilem, vel utilem ad honorem,
+vel divitias, verbi gratia, consequendas, quamvis honesta non sit:
+vel etiamsi honestati contraria sit.
+21. Adversariorum responsio.— Respondent non posse volun-
+tatem ferri in objectum sic consideratum secundum diversas boni,
+vel mali rationes, vel considerando simul aliud bonum opposi-
+tum, nisi prius intellectus omnibus <833> pensatis, absolute ju-
+dicet, hoc esse bonum, et conveniens simpliciter: hoc autem judi-
+cium erroneum est, quando de objecto turpi fertur, quia per illud
+præfertur turpe honesto propter rationem boni delectabilis, seu
+præferenda judicatur, sed hoc judicium est erroneum per diffor-
+mitatem ad rem ipsam, quia in re ipsa bonum delectabile non est
+bonum simpliciter, neque conveniens, quando turpitudinem habet
+adjunctam. Quod autem judicium illud sit necessarium, probatur:
+tum quia voluntas regitur ab intellectu; quia nihil volitum, quin
+præcognitum: ac voluntas cum se determinat ad aliquid eligen-
+dum, vel amandum, tendit in illud, ut hic et nunc sibi simpliciter
+conveniens: ergo præcedit in intellectu judicium, quo illud ut sim-
+pliciter, et absolute conveniens judicet: tum etiam, quia intellectus
+speculativus non movet voluntatem: sed practicus, teste Aristotele
+3, de Anim., text. 33, et sequentibus: ut autem intellectus prac-
+tice judicet, ac moveat voluntatem, necesse est, ut pensatis om-
+nibus, quæ actu considerat, judicet, hoc simpliciter expedire, seu
+esse bonum, aut conveniens.
+22. Hæc responsio supponit falsum principium.—Id ostenditur 22. This response assumes a false principle.—It is shown first through a
+primo per dilemma.—Prima pars dilemmatis probatur.—Sed hæc re- dilemma.—The first part of the dilemma is proved.—But this response assumes
+sponsio supponit, ut voluntas eligat inter multa, quæ sub diversis that in order for the will to elect among multiple things which are judged
+rationibus bona judicantur, vel etiam ut unum objectum, in quo good under different aspects or also in order to love one object in which
+sunt boni, et mali rationes, amet potius, quam fugiat, necessar- there are aspects of good and bad more than to avoid it, it is necessary that
+ium esse, ut procedat judicium comparativum, quo unum objec- a comparative judgement precede by which one object is preferred, strictly
+tum alteri simpliciter præferatur in ratione boni, aut convenientis. speaking, to another under the aspect of goodness or agreeability. But that
+Hoc autem falsum esse multis rationibus ostendi potest. Et primo this is false can be shown by multiple arguments. . . .
+
+-- 16 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 17
+possumus applicare discursum, quem de imperio supra fecimus:
+quia illud judicium comparativum, vel est necessarium in intel-
+lectu ex vi aliquorum principiorum, quibus positis necessario in-
+feratur: vel est voluntarium, ac liberum ex determinatione volun-
+tatis. Primum dici non potest: quia in intellectu non errante spec-
+ulative nulla sunt principia, ex quibus tale judicium comparativum
+necessario oriatur: ostensum est autem posse voluntatem peccare,
+nullo præcedente errore speculative in intellectu; ergo non præce-
+dunt necessario in intellectu talia principia, quæ intellectum cogere
+possint ad illud judicium erroneum comparativum præstandum.
+Exemplo res declaratur, nam qui sciens turpitudinem fornicatio-
+nis, propter delectationem vult illam: non judicat in universali,
+delectabile esse majus bonum honesto, nec esse con- <col. b> veni-
+entius simpliciter comparatione illius, neque alia similia, ex quibus
+necessario inferat judicium erroneum comparativum, ut est notum
+experientia. Ergo tale judicium ex vi solius intellectus: et prin-
+cipiorum ejus necessarium non est. Et præterea si tale judicium
+esset simpliciter necessarium antecedenter ad voluntatem; et illo
+posito, voluntas ex necessitate conformaretur illi, et ideo deficeret
+profecto defectus non imputaretur illi, nec in eo actu esset libera.
+Non est ergo ille actus ex vi solius intellectus necessarius.
+23. Secunda pars dilemmatis ostenditur.— Probatur ergo mem-
+brum de judicio libero, quia tale judicium supponit actum volun-
+tatis determinantis intellectum. At ille actus culpabilis est et malus,
+imo erit radix totius malitiæ, et culpæ, quæ occasione talis judicii
+fit. Vel ergo talis voluntas supponit aliud judicium habens eumdem
+defectum erroris, ac deceptionis, propter similem comparationem,
+et tunc idem argumentum fiet de illo priori judicio, et sic in in-
+finitum procedi potest. Vel illa voluntas habetur sine tali judicio
+prævio, et ita concludimus, posse esse voluntatem peccaminosam
+sine tali errore prævio: imo talem errorem, ubi fuerit, ex voluntate
+peccaminosa procedere. Sicut alias optime probaremus in homine,
+qui ex fideli fit hæreticus, non præcedere in intellectu errorem con-
+tra fidem, prout est in intellectu non præcedere ad malitiam hære-
+sis, prout est in voluntate: quia ille error intellectus necessario pro-
+cedere debet ex voluntate. Et ideo simpliciter præcedit voluntas er-
+randi, seu discedendi a fide: quamvis postea ex vero errore induci
+possit voluntas ad volendum credere alium. Sic ergo in præsenti
+
+-- 17 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 18
+voluntas peccaminosa tale judicium antecedit. Unde ulterius con-
+cluditur, esto illud judicium sit possibile per depravationem volun-
+tatis, et consequens ad illam, non tamen esse necessarium, ut vol-
+untas diligat objectum pravum, quatenus delectabile est: quia nec
+ita voluntas fundatur in tali judicio, cum potius sit radix ejus, nec
+ex necessitate infert illud, quia voluntas sic judicandi simpliciter
+libera est, et ab actu volendi, vel eligendi tale objectum distincta,
+et ad illius executionem minime necessaria.
+24. Secundo impugnatur responsio ex inconvenienti.—Declara-
+tur.—Præterea declaratur hoc in ipsismet actibus bonis ab incon-
+venienti argumentando. Nam si illa doctrina vera esset, sequeretur
+ex duobus bonis honestis actu consideratis, neminem eligere, quod
+mi- <834> nus est, nisi prævio errore intellectus. Consequens est
+plane falsum; ergo. Probatur sequela, quia juxta illam doctrinam
+etiam in electione, vel dilectione talis minoris boni, necessarium
+erit judicium, quasi comparativum, quo tale objectum dilectum,
+vel medium electum judicatum fuerit simplicitcr bonum, et conve-
+niens, ac præferendum alteri: vel certe si hoc casu necessarium non
+est tale judicium, vel quando aliquo modo antecedit, potest sine
+errore intelligi, et explicari. Idem dicendum erit in electione in-
+ter bonum et malum, et in electione inferioris boni, non obstante
+majori malitia. Est enim eadem ratio, quæ sic exponitur. Nam
+cum aliquis ex duobus actibus, vel etiam statibus virtutis, eligit
+minus bonum, vel minus meritorium, ideo non necessario decip-
+itur per intellectum, sed est imperfectus, vel infirmus in voluntate,
+quia nunquam judicat actum inferiorem esse simpliciter meliorem,
+vel præferendum alteri: sed vel quia propositis illis duobus, volun-
+tas pro sua libertate eligit, quod vult, intellectu nullam compara-
+tionem faciente: vel certe, quia in ea non errat, etiamsi illam faciat,
+et inter id quod est minus bonum sibi esse convenientius, quia non
+judicat de convenientia secundum solam rationem, et qualitatem
+boni honesti, sed adjuncta rei difficultate, vel facilitate, vel consid-
+eratis aliis rationibus, et periculis, ad quæ facilius vitanda, sine er-
+rore judicat, hoc esse convenientius, id est, magis accommodatum,
+non tamen simpliciter melius.
+25. Probatur dicta declaratio.—Ad hunc ergo modum proced- 25. The given declaration is proved.—In response to this way, therefore,
+itur in dilectione mali sub ratione boni, vel in electione boni one proceeds to love for something bad under the aspect of good or to the
+delectabilis, relicto honesto illi opposito. Primo, quia potest sine election of something good in a pleasurable way, the honest good having
+
+-- 18 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 19
+errore fieri per sola simplicia judicia de unoquoque objecto; sicut been left to its opposite. First, because it can happen without error merely
+revera hic et nunc, et cum talibus circumstantiis existit. Nam illa through a simple judgement concerning each object, as it really exists here
+sufficiunt, ut voluntas pro sua voluntate quod maluerit, eligat. Se- and now with such circumstances. For those suffice for the will to elect
+cundo, quia licet comparationem faciat intellectus, et turpe hon- what it had preferred according to its willing. Secondly, because although
+esto præferat, non faciet talem comparationem in ordine ad com- the intellect makes a comparison and prefers the shameful object to the hon-
+munem rationem boni conferendo sub illa specificas rationes boni: est object, it will not make such a comparison in relation to a general aspect
+et præferendo inferiorem excellentiori, talis enim comparatio et of good by bringing together under it the specific aspects of good and by
+nunquam, vel rarissime fit, quantum experientia docet, et nulla ra- preferring the lower to the more excellent. For such a comparison both
+tione ostenditur necessaria, ut voluntas in alteram partem feratur. never, or very rarely, happens, insomuch as experience teaches, and by no
+Igitur maxime fieri solet illa comparatio adjungendo alias rationes argument is shown to be necessary for the will to be brought to one part.
+boni, et ratione illarum præferendo absolute turpe objectum, ut Therefore, that comparison usually happens especially by adding other as-
+diligatur, vel eligatur, non <col. b> quia melius simpliciter, sed pect of good and by absolutely preferring the shameful object by reason of
+quia delectabilius secundum sensum, vel quia utilius ad divitias, those, so that it is loved or elected not because it is better, strictly speaking,
+vel honores comparandos, vel ad alios fines similes. Hic enim ex- but because it is more pleasurable according to sense or because it is more
+cessus sufficit, ut voluntas pro sua libertate eligat, quod delectabil- useful for [gaining] wealth or honours to be compared or for other similar
+ius, vel utilius judicatur, quamvis tale judicium comparativum, nec ends. For this departure is sufficient for the will to elect by its freedom that
+semper necessarium sit, neque illo posito voluntas ex necessitate which is judged more pleasurable or more useful, although such a compari-
+illud sequatur. Unde confirmatur hic discursus. Quia stante in tive judgement is not always necessary. Hence, this discussion is confirmed,
+intellectu cum uno, et eodem judicio, vel cum pluribus, potest vol- because by standing with the intellect with one and the same judgement or
+untas, vel bene agere, vel peccare, juxta illud Eccles. 15: Apposui with more, the will can either act well or sin, according to Ecclesiasticus
+tibi (id est, coram te) ignem, et aquam: ad quod volueris porrigere 15[:17–18]: ‘I have placed before you’ (that is, before your heart) ‘fire and
+manum tuam, id est, voluntatem. Ante hominem vita et mors, water: stretch forth your hand’ (that is, your will) ‘to whichever you wish.
+bonum et malum: quod placuerit ei, dabitur illi. Dicitur autem Before man is life and death, good and evil: whichever shall be pleasing to
+proprie esse ante hominem, quod actu videtur, seu consideratur him, shall be given to him’. Moreover, what is actually seen or considered
+ab ipso: stante igitur eadem consideratione per unum, vel plura by him is properly said to be before man. Therefore, by standing with the
+judicia, potest homo recte, vel male velle; ergo tunc determina- same consideration through one or more judgements, a human being can
+tio voluntatis, tam quoad specificationem, quam quoad exercitium will rightly or badly. Therefore, then, the determination of the will, with
+actus, est primo ab ipsa voluntate; ergo potest esse peccaminosa, respect to specification as with respect to exercise, is first from the will itself.
+etiamsi in judicio error practicus non præcedat: sicut etiam potest Therefore, it can be sinful even if practical error in judgement precede, just
+esse recta cum eadem intellectus dispositione. as it can also be right with the same disposition of intellect.
+26. Corollarium primum de sensu illius judicii practici, hoc
+est faciendum.—Primus sensus rejicitur.—Rejicitur secundus.—Tertius
+sensus.—In hoc sensu necessarium est judicium ad bene operandum,
+non ad peccatum.—Unde infero primo, cum communiter dicitur,
+antequam voluntas velit, præcedere in intellectu hoc judicium
+practicum, faciendum est hoc, sano modo accipiendum esse, et ex-
+plicandum, ut verum est; plures enim sensus habere potest verbum
+illud, faciendum est, ut bene Adrianus supra distinxit: unus est, ut
+
+-- 19 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 20
+vim habeat futuri: ut cum dicimus, Petrus est eligendus: et sic
+constat non posse in præsenti sumi: quia cum intellectus sic judi-
+cat, non divinat, quid voluntas factura sit; sed proponit, quid illam
+agere oporteat. Alter seusus est, ut illud verbum, faciendum, non
+dicat proprium judicium, sed solum imperium per modum impul-
+sus: sicut Dominus dicit servo, hoc tibi faciendum est. Et hic sen-
+sus est etiam falsus; quia, ut dixi, in intellectu non datur imperium
+respectu voluntatis, quod non sit per modum judicii. Neque aliter
+potest intellectus impellere, seu movere voluntatem, nisi per cog-
+nitionem, vel judicium. Quod secus est de uno homine respectu
+alterius, quia unus movet alterum per voluntatem suam, imperat
+<835> autem per signum aliquod talis voluntatis manifestativum.
+Unde tertius sensus illius verbi esse potest, ut verbum, faciendum
+est hoc, respectum dicat ad regulam rectæ rationis, vel legis, ita
+ut subintelligatur, faciendum est hoc secundum rectam rationem,
+sub qua includuntur voluntas Dei, et legis, vel præcepta superio-
+rum: sicut dicere solemus, hodie jejunandum esse, vel votum esse
+servandum. Et in hoc sensu necessarium est illud judicium ad hon-
+este volendum; non tamen esse simpliciter necessarium ad volen-
+dum, vel eligendum, quia sæpe voluntas amat, quod non judicat
+secundum rectam rationem, aut legem esse amandum ut per se no-
+tum est. Alias (ut supra dicebam) qui fornicatur, judicaret esse fa-
+ciendum secundum rectam rationem, quod hæreticum esset. Nec
+etiam tale judicium, licet procedat, sufficit, ut voluntas non peccet,
+quia non necessitatur ab illo, sed illi resistere potest. Atque potest
+simul homo judicare actu hoc esse volendum in dicto sensu, et actu
+vello contrarium, ac peccare.
+27. Quartus sensus licet verus nil colligit contra dicta.—Declara-
+tur quando illud judicium præit ad electionem mediorum.—Quartus
+sensus est, ut verbum illud, faciendum, dicat respectum, et con-
+gruentiam ad finem, vel aliam regulam, et sic potest habere verum
+sensum, et universalem; sed ex illo nihil contra dicta colligitur.
+Declaratur, quia tale judicium potest præcedere, vel ad electionem
+mediorum post intentionem finis, et consultationem; vel ad ipsam
+voluntatem, vel intentionem particularis finis, seu boni propter se
+amandi, quando ex multis unum assumitur, seu modo suo eligi-
+tur, ut ametur, vel intendatur. Quando ergo judicium præcedit
+intentionem finis, et terminat consultationem, sensus illius locu-
+
+-- 20 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 21
+tionis, hoc faciendum est, in hunc resolvitur, hic et nunc, et om-
+nibus pensatis, hoc expedit facere, seu hoc est conveniens ad talem
+finem. Unde si plura occurrant media, et judicentur æque utilia
+ex vi solius intellectus, non poterit determinate judicare, hoc est fa-
+ciendum: sed disjunctim, hoc, vel illud; quamvis voluntas possit
+intellectum applicare ad unius considerationem, et non alterius,
+vel etiam posset stante actuali judicio æquali de utroque medio, il-
+lud unum eligere pro sola sua libertate. Imo licet unum medium
+judicetur sub aliqua ratione melius alio, potest voluntas minus
+bonum eligere, dummodo ad explendam intentionem finis suffi-
+ciens judicetur. Unde quamvis contingat medium ad finem utile,
+turpe alias <col. b> esse, nihilominus in illo judicio, faciendum est
+hoc, non erit falsitas veritati rei contraria: quia revera medium est
+proportionatum fini intento, etiamsi non sit consentaneum fini,
+qui secundum rectam rationem intendi deberet, et sic dixit Chris-
+tus in parabola de villico, quod laudavit Dominus villicum iniq-
+uitatis, quia licet frandulenter adversus Dominum, pro se tamen
+prudenter fecisset.
+28. Declaratur deinde quando præit ad volitionem ipsius finis,
+sive objecti particularis propter se volendi.—At vero, quando judi-
+cium non est de medio in ordine ad finem, sed de fine particulari,
+vel objecto propter se volendo: vel supponitur generalis voluntas
+alicujus boni in generali sub aliqua ratione universali, quæ per aliud
+judicium applicatur ad hanc, vel illam rem talrm bonitatem partic-
+ipantem; vel nulla talis generalis voluntas supponitur, sed imme-
+diate determinanda est voluntas ad illum finem particularem. ln
+priori casu idem dicendum est, quod de judicio mediorum, servata
+proportione. Nam si unum tantum particulare objectum sub illo
+generali proponatur per illud judicium, hoc est amandum; sensus
+est, hunc particularem finem consentaneum esse illi voluntati uni-
+versali, et in illo sufficienter expleri. Si vero talia objecta plura sint,
+et proponantur, nullum illorum ex vi solius intellectus, et talis in-
+tentionis judicare determinate poterit, ut necessarium, vel unicum,
+in quo illa voluntas generalis implenda sit; sed hoc pertinet ad lib-
+eram determinationem voluntatis, quæ sine novo judicio esse po-
+terit. Atque ita in tali judicio nulla erit deceptio, seu falsitas cogni-
+tionis: si revera in tali objecto particulari bonum illud generaliter
+amatum inveniatur, etiamsi objectum illud turpe sit, et sine pec-
+
+-- 21 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 22
+cato amari non possit; quia hoc non obstat, quominus cum illo
+universali affectu conformitatem habeat. Ut si quis sibi proponit
+sequi delectabile bonum, et postea judicet fornicationem sibi esse
+appetendam, ut consentaneam suo proposito, vel ut participantem
+illam generalem rationem boni delectabilis, non errat a veritate
+cognitionis, licet a veritate morum erret. Idemque est in similibus.
+At vero quando non præcessit universalis voluntas elicita alicu-
+jus boni, et judicium illud versatur circa bonum particulare, tunc
+si bouum illud judicetur diligendum, necesse est ut sit secundum
+commensurationem ad aliam regulam, ut, verbi gratia, secundum
+conformitatem ad aliquam naturæ propensionem, vel ad regulam
+rectæ rationis, vel ad <836> amorem Dei, vel quid simile. Et sic
+etiam illud judicium habebit suam veritatem, si revera tale sit ob-
+jectum, quale judicatur, etiamsi honestum non sit; ut si bonum
+delectabile judicetur consentaneum sensui, et sub ea ratione dili-
+gendum, vel potius diligibile; quod judicium sufficiet, ut voluntas
+pro libertate sua illud diligat. In nullo ergo sensu præcedit neces-
+sario falsitas propria in tali judicio, ut voluntatem peccaminosam
+præcedit.
+29. Secundum corollarium.—Unde ulterius colligo, nullam
+esse differentiam, quæ in hac parte assignatur ab auctoribus con-
+trariæ sententiæ, inter peccatum commissum appetendo objectum
+malum sub aliqua ratione boni, et peccatum commissum appe-
+tendo objectum de se bonum indebito modo, vel cum defectu deb-
+itæ circumstantiæ. Quia in neutro ex his peccatis necessario sup-
+ponitur judicium proprie falsum, et erroneum; et in utroque potest
+præcedere inconsideratio: neque in uno est magis necessaria, quam
+in alio. Prior pars de falsitate, constat; quia de peccato posteri-
+ori modo commisso, amando male bonum objectum, dicti auc-
+tores fatentur posse committi sine prævio errore intellectus prac-
+tici per inconsideratum judicium. Quod autem idem sit de peccato
+commisso amando pravum objectum sub ratione boni, probatur
+ex dictis; quia fieri potest, ut illa ratio boni, sub qua amatur tale
+objectum, non sit tantum apparens, sed vera: quia vere tale objec-
+tum est delectabile, aut utile, vel commodum naturæ secundum se
+spectatæ: ergo ex ea parte non necessario præcedit falsitas in tali
+judicio.
+30. Unde probatur altera pars, quia sicut in priori peccato
+
+-- 22 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 23
+potest præcedere inconsideratio circumstantiæ, ob cujus defectum
+peccatur: ita in posteriori potest intervenire consideratio prohibi-
+tionis, vel pravitatis talis objecti. Ergo sicut in priori genere pec-
+cati inconsideratio non sufficit, ut illud judicium practicum abso-
+lutum, faciendum est hoc, sit falsum, licet sit inconsideratum: ita
+nec in posteriori sufficiet. Probatur paritas rationis, quia in neu-
+tro judicio sensus est, hoc esse hic et nunc faciendum rectam ra-
+tionem, alioqui utrumque falsum esset: sed sensus est, esse facien-
+dum secundum aliquam aliam regulam, aut finem, ut explicatum
+est: et ita utrumque erit verum per conformitatem ad rem, de qua
+judicium fertur. In quo est etiam attente considerandum, etiam
+quando revera objectum est honestum, si male ametur ex circum-
+stantia, vel modo indebito, non amari, ut honestum, sed <col. b>
+materialiter tantum, et quasi per accidens ejus honestum ibi con-
+currere; ideoque sub alia ratione boni amandum judicari, et per
+conformitatem ad illam veritatem judicii sumendam esse. Igitur in
+hoc eadem est ratio de utroque judicio. Quia tam inconsideratio,
+quam veritas æque potest in utroque judicio præcedere, etiamsi in
+uno sit inconsideratio de conditione ipsius objecti; in altero vero de
+circumstantia, aut modo tendendi in illud. Nam hoc discrimen ad
+falsitatem judicii parum refert, si alioqui conformitatem habet cum
+re judicata, sicut illam habere potest, ut ostensum est. Addo vero
+in ultima parte, in neutro judicio, ut verum sit, esse necessariam
+inconsiderationem, quia licet quis advertat, objectum esse turpe,
+ac proinde simpliciter malum, potest vere judicare esse delectabile,
+et sub ea ratione bonum, et appetibile. Et similiter, licet objec-
+tum de se sit honestum; malum autem sit hic et nunc, tali modo
+illud amare, et totum hoc actu consideretur, potest nihilominus
+esse delectabile, vel ad alios fines utile, illud hic et nunc velle, et
+tale vere judicari, et ut amabile proponi; ergo in neutro judicio est
+necessaria inconsideratio, ut judicium verum sit; atque ita nulla ap-
+paret inter illos duos modos peccandi differentia, quoad hoc quod
+in uno potius quam in alio error, vel inconsideratio præcedere de-
+beat.
+31. Satisfit fundamento contrario in num. 18.—Ex his satis re-
+sponsum est ad fundamentum Durandi et Malonii; cum enim di-
+cunt, ante dilectionem, vel electionem præcedere judicium, quo
+tale objectum, vel hujus dilectio hic et nunc proponitur, ut sim-
+
+-- 23 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 24
+pliciter bonum, et conveniens, æquivocatio est in vocibus illis, sim-
+pliciter conveniens, seu bonum. Nam conveniens, addito adverbio
+simpliciter, videtur significare id, quod est conveniens ad morum
+honestatem, ut secundum Dei legem, aut rectam rationem. Et sic
+falsa est propositio assumpta, ut probatum est: quia alias nemo
+sine hæresi posset fornicare. Potest etiam dici simpliciter conve-
+niens, quasi comparative; quia omnibus aliis objectis oppositis, vel
+circumstantiis consideratis, hoc est excellentius bonum, magisque
+conveniens: et in hoc etiam sensu falsa est assumpta propositio.
+Quia sufficit absolutum judicium, quod hoc sit bonum, et ama-
+bile, ut diligatur, etiamsi cum aliis non conferatur. Imo licet alia
+judicentur meliora secundum altiores rationes bonorum, sufficit
+judicare hoc in suo ordine esse bonum, ac conveniens appetenti
+secundum aliquam ra- <837> tionem, vel in ordine ad aliquem
+finem, ut voluntas pro sua libertate in illud feratur; etiamsi intel-
+lectus per judicium illud cæteris non præferat. Denique potest dici
+simpliciter conveniens, quod non tantum in spe sua, sed etiam in
+particulari, et cum circumstantiis, quæ hic et nunc occurrunt, et
+considerantur, convenientiam, et bonitatem suam retinet. Et in
+hoc sensu vera est propositio, male autem subsumitur tale judi-
+cium continere errorem veritati contrarium, quoties objectum est
+turpe, vel illud appetere honestum non est; quia potest vere sub
+alia ratione esse bonum, et conveniens simpliciter, id est, absolute,
+et cum omnibus circumstantiis tunc occurrentibus, ut satis expli-
+catum est.
+32. Secunda assertio bipartita.—Ad omne peccatum antecedit
+error practicus moris, seu electionis, et nullus alias requiritur.—
+Nihilominus tamen additus, ad omne peccatum antecedere in in-
+tellectu judicium defectuosum, quod erroneum in moribus, seu
+quoad moralem directionem, dici potest: et nullum alium defec-
+tum intellectus esse necessarium ad peccatum. Hæc fuit sententia
+Scoti in 3, dist. 36, quæst. 1, art. 1, quem ibi sequitur Bassolis,
+art. 3, §Sed quantum, etc., et Gabriel, art. 2, part. 2, conclus. 3,
+et idem indicat in 2, dist. 22, quæst. 2, art. 3, dub. 3, ubi refert
+Alensem, qui hoc indicat in 2 part., quæst. 112, membr. 3, et
+quæst. 145, art. 1, ad 6, et quæst. 123, membr. 3, in fine, quatenus
+ait, omne peccatum esse mendacium lato modo, quia declinat a ver-
+itate boni. Et idem sentiunt Almainus, dict. tract. Moral., cap. 4,
+
+-- 24 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 25
+Ocham, quem Gabriel etiam allegat, in 3, quæst. 12, in 2 ejus part.,
+art. 4, et quodl. 4, quæst. 6, art. 3, in 4 ejus part. Consentiunt
+etiam Adrianus, Henricus, Corduba et alii in superioribus allegati.
+Et prior quidem pars, scilicet necessarium esse hunc defectum,
+confirmari potest illis vulgatis testimoniis Scripturæ. Errant, qui
+operantur malum, Proverb. 14, et Psalm. 118: Erravi sicut ovis, quæ
+periit: nam illa comparatio declarat optime illum errorem esse a
+via recta. Nam de illo etiam dicitur Isai. 55: Omnes nos tanquam
+oves erravimus. Et sic etiam concludent damnari: Ergo erravimus,
+Sapien. 5. Ratione item probatur, quia nemo potest eligere malum,
+nisi judicando illud esse diligibile sub aliqua ratione boni: sed hoc
+ipsum judicium imperfectum est, et ad peccandum de se inducens:
+ergo saltem hic defectus intellectus in omni peccato intervenit.
+33. Objectio.— Solutio.—Dices, errorem ibi commissum non
+esse in intellectu, sed esse in voluntate, maxime quando intellec-
+tus sufficienter, vel etiam æqualiter utramque viam proponit, et
+voluntas deteriorem eligit: tunc enim intellectus de se non de-
+cipit, nec errare facit: ergo ille dici non potest proprius defec-
+tus intellectus. Et declaratur, quia si quis habeat illud judicium
+simul cum judicio, et prudentiali circa bonum honestum per vol-
+untatem sequatur dictamen prudentiæ, non dicetur errare, nec
+habere defectum in intellectu, propterea quod simul cum judicio
+perfectiori, simul habeat perfectiorem: ergo quando habens in in-
+tellectu eosdem actus, voluntas eligit, quod deterius est, non est id
+tribuendum intellectui: neque judicium illud defectus intellectus
+dici potest. Respondeo, duobus modis posse aliquem considerare
+objectum pravum moraliter, ut judicium de aliqua ejus bonitate
+ferat. Primo mere speculative in ordine ad solam cognitionem cu-
+jusvis physicæ veritatis, et hoc modo judicium de tali objecto, licet
+in suo genere imperfectum sit negative, id est, non sit tantæ per-
+fectionis, quantæ sunt alia judicia intellectus: nihilominus in sua
+specie potest esse perfectum, et simpliciter est quædam perfectio
+intellectus: et ita non potest dici proprie defectus ejus. Alio vero
+modo potest illud judicium exerceri practice, nimirum adjungendo
+illud consultationi practicæ, quando de voluntate dirigenda in or-
+dine ad opus tractatur. Et tunc dico exercere talem actum, esse
+defectum quemdam intellectus morali prudentiæ contrarium, quia
+non potest prodesse ad rectam directionem voluntatis, et quantum
+
+-- 25 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 26
+est ex se, illam impedire potuisset. Et hoc modo consideratus talis
+actus, etiam in illo, qui ei non consentit, aliquis defectus est, vel
+moralis, si talis actus quoad exercitium liber sit, vel physicus, et
+naturalis, si talis cogitatio ab extrinseco proveniat. Nam interdum
+defectus naturalis potest esse occasio alicujus lapsus moralis, si vol-
+untas ei succumbat.
+34. Secundæ pars conclusionis, quod nullus alius defectus re-
+quiratur, unde probetur.—Responsio.—Altera vero pars exclusiva
+quod præter hunc defectum non sit necessarius alius defectus in-
+tellectus ad peccandum, quasi per inductionem probanda est ex
+omnibus hactenus dictis: nam exclusimus necessitatem omnium
+aliorum defectuum, qui excogitari possunt. Solum objici potest,
+quia ille defectus positivus quem in judicio illo practico, et imper-
+fecto posuimus, non potest dici ignorantia, <838> nec proprie,
+nec late. Cum tamen secundum Aristotelem omnis peccans sit
+ignorans aliquo modo: qui modus loquendi etiam ex Scriptura
+sumi videtur; responderi potest, primo, ignorantiam distingui in
+privationis per carentiam cognitionis, et pravæ dispositionis per
+positivum errorem. Unde omnis error est ignorantia, licet non
+convertatur. Juxta hanc ergo doctrinam illud judicium practicum
+eo modo, quo error dicitur, etiam dici poterit ignorantia non pri-
+vationis, sed pravæ dispositionis, pravæ, inquam, non formaliter,
+seclusa voluntate, sed radicaliter, seu occasionaliter (ut sic rem ex-
+plicem). De tali ergo ignorantia possunt intelligi illa verba Aris-
+totelis, et similia. Quæ responsio in rigore sustineri potest: est
+tamen creditu difficilis, quia ignorantia in genere scientiæ apponi-
+tur: et proprius error inde vocatur ignorantia, quod cognitionem
+alicujus veritatis excludit, quod non habet illud principium.
+35. Responsio secunda—Impugnatur primo.—Impugnatur se-
+cundo.—Aliter responderi potest, omnem peccatorem esse igno-
+rantem, quamvis non semper ignorantia peccet, quia non semper
+ignorantia est causa peccati, sed interdum est effectus; quia ip-
+sum peccatum tenebras inducit, ac mentem a veritatis cognitione
+avertit. Ita loquuntur Alensis, et Henricus, et alii supra. Unde
+inferunt, præsertim Henricus defectum ignorantiæ, ut dicit car-
+entiam alicujus cognitionis, vel considerationis, non semper an-
+tecedere peccatum voluntatis, licet semper cum illo sit, et sæpius
+antecedenter, aliquando vero consequenter. Quæ responsio quoad
+
+-- 26 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 27
+eam partem, qua negat propriam ignorantiam semper præcedere
+est consentanea superius dictis. Quoad alteram vero partem, quæ
+affirmat, licet inconsideratio non semper antecedat, semper con-
+comitari, aut subsequi, non caret difficultate. Nam imprimis non
+potest talis ignorantia sequi ex peccato, pro eodem instanti, pro
+quo fit peccatum, quia repugnat privari intellectum aliquo actu,
+quem in illo instanti habere supponitur, propter peccatum in eo-
+dem instanti commissum: alias habitus, et privatio simul essent
+in eodem instanti temporis; quod fieri non potest. Ergo vel in
+illo instanti supponitur carentia cognitionis, seu alicujus consid-
+erationis; et sic inconsideratio ordine naturæ peccatum præcedit;
+vel si non præcedit, non erit pro illo instanti: et consequenter
+saltem pro illo primo instanti, in quo peccatur, erit defectus vol-
+untatis sine ignorantia intellectus. Deinde, si pro <col. b> illo
+instanti hoc admittitur, inde inferri potest, etiam pro aliquo tem-
+pore durare posse. Quia sola culpa voluntatis non habet tantam
+efficaciam in intellectum, ut statim, seu immediate post primum
+instans peccati, faciat illum ab actuali consideratione, vel judicio
+repugnante cessare. Imo experimento constat, actualem conscien-
+tiæ remorsum, ac reprehensionem perseverare in ipso actu peccati;
+imo interdum eo acrius urgere, quo voluntas in ipso actuali pec-
+cato diutius immoratur. Ad hanc vero replicam ex sequenti puncto
+patebit responsio.
+36. Responsio tertia et verior.—Ultimo enim addi potest ax- 36. The third and truer response.—For, lastly, one can add that the ax-
+ioma illud, Omnis peccans est ignorans, sive de antecedente, sive iom ‘every sinner is ignorant’, whether it is understood with regards to an-
+de consequente ignorantia intelligatur, moraliter intelligendum tecedent or consequent ignorance, must be underderstood morally and ac-
+esse, et secundum ordinarium operandi modum humanum, non cording to the more ordinary human way of acting, rather than metaphysi-
+metaphysice, ac de absoluta necessitate. Nam revera tanta ne- cally and concerning absolute necessity. For in reality such necessity cannot
+cessitas ex nullis certis principas colligi potest, ut probatum est. be gathered from any certain principles, as was proved. But morally the best
+Moraliter autem optima ratio illud ostendit. Primo de ignoran- argument shows it. First, concerning consequent ignorance. Because just as
+tia consequente. Quoniam veluti naturale est, ut quando vol- it is natural that when the will has a propensity and affect to some part to
+untas ad aliquam partem est propensa, et affecta, ad illius con- the consideration of which it turns the intellect and, consequently, turns it
+siderationem intellectum convertat: et consequenter a contraria away from a contrary consideration. . . .
+consideratione illum avertat: non quidem subito repugnans judi-
+cium prorsus auferendo, sed vel paulatim illud remittendo. Ac-
+cedit quod modo postquam aliquid definite vult, naturaliter refugit
+omnem internam reprehensionem, quæ tristitiam, et molestiam
+afferre solet. Denique hoc modo multiplicatio peccatorum so-
+
+-- 27 of 28 --
+
+Suárez, De Angelis lib. VII, cap. 6 28
+let cæcitatem mentis secum afferre: quia qualis unusquisque est;
+talis finis sibi esse videtur. Secundo hæc moralis necessitas, etiam
+ad antecedentem ignorationem, vel inconsiderationem, vel saltem
+tenuem considerationem extenditur. Tum quia pluribus intentus
+minor est ad singula sensus: qui autem peccat, necessario cogitat
+de objecte peccati, et de commoditatibus ejus. Unde moraliter lo-
+quendo, vel non considerat honestatem contrarii objecti, vel re-
+missius quam oportet. Tum etiam, quia licet fortasse non minus
+attente cogitet de turpitudine objecti, quam de ejus delectabilitate
+(hoc enim etiam moraliter, ac frequenter contingere potest) ni-
+hilominus absolute loquendo, non tantum considerat gravitatem
+malitiæ moralis, nec rationes omnes, quæ a tali objecto possent
+voluntatem avertere, quantum posset, et in tali eventu deberet.
+His ergo modis ante omne peccatum antecedit aliquis defeclus
+intellectus ad ignorantiam, vel inconsideratio- <839> nem perti-
+nens secundum ordinarium modum peccandi: et hoc satis est, ut
+moraliter etiam loquendo verum sit axioma illud: Omnis peccans
+est ignorans.
+1 Latin text is from Vivès edition.
+
+-- 28 of 28 --

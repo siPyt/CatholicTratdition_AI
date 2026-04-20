@@ -1,0 +1,372 @@
+Last revision: September 24, 2012	Francisco Suárez, S. J.
+DE BONITATE ET MALITIA HUMANORUM ACTUUM VI, SECT. 51
+© Sydney Penner 2012
+<368, col. a>2
+Qualis relatio in finem requiratur ad hanc bonitatem. What kind of relation to the end is required for this goodness.3
+Ratio dubii est, quia solent distingui variae <col. b> rela- The reason for doubt is that various relations are usually distinguished:
+tiones, interpretativa habitualis tantum, id est, ex solo habitu the interpretative [that is] habitual only, that is, proceeding from a habit
+procedens; habitualis procedens ex praecedenti actu solum alone; the habitual, proceeding from a previous act only because it pre-
+5 quia praecessit; virtualis, ex praecedenti actu media virtute 5R ceded; the virtual, resulting from a preceding act by means of a remaining,
+relicta, et durante, ac influente; et actualis, quae est per ac- enduring, and influencing force; and the actual, which is by means of an
+tualem intentionem talis finis, seu actuale imperium, et de actual intention of such an end or by means of an actual command. And
+singulis sunt opiniones. there are opinions about each one.4
+1. Opinio
+reiicitur
+multipliciter.
+1. Prima ergo affirmat sufficere intentionem interpretati- 1. The first, therefore, affirms that an interpretative intention is The first opinion
+is rejected
+multiply.
+10 vam, quae tunc esse censetur, quando homo est ita affectus, 10R sufficient. Such an intention is thought to be when a human being is in
+et dispositus, quod si talis finis in suam cogitationem veniret, such a condition and so disposed that if such an end were to come into his
+Primo. actum suum in ullum referret. Sed hunc dicendi modum thought he would refer his act to it. But I do not find this way of speaking First.
+apud nullum scriptum invenio, neque habet fundamentum, in any writing nor does it have any foundation or probability, because
+aut probabilitatem, quia illa conditionalis nihil ponit in esse, that conditional places nothing in being and cannot even be cognized
+15	Secundo. imo nec cognosci potest, nisi a solo Deo. Item quia similis 15R except by God alone. Also, because a similar disposition does not suffice Second.
+dispositio non sufficit ad culpam, non enim, ut saepe apud for blame, for, as is often read in Augustine, God will not judge us for
+Augustinum legitur, iudicabit nos Deus per ea quae faceremus, the things which we would have done if these or those occasions had
+si hae, vel illae occasiones occurrerent, aut si tales cogitationes occurred or if such and such thoughts had been allowed to be stirred up
+in nobis excitari permitteret, sed per ea, quae facimus, imo ad in us. Rather, he will judge us for those things which we did. Indeed,
+20 magnam Dei gratiam pertinet, quando hominem praevenit, 20R it belongs to the great grace of God that when God forestalls a human
+et non permittit in eam cogitationem incidere, cum qua scit being and does not permit him to fall into that thought by which, God
+fore peccaturum: ergo multo minus sufficiet illa dispositio ad knows, he will sin. Therefore, much less will that disposition suffice for
+Tertio. bonitatem, quae perfectiorem voluntatem requirit. Denique goodness, which requires a more perfect willing. Finally, that act does Thirdly.
+actus ille ex vi illius dispositionis operantis non habet boni- not have intrinsic goodness from the end as a result of the force of that
+1Latin text by and large follows the 1628 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès edition for
+significant variations. For recorded variants, A = 1628 edition and V = Vivès edition. Emendations not supported by any of these editions are enclosed in square brackets. Note that the
+Vivès edition does not have marginal notes; many, though not all, of the marginal notes from the 1628 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3Jacques Channevelle borrows heavily from this section when he deals with the question ‘Quae relatio actus in finem requiratur, ad bonitatem’ in Ethica seu philosophia moralis juxta
+principia Aristotelis ([Parisiis: apud Edmundum Martinum, 1666], 497).
+4On these four kinds of intention, compare De fine hominis 2.4.
+
+-- 1 of 8 --
+
+Suárez, DBM VI, sect. 5 2
+25 tatem intrinsecam ex fine, quia non tendit in illum per se 25R disposition, because it does not tend to the end of itself and through its
+ipsum, et suam intrinsecam entitatem, neque etiam habet intrinsic entity. Nor does it have extrinsic goodness, because it is in no
+bonitatem extrinsecam, quia nullo modo refertur in talem way referred to such an end by any extrinsic principle. Therefore, it does
+finem ab aliquo extrinseco principio; ergo nullo modo. not have goodness in any way.
+2. Opinio de
+relatione
+habituali.
+2. Secunda sententia est; sufficere relationem habitualem, 2. The second view is that a habitual relation suffices. That is, [the The second
+opinion
+concerning a
+habitual relation.
+30 id est, quae censetur esse in operante per solum habitum 30R relation] which is thought to be in someone acting through the habit
+virtutis, a quo censetur intrinsece informari virtutis actus, of virtue alone, by which the act is thought to be informed intrinsically
+praesertim a gratia, et charitate, pro hac opinione referri with virtue, especially by grace and charity. For this opinion one can
+potest Soto, lib. 3. De natura et gratia cap. 4. concl. 2. qui citat be referred to Soto, De natura et gratia, lib. 3, cap. 4, concl. 2. He cites
+Caietanum 1. 2. q. 109. art. 9. videtur favere q. 21. art. 4. et Cajetan, IaIIae.106.9, [who] seems to favour 21.4, and others from the
+35 aliqui ex Scholasticis infra citandis. 35R scholastics to be cited below.5
+Probabilis est, sed
+non in sensu hic
+intento.
+3. Sed oportet advertere aliud esse loqui de bonitate pro- 3. But it is necessary to note that it is one thing to speak about It is probable, but
+not in the sense
+intended here.
+pria sumpta; aliud de ratione meriti. Item aliud esse loqui de goodness taken properly and another to speak about the ratio of merit.
+circumstantia, seu dignitate personae operantis; aliud vero de Also, it is one thing to speak about the circumstance or dignity of the
+circumstantia finis, de qua nunc agimus; quod autem attinet person who is acting, but another to speak about the circumstance of
+40 ad meritum, probabilis sententia est habitualem dignitatem 40R the end, which we are dealing with now. As far as merit is concerned,
+personae operantis, praesertim illam, quae est per gra- <369> however, the probable view is that the habitual dignity of the person who
+tiam, et charitatem, multum conferre ad rationem, vel aug- is acting, especially that which comes through grace and charity, bestows
+mentum meriti, praesertim si ex parte actus sit sufficiens boni- much to the ratio or increase of merit, especially if the goodness on the
+tas; tunc autem non concurrit habitus, ut principium dans part of the act is sufficient. But a habit does not concur in that case as a
+45 actui bonitatem ex fine, sed ut circumstantia personae dignif- 45R principle giving goodness from the end to the act, but as a circumstance
+icans illam, et consequenter conferens ad valorem moralem of the person dignifying the person and consequently adding to the moral
+actus, ut supra dictum est. value of the act, as was said above.
+In sensu nunc
+intento
+improbatur.
+4. At vero agendo proprie de bonitate, quae ex fine oper- 4. But, on the other hand, when dealing strictly with the goodness In the sense
+intended here it is
+rejected.
+antis redundat in actum eius, dicendum est sine dubio ad illam which overflows from the end of the one acting to his act, it should be
+50 non sufficere habitum virtutis, ut plane docet D. Thomas in 50R said that there is no doubt but that a habit of virtue is not sufficient for
+2. dist. 38. q. 1. art. 1. ad 4. et dist. 40. q. 1. art. 5. ad 6. et idem it, as St. Thomas plainly teaches in Sent. II, dist. 38, q. 1, art. 1, ad 4, and
+sentit Caietanus 1. p. q. 63. art. 6. et idem Durandus dist. 40. dist. 40, q. 1, art. 5, ad 6. And Cajetan thinks the same in ST Ia.63.6, as
+q. 2. n. 11. Scotus dist. 41. Adrianus Quodlibeto 10. art. 3. well as Durandus in dist. 40, q. 2, n. 11, Scotus in dist. 41, and Adrian
+1. Argumentum
+contra hanc
+opinionem.
+ad 4. et probatur, quia habitus non confert bonitatem, nisi in Quodlibet 10, art. 3, ad 4. And it is proven because a habit does not First argument
+against this
+opinion.
+55 aut eliciendo, aut imperando; ergo si neutro modo concurrit, 55R bestow goodness, except by eliciting or commanding [an act]. Therefore,
+nullam confert bonitatem; ergo sola existentia, seu concomi- if it does not concur in either of those ways, it does not bestow any
+tantia eius in subiecto non satis est, ut det bonitatem, quia goodness. Therefore, its existence or concomitance alone in the subject
+potest illi adesse, et neutro ex dictis modis concurrere. An- is not enough to give goodness, because it can be present in him but not
+tecedens patet, quia habitus tantum est causa extrinseca actus; concur in either of the stated ways. The antecedent is clear since a habit
+5The sense of the Latin sentence is unclear; it may be missing a word or two.
+34 109 ] 106 V
+45–46 dignificans ] significans V
+
+-- 2 of 8 --
+
+Suárez, DBM VI, sect. 5 3
+60 ergo solum media sua causalitate potest concurrere ad boni- 60R is only an extrinsic cause of an act. Therefore, it can concur with the
+Confirmatur 1. tatem eius. Et confirmatur, quia habitibus, ut sic, nec mere- act’s goodness only by means of its causality. And it is confirmed because First
+confirmation.	mur, nec demeremur, nisi influant in opus; non potest autem we neither gain nor lose merit by habits as such, unless they influence
+Confirmatur 2. intelligi alius modus influxus praeter dictos. Confirmatur us to works. Moreover, no other way of influx beyond the ones stated
+secundo, quia alias in homine iusto, quilibet actus virtutis can be be thought of. It is confirmed, secondly, because otherwise any Second
+confirmation.	65 haberet bonitatem omnium virtutum, vel saltem plurimarum, 65R act of virtue whatever in a just human being would have the goodness of
+quia in illo homine sunt habitualiter omnes virtutes, et quili- every virtue or at least of most, since all the virtues are habitually in that
+bet actus virtutis, est referibilis in finem omnium, vel saltem human being and any act whatever of virtue is referable to the end of all
+2. Argumentum. plurimarum. Tandem quamvis infidelis, et peccator careat [the virtues] or at least of most. Finally, although an infidel and sinner Second argument.
+virtutibus, et habeat plures habitus vitiorum, non propterea lacks virtues and has many vicious habits, he does not thereby refer his
+70 refert actus suos etiam malos, vel indifferentes ad finem, seu 70R acts—even evil or indifferent acts—to the end or object of such vices, nor
+obiecta talium vitiorum, neque inde accipiunt opera eius ali- do all his works thereby receive some badness. Therefore, the same is
+quam malitiam; ergo idem est a fortiori de actibus bonis. true a fortiori concerning good acts.
+3. Opinio de alio
+modo relationis
+habitualis.
+5. Tertia sententia est sufficere ad hanc bonitatem rela- 5. The third view is that a habitual relation remaining morally from The third opinion
+concerning
+another mode of
+habitual relation.
+tionem habitualem relictam moraliter ex aliquo actu praeter- some previous act is sufficient for this goodness, even if afterwards it
+75 ito, etiamsi postea nihil influat in actum, sed moraliter illum 75R does not inflow anything into the act, but [only] denominates it morally.
+denominet. Quam sententiam videntur interdum insinuare Scholastics sometimes seem to suggest this view in Sent. II, dist. 41, es-
+Scholastici in 2. dist. 41. praesertim D. Bonaventura art. 1. q. 3. pecially St. Bonaventure in art. 1, q. 3, and Gabriel in the first question,
+Eius
+fundamentum.
+et Gabriel q. unica art. 3. dub. 2. Fundamentum esse potest, art. 3, dub. 2. The foundation can be that if the prior relation was of Its foundation.
+quia si prior relatio talis <col. b> fuit, quae subsequentem such a kind that it would include the subsequent act, it is clearly thought
+80 actum comprehenderet, plane censetur perseverare quamdiu 80R to persist as long as no retraction is given (which will be whenever the
+non datur retractatio, quod erit quotiescumque subsequens subsequent action is not repugnant to the former end but is in harmony
+opus non repugnat priori fini, sed est illi consentaneum. Con- with it). It is confirmed since in every action good from the object, the Confirmation.
+Confirmatur. firmatur, quia in omni bono opere ex obiecte, operatur homo human being acts for the sake of himself proximately, since he acts for
+propter se ipsum proxime, quia operatur propter convenien- the sake of the agreeability to reason or rational nature. Therefore, if he
+85 tiam ad rationem, seu naturam rationalem; ergo si prius se 85R first referred himself and all his [actions] to God, that will be sufficient
+ipsum, et omnia sua retulit in Deum, id satis erit, ut caetera for all his remaining actions to be referred virtually to God. And the
+opera virtute referantur in ipsum. Et idem argumentum fieri same argument can be made concerning indifferent acts, in which this
+potest de actibus indifferentibus, in quibus speciale esset in- particular disagreeability is not admitted because otherwise very many
+conveniens hoc non admittere, quia alias quamplurimi male acts would be performed badly as a result of a defect of the relation to the
+90 fierent ex defectu relationis in finem. 90R end.
+Displicet dicta
+opinio.
+6. Sed nihilominus haec sententia mihi non probatur, 6. But, nevertheless, this view is not accepted by me, just as it is also The stated
+opinion is
+displeasing.
+sicut neque aliis Theologis dicta dist. 41. praesertim Aegidio not accepted by other theologians in the mentioned dist. 41, especially
+q. 1. art. 2. et Scoto q. 1. et Quodlibeto 17. art. 2. nec Bonaven- Aegidius, q. 1, art. 2, and Scotus, q. 1 and Quodlibet 17, art. 2. Nor do
+tura et Gabriel aperte contradicunt, sed confuse loquuntur Bonaventure and Gabriel clearly contradict it, but they speak confusedly
+95 de relatione virtuali, quod in Caietano et aliis auctoribus no- 95R about a virtual relation, which should be noted in Cajetan and other
+Impugnatur. tandum est. Probatur autem illam relationem non sufficere, authors. But it is shown that that relation does not suffice since it is It is attacked.
+85 prius se ] prius per se V
+
+-- 3 of 8 --
+
+Suárez, DBM VI, sect. 5 4
+quia aliud est relationem in finem obiective cadere in aliqua one thing for a relation to an end to fall objectively on some actions
+opera, aliud effective, seu imperative; illa autem relatio, quae but another to fall effectively or imperatively. But that relation which
+praecessit, quamvis cadat obiective in sequentia opera, non preceded, although it falls objectively on subsequent actions, does not
+100 sufficit, quia fieri potest, ut omnia illa respiciat, ut materiale 100R suffice because it can happen that it respects all things as material object,
+obiectum, ut cum aliquis in principio dici aut vitae opera as when someone in the beginning is said to refer all the actions of life
+illius temporis refert in Deum; tamen hoc non est satis, ut or of that time to God. Nevertheless, this is not enough so that such
+talia opera sint effective, seu imperative ab illa relatione, quia actions are effectively or imperatively from that relation, because for the
+ad priorem respectum sufficit, quod illa opera aliquo modo former respect it is enough that those actions in some way are represented
+105 repraesententur obiective in intellectu, quando fit illa relatio, 105R objectively in the intellect when that relation happened. But for the latter
+ad posteriorem autem oportet, ut quando fit ipsum opus, ad it is necessary that when the action itself takes place the one acting is in
+illud excitetur operans aliquo modo ex vi illius relationis, quia some way excited to it by the force of that relation because of efficiency.
+efficientia, neque potest intelligi sine aliquo influxu; hic autem Nor can it be understood without some influx. But this entire influx
+totus influxus consistit in hac excitatione, seu applicatione ad consists in this excitation or application to action. But in order for the
+110 opus: ut autem intentio det operi bonitatem aliquam, non 110R intention to give some goodness to the action, a habitude to something
+sufficit habitudo ad aliud, ut ad obiectum, ut per se notum else as to an object does not suffice, as is notum per se, since an act neither
+est, quia actus nec physice, nec moraliter informat obiectum, physically nor morally informs an object as object, but rather conversely.
+ut obiectum, sed potius e contrario; unde etiam alienos ac- Hence, we can refer even alien acts to God and have them respect him as
+tus possumus, ut obiectum respicere, et referre in Deum, et an object and they do not thereby receive goodness. Therefore, a causal
+115 non inde accipiunt bonitatem; requiritur ergo causalis relatio, 115R relation is required which is in some way in the mode of a command.
+quae aliquo modo sit per modum imperii: actus autem, qui But an act which entirely precedes and remains neither in act nor in
+praecessit omnino, et neque in actu, neque in memoria, neque memory nor in some other similar way in no way concurs causally with
+alio simili modo manet, nullo modo concurrit causaliter, ad the present act; rather, the human being acts just as if he in no way had
+praesentem actum, sed ita operatur homo, ac si nullo modo had it. Therefore, the present action has no goodness from that previous
+120 illum habuisset; ergo <370> ex illa relatione praeterita nul- 120R relation. And this is confirmed by the common example of him who Confirmation.
+Confirmatur. lam bonitatem habet praesens actio. Atque hoc confirmat referred all his actions to some corrupt end, e.g., to an idol, since it is not
+vulgatum exemplum de eo, qui retulit omnia opera sua in necessarily the case that the badness of that relation overflows to all his
+pravum aliquem finem, ut in idolum, quia non est necesse subsequent actions, even if it was not retracted.
+malitiam illius relationis redundare in omnia opera sequentia,
+125 etiamsi retractata non sit.
+4. Opinio de
+relatione actuali.
+7. Propter haec, est quarta sententia, quae requirit ac- 7. On account of this, there is a fourth view which requires for this The fourth
+opinion
+concerning an
+actual relation.
+tualem relationem ad hanc bonitatem per formalem inten- 125R goodness an actual relation through a formal intention or commanded
+tionem, vel actum imperatum, quam significat Durandus in act. Durandus indicates this view in Sent. II, dist. 40, q. 2, n. 7 and 11,
+2. dist. 40. q. 2. n. 7. et 11. quanquam non satis rem explicet. although he does not explain the matter sufficiently. But it is proven Its proof.
+130	Eius probatio. Probatur autem, quia secluso actu, et relatione praeterita, ac since, having set aside the act, past relation, and the habit itself, nothing
+Enervatur haec
+probatio.
+ipso habitu, nihil remanet, quod possit sufficere. Dices sat remains that can suffice. You may say that some force remaining from This proof is
+weakened.	esse virtutem aliquam ex priori actu relictam, sed inquiro, 130R a previous act is enough, but I ask what this force is. For either it is
+101 dici ] Dei V
+123 idolum ] dolum V
+
+-- 4 of 8 --
+
+Suárez, DBM VI, sect. 5 5
+quid sit illa virtus, aut enim est aliquid in voluntate, vel in something in the will or something in the intellect. It is not the first since
+intellectu; non primum, quia in voluntate tantum sunt aut anything in the will is either a habit or an act. But it is not a habit, as was
+135 habitus, aut actus; sed non est habitus, ut dictum est: si autem said. But if it is an act, it will be an actual relation rather than a virtual
+est actus, erit actualis, et non virtualis relatio, atque eodem relation. And by the same argument it can be proven that it is not in the
+argumento probari potest non esse in intellectu, quia neque 135R intellect, since it cannot be either a habit or an act, especially since this
+potest esse habitus, neque actus, praesertim, quia haec virtus force must move the will with respect to exercise on the part of its own
+debet movere voluntatem quoad exercitium ex parte ipsius power. But the intellect never moves [something] except on the part of
+140 potentiae: intellectus autem nunquam movet nisi ex parte the object with respect to specification.
+obiecti quoad specificationem.
+5. Opinio
+auctoris de
+relatione virtuali.
+8. Nihilominus dicendum est sufficere relationem vir- 8. Nevertheless, it should be said that a virtual relation resulting The fifth, and the
+author’s, opinion
+concerning the
+virtual relation.
+tualem ex vi intensionis, seu imperii relicti; et virtute per- 140R from the force of an aiming or of a remaining command and from the
+manentis, ut ex fine habeat operatio humana aliquam moral- force of something remaining is enough so that a human action has some
+145 itatem, et laudabilitatem; est enim haec expressa sententia morality and praiseworthiness from an end. For this is the express view
+D. Thomae 3. Summae contra gentiles cap. 138. rat. [8]. ubi of St. Thomas in SCG III, cap. 138, rat. 8, where he says: ‘The willing
+dicit. Voluntas praecedens actum virtute manet in tota consecu- preceding the act remains virtually in the entire performance of the act
+tione actus, et ipsum laudabilem reddit etiam cum de proposito 145R and the same praiseworthiness is rendered even when the proposed thing
+voluntatis propter quod, actus incepit in executione operis non of the will for the sake of which the action was begun is not thought
+150 cogitatur; idem q. 2. De malo art. 8. arg. 11. cum solutione, et about in the execution of the action.’ [He says] the same thing in De
+q. 2 De virtutibus art. 11. ad 2. et sumitur etiam ex 2. 2. q. 83. malo, q. 2, art. 8, arg. 11, with the solution; De virtutibus, q. 2, art. 11, ad
+art. 13. Ubi agens de [oratione] dicit posse [impetrationem] 2; and it is also taken from IIaIIae.83.13, where in talking about prayer
+esse, et meritoriam sine intentione actuali, quando fit sine 150R he says that there can be entreaty and merit without an actual intention
+culpa, et revera Bonaventura, Gabriel, Aegidius, et fere alii when it happens without sin. And, in reality, Bonaventure, Gabriel,
+155 antiqui Scholastici hoc in sensu loquuntur. Aegidius, and most of the other old scholastics speak in this sense.
+Probatur hanc
+relationem esse
+frequentem.
+9. Ratio autem est, quia imprimis negari non potest, quin 9. Moreover, the reason is that, first of all, it cannot be denied but It is shown that
+this relation is
+frequent.
+hic modus operandi non solum sit homini possibilis, etiam that this mode of acting not only is possible for a human being but that
+valde frequens, sic enim mercenarius tota die dicitur operari 155R it occurs very frequently. For in this way a labourer is said to work all
+pro mercede, et si non semper cogitet de mer- <col. b> cede; day for his wages even if he does not always think about his wages and he
+160 et qui iter agit, vere dicitur deambulare, ut ad terminum viae who goes on a journey is truly said to walk in order to arrive at the end of
+perveniat. Similiter in materia de Sacramentis nihil est certius, the way. Similarly, in the case of the sacraments nothing is more certain
+quam intentionem virtualem sufficere ad conficiendum Sacra- than that a virtual intention suffices for consecrating the sacrament even
+mentum, etiamsi formalis non adsit. Item quia quando unus 160R if no formal intention is present.6 Also, because when one human being
+homo per alium operatur, praebendo illi suum consensum, acts through another by having given a consent and mandate to him, as
+165 et mandatum, quamdiu non retractat dicitur virtute operari, long as he does not retract it, he is said to do virtually whatever the other
+quidquid alius operatur, quia virtus prioris consensus cense- one does, because the force of the former consent is thought to remain in
+6Cf. De sacramentis in genere 13.3.
+146 8 ] 3 AV
+152 oratione ] ratione AV
+152 impetrationem ] imperatoriam AV
+
+-- 5 of 8 --
+
+Suárez, DBM VI, sect. 5 6
+tur manere in scriptura, vel mandato; sic ergo fieri potest in the writing or mandate. The same thing can be true in those cases where
+his, quae homo per seipsum operatur ex vi prioris consensus. 165R a human being acts through himself by the force of a former consent. In
+Praeterea est huius rei argumentum quod homo operetur ex addition, there is the argument about this matter that a human being acts
+170 vi prioris intentionis, quia statim, ac illam mutat, cessat ab by the force of a former intention because [otherwise] he immediately
+operando; ergo signum est operari ex aliquo influxu praece- ceases from acting and changes it. Therefore, this is evidence that he acts
+dentis voluntatis: quo modo autem hoc sit possibile, statim from some influx from the preceding willing. Moreover, I will explain at
+explicabo. 170R once how this is possible.
+Deinde probatur
+sufficere.
+Primo.
+10. Quod autem hic modus operandi sufficiat ad dictam 10. Moreover, that this way of acting is sufficient for the morality Next, it is proven
+to suffice. First.	175 moralitatem patet imprimis ex communi sentiendi modo om- under consideration is clear, first of all, from everyone’s common way
+nium hominum, et quia plus ab homine exigere est plusquam of thinking and because to demand more from a human being is more
+Secundo. humanum. Item quia longe diverso modo moraliter operatur, than human. Also, because someone who from a fine (honesta) intention Second.
+qui ex intentione honesta se applicuit ad opus de se indifferens, 175R applied himself to an action of itself indifferent and afterwards perseveres
+et postea in illo perseverat cessante actuali cogitatione illius fi- in it although ceasing from actual thought about that end acts morally
+180 nis, quam alius, qui per voluntatem omnino indifferentem ad in a very different way than someone else who applies himself to the
+idem opus se applicuit, nam hic saepe censebitur otiose loqui, same work through a willing that is wholly indifferent. For the latter
+Tertio. et operari, ille autem studiose, ut homo. Denique ad hanc will often be thought to speak and act idly, but the former ardently, as
+denominationem sufficit dependentia moralis, et causalitas 180R a human being. Finally, moral dependence and the causality of one act Third.
+unius actus ab alio, ut dictum est: haec autem tunc intercedit from another suffices for this denomination, as was said. But this then
+185 mediate, vel immediate, quia operatio vere procedit aliquo intercedes mediately or immediately, since the action truly proceeds in
+modo ex influxu prioris intentionis; unde etiam refertur ali- some way from the influx of the prior intention. Hence, it is also referred
+qualiter in finem eius, et ex hac parte habet aliquam bonam in some way to its end and has some good circumstance from this side—
+circumstantiam, scilicet finis, quae sufficit ad praedictam de- 185R namely, from the end—which is sufficient for the denomination under
+nominationem, si aliunde nulla sit malitia. discussion if there is no badness from another source.
+190	1. Modus
+explicandi
+relationem
+virtualem.
+11. Ut autem ad difficultatem propositam in n. 7. re- 11. But with respect to the difficulty proposed in n. 7, it is responded The first way of
+explaining the
+virtual relation.
+spondeatur, addendum est tribus modis posse accidere, et that it should be added that this relation can occur and be applied in three
+applicari hanc relationem. Primus est si duret idem numero ways. First: if numerically the same commanded act endures and the
+actus imperatus, et actus interior imperans interruptus sit, ut, 190R commanding interior act is interrupted, as, for example, in a case of vocal
+verbi gratia, in oratione vocali, si quis coepit orare intentione prayer, if someone begins to pray with the intention of satisfying a precept
+195 implendi praeceptum, et in discursu orationis naturaliter dis- and in the course of the prayer is naturally distracted, he, nevertheless,
+trahitur; nihilominus implet praeceptum, et tota illa oratio satisfies the precept and that whole prayer is said to be virtually by the
+dicitur esse virtute a priori intentione, cuius virtus manet in prior intention the force of which remains in the work itself. And an
+ipso opere; et potentia exequens semper manet applicata ex 195R executing power always remains applied by the force of that former
+vi illius prioris intentionis, sive haec applicatio consistat in intention, whether this application consists in act of an exterior power
+200 sola actione exterioris po- <371> tentiae, sive etiam in aliquo alone or also in some interior use of the will and consequently also with
+interiori usu voluntatis, et consequenter in aliqua etiam at- some attention of the intellect although so plain and diminished that it is
+178 qui ] quia V
+186 etiam ] om. V
+193 ut ] om. V
+194 coepit ] caepit A
+
+-- 6 of 8 --
+
+Suárez, DBM VI, sect. 5 7
+tentione intellectus, quamvis adeo simplici, et remissa, ut imperceptible. For a human being often attends in such a way and yet
+sit imperceptibilis, sic enim saepe homo attendit, et tamen 200R afterwards if he reflects he cannot judge or recognize that he did attend.
+si postea reflectatur, non potest iudicare, nec cognoscere se
+205 attendisse.
+2. Modus. 12. Secundus modus est, quando est varietas in ipsis ac- 12. The second way is when there is variety in the actions themselves Second way.
+tionibus, et in voluntatibus etiam, seu electionibus, tamen and even in the willings or elections, yet without a complete cessation
+sine totali cessatione, sed immediate transeundo ab una elec- but immediately passing from one election or intention to another, as
+tione, seu intentione ad aliam, ut quando aliquis intentione when someone with the intention of speaking the sacred rites prepares
+210 dicendi sacrum, se praeparat, domo exit, incipit indui, etc. 205R himself, leaves the house, begins to dress, etc. And in this case, also, it is
+Et tunc etiam est facile intelligere quomodo maneat virtus easy to understand how the force of the prior intention remains. For it
+prioris intentionis; manet enim in proxima voluntate, seu remains in the proximate willing or election and through that commands
+electione, et per illam imperat aliam, et sic consequenter, et another and so on further on. And I explained these two ways in more
+hos duos modos explicui latius in materia de Sacramentis. detail in the material on the sacraments.
+215	3. Modus. 13. Tertius videtur difficilior, quando omnino interrump- 210R 13. The third way seems more difficult, when the formal intention is Third way.
+itur formalis intentio, et omnis actus, vel voluntas ab illo entirely interrupted, as well as every act or willing that remains from it,
+manans, ut quando intercedit somnus, et postea incipit de- as when sleep intervenes and afterwards one begins to work anew. [This
+nuo operari, ut est vulgatum exemplum in eo, qui intentione is the case] in the standard example of him who with the intention of
+implendi votum, multis diebus peregrinatur; qui tamen non fulfilling a vow travels for many days, yet does not stay awake at every
+220 quotiescumque evigilat, recordatur voti sui, nec repetit inten- 215R moment, nor call to mind his vow, nor repeat the intention to fulfill it.
+tionem implendi illud, et in hoc casu, et similibus existimo And in this case and other similar cases, I think that the force from the
+virtutem prioris intentionis applicari media apprehensione, prior intention is applied by means of an apprehension and judgement of
+et iudicio intellectus, nam in praedicto casu statim, ac homo the intellect. For in the case under discussion, he immediately as soon
+evigilat, apprehendit, et iudicat sibi esse inter agendum, neque as he is awake apprehends and judges to himself that he is in the middle
+225 inquirit rationem bonitatis, aut convenientiae, sed ex vi pri- 220R of something to be done. Nor does he inquire into the nature of the
+oris deliberationis iudicat hoc sibi expedire, et esse agendum, goodness or agreeability, but from the force of the prior deliberation he
+et inde statim movetur ad electiones, vel actiones, quae statim decides to accomplish the thing to be done. And thereupon he immedi-
+occurrunt, et tunc merito dicitur operari virtute prioris inten- ately is moved to elections or actions, which occur at once. And then he
+tionis, quia tota efficacia inde oritur, nam licet intellectus ex is rightly said to act by the force of the former intention, because all the
+230 se non possit voluntatem movere nisi obiective, et quoad spec- 225R efficacy stems from it. For although the intellect of itself cannot move
+ificationem; tamen virtute prioris voluntatis potest movere the will except objectively and with respect to specification, nevertheless,
+efficaciter, et quoad exercitium; haec autem motio tanto erit by the force of a prior willing it can move efficaciously and with respect
+melior, et moraliter laudabilior, quanto in obiecto, seu actu to exercise. But this motion will be so much the better and morally more
+proposito considerata, vel iudicata fuerit aliqua ratio boni praiseworthy, as there was considered or judged to be some greater aspect
+235 magis accedens ad bonitatem prioris intentionis, fieri enim 230R of good added to the goodness of the prior intention in the proposed
+interdum potest, ut illa prima apprehensio, per quam incipit object or action. For sometimes it can happen that that first apprehension
+progredi in opere interrupto, sit tantum de aliquo obiecto through which he begins to proceed to some interrupted work is only
+203 imperceptibilis ] interceptibilis V
+235 accedens ] accidens V
+
+-- 7 of 8 --
+
+Suárez, DBM VI, sect. 5 8
+agendo sub communi ratione convenientis, aut expedientis, about some object in acting under a general ratio of agreeability or procur-
+seu iam deliberati, vel simpliciter agendi, et tunc formalis in- ability or of already having been deliberated or simply of something to
+240 tentio est valde indifferens intrinsece, solumque per <col. b> 235R be done, and then the formal intention is entirely indifferent intrinsically
+denominationem extrinsecam potest ita bona denominari, ut and it can thus be denominated good only through an extrinsic denomi-
+neque censeatur otiosa, interdum vero potest illud primum nation so that it is not thought idle. But sometimes that first object can
+obiectum repraesentari saltem, ut honestum, vel prudenter be represented at least as fine or prudently deliberated or under another
+deliberatum, aut sub alia ratione magis speciali, scilicet, ut more particular aspect, namely, as belonging to the worship of God or
+245 pertinens ad cultum Dei, vel quid simile, et tunc intrinsece 240R something similar. And then it will intrinsically have some goodness
+habebit aliquam bonitatem non ex fine, sed ex obiecto, quod not from the end but from the object which actually is proposed. But
+actu proponitur; per denominationem autem ex fine habebit through the denomination from the end it will have the species belonging
+speciem ad illum pertinentem, quale est implere votum, vel to it (what sort of vow to fulfill or something similar). And in this way
+quid simile, et ita satis responsum est ad difficultatem positam there is a sufficient response to the difficulty posed in n. 7.
+250 in n. 7.
+
+-- 8 of 8 --

@@ -1,0 +1,260 @@
+Last revision: January 5, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 4, SECT. 11
+© Sydney Penner 2011
+<39>2
+De beatitudine in communi; an sit, at quid sit. Concerning happiness in general: whether it is and what it is.
+Beatitudo hominis re ipsa idem est cum ultimo fine cum solum The happiness of a human being is the same thing as his ultimate end,
+differre videantur, quod sub nomine finis indicat formalem ra- since they only seem to differ because the formal nature of a cause is
+tionem causæ: sub nomine autem beatitudinis solum dicit ra- indicated by the name ‘end’ while the nature of perfect and consum-
+5 tionem boni perfecti et consummati: unde Deus dicitur habere 5R mate good is expressed by the name ‘happiness’. This is why God is
+beatitudinem perfectam, quamvis non habeat proprie ultimum said to have perfect happiness even though he does not properly have
+finem: in homine vero quia beatitudo est res ab ipso distincta, an ultimate end. But because in the case of a human being happiness
+quæ illam movet ad sui amorem, et inquisitionem propter seip- is something distinct him that moves him to love it and to search for it
+sam et reliqua omnia in ipsam ordinando ut in bonum perfec- for its own sake and with all remaining things ordered to it as to a per-
+10 tum, sicut Aristoteles dixit 1, Ethic., cap. 4, ideo beatitudo ha- 10R fect good (as Aristotle says in EN I, c. 4), therefore happiness has the
+bet rationem finis. Atque ob hanc causam, postquam dictum nature of an end. And for this reason, after one has spoken about the
+est de communi ratione et causalitate finis ultimi, oportet in- general nature and causality of the ultimate end, one ought to inquire
+quirere, quid sit finis ultimus, seu quæ sit vera hominis beat- into what the ultimate end is or what true happiness for a human being
+itudo: de qua tria potissimum disputantur: Quid sit? Quæ is. Three matters are especially disputed concerning this: What is it?
+15 perfectiones illam consequantur? Et quomodo appetatur, vel 15R What perfections follow it? And in what way is it desired or acquired?
+comparetur? Antequam vero ad hæc accedam, oportet de signi- But before I will approach these matters, I should first talk a little about
+ficatione vocis, et de quæstione, an sit beatitudo, pauca præmit- the signification of the word and of the question whether there is such
+tere. a thing as happiness.
+SECTIO I. SECTION I.
+Quæ sit communis ratio beatitudinis, et propria hujus vocis signi- What the general ratio of happiness is and what the proper signification of
+ficatio. the word is.
+Quorumdam
+non
+contemnenda
+acceptio duplex
+beatitudinis.
+1. Hæc quæstio est prima <col. b> omnium, juxta Aris- 1. This question is the first of all those whose matter—according to Of those not
+shunned,
+‘happiness’ has
+two senses.
+5 totelem 1, Poster., cujus materia est maxime necessaria, ut 5R Aristotle in Post. I—is especially necessary in order for the disputation
+fixum ac certum scopum possit habere disputatio: nam ex de- to have a fixed and certain target. For it is a defect that the scholastics
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the
+1628 edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V =
+Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 6 --
+
+Suárez, De Fine Hominis, disp. 4, sect. 1 2
+fectu ejus, scholastici in hac re multiplicatis hujus nominis ac- in this matter turn many questions to a dispute over ways of speaking
+ceptionibus, plures quæstiones revocant ad disputationem de by multiplying the senses of this name. One can see this in Scotus, IV,
+modo loquendi, ut videre licet in Scoto, in 4, dist. 49, quæst. 3, dist. 49, qq. 3, 5 and 6; Durandus, qq. 4 and 6; Paludanus, q. 3; [John]
+10 5 et 6, et Durando, quæst. 4 et 6, Paludano, quæst. 3, Ma- 10R Maior, qq. 1 and 5; Ockham, IV, art. 4 of the last question; and Holkot,
+jore, quæst. 1 et 5, Ochamo, in 4, quæst. ult., art. 4, et Ol- q. 8, art. 2. Among these senses, other divisions about which I will
+choto, q. 8, articulo 2, apud quos, omissis aliis divisionibus, de speak in sect. 3 having been set aside for the moment, the more famous
+quibus dicam in sect. 3, illa est celebrior, quod beatitudo inter- sense is that ‘happiness’ sometimes is a collective name, signifying the
+dum est nomen collectivum, significant aggregatum omnium aggregate of all perfections of a human being. But sometimes it signifies
+15 perfectionum hominis; interdum vero significat simplicem per- 15R a single perfection, for example, a human being’s most perfect activity.
+fectionem, verbi gratia, perfectissimam hominis operationem. Others reject this distinction as serving no purpose and fashioned with-
+Quam distinctionem alii rejiciunt tanquam gratis, et sine fun- out foundation, because the name ‘happiness’ is univocal and so should
+damento confictam, quoniam beatitudo nomen univocum est, signify some one nature. But it cannot really be rejected because it has
+atque ita unam aliquam rationem significare debet. Sed revera a strong foundation both in the thing itself and in the use of the wise.
+20 non potest rejici, quia et in re ipsa, et in usu sapientum habet 20R But this should be properly and agreeably explained.
+magnum fundamentum; sed debet proprie et commode expli-
+cari.
+1. Beatitudinis
+acceptio ex
+sententia
+Auctoris.
+2. Primo ergo beatitudo significare potest statum quem- 2. First, therefore, happiness can signify a certain felicitous state,3 The 1st sense of
+‘happiness’ in the
+author’s view.
+dam felicem, in quo habebit homo plenitudinem bonorum et in which a human being has an abundance of goods and a full com-
+25 complementum suorum desideriorum, qui interdum in sacra plement of the things he desires, which in the sacred Scriptures is some-
+Scriptura nomine Regni cælorum appellatur Matth. 25: Ven- times designated by the name ‘kingdom of heaven’, e.g., in Matt. 25[:34]:
+ite, benedicti, accipite regnum: interdum nomine vitæ æternæ, 25R ‘Come, you who are blessed, receive the kingdom’.4 And sometimes by
+ibidem: Et ibunt hi in vitam æternam: interdum nomine glo- the name ‘eternal life’, e.g., in [Matt. 25:46]: ‘And these will enter into
+riæ, Et ita intrare in gloriam suam, Luc. 24. Atque hoc modo eternal life’.5 And sometimes by the name ‘glory’, e.g., in Luke 24[:26]:
+30 videtur definiisse beatitudinem Boetius, dicens: Est Beatitudo ‘And thus to enter into his glory’.6
+status omnium bonorum aggregatione perfectus. Sic etiam intel- And Boethius seems to define happiness in this way, saying: ‘Hap-
+ligi potest quod Augustinus dixit 15, de Trinit., cap. 5: Beatus 30R piness is a perfect state with an aggregation of all goods’. What Au-
+est qui habet omnia quæ vult; et quod dixit, libro I de libero gustine says can also be understood in this way: ‘Happy is he who has
+Arbitrio, cap. 13: Beate vivere, est bonis veris certisque gaud- everything that he wants’ (de Trin. XV, c. 5) and ‘To live happily is to
+35 ere. Sic Gregorius Nyssenus, lib. de Beatitud., in princ. : Beat- rejoice in true and certain goods’ (de lib. arb., I, c. 13). Likewise, Gre-
+itudo, inquit, est comprehensio quædam omnium earum rerum gory of Nyssa in the beginning of de Beatitud.: ‘Happiness’, he says, ‘is
+3I will use ‘felicitous’ for ‘felix’, although it’s not an entirely, well, felicitous translation, and reserve ‘happy’ for ‘beatus’ and ‘happiness’ for ‘beatitudo’.
+4Vulgate reads: ‘Tunc dicet rex his qui a dextris ejus erunt: Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi’.
+5Vulgate reads: ‘Et ibunt hi in supplicium æternum: justi autem in vitam æternam’.
+6Vulgate reads: ‘Nonne hæc oportuit pati Christum, et ita intrare in gloriam suam?’
+11 ult. ] om. V.
+13 3 ] 2 V.
+21 debet ] om. V.
+29 24 ] 23 A V.
+33 I ] om. V.
+
+-- 2 of 6 --
+
+Suárez, De Fine Hominis, disp. 4, sect. 1 3
+quæ in homine intelliguntur, a qua nihil abest eorum, quæ per- 35R a certain comprehension of all those things which are understood in a
+tinent ad bonorum desiderium, atque cupiditatem. Sic etiam human, by which none of those are absent which pertain to the desire
+D. Thomas 1, 2, quæst. 5, art. 3 et 4, dicit, beatitudinem and cupidity for goods’. Likewise, St. Thomas says in [ST ] IaIIæ.5.3
+40 esse perfectum, ac sufficiens bonum, omne malum excludens, et and 4 that happiness is a ‘perfect and sufficient good, excluding all bad
+omne desiderium implens. Sic denique videtur loqui interdum and satisfying every desire’. Finally, it seems that sometimes Aristotle
+de beatitudine Aristoteles dicens, bene vivere, et bene agere, et 40R speaks in this way concerning happiness, saying: ‘to live well and to do
+felicem esse, eadem esse putant omnes 1, Ethic., cap. 4. Et ra- well and to be felicitous are thought by everyone to be the same’ (EN I,
+tio adjungi potest supponendo hujusmodi statum esse possi- c. 4).
+45 bilem ho- <40> mini, et ad perfectam omni ex parte felic- And a reason can be added for supposing that this sort of state is
+itatem requiri: nam hic status concipitur per modum unius possible for humans and can require every part for perfect felicity. For
+completi et consummati boni: ergo potest una voce signifi- 45R this state is conceived in the mode of one complete and consummate
+cari. Quid ergo impedit quominus hac voce beatitudo vel fe- good. Therefore, it can be signified by one expression. What, there-
+licitas significetur, cum hæc sit accommodata, et nulla alia sit fore, stands in the way so that this expression ‘happiness’ or ‘felicity’
+50 ad hoc imposita. Et confirmatur, nam in homine solemus dis- does not signify, when this is suitable and no other expression has been
+tinguere beatitudinem animæ et beatitudinem corporis, et sic imposed for this? And it is confirmed for we are accustomed to dis-
+dicimus, Christum in via habuisse animæ beatitudinem, non 50R tinguishing between the happiness of the soul and the happiness of the
+tamen corporis, et sancti dicunt animas nunc esse beatas, non body in a human, and thus we say that Christ had happiness of the soul
+tamen habere beatitudinem omni ex parte completam: ergo in during his earthly life but not happiness of the body. And saintly souls
+55 his omnibus locutionibus supponitur beatitudinem uno modo are said to be happy now, but nevertheless not to have complete happi-
+significare hujusmodi statum omni ex parte perfectum. ness in every part. Therefore, in all these locutions it is assumed that
+55R ‘happiness’ in one way signifies this sort of state perfect in every part.
+2. Acceptio magis
+propria.
+3. Magis vero proprie juxta scholasticam consuetudinem 3. But according to scholastic custom happiness is usually more The 2nd sense is
+more proper.	accipi solet beatitudo prout significat summam quamdam per- properly taken as signifying a certain highest perfection of a human be-
+fectionem hominis, qua conjungitur optimo ac summo bono, ing, in which he is conjoined with his best and highest good or ultimate
+60 seu fini ultimo suo, quæ alio modo dici solet perfectissima ho- end, which in another way is usually said to be a human being’s most
+minis operatio, qua suum finem ultimum consequitur. Atque 60R perfect activity by which his ultimate end is acquired. And Aristotle
+hoc modo frequentius videtur loqui de beatitudine Aristoteles seems to speak more frequently in this way concerning happiness in
+1 et 10, Ethic., et D. Thomas 1, 2, quæst. 2, cum docet, beat- EN I and X, as well as St. Thomas in [ST ] IaIIæ.2, when he teaches that
+itudinem consistere in contemplatione, vel in optima opera- happiness consists in contemplation or in the best activity. But if other
+65 tione; si vero requirit alia bona ad statum beatificum, solum est goods are required for the beatific state, it is only insofar as they serve
+quatenus huic optimæ operationi deserviunt, ut aliquo modo 65R this best activity so that they in some way perfect the human being in
+perficiunt hominem in ordine ad illam. Atque hoc modo lo- relation to the best activity. And St. Thomas speaks more often in this
+quitur de beatitudine frequentius D. Thomas in hac materia, way concerning happiness in this matter and in all of q. 2, and when
+et tota quæst. 2, in 1, 2, et cum absentia beatitudinis excludit the absence of happiness excludes the remaining created goods besides
+70 cætera bona creata præter Deum, et quæst. 3, artic. 1 et 4, et God, and q. 3, art. 1 and 4 and often elsewhere when he teaches that
+sæpe alias cum docet beatitudinem consistere in adeptione seu 70R happiness consists in the attainment or possession of the highest good.
+possessione summi boni. Item eadem ratione dicunt sæpe et Likewise, for the same reason, both the holy Fathers and the
+sancti Patres et philosophi, hominem esse capacem beatitudinis philosophers often say that a human being is capable of the happiness
+
+-- 3 of 6 --
+
+Suárez, De Fine Hominis, disp. 4, sect. 1 4
+secundum animam, et non secundum corpus, si enim sit sermo of the soul and not of the happiness of the body, for if the discussion
+75 de collectione bonorum, hæc partim in anima, partim in cor- is about the collection of goods, these are found partly in the soul and
+pore reperiuntur: tamen loquendo proprie de beatitudine in 75R partly in the body. Nevertheless, speaking properly concerning happi-
+prædicta significatione pro adeptione ultimi finis, hæc in anima ness in the aforementioned signification as the attainment of the ulti-
+reperitur, ut postea dicemus, et ideo sancti in solis animabus mate end, this is found in the soul, as we will say later, and therefore
+dicuntur simpliciter beati, quamvis careant ex parte bonorum, the holy are called happy only in their souls, strictly speaking, how-
+80 quæ ad corpus pertinent: et similiter Christus in via fuit bea- ever much they may lack the goods which pertain to the body. And,
+tus propter beatitudinem animæ. Denique hac ratione dicitur 80R similarly, Christ was happy during his earthly life on account of the
+solus homo proprie capax beatitudinis, ut docuit Augustinus, happiness of the soul.
+lib. 83, Quæst., quæst. 5, et lib. 12, de Civit., cap. 1, nam si Finally, for this reason only a human being is properly called ca-
+sit sermo de statu perfecto, et de collectione omnium perfec- pable of happiness, as Augustine taught in Quæst. lib. 83, q. 5 and de
+85 tionum, quæ na- <col. b> turæ debentur, sic unaquæque res Civit. XII, c. 1. For if the discussion is about a perfect state and a col-
+juxta capacitatem suæ naturæ potest dici capax suæ felicitatis, si 85R lection of all the perfections owed to a nature, each thing can be called
+sit in statu perfecto juxta naturam suam; tamen quia beatitudo capable of its felicity according to the capacity of its nature, if it is in
+proprie significat, et requirit conjunctionem cum ultimo fine, the perfect state according to its nature. Nevertheless, because happi-
+attingendo illum aliquo modo in se per propriam operationem ness properly signifies and requires conjunction with the ultimate end
+90 creaturæ capacis beatitudinis, ideo sola creatura rationalis dici- by arriving at it in some way in itself through the proper activity of a
+tur capax beatitudinis simpliciter, quia illa sola est capax hujus 90R creature capable of happiness, for this reason only a rational creature is,
+operationis, in qua consistit beatitudinis essentia. strictly speaking, capable of happiness because only it is capable of this
+activity in which the essence of happiness consists.
+Ratio declarans
+hanc propriam
+acceptionem.
+4. Ratione denique ita potest hoc declarari, quia licet 4. This can, finally, be established by reason in this way: although A reason
+establishing this
+proper sense.
+ad statum perfectum beatitudinis multa concurrant, tamen many things concur for this perfect state of happiness, it is, neverthe-
+95 necesse est, ut inter illa aliquid sit summum, ad quod cætera 95R less, necessary that something among them is highest to which the re-
+referantur, vel ex eo tanquam ex primo fonte dimanent, aut maining are referred or from which they flow just as from a first spring
+in eo eminenter contineantur: quia non potest esse aggregatio or in which they are eminently contained. For there cannot be a perfect
+multorum perfecta, sine aliquo ordine multorum inter se: il- aggregate of many things without some order between the many things.
+lud ergo, quod est summum et perfectum in eo statu, dicitur Therefore, that which is the highest and perfect in that state is called the
+100 essentia beatitudinis: cætera vero sunt veluti proprietates aut 100R essence of happiness. But the others are, as it were, properties or acci-
+accidentia ejus. Vel aliter, quamvis multa bona reperiantur in dents of it. Or, to put it differently, although many goods are found
+beato, non tamen per omnia attingit suum supremum finem, in a happy [life], one does not, nevertheless, attain one’s supreme end
+aut illum consequitur: ergo non omnia æque pertinent ad beat- through all of them nor does it follow from all of them. Therefore, not
+itudinem, neque ad rationem ultimi finis: ergo beatitudo signi- all pertain equally to happiness nor to the nature of an ultimate end.
+105 ficat perfectionem ultimam ad quam cætera referuntur; merito 105R Therefore, happiness signifies the ultimate perfection to which the re-
+essentia beatitudinis non dicitur consistere in tota illa collec- maining things are referred. The essence of happiness is rightly not
+tione, sed in eo, quod est in illa supremum et ultimum: hoc said to consist in that entire collection, but in that which is supreme
+igitur proprie significare potest hæc vox beatitudo; atque hoc and ultimate among [the members of that collection]. The expression
+fere modo utemur illa in tota hac materia; statum vero beat- ‘happiness’, therefore, can properly signify this. And we will generally
+110 itudinis ad tollendam æquivocationem hoc modo semper ap- 110R use it in this way in this entire discussion. But in order to avoid equiv-
+
+-- 4 of 6 --
+
+Suárez, De Fine Hominis, disp. 4, sect. 1 5
+pellabimus, quamvis in eo statu possit esse latitudo, et in illo ocation we will always designate the state of happiness in this way, al-
+oporteat aliqua distinctione uti, quam opportuniori loco trade- though there can be latitude in that state and one should make some
+mus. distinction in it, which we will make in an opportune place.
+Beatitudo partim
+formalis, partim
+objectiva.
+5. Atque ex his sequitur primo, quod sicut supra agentes de 5. And from these things it follows, first, that just as we said above Happiness, partly
+formal, partly
+objective.
+115 fine diximus interdum finem significare rem, quæ intenditur: 115R when talking about the end that sometimes the end signifies the thing
+interdum vero consecutionem illius rei, ita in præsenti in beat- which is intended and sometimes the acquisition of that thing, so at
+itudine duo possunt considerari, aliud est res, qua vel quibus present two things can be considered in happiness: one is the thing by
+beatificamur, aliud est consecutio illius rei; illa vocatur objec- which or in which we are made happy and the other is the acquisition
+tum beatitudinis, seu beatitudo objectiva: hæc vocatur beat- of that thing. The former is called the object of happiness or objec-
+120 itudo formalis, seu per modum consecutionis: utraque vero 120R tive happiness; the latter is called formal happiness or happiness in the
+constituit unam beatitudinem, quia una sine altera beatificare mode of attainment. But both together constitute one happiness, be-
+non potest, sed utramque in suo genere concurrere necesse est. cause one without the other cannot make one happy, but it is necessary
+Descriptio
+integræ
+beatitudinis.
+Unde concludi potest formalis quædam, et generalis descrip- that both it their genus come together. Hence, a certain formal and A description of
+integrated
+happiness.
+tio beatitudinis, <41> saltem quoad quid nominis, est enim general description of happiness can be composed, at least insofar as
+125 consecutio ultimi, ac supremi boni, quod ab homine desiderari 125R the name is concerned: for it is the attainment of the most ultimate
+potest, et in quo cætera virtute continetur, seu ad illud referun- and supreme good that can be desired by a human and in which
+tur: quæ descriptio ex communi consensu omnium, qui de the remaining [goods] are virtually contained or to which they are
+beatitudine loquuntur, sumitur; et sacra Scripture etiam hac referred. This description is taken from the general consensus of every-
+ratione de beatitudine loquitur per modum possessionis, seu one who talks about happiness. And holy Scripture also for this reason
+130 consecutionis, Matth. 25, possidete regnum: 1, ad Corinth. 4: 130R talks about happiness in the mode of possession or attainment: ‘take
+Sic currite ut comprehendatis, ad Philip. 3: Sequor, si quo modo hold of the kingdom’ (Matt. 25[:34]),7 ‘Run so as to get [the prize]’
+comprehendam. Et ratio esse potest, quia beatitudo dicit ter- (1 Cor. 4[i.e., 9:24]),8 and ‘I press on, if in that way I may take hold’
+minum, quamdiu autem homo inquirit, non quiescit, termi- (Phil. 3).9 And the reason can be that happiness expresses a terminus.
+natur autem inquisitio ad acquisitionem: ergo necesse est ut As long as a human being searches, he does not rest, but his search is
+135 beatitudo in acquisitione consistat. Quod exemplo falsæ beat- 135R terminated by the attainment. Therefore, it is necessary that happiness
+itudinis declarari etiam potest, nam avarus, qui beatitudinem consists in attainment. It can also be shown by the example of false
+suam ponit in divitiis, non censet se beatam illas inquirendo, happiness, for the miser who places his happiness in wealth does not
+aut vendendo, sed obtinendo et possidendo; et idem de sim- consider himself happy in seeking wealth or in selling, but in obtaining
+ilibus. Idem ergo erit in vera beatitudine, quæ consistit in con- and possessing. And likewise for similar cases. Therefore, it will be the
+140 secutione veri ac supremi boni. Sic Gregorius Nyssenus expli- 140R same in true happiness, which consists in the acquisition of the true and
+cans sextam beatitudinem, Beati mundo corde. supreme good. Gregory of Nyssa explains the sixth beatitude—‘Happy
+Sed inquiret aliquis, quæ sit formalis ratio hujus consecu- are the pure in heart’ ([Matt. 5:8])—in this way.
+tionis. Respondetur nunc in communi solum dici posse consis- But if someone asks what the formal nature of this acquisition is, I
+tere in aliqua conjunctione hominis cum illo bono, quo beatif- respond that for the moment it can generally only be said to consist in
+7Vulgate: ‘Tunc dicet rex his qui a dextris ejus erunt: Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi’.
+8Vulgate: ‘Nescitis quod ii qui in stadio currunt, omnes quidem currunt, sed unus accipit bravium? Sic currite ut comprehendatis’.
+9Vulgate: ‘non quod jam acceperim, aut jam perfectus sim: sequor autem, si quomodo comprehendam in quo et comprehensus sum a Christo Jesu’.
+131 ut ] et V.
+
+-- 5 of 6 --
+
+Suárez, De Fine Hominis, disp. 4, sect. 1 6
+145 icandus est. An vero hæc conjunctio fiat per unionem, vel op- 145R some conjunction of a human being with that good by which he is to
+erationem, vel alio modo, pertinet ut ita dicam, ad materialem be made happy. But whether this conjunction happens through union
+rationem beatitudinis, quæ postea est a nobis explicanda: nam or action or in some other way pertains, if I may speak this way, to the
+ex formali ratione consecutionis, ut sic, illud proprie definiri material nature of happiness, which is to be explained by us later. For
+potest. Itaque videtur hæc ratio in hoc consistere, quod res, seu from the formal nature of attainment as such the former can properly
+150 bonum, ita possideatur ac teneatur, sicut appetitur et desider- 150R be defined. And so it seems that this nature consists in this, that the
+atur; nam cum hæc consecutio sit terminus desiderii, et sati- thing or good is seized and held just as it is sought and desired (appeti-
+etas ejus, tunc censetur res consecuta quando ita obtinetur si- tur et desideratur). For when this attainment is the terminus of a desire
+cut desideratur, quod videre licet in falsa beatitudine, nam qui and satisfies it, then the thing is considered to have been achieved when
+illam ponit in divitiis, eas assequitur per dominium et pos- it is obtained in the way that it is desired. One may see this in the case
+155 sessionem; qui vero in delectatione ciborum, habebit conse- 155R of false happiness, for he who places it in wealth pursues it through
+cutionem per sensum gustus et tactus, et sic de cæteris: ergo ownership and possession, but he who places it in the delight of food,
+sicut in falsa beatitudine, consecutio respondet pravo appeti- will have attainment through the senses of taste and touch, and so on
+tui, ita in vera beatitudine illa censetur vera consecutio quæ for the rest. Therefore, just as in false happiness attainment responds to
+terminat, et apta est satiare perfectum ac rectum appetitum a depraved desire, so in true happiness that is considered a true attain-
+160 veri, et summi boni; et quoniam hic appetitus est consenta- 160R ment which terminates and is apt to satisfy the perfect and right desire
+neus, et proportionatus fini, seu objecto suo, ideo consecutio for the true and highest good. And because this desire is fiiting and pro-
+illi respondens erit etiam proportionata tali objecto, atque adeo portionate to its end or object, the attainment corresponding to it will
+talis erit, qualis res illa, quæ summum bonum postulaverit, seu also be proportionate to such an object and will be just like the thing
+quatenus natura sua apta fuerit ut possideatur et <col. b> te- which the highest good demanded or insofar as its nature was apt for
+165 neatur; qualis autem in particulari sit, postea dicemus. 165R possessing and holding. What it is in particular, however, we will talk
+about later.
+
+-- 6 of 6 --

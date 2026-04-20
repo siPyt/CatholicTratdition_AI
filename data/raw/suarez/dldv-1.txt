@@ -1,0 +1,1702 @@
+Last revision: December 6, 2014	Francisco Suárez, S. J.
+DE LIBERTATE DIVINAE VOLUNTATIS, DISP. 11
+© Sydney Penner 2014
+<393>2
+1. Ut Theologica disputatio, et iucundior sit, et facilior, op- 1. So that this theological disputation is both more pleasing and eas-
+erae pretium duxi eam in testimonio Pauli fundare ad Eph- ier, I considered it worthwhile to start it with the testimony of Paul
+esios 1, ubi de Deo dicit operari omnia secundum consilium in Ephesians 1[:11], where he says of God that he works all things
+voluntatis suae. In duas igitur principales disputationes prae- “according to the counsel of his will.” Therefore, I divide the present
+5 sentem relectionem distribuam. In priori litteralem sensum 5R relection into two principal disputations. In the first I will attempt
+verborum Pauli attingere conabor, simulque nonnulla prin- to arrive at the literal sense of Paul’s words, while at the same time
+cipia fidei, et Theologicas conclusiones, quae in eis fundari indicating briefly some of the principles of the faith and theological
+possunt, breviter indicabo. In posteriori autem parte de re conclusions that can be grounded in them. But in the second part I
+proposita disputabo, veram eius decisionem ex verbis Pauli will dispute about the proposed matter, by drawing out a true resolu-
+10 eliciendo. 10R tion from the words of Paul.
+DISPUTATIO I. DISPUTATION I.
+De vero sensu illius sententiae Pauli; Deus operatur omnia se- On the true sense of Paul’s statement that God works all things according
+cundum consilium voluntatis suae. to the counsel of his will.
+In hac Apostoli sententia plura in Theologia fundari possunt, Many things in theology can be grounded in this statement from the
+15 si eius singula verba exacte expendantur, et verus illius sensus 15R Apostle if each of its words is accurately considered and if its true
+percipiatur. Et ideo prius litteralem eius sensum inquiremus: sense is perceived. For that reason we will first inquire into its literal
+deinde veritates ibi contentas indicabimus. sense and then we will point out the truths contained there.
+SECTIO I. SECTION I.
+Quid significaverit Paulus dicens, Deum operari omnia secun- What Paul signified in saying that God works all things according to the
+20 dum consilium voluntatis suae. 20R counsel of his will.
+1Latin text by and large follows the 1600 Mainz edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the
+Vivès edition for significant variations. I have not yet been able to check the first edition (Madrid, 1599). For recorded variants, B = 1600 edition and V = Vivès edition. Note
+that the Vivès edition does not have marginal notes; many, though not all, of the marginal notes from the 1600 edition are included in the Vivès edition as italicised text at the
+head of paragraphs.
+2Numbers in angle brackets indicate page numbers in volume 11 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+15 expendantur ] pendantur V.
+16 inquiremus ] inquirimus V.
+
+-- 1 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 2
+2. Ad priorem igitur partem deveniendo, <col. b> cum 2. Turning to the first part, then, Paul in Ephesians 1 gives thanks
+Paulus ad Ephesios 1 gratias Deo ageret pro beneficiis generi to God for the benefits bestowed on humankind through Christ and
+humano collatis, per Christum, et in Christo Domino nos- in Christ our Lord. Among these benefits, he numbers in the first
+tro; inter ea beneficia primo loco numerat electionem, et place the election and predestination of human beings. He says: “He
+25 praedestinationem hominum. Elegit (inquit) nos in ipso, 25R elects us in him [. . . ] and predestines us [. . . ] according to the plan
+et praedestinavit nos secundum propositum voluntatis suae. of his will” [Eph. 1:4–5]. And he then states the general mode and ex-
+Deinde vero ponit generalem modum et executionem huius ecution of this predestination, saying: “In whom we have redemption
+praedestinationis, dicens. In quo habemus redemptionem per through his blood [. . . ] that he might make known to us the mystery
+sanguinem eius, ut notum faceret nobis sacramentum voluntatis of his will” [Eph. 1:7, 9]. And finally he applies this general benefi-
+30 suae. Ac tandem hanc generalem Dei beneficentiam ad suam 30R cence of God to his individual calling and predestination, saying: “In
+singularem vocationem, et praedestinationem accommodat, whom we also were called, having been predestined according to the
+dicens: In quo et nos sorte vocati sumus, praedestinati secun- purpose of him who works all things according to the counsel of his
+dum propositum eius, qui operatur omnia secundum consilium will” [Eph. 1:11]. We cannot digress to explain every mystery that
+voluntatis suae. Non possumus autem nunc digredi ad expli- is contained in this discussion from Paul, both because it would be
+35 canda omnia mysteria, quae in hoc discursu Pauli continen- 35R impossible to cover everything in a short time and because it would
+tur; tum quia impossibile esset brevi tempore omnia com- be irrelevant to our present intention. For we intend only to explain
+plecti; tum quia etiam esset a praesenti instituto alienum, the freedom that the divine will has in acting and to explain its root,
+solum enim explicare intendimus libertatem, quam divina which Paul also says is the origin of the election, predestination, and
+voluntas habet in operando eiusque radicem, quam Paulus salvation of all of us and yet according to the counsel of his will. And
+40 etiam ait esse originem electionis, praedestinationis, et salutis 40R for this reason I will only explain what it is for God to act according
+omnium nostrum, iuxta consilium tamen voluntatis suae. to the counsel of his will, or what St. Paul wished to teach us once
+Atque ideo solum explicabo, quid sit Deum operari omnia these words are understood exactly (ad litteram).
+secundum consilium voluntatis suae: quidve D. Paulus his
+verbis ad litteram intellectis nos docere voluerit. <394>
+45 Ratio difficultatis. The reason for the difficulty.
+3. Quamvis autem interpretes omnes nullam de hac re du- 3. But even though all interpreters expound concerning this passage
+bitationem proponant, non caret tamen difficultate, nec ex- 45R without any doubt, it, nevertheless, does not lack difficulty or variety
+positionum varietate. Est autem difficultatis ratio, quia con- in exposition. The reason for the difficulty is that counsel is not an act
+silium non est actus voluntatis, sed rationis, ut D. Thomas of will but an act of reason, as St. Thomas teaches in ST IaIIae.14.1, fol-
+50 tradidit 1. 2. q. 14. art. 1. ex Aristotele 3 Ethicorum ad Nico- lowing Aristotle, Nicomachean Ethics 3.3, Gregory of Nyssa, On Phi-
+macheam cap. 3. et Gregorio Nisseno lib. 5. De philosophia losophy 5.4–5. From where Cicero also says in De inventione [1.36]:
+cap. 4. et 5. Unde etiam Cicero, lib. De inventione dixit: 50R “Counsel is a reasoned plan for doing or not doing something.” So
+Consilium est aliquid faciendi, non faciendive excogitata ra- why does Paul attribute counsel to the will? Or what is it for God to
+tio. Quomodo ergo Paulus consilium voluntati attribuit? Aut act according to the counsel of his will? Furthermore, two respects or
+55 quid est Deum operari omnia secundum consilium voluntatis relations can be indicated when someone is said to act in accordance
+suae? Praeterea duplex respectus vel habitudo indicari potest, with the counsel of his mind: namely, the respect of giving counsel
+
+-- 2 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 3
+cum dicitur quispiam operari secundum consilium animi sui: 55R or the respect of receiving counsel. Thus, then, when God is said to
+scilicet respectus dantis vel accipientis consilium: sic ergo, act in accordance with the counsel of his will, it is not clear which of
+cum Deus dicitur operari omnia secundum consilium vol- these respects is being indicated. For if the respect of giving [counsel]
+60 untatis suae, dubium est quis horum respectuum denotetur: is indicated, the difficulty is to explain in what way it pertains to the
+nam, si indicatur respectus dantis, difficile est ad explicandum will to give the counsel according to which God acts. But if what is
+quomodo ad voluntatem pertineat dare consilium, secundum 60R being noted is the respect of receiving [counsel] or the counsel of that
+quod Deus operatur: si vero notetur respectus accipientis, to which it is given, then the primary root and source of all the divine
+seu eius cui consilium datur, sic non divina voluntas, sed di- works and benefits bestowed on us will be not the divine will but the
+65 vinum consilium erit prima radix, et origo divinorum ope- divine counsel. But that is not consistent with what Paul says in that
+rum, ac beneficiorum quae nobis confert. Hoc autem neque very passage: the divine plan and election are in this way the original
+est consentaneum Paulo ibidem dicenti; divinum propositum 65R source of every good. But these belong to the will. Nor does it seem
+et electionem esse huiusmodi radicalem originem bonorum that the freedom of the divine will could consist in any other notion.
+omnium: haec autem ad voluntatem pertinent: neque etiam
+70 divinae voluntatis libertas alia ratione videtur posse consis-
+tere.
+Prima expositio. The first exposition.
+4. Tres igitur in hac re excogitari possunt interpretationes. 4. Three interpretations, then, can be devised in this matter. The first
+Prima est, ut Deus dicatur operari omnia secundum consil- is that when God is said to act according to the counsel of his will this
+ium voluntatis suae, id est, a nullo alio consilium accipiendo, means that he is not accepting counsel from anyone else and is not
+5 vel nullum alium consulendo ad hoc vel illud operandum, 5R counseling anything other than his will to do this or that. This is the
+nisi voluntatem suam. Iuxta quem sensum explicatur illis sense in which these words “the highest freedom and the supreme do-
+verbis summa libertas, et supremum dominium divinae vol- minion of the divine will,” which has no superior rule that it respects
+untatis, quae nullam habet superiorem regulam, quam respi- in order to act rightly but is itself its first rule and first reason for act-
+ciat, ut recte operetur, sed ipsa per seipsam est prima regula, ing, are explained. This exposition can be shown by the usual and
+10 et prima ratio operandi. Potestque haec expositio ex com- 10R common way of speaking, for in order to signify that some human
+muni, et vulgari loquendi modo declarari: <col. b> nam ad being follows his desire in his actions, we say that he acts according
+significandum aliquem hominem in suis actionibus sequi ap- to the cousel of his appetite, namely, because he respects it so much
+petitum suum, dicimus eum operari secundum consilium sui that he would grant whatever it asked for. In this way, therefore, God
+appetitus; scilicet quia ad illum tantum respicit, ut quidquid is said to do all things according to the counsel of his will because
+15 expetierit, ei concedat. Sic ergo Deus dicetur omnia operari, 15R he always pursues what his will desires nor does he accept counsel
+secundum consilium voluntatis suae, quia semper exequitur from anywhere else. Anselm indicates this interpretation of the pas- Anselm.
+quod voluntas appetit, neque aliunde consilium accipit. Et sage from Paul, saying: “The counsel by which God does all things is
+Anselmus. hanc interpretationem indicat Anselmus super locum Pauli his will, that is, not something external, for he does not accept coun-
+dicens: Consilium, quo Deus facit omnia, est voluntatis suae, id sel from anything other than his will.”3 Augustine also indicates the Augustine.
+20 est, non extraneum: quia non ab alio accepit consilium, nisi 20R same thing in the second book of Hypognosticon, ch. 6: “Can it be that
+3The commentary on Ephesians is ascribed to Herveus of Bordeaux in Patrologia latina 181:1213.
+
+-- 3 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 4
+Augustinus. a sua voluntate. Eam etiam indicat Augustinus lib. 6. Hy- he establishes as meritorious [according to the counsel] of my will or
+pognosticon cap. 6. Numquid (ait) voluntatis meae, vel tuae, your will or the will of someone else? Surely nothing but according to
+aut alterius, ut meritis constet? Absit sed suae; quia nimirum his will. For without doubt he takes counsel only from his own will.”
+suam tantum consulit voluntatem. Itaque verba Pauli secun- So therefore according to this exposition the words of Paul should be
+25 dum hanc expositionem, intransitive (ut sic dicam) erunt in- 25R interpreted intransitively (if I may call it that), namely: “according to
+terpretanda; nimirum: Secundum consilium voluntatis suae, the counsel of his will,” that is, according to counsel, which is his will.
+id est, secundum consilium, quod est voluntas sua. Favet Anselm also favours the same interpretation in Proslogion ch. 11, inso-
+etiam Anselmus in Prosologio cap. 11. quatenus ad Deum lo- far as when he is speaking to God he says: “That alone which you will
+quens, ait: Id solum iustum est quod vis. Favet etiam Iusti- is just.” Justin also favours this view in the third question proposed Justin.
+30	Iustinus. nus in q. 3. a Christianis gentibus proposita, ubi nihil dis- 30R by the Christians, where he thinks that there is nothing to distinguish
+tinguendum censet inter consilium et voluntatem divinam; between counsel and will in the divine case and seems to say the same
+et videtur loqui etiam secundum rationem nostram. Neque thing about our reason. Nor should that seem surprising, for as John
+Damascenus. id mirum videri debet: nam, teste Damasceno lib. 2. De fide of Damascus testifies in the second book of On Faith, ch. 22, prop- John of
+Damascus.	cap. 22. consilium proprie dictum, non est in Deo, nam con- erly speaking there is no counsel in God, for counsel arises in cases of
+35 silium ex ignorantia nascitur. Deus igitur (inquit) omnia sim- 35R ignorance. God therefore, he says, since he knows everything with-
+pliciter sciens, non consultat. Necesse est ergo, ut Paulus voce out qualification does not ask for counsel. It is necessary, therefore,
+Consilii, non proprie, sed secundum metaphoram utatur. Ac that Paul uses the word ‘counsel’ not strictly but metaphorically. And
+propterea recte secundum eam metaphoram significata intel- for this reason the significate is, according to that metaphor, rightly
+ligitur voluntas Dei, quam divina operatio subsequitur; sicut understood to be the will of God, which is immediately followed by
+40	Tullius lib. De
+rhetorica.
+in prudente homine, ut alibi dixit Cicero; consilia primum 40R divine activity. This is just as in the case of a prudent human being,
+praecedunt; deinde acta postea eventus. as Cicero says in [On Oratory 2.15]: “counsels come first, then the Cicero, On
+Oratory.	actions, and afterwards the results.”
+Reiicitur. It is rejected.
+5. Sed nihilominus expositio haec probanda non est: im- 5. But this exposition, nevertheless, is not established, for, in the first
+primis enim nimis metaphorice consilii nomen interpretatur: place, the word ‘counsel’ is interpreted far too metaphorically. As
+D. Thomas. ut enim recte notavit D. Thomas 1. 2. q. 14. art. 1. ad secun- St. Thomas rightly notes in ST IaIIae.14.1 ad 2: although counsel in- St. Thomas.
+5 dum: quamvis consilium, quatenus in nobis supponit, vel in- 5R sofar as it is in us presupposes or indicates a certain motion of inquiry,
+dicat motum quemdam inquisitionis, Deo attribui non pos- that cannot be attributed to God since it presupposes ignorance and
+sit, quia supponit ignorantiam, et includit mutationem et dis- includes change and a discursus. Nevertheless, that which is primary
+cursum; tamen <395> id, quod praecipuum est in consilio, id in counsel, that is, a certain judgement about what to do, is found
+est, iudicium certum de agendis, in Deo perfectissime reper- most perfectly in God, without any prior inquiry or consultation, but
+10 itur, sine ulla inquisitione, vel consultatione praevia, sed sim- 10R simply by intuiting everything and judging about everything insofar
+pliciter intuendo omnia, et iudicando de omnibus, quatenus as they are producible. Therefore, when Paul uses the name ‘counsel’,
+operabilia sunt. Cum ergo Paulus utatur nomine consilii, he does not want to signify something belonging to the will but some-
+21 Augustinus ] D. Augustinus V.
+21 6 ] 2 B V.
+
+-- 4 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 5
+aliquid pertinens ad divinum intellectum, non ad voluntatem thing belong to the divine intellect. For what is proper to the word
+significare vult: retinenda enim est vocis proprietas, quan- should be retained to the extent that the circumstances and subject
+15 tum circumstantiae, et materia loci patiuntur. Deinde est 15R matter of the passage allow.
+hoc magis consentaneum contextui, et intentioni Pauli: cum This is also more consistent with the context and intention of
+enim dixisset nos sorte vocatos esse secundum propositum Paul, for when he says that we are called by lot according to his pur-
+eius; ne quis putaret in hoc negotio esse casum et contingen- pose [(Eph. 1:11)], no one would think that in this business there is
+tiam, quae in sortibus inveniri solet; aut divinum propositum the chance and contingency that are usually found in the lot and no
+20 esse a ratione alienum; subdit Deum omnia operari secundum 20R one would think that the divine purpose is unconnected to reason.
+consilium; id est, non casu aut temere, sed summa quadam He adds that God works all things according to counsel, that is, not
+ratione, et prudentia: ergo consilium non voluntatem, sed by chance and blindly but according to the highest reason and pru-
+Hieronymus. aliquid ad rationem pertinens significat. Unde Hieronymus dence. Counsel, therefore, signifies not something belonging to the
+exponens eumdem locum. Universa (inquit) quae Deus facit, will but something belonging to reason. Hence, Jerome says when ex- Jerome.
+25 consilio facit, et voluntate; quia et ratione plena sunt, et potes- 25R plaining the same passage: “Everything that God makes, he makes by
+tate facientis. Et apertius D. Thomas in eumdem locum, quasi his counsel and by his will, since they are both filled with reason and
+excludens illam expositionem, ait: Non dicit secundum volun- with the power of making.” And St. Thomas says even more clearly
+tatem, ne credas quod sit irrationabilis, sed secundum consil- about the same passage, as if excluding that interpretation: “He does
+ium voluntatis, id est, secundum voluntatem, quae est ex ra- not say ‘according to his will,’ lest you should think it irrational, but
+30 tione, non secundum quod ratio importat discursum, sed secun- 30R he says ‘according to the counsel of his will,’ that is, according to the
+dum quod designat certum et deliberatum iudicium. Tandem will which arises from reason (not insofar as reason implies a discur-
+cavenda est illa expositio, nam aliquibus errandi occasio fuisse sus, but insofar as reason indicates a certain and deliberate judgement.”
+videtur. Dixerunt enim aliqui divinae voluntati licitum esse, Finally, one should be wary of that interpretation, for it seems to
+velle, et facere, quidquid humana voluntas velle potest, quan- have been the occasion for some to err. For some have said that the
+35 tumvis respectu voluntatis humanae turpe esse videatur: quia 35R divine will is permitted to will and to do whatever the human will can
+hoc ipso quod divina voluntas id velit, ipsi turpe non erit, will, even though with respect to a human will it seems to be wicked.
+eo quod sola sit sibi regula omnis rectitudinis, et honestatis. This is because the very fact that the divine will wills it means that it
+Ex quo principio male intellecto nonnulli Theologi in quem- will not be wicked, as a result of the will alone being the rule for itself
+dam errorem gravissimum inciderunt; dicentes Deum posse of all rectitude and fineness (honestatis). From misunderstanding this
+40 mentiri: quia divina voluntas pro sua libertate summa potest 40R principle, some theologians have fallen into a certain very grave error,
+velle mendacium absque alio consilio, sed solum quia vult: saying that God can deceive, on grounds that the divine will as a result
+et quia ad rectitudinem satis est ut ipsa id velit. Hinc etiam of its highest freedom can will a lie apart from any counsel but simply
+huius temporis haeretici in divinam voluntatem referunt om- because it wants to and because it is sufficient for rectitude that it wills
+nia hominum peccata; dicentes; velle Deum, ut nos pecce- that.
+45 mus; imo sua voluntate nostram compellere, ut huiusmodi 45R Henceforth, too, the heretics of this age refer all human sins to
+actiones, etiam turpissimas, velimus: quia Deus in volendo the divine will, saying that God wills that we sin, indeed, that by his
+nullo alio consilio regitur, nisi usu libero suae voluntatis, qui will he compels us so that we want to perform actions of this sort,
+semper illi honestus est, quidquid in <col. b> obiectis di- even the most wicked ones. For God wills he is not guided by any
+versum esse appareat. Sed haec et similia haeretica sunt, et other counsel than the free use of his will, which is always fine (hones-
+50 divina voluntate plane indigna, quae ita libera est, ut tamen 50R tus) regardless how different it may appear in the objects. But this and
+
+-- 5 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 6
+rectissima sit, et prudentissima: ideoque velle non potest ea, similar views are heretical and plainly unworthy of the divine will,
+quae per se considerata intrinsecam includunt turpitudinem, which is free in such a way that it is also most right and most prudent.
+et rectae rationi repugnant, ad quamcumque voluntatem, vel For this reason it cannot will those things which considered in them-
+intellectum comparentur. Unde tantum abest, ut huiusmodi selves include intrinsic wickedness and are repugnant to right reason
+55 errores ex hac sententia Pauli colligantur, ut potius ex illa 55R when related to any will or intellect. Hence, it is so far from being the
+possent sufficienter confundi: quia, cum Deus omnia opere- case that errors of this sort can be gathered from this sentence from
+tur secundum consilium suae voluntatis, quod consilium est Paul that rather they can be sufficiently confuted by it. For, when
+infinita eius sapientia, fieri non potest, ut quidquam velit, God does all things according to the counsel of his will, that counsel
+nisi quod honestissimum est, et summae prudentiae consen- is his infinite wisdom. So it cannot happen that he will anything ex-
+60	D. Thomas. taneum. Quam doctrinam etiam in D. Thoma reperio, 1. p. 60R cept it be fine in the highest degree (honestissimum) and fitting with
+q. 21. art. 1 ubi cum docuisset ita Deum operari omnia suo ar- the highest prudence.
+bitrio, ut tamen in omnibus operibus suis rationem iustitiae I find this teaching also in St. Thomas in ST Ia.21.1, where when St. Thomas.
+servet; obiicit sibi haec verba Pauli. In quibus (inquit) Apos- he teaches that God does everything by his choice (arbitrio) in such
+tolus significare videtur, Deum operari omnia pro libito volun- a way that he still in all his works preserves the character of justice,
+65 tatis suae: non ergo in operando legibus iustitiae astringitur? 65R he objects to himself with these words from Paul: “In these words
+Respondet autem Doctor sanctus his verbis. Cum bonum in- the Apostle seems to indicate that God does all things as it is pleasing
+tellectum sit obiectum voluntatis, impossibile est Deum velle, to his will. Is he not, therefore, bound to the laws of justice when
+nisi quod ratio suae sapientiae habet, quae quidem est sicut lex he acts?”4 But the holy doctor responds with these words: “Since
+iustitiae, secundum quam eius voluntas iusta et recta est. Unde understood good is the object of the will, it is impossible for God
+70 quod secundum suam voluntatem facit, iuste facit, sicut et nos 70R to will anything except that which has the character of his wisdom,
+quod iuxta legem facimus, iuste facimus: sed nos quidem secun- which in fact is as it were the law of justice, according to which his will
+dum legem alicuius superioris, Deus autem sibi est lex. Dicitur is right and just. Hence, what he does in accordance with his will, he
+ergo divina voluntas sibi regula suarum actionum, non quia does justly, just as what we do according to the law, we do justly (but
+sapientia, et prudentia non regatur, sed quia ipsa essentialiter we of course according to a law from someone superior whereas God
+75 est sua sapientia, et prudentia infinita. Dum autem nos de di- 75R is his own law).” Therefore, the divine will is said to be the rule of its
+vinis humano modo loquimur, et illam secundum rationem own actions not because it is not guided by wisdom and prudence but
+distinguimus, dicimus divinam voluntatem sequi intellectum because it itself essentially is its infinite wisdom and prudence. But as
+in operationibus suis. long as we are speaking about divine things in a human way and we
+make distinctions accordingly, we say that the divine will in its actions
+80R follows the divine will.
+Secunda expositio. The second exposition.
+6. Ex his vero, quae contra primam hanc interpretationem 6. But from the things we have said against this first interpretation,
+4This is more of a loose paraphrase of arg. 2 than a quotation.
+63 (inquit) ] (inquit Apostolus) B.
+71 iuste facimus ] om. V.
+
+-- 6 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 7
+diximus, potest quis in aliam extreme oppositam declinare, one might swerve into the opposite extreme, saying that God works
+dicens, Deum operari omnia secundum consilium voluntatis all things according to the counsel of his will because just as every
+5 suae; quia, sicut omnia opera Dei voluntatem eius supponunt, 5R work of God presupposes his will so also the will of God presupposes
+ita voluntas Dei consilium eius supponit; id est, sententiam, his counsel, that is, the defined and determinate view and judgement
+et iudicium definitum ac determinatum intellectus, cui vol- of the intellect to which the will necessarily is conformed or which (if
+untas necessario conformatur, vel (ut ita dicam) ei naturaliter I may speak in this way) it naturally obeys. I do not find this expo-
+obedit. Quam expositio- <396> nem non invenio expresse sition explicitly expressed in the holy Fathers or in the expositors of
+10 in sanctis Patribus, neque in expositoribus epistolarum Pauli. 10R Paul’s letters. It can, however, seem consistent with the characteris-
+Videri autem potest consentanea proprietati dictorum verbo- tics of the spoken words. For one who in acting as well as in willing
+rum. Ille enim verissime dicitur operari secundum consilium accommodates and conforms himself to someone’s counsel is most
+alicuius, qui tam in operando, quam in volendo sese accom- truly said to act according to their counsel. In this way, then, God is
+modat, et conformat consilio eius. Sic ergo Deus dicitur oper- said to act according to the counsel of his will because he always acts
+15 ari secundum consilium voluntatis, quia ita operatur ex vol- 15R from his will in such a way that the will still always yields to his in-
+untate, ut tamen ipsa voluntas semper intellectui, et iudicio tellect and judgement. St. Jerome, St. Thomas, and others favour this
+eius obsequatur. Atque huic expositioni favent D. Hierony- exposition, saying that Paul was using this way of speaking in order to
+mus, D. Thomas; et alii dicentes, Paulum usum fuisse illo indicate that the will of God always proceeds from a certain reason.
+modo loquendi, ut significaret voluntatem Dei semper esse St. Thomas especially seems to favour it when he says that just as we
+20 ex certa ratione profectam. Et praesertim, cum D. Thomas 20R act according to the law of a superior so also God acts according to his
+ait; sicut nos operamur secundum legem superioris, ita Deum wisdom which is as law to him [(ST Ia.21.1 ad 2)].
+operari secundum suam sapientiam, quae ipsi est veluti lex. A difference comes up here, however, that should be noted, for
+Intercedit namque in hoc consideranda differentia; quia vol- our will is conformed to the law in such a way that it can depart from
+untas nostra ita conformatur legi, ut possit ab ea discordare, it since it is not in itself essentially right, but the divine will cannot
+25 quia non est per se essentialiter recta: at vero divina voluntas, 25R be turned from the nature of its wisdom because it is essentially right.
+quia essentialiter recta est, non potest a ratione suae sapien- For this reason it seems to be determined by its wisdom in everything
+tiae deflectere: et ideo ab illa determinari videtur in omnibus that it wills. Therefore, God is rightly said to do all thing according to
+quae vult. Recte ergo dicetur Deus operari omnia secun- the counsel of his will, since he does all things according to the dictate
+dum consilium voluntatis suae, quia omnia operatur secun- of his reason. His will is determined by this dictate so that it wills to
+30 dum dictamen suae rationis, quo eius voluntas determinatur, 30R do one thing rather than another.
+ut hoc potius velit operari, quam aliud. Atque iuxta hunc sen- The ancient Fathers seem to have spoken according to this view
+sum videntur locuti aliqui antiqui Patres, quando dixerunt when they said that God always does what is better, as Clement of
+Clemens
+Alexandria.
+Augustinus.
+Deum semper operari quod melius est, ut Clemens Alexan- Alexandria does in Stromaton VI and Augustine does in De libero ar- Clement of
+Alexandria.
+Augustine.
+dria, 6. Stromaton; Augustinus, lib. 3. De libero arbitrio cap. 5. bitrio III.5, saying: “Whatever might occur to you by true reason as
+35 dicens. Quidquid tibi vera ratione melius occurrerit, hoc scias 35R being better, you may be sure that God has made it as the Creator
+fecisse Deum, tanquam bonorum omnium conditorem. Huius of all good things.” No other reason can be given for this view than
+enim sententiae nulla alia ratio reddi potest, nisi quia div- that what is better and best in everything that can be done cannot be
+inam sapientiam latere non potest quid melius, ac optimum hidden from divine wisdom. His will, moreover, which is the highest
+8 (ut ita dicam) ] (vel ut ita dicam) B.
+34 5 ] 1 B V.
+
+-- 7 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 8
+sit, in omnibus quae fieri possunt. Voluntas autem eius, quae good, cannot depart from that which the intellect proposes as best.
+40 summe bona est discordare non potest ab eo, quod intellectus 40R For if it could, it would not necessarily always in everything do what
+ut optimum proponit: nam, si posset, non esset necessarium is better. The same Augustine indicates this reason in Contra adver-
+operari semper in omnibus, quod melius est. Quam rationem sarium legis et prophetarum I.14, saying: “How utterly foolish would
+indicavit idem Augustinus, lib. 1. Contra adversarium legis et it be to think that a human being sees that something better ought to
+prophetarum cap. 14 dicens. Usque adeo desipiendum est, ut have been done and that God does not see this? Or to think that he
+45 videat homo melius aliquid fieri debuisse, et hoc Deum vidisse 45R does see this and to believe that he does not wish to do it or that he
+non putet; aut putet vidisse, et credat facere noluisse, aut non po- cannot do it?”
+tuisse? Denique iuxta hanc interpretationem videntur sensisse Finally, those scholastics seem to have thought in accordance with
+illi Scholastici, qui dixerunt; divinam voluntatem determinari this interpretation who said that the divine will is determined by the
+ab intellectu; quia, cum per se sit indifferens ad volenda om- intellect, because, since of itself it is indifferent with respect to willing
+50 nia, quae extra Deum sunt, nihil eorum velle <col. b> pos- 50R anything external to God, it could not will anything external except
+set, nisi ab aliquo determinaretur: non potest autem determi- it be determined by something else. But God cannot be determined
+nari Deus ab aliquo extra ipsum existente: esset enim magna by anything existing beyond himself, for that would be a great imper-
+imperfectio: ergo determinatur a consilio suo, et intellectu: fection. Therefore, it is determined by his counsel and his intellect.
+quod docuisse videtur D. Thomas, lib. 1. Summae contra gen- St. Thomas seems to teach this in Summa contra gentiles I.82.
+55 tiles cap. 82.
+Refellitur. It is rebutted.
+7. Haec vero expositio, licet sensum aliquem verum habere 7. But this exposition, although it might have some true sense—
+possit, videlicet quoad aliquam determinationem quoad spec- namely, with respect to a certain determination with respect to spec-
+ificationem, ut infra declarabimus: intellecta tamen, ut non- ification, as we will show below—nevertheless, it is false when under-
+5 nulli Moderni significant, de omnimoda determinatione vol- 5R stood, as some moderns indicate, of every sort of determination of
+untatis divinae quoad volendum, vel nolendum quodcumque the divine will with respect to willing or nilling of any work whatso-
+opus et secundum speciem, et secundum exercitium actus ever both with respect to the species and exercise of the act. It is also
+falsa est, et a mente Pauli aliena, eiusque intentioni contraria. foreign to the mind of Paul and contrary to his intention.
+Primum ita declaro, quia sententia illa sic exposita, repugnat I first show this as follows: when that view is explained in that
+10 divinae libertati, ut inter Scholasticos melius docuit Henri- 10R way it is repugnant to divine freedom. Henry of Ghent explains this Henry of Ghent.
+Henricus. cus, Quodlibet 8. q. 1. et in Summae quaestionum ordinarium better among the scholastics in Quodlibet 8.1 and in Summae quaes-
+art. 36. q. 4. Et declaratur breviter: quia in intellectu, vel tionum ordinarium art. 36, q. 4. It is explained briefly: for in the
+scientia Dei, prout nostro modo intelligendi antecedit vol- intellect or knowledge of God, insofar as according to our way of un-
+untatem nulla est indifferentia, vel libertas ex se, sed natu- derstanding it precedes the will, there is no indifference or a freedom
+15 rali necessitate omnia scit eo modo, quo sunt, et ita etiam de 15R from itself. Rather, it knows by natural necessity all things in the way
+omnibus iudicat; unde semper, et ex necessitate idem iudicat: that they are and it judges concerning all things in that way. Hence, it
+ergo si voluntas eius naturaliter determinaretur ab eius iudi- judges them the same always and by necessity. Therefore, if God’s will
+41 esset ] esest V.
+46–47 aut non potuisse ] om. V.
+
+-- 8 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 9
+cio, seu consilio, nulla esset in Deo libertas, seu indifferentia; were naturally determined by his judgement or counsel, there would
+quia neque est in iudicio, neque in voluntate obsequente et be no freedom or indifference in God. For it is neither in the judge-
+20 pedissequa iudicii (ut sic dicam) ergo nullibi. Scio vulgarem 20R ment nor in a will that is compliant and attends to the judgement (if I
+esse responsionem indifferentiam esse in voluntate secundum may speak in this way). Therefore, it is nowhere.
+se spectata, non vero ut iam supponente intellectus iudicium, I know that the common response is that the indifference is in
+et ut mota ab illo, quem vocant aliqui sensum compositum, the will regarded in itself, but not as already assuming the judgement
+et divisum. Sed fuga haec, mea sententia; nulla est; tum quia of the intellect and as assuming it moved by the intellect. Some call
+25 voluntas secundum se spectata nihil velle potest, donec sit 25R this the composed sense and the divided sense. But this escape, in my
+mota a iudicio rationis; quia nihil potest esse volitum, nisi view, is nothing. This is, first, because the will considered in itself can
+sit praecognitum: ergo ad usum libertatis parum refert, quod will nothing until it is moved by a judgement of reason, since nothing
+ipsa secundum se sit indifferens, si ut mota ab intellectu iam can be willed unless it is first cognized. Therefore, it matters little for
+non est indifferens, sed determinata, cum determinatio intel- the use of freedom that it is indifferent in itself if it is not indifferent
+30 lectus naturalis etiam sit, ut ostendimus; tum etiam quia illa 30R but determined once moved by the intellect, since the determination
+indeterminatio, quae dicitur esse in voluntate divina secun- of the intellect is also natural, as we will show.
+dum se spectata, erit magis per modum indifferentiae passi- Second, because the indetermination that is said to be in the di-
+vae, quam activae, quae iuxta sanam doctrinam ad libertatem vine will considered in itself would in its mode of indifference be more
+non sufficit. Exemplo breviter declaratur: nam oculus, (verbi passive than active, which does not suffice for freedom according to a
+35 gratia) per se ac nude sumptus indif- <397> ferens dici potest 35R sound doctrine of freedom. This is explained briefly by example: for
+ad videndum, et non videndum: quia utrumque exercere an eye, for example, taken bare and by itself can be called indifferent
+potest: id tamen satis non est, ut libere videat; quia posita to seeing and not seeing, since it can exercise either. Yet that is not
+determinatione obiecti omnino naturaliter ad videndum de- enough for it to seem free, since once the determination of an object
+terminatur. Sic ergo erit plane in voluntate, si per intellectum is posited it is entirely determined naturally to seeing. It will obvi-
+40 omnino determinatur ad unum: nam quod modus determi- 40R ously be likewise in the case of the will if it is entirely determined by
+nationis diversus sit, parum refert, nam quilibet sufficit ad the intellect to one thing. That the mode of determination is different
+indifferentiam tollendam. Possetque similius exemplum esse hardly matters, for it suffices for removing indifference for anything.
+in appetitu, qui ex apprehensione obiecti determinatur, sine A more similar example might be the case of appetite, which is deter-
+qua appetere non posset: et ita etiam potest dici ex se indiffer- mined by the apprehension of an object, without which apprehension
+45 ens, non tamen supposita tali apprehensione, et adhuc erit 45R it cannot desire it. And so it also can be said to be indifferent of itself,
+similius exemplum in voluntate nostra, quae secundum se, but not once such an apprehension is supposed. To this point the
+et nude spectata dici potest indifferens ad amandum, et non example will be more similar to our will, which considered in itself
+amandum Deum; tamen supposita tali scientia de Deo, scil- apart from other things can be called indifferent to loving and not
+icet visione eius clara, iam non est indifferens, quia per eam loving God, yet once such knowledge of God is supposed, namely,
+50 scientiam ita determinatur, ut non possit non velle: et ideo 50R a clear vision of God, it no longer is indifferent. For through that
+in illo amore non est libertas. Sic ergo se habebit divina vol- knowledge it is determined in such a way that it cannot not will, and
+untas quoad determinationem: (verbi gratia) volendi creare so in that love it is not free.
+mundum: nam ex se, et absque iudicio rationis non potest ad Therefore, the divine will stands in that way with respect to de-
+eum actum determinari: si ergo stante scientia et iudicio, quo termination, for example, in willing to create the world. For of itself
+55 Deus statuit optimum esse, et consentaneum suae bonitati 55R and apart from the judgement of reason it cannot be determined to
+
+-- 9 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 10
+creare mundum, ab hoc iudicio determinatur omnino vol- that act. If, therefore, once the knowledge and judgement stand by
+untas ut velit, nulla relinquitur indifferentia, vel libertas in which God decides that to create the world is best and in harmony
+illo actu; quia iudicium illud naturale est, et necessarium, et with his goodness, the will is wholly determined to will by this judge-
+voluntas pari necessitate, et naturali habitudine conformis est ment, then no indifference or freedom remains in that act. For that
+60 illi iudicio: ergo nulla est ibi indifferentia, sed quasi fatalis se- 60R judgement is natural and necessary, and the will is conformed to that
+D. Thomas. ries, ac necessitas. Propter quod merito dixit D. Thomas, 1 p. judgement by an equal necessity and natural disposition. Therefore,
+q. 14. art. 8. scientiam Dei secundum se esse indifferentem in there is no indifference there, but there is as it were a fated ordering
+ordine ad operationem extra se: determinari autem per vol- and necessity. This is why St. Thomas rightly said in ST Ia.14.8 that St. Thomas.
+untatem, et q. 19. art. 3. ad quartum et quintum, ait volun- God’s knowledge in itself is indifferent in relation to works beyond
+65 tatem divinam sese determinare ad obiecta creata: nam illa 65R itself, but is determined through the will. And in ST Ia.19.3 ad 4
+per sese non sufficiunt illam determinare ob imperfectionem and 5, he says that the divine will determines itself to created objects.
+suam, quod verum est de illis obiectis, ut cognitis per scien- For they are not sufficient in themselves to determine the will on ac-
+tiam Dei. Igitur non dicitur Deus omnia operari secundum count of their imperfection, which is true of those objects as cognized
+consilium voluntatis suae, quia consilium ipsum sit tota ratio through God’s knowledge. Therefore, God is not said to work all
+70 divinae determinationis in omnibus operibus eius. 70R things according to the counsel of his will because that counsel itself
+is the whole reason for the divine determination in all its works.
+Impugnatur ex
+contextu.
+8. Neque iuxta mentem Pauli interpretatio habere potest 8. Nor can this interpretation have a place according to the mind It is challenged
+from the context.	locum: ipse enim illa verba interposuit, ut tacite rationem of Paul, for he interposes those words in order to indicate tacitly the
+indicaret, ob quam Deus homines veluti sorte quadam vo- reason why God calls, predestines, and ordains human beings to eter-
+cat, praedestinat, et ordinat in vitam aeternam secundum pro- 75R nal life as if by a kind of lot. No reason for this can be given on the
+75 <col. b> positum voluntatis suae. Cuius ratio ex parte ipsius part of divine knowledge or counsel. For, as St. Thomas said else- St. Thomas, ST
+Ia.25.5 ad 3.	scientiae divinae, aut consilii, reddi potest nulla. Quia, ut where, if we consider divine knowledge precisely as preceding God’s
+S. Thomas. 1. p.
+q. 25. art. 5. ad 3.
+alibi dixit D. Thomas, si praecise spectemus divinam scien- will, there is no reason why it would order these human beings to be
+tiam ut antecedentem ad voluntatem eius, nulla est ratio, ob created rather than those or why these should be elected rather than
+quam dictet potius hos homines esse creandos quam illos, aut 80R those.5 This is the same as in the case of natural things where no rea-
+80 hos esse eligendos potius, quam alios. Sicut etiam in natural- son can be given on the part of the divine intellect alone for why this
+ibus ex parte solius intellectus divini nulla potest reddi ratio, created part of matter is under the form of fire and that part under the
+cur haec pars materiae creata sit sub forma ignis, et illa sub form of earth rather than the other way around, since matter of itself
+forma terrae, magis quam e converso, cum ipsa materia ex se is uniform.
+uniformis sit. Propterea ergo Paulus semper adiungit volun- 85R For this reason, therefore, Paul always adds the will of God, say-
+85 tatem Dei, dicens: Secundum consilium voluntatis eius: quia ing “according to the counsel of his will,” since a reason for such works
+non potest ratio talium operum Dei aliunde sumi, quam a of God cannot be taken from anywhere other than his will. There-
+voluntate eius: ergo in talibus operibus non ita operatur Dei fore, in such works God’s will does not act according to his counsel
+voluntas secundum consilium eius, ut omnino a consilio de- in such a way that it is entirely determined by his counsel, but rather
+terminetur, sed potius (si ita loqui licet) ut ipsa determinet 90R (if one may speak in this way) as it itself determines the counsel. For
+90 consilium. Nam interdum ea, quae per consilium repraesen- sometimes those things that are represented or judged through coun-
+5I am not persuaded that the marginal reference is the right one.
+
+-- 10 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 11
+tantur, seu iudicantur, sunt ita aequalia, ut consilium nihil al- sel are equal such that counsel can judge nothing else of them other
+iud de eis possit iudicare, nisi utrumque esset amabile, vel eli- than that either is lovable or choiceworthy. Therefore, that the will
+gibile. Quod ergo voluntas unum eligat, altero praetermisso, elects one thing while passing over another cannot be attributed to
+non potest tribui determinationi consilii, sed soli efficacitati, 95R the determination of counsel but only to the efficacy and dominion
+95 dominioque ipsius voluntatis. Quin potius saepissime accidit, of the will itself.
+et in divina voluntate fere semper, ut licet consilium proponat On the contrary, it often happens—and almost always in the case
+aliquid ut excellentius, et ex se melius, nihilominus pro sua of the divine will—that, although counsel proposes something as more
+libertate non illud eligat, sed aliud quod minus bonum, vel excellent and as better in itself, the will, nevertheless, through its free-
+perfectum est. Sic enim dicunt Theologi; quamvis optimum 100R dom does not elect that but elects something else that is less good and
+100 medium ad redimendos homines fuerit Incarnationis mys- less perfect. For in this way the theologians say that although the
+terium, et hoc ipsum necessario dictaverit aeternum Dei con- best means for redeeming human beings was the mystery of the Incar-
+silium, nihilominus potuisse Deum non eligere medium il- nation and that the eternal counsel of God necessarily dictated this,
+lud, sed alio modo homines salvare, vel etiam non salvare, sed God could, nevertheless, have elected not that means but saved hu-
+continuo supplicio afficere. Et in rebus naturalibus certum 105R man beings by some other means or not saved them but continuously
+105 est cognovisse Deum alias perfectiones, et species angelorum, afflicted them with punishment. And in natural matters it is certain
+vel coelorum quibus pulchrior esset mundus: et tamen volun- that God cognized other perfections and other species of angels and
+tatem divinam pro libertate sua eas creare noluisse, sed alias heavens by which the world would have been more beautiful, and
+Vide Waldensius,
+lib. 1. Doctrinae
+cap. 21. Hugo
+Victorinus, lib. 1.
+De sacramentis
+p. 2. cap. 22.
+Magister in 1.
+dist. 44. et ibi
+Doctores.
+D. Thomas, 1 p.
+q. 23.
+minus perfectas. Estque hoc fere necessarium in operibus yet the divine will through its freedom willed not to create them but
+Dei, quia cum tanta sit potestas eius, ut quacumque re data 110R willed to create others that were less perfect. And this is almost neces- See Thomas
+Netter of Walden
+in Doctrinale
+antiquitatum fidei
+ecclesiae catholicae
+I, ch. 21; Hugh of
+St. Victor in De
+sacramentis I,
+p. 2, ch. 22; the
+Master in
+Sentences I,
+dist. 44, and
+other doctors in
+the same place;
+and St. Thomas
+in ST Ia.23.
+110 possit facere meliorem, vix unquam potest eligere, quod op- sary in the case of God’s actions, since when his power is so great that
+timus est, cum quidquid eligat, semper aliud ab eo melius for any given thing he can make something better, he can hardly ever
+cognoscatur, quod velle et facere potest: alioqui nihil velle aut elect what is best.6 Whatever he elects, there is always something bet-
+facere potuisset, nisi quod fecit, quod est in Wicleffo damna- ter cognized by him that he could will or make. Otherwise, he could
+tum. Quando ergo dicunt Sancti Deum semper <398> velle 115R have willed or made nothing other than what he made, [a view] that
+115 quod est optimum et convenientissimum, intelligitur non ex was condemned in John Wycliffe. Therefore, when the saints say that
+parte rerum, quas vult, sed ex parte ipsius Dei, quia semper God always wants what is best and most agreeable, this should not be
+prudentissime ac decentissime operatur. understood on the part of the things that are willed but on the part of
+God himself, since he always acts most prudently and appropriately.
+Vera expositio. The true exposition.
+9. Superest ut concludamus sensum verborum Pauli esse, 9. What is left is for us to conclude that the sense of Paul’s words is
+Deum operari omnia secundum consilium voluntatis, id est, that God works all things according to the counsel of his will, that is,
+secundum consilium sibi beneplacitum, seu voluntate sua ac- according to the counsel pleasing to him or accepted by his will. For
+6Note the textual emendation.
+110–111 optimus ] melius B V.
+113 quod fecit, ] om. B.
+
+-- 11 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 12
+5 ceptatum. Est enim frequens modus loquendi Scripturae 5R the way of speaking in Scripture is often according to Hebrew phras-
+iuxta phrasim Hebraicam, ut loco adiectivi addatur aliud sub- ing so that in the place of an adjective there is added another substan-
+ad Colossenses. stantivum in genitivo casu, ut ad Colossenses 1. Et transtulit tive in the genitive case. This is the case, for example, in Colossians Colossians 1.
+in regnum Filii dilectionis suae, id est, sibi dilectissimi. Sic 1[:13]: “And he has brought [us] into the kingdom of the Son of his
+ergo opinor in praesenti dixisse: Secundum consilium volun- love,” that is, the one most beloved to him. I think the same is true
+10 tatis: id est, secundum consilium sibi voluntarium, seu vol- 10R in the present case: “according to the counsel of his will,” that is, ac-
+untate sua ad beneplacitum acceptatum. Et iuxta hanc in- cording to the counsel voluntary to himself or accepted by his will
+terpretationem optime declarat Paulus in eo, quod dixerat, according to its pleasure. According to this interpretation, Paul best
+sorte nos esse vocatos, non indicari imperfectionem casus, explains it in the fact that he says that we are called by lot, not indi-
+et contingentiae: quia summo consilio factum est; sed ex- cating the imperfection of chance and contingency (since it was done
+15 cludi rationem et causam ex parte nostra, ob quam sic vocati 15R according to the highest counsel) but excluding a reason and cause on
+simus, quia consilium illud solo Dei arbitrio consummatum our part on account of which we were thus called (since that counsel
+est: ac propterea semper in eo capite, et aliis similibus coni- was brought about by the God’s choice (arbitrio) alone.
+ungit Paulus cum divina scientia, et praedestinatione proposi- Furthermore, in that and other similar chapters Paul always joins
+tum voluntatis; quia ex hoc pendet omnis determinatio divi- the plan of the will together with divine knowledge and predestina-
+20 norum operum. Idemque constituit quodam modo divinam 20R tion, for every determination of divine works depends on this. Like-
+scientiam in ratione scientiae practicae, seu approbationis, ut wise, he in a certain way sets up divine knowledge in the nature of
+Theologi loquuntur. Atque hoc modo a consilio et volun- practical knowledge or of approbation, as the theologians say. In this
+tate divina operationes Dei proficiscuntur. Atque haec expo- way the actions of God proceed from divine counsel and will. And
+sitio, licet sub hac verborum forma ab expositoribus non tra- this exposition, although it is not related by the expositors in this form
+25	Hieronymus.
+Chrysostomus.
+D. Thomas.
+Glossa.
+Primas.
+Adamus.
+datur, est consentanea Hieronymo, et D. Thomae, quos supra 25R of words, is consistent with Jerome and St. Thomas, whom we cited Jerome.
+Chrysostom.
+St. Thomas.
+Glossa.
+Primas.
+Adamus.
+citavi, et Chrysostomo, homilia 2. ad Ephesios, et aliis expos- above,7 and with Chrysostom in the second sermon on Ephesians,
+itoribus, quatenus his verbis significari aiunt rationabilem ac and with other expositors, insofar as by these words is signified [what
+liberam esse in suis operibus divinam voluntatem. they mean when] they say that the divine will is rational and free in
+its works.
+SECTIO II. SECTION II.
+Quae fidei veritates aut Theologicae conclusiones ex praedicta What truths of the faith or theological conclusions are drawn out of the
+sententia eliciantur. aforementioned statement.
+1. Quanquam, ut dixi, in praedictis verbis Pauli, sic in- 1. Nevertheless, as I said, when the aforementioned words of Paul are
+5 tellectis, multa principia fidei fun- <col. b> dari possint: 5R understood in this way, many principles of the faith can be grounded
+et variae quaestiones et conclusiones Theologicae ex eisdem in them and various theological questions and conclusions pertaining
+possint sufficiente certitudine definiri, quae ad divinam sci- to divine knowledge, will, and power can be determined with suffi-
+entiam, voluntatem ac potentiam pertinent: quia vero omnia cient certitude from them. But since we cannot pursue all of them
+nunc persequi non possumus, et praecipua intentio nostra est now and since our particular intention is to talk about the freedom of
+7In n. 5 of this section.
+
+-- 12 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 13
+10 dicere de libertate divinae voluntatis; ideo caetera omnia in 10R the divine will, we will briefly indicate all the remaining ones in this
+sectione hac breviter indicabimus. section.
+Deum per
+intellectum
+operari.
+2. Itaque ex his verbis habemus primo, quidquid Deos ex- 2. And we first hold from these words that whatever God works God acts through
+intellect.	tra se operatur, per intellectum et rationem operari. Ita colli- beyond himself, he does through intellect and reason. Chrysostom,
+gunt ex his verbis Chrysostomus, Hieronymus, D. Thomas, Jerome, St. Thomas, and all the other expositors gather this from
+15 et caeteri omnes expositores, quia verbum illud: Secundum 15R these words, because the phrase “according to his counsel” has this
+consilium; hanc vim habet; scilicet, quod divina opera plena meaning, namely, that full divine works are by reason and wisdom.
+sunt ratione, et sapientia; quam, ut Sapiens dixit: Effudit Deus As the wise one said, “God poured [wisdom] out upon all his works” Sirach.
+Ecclesiasticus. super omnia opera sua. Ecclesiasticus 1. Haec tamen ver- (Sirach [1:1]). Yet this truth, namely, that God does all things through
+itas, nimirum quod Deus omnia per intellectum operetur, intellect, is not only clear by faith but can also be cognized through
+20 non solum fide constat, sed etiam ratione naturali cognosci 20R natural reason and almost all the philosophers were aware of it.
+potest: eamque fere omnes Philosophi cognoverunt. Est There is, however, a certain difference that should be noted: those
+tamen quaedam notanda differentia, quod illi ad summum [philosophers] at best were aware of God acting through intellect
+cognoverunt Deum operantem per intellectum, ut artificem as an artisan preconceiving all the ideas in himself which he makes
+praeconcipientem in se rationes omnes, quae per suam facul- through his faculty. But hardly anyone spoke about divine counsel,
+25 tatem operatur. De consilio autem divino vix quidpiam locuti 25R since counsel is proper to one who uses his power or art freely. But
+sunt, quia consilium proprium est eius, qui sua potestate aut the philosophers could scarcely conjoin this free use with divine im-
+arte libere utitur. Hunc autem usum liberum vix potuerunt mutability. And for this reason they talked about him more as acting
+Philosophi coniungere cum divina immutabilitate. Et ideo by necessity or by the impetus of nature rather than by counsel, will,
+potius de illa loquuntur ut ex necessitate, aut naturae impetu and deliberation. Many thought that Aristotle had strayed into this
+30 operante, quam ex consilio, voluntate, et deliberatione. In 30R error. But about this elsewhere.
+quo errore multi putant versatum fuisse Aristotelem. Sed de But Paul, however, assuming what was best known—namely, that
+hoc alibi. Paulus autem supponens id, quod notissimum erat, divine wisdom is the artisan of all things, as was also said in Wisdom Wisdom 7.
+nimirum divinam sapientiam omnium rerum esse artificem, 7[:21]—taught what was more hidden and what most pertained to the
+ut etiam dicitur Sapientiae 7. id, quod occultius erat, et ad cause that he was discussing, namely, that God in his works is not led
+35 causam maxime pertinebat, de qua tractabat, docuit; scilicet 35R by natural necessity but by certain counsel and reason, not insofar as
+Deum in suis operibus non naturali necessitate, sed certo con- counsel in us includes change and inquiry, but insofar as it proposes
+silio et ratione duci: non quatenus consilium mutationem vel by a clear and certain judgements what is to be done or what must be
+inquisitionem in nobis includit, sed quatenus claro et certo done.
+iudicio proponit id, quod agendum est, aut agere oporteat.
+40	Deum esse
+omnipotentem.
+3. Secundo colligitur ex dictis verbis Pauli, Deum in suis 3. Second, it is gathered from the words said by Paul that God God is
+omnipotent.	operibus summa uti potestate, quam omnipotentiam appella- 40R in his works uses the highest power, which we call omnipotence.
+Hieronymus. mus. Sic colligit D. Hieronymus in eumdem locum dicens. St. Jerome gathers this in the same place, saying: “He works all things Jerome.
+Qui operatur omnia secundum consilium voluntatis suae, quod according to the counsel of his will, since, namely, they are both filled
+scilicet et ratione plena sint, et potestate <399> facientis. Nos with reason and the power of making. We human beings commonly
+45 homines plerumque volumus facere consilio, sed nequaquam wish to make something by counsel but the effect by no means follows
+24 omnes ] omnium V.
+
+-- 13 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 14
+voluntatem sequitur effectus: illi autem nullus resistere potest, 45R the will. But nothing can resist him, since he does everything that he
+quia omnia quaecumque voluit fecit. Psalmus 134. Hoc ip- wills.” ([See] Psalm 134[:6].) Theodoretus indicated this here, saying:
+sum significavit ibi Theodoretus dicens: Cum nos ab initio “Since we were predestined from the beginning, he elected according
+praedestinasset, ad hanc sortem elegit, qui, quaecumque vult to this lot, he who brings about whatever he wishes.” But St. Thomas
+50 facit. Clarius vero D. Thomas in eum locum adducens il- is clearer in that place, bringing up Isaiah 46[:10]: “My counsel stands
+lud Isaiam 46. Consilium meum stabit, et omnis voluntas 50R and all my will shall be done.” According to this interpretation Paul’s
+mea fiet. Iuxta quam interpretationem illa distributio Pauli: phrase “he who does all things” is not only accommodated, to speak
+Qui operatur omnia, non tantum accommoda, ut Dialectico in the manner of logicians, but also absolute, such that the sense is not
+more loquar, sed est absoluta, ita ut non tantum sit sensus: only that everything that is done is done according to counsel, which
+55 Omnia, quae operatur, ex consilio operatur, quod etiam facit a prudent human being does or an angel in a more perfect way, but
+homo prudens, vel perfectiori modo angelus; sed sensus sit, 55R the sense is that God does everything effectively and with power that
+Deum omnia, quae secundum consilium voluntatis suae sta- he establishes and resolves according to the counsel of his will. With-
+tuit, et decernit, efficaciter ac potenter operari. Et sine dubio out a doubt, this is the sense of Paul’s [words], both [i] because of the
+hic est sensus Pauli, tum propter rationem insinuatam, quod suggested reason that this property is attributed to God as his singu-
+60 hanc proprietatem tribuit Deo, ut singularem excellentiam lar excellence and also [ii] because the context and intention of Paul
+eius; tum etiam quia contextus, et intentio Pauli hoc requirit; 60R require this, since those words are inserted in order to give the reason
+cum illa verba interponat ad reddendam rationem, ob quam why God predestines whom he wills according to his will and why
+Deus pro sua voluntate praedestinat, quem vult, et pro sua he efficaciously calls and aids them according to his power in praise of
+potestate efficaciter vocat, et auxiliatur in laudem gloriae, et his glory and grace.
+65 gratiae suae.
+Potentia, et operatio, quomodo a consilio, et voluntate distincta. In what way potency and activity are distinct from counsel and will.
+4. Hic vero statim occurrebat Theologica quaestio, quomodo 65R 4. But here a theological question comes up: how are these three
+in Deo distinguantur illa tria, quae in his verbis Paulus nu- things that Paul lists in these words—activity, counsel, and will—
+merat, operatio, consilium, et voluntas? Et maior quaestio distinguished in God? The greater question is about the power of
+70 est de potentia operandi: nam operatio ipsa rerum ad extra, acting, for in my view the action of things beyond himself comes to
+sententia mea, in rebus factis est, non in ipso Deo: unde non be in the things and not in God himself. Hence, it not only differs in
+tantum ratione, sed re ipsa differt a consilio, et voluntate, 70R reason but is really different from counsel and will as a certain thing
+tanquam res quaedam, vel modus creatus ab increata re, et or created mode from an uncreated thing and as something temporal
+tanquam quid temporale ab aeternis: operatio enim tempo- from the eternal. For action is temporal, but [God’s] counsel and will
+75 ralis est: consilium autem, et voluntas aeterna. Unde (quod are eternal. Hence—and this should be noted—these three respond
+notandum est) haec tria respondent illis tribus, quae in ver- to the three divisions that Paul posited in the immediately preceding
+bis proxime praecedentibus Paulus posuerat dicens: In quo 75R words when he said: “In which we were also called, having been pre-
+et sorte vocati sumus praedestinati secundum propositum eius, destined according to his plan . . . ” For the calling answers to action,
+etc. Nam vocatio respondet operationi, praedestinatio con- predestination to counsel, and the plan to the will. Hence predestina-
+80 silio, propositum voluntati. Unde praedestinatio et proposi- tion and the plan are eternal, but the calling is temporal and exists in
+tum aeterna sunt, vocatio autem temporalis est, et in no- us. For this reason, just as the calling is really distinguished from pre-
+
+-- 14 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 15
+bis existens. Quapropter, sicut vocatio re ipsa distinguitur a 80R destination and plan, so also action is distinguished from counsel and
+praedestina- <col. b> tione, et proposito, ita operatio a con- knowledge. I know that many distinguish between action taken ac-
+silio et scientia. Scio multos distinguere de operatione div- tively and passively, and admit that it is in creatures in the latter mode
+85 ina active et passive sumpta; et posteriori modo fateri esse but say that it is in God in the former mode. And it cannot be any-
+in creatura; priori autem esse in Deo: nihilque aliud esse nisi thing other than his will or volition. Nevertheless, what I say is true
+eius voluntatem seu volitionem. Tamen, quod dixi, est verum 85R in philosophical rigour and is also more in keeping with the words
+in philosophico rigore; et est etiam magis consentaneum illis of Paul, who speaks of the active action of God and indicates that it
+verbis Pauli, qui de operatione Dei activa loquitur, et a con- proceeds from counsel and will. And so there is no further difficulty
+90 silio et voluntate procedere significat. Itaque de hac re nulla concerning this matter nor concerning the distinction between coun-
+est difficultas, neque etiam de distinctione inter consilium et sel and will. For it is clear from what was said in the prior exposition
+voluntatem: nam ex dictis in priori expositione constat haec 90R that these are distinguished in some way. Moreover from the general
+aliquo modo distingui. Ex generali autem doctrina de divi- doctrine of divine attributes it is clear that they are not distinguished
+nis attributis constat non distingui re, aut actu in re ipsa, sed really or actually in the thing itself but in reasoned reason, as they say,
+95 ratione, ut aiunt, ratiocinata; id est, cum aliquo fundamento that is, with some foundation in the thing. Likewise, it is clear con-
+in re. De potentia item operandi eadem ratione constat non cerning the power of acting that it is not actually distinguished in the
+distingui actu in re a scientia et voluntate. An vero ratione 95R thing from knowledge and will. But whether it is distinguished from
+ab illis distinguatur inter Theologos controversum est. Sed, them in reason is a matter of controversy among the theologians. But
+quoniam ad alia properamus, id nunc omittemus. because we are hurrying to other matters, we will omit that for now.
+100	D. Thomas.
+Hugo Victorinus.
+Breviter tamen mea sententia est quam etiam D. Thomae Nevertheless, my view, briefly, is the one that I think St. Thomas St. Thomas.
+Hugh of
+St. Victor.
+esse opinor in 1. p. q. 19. art. 4. ad 4. et q. 25. art. 1. ad 4. et also has in ST Ia.19.4 ad 4 and Ia.25.1 ad 4, as well as Hugh of St. Vic-
+Hugonis Victorini, lib. 1. De sacramentis p. 2. per totam, po- 100R tor in De sacramentis I.2. The power is distinguished in reason from
+tentiam ratione distingui a scientia et voluntate, non minus, knowledge and the will no less than knowledge and will are distin-
+quam scientiam et voluntatem inter se: esseque immediatius guished from each other, and it is a more immediate principle of exter-
+105 principium externae actionis, sive executionis, quam sit scien- nal action or execution than knowledge or will are. For we conceive
+tia, vel voluntas; quia in ordine ad diversum actum illam con- of it in relation to different acts and it is customary to distinguish pow-
+cipimus, et nos potentias per ordinem ad actus distinguere 105R ers through their relation to acts. But this cannot tell against anything
+solemus. Nec vero hoc quidquam obest omnipotentiae vol- of the omnipotence of the divine will, because, first, if we speak in
+untatis divinae; tum quia, si secundum rem loquamur, ideo accordance with reality, it is omnipotent for the reason that it is om-
+110 est omnipotens, quia secundum rem est ipsa omnipotentia: nipotent according to reality. But according to reason and our way
+secundum rationem autem, et modo nostro loquendi, ideo of speaking, it is omnipotent for the reason that it has the power to
+est omnipotens, quia potentiam habet, qua quidquid vult, ef- 110R execute efficaciously whatever it wishes. And thus also Scripture says
+ficaciter exequatur. Atque ita etiam loquitur Scriptura Sapi- in Wisdom 12[:18], saying: “Your power is present to do when you
+entiae 12. dicens: Subest tibi, cum volueris, posse. will.”
+Deum voluntarie omnia operari. That God does everything voluntarily.
+5. Tertio colligitur ex verbis Pauli, Deum omnino voluntarie 5. Third, it is gathered from the words of Paul that whatever God does
+facere, quidquid extra se operatur: hoc enim verba ipsa prae outside himself he does wholly voluntarily, for the very words make
+
+-- 15 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 16
+Aristoteles.
+D. Thomas, 1. 2.
+q. 6. ubi alios
+Patres refert.
+se ferunt. Et constat etiam ex ratione voluntarii ab Aristotele this obvious. It is also clear from the notion of voluntariness related
+5 tradita 3. Ethicorum ad Nicomacheam cap. 1. et a D. Thoma, 5R by Aristotle in Nichomachean Ethics III.1 and by St. Thomas, John of Aristotle.
+St. Thomas, ST
+IaIIae.6 (where he
+refers to other
+Fathers).
+Damasceno, Gregorio Nisseno, et omnibus; scilicet volun- Damascus, Gregory of Nyssa, and everyone else, namely, that that is
+tarium esse, quod est ab <400> interno principio, seu ap- voluntary which comes from an internal principle or desire by means
+petitu, media cognitione; quod voluntarium tunc perfectum of cognition. That voluntariness is then perfect when the cognition is
+est, quando cognitio est perfecta; id est, rationalis seu intellec- perfect, that is, rational or intellectual. Since, therefore, God works
+10 tualis. Cum ergo Deus secundum consilium voluntatis omnia 10R all things according to the counsel of his will, he without doubt does
+operetur, sine dubio perfecte voluntarie omnia operatur. everything perfectly voluntarily.
+An Deus omnino
+voluntarie
+infligat poenas.
+6. Hic vero occurrebant statim duae difficultates, quae 6. But here two difficulties come at once, which cannot be dis- Whether God
+inflicts
+punishments
+wholly
+voluntarily.
+brevi tempore pro dignitate tractari non possunt: earum cussed properly in a short time. Nevertheless, briefly pointing to
+tamen resolutionem breviter indicare, neque erit iniucun- their resolution will neither be unpleasant nor be unconnected to the
+15 dum, neque ab instituto alienum. Una est de malis poe- 15R project. One is about the evil of punishment. For although it is true
+nae: nam licet verum sit Deum simpliciter velle haec mala, that God wills and brings about this evil (as Amos 3[:6] says: “Will
+Amos 3. et facere, iuxta illud Amos 3. Si erit malum in civitate, quod there be evil in the city that God has not brought about?”) and con-
+Dominus non fecerit. Et consequenter etiam constat Deum sequently it is also clear that God brings it about voluntarily, never-
+haec facere voluntarie, nihilominus adhuc difficultatem ha- theless, there is still this difficulty about how he effects it with perfect
+20 bet, quomodo perfecte voluntarie ea efficiat. Illud enim per- 20R voluntariness. For that is perfectly voluntary which is not mixed with
+fecte voluntarium est, quod non habet involuntarium admis- involuntariness, just as that is perfectly hot which has nothing of cold
+tum: sicut est perfecte calidum, quod nihil frigoris permis- mixed in. But God wills these evils in such a way that according to an-
+tum habet. Deus autem ita vult haec mala, ut secundum other kind of willing they are involuntary. Therefore, it is not done
+aliam quamdam voluntatem sint ei involuntaria: non ergo with perfect voluntariness. Although someone who takes a bitter po-
+25 perfecte voluntarie illa operatur: sicut qui potionem amaram 25R tion does so voluntarily given the fact that he cannot acquire good
+sumit, licet volens sumat, eo quod aliter non possit salutem health otherwise, nevertheless, he takes it with imperfect voluntari-
+comparare; tamen imperfecte voluntarie sumit, quia displicet ness since it is unpleasant to him and he wishes not to take it. The
+illi; et nollet sumere. Ita vero se habet Deus cum punit seu situation is the same when God punishes or damns sinners, since that
+damnat peccatorem: nam displicet illi illa damnatio, et vellet, damnation is displeasing to him and if the nature of justice allowed
+30 si ratio iustitiae id pateretur, illum non damnare, iuxta illud 30R it he would will not to damn them. 1 Timothy 2[:4] says that “he 1 Timothy.
+1. ad Tim. 1. ad Timotheum 2. Vult omnes homines salvos fieri: non ergo wishes all people to be saved.” Therefore, God does not will perfectly
+perfecte voluntarie Deus haec vult, sed quasi coactus et invi- voluntarily [to damn them] but does so as if compelled and reluctant.
+tus. Atque hoc modo se habere Deum in huiusmodi operibus That God holds himself in this way in works of this sort seems to be
+Gen.
+Isaiae.
+significari videtur in illis modis loquendi Scripturae Genesis signified in those ways of speaking found in Scripture. Genesis 6[:6– Genesis.
+Isaiah.	35 6. Tactus dolore cordis intrinsecus: delebo, inquit, hominem 35R 7]: “Being touched inwardly with sorrow, he said: ‘I will destroy the
+quem formavi. Isaiae 1. Heu, consolabor super hostibus meis. human race that I have created’.” Isaiah 1[:24]: “Ah! I will comfort
+Ubi Hieronymus optime exponit, dicens significare Deum myself over my enemies.” Jerome best explains this passage, saying
+his loquendi modis, quasi coactum et invitum punire pecca- that these ways of speaking indicate that God is, as it were, compelled
+tores. and reluctant to punish sinners.
+18 constat ] constet V.
+31 2 ] 1 B V.
+
+-- 16 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 17
+40	An Deus
+operetur malum
+culpae secundum
+consilium
+voluntatis suae.
+7. Altera difficultas est de malo culpae, seu de actu malo, 40R 7. The other difficulty concerns the evil of guilt or of evil ac- Whether God
+performs the evil
+of guilt according
+to the counsel of
+his will.
+quem suo etiam modo Deus operatur, cum nihil esse possit tion, which God in some way performs since nothing whatever can
+absque influxu Dei, et tamen dicere non possumus Deum vol- be without influx from God. And yet we do not say that God vol-
+untarie, et praesertim perfecte, illum operari, quia illum odio untarily does these things, certainly not perfectly voluntarily. For he
+habet, et desiderat ut non fiat. Unde absolute dici solet esse hates that evil and desires that it not exist. Hence it is usually said
+45 contra voluntatem Dei. <col. b> Quapropter etiam videtur 45R absolutely to be against the will of God. For this reason it seems that
+hoc opus non esse secundum consilium voluntatis Dei, cum this work cannot be according to the counsel of the will of God, since
+maxime repugnet et consiliis, et praeceptis eius. it is especially repugnant both to his counsels and his precepts.
+Sitne in divina voluntate actus inefficax. Whether there is an inefficacious act in the divine will.
+8. Prior difficultas expediri facile potest, si vera esset aliquo- 8. The former difficulty can be resolved easily, if the opinion of those
+rum Theologorum opinio, qui negant esse in divina vol- theologians is true who deny that in the divine will there is any true
+untate aliquem verum et proprium actum, qui sit inefficax; and proper act that is inefficacious, the kind of act that in our will
+5 quem in voluntate nostra velleitatem, vel simplicem compla- 5R we call a velleity or a simple contented quiescence (complacentia). For
+August. in Ench.
+cap. 79. et 103. et
+De corrept. et grat.
+cap. 15. Prosp. ad
+cap. Gall. cap. 8.
+Fulg. De Incarn.
+et grat. cap. 31.
+Bed. Ansel. et
+Caiet. in Paul.
+Alens. 1. p. q. 36.
+memb. 2.
+Bonavent. in 1.
+d. 46. art. 1. q. 1.
+ibi Scot. et Mag.
+q. un. Marsil. in
+1. q. 45. art. 1.
+Dried. lib. De
+concord. praesc. et
+lib. arb. 1. p.
+cap. 4. ad 2.
+centiam appellamus, quia talis actus videtur quamdam im- such an act seems to involve a certain imperfection, namely, an ineffi-
+perfectionem involvere, scilicet inefficaciam et repugnantiam cacy and repugnance to an absolute willing and a certain desire for a
+cum absoluta voluntate, et desiderium quoddam rei non obti- thing not obtained which of itself saddens and afflicts the soul. And Augustine, Ench.,
+chs. 79 and 103,
+and De corrept. et
+grat.; Prosper,
+Resp. ad cap. Gal.,
+ch. 8; Fulgentius,
+De Incarn. et
+grat., ch. 31;
+Bede, Anselm,
+and Cajetan on
+Paul; Alexander
+of Hales, I, q. 36,
+memb. 2;
+Bonaventure, I,
+dist. 46, art. 1,
+q. 1; Scotus and
+the Master in the
+same place,
+q. un.; Marsilius,
+I, q. 45, art. 1;
+and Driedo, De
+concord. praesc. et
+lib. arb., p. 1,
+ch. 4, ad 2.
+nendae, quod ex se contristat, et affligit animum. Atque hanc this is the view that Augustine seems to have, and he was followed
+10 sententiam habuisse videtur Augustinus, quem imitati sunt 10R by Prosper of Aquitaine, Fulgentius, Bede, and Anselm, who do not
+Prosper, Fulgentius, Beda, et Anselmus, qui non agnoscentes recognize this act in the will of God. They restrict Paul’s general lo-
+hunc actum in voluntate Dei, generalem illam locutionem cution “God wishes all people to be saved” to only the predestined
+Pauli. Deus vult omnes homines salvos fieri, per distribu- through an accommodated or incomplete distribution (what they call
+tionem accommodam, vel incompletam (quam vocant pro distribution “pro generibus singulorum”). Some scholastics also follow
+15 generibus singulorum) ad solos praedestinatos restringunt: 15R this view. Once we assume this we easily respond [to the difficulty]
+quam etiam sententiam nonnulli ex Scholasticis secuti sunt. that whatever God does, he does in such a perfectly voluntary way
+Quo supposito facile respondemus, Deum quidquid operatur, that nothing involuntary is mixed in, since in his will there is no act
+ita perfecte voluntarie operari, ut nihil involuntarii admistum that is either unconditionally or in a qualified way repugnant to such
+habeat; quia in voluntate sua nullum habet actum vel sim- an action. And thus when he wills to inflict the evil of punishment,
+20 pliciter, vel secundum quid repugnantem tali operi. Atque 20R he wills that unconditionally and in no way does not will it or will
+ita, cum vult infligere malum poenae, simpliciter id vult, et not to inflict it.
+nullo modo non vult, neque nollet. Quando autem hoc at- Moreover when it is attributed to God that he does something
+tribuitur Deo, quod nolens, aut dolens faciat, sicut verbum while nilling or grieving, just as the word ‘grieving’ is uncontrover-
+dolendi absque ulla controversia metaphoricum est, ita in- sially metaphorical, so also should one understand the word ‘nilling’.
+25 telligi debet verbum nolendi: significatur autem per illam 25R What is signified through that metaphor is that God insofar as what
+metaphoram Deum, quod in se est, paratum esse ad id nolen- is in himself is concerned was just as prepared to nill that as to will
+dum, tantumque id velle, quia peccata hominum ita exigunt: it. Yet since the sins of human beings are driven out in that way, once
+illis tamen suppositis absolute, et omni ratione id vult. those are supposed, he wills it absolutely and by every reason.
+
+-- 17 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 18
+Reiicitur
+praedicta opinio
+et locus Pauli 1.
+ad Timotheum 2.
+elucidatur.
+9. At enim dicta sententia, in qua haec responsio fun- 9. The aforementioned view in which this response is founded is The
+aforementioned
+opinion is
+rejected and the
+words of Paul in
+1 Timothy 2 are
+elucidated.
+30 datur, firma <401> non est; neque admodum consentanea 30R not secure. Nor is it entirely harmonious with those words of Paul in
+illis verbis Pauli, 1. ad Timotheum 2. Qui vult omnes homines 1 Timothy 2[:4]: “He wishes all people to be saved.” In these words
+salvos fieri. In quibus certe non de metaphorica, sed de the apostle is certainly not talking about a metaphorical will but about
+propria voluntate Apostolus loquitur, ut etiam Augustinus, a proper will, as Augustine and the rest who follow him also suppose.
+et reliqui, qui eum sequuntur supponunt. Et merito tum And this is warranted both for a general reason (one ought not to
+35 propter rationem generalem; quia non est metaphorico sensu 35R use a metaphorical sense where it is not needed) and because of the
+utendum, ubi necessarium non est: tum etiam propter spe- special circumstances of the passage, which does not allow it, since
+cialem circumstantiam loci, qui illam non patitur, cum Paulus Paul places that will of God in front of all of us human beings so that
+illam Dei voluntatem erga omnes homines nobis proponat, we may imitate it and pray for everyone.
+ut eam imitemur, et pro omnibus oremus. Et hinc etiam And for this reason it is also clear that that distribution is not
+40 constat distributionem illam non recte restringi ad praedes- 40R rightly restricted to the predestined or to the state or genus of human
+tinatos, vel ad status seu genera hominum; quia altera distri- beings. For whichever distribution Paul uses when says that “I desire
+butio, qua Paulus ait. Obsecro fieri obsecrationes, orationes, etc. that supplications, prayers, . . . be made for all people” ([1 Timothy
+pro omnibus hominibus, nullam similem restrictionem pati- 2:1]), no similar restriction is permitted, but it is clear that Paul uses
+tur: et manifeste Paulus eas aequiparat. Igitur iuxta senten- them equivalently. Therefore, according to Paul’s view, God has some
+45 tiam Pauli habet Deus veram et propriam aliquam volun- 45R true and proper willing by which he wills all people to be saved. Since
+tatem, qua vult omnes homines salvos fieri; quae, cum talis that willing is not such that it has an effect in every case, it cannot
+non sit, ut in omnibus habeat effectum, non potest esse effi- be an efficacious one. Therefore, it is a simple complacentia. And
+cax: est ergo simplex complacentia. Atque ita locum illum Chrysostom seems to have understood that passage in this way in his Chrysostom.
+Chrysostomus. intellexisse videtur Chrysostomus ibi homil. 7. dicens. Im- 7th sermon, saying: “Imitate your God. If he wishes to save every-
+50 itare Deum tuum, si omnes ille vult salvos fieri, merito pro om- 50R one, then rightly you must pray for everyeone. If he is eager to save
+nibus oportet orare; si omnes ille salvos fieri cupit, illius et tu everyone, then you must harmonize your will to that.” And he ap-
+concorda voluntati: subditque inferius hoc modo induxisse plies it later to say that Paul in this way was leading us to pray for
+nos Paulum ad orandum pro gentilibus, et pro haereticis, gentiles, for heretics, and for all people, and to desire their salvation.
+et pro omnibus hominibus, et illorum salutem desiderare. “For through this we avoid being similar to them as long as we will the
+55 Quia per hoc illi evadimus similes, dum quae ipse vult, eadem 55R same thing that he wills.” For this reason he says in his first sermon on
+volumus. Qui propterea homil. 1. ad Ephesios ait. Deum Ephesians: “God eagerly longs and desires for our salvation, even for
+valde cupere, et valde desiderare nostram salutem, etiam eorum those people whom he damns on account of sin.” He distinguishes
+hominum, quos propter peccatum damnat. Circa quos distin- two willings in God concerning these people: one he calls the first,
+guit in Deo duplicem voluntatem; unam vocat primam, aliam the other the second. Through the former, he says, God wills their
+60 secundam; et per priorem ait velle illorum salutem propter 60R salvation on account of his goodness; but through the latter he wills
+suam bonitatem; per posteriorem autem velle eos damnare to damn them on account of their sins. John of Damascus copies this
+propter eorum peccata. Quam distinctionem imitatur Dam- distinction in De fide II, ch. 29, saying that God primarily wills to save
+ascenus lib. 2. De fide cap. 29. dicens, Deum primaria volun- everyone but secondarily—which is because of us—he wills to punish
+tate velle omnes salvare; secundaria vero, quae ex nostra causa the wicked. The following words from Paul in 1 Thessalonians 4[:3] is 1 Thessalonians.
+65 est, velle malos punire. Cui etiam sententiae consonant illa 65R consistent with this view: “For this is the will of God, your sanctifica-
+1. ad Thess. verba Pauli 1. ad Thessalonicenses 4. Haec est enim voluntas tion.” This was written not only to the predestined but to the whole
+
+-- 18 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 19
+Dei sanctificatio vestra, quae non ad praedestinatos sed ad to- Christian population. [See also] the Dialogus contra Manichaeos by
+Damascenus.
+Prosper.
+tum populum Christianum scribebat. Idem Damascenus lib. the same John of Damascus. In De vocatione omnium gentium book John of
+Damascus.
+Prosper.
+Dialogus contra Manichaeos; Prosper lib. 2. De vocatione om- 2, chs. 19 and 25 and elsewhere in 7 and 8, Prosper of Aquitaine un-
+70 nium gentium cap. 19. et 25. alias 7. et 8. praedicta verba Pauli 70R derstands the aforementioned words of Paul in 1 Timothy 2 as simply
+1. ad Timotheum <col. b> 2. de omnibus hominibus sim- being about all human beings, saying that God, according to the bene-
+pliciter intelligit, dicens; ex universalibus Dei beneficiis con- factions he [bestows] universally, unchangingly wills and always has
+stare Deum velle, semperque voluisse omnes salvare. Idem willed to save everyone. He says the same thing in his second response
+habet in resp. 2. ad obiectionem Vincentianam. Denique to the objection from Vincent [in Ad capitula objectionum Vincentia-
+75	Ambrosius.
+Theophylact.
+Oecumenius.
+Chrysostomus.
+Theophylact.
+D. Thomas.
+haec etiam est communis expositio Ambrosii, Theophylacti, 75R narum responsiones]. Finally, this is also the common exposition of
+Oecumenii, et aliorum 1. ad Timotheum 2. Chrysostomi, 1 Timothy 2[:4] by Ambrose, Theophylact, Oecumenius and others, Ambrose.
+Theophylact.
+Oecumenius.
+Chrysostom.
+Theophylact.
+St. Thomas.
+Theophylacti, et aliorum in illud Ioannem 1. Qui illumi- as well as by Chrysostom, Theophylact, and others of that passage in
+nat omnem hominem venientem in hunc mundum. Tandem John 1[:9]: “He who gave light to everyone coming into this world.”
+D. Thomas 1. p. q. 19. art. 6. ad 1. expositionem Damasceni Finally, St. Thomas in ST Ia.19.6 ad 1 seems to approve more of the
+80 et Chrysostomi circa verba Pauli 1. ad Timotheum 2. magis 80R exposition of 1 Timothy 2[:4] by John of Damascus and Chrysostom.
+probare videtur: quam etiam alii Theologi sequuntur. The other theologians also follow this exposition.
+Durandus in 1.
+dist. 47. q. 1.
+Carthusius
+dist. 46. q. 1.
+Soto ad Romanos
+9. Cordubensis
+lib. 1.
+Quaestionarium
+theologicum q. 56.
+Cameraco In
+dialogo catholico
+cap. 6. §1.
+Chrysostomus.
+10. Est igitur in Deo non metaphorice, sed vere et pro- 10. Therefore, the will to save those whom he wills to punish Durandus, I,
+dist. 47, q. 1;
+Denys the
+Carthusian, I,
+dist. 46, q. 1;
+Soto, ad Romanos
+9; Córdoba,
+Quaestionarium
+theologicum I,
+q. 56; and
+Cameraco, In
+dialogo catholico
+ch. 6, §1.
+Chrysostom.
+prie voluntas salvandi eos, quos in aeternum vult punire: eternally is not metaphorical but true and proper. Since, therefore,
+ergo, cum haec posterior voluntas habeat effectum, et non the will to punish them is effectual rather than the other one, it is
+85 illa, necesse est, ut posterior sit absoluta et efficax, prior vero 85R necessary that the former one be absolute and efficacious while the
+conditionata, seu per simplicem tantum affectum. Neque hoc latter one is conditional or through a simple disposition (affectum)
+est ullum inconveniens, quandoquidem utrumque obiectum only. Nor is this in any way problematic, seeing that each object is
+bonum est in ordine ad diversas virtutes. Nam salus et beati- good in relation to different virtues. For the salvation and happiness
+tudo hominum per se amabilis est, et in Dei gloriam cedens; of human beings are lovable in themselves and yielding to the glory of
+90 et ad charitatem et misericordiam pertinet, ut Deus velit il- 90R God, and they belong to charity and mercy, so that God wills them
+lam, quantum est ex se, ut loquitur Chrysostomus homil. 7. insofar as they are from himself, as Chrysostom says in the seventh
+in Ioannem punire autem peccata pertinet ad iustitiam; et sermon on [the Gospel] of John. But to punish sins belongs to justice
+ideo etiam amabile est, non tamen per se, et absolute, sed and therefore is also lovable, although not in itself and absolutely but
+ex suppositione peccati: ergo utrumque affectum simul habet only on the supposition of sin. Therefore, God has each disposition at
+95 Deus eo modo quo simul haberi potest: non potest autem 95R the same time in the way that they can be held at the same time. But
+uterque esse efficax in ordine ad idem obiectum, quia involvi- they cannot both be efficacious in relation to the same object, since
+tur repugnantia: ergo quando voluntas inferendi poenam that involves a repugnancy. Therefore, when the will is efficacious
+aeternam est efficax, manet nihilominus in Deo simplex affec- in inflicting eternal punishment, there nevertheless remains in God a
+tus dandi gloriam eidem cui vult dare poenam. Quod etiam simple disposition to give glory to the same ones to whom he wishes
+100 effectus ipsi manifestant. Nam Deus praebet tali homini suf- 100R to give punishment. The very effects themselves make that evident.
+ficientia auxilia, quibus, si velit, poenam evadat, et salutem For God offers sufficient aid to such a human being to be able to avoid
+consequatur: ergo signum est habere Deum verum et pro- the punishment and attain salvation if he wants to. That is a sign that
+68 lib ] 1 V.
+
+-- 19 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 20
+prium affectum, et, ut more nostro loquamur, desiderium, God has a true and proper disposition and, to speak according to our
+ut talis homo non damnetur. Dicunt aliqui Deum quidem custom, desire not to damn such a human being.
+105 velle illum finem in mediis, et non in seipso. Sed contra. 105R Some say that God indeed wills that end in the means but not in
+Nam vere Deus vult dare illa media propter illum finem in itself. To the contrary. For God truly wills to give those means for
+se, alioqui nec vellet media, ut media, neque ex propria inten- the sake of that end in itself. Otherwise he would not will the means
+tione ordinaret ea in talem finem. Sicut etiam vult dare Deus as means nor would he order them to such an end through a proper
+homini voluntatem et concursum sufficientem ad actum pec- intention, just as God wills to give to a human being a sufficient will-
+110 cati; et tamen <402> non vult dare illa propter actum peccati 110R ing and concursus for an act of sin and yet does not will to give that
+ut certissimum est: cum enim vult Deus dare possibilitatem for the sake of the act of sin, as is most certain. For when God wishes
+peccandi, nullo modo habet pro fine proximo ipsum pecca- to give the possibility of sinning, he in no way has the sin itself or the
+tum, seu actum peccaminosum, sed potius habet pro fine mer- sinful act as a proximate end. He rather has for his end the merit that
+itum, quod esse potest in victoria peccati, non committendo there can be in the victory over sin by not committing it even though
+115 illud, licet quis posset: ergo, ut Deus det potestatem aliquid 115R one is able to. Therefore, in order for God to give some power to act
+agendi propter aliquem effectum, non satis est ut velit dare for the sake of some effect, it is not enough that he will to give that
+ipsam potestatem, nisi id velit ex proprio affectu ad talem ef- power except he will that from a proper disposition to that effect by
+fectum, ordinando ad illum potestatem, et auxilia: sicut ad ordering it to that power and assistance as to an end. In this way God
+finem: ergo hoc modo vult Deus dare sufficientia auxilia ad wills to give sufficient assistance for salvation, even to those who are
+120 salutem, etiam iis, qui non salvantur: ergo habet aliquam pro- 120R not saved. He has, therefore, some proper willing concerning their
+priam voluntatem circa eorum salutem. salvation.
+An Deus aliquid operetur voluntarie simpliciter, et involuntarie Whether God does anything voluntarily strictly speaking but involuntar-
+secundum quid. ily in some respect.
+11. Ad difficultatem ergo positam concedo, circa malum poe- 11. In response to the first posited difficulty, then, I concede that with
+nae, praesertim circa id, quod medicina non est, sed pura respect to the evil of punishment, especially that which is not reme-
+5 vindicta, et poena inimici, ut Scriptura loquitur, ita se gerere 5R dial but is purely retributive and harmful punishment, as Scripture
+Deum, ut licet absolute et efficaciter velit tale malum inferre teaches, God conducts himself such that although he wills absolutely
+alicui, nihilominus simul habeat affectum simplicem dandi and efficaciously to inflict such a punishment on someone, he never-
+bonum illi malo contrarium. Sicut iustus iudex efficaciter theless at the same time has a simple disposition to give a good con-
+vult punire hominem, cui, quantum est in se vellet potius trary to that evil. This is the same as a just judge who efficaciously
+10 benefacere. Neque enim talis affectus simplex ullam includit 10R wills to punish a person to whom he would as far as he himself is
+imperfectionem: nam in obiecto et ordine suo est perfectis- concerned rather confer a benefit. Nor does such a simple disposition
+simus; et, quod non sit efficax, non est ex impotentia Dei, include any imperfection, for it is most perfect in the object and in
+sed ex libertate, et summa sapientia: et ideo, cum illi non sit its order, and the fact that it is not efficacious is not a result of power-
+debita maior efficacitas, licet illam non habeat, non propterea lessness on the part of God but is a result of freedom and the highest
+15 imperfectus est. Neque etiam est superfluus; tum quia est per 15R wisdom. And therefore, since a greater efficacy is not owed, not hav-
+se bonus; et hoc satis est; tum etiam, quia expedit ut divina ing it is for that reason not an imperfection. The [disposition] is also
+voluntas circa nullum obiectum per se amabile sit quasi sus- not superfluous, first because it is good in itself (and this is sufficient)
+
+-- 20 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 21
+pensa, et absque ullo affectu: et ideo ubi non vult habere and, second, because it makes it so that concerning no object that is
+efficacem affectum, habet saltem simplicem; tum denique, lovable in itself is the divine will suspended, as it were, and without
+20 quia est necessarius, ut vere ac proprie Deus dicatur inten- 20R any disposition [corresponding to that lovable object]. For this rea-
+dere talem finem, et habere beneplacitum, quantum est ex son in cases where God does not have an efficacious disposition he
+ipso, et propter illum velle media, quae ad illum ordinantur. at least has a simple disposition. And, third, because it is necessary
+Neque illa veluti repugnantia affectuum divinae perfectioni that God be truly and properly said to intend such an end and to have
+repugnat; tum quia illa non est vere repugnantia: quia licet pleasure in it to the extent that it is pleasing, and to will the means
+25 versentur circa eamdem rem, tamen sub diversis rationibus; 25R that are ordered to it for its sake. Nor is that repugnancy, as it were,
+tum etiam quia uterque actus est ex perfectissimo consilio, et among the dispositions repugnant to divine perfection. First, there
+deliberatione voluntatis, unde uterque est <col. b> infinitus is no true repugnancy, since, although they concern the same thing,
+in suo ordine, et neuter alterum ullo modo impedit. Quod they are nevertheless under different conceptions (rationes). Second,
+etiam in simili docere solent Theologi de voluntate humana each act is from the most perfect counsel and the deliberation of the
+30 Christi, quatenus, ut ratio, efficaciter volebat mortem, quam 30R will. Hence, each is infinite in its order and neither impedes the other
+ut natura inefficaciter refugiebat absque ulla propria repug- in any way. The theologians usually teach something similar about
+nantia actuum: quia non nisi cum perfecto dominio et ordine the human will of Christ, which qua reason efficaciously willed death
+utrumque exercebat; multo ergo magis id dicendum est de but qua nature inefficaciously fled that death, but without any proper
+divina voluntate. repugnancy of acts. For he did not exercise either except with perfect
+35R dominion and order. Much more, therefore, should that be said about
+the divine will.
+35	Quid tenendum
+sit quoad modum
+loquendi.
+12. Quod vero spectat ad illum modum loquendi, an di- 12. But as far as that way of speaking is concerned, whether What should be
+held concerning
+the way of
+speaking.
+cendum sit Deum habere in huiusmodi opere affectum volun- it should be said that God has in work of this sort a disposition
+tarium simpliciter, admisto involuntario secundum quid, ad unqualifiedly voluntary mixed with one conditionally qualifiedly,
+modum loquendi spectat. Et quidem locutiones Scripturae in 40R merely concerns ways of speaking. Indeed, the expressions in Scrip-
+priori difficultate adductae ita indicare videntur: nam licet, ture brought up in the former difficulty seem to indicate this.8 Al-
+40 simpliciter sint metaphoricae, quatenus dolorem vel poeni- though strictly speaking they are metaphorical insofar as they at-
+tudinem Deo attribuunt, tamen per eam metaphoram indi- tribute sorrow and regret to God, nevertheless, they indicate through
+cant Deo aliquo modo esse involuntarios huiusmodi affec- that metaphor that there are involuntary dispositions of this sort in
+tus. Item mors Christi fuit illi involuntaria secundum quid 45R God in some way. Likewise, the death of Christ was qualifiedly in-
+propter simplicem affectum, quo illam fugiebat. Item pec- voluntary for him on account of the simple disposition by which he
+45 catum, quod est causa illius poenae, simpliciter est involun- fled it. Likewise, the sin that is the cause of that punishment is un-
+tarium Deo, non solum quia est contrarium voluntati signi, qualifiedly involuntary to God, not only because it is contrary to his
+ut quidam putant, sed etiam, quia vero ac proprio odio Deus revealed will, as certain people think, but also because God detests
+abominatur peccatum, quod illi maxime displicet. Item, quia 50R sin with a true and proper hatred and it is most displeasing to him.
+hoc involuntarium secundum quid non est in Deo ex impo- Also, because this qualified involuntariness is not present in God as
+50 tentia, sicut solet esse in hominibus, in quibus propterea im- a result of powerlessness—as it usually is in the case of human beings
+8See n. 6 of this section.
+42–43 affectus ] effectus B V.
+
+-- 21 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 22
+perfectionem dicit; sed est ex summa sapientia, et perfecta (in whom it for this reason expresses an imperfection)—but as a result
+libertate. Denique tale involuntarium secundum quid, non of the highest wisdom and perfect freedom. Finally, a qualified invol-
+excludit voluntarium simpliciter, et ita non repugnat prae- 55R untariness of this sort does not exclude unqualified voluntariness and
+senti testimonio Pauli, quod nunc tractamus: nam etiam so is not repugnant to the present testimony from Paul, which we are
+55 in hominibus non excluditur voluntarium simpliciter, ob now discussing.
+admistionem involuntarii secundum quid per simplicem af- For even in human cases unqualified voluntariness is not excluded
+fectum circa obiectum materialiter diversum, ut constat ex on account of the presence of qualified involuntariness through a sim-
+D. Thomas. D. Thoma 1. 2. q. 6. art. 5. et 6. sic exponente Philosophum 60R ple disposition concerning an object materially distinct, as is clear
+lib. 3. Ethicorum ad Nicomacheam cap. 3. Quo fit ut huius- from St. Thomas in ST IaIIae.6.5–6 explaining Nicomachean Ethics St. Thomas.
+60 modi voluntarium in hominibus sufficiat, et ad peccandum III.3 in this way. And so it happens that voluntariness of this kind in
+mortaliter, et ad praestandum simpliciter absolutum et effi- human cases is sufficient both for sinning mortally and for giving un-
+cacem consensum. Unde est etiam probabilis illa sententia, qualifiedly absolute and efficacious consent. Hence, also probable is
+quae generatim affirmat, huiusmodi voluntarium ex natura 65R the view, which is generally affirmed, that voluntariness of this kind is
+rei sufficere ad valorem cuiuscumque contractus, vel actionis ex natura rei sufficient for value of any contract or human action, un-
+65 humanae; nisi aliunde, scilicet vel humano iure, vel ex alia pe- less it is impeded from elsewhere, namely, by human law or by some
+culiari ratione impediatur: sed de hoc alias. Itaque, licet Deus, other special reason. But more about that in another place. And so,
+dum peccatorem punit privando illum <403> aeterna beati- although God has this disposition as long as he punishes a sinner by
+tudine, affectum habeat, et, si ita loqui licet, desiderium be- 70R depriving him of eternal happiness, and, if it is permissible to speak in
+atificandi illum, nihilominus secundum consilium voluntatis this way, has a desire to make him happy, nevertheless, he voluntarily
+70 suae voluntarie illud operatur, tum simpliciter, tum etiam does the former according to the counsel of his will, both unquali-
+perfectissime intensive, licet non extensive; quia actus, quo fiedly and also most perfectly intensively (although not extensively).
+id vult, perfectissimus est in omnibus conditionibus ad vol- For the act by which he wills that is most perfect in every condition
+untarium requisitis: nam est ex perfectissima cognitione, et 75R that is required for voluntariness. It comes from a most perfect cog-
+omnino ab intrinseco absque ulla extrinseca vi. Non est nition and entirely from within without any force from without. But
+75 autem omnibus modis ille effectus voluntarius, id est com- that effect is not voluntary in every way, that is, in relation to every
+paratus ad omnem voluntatem Dei, tam antecedentem, quam of God’s willings, both antecedent and consequent. For this reason I
+consequentem: et ideo dico non esse perfectissime extensive do not say that it is most perfectly voluntary extensively. This is in
+voluntarium: quod nihil repugnat perfectioni divinae, quia 80R no way repugnant to divine perfection, since the opposite perfection
+opposita perfectio non est debita tali operi, imo neque illi is not something such a work ought to have nor indeed would it be
+80 proportionata. proportionate to such a work.
+13. Hinc vero dici tandem potest (et fortasse est ap- 13. But, finally, from this one can also say (and perhaps this is
+tior loquendi modus) tale opus non esse ullo modo invol- a more suitable way of talking) that such a work is not in any way
+untarium Deo cum proprietate loquendo, sed solum secun- 85R involuntary for God when speaking properly, but only according to
+dum metaphoram et analogiam ad nostras operationes vel metaphor and according to an analogy with our activities and acts.
+85 actus. Quia, ut opus dicatur involuntarium etiam secun- For in order to call a work involuntary even only qualifiedly, a simple
+dum quid, non satis est simplex affectus voluntatis ad obiec- disposition of the will for the opposite object is not sufficient. Rather
+tum oppositum, sed necesse est ut intercedat aliqua extrin- it is necessary that some extrinsic force be involved which compels it
+seca vis, quae impellat, vel aliquam necessitatem inferat ad 90R or inflicts some necessity for one of the dispositions that seem to be
+
+-- 22 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 23
+aliquem ex illis affectibus, qui inter se pugnare videntur; et ex fighting with each other and that on the part of the will there must
+90 parte voluntatis intercedat impotentia evitandi seu evadendi be a powerlessness to avoid or escape that force in any way, as is clear
+alio modo vim illam; ut constat ex huiusmodi voluntario, from the voluntary things of this sort that is an ordinary occurence in
+quoties in nobis contingit. Item, quia sicut voluntarium us. Also, since just as the voluntary must be from an intrinsic power,
+esse debet ab intrinseco, ita involuntarium postulat ut sit 95R so also the involuntary requires that it be in some way from something
+aliquo modo ab extrinseco. In Deo autem illa duo locum extrinsic. But in God those two have no place, since an extrinsic force
+95 non habent; quia neque ab extrinseco vis ei inferri potest, cannot be imposed on him, properly speaking, and the fact that he
+proprie loquendo, nec ex impotentia provenit quod huius- has willings of this sort does not arise from a powerlessness but from
+modi voluntates habeat, sed ex se, et intrinseca perfectione himself and he has each effect by intrinsic perfection. For this reason
+utrumque habet effectum, et ideo dici non debet operari in- 100R it should not be said that he acts involuntarily even if only qualifiedly.
+voluntarie, etiam secundum quid. Loquimur autem semper We, however, always speak according to our customs about those acts,
+100 more nostro de illis actibus, ac si essent plures, quia secundum as if they were plural, since we distinguish them according to our rea-
+rationem nostram illos distinguimus, ut eos explicare pos- son, so that we can explain them. Nevertheless, in the case of the acts
+simus: cum tamen actus divinae voluntatis propter eminen- of the divine will each aspect (ratio) is included in a united and most
+tiam suam utramque rationem uniter et simplicissime com- 105R simple way on account of the will’s eminence.
+plectatur.
+Opereturne Deus secundum consilium voluntatis suae etiam in Whether God works according to the counsel of his will even in works of
+operibus liberi arbitrii humani. a human freewill.
+Explicatio prima.
+Hieronymus.
+14. Ad alteram difficultatem responderi posset, Pau- <col. b> 14. One can respond to the second difficulty that Paul is talking about The first
+explanation.
+Jerome.
+lum loqui de iis, quae per seipsum operatur: non vero de iis those things that are done through themselves but not about those
+5 etiam, quae operatur per alios praesertim per voluntatem hu- 5R things that are done through other things, especially not those done
+manam. Possetque hoc confirmari ex verbis Hieronymi in through human will. And this can be confirmed from Jerome’s words
+Commentario illius loci dicentis. Non quod omnia, quae in in his commentary on that passage where he says: “Not all things
+mundo fiunt, Dei voluntate et consilio peragantur: alioquin that are done in the world are completed by God’s will and counsel.
+et mala Deo poterunt imputari: sed quod universa, quae facit, Otherwise, the evils could also be attributed to God. But everything
+10	Reiicitur. consilio faciat, et voluntate. Sed nec verba Pauli, nec univer- 10R that God does, he does by his counsel and will.”
+salis efficacitas divinae voluntatis illam limitationem admit- But neither the words of Paul nor the universal efficacy of the di- It is rejected.
+tit: Deus enim vere ac proprie operatur, non solum ea, quae vine will admit that limitation. For God truly and properly does not
+per seipsum facit, sed etiam ea omnia, quae operantur crea- only those things that he does by himself but also all those things that
+turas, et humanae voluntates, quatenus vera et realia opera are done by creatures and human wills, insofar as they are true and
+15 sunt: quia in ea verius ac perfectius influit, quam ipsae causae 15R real works. For he inflows being into those more truly and more per-
+Psalmus [146]. secundae: et ideo de illo dicitur. Omnia opera nostra oper- fectly than the secondary causes themselves, and for that reason they
+atus es in nobis Domine, et illud. Qui producit in montibus are said to be by him: “you performed all our works in us, O Lord”
+90 impotentia ] in potentia B.
+98 effectum ] affectum V.
+103 uniter ] unite B.
+
+-- 23 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 24
+foenum, et similia. Cum igitur verba Pauli generalia sint, [(Isaiah 26:12–13)]. And the passage, “he produces hay in the moun-
+etiam haec opera Dei comprehendunt; et ratio est evidens, tains” [(Psalm 146:8)], and other similar passages. Since, therefore,
+20 quia haec etiam opera non fiunt nisi Deo volente: neque ipse 20R Paul’s words are general, they also include God’s works. The reason
+influit in illa nisi voluntarie. Et ad hunc ipsum voluntar- is obvious, since even these works do not happen unless by God will-
+ium influxum non nisi summa sapientia, et consilio deter- ing them nor does he inflow being into them except voluntarily.
+minatur. Quod etiam verum est de operibus peccatorum, His will is not determined to this voluntary influx except by the
+quatenus a Deo fiunt, vel in ea Deus influit: nam quatenus highest wisdom and counsel. This is also true concerning the works
+25 est universalis provisor, sapienter iudicat expedire tales actus 25R of sin insofar as they are made by God or insofar as God inflows be-
+permittere, et ad illos concurrere: et iustissime hoc ipsum ing into them. For to the extent that he is the universal provider, he
+vult. Oportet tamen in peccando distinguere aliquid, quod a wisely judges to permit producing such acts and to concur with them.
+Deo fit, et aliquid, quod ab ipso non fit: operatur enim Deus He wills this most justly. Nevertheless, in the case of sinning one
+actum peccati, non malitiam eius; et hoc est quod docuit Hi- ought to distinguish that which God does and that which he does not
+30 eronymus, et ideo non dixit: Aliquid facit Deus in mundo, et 30R do. For God makes the act of sin but not its evil. This is what Jerome
+non secundum suum consilium et voluntatem; sed, aliquid fit teaches, which is why he does not say that God makes something in
+in mundo, quod tamen Deus non facit, scilicet peccatum: si the world but not according to his counsel and will; rather, he says
+tamen peccatum aliquid esse dicendum est, cum potius sit ni- that something is made in the world that is, however, not made by
+hil, teste Augustino: vocatur tamen aliquid ad modum priva- God, namely, sin. If, nevertheless, it should be said that sin is some-
+35 tionis, prout etiam dicitur fieri et esse. Et tamen etiam sub ea 35R thing since it is more than nothing, by Augustine’s witness, it is called
+ratione, licet peccatum non fiat ex consilio et voluntate Dei, something in the mode of privation insofar as it is said to become and
+non tamen fit sine eius consilio, et voluntate permittente ut to be. And yet for that reason, even though sin is not made according
+hoc malum fiat. Sed de hac re, et in universum de consilio et to the counsel and will of God, it is not, however, made without his
+voluntate disponente, et operante in humanas voluntates, et counsel and will permitting this evil to be made. But concerning this
+40 actus liberos earum, multa difficilia tractari possent, ad quae 40R matter—and in general concerning counsel and God’s will disposing
+nunc digredi non est necesse. and working in human wills and in their free acts—many difficulties
+could be discussed which it is not necessary to get into at present.
+Deum velle omnia extra se ut media. That God wills everything beyond himself as a means.
+15. Quarto, principaliter infertur ex prae- <404> dictis ver- 15. Fourth, it is principally inferred from the aforementioned words
+bis Pauli, quidquid Deus extra se vult, velle ut medium ordi- 45R of Paul that whatever God wills beyond himself, he wills as a means
+45 natum ad aliquem finem, nempe ad seipsum, propter quem ordered to some end—namely, to himself—for the sake of which he
+omnia operatur, ut Sapiens etiam dixit. Haec autem conse- does all things, as Wisdom also teaches.9 This consequence, moreover,
+cutio fundata est in proprietate illius verbi, consilium: quae, is founded in a property of that word ‘counsel’, which, excluding the
+seclusa imperfectione inquisitionis, vel ignorantiae, quam in imperfection of inquiry or ignorance which it includes or rather pre-
+nobis includit, vel potius supponit, secundum omnia alia, 50R supposes in us, should be understood with propriety according to all
+50 quae ad perfectionem spectant, cum proprietate intelligenda the other things that belong to perfection when it is attributed to God
+est, cum Deo attribuitur iuxta superius dicta. At vero consil- as was said earlier. But counsel concerns not the end but the means,
+9In De fine hominis 4.pr. Suárez says that God does not properly have an ultimate end.
+
+-- 24 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 25
+Aristoteles.
+D. Gregorius
+Nissenus.
+D. Thomas.
+ium non est de fine, sed de mediis, teste Aristotele 3. Ethico- as Aristotle testifies in Nicomachean Ethics III, ch. 3, and Gregory of Aristotle.
+St. Gregory of
+Nyssa.
+St. Thomas.
+rum ad Nicomacheam cap. 3. et Gregorio Nisseno lib. 5. De Nyssa in De philosophia V, ch. 5. And St. Thomas gives the following
+philosophia cap. 5. Et rationem reddit D. Thomas 1. 2. q. 14. 55R argument in ST IaIIae.14.2: since counsel is about those things that are
+55 art. 2. quia consilium est de iis, quae eligenda sunt: et conse- elected, it consequently is about those things that are not presented as
+quenter est etiam de iis, quae non sese offerunt ut necessario to be loved necessarily. For no one takes counsel concerning what is
+amanda: nam circa necessaria nemo consilium capit: electio necessary. But election and indifference are properly about means and
+autem et indifferentia proprie est in mediis: de iis ergo est therefore counsel is properly about them.
+proprie consilium. Et praeterea, quamvis Deus se perfectis- 60R Furthermore, although God loves himself with most perfect vol-
+60 sime voluntarie amet, non dicetur se amare secundum con- untariness, he is not said to love himself according to the counsel of
+silium voluntatis suae, sed potius ex naturali (ut sic dicam) his will but rather from the natural (if I may call it that) necessity of
+necessitate voluntatis suae: quia non se amat ut medium, sed his will. For he does not love himself as a means but rather as the ulti-
+potius ut ultimum terminum sui amoris, si tamen hoc modo mate terminus of his love, if we can speak in this way. For, as I noted
+nobis loqui licet. Nam, ut hoc obiter advertam, Deus cum 65R in passing, although God loves himself necessarily, he does not love
+65 se amat necessario, non se amat ut finem proprie ac positive, himself as an end properly and positively but negatively. For just as
+sed negative; quia, sicut Deus non est a se positive, sed nega- God does not exist a se positively but only negatively (insofar as he is
+tive tantum, quatenus non est ab alio, ita non est propter se not from something else), so also he is not for his own sake positively
+positive, sed tantum negative: quia non est propter aliud: est but only negatively (since he is not for the sake of something else).
+enim sibi ipsi summum bonum simpliciter; et hoc modo se 70R For he is the unqualifiedly highest good for himself, and in this way
+70 amat necessario. Quatenus vero eius amor se extendit ad crea- he necessarily loves himself. But insofar as his love extends itself to
+turas, amat se ut finem earum, quatenus eas amat propter seip- created things, he loves himself as their end, insofar as he loves them
+sum, in quo amore iam operatur secundum consilium volun- for the sake of himself. In this love he already acts according to the
+tatis suae, quia iam versatur circa media in ordine ad finem. counsel of his will, since it already concerns means in relation to an
+Processiones ad
+intra non sunt
+secundum
+consilium
+voluntatis Dei.
+Et pari ratione Pater aeternus non generat Filium secundum 75R end.
+75 consilium voluntatis suae, nec Pater et Filius producunt Spir- And for a parallel reason the eternal Father does not beget the The internal
+processions are
+not according to
+the counsel of
+God’s will.
+itum sanctum secundum consilium voluntatis, etiamsi volun- Son according to the counsel of his will nor do the Father and the
+tate illum producant, quia neque illum amant ut medium, Son produce the Holy Spirit according to the counsel of their will,
+neque ex amore mediorum illum producunt, sed ex amore even though they produce him by their will, because they do not love
+sui, vel ex amore totius Trinitatis, quatenus unum summum 80R him as a means nor do they produce him from a love for means but
+80 bonum est: unde non libere, sed naturali necessitate produ- from a love for himself or from a love for the whole Trinity insofar
+cunt. Neque propterea aliquid excipimus a generali locutione as it is one highest good. Hence they produce him not freely but
+Pauli. <col. b> Qui operantur omnia, etc. Nam emanationes by a natural necessity. For this reason we cannot take anything else
+divina ad intra iuxta sincerum et proprium loquendi modum from Paul’s general phrase “he who does all things . . . ” For the divine
+Scripturae et Patrum, non computantur inter opera Dei: quia 85R emanations internal [to the Trinity] cannot be counted among God’s
+85 revera operationes non sunt, imo neque actiones in toto etiam works according to the pure and proper way of speaking in Scripture
+metaphysico rigore: quia nullam includunt veram dependen- and the Fathers. For they are not real operations; indeed, they are
+tiam, quae est de ratione actionis, et operationis propriae: not actions at all when speaking with metaphysical rigour, since they
+82 operantur ] operatur V.
+
+-- 25 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 26
+sunt ergo simplices emanationes, seu processiones altioris or- include no true dependency, which belongs to the nature of action
+dinis; voluntariae quidem, non tamen liberae: et ideo non ex 90R and of proper operations.10 They are, therefore, simple emanations
+90 consilio, sed (ut sic dicam) ex foecunditate divinae naturae, or processions of another order, voluntary, to be sure, yet not free.
+eiusque intellectus, ac voluntatis profectae. And for this reason they are not brought about from counsel, but, if
+I may speak in this way, from the fecundity of the divine nature and
+from his intellect and will.
+Ametne Deus aliquid amore amicitiae. Whether God loves anything with friendship love.
+16. Occurrunt autem hoc loco duae aliae difficultates graves 16. But two grave difficulties come up in this place concering this
+circa corollarium hoc; quarum resolutionem brevissime in- corollary, the resolution of which I will suggest in a very brief way.
+sinuabo. Prima est, quia ex dicta illatione sequitur Deum The first is that from the stated conclusion it follows that God does
+5 nullam creaturam amare proprio amore amicitiae seu etiam 5R not love any creature with a proper friendship love or even benevo-
+benevolentiae; quod admittendum nullo modo est; nam re- lence love. But that cannot in any way be admitted, for it is repugnant
+pugnat rationi charitatis, quam Deus ad omnes habere dic- to the nature of charity, which God is said to have towards all. It is
+itur. Repugnat etiam illis verbis Christi. Iam non dicam also repugnant to the words of Christ: “I no longer call you servants
+vos servos, sed amicos. Repugnat etiam innumeris Scripturae [. . . ] but friends” [(John 15:15)]. It is also repugnant to innumerable
+10 locis, in quibus hic Dei amor erga homines mirum in modum 10R passages from Scripture in which this love from God towards human
+exaggeratur. Sequela vero probatur; quia de ratione amoris beings is magnified in an amazing way.
+amicitiae est velle bonum alteri propter seipsum; et ideo re- But the inference is proven: for it belongs to the nature of friend-
+pugnat amorem medii, ut sic, esse amorem amicitiae. Nam ship love to will good to another for the sake of that other person. For
+id, quod est medium, non amatur propter se, sed propter that reason it is repugnant that the mere love of a means be friendship
+15 finem. Quod si aliquod bonum amatur medio ut medium 15R love. For that which is a means is not loved for its own sake but for
+est, non tam amatur illi, quam fini, propter quem totum am- the sake of an end. But if some good is loved for a means insofar as
+atur. Unde D. Thomas 1. 2. q. 26. art. 4. duplicem respec- it is a means, it is not so much loved for that as for the end for the
+tum in amore distinguit, quia per amorem volumus bonum sake of which the whole is loved. Hence St. Thomas in ST IaIIae.26.4
+alicui: nam amare est velle bonum amato, ut dixit Aristote- distinguishes two respects in love, since through love we wish good to
+20 les 2. Rhetoricorum cap. 4. respectu ergo boni, quod amatur, 20R someone. For to love is to will the good to the beloved, as Aristotle
+dicitur amor concupiscentiae: respectu vero eius, cui amatur, says in Rhetoric II, ch. 4. Therefore, with respect to the good that is
+dicitur amor amicitiae; ergo quoties bonum aliquod amatur loved, it is called concupiscent love, but with respect to him for whom
+alteri, non potest esse amor amicitiae: cum ergo medium it is loved, it is called friendship love. Therefore, whenever some good
+ametur fini, nunquam amatur ex amicitia. Imo neque ex is loved for another, it cannot be friendship love. Therefore, when a
+25 benevolentia, si proprie loquamur. Nam amor benevolen- 25R means is loved for an end, it is never loved from friendship. Indeed,
+tia hoc solum differt ab amore amicitiae, quod hic includit it is not loved out of benevolence, if we are speaking properly. For
+seu connotat mutuum amorem in altero, seu redamationem, benevolence love differs from friendship love only in this, that the lat-
+10cf. DM 12.2.6–10
+
+-- 26 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 27
+ut aiunt; amor autem benevolentiae dicitur, cum alteri volu- ter includes or connotes a mutual love for each other or redamation, as
+mus bonum propter seipsum, sive ab alio vicissim amemur, they say. It is called benevolence love, however, when we will a good
+30 sive <405> non. Hunc ergo amorem non habemus ad has 30R to someone for his own sake, whether or not we are loved in return.
+res, quas propter nos amamus: tunc enim benevolentia ad So we do not have this love for those things that we love for the sake
+nos terminatur: nam respectu earum rerum, quas nobis ama- of ourselves, for benevolence is then terminated in us. With respect to
+mus potius est concupiscentia: unde fit, ut, licet interdum those things which we love for us it is, rather, concupiscence.
+rebus inanimatis, vel ratione carentibus bonum velimus, ut Hence it happens that, although sometimes we will good to
+35 equo salutem, vel quid simile; nihilominus ad eas non dica- 35R things that are inanimate or to things that lack reason—health for a
+mur habere benevolentiae amorem; quia etiamsi bonum illud horse, for example, or something similar—nevertheless we are not said
+eis velimus, non tamen in eis sistimus, sed ideo eis volumus to have benevolence love for them. Even though we will that good for
+tale bonum, ut nobis sint utiliores: ita ut unamquamque tali them, we do not stop in them. Rather, we wish such a good for them
+bonitate affectam nobis cupiamus. Si ergo Deus, quidquid in order for them to be more useful to us, so that we eagerly desire
+40 creatum est, amat ut medium, et si quoties ei vult aliquod 40R everything affected by such a good for ourselves. If, therefore, God
+bonum, totum illud refert ad seipsum, nihil vere et proprie loves whatever is created as a means and if he ordinarily wishes some
+amat ex benevolentia; ergo neque ex amicitia, cum amicitia good for a created thing, he refers that whole to himself, and he loves
+benevolentiam supponat. nothing truly and properly from benevolence. Therefore, he also does
+not love it from friendship, since friendship presupposes benevolence.
+17. Altera difficultas est, quia sequitur, Deum in opera- 45R 17. The other difficulty is that it follows that God in all of his
+45 tionibus suis non moveri ad operandum ab intrinseca boni- works is moved to acting not by the intrinsic goodness or fittingness
+tate seu decentia in rebus ipsis inventa, sed solum ab extrin- found in the things themselves but only the extrinsic goodness of the
+seca bonitate finis: consequens autem videtur aperte falsum. end. But the consequent seems plainly false.
+Sequela probatur, quia media non amantur propter intrinse- The consequence is proven: means are not loved for the sake of
+cam bonitatem, sed propter extrinsecam bonitatem finis, ut 50R intrinsic goodness but for the sake of the extrinsic goodness of the
+50 ex Metaphysica suppono: si ergo Deus omnia, quae oper- end, as I suppose from metaphysics.11 If, therefore, God wills all the
+atur vult ut media, non vult illa propter internam bonitatem, things he does as means, he does not will them for the sake of internal
+sed solum propter extrinsecam bonitatem finis. Minor autem goodness but only for the sake of the extrinsic goodness of the end.
+seu falsitas consequentis facile ostendi potest, tum exemplis, The minor or the falsity of the consequent can be shown easily, both
+tum ratione: amat enim Deus hominem iustum propter in- 55R by example and by reason. For God loves a just human being for
+55 ternam iustitiam, vel sanctitatem, quam habet; et propter the sake of the internal justice or sanctity that the person has and for
+bona opera, quae exercet; et vult dare illi gloriam propter the sake of the good works that he performs. God wishes to give
+merita; et voluit assumere potius naturam hominis, quam glory to him for the sake of his merits. God also willed to assume the
+equi, quia rationalis est, atque ita propter internam eius pro- nature of a human being rather than that of a horse, because human
+portionem. Ratio vero est, quia Deus cum sit perfectissimus, 60R nature is rational and thus for the sake of its internal proportion. The
+60 unumquodque amat prout amabile est: sed multae res creatae reason, moreover, is that since God is most perfect, he loves any thing
+11See DM 23.6.
+28 benevolentiae ] amicitiae B.
+40 quoties ] om. B.
+
+-- 27 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 28
+sunt amabiles propter intrinsecam bonitatem: et praesertim whatsoever to the extent that it is worthy of love. But many created
+res intellectuales sunt amabiles propter se: ergo. things are lovable for the sake of their intrinsic goodness. Intellectual
+things especially are lovable for their own sake. Therefore.
+Intellectuales
+creaturas Deus
+amat amore
+amicitiae.
+Ephesios 2.
+1. Ioannis 4.
+D. Thomas.
+Aristoteles.
+18. Ad priorem difficultatem, absolute loquendo, ne- 65R 18. In response to the former difficulty, the conclusion should be God loves
+intellectual
+creatures with
+friendship love.
+Ephesians 2.
+1 John 4.
+St. Thomas.
+Aristotle.
+ganda est consequentia: nam sine ulla dubitatione dicendum denied, absolutely speaking. Without any doubt it should be said that
+65 est, Deum amare aliquas creaturas amore amicitiae, et benev- God loves some created things with friendship love and with benev-
+olentiae; scilicet creaturas intellectuales, quas ex vera chari- olence love, namely, intellectual creatures which he loves from true
+tate diligit, iuxta id. Propter nimiam charitatem, qua dilexit charity, according to the passages “on account of the exceeding char-
+nos Deus: et illud, Deus charitas est: at charitas amicitia est, ut 70R ity by which God loved us” [(Ephesians 2:4)] and “God is charity” [(1
+optime docuit D. Thomas 2. 2. q. 23. art. <col. b> 1. Ad- John 4:8)]. And charity is friendship, as St. Thomas well teaches in
+70 vertendum est autem, quod licet vera et propria amicitia non ST IIaIIae.23.1. It should be noted, however, that although true and
+fundetur in utilitate, vel voluptate, ut sumitur ex Aristotele proper friendship is not founded in utility or pleasure (as is taken from
+8. Ethicorum ad Nicomacheam cap. 3. non tamen excludit Aristotle, Nichomachean Ethics VIII, ch. 3), it does not, however, ex-
+ullum respectum vel habitudinem ad alterum, quem intrin- 75R clude any respect or relation to a second thing that the intrinsic nature
+seca ratio honestatis postulat, et potius est de ratione amici- of fineness (honestatis) requires. Rather, it is of the nature of friend-
+75 tiae ut in honestate fundetur, sicut ibidem Philosophus dixit. ship to be founded in fineness, just as the same Philosopher said. And
+Et hac ratione, licet homines inter se se ament amore amici- for this reason, although human beings love each other with friend-
+tiae, non tamen debent ab illa excludere respectum ad Dei ship love, they must not, however, exclude from that a respect for the
+gloriam et honorem: nam hoc ipso in seipsis constituerent 80R glory and honour of God. For by doing so they would set up the ul-
+ultimum finem suae amicitiae, quod est contra rectitudinem timate end of their friendship in themselves, which is contrary to the
+80 rationis, et honestatis. Imo, si amicitia sit perfecta et super- rightness of reason and fineness. In fact, if friendship is perfect and su-
+naturalis, qualis per charitatem inter iustos constituitur, in- pernatural, of the sort that is built up through charity among the just,
+trinsece in ratione sua includit respectum ad Deum, cuius it intrinsically includes in its nature a respect to God, whose singular
+singularis participatio est ipsa charitas. Sic igitur, quamvis 85R participation is charity itself.
+Deus amet omnem creaturam, etiam rationalem, ut medium In this way, therefore, even though God loves all creatures, even
+85 ad suam gloriam, et ad suam sapientiam, et alia attributa man- rational ones, as means to his glory and to his wisdom and to other
+ifestanda, hoc nihil obstat, quominus creaturas intellectuales manifested attributes, nothing stands in the way for him to love intel-
+amet amore benevolentiae et amicitiae: nullam enim ex eis lectual creatures with benevolence love and friendship love. He does
+utilitatem sibi quaerit, nam bonorum nostrorum non indi- 90R not seek any utility for himself from them, since he does not lack any
+Lucam 17. get. Propter quod dicebat Christus. Cum feceritis omnia, of our goods. For this reason, Christ said: “When you have done Luke 17.
+90 quae praecepta sunt vobis, dicite, Servi inutiles sumus. Itaque all the things that are commanded you, say: we are useless servants”
+sistendo intra rationem utilis seu commodi, vult Deus crea- [(Luke 17:10)]. And so by stopping short of the nature of utility or
+turae intellectuali bonum propter ipsam, id est propter eius advantage, God wills the good of an intellectual creature for its own
+salutem, beatitudinem, etc. quae omnia in alterius rei utili- 95R sake, that is, for the sake of its health, happiness, etc. He does not re-
+tatem, et commodum non refert: et ideo illa est propria et fer any of these to the utility or advantage of a further thing. And so
+95 perfecta benevolentia. Quod si ex parte creaturae respondeat that is a proper and perfect benevolence. And if the creature responds
+debitus ac proportionatus amor, erit etiam amicitiae. Cui with the due and proportionate love, it will also be friendship love.
+nihil obstat, quod Deus ad se referat totum illud bonum in- Nothing stands in the way of this from the fact that God refers that
+
+-- 28 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 29
+tellectualis creaturae, etiam aeternam beatitudinem eius, quia 100R whole good of the intellectual creature, even its eternal happiness, to
+non refert ad se, id est ad suum commodum et utilitatem, sed himself, since he does not refer to himself, that is, to his advantage and
+100 ad gloriam et honorem sibi debitum ut supremo auctori, et utility, but to the glory and honour owed to him as the supreme au-
+fini ultimo talis creaturae, quo non potuit seipsum privare, thor and as the ultimate end of such a creature. He could not remove
+cum respectus ille ad perfectionem, et honestatem talis amici- himself, since that respect to perfection and fineness is necessary to
+tiae necessarius sit. 105R such friendship.
+Amicitia Dei ad
+creaturas quanta,
+et qualis.
+Aristoteles.
+Quocirca, licet Deus ex infinita benignitate voluerit hu- Therefore, although God from his infinite kindness wishes to en- How strong and
+of what kind
+God’s friendship
+to creatures is.
+Aristotle.
+105 iusmodi amicitiam cum creaturis intellectualibus contrahere, ter into a friendship of this kind with intellectual creatures, it cannot,
+non tamen esse potuit cum aequalitate, ut etiam Aristoteles however, be with equality, as Aristotle also recognizes in Nicomachean
+agnovit 9. Ethicorum ad Nicomacheam cap. 10. quia illa ae- Ethics IX, ch. 10, since that equality is repugnant to the divine majesty.
+qualitas maiestati divinae repugnat; sed necessario esse de- 110R It is necessary that the friendship must be more excellent on the part
+buit, amicitia excellentior ex parte extremi: nam ad Deum of the extreme. For this entire love and the whole good of the crea-
+110 ut ad finem ultimum, <406> et in eius gloriam et honorem ture ought to be ordered to God and to his glory and honour as to the
+debet totus hic amor, totumque bonum creaturae ordinari, ultimate end, although conversely in the aspect of advantage and util-
+quamvis e converso in ratione commodi et utilis sistat in ipsa ity it stops in the creature itself. God loves and wishes that advantage
+creatura: quod commodum Deus illi amat, et vult; et ideo 115R to him. And for that reason he truly and properly loves that crea-
+vere ac proprie amat illam amicitiae amore divinae maiestati ture with a friendship love proportionate to the divine majesty and
+115 et excellentiae proportionato. Recte vero probat ratio facta excellence. The reason given rightly shows that God loves no crea-
+Deum nullam aliam creaturam praeter intellectualem amare ture with a proper friendship love beyond intellectual creatures. For
+proprio amore amicitiae: quia nulla alia est amabilis huius- no other creature is lovable with a love of this kind, as St. Thomas St. Thomas.
+D. Thomas. modi amore, ut recte docuit D. Thomas in 2. 2. loc. cit. et 120R rightly teaches in the cited place in ST IIaIIae and as other theologians
+communiter alii Theologi. commonly teach.
+120	Quo amore Deus
+amet creaturas
+ratione carentes.
+19. Nec vero amat Deus alias creaturas amore commodi 19. Nor does God love other creatures with a love of advantage By what love
+God loves
+creatures lacking
+in reason.
+seu concupiscentiae respectu sui, sed respectu creaturarum ra- or concupiscence with respect to himself, but with respect to rational
+tionalium; quia omnes inferiores creaturas vult propter ratio- creatures. For he loves all lower creatures for the sake of their advan-
+nalium commodum et utilitatem; atque ita talis amor, licet re- 125R tage and utility for rational creatures. Thus although such love with
+spectu creaturarum irrationalium sit concupiscentiae, tamen respect to the irrational creatures is concupiscence love, with respect
+125 respectu intellectualium est benevolentiae vel amicitiae, ut to intellectual creatures it is benevolence love or friendship love, as
+D. Thomas. significavit D. Thomas 1. p. q. 21. art. 2. ad 3. Et hoc modo St. Thomas indicates in ST Ia.21.2 ad 3. This is the way that Summa St. Thomas.
+intelligendus est 1. Summae contra gentiles cap. 91. Qui etiam contra gentiles I, ch. 91, should be understood. In ch. 93, rat. 6, he
+cap. 93. rat. 6. hinc optime concludit Deum velle aliis bonum 130R also rightly concludes from this that God wills good to others with
+summa liberalitate. Nam, licet velit aliis se communicare the highest liberality. For, although he wishes to communicate him-
+130 propter seipsum, id est, quia talis actio sibi competit ut fonti self to others for his own sake, that is, because such an action comes
+bonitatis, non tamen se communicat, ut inde aliquid com- together with himself as the fount of goodness, he does not, however,
+modi sibi accrescat; eadem enim est ratio quoad hoc, ser- communicate himself as thereby adding some advantage to himself.
+vata proportione de amicitia, et liberalitate: nam sicut amici- 135R And the reason is the same with respect to this, preserving proportion
+129 liberalitate ] libertate V.
+
+-- 29 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 30
+tia non respicit commodum amantis, ita nec liberalitas dan- concerning friendship and liberality. For just as friendship does not
+135	Aristoteles. tis, ut etiam Aristotoles dixit 4. Ethicorum ad Nicomacheam consider the good of the lover, so also liberality does not consider the
+cap. 6. Sicut autem liberalitas non excludit, imo includit good of the giver, as Aristotle also said in Nicomachean Ethics IV, ch. 6. Aristotle.
+bonitatem seu convenientiam actionis, et consequenter habi- Moreover, just as liberality does not exclude but in fact includes the
+tudinem eius ad ultimum finem; ita et amicitia. Ac denique si 140R goodness or agreeability of the action and consequently its relation to
+liberalitas sit ipsius Dei, qui est finis ultimus, necessario fieri the ultimate end, so also friendship. Finally, if liberality belongs to
+140 debet cum respectu ad gloriam et honorem ipsiusmet dantis, God himself, who is the ultimate end, it necessarily ought to happen
+quod non est praeiudicium liberalitatis, quia id pertinet ad with respect to the glory and honour of the giver himself. That is not
+honestatem actionis. Et idem prorsus dicendum est de vero a precedent (praeiudicium) of liberality, since it belongs to the fineness
+amicitiae amore. 145R of the action. And the same should certainly be said about friendship
+love.
+An voluntas divina propter propriam solum vel etiam ob aliarum Whether the divine will acts only for its own sake or also on account of
+rerum bonitatem operetur. the goodness of other things.
+Aliquorum hac
+super re
+sententia.
+20. Ad alteram partem sunt multi Theologi, qui facile admit- 20. With respect to the other part, there are many theologians who The view of some
+concerning this
+matter.
+tant conse- <col. b> quens quod in illa infertur; nimirum readily admit the consequent inferred in it, namely, that God in all
+5 Deum in omnibus operibus suis nullam aliam rationem ope- 5R his works has no other reason for acting than his own goodness.
+randi habere praeter suam bonitatem. Et praecipue ita vide- St. Thomas especially seems to think this in ST Ia.19.2 and Ia.19.1 St. Thomas.
+D. Thomas. tur sentire D. Thomas 1. p. q. 19. art. 2. et art. 1. ad 3. ubi ad 3, where he says that the divine will is not moved by anything
+ait; divinam voluntatem non moveri ab alio, sed a sua boni- else than by its goodness, which is it itself and which is sufficient
+tate, quae est ipsamet, sibique sufficiens. Unde, inquit, non fit for it. “From this,” he says, “it does not follow that the divine will
+10 ut nihil aliud velit, sed ut nihil velit, nisi ratione suae boni- 10R wills nothing apart from itself, but rather that it wills nothing except
+Alensis 1. p.
+q. 28. membr. 3.
+art. 3. et q. 25.
+membr. 3.
+Henricus
+Quodlibet 4.
+q. 19. Ferrariensis
+1. Summae contra
+gentiles cap. 86.
+Driedo De
+concordia 1. p.
+cap. 4. ad 4.
+Gabriel in 1.
+dist. 41. q. unica
+art. 2. in fine.
+Aliorum opinio.
+D. Thomas.
+tatis. Et idem sentiunt Alensis, Henricus, Gabriel, et alii. by reasons of its goodness” [(ST Ia.19.2 ad 3)]. Alexander of Hales, Alexander of
+Hales, I, q. 28,
+membr. 3, art. 3,
+and q. 25,
+membr. 3; Henry
+of Ghent,
+Quodlibet 4,
+q. 19;
+Ferrariensis,
+Summa contra
+gentiles Ia.86;
+Driedo, De
+concordia I, ch. 4,
+ad 4; and Gabriel,
+I, dist. 41,
+q. unica, at the
+end of art. 2.
+The opinion of
+others.
+St. Thomas.
+Ratio vero tacta est in difficultate proposita; quia in amore Henry of Ghent, and Gabriel, and others think the same thing. The
+mediorum voluntas non movetur nisi a fine. Unde iuxta reason is touched on in the proposed difficulty, since the will is not
+hunc modum dicendi, ad rationem in contrarium, respon- moved to a love of means except by an end. Hence according to this
+15 debitur; Deum quidem amare bonitatem seu perfectionem 15R way of speaking one responds to the argument for the contrary that
+uniuscuiusque creaturas per modum obiecti materialis: totam God indeed loves the goodness or perfection of any creature through
+autem rationem volendi esse bonitatem solam ipsius Dei, et the mode of a material object, but the whole reason for willing is the
+ita illam solam habere rationem finis: caetera vero omnia, ra- goodness of God alone and so that alone has the nature of an end. But
+tionem mediorum. Alii vero Theologi aliter loquuntur, di- all the other things have the nature of means.
+20 centes; Deum in multis operibus suis respicere ad congru- 20R But other theologians speak otherwise, saying that God in all his
+entiam, et decentiam ipsorum: quod maxime videtur docere works considers their congruency and fittingness. St. Thomas seems
+D. Thomas 1. Summae contra gentiles cap. 86. et 87. ubi ait; to teach this especially in Summa contra gentiles I, chs. 86 and 87,
+quamvis non detur vera causa divinae voluntatis, aut actus where he says that although there is no true cause for the divine will
+eius; tum quia eius velle non est a sua voluntate distinctum; or one of its acts (because it is not distinct from its willing and also
+25 tum etiam quia eodem simplicissimo actu vult quidquid vult, 25R because whatever it wills it wills by the same most simple act, as he
+
+-- 30 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 31
+ut latius ipse exponit 1. p. q. 19. art. 5. nihilominus tamen himself explains more fully in ST Ia.19.5), nevertheless some reasons
+dari ex parte obiectorum creatorum rationes aliquas, ob quas are given on the part of created objects on account of which the divine
+divina voluntas ad talia obiecta libere terminatur. Quod will is freely terminated in such objects. Durandus, Cajetan, and other
+etiam Durandus, Caietanus, et alii Theologi docuerunt. Et theologians also teach this. And it seems to be effectively proven by
+30 videtur efficaciter probari ratione facta in proposita difficul- 30R the argument made for the proposed difficulty.
+tate. Et consonant satis verba Pauli, quae nunc tractamus; It is also consistent with the words of Paul that we are now dis-
+scilicet, operari Deum omnia secundum consilium voluntatis cussing, namely, that God works all things according to the counsel
+suae: in illo enim aeterno consilio non tantum considerat of his will. For in that eternal counsel God not only considers his
+Deus bonitatem suam, sed etiam pulchritudinem et decen- goodness but also the beauty and fittingness found in the things them-
+35 tiam inventam in ipsis rebus, et ideo per voluntatem suam 35R selves, and for that reason accepts or loves them through his will. Nor
+illas acceptat aut amat. Neque hoc repugnat cum ratione is this repugnant with the nature of means, as was objected. First, be-
+mediorum, ut obiiciebatur; tum quia, etiamsi id quod est cause even if that which is a pure means entices [the will] to a love for
+pure medium non alliciat ad sui amorem, proprie loquendo, it, properly speaking, but only an end entices [the will] to loving the
+sed finis tantum alliciat ad amorem medii, tamen quando means, nevertheless, when a means is a means of the kind that is also
+40 medium ita medium est, ut sit etiam per se amabile, potest 40R lovable in itself, it can be entice [the will] to loving it along with the
+simul cum fine ad sui dilectionem allicere: hoc autem modo end at the same time. In this way, moreover, many created things can
+possunt multae creaturae ad divinam voluntatem comparari; be related to the divine will. Second, because that which is a means
+tum etiam, quia, quod est medium respectu unius, est finis in with respect to one thing is an end in relation to another. And thus,
+ordine ad aliud: atque ita, licet omnia opera Dei sint media although all of God’s works are means with respect to God, never-
+45 respectu ipsius Dei, tamen in- <407> ter se habent ordinem 45R theless they are related to each other as end and means, under which
+finis et mediorum, sub qua etiam ratione a Deo amantur; et conception (ratione) they are also loved by God. Therefore, at the
+ideo simul illa respicit, prout sunt per se amabilia, licet omnia same time he respects them insofar as they are lovable in themselves
+velit, ut media ad seipsum. and wills all of them as means to himself.
+Praemissae
+sententiae in
+concordiam
+rediguntur.
+21. Sed fortasse possunt hae sententiae in concordiam re- 21. But perhaps these views can be brought into harmony. For The
+aforementioned
+views are brought
+into harmony.
+50 duci. Nam D. Thomas in hoc semper idem docuit, neque fuit 50R St. Thomas always teaches the same thing in this matter and did not
+sibi contrarius. Aliud est enim loqui de prima et formalis- contradict himself. For it is one thing to speak about the first and
+sima ratione volendi, aliud de proxima, quae comparatione more formal reason for willing, and another thing to speak about the
+alterius se habet ut materiale ad formale. Priori modo sola proximate reason, which are related to each other as the material to
+Dei bonitas est Deo ratio volendi omnia, quae vult; et hoc the formal. In the former way, only the goodness of God is for God
+55 probat difficultas tacta; quia revera sola bonitas Dei compara- 55R the reason for willing all the things that he wills. The presented dif-
+tur ad Deum, ut per se amabilis: perfectiones autem creatu- ficulty shows this. For in reality only the goodness of God is related
+rarum, quantumvis in se magnae videantur, solum sunt ama- to God as lovable in itself. But all the perfections of created things,
+biles Deo per respectum decentiae, aut convenientiae ad eius even though they seem great in themselves, are only lovable to God
+bonitatem. Posteriori autem modo perfectiones consideratae through a relation of fittingness or agreeability with his goodness.
+60 ex parte rerum creatarum conferunt ad consilium et determi- 60R But in the latter way, the considered perfections on the part of cre-
+nationem divinae voluntatis, quia pro ipsarum rerum diversi- ated things relate to the counsel and determination of the will, since
+tate habent maiorem, vel minorem convenientiam vel decen- according to the difference between those things themselves they have
+tiam respectu divinae voluntatis; ut mysterium Incarnationis, greater or lesser agreeability or fittingness with respect to the divine
+
+-- 31 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 32
+quia in se est altius, et in eo magis communicatur Deus, ideo will, as the mystery of the Incarnation is in itself more fitting with
+65 in se est magis consentaneum divinae bonitati. Et eodem 65R the divine goodness because it is in itself higher and God is communi-
+modo voluit potius dare gloriam propter merita, quam sine il- cated more in it. In the same way God wills to give glory for the sake
+lis: quia in hoc magis eius iustitia ostenditur: et voluit potius of merits rather than without them, since his justice is displayed more
+perfectum condere universum, quam imperfectum: quia in in the former. And he wills to make a perfect universe rather than an
+hoc magis eius sapientia manifestatur. Hoc igitur modo ra- imperfect one, since in that way his wisdom is manifested more. In
+70 tiones sumptae ex creaturis conferunt ad complendum (ut sic 70R this way, therefore, the reasons taken from created things help com-
+dicam) rationem divini consilii et voluntatis; semper tamen plete (if I may speak in this way) the reason of divine counsel and will,
+sub respectu ad divinam bonitatem, ad quam veluti materi- yet always with respect to divine goodness, to which they are related
+aliter comparantur; quod satis est, ut rationem mediorum as if material. This is sufficient for the nature of means always to ob-
+semper obtineant, quia non amantur nisi ex amore divinae tain, since they are not loved except from a love for divine goodness
+75 bonitatis, ac propter ipsam. 75R and for the sake of that.
+22. Unde obiter intelligitur, quoties in duobus operibus 22. In passing, it is understood from this that inasmuch as in two
+Dei comparatis ad divinam bonitatem non invenitur ex parte works of God that are compared to the divine goodness there is not
+eorum maior convenientia, vel decentia ad ipsam Dei boni- found on their part a greater agreeability or fittingness to God’s good-
+tatem in uno, quam in alio, et aliunde voluntas Dei inae- ness in one than in the other and the will of God does not for some
+80 qualiter ad illa se habet; tunc neque ex rebus ipsis, nec ex 80R other reason hold itself equally to both of them, then a reason for that
+sola divina bonitate, sed ex sola libertate divinae voluntatis inequality cannot be found in those things or in the divine goodness
+posse reddi rationem illius inaequalitatis, ut <col. b> egregie alone but only in the freedom of the divine will. St. Thomas teaches St. Thomas.
+D. Thomas. docuit D. Thomas 1. p. q. 23. art. 5. ad 3. exempla ponens this admirably in ST Ia.23.5 ad 3, giving examples of the election of
+in electione huius hominis ad gloriam, potius quam illius; this human being to glory rather than another, of the election of this
+85 in electione huius partis materiae, ut sit sub forma ignis 85R part of matter to be under the form of fire rather than under the form
+potius, quam sub forma terrae; et similia sunt; quod voluerit of earth and other similar ones, of God wishing to create these angels
+creare hos angelos, potius quam alios; vel animam Christi ad rather than other ones, and of the soul of Christ in the hypostatic
+unionem hypostaticam potius, quam aliam possibilem. Nam, union rather than some other possibility. For since these and other
+cum haec, et alia huiusmodi ex se aequaliter ad divinam boni- things of this kind in themselves compare equally to divine goodness,
+90 tatem comparentur, non est unde oriatur illa diversitas, nisi 90R that difference does not come from anywhere else than the freedom of
+ex libertate voluntatis Dei. Et hoc est etiam profundum con- God’s will. And this, too, is the profound counsel of the divine will,
+silium voluntatis divinae, de quo potissime loquitur Paulus concerning which Paul is most especially speaking in the words of our
+in verbis nostri thematis: non quod in omnibus suis operibus theme. It is not that God uses this counsel in all his works, but rather
+Deus hoc consilio utatur, sed quod cum omnia oporetur ex that since he works all things according to the counsel of his will, he
+95 consilio voluntatis, aliquando utitur illo peculiari, et pro- 95R sometimes uses that special and profound counsel, as if calling by lot
+fundo consilio, veluti sorte vocando, quos ex mera liberalitate those whom he loves in preference to others from sheer liberality.
+prae aliis dilexit.
+Deum extra se libere omnia velle. That God wills everything beyond himself freely.
+Voluntarium a
+libero diligenter
+distinguendum.
+23. Ex quo tandem pervenimus ad quintam et catholicam 23. From which we arrive, finally, at the fifth catholic truth that is The voluntary
+should be
+distinguished
+from the free.
+
+-- 32 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 33
+veritatem, quae in praedictis verbis Pauli fundata est, scilicet founded in these words from Paul, namely, that God does all things
+Deum operari omnia extra se, non solum perfecte voluntarie, beyond himself not only with perfect voluntariness but also freely.
+5 sed etiam libere. Sunt enim haec duo valde diversa; quan- 5R For those two notions are very different, even though sometimes they
+quam interdum a Doctoribus, etiam Catholicis, confundan- are confused by the doctors, even Catholic ones. It is, however, nec-
+tur: oportet tamen ea diligenter distinguere ad vitandos er- essary diligently to distinguish them in order to avoid the errors of
+rores infidelium et haereticorum. Nullus enim eorum negat, the faithless and the heretics. For no one denies that we and God act
+Deum et nos voluntarie operari: et tamen ethnici negant voluntarily, yet some pagans deny that God acts freely. In our time,
+10 Deum operari libere; quod etiam de hominibus haeretici hoc 10R heretics think this even about human beings, although sometimes in
+tempore sentiunt, licet aliquando ad occultandum errorem order to hide the error they say that we act freely, that is, without co-
+dicant nos operari libere, id est, non coacte. Quo sensu ercion. This is the sense in which some Catholics also say that God
+nonnulli etiam Catholicorum dixerunt, Deum Patrem et Fil- the Father and Son freely produce the Holy Spirit, namely, by a free-
+ium, libere producere Spiritum sanctum: libertate scilicet, dom that excludes coercion but not necessity.
+15	Quomodo
+differant liberum
+et voluntarium.
+quae excludit coactionem, non necessitatem. Verumtamen 15R But that is an improper freedom and pertains more to the nature How the free and
+the voluntary
+differ.
+illa libertas impropria est, et ad voluntarii rationem spectat, of voluntariness than of the free. For something to be voluntary it is
+potius quam liberi. Itaque ad voluntarium solum requiri- only required that it come from an internal appetite qua living thing
+tur, quod sit ex interno appetitu vitae cum cognitione: hoc along with cognition. Such voluntariness, moreover, is perfect when
+autem voluntarium tunc est perfectum, quando est ex per- it comes from a perfect and intellectual cognition and is commensu-
+20 fecta, et intellectuali cognitione, et commensuratum seu pro- 20R rate or proportional to the object. Therefore, if the object is the high-
+portionatum obiecto. Quapropter si obiectum sit summum, est and necessary good, then the perfection of voluntariness in loving
+ac necessarium bonum, perfectio voluntarii in eo amando it consists in an internal and necessary disposition or benevolence for
+consistit in interno ac necessario affectu, seu benevolentia il- it. For this reason, although God loves himself most perfectly and
+lius: et hac ratione, quamvis Deus se <408> perfectissime, with the highest voluntariness, he does not, however, love himself
+25 et summe voluntarie amet, non tamen libere; id est, cum 25R freely, that is, with indifference. Rather, he loves himself necessarily.
+indifferentia, sed necessario se amat. At vero si obiectum But if the object is not the highest good and not a necessary good, then
+non sit summe bonum, nec necessarium, perfectio volun- the perfection of voluntariness consists in its being loved not necessar-
+tarii consistit in hoc, quod non necessario, sed indifferenter ily but indifferently, that is, with the ability (facultate) to will and not
+ametur; id est, cum facultate volendi, et non volendi illud. to will it. And this is the proper nature of freedom, which is what we
+30 Et haec est propria ratio libertatis, de qua hic agimus, quae 30R are dealing with now. It excludes not only coercion but also necessity
+non solum coactionem, sed etiam necessitatem, et determi- and determination to one thing.
+nationem ad unum excludit. Hanc ergo libertatem divinae This freedom of the divine will, therefore, can be founded in the
+voluntatis fundari dicimus in praaedictis verbis Pauli. Primo aforementioned words of Paul. First, indeed, because counsel is not
+quidem, quia consilium non est de necessariis, ut Philoso- about necessary things, as the Philosopher said. Next, because the
+35 phus dixit. Deinde, quia propriissima libertas est in elec- 35R most proper freedom is found in the election of means. Moreover,
+tione mediorum: ostendimus autem ex his verbis, Deum om- we showed from these words that God wills and works all things be-
+nia extra se velle et operari ut media: ergo ex eisdem mani- yond himself as means. Therefore, from the same words we obviously
+feste habemus Deum omnia haec cum libertate operari. Item hold that God does all these things with freedom. Also because it was
+quia ostensum est Deum operari ex consilio voluntate accep- shown that God does all things according to the counsel accepted by
+40 tato. Denique, quia hoc Paulus adducit, ut declaret, quomodo 40R the will. Finally, because Paul brings this up to show how the pre-
+
+-- 33 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 34
+praedestinati veluti sorte vocentur ex solo proposito divinas destined are called as if by lot by the plan of the divine will alone, in
+voluntatis, in quo maxime ostenditur libertas eius. which its freedom is especially manifested.
+Explicatur Dei
+indifferentia in
+volendo.
+24. Statim vero oriebatur difficultas nunquam satis a 24. But at once a difficulty arises that is never sufficiently magni- The indifference
+in the will of
+God is explained.
+Theologis exaggerata, vel declarata ob suam obscuritatem, fied or revealed by the theologians on account of its darkness: namely,
+45 quomodo scilicet divina voluntas possit esse indifferens in 45R how the divine will can be indifferent in willing when it is most pure
+volendo, cum purissimus actus sit, et illi neque addi aliq- act and can have nothing added to or subtracted from it, neither in
+uid, neque detrahi possit, neque in tempore, neque in aeterni- time nor in eternity. We treated this difficulty last year. At present,
+tate. Quam difficultatem superiori anno tractavi: nunc autem however, I think it should be passed over, both so that I not repeat
+consulto eam praetermittendam duxi; tum ne illa repeterem, things that have already been considered in the hands of everyone and
+50 quae in manibus omnium iam versantur; tum etiam ne nimia 50R also so that I not exhaust readers by its excessive subtlety and specula-
+eius subtilitate, et speculatione vos defatigarem. Summa vero tion.
+totius rei est; esse in Deo voluntatem non per modum po- But the main point of the matter is that willing in God is not
+tentiae activae vel receptivae alicuius actus intra seipsam, vel through the mode of a power that is active or receptive to some act
+modi alicuius realis: nam hic modus voluntatis imperfectus internal to itself or to some real mode. For that mode of the will is
+55 est, et non per essentiam, sed per participationem: est ergo in 55R imperfect and not through essence but through participation. Will-
+Deo voluntas per modum actus purissimi: nam, sicut Deus ing in God, therefore, is through the mode of a most pure act. For
+est ipsum esse per essentiam, et suum intelligere, ita etiam est just as God is being itself through essence and his understanding is
+suum velle. Unde, sicut absoluta necessitate Deus est, et ea- through essence, so also is his willing. Hence, just as God exists by
+dem necessitate intelligit, ita etiam simili necessitate vult, et absolute necessity and understands by that same necessity, so also he
+60 habet suum velle secundum se, et absolute spectatum, quod 60R wills by a similar necessity and he has his willing according to him-
+in se, nec minui, nec augeri potest, cum sit purus et infinitus self. Considered absolutely, what is in him can neither be diminished
+actus. Nihilominus tamen tanta est eminentia illius actus, ut nor increased, since he is pure and infinite act. Nevertheless, the emi-
+illo possit Deus unumquodque obiectum amabile iuxta men- nence of that act is so great that by that act God can love, necessarily
+suram, et dignita- <col. b> tem eius, vel necessario vel libere or freely, any lovable object according to its measure and worth, or
+65 diligere, aut etiam odio habere. Nam seipsum suamque natu- 65R even have hatred for it. For he loves himself and his nature and per-
+ram et personas, cum sit infinitum bonum, sibique sufficiens sons with absolute necessity, since he is infinite good and sufficient
+absoluta necessitate diligit; tum quoad speciem actus, quia for himself. [This is so] both with respect to the species of the act—
+non potest seipsum odio habere, sed solum amare; tum etiam since he cannot have hatred towards himself, but only love—and with
+quoad exercitium, quia non magis potest Deus a sui amore de- respect to exercise—since God can no more stop loving himself than
+70 sistere, quam esse desinere. Nihilominus tamen quoad termi- 70R he can stop existing.
+nationem seu ad volendum res alias extra se, necessitati non But with respect to termination or with respect to willing things
+Gregorius
+Nissenus.
+est subiectus. Non enim, ut eleganter dixit Gregorius Nis- external to himself, nevertheless, he is not subject to necessity. For, as
+senus lib. De fato cap. ultimo sub necessitate est Deus; neque Gregory of Nyssa elegantly says in the last chapter of On Fate, “God is Gregory of
+Nyssa.	voluntatem eius necessitati servire fas est dicere. Est igitur liber not subject to necessity nor is it right to say that his will serves neces-
+75 actus ille quoad hoc ut sit ratio actualiter volendi, et operandi 75R sity.” Therefore, that act is free insofar as the reason for actually will-
+aliquid extra ipsum Deum. Dico autem, volendi et operandi, ing and operating is something external to God himself. I say “willing
+quia non solum operatio ipsa, quae est extra Deum, libera est and operating” because not only is the operation itself that is external
+Deo, sed etiam voluntas ipsa quatenus est amor talis operatio- to God free for God, but also the willing itself insofar as it is love or
+
+-- 34 of 35 --
+
+Suárez, De libertate divinae voluntatis, disp. 1 35
+D. Thomas. nis, seu affectus eius. Nam Deus ideo operatur ad extra, quia disposition for such an operation. For God operates beyond himself St. Thomas.
+80 vult; et ideo benefacit, quia amat, iuxta verba nostri thematis. 80R for this reason: because he wills to. He confers benefits for this reason:
+Qui operatur omnia secundum consilium voluntatis suae; et illa because he loves. [This is] according to the words of our theme: “He
+1. ad Corinthios
+12.
+1. ad Corinthios 12. Haec autem omnia operatur unus et idem does all things according to the counsel of his will.” Also according
+spiritus dividens singulis, prout vult, id est, pro libera voluntatis to 1 Corinthians 12[:11]: “But all these things are done by one and 1 Cor. 12.
+arbitrio, non pro necessitatis obsequio, ut Ambrosius exposuit the same Spirit, distributing to each one as he wills,” that is, “accord-
+85 lib. 2. De fide ad Gratianum cap. 3. Idem ergomet actus, qui 85R ing to the free choice of his will and not in servility to necessity,” as
+secundum suum esse necessarius est, in Deo habet perfectissi- Ambrose explains in De fide ad Gratianum II, ch. 3. Therefore, the
+mam rationem liberi arbitri, non quia per ulteriorem actum, very same act that is necessary according to its being has in God the
+aut realem modum superadditum, vel carentiam eius possit most perfect ratio of freewill, not because it can be either terminated
+ad hoc vel illud obiectum secundarium terminari, aut non or not terminated to this or that secondary object through a further
+90 terminari, sed quia per se ipsum potest Deus, aut velle, aut 90R act or real mode that is superadded or lacking, but because God can
+non velle talia obiecta pro sua eminenti virtute, aut libertate. through himself either will or not will such objects on account of his
+Quod quidem difficile est ad intelligendum, et difficilius ad eminent power or freedom. It is indeed difficult to understand and
+explicandum, quomodo sit: nobis autem satis esse debet, si ex even more difficult to explain how this works. But we must be satis-
+principiis fidei, imo etiam ex evidentibus ostendamus ita esse: fied if we show it to be the case from the principles of the faith, indeed
+95 nam de rebus divinis raro, aut nunquam percipere possumus, 95R also from that which is evident. For in divine matters we can rarely
+quomodo in se sint: quanquam ostendere possimus nullam or never see how they are in themselves, although we may be able to
+in eis repugnantiam involvi. Quod etiam hic praestare posse- show that they involve no repugnancy in themselves. We could also
+mus, nisi ob rationes prius insinuatas ad alia foret properan- supply that here, except we should hurry on to other matters for the
+dum. Haec ergo sufficiant de disputatione priori supra posita. reasons given earlier. This, therefore, suffices concerning the former
+100R disputation posited above.
+
+-- 35 of 35 --

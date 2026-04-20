@@ -1,0 +1,637 @@
+Last revision: January 28, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 5, SECT. 31
+© Sydney Penner 2011
+<51>2
+Utrum Deus secundum totum, quod in se habet, vel secundum Whether God is the object of human happiness according to everything that
+speciale attributum sit objectum humanæ beatitudinis. he is or according to a special attribute.
+Triplex dubium
+in præsenti
+quæst.
+Tria sunt, de quibus potest in hoc dubio inquiri. Primo de There are three things into which we can inquire in this doubt. The The three doubts
+in the present
+question.
+divinis attributis et absolutis perfectionibus Dei. Secundo de first concerns the divine attributes and absolute perfections of God.
+5 divinis relationibus. Tertio de ideis seu actionibus liberis, qui 5R The second the divine relations. The third the ideas or free actions that
+in Deo existunt: de quibus sigillatim dicam pauca. exist in God. I will say a little bit about each one.
+PUNCTUM I. POINT I.
+An omnia, vel aliquod attributum Dei, pertineat ad objectum Whether all or some attribute of God pertain to the object of happiness.
+beatitudinis.
+10	1. Sententia. 1. Circa primam partem duo possunt excogitari dicendi modi: 1. Concerning the first part, two ways of speaking can be imagined. The first view.
+primus est juxta opinionem Scoti dicentis, seu distinguentis at- 10R The first follows the opinion of Scotus in speaking or in distinguishing
+tributa divina ab essentia Dei, quam ex parte sequuntur aliqui the divine attributes from the essence of God. This is followed in part
+Thomistæ, qui licet non admittant distinctionem ex natura rei by some Thomists, who although they do not admit a distinction ex
+inter attributa et essentiam, nihilominus dicunt attributa esse natura rei between attributes and essence, say, nevertheless, that the at-
+15 extra rationem essentialem Dei, et unum attributum esse ex- tributes are beyond the essential nature of God and that one attribute
+tra essentialem alterius priusquam secundum nostrum modum 15R is beyond the essential [nature] of another before, according to our
+intelligendi in re ipsa fundatum concipi naturam divinam, ut way of understanding which is founded in the thing itself, the divine
+constituentem essentialiter Deum, et ideo postulantem talia at- nature is conceived as essentially constituting God and for that reason
+tributa, quæ re ipsa cum ipsa identificentur. Juxta hanc ergo requiring attributes of the sort that are in reality identified with him.
+20 opinionem <col. b> in præsenti dici potest, Deum esse objec- Therefore, according to this opinion one can say about the present case
+tum nostræ beatitudinis præcise secundum eam rationem, quæ 20R that God is the object of our happiness precisely according to that na-
+in eo intelligitur esse essentialis, quia secundum illam præcise ture which is understood to be essential in him, because according to
+constituitur in esse Dei: sicut, si homo ut homo esset objectum it happiness is constituted precisely in the being of God. Just as, if a
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not
+always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+2 attributum ] arbitrium V.
+
+-- 1 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 2
+beatitudinis humanæ, intelligeremus solam essentiam animæ human being as human being were the object of human happiness, we
+25 et corporis pertinere proprie ad tale objectum; proprietates would understand the essence alone of the soul and of the body to per-
+vero, sicut sequuntur essentiam, ita etiam pertinere ad quam- 25R tain properly to such an object. But just as properties follow essence,
+dam beatitudinis perfectionem, seu objecti illius, non vero ad they in that way also pertain to a kind of perfection of happiness or of
+primariam rationem ejus. Quam sententiam attigit Scotus, in its object, but do not pertain to its primary nature. Scotus touches on
+1, distinctione 1, quæstione 1, et quamvis ibi eam non tractet, this view in I, dist. 1, q. 1, and, although he does not discuss it there, it
+30 colligi tamen potest ex fundamento ejus. can, nevertheless, be gathered from his foundation.
+Sententia
+secunda.
+2. Secundus modus dicendi est, Deum esse objectum nos- 30R 2. According to the second way of speaking, God is the object of The second view.
+træ beatitudinis secundum quoddam speciale attributum, vel our happiness according to a certain special attribute or according to his
+secundum bonitatem suam. Hanc opinionem attigit Medina 1, goodness. Bartolomé de Medina touches on this opinion in IaIIæ.3.5,
+2, quæstione 3, art. 5, ubi inquirit, cum beatus judicet Deum where he asks in which judgement happiness consists, since the happy
+35 esse omnipotentem, esse trinum, et unum, in quo judicio con- judge God to be omnipotent and to be three and one. He responds that
+sistat beatitudo. Respondet consistere in hoc quam bonus Deus 35R it consists in this: ‘How good is God to Israel, to those who are of a
+Israel his qui recto sunt corde, cætera vero judicia, inquit, quæ right heart’. But the remaining judgements that the happy have, he says,
+habent beati, vel sunt præmia fidei, vel necessario conjuncta. are either gifts of faith or necessarily conjoined. The foundation can be
+Fundamentum esse potest, quia Deus est objectum beatitudi- that God is the object of our happiness insofar as he is the highest good,
+40 nis nostræ ut est summum bonum, quia tale objectum ut est ul- because such an object is the most perfect and unqualifiedly ultimate
+timus finis simpliciter ac perfectissimus: ultimus autem finis, et 40R end. But the ultimate end and the highest good are the same thing,
+summum bonum idem sunt, ut Aristoteles dixit 1, Eth., cap. 7. as Aristotle said in EN I, cap. 7. And for this reason from the view
+Et ideo ex sententia omnium beatitudo consistit in adeptione of everyone that happiness consists in the attainment of the highest
+summi boni: ergo Deus ratione suæ bonitatis, et non ratione good it follows that God is the object of our happiness by reason of his
+45 aliorum attributorum, est objectum nostræ beatitudinis. goodness and not by reason of other attributes.
+Vera sententia. 3. Utramque opinionem falsam existimo, et sic dicen- 45R 3. I think each view is false. One should instead say that God ac- The true view.
+dum, Deum secundum omnia sua attributa, et absolutas per- cording to all his attributes and absolute perfections is the proper and
+fectiones esse objectum proprium, ac primarium nostræ beati- perfect object of our perfect happiness which we hope to have in our
+Probatur 1. ex
+script.
+tudinis perfectæ, quam speramus in futura vita. Quæ sententia future life. This view can be founded in those words from 1 John 3[:2]:
+50 fundari potest in verbis illis 1, Joan. 3: Similes ei erimus, et vide- ‘We shall be like him and we shall see him as he is.’ Therefore, as God It is proven first
+from Scripture.	bimus eum sicuti est. Sicut ergo Deus est per suam essentiam 50R is through his essence most wise, omnipotent, and so forth, we will
+summe sapiens, omnipotens, etc., ita videbimus eum: ergo also see him as such. Therefore, God insofar as he in his essence en-
+Deus quatenus in sua essentia complectitur omnia bona, erit compasses all goods will be the object making us happy. Secondly and
+Accedit ratio 1. objectum nos beatificans. Secundo præcipue argumentor ra- principally, I argue from reason, for God is not the object of our happi- The first
+argument is
+added.
+55 tione, quia Deus non est objectum nostræ beatitudinis, nisi ut ness except as he is the supreme intelligible being and the supreme good
+supremum ens intelligibile, et supremum bonum, formaliter, 55R formally or eminently containing all other goods. For in that way—but
+aut eminenter, reliqua omnia continens, quia ut sic potest im- in no other way—he can fulfill the capacity of our intellect and will.
+plere capacitatem nostri intellectus, et voluntatis, et non alio But God is not a being of this kind after some special attribute, but
+modo: sed Deus non est hujusmodi ens secundum aliquod insofar as he is an immense ocean of all perfection. Therefore, insofar
+
+-- 2 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 3
+60 spe- <52> ciale attributum, sed ut est immensum pelagus om- as he is the object of our happiness he formally includes every absolute
+nis perfectionis: ergo ut est objectum nostræ beatitudinis in- 60R attribute which expresses a simple perfection strictly speaking and emi-
+cludit formaliter omnia attributa absoluta, quæ dicunt perfec- nently includes all the other perfections. This is shown, thirdly, because
+tionem simpliciter simplicem, eminenter vero omnes alias per- the contrary views arise from false foundations. For in the first place it The second
+argument.	Ratio 2. fectiones. Tertio hoc ipsum declaratur, quia sententiæ con- is false that the divine attributes are distinguished ex natura rei from
+65 trariæ procedunt ex falsis fundamentis: nam imprimis falsum the divine essence, as was shown more thoroughly when discussing
+est attributa divina distingui ex natura rei ab essentia divina, ut 65R St. Thomas’s ST Ia.3. It is also false that these attributes which express
+ostenditur latius circa quæst. 3 primæ part. D. Thomas, falsum perfection strictly speaking are not included in an adequate essential
+est etiam, hæc attributa, quæ dicunt perfectionem simpliciter, concept of God, because God according to his essence taken precisely
+non includi in conceptu essentiali Dei adæquato, quia Deus ex is an being intensively infinite in essential perfection. And for that rea-
+70 præcisa essentia sua est ens infinitum intensive in perfectione son he encompasses every perfection strictly speaking according to the
+essentiali, et ideo ex eadem præcisa essentia formaliter com- 70R same essence taken precisely, since that being which is formally affected
+plectitur omnem perfectionem simpliciter, quia illud ens, quod by these perfections (which are called simple strictly speaking) is more
+formaliter afficitur his perfectionibus, quæ vocantur simplices perfect in the genus of intensive being that if those were formally ex-
+simpliciter, perfectius est in genere entis intensive quam si illas cluded. And therefore these propositions—namely, that God is wise
+75 formaliter excludat: et ideo tam essentiales sunt istæ proposi- and that God is just—are just as essential as this one—namely, that hu-
+tiones, Deus est sapiens, Deus est justus, sicut hæc, Homo est 75R man beings are rational animals. Hence, by turning back the argument,
+animal rationale. Unde retorquendo argumentum, cum Deus since God is the object of our happiness by reason of his essential per-
+sit objectum beatitudinis nostræ ratione suæ perfectionis es- fection, it is necessary that all attributes are formally included in this
+sentialis, necesse est ut in hoc objecto formaliter includantur object.
+80 omnia attributa.
+Arguitur
+specialiter contra
+2. sententiam.
+4. Præterea secunda opinio confingit summam Dei boni- 4. Furthermore, the second opinion imagines the highest good- It is argued
+especially against
+the second view.
+tatem esse speciale attributum Dei ab aliis distinctum: nam 80R ness of God to be a special attribute of good distinct from his other
+revera non est nisi infinita perfectio ejus consurgens, nos- attributes. For in reality it does not exist unless it is an infinite perfec-
+tro modo intelligendi, ex omnibus attributis; quod in hunc tion of him arising, in our way of understanding, from all the attributes.
+85 modum explicari potest: nam sicut in nobis, ita in Deo du- This can be explained as follows: just as in us, so also two kinds of good-
+plex bonitas intelligi potest, vel physica, vel moralis, et neutra ness can be understood in God, namely, physical goodness and moral
+in nobis est specialis aliqua virtus ab aliis distincta; sed bonitas 85R goodness. Neither goodness is some special virtue distinct from others
+physica est ipsamet entitativa perfectio, quæ consurgit ex prin- in us. Rather, physical goodness is the entitative perfection itself which
+cipiis naturæ; bonitas autem moralis integra, nihil aliud esse arises from the principles of nature and complete integra moral good-
+90 potest, quam collectio omnium virtutum, vel in habitu, vel in ness cannot be anything other than the collection of all virtues, whether
+actu, et utraque bonitas suo modo reperitur in Deo; nam et in habit or in act. Each goodness is found in its way in God. For he is
+est perfectissimum ens in genere entis, et est summum bonum 90R both the most perfect being in the genus of being and the highest good
+in genere moris, quæ bonitas in ipso nihil aliud est, quam per- in the genus of morality. This goodness is in him nothing other than
+60 est ] om. V.
+67 part. ] part. 3 V.
+67 Thomas ] Thomæ V.
+68 est etiam ] etiam est V.
+
+-- 3 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 4
+fectio ejus essentialis, ratione cujus essentialiter est summe jus- his essential perfection by reason of which he is essentially most just,
+95 tus, summe misericors, etc.; ergo Deus, ut summum bonum, most merciful, and so forth. Therefore, God as highest good formally
+formaliter includit has omnes perfectiones: ergo retorquendo includes all these perfections. Therefore, in also turning back the argu-
+etiam argumentum, ex eo quod Deus est objectum beatitudinis 95R ment according to which God is the object of happiness and the highest
+et summum bonum, non sequitur aliquod attributum esse ex- good, it does not follow that some attribute is beyond the nature of that
+tra rationem objecti illius, sed potius sequitur omnia includi in object but rather it follows that all the attributes are formally included
+100 ipso formaliter.<col. b> in it.
+Arguitur iterum
+contra eandem.
+5. Quocirca falsum etiam est, quod illa opinio secunda 5. For this reason what that second opinion imagines—namely, It is argued again
+against the same
+view.
+fingebat, scilicet, esse in beatis varia judicia horum attributo- 100R that there are in the happy various judgements about these attributes
+rum quæ non pertinent ad ipsam beatitudinem, sed cum illa which do not pertain to happiness itself but that are conjoined with
+conjuncta sunt: hæc, inquam, falsa fictio est, quia sicut in Deo ti—is also false. This is, I say, a false imagining, because just as these
+105 secundum se hæc attributa non sunt multa, sed una simpliciter attributes in God according to himself are not multiple but are, strictly
+perfectio Dei, ita in beato ut sic, id est, ut intuente Deum, non speaking, one perfection of God, so also in a happy person as such—that
+sunt varia judicia de his attributis, sed unico, et simplicissimo, 105R is, as intellectually seeing God—there are not various judgements about
+quo intuetur Deum sicuti est, judicat Deum esse omnipoten- these attributes but he judges God to be omnipotent, wise, and so forth
+tem, sapientem, etc., quia, ut infra dicemus, videre Deum, non by a singular and most simple judgement by which he intellectually
+110 est videre unum vel aliquod attributum ejus, sed videre totam sees God as he is. For, as we will say below, to see God is not to see
+Dei naturam formaliter includentem hæc attributa. Et per hæc one or another of his attributes but to see the whole nature of God that
+responsum est dictis opinionibus. 110R formally includes these attributes. And through these things I respond
+to the mentioned opinions.
+Eadem vera
+sententia procedit
+etiam de
+beatitudine
+supernaturali
+huius vitæ.
+6. Atque hinc facile intelligitur, quomodo Deus sit ob- 6. And from here it is easy to understand in what way God is the The same true
+view proceeds
+also in the cause
+of the
+supernatural
+happiness of this
+life.
+jectum illius imperfectæ beatitudinis supernaturalis, quam in object of that imperfect supernatural happiness which we can achieve
+115 hac vita consequi possumus: nam idem Deus secundum to- in this life. For the same God according to the whole happiness of his
+tam beatitudinem suæ perfectionis formalis et bonitatis, qui 115R formal perfection and goodness who makes one happy in the afterlife
+beatificat in patria, est etiam objectum beatitudinis ejus, sed is also the object of his happiness [in this life]: there as attained, here
+ibi ut consecutus, hic ut speratus: ibi ut visus, hic ut amatus. as hoped for; there as seen, here as loved. We only need to consider
+Solum est considerandum, si in hoc objecto consideretur ra- whether the aspect under which he is reached by our powers or acts is
+120 tio sub qua attingitur a nostris potentiis, vel actibus, sic so- considered in this object in the way that different and special aspects are
+lent assignari speciales, ac diversæ rationes, sub quibus attin- 120R usually assigned under which he is reached: namely, the aspect of the
+gitur, scilicet, ratio veri respectu intellectus, et ratio boni seu true with respect to the intellect and the aspect of the good or desirable
+appetibilis respectu voluntatis. Quæ duæ rationes conveniunt with respect to the will. These two aspects come together with God
+Deo secundum totam perfectionem essentialem, quam inclu- according to his whole essential perfection, which he includes, for by
+125 dit, nam ratione illius et summe intelligibilis est, et summe am- reason of it he is both the highest intelligible and the highest lovable.
+abilis; tamen ratio, quæ nos beatificat, non est hæc ratio, sub 125R Nevertheless, the aspect that makes us happy is not this aspect about
+qua loquendo, ut loquimur, de beatitudine objectiva, sed est which we speak when speaking about objective happiness. Rather, it
+ipsa infinita perfectio, quæ in objecto attingitur: illa enim est is the infinite perfection itself which is attained in the object. For that
+quæ nos satiat, quia omne bonum continet: illa vero ratio, sub is what satisfies us, since it contains every good. But that aspect about
+130 qua, non addit objecto aliquam realem perfectionem, sed sum- which does not add any real perfection to the object but is taken from
+
+-- 4 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 5
+itur ex ordine ad modum operandi nostrarum potentiarum. 130R the order to our powers’ way of acting. These points should be noted
+Quæ notanda sunt pro his, quæ dicemus de formali beatitu- for those things that we will say about formal happiness. Finally, as far It also proceeds
+in the case of
+natural
+happiness.
+Procedit item de
+naturali.
+dine. Denique quod attinet ad naturalem beatitudinem ex dic- as natural happiness is concerned, what should be said can be gathered
+tis colligi potest quid in hoc puncto dicendum sit, proportione from what was said by respecting the analogy. For God is the object
+135 servata: est enim Deus objectum illius secundum totam perfec- of natural happiness according to his whole perfection, which can be
+tionem, quæ de illo cognosci potest ex principiis naturæ, quod 135R cognized concerning him from the principles of nature. This can be
+eisdem rationibus ostendi potest. shown by the same arguments.
+PUNCTUM II. POINT II.
+An pertineant divinæ relationes. Whether the divine relations pertain to the object of happiness.
+Non procedit
+punctum quoad
+beatitudinem
+viæ.
+7. Circa secundum punctum de relatio- <53> nibus, quod 7. With respect to the second point about relations, which is a difficult The point does
+not proceed with
+respect to the
+happiness of this
+life.
+est difficile, supponamus imprimis, illud non habere locum point, we suppose in the first place that it has no place in natural hap-
+5 in beatitudine naturali, quia constat Deum, ut trinum, non 5R piness, because it is clear that God as being three cannot be naturally
+posse naturaliter cognosci. Similiter beatitudo imperfecta hu- cognized. Likewise, the imperfect happiness of this life, even if it is su-
+jus vitæ, etiamsi supernaturalis sit, consistere potest sine cogni- pernatural, can come about without cognition of the divine relations,
+tione divinarum relationum, quia potest Deus, ut finis super- since God as the supernatural end can be cognized by means of faith
+naturalis, fide cognosci, et charitate infusa super omnia amari, and can be loved beyond all other things by means of infused charity
+10 etiamsi Trinitas personarum distincte non cognoscatur. Et ra- 10R even if the Trinity of persons is not distinctly cognized. And the reason
+tio utriusque est, quia cognitione abstractiva potest Deus ut in both cases is that God can be cognized as infinite good by abstrac-
+infinitum bonum cognosci, non cognitis relationibus: et ideo tive cognition even when the relations are not cognized. And for this
+omnis beatitudo imperfecta, quæ in sola abstractiva cognitione reason every imperfect happiness which is founded in abstractive cog-
+fundatur, non necessario includit in objecto suo prædictas re- nition alone does not necessarily include the aforementioned relations
+15 lationes. 15R in its object.
+Altera quæstio
+est, quid viso
+Deo, necessario
+videatur: altera
+quid visum
+pertineat ad
+objectum
+beatitudinis.
+8. Difficultas ergo est de beatitudine perfecta, quæ con- 8. The difficulty, therefore, is in the case of perfect happiness which One question is
+what is
+necessarily seen
+in seeing God;
+the other is what
+seen thing
+pertains to the
+object of
+happiness.
+sistit in clara Dei visione. Quam difficultatem attigerunt Sco- consists in a clear vision of God. Scotus in I, dist. 1, q. 2, and Cajetan
+tus, in 1, dist. 1, quæst. 2, et Cajetanus 2, 2, quæst. 2, art. 8, in IIaIIæ.2.8 touch on this difficulty when treating another question—
+tractantes aliam quæstionem, an possit videri essentia non visis whether the essence can be seen without the relations being seen—
+20 relationibus, quam fere confundunt cum præsenti quæstione: 20R which they conflate with the present question. They are in reality,
+sunt tamen revera difficultates diversæ, nam etiamsi fateamur however, different difficulties, for even if we grant that the essential vi-
+visionem essentialem habere necessariam connexionem cum sion has a necessary connection with the vision of the relations, it does
+visione relationum, non videtur inde sequi relationes pertinere not seem to follow from that that the relations pertain to the object that
+ad objectum nos beatificans, quia etiam cognitio creaturarum makes us happy. For the cognition of creatures also has a necessary con-
+25 habet necessariam connexionem cum comprehensione essen- 25R nection with the comprehension of the essence by which God is happy
+tiæ, qua Deus beatus est, et aliquo etiam modo cum visione and in another way also with the intuitive vision by which we hope
+intuitiva, qua nos speramus esse beatos, et nihilominus non to be happy; nevertheless, creatures do not pertain to the object that
+pertinent creaturæ ad objectum nos beatificans: atque etiam e makes us happy. And also, conversely, although the essence were cog-
+
+-- 5 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 6
+contrario quamvis essentia cognosceretur sine personis, adhuc nized without the persons, the question would still remain whether the
+30 maneret quæstio, an sic præcise visa sufficeret ad nos beatifican- 30R essence seen precisely in that way would suffice for making us happy.
+dos. Omissa ergo altera quæstione, quam suo loco tractabimus, Setting aside the other question, therefore, which we will discuss in its
+circa præsentem. place, [we turn] to the present question.
+1. Opinio
+relationes divinas
+non pertinere ad
+objectum
+beatitudinis.
+1. Fundamentum
+eius tripliciter
+stabilitur.
+Primo.
+9. Est prima opinio Scoti, qui affirmat objectum nostræ 9. The first opinion is Scotus’s. He affirms that the object of our The first opinion:
+divine relations
+do not pertain to
+the object of
+happiness.
+The first
+foundation is
+established in
+three ways.
+First.
+beatitudinis esse essentiam præcise sumptam, non vero rela- happiness is the essence taken precisely but not the relations. Two foun-
+35 tiones. Cujus sententiæ duplex potest excogitari fundamen- 35R dations can be thought of for this view. The first is that the eternal Fa-
+tum: primum est, quia Pater æternus est beatus ex vi visionis ther is happy by the force of the vision of the essence alone and not by
+solius essentiæ, et non ex cognitione relationum: ergo essentia a cognition of the relations. Therefore the essence taken precisely is the
+præcise sumpta est objectum divinæ beatitudinis: ergo multo object of divine happiness. Therefore, much more for our happiness,
+magis nostræ, quæ est illius participatio. Antecedens probatur, which is a participation in that. The antecedent is proven, first, because
+40 primo quia Pater æternus ex se est sufficienter beatus, et non 40R the eternal Father is of himself sufficiently happy and not as a result of
+ab aliis personis, alias acciperet ab illis maximam perfectionem: the other persons; otherwise he would receive maximal perfection from
+<col. b> quod est inconveniens, cum ipse ex se sit infinite per- them, which is unfitting since he is infinitely perfect in and of himself.
+Secundo. fectus. Secundo, quia objectum beatitudinis concurrit nostro Secondly, because the object of happiness contributes to formal happi- Second.
+modo intelligendi per modum principii et speciei intelligibilis ness in our way of understanding through the mode of principle and
+45 ad formalem beatitudinem: sed relationes Filii et Spiritus sancti 45R intelligible species. But the relations of the Son and the Holy Spirit in
+nullo modo concurrunt ad beatitudinem Patris, alias perfectio no way contribute to the happiness of the Father; otherwise the perfec-
+Patris aliquo modo esset ab illis personis ut a principio: ergo tion of the Father would in some way depend on those persons as on
+Tertio. non pertinent illæ relationes ad objectum beatitudinis. Tertio, a principle. Therefore, these relations do not pertain to the object of
+quia Pater prius origine quam generet Filium, est beatus, quia happiness. Thirdly, because the Father is happy before the origin which Third.
+50 est Deus, et Deus essentialiter est beatus, et tamen in illo priori 50R generates the Son. For the Father is God and God is essentially happy
+non intelligitur videre personas, quia antecedit illas. Dices, hæc and yet in the proposed case he is understood not to see the other per-
+argumenta non procedere saltem de relatione Patris. Respon- sons because he precedes them. You will object that this argument fails
+detur primo, etiam applicari posse ad hoc, quia relatio Patris to work at least in the case of the relation of the Father. I respond, first,
+non potest videri sine relatione Filii: ergo si una non pertinet that it can also be applied in this case because the relation of the Father
+55 ad objectum, nec etiam alia. Secundo possunt fieri eadem argu- 55R cannot be seen without the relation of the Son. Therefore, if one does
+menta de hoc Deo, ut subsistente absolute in divinitate prius not pertain to the object, then neither does the other. Secondly, the
+ratione, quam intelligatur esse personæ, quia sic est perfecte same arguments can be made about this God as subsisting absolutely in
+beatus. divinity prior to the nature that is understood to belong to the person
+[of the Father] because even in this way he is perfectly happy.
+Alterum
+fundamentum.
+[10.] Alterum fundamentum præcipuum est, quia essen- 60R [10.]3 The other foundation is especially that the essence can be The other
+foundation.	60 tia potest videri sine personis, et illa, ut sic, sufficit ad bean- seen without the persons and that it, as such, suffices for making one
+dum, quia est bonum simpliciter infinitum formaliter, et emi- happy, since it is a good that is without qualification formally infinite
+nenter continens omnem perfectionem: relationes vero ut sic, and that eminently contains every perfection. But the relations as such
+3The Vivès edition starts n. 10 here and includes the next paragraph as part of n. 10. The 1628 includes this paragraph as part of n. 9, which is the more logical division.
+44 speciei ] spei V.
+
+-- 6 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 7
+vel nullam perfectionem formaliter addunt, vel si addunt, illa either add no perfection formally or, if they do, it is [already] contained
+eminenter continetur in sola essentia, quia non est perfectius 65R eminently in the essence by itself. For the whole Trinity including the
+65 ens tota Trinitas relationes includens, quam sit sola essentia ut relations is not a more perfect being than the essence alone as abstracted
+a relationibus abstracta: ergo tota ratio objecti beatificantis in from the relations. The whole ratio of the happy-making object, there-
+essentia. Unde Benedictus XI, in sua Extravagante, absolute fore, is in the essence. Hence, Benedict XI teaches unconditionally in
+docet sanctos esse beatos visione divinæ essentiæ. his Extravagans that the saints are happy by vision of the divine essence.
+2. Opinio
+contraria
+præcedenti.
+10. Secunda opinio est Cajetani, qui docet, relationes per- 70R 10. The second opinion is Cajetan’s. He teaches that the relations The second
+opinion is the
+contrary of the
+former one.
+70 tinere ad objectum primarium et essentiale nostræ beatitudi- pertain to the primary and essential object of our happiness such that
+nis, ita ut sine illis non intelligatur sufficiens divina essentia the divine essence cannot be understood to make one happy without
+Suadetur 1. ad beandum. Probatur primo, quia Deus est objectum nos- them. It is proven, first, from the fact that God is the object of our hap- It is proven, first.
+træ beatitudinis, ut in se est, juxta illud: Videbimus eum sicuti piness as he is in himself according to [1 John 3:2]: ‘We will see him as
+est, sed Deus sicut est, dicit divinam naturam ut existentem in 75R he is’. But God ‘as he is’ expresses the divine nature as existing in three
+75 tribus personis: ergo nisi ita videatur, non videtur sicuti est: persons. Therefore, unless he is seen in that way, he is not seen as he
+Declaratur. ergo non ita videtur ut possit beatificare. Quod exemplo ita is. Therefore, he is not seen in such a way that he can make one happy.
+declaro: nam si beatitudo consisteret in videnda Christi hu- I explain this example as follows: if happiness consisted in seeing the It is explained.
+manitate, sicut nunc est in rerum natura, qui videret illam, et humanity of Christ as it now is in the nature of things, someone who
+non videret unionem ejus, adhuc illam non videret ut bean- 80R saw the humanity but did not see its union would so far not see him as
+80	Suadetur 2. tem. Secundo, quia respectu divinæ beatitudinis relationes in- making one happy. Secondly, from the fact that with respect to divine It is proven,
+secondly.	cluduntur in objecto beatificante, quia non <54> potest com- happiness the relations are included in the happy-making object, since
+prehendi Deus, quin cognoscatur ut includens relationes: ergo God cannot be comprehended unless he is cognized as including the re-
+idem erit respectu nostræ beatitudinis, quæ est partipatio div- lations. Therefore, the same will be true with respect to our hapiness,
+Suadetur 3. ina. Tertio, quia, si in Deo tantum esset una persona, non esset 85R which is a participation in the divine happiness. Thirdly, from the fact It is proven,
+thirdly.	85 objectum beatificans natura ipsa sine persona, sicut enim pro- that if there were only one person in God, his nature itself without the
+prie non est primum principium, et creator deitas, sed Deus person would not be the happy-making object. For just as God rather
+(nam si hæc dicuntur de deitate, est propter summam iden- than deity is properly the first principle and the creator (if they are said
+titatem cum Deo), ita proprie ultimus finis est Deus, ut sic, of deity it is on account of highest identity with God), so also the ul-
+et non deitas, nisi propter identitatem: Deus autem dicit per- 90R timate end is properly God, as such, and not deity except on account
+90 sonam: ergo eodem modo nunc non est Deus beatitudinis ob- of identity. God, moreover, expresses a person. Therefore, in the same
+jectum sine personis. Patet consequentia, quia non est minus way God without the persons is not now the object of happiness. The
+idem nunc essentia cum tribus personis, quam si esset tan- consequence is evident because the essence now is no less identical to
+Suadetur 4. ex
+Caiet.
+tum una. Tandem est argumentatio Cajetani, quia visa div- the three persons than if it were only one person. Finally, there is Ca- It is proven,
+fourthly, from
+Cajetan.
+ina natura, et non visis personis, non quiesceret mens homi- 95R jetan’s argumentation from the fact that the human mind would not
+95 nis: tum quia, qui videt aliquam naturam, et non videt in quo rest from seeing the divine nature without seeing the persons. This is
+supposito sit, inquietudine laborat, donec videat quomodo sit: both because someone who sees some nature but does not see in what
+tum etiam, quia mysterium Trinitatis est maximum, et quod it is supposited works disturbed until he sees in what way it is and also
+potissimum declarat eminentiam divinæ naturæ: ergo non viso because the mystery of the Trinity is the greatest [mystery] and what
+96 inquietudine ] in quietudine A.
+
+-- 7 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 8
+illo, non potest mens humana satiari. 100R especially shows the eminence of the divine nature. As a result, the
+human mind cannot be satisfied without seeing it.
+100	1. Autoris
+assertio.
+11. Inter has sententias media via tenenda est, et primo 11. A middle way between these views should be held. First, The first
+assertion of the
+author.
+absolute et simpliciter dicendum, Deum trinum et unum esse it should be said absolutely and strictly speaking that God as three
+primarium, et adæquatum objectum nostræ beatitudinis. Pro- and one is the primary and adequate object of our happiness. It is
+Prima probatio. batur primo rationibus Cajetani, quæ hoc saltem persuadent, 105R proven, first, from Cajetan’s arguments, which at least convince one The first proof.
+et favet communis modus loquendi Sanctorum, quos infra ref- of this. And the saints’ common way of speaking (to which we will
+105 eremus agentes de visione beatifica: et præsertim exponentes return below when dealing with the beatific vision) favours it, es-
+illud Joannis 3: Videbimus eum, etc., quod tacite exponens pecially when explaining the passage from [1] John 3 (‘We will see
+Concilium Florentinum, in Litt. union., dicit Sanctorum an- him . . . ’). The Council of Florence when tacitly explaining this passage
+imas plene purgatas, intueri clare Deum trinum et unum, si- 110R in Litt. union. says that the fully purged souls of the saints intellectually
+Secunda. cuti est. Secundo, quia Deus trinus et unus absolute est pri- see God three and one as he is with clarity. Secondly, from the fact that The second.
+110 mum principium nostrum, ad cujus imaginem facti sumus: God as three and one is absolutely our first principle in whose image
+ergo est et ultimus finis noster: ergo objectum beatitudinis nos- we were made. Therefore, he is also our ultimate end. Therefore, the
+træ: nam beatitudo, ut dixi, consistit in consecutione ultimi object of our happiness. For happiness, as I said, consists in the attain-
+finis, et magna perfectio humanæ naturæ est, quod ad suum 115R ment of the ultimate end and the greatest perfection of human nature
+primum principium convertatur, et in illo quiescat. Et confir- is that it be directed to its first principle and that it rest in it. And it is
+115	Confirm. matur, nam sola Trinitas una suprema adoratione a nobis col- confirmed: for the Trinity alone is worshiped by us with one supreme It is confirmed.
+itur, et uno amore charitatis infusæ super omnia diligitur. Est adoration and is loved beyond all other things with one love of infused
+ergo adæquatum objectum nostræ supremæ dilectionis: ergo charity. It is, therefore, the adequate object of our highest love. There-
+et beatitudinis nostræ, et hoc magis constabit ex sequenti. 120R fore, also of our happiness. This will become more evident from the
+following [section].
+2. Assertio. 12. Dico secundo: In hoc objecto essentia est propria 12. I say secondly: In this object essence is the proper formal es- The second
+assertion.	120 ratio formalis essentialis, ac de se sufficiens ad nostram beat- sential ratio that is of itself sufficient for our happiness. But relations
+itudinem: relationes vero etiam concurrunt tanquam intrin- also concur as intrinsically belonging to a kind of substantial or per-
+sece <col. b> pertinentes ad substantialem quamdam, seu 125R sonal constitution of that object. This is explained as follows: since The assertion is
+explained or
+proven.
+Declaratur seu
+probatur assertio.
+personalem constitutionem illius objecti. Declaratur in hunc God is the object of our happiness, something will pertain to the ob-
+modum: nam Deus est objectum nostræ beatitudinis: ergo eo ject of our happiness in that way in which it pertained to the consti-
+125 modo pertinebit ad objectum nostræ beatitudinis, quo pertin- tution of God himself. Relations as such, however, are not part of the
+uerit ad constitutionem ipsius Dei: relationes autem, ut sic, essential concept of God; only divinity is. Nevertheless, they do be-
+non sunt de conceptu essentiali Dei, sed sola divinitas; perti- 130R long intrinsically to the personal constitution of God or as the divine
+nent tamen intrinsece ad constitutionem personalem Dei, seu nature subsists with it in a connatural and most eminent way. There-
+ut natura divina modo sibi connaturali eminentissimo subsi- fore, relations will belong to the object of our happiness in the same
+130 stat: ergo eodem modo tam divinitas, quam relationes per- way as divinity does. Hence, there is in this a great difference between
+tinebunt ad objectum beatitudinis nostræ. Unde in hoc est relations and possible creatures, for although we grant that creatures are
+magna differentia inter relationes, et creaturas possibiles, nam 135R in some way necessarily seen once [God’s] essence has been seen, they
+125–126 pertinuerit ] pertinebit V.
+
+-- 8 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 9
+licet demus creaturas aliquo modo videri necessario visa essen- are, nevertheless, only seen as effects eminently contained in cause or as
+tia, tamen solum videntur ut effectus eminenter contenti in an object of divine omnipotence and therefore as something extrinsic
+135 causa, seu ut objectum omnipotentiæ divinæ, atque adeo, ut to God that terminates a kind of transcendental relation of divine om-
+quid extrinsecum Deo, terminans habitudinem quamdam tran- nipotence. But relations [are seen] as intrinsic to God himself and as
+scendentalem divinæ omnipotentiæ, relationes vero ut intrin- 140R belonging in some way to his constitution, at least to his constitution
+secæ ipsi Deo, et pertinentes aliquo modo ad constitutionem as a personal being. And, therefore, although they do not belong to
+ipsius, saltem in esse personali; et ideo licet non sint de for- the formal and essential concept of this object as a happy-making ob-
+140 mali et essentiali conceptu hujus objecti, ut beatificantis, in- ject, they are, nevertheless, intrinsically and substantially included in
+cluduntur tamen in illo intrinsece, ac substantialiter. Et con- it. And it confirmed by the argument from the fact that the ultimate It is confirmed.
+Confirm. firmatur illo argumento, quod finis ultimus respicit primum 145R end looks back to the first principle. Moreover, although God three
+principium; quamvis autem Deus trinus et unus absolute sit and one is absolutely our first principle, still, the formal ratio that is
+primum principium nostrum, tamen formalis ratio, ac per se per se necessary and sufficient to be the first principle is divinity. Re-
+145 necessaria, ac sufficiens ut sit primum principium, est divini- lations, however, only concur as subsisting rationes, since divinity in
+tas: relationes vero solum concurrunt, ut rationes subsistendi, fact consists in three things which are the first principle. Therefore, we
+quando de facto divinitas consistit in tribus, qui sunt primum 150R should speak in the same way about the ultimate end and the object of
+principium: ergo eodem modo loquendum est de ultimo fine, happiness. And I take this view explained in this way from St. Thomas
+et objecto beatitudinis. Et hanc sententiam sic expositam sumo IIaIIæ.2.8 arg. 3 with its solution.
+150 ex D. Thoma 2, 2, quæst. 2, art. 8, argum. 3, cum solutione.
+Ad 1. fundam. in
+n. 9. diluitur eius
+1. probatio.
+13. Ad fundamenta Scoti ergo quatenus fieri possunt con- 13. In response, therefore, to the foundations of Scotus insofar as In response to the
+first foundation
+in n. 9, its first
+proof is refuted.
+tra primam conclusionem respondetur ad primum æternum they can be contrary to the first conclusion, I respond to the first one
+Patrem esse beatum videndo seipsum, et divinas personas, et 155R that the eternal Father is happy by seeing himself and the divine persons
+divinitatem sensu a nobis explicato. Nec inde fit quod accip- and divinity in the sense that I just explained. Nor does it thereby
+155 iat beatitudinem a personis, quia divinitas est illi sufficiens ad follow that he receives happiness from the persons, since divinity is
+beatitudinem suam; tamen quia hæc divinitas ex infinitate sua sufficient for him to be happy. Nevertheless, because this divinity as
+de facto est in aliis etiam personis, pertinet suo modo ad beat- a result of its infinity is in fact also in the other persons, it belongs
+itudinem Patris ut illas videat, et suam essentiam in illis, quod 160R in its way to the happiness of the Father so that he sees them and his
+Diluitur secunda. non accipit ab aliis, sed ex se etiam hoc habet. Unde ad se- essence in them, which he does not receive from the other persons but
+160 cundam probationem negamus relationes nostro modo intel- also holds in himself. Hence, in response to the second proof, we deny The second proof
+is refuted.	ligendi concurrere per modum speciei ad illam cognitionem, that the relations concur through the mode of species to that cognition
+sed sola essentia est per se sufficiens ratio illius vi- <55> sionis, in our way of understanding. Rather, the essence alone is in itself a
+nam tota per se concurrit ratione entis etiam ut terminatur ad 165R sufficient ratio for that vision, for the entire [essence] concurs in itself
+Diluitur tertia. personas. Ad tertiam vero probationem negatur assumptum, by reason of being even as terminated in the persons. But in response The third proof is
+refuted.	165 quia Pater in nullo signo, proprie loquendo, est beatus visione to the third proof, the assumption is denied. For in no sign, properly
+divinitatis, et non personarum. Nam prioritas originis in re speaking, is the Father happy by vision of divinity without vision of
+non est prioritas in quo, sed a quo. Unde quod Pater dicatur the persons. For priority of origin in reality is not priority in which
+prius origine beatus, quam Filius, vel Spiritus sanctus non sig- 170R (in quo) but priority from which (a quo). Hence, that the Father is said
+136 quid ] quod V.
+
+-- 9 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 10
+nificat in aliquo priori esse beatum, sed solum quod Pater habet to be happy before the Son or the Holy Spirit by priority of origin
+170 ex se sine origine quod sit beatus, Filius autem habet a Patre: et does not indicate that he is happy in something prior but only that
+ideo sicut Pater non prius est quam Filius, juxta illud Athanasii: the Father has from himself without origin the fact that he is happy.
+In hac Trinitate nihil prius, aut posterius, ita nec prius est beatus The Son, however, has it from the Father. And for this reason just as
+Ad 2. fundam. in
+eodem n. 9.
+visione sui, quam visione Filii. Ad secundum fundamentum 175R the Father is not prior to the Son—according to Athanasius’s statment:
+negatur assumptum, non enim potest videri essentia sine per- ‘nothing is prior or posterior in this Trinity’—so also his being happy
+175 sonis: deinde licet demus videri essentiam sine personis, con- by vision of himself is not prior to his being happy by vision of the Son.
+cedo esse sufficientem ad beatificandum, quia revera est ens In response to the second foundation, the assumption is denied, for the In response to the
+second
+foundation in the
+same n. 9.
+infinitum simpliciter, et ex vi sui conceptus essentialis, non essence cannot be seen without the persons. Furthermore, although
+solum est deitas, sed Deus, ut alias probatum est in materia de 180R I grant that the essence be seen without the persons, I concede that
+Incarnatione: Deus autem est sufficiens objectum beatificans. it is sufficient for making one happy, since it is in realy infinite being
+180 Nihilominus tamen de facto, quia hic Deus existit in tribus strictly speaking and by the force of its essential concept it is only deity
+personis, quæ pertinent ad intrinsecam, et personalem con- but also God, as is proven elsewhere in the material on the Incarnation.
+stitutionem ejus, ideo quælibet illarum personarum, et omnes God, however, is the sufficient happy-making object. But, nevertheless,
+simul, pertinent ad objectum, quod de facto beatificat. 185R in fact, because this God exists in three persons which belong to his
+intrinsic and personal constitution, it follows that whichever of these
+persons you please and all simultaneously belong to the object that in
+fact makes one happy.
+Ad 1. arg. in
+num. 10.
+14. Ad argumenta vero Cajetani quatenus fieri possunt 14. But with respect to the arguments of Cajetan insofar as they Against the first
+argument in
+n. 10.
+185 ex parte contra secundam conclusionem, respondetur ad pri- 190R can be contrary in part to the second conclusion, I respond to the first
+mum solum probare quod de facto erimus beati videndo Deum argument that it only shows that we will in fact be happy by seeing
+trinum et unum, non tamen quod essentia, et relationes æque God three and one but, for all that, it does not show that the essence
+Ad 2. pertineant ad rationem illius objecti. Secundum etiam argu- and the relations equally belong to the ratio of that object. The second Against the
+second.	mentum ad summum idem probat, quanquam in rigore non argument also at most proves the same thing, although technically it
+190 sit efficax, tum quia idem argumentum fieri potest de crea- 195R does not work, both because the same argumnet can be made about
+turis, quas Deus necessario cognoscit comprehendendo seip- creatures which God necessarily cognizes in comprehending himself
+sum: tum etiam quia nostra beatitudo non est comprehen- and also because our happiness is not a comprehension of God. To the
+Ad 3. sio Dei. Ad tertium respondetur, non esse similem rationem; third, I respond that it is not an analogous argument, for whatever may Against the third.
+nam quidquid sit de identitate, tamen si intelligeremus in Deo be the case concerning identity, even if we were to understand there
+195 tantum esse unam personam, subsistentia personalis illius per- 200R to be only one person in God, the personal subsistence of that person
+sonæ esset de essentiali conceptu Dei, nam esset perfectio ab- would be part of the essential concept of God. For it would be absolute
+soluta: at vero nunc relationes personales quamvis sint unum perfection. But now, on the other hand, the personal relations are not
+cum essentia, non sunt tamen de conceptu essentiali ejus, ut ex part of his essential concept, although they are one with the essene,
+Ad 4. materia de Trinitate suppono. Ad ultimum de appetitu respon- as I assume from the material on the Trinity. To the last arugment, Against the
+fourth	200 detur, si per impossibile aliquis videret hunc Deum, non vi- 205R concerning desire, I respond that if, per impossibile, someone were to
+dendo personas, illum debere manere quietum, et satiatum tam see this God without seeing the persons, he ought to remain at rest
+in intellectu, quia videret objectum formaliter, vel eminenter and satisfied both in intellect (since he sees the object that formally or
+continens <col. b> illam perfectionem, et omnem veritatem: eminently contains that perfection and every truth) and in will (since
+
+-- 10 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 11
+tam in voluntate, quia frueretur simpliciter summo bono; unde he enjoys strictly speaking the highest good). Hence, he only differs
+205 solum differret ab alio, qui videret Trinitatem, sicut minus bea- 210R from someone else who sees the Trinity as someone who is less happy
+tus, a magis beato. Unde sicut nunc ille qui minus beatus est, from someone who is more happy. Hence, just as now one who is less
+satiatus est, quamvis alius melius videat, ita dicendum esset in happy is satisfied even though someone else sees something better, so
+illo casu, qui tamen propter alias causas impossibilis est. one should say the same thing in the former case (which, however, is an
+impossible case for other reasons).
+PUNCTUM III. POINT III.
+An pertineant ideæ, vel actus liberi Dei. Whether ideas or the free acts of God pertain to the object of happiness.
+Circa 3. punctum
+notatio 1.
+15. In tertio puncto in principio hujus quæstionis proposito 15. Many things could be said about the third point raised at the begin- The first note
+about the third
+point.
+multa dici poterant, tamen quia attingunt materiam de modo, ning of this question. But since they touch on the subject about the way
+5 quo videntur creaturæ in Verbo per visionem beatam, ea nunc 5R in which creatures seem [to be] in the Word through the happy vision,
+prætermitto: solum sunt breviter adnotanda duo. Primum est, I pass over them for now. Only two things should be noted briefly.
+in rationibus, seu ideis creaturarum, quæ sunt in divina essen- The first is that when it comes to the notions or ideas of creatures that
+tia, aliud esse considerare id, quod est in ipso Deo formaliter, are in the divine essence, it is one thing to consider that which is in
+sive illud sit eminentissima illa perfectio, in qua eminenter God himself formally, which is either that most eminent perfection in
+10 continentur omnes perfectiones creaturarum, sive sit infinita 10R which all the perfections of creatures are contained eminently or the
+scientia, in qua intelliguntur esse exemplaria rerum omnium. infinite knowledge in which the exemplars of all things are understood
+Aliud vero esse considerare creaturas ipsas, quæ in Deo con- to be. But it is another thing to consider the creatures themselves that
+tinentur tanquam in causa prima efficienti et exemplari: nam are contained in God as in a first efficient cause and exemplar. For the
+primum horum pertinet ad intrinsecam et essentialem perfec- first of these pertains to the intrinsic and essential perfection of God,
+15 tionem Dei: secundum vero est extrinsecum ipsi Deo. Unde fit 15R but the second is extrinsic to God himself. As a result, it is the case that
+ut ad objectum beatitudinis pertineat omnis illa perfectio div- all those divine perfections in which the natures of creatures and their
+ina, in qua continentur rationes creaturarum, et perfectiones perfections are contained pertains to the object of happiness, because
+earum, quia tota illa perfectio est formaliter in Deo, et est that whole perfection is formally in God and is essential to him. It was
+essentialis illis; dictum est autem Deum secundum totam es- said, moreover, that God is the object of our happiness according to
+20 sentiam suam esse objectum beatitudinis nostræ. Nihilominus 20R his whole essence. But, nevertheless, the creatures themselves that are
+tamen creaturæ ipsæ, quæ continentur eminenter in Deo, vel contained eminently in God or that are represented in the divine ideas
+in ideis divinis repræsentantur, per se non pertinent ad objec- do not in themselves pertain the object of happiness according to its
+tum beatitudinis secundum suam propriam, et formalem per- proper and formal perfection and ratio. For, as such, there are, strictly
+fectionem, ac rationem: quia ut sic, sunt simpliciter objecta speaking, created objects. But whether and in what way that perfection
+25 creata. An vero, et quomodo cognosci possit illa perfectio, et 25R can be cognized and both its infinite knowledge and power be clearly
+videri clare et infinita scientia ejus et potentia, non visis crea- seen without seeing the creatures was stated when disputing about the
+turis, dictum est disputando de perfectione visionis beatæ. perfection of the happy vision.
+Notatio 2. 16. Secundo notandum est fere simili modo dicendum esse 16. Secondly, it should be noted that one should say almost the
+7 ideis ] in eis V.
+
+-- 11 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 12
+circa actus liberos voluntatis divinæ: aliud est enim considerare same thing about the free acts of the divine will: for it is one thing to
+30 in Deo actum voluntatis quo vult se, et alia a se: aliud est con- 30R consider the act of will in God by which he wills himself and other
+siderare illum eumdem actum prout libere terminatum ad hoc, things after himself, but another thing to consider that same act as it is
+vel illud objectum creatum. Primum necessario convenit ipsi freely terminated in this or that created object. The first is necessarily
+Deo, nam sicut est suum esse, et suum <56> intelligere, ita fitting to God himself, for just as it is to be himself and to understand
+est suum amare: unde perfectio illius actus, absoluta est et es- himself, so is it to love himself. Hence, the perfection of that act is ab-
+35 sentialis Deo, et ideo per se pertinet ad objectum beatitudinis 35R solute and essential to God and for that reason pertains in itself to the
+nostræ, ut patet ex principio supra posito: at vero secundum object of our happiness, as is evident from the principle posited above.
+omnino est extra rationem, et perfectionem divinæ essentiæ: But, on the other hand, the second is entirely outside the ratio and per-
+quamvis enim Deus nihil extra se libere vellet, æque perfectus fection of the divine essence. For even if God freely willed nothing
+essentialiter maneret, et in se summe beatus, et sufficiens ad be- beyond himself, he would remain equally perfect in essence, happy to
+40 atificandum alios: unde illa libera determinatio actus divini ad 40R the highest degree in himself, and sufficient for making others happy.
+objecta creata, si aliquid ei addit, non pertinet ad necessariam, Hence that free determination of the divine act to a created object, if it
+et essentialem perfectionem ejus: vel quod verius est, nullam adds anything to the act, does not pertain to its necessary and essential
+rationem, aut perfectionem realem illi addit, sed solum conno- perfection. Or, what is more true, it adds no real nature or perfection to
+tat extrinsecum objectum, et relationem rationis ad illud, ut it, but only connotes an extrinsic object and relation of reason to it, as
+45 tractatur 1 p., quæstion. 19, et late exposui in disp. 30 Meta- 45R is discussed in Ia.19 and as I discussed more thoroughly in DM XXX.9.
+physicæ, sect. 9. Unde fit quod licet ad objectum beatitudinis From this it follows that although it pertains to the object of happiness
+pertineat videre illum actum divinæ voluntatis prout in se nec- to see that act of the divine will insofar as it is in itself necessary and
+essario est, ac de se sufficiens, ut sine sui mutatione terminetur of itself sufficient to be freely terminated in an extrinsic object without
+libere ad extrinseca objecta: tamen videre in illo actualem de- change in itself, nevertheless, to see in it the actual free determination
+50 terminationem liberam non pertinet per se ad objectum beati- 50R does not pertain in itself to the object of happiness, since this is beyond
+ficum, quandoquidem hoc est extra essentiam, et perfectionem the essence and perfection of God.
+Dei.
+Quæstiuncula de
+ratione sub qua
+obiecti beatifici
+remittitur.
+17. Ultimo posset in hac disputatione inquiri, sub qua 17. Lastly, one can ask in this disputation under which ratio God A little question
+about the ratio
+under which of
+the beatific object
+is passed over.
+ratione Deus sit objectum beatitudinis, hactenus enim solum is the object of happiness. For so far we have only explained the objec-
+55 explicuimus objectivam rationem, quæ nos beatificat: dicen- tive ratio that makes us happy. It seems, therefore, that we should talk
+dum ergo videbatur de ratione sub qua: quia tamen, ut supra 55R about the ratio under which. Nevertheless, because, as I said above, this
+dixi, hoc involvit habitudinem ad nostras potentias, et actus, involves a relation to our powers and acts, by which we attain that ob-
+quibus attingimus illud objectum, ideo melius id explicabitur ject, it will therefore be better to explain this when discussing formal
+Altera
+quæstuncula
+breuiter
+expeditur.
+tractando de formali beatitudine. Tandem inquiri poterat, an happiness. Finally, one could ask whether God is the beatific object in- Another little
+question is
+briefly explained.
+60 Deus sit objectum beatificum prout in se est summum bonum, sofar as he is in himself the highest good, lovable with friendship love
+propter se amabile amore amicitiæ, an vero ut est summum 60R for his own sake, but whether as the highest good of the happy person
+bonum ipsius beati amabile amore concupiscentiæ: sed hoc he is lovable with concupiscent love. But I also set aside this question,
+etiam omitto, quia involvit multa, quæ postea dicenda sunt since it involves many things about the way of desiring happiness that
+de modo appetendi beatitudinem: solumque breviter suppono are to be discussed later. I only suppose, briefly, from what was said that
+65 ex dictis, Deum ut simpliciter est summum bonum, summe God as strictly speaking being the highest good, lovable in the highest
+amabile, omni ratione esse objectum nostræ beatitudinis: nam 65R degree, is the object of our happiness under every ratio. For the fact
+
+-- 12 of 13 --
+
+Suárez, De Fine Hominis, disp. 5, sect. 3 13
+quod illud objectum sit maxime amabile ipsi beato tanquam that the object that is the highest good for the happy person himself is
+summum bonum ejus, per se notum videtur, quia nihil est the object that is most lovable for him seems per se notum, since noth-
+amabilius homini ipsa beatitudine. Propter quod dixit Ansel- ing is more lovable to a human being than happiness itself. For this
+70 mus, libro de Casu diabol, cap. 4, ex commodis constare beati- reason Anselm said in De casu diaboli, cap. 4, that happiness consists
+tudinem: et D. Thomas 1, 2, quæst. 1, art. 7, ad 2, dicit, beati- 70R of advantages. And St. Thomas in IaIIæ.1.7 ad 2 says that happiness is
+tudinem amari tanquam bonum concupitum. Quod vero Deus loved as an ardently desired good. But that God as the beatific object
+etiam ut objectum beatificum, sit summum bonum propter se is also the highest good maximally lovable for his own sake the same
+maxime diligendum, docuit idem D. Thomas, ibid., quæst. 4. St. Thomas teaches in the same place in question 4. And the reason is
+75 Ratio etiam est <col. b> clara, quia Deus sub hac ratione etiam clear: because God under this ratio is also the ultimate end for a hu-
+est finis ultimus hominis, in quem ipsa etiam hominis beati- 75R man being, to which the very happiness of the human being ought to
+tudo referri debet. Denique, quia beatitudo est satietas amoris, be referred. Finally, because happiness is the satisfaction of love and
+et ideo satiare debet, non solum amorem concupiscentiæ, sed therefore it ought to satisfy not only concupiscent love but also perfect
+etiam amorem amicitiæ perfectum: oportet ergo ut objectum friendship love. It must, therefore, be the case that its object be such a
+80 illius sit tale bonum quod utrumque amorem satiare possit. good that it can satisfy either kind of love. But how God does this when
+Quomodo autem hoc faciat Deus, quando a beatis perfecte pos- 80R perfectly possessed by the happy will be explained when discussing the
+sidetur, explicabitur tractando de consecutione hujus objecti, attainment of this object. This attainment is our happiness.
+quæ est nostra beatitudo.
+71–72 et D. Thomas 1, 2, quæst. 1, art. 7, ad 2, dicit, beatitudinem ] om. V.
+
+-- 13 of 13 --

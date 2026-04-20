@@ -1,0 +1,1142 @@
+Last revision: February 16, 2013	Francisco Suárez, S. J.
+DM XXVII1
+© Sydney Penner 2012
+<849, col. b>2
+De comparatione causarum inter se. On the comparison of the causes with each other.
+Duae tantum comparationes faciendae supersunt inter causas Only two comparisons3 remain to be made between the causes them-
+ipsas, una in perfectione, altera in causalitate: ex quibus simul selves: one concerning perfection and one concerning causality. From
+etiam constabit quomodo in prioritate comparentur, seu quae these it will also be clear at the same time how they compare with re-
+5 illarum prior censenda sit. In his autem comparationibus 5R spect to priority or which of them should be deemed prior. It should
+observandum est, generatim esse intelligendas, conferendo be noted that these comparisons should be understood generically—
+nimirum unum genus causae cum alio: nam speciatim descen- that is, by comparing one genus of cause with another genus—for if we
+dere ad singulas causas singulorum generum, res esset infinita, were to descend particularly to individual causes of individual genera,
+et praeter scientiam. the matter would be infinite and beyond science.
+10 SECTIO I. 10R SECTION I.
+Quaenam ex quatuor causis perfectior sit. Which of the four causes is more perfect.
+1. Possunt hae causae comparari vel in ratione et perfec- 1. These causes can be compared either in the ratio and perfection of
+tione entis, vel in ratione causandi, et perfectione quam in illa being or in ratio of causing and the perfection they have in that. It is
+habent: estque haec posterior comparatio formalis (ut <950> this latter formal (if I may call it that) and per se comparison that is
+ita dicam) et per se ad praesens pertinens: tamen, quia causal- relevant at present. Nevertheless, since causality follows the ratio of
+5 itas consequitur rationem entis, et est proprietas seu attribu- 5R being and is a property or attribute of it, greater perfection in causing
+tum eius, ideo maior perfectio in causando consequi solet ex usually follows from greater perfection in being. For this reason we
+maiori perfectione in essendo: et ideo non possumus ita pos- cannot make the latter comparison in such a way as to omit the prior
+teriorem comparationem facere, ut priorem omnino omitta- comparison entirely.
+mus.
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes: many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3For the moment I have decided to translate ‘comparatio’ and its relatives consistently with ‘comparison’ and its relatives; it should be noted, however, that in various places in
+this disputation one might well prefer ‘relation’, since the point is often one about how one cause relates to another rather than an exercise in comparing and contrasting.
+10 I ] II V.
+
+-- 1 of 26 --
+
+Suárez, DM XXVII 2
+10 Comparantur intrinsecae ad extrinsecas. Intrinsic and extrinsic causes are compared.
+2. Primo igitur certum est, comparando materiam et formam 10R 2. First, therefore, it is certain that when comparing matter and form
+ad efficiens et finem, illas esse causas minus perfectas ex suo to efficient cause and end, the former causes are less perfect according
+genere tam in esse quam in causalitate. Probatur, quia cum to their own genera, in being as much as in causality. It is proven, for
+fit comparatio inter genera, illud est praeferendum alteri in when a comparison is made between genera, that genus should be pre-
+15 quo forma et perfectissima species excedit perfectissimam al- ferred in which the form and most perfect species surpasses the most
+terius generis, ut colligitur ex doctrina Aristotelis lib. 1. De 15R perfect species of the other genus, as is gathered from the teaching of
+caelo cap. 11. text. 115. et 116. ubi docet metiri perfectiones Aristotle in De caelo I, cap. 11, text. 115 and 116, where he says to mea-
+potentiarum ex eo, quod in unaquaque maximum est: sed sure the perfections of powers according to that which is the greatest
+supremum efficiens et supremus finis superant quamcumque in each one. But the supreme efficient cause and the supreme end sur-
+20 materiam vel formam, ut per se notum est: ergo. Item in pass any matter or form, as is known per se. Therefore. Likewise, in
+genere entis materia et forma sunt entia incompleta, et aliquo 20R the genus of being, matter and form are incomplete beings and imper-
+modo imperfecta, et hoc intrinsece includunt ex vi suarum fect in some way, and they include this intrinsically from the meaning
+rationum, et in tota sua latitudine, efficiens autem et finis, of their concepts and in their entire extensions. But efficient cause
+minime, sed quo ens fuerit magis completum, actualius, et and end not at all. But by whatever a being will have become more
+25 perfectius, eo per se loquendo aptius erit ad perfectam ra- complete, more actual and perfect, by that, speaking per se, it will be
+tionem efficientis vel finis exercendam. Item materia et forma 25R more apt for exercising the perfect ratio of an efficient cause or an end.
+in ipso modo causandi imperfectionem includunt, quia non Likewise, matter and form include imperfection in their very mode of
+causant nisi componendo: efficiens autem et finis, quae sunt causing, since they cannot cause except by composing. But efficient
+causae extrinsecae, per se loquendo nullam involvunt imper- cause and end, which are extrinsic causes, speaking per se, involve no
+30 fectionem in causalitate sua. imperfection in their causality.
+Comparantur inter se forma et materia. 30R Formal and material causes are compared with each other.
+3. Secundo comparando materiam ad formam dicendum est, 3. Secondly, in comparing matter to form it should be said that the
+formam praestare materiae tam in ratione entis, quam in ra- form excels matter in the ratio of being just as in the ratio of cause.
+tione causae. Haec assertio praecipue habet locum in materia This assertion is especially on the mark in the case of matter and sub-
+35 et forma substantiali: de quibus satis tractata est supra cum stantial form, which we dealt with satisfactorily above when we dis-
+de his causis ageremus, ubi utramque partem ostendimus ex 35R cussed these causes,4 where we showed both parts from the fact that
+eo, quod forma plus actualitatis habet quam materia: unde form has more actuality than matter, whence it is that which com-
+ipsa est quae complet rei essentiam, et quae est principium pletes the essence of a thing and which is the principle of every activ-
+omnium operationum et perfectionum compositi. Ex quo ity and perfection of a composite. From this it is understood that this
+40 intelligitur, comparationem hanc in ratione causae debere in- comparison in the ratio of cause ought to be understood with respect
+telligi respectu compositi, nimirum quatenus hae duae sunt 40R to the composite, namely, insofar as these two are causes of it. For
+4DM XIII and XV.
+35 tractata ] tractatum V.
+
+-- 2 of 26 --
+
+Suárez, DM XXVII 3
+causae illius: nam si comparatio fiat inter materiam, <col. b> if the comparison were made between matter and form—especially
+et formam praesertim materialem, ad invicem, sic magis pro- material—to each other, then it would more properly seem to be the
+prie videtur causalitas materiae in formam, quam formae in causality of matter to form than the causality of form to matter, since
+45 materiam, quia dependentia talis formae a materia est magis the dependency of such a form on matter is more a priori, as enduring
+a priori, ut a proprio sustentante: dependentia vero materiae 45R on its own; but the dependency of matter on form is more a posteriori
+a forma magis est a posteriori, ut a conditione seu actualitate as a condition or actuality required for the connatural and appropriate
+requisita ad connaturalem et debitum statum materiae, ut in (debitum) state of matter, as was said in thea earlier sections. Nor does
+superioribus dictum est. Neque hoc obstat quominus materia it stand in the way that matter in the genus of being strictly speaking
+50 in genere entis simpliciter sit minus perfecta, licet secundum is less perfect, although it excels secundum quid in some condition.
+quid in aliqua conditione excedat.
+Accidentalisne
+forma perfectior
+sit suo subiecto,
+an imperfectior.
+4. Quocirca si haec comparatio extendatur ad formam ac- 50R 4. Wherefore if this comparison is extended to accidental form Whether
+accidental form is
+more perfect
+than its subject or
+less perfect.
+cidentalem, et subiectum eius, intelligenda proportionaliter and its subject, they should be understood proportionately with re-
+est respectu concreti ut formaliter constituti in tali ratione: spect to the concrete object as it is formally constituted in such a ra-
+55 sic enim perfectius causatur a forma accidentali, quam a tio. For in this way something more perfect is caused by an accidental
+subiecto, et sub eadem consideratione forma accidentalis ex- form than by the subject, and under the same consideration an acci-
+cedit subiectum quatenus comparatur ad illam ut actus ad po- 55R dental form excels the subject insofar as it is compared to that as an act
+tentiam: tamen ille excessus tantum est secundum quid, nam to power. Nevertheless, that excelling is only secundum quid, for ab-
+absolute in perfectione entis subiectum primarium accidentis solutely in the perfection of being the subject of the primary accident
+60 est substantia, quae simpliciter perfectior est. Et in ratione is the substance, which is more perfect, strictly speaking. And even
+etiam causandi, subiectum magis est causa accidentis, quam e with respect to the ratio of causing, the subject is more a cause of the
+converso, quia subiectum simpliciter sustentat accidens in suo 60R accident than conversely, since the subject strictly speaking sustains
+esse, accidens vero ut sic solum accidentaliter perficit subiec- the accident in its being, but the accident as such only accidentally
+tum, et ad summum aliquando est conditio vel dispositio nec- perfects the subject and at most is sometimes a condition or disposi-
+65 essaria ad sui subiecti conservationem. Atque ex his duabus tion necessary for the conservation of its subject. It can be gathered
+comparationibus colligere licet, absolute loquendo de gener- from these two comparisons that speaking absolutely about the gen-
+ibus causarum, materiam esse in primo et infimo gradu; in 65R era of causes matter is in the first and deepest level and form is in the
+secundo esse formam, solum ergo superest ut finem et effi- second level. What is left, then, is to compare end and efficient cause
+ciens inter se comparemus. with each other.
+Finis et efficiens inter se comparantur. Ends and efficient causes are compared with each other.
+Finis et efficiens
+in perfectione
+entitativa non
+necessario se
+excedunt.
+5. Dico tertio, Si finis et efficiens in perfectione entitativa 5. I say, third, that if end and efficient cause are compared with End and efficient
+cause do not
+necessarily
+surpass each
+other in
+entitative
+perfection.
+comparentur, neutrum est perfectius alio, sed eiusdem sunt respect to entitative perfection, neither is more perfect than the other.
+perfectionis, quamvis in ratione finis formalius illa perfectio Rather, both are the same in perfection, although that perfection is
+5 exprimatur, quam in ratione efficientis. Probatur prior pars, 5R expressed more in the ratio of end than in the ratio of efficient cause.
+quia finis et efficiens sumpta in tota latitudine sua, non nec- The former part is proven by the fact that end and efficient cause taken
+essario distinguuntur in ratione entis, saepe enim in idem in their whole latitude are not necessarily distinguished in the ratio of
+coincidunt, quod maxime contingit in perfectissimo effici- being, but often coincide in the same thing. This happens especially
+
+-- 3 of 26 --
+
+Suárez, DM XXVII 4
+enti, et in perfectissimo fine: hae namque duae rationes in in the case of the most perfect efficient cause and the most perfect
+10 una et eadem re coniunguntur, nempe in Deo: ergo com- 10R end. For these two rationes are conjoined in one and the same thing,
+parando has duas causas in suo genere, et in <951> summo namely, God. Therefore, if we compare these two causes in their gen-
+utriusque, neutra excedit alteram. Et ratio propria esse vide- era and in the highest instance of each, neither exceeds the other. The
+tur, quia utraque harum causarum ex suo genere dicit per- proper reason seems to be that each of these causes according to its
+fectionem sine imperfectione, et utraque, ut habeat summam genus expresses perfection without imperfection, and each, insofar as
+15 perfectionem possibilem in suo genere, requirit infinitam per- 15R it has the highest perfection possible in its genus, requires infinite per-
+fectionem simpliciter in genere entis, et ideo neutra ex suo fection without qualification in its genus. For this reason neither nec-
+genere alteram necessario excedit. essarily exceeds the other in its genus.
+6. Posterior vero pars declaratur, nam in fine propria et 6. The latter part is shown: for in an end the proper and formal
+formalis ratio causandi est bonitas et perfectio eius, ut supra ratio of causing is its goodness and perfection, as was shown above.
+20 dictum est: efficiens vero causat per suam formam seu natu- 20R But an efficient cause causes through its form or nature as such. And
+ram ut sic: et ideo dicitur causa finalis formalius exprimere for this reason final cause more formally expresses its perfection and
+perfectionem et bonitatem quam causa efficiens, quod magis goodness than efficient cause. This pertains more to a distinction aris-
+pertinet ad distinctionem ex conceptibus nostris, quam ex ing from our concepts than from the reality itself. From here it should
+ipsa re. Hinc vero proportionaliter intelligitur, in aliis agen- be proportionately understood that in other agents and ends these two
+25 tibus et finibus saepe etiam has duas causas esse eiusdem per- 25R causes are also often of the same perfection, insofar as any agent what-
+fectionis, quatenus quodlibet agens aliquo modo propter seip- ever in some way acts for its own sake or insofar as it acts for the sake
+sum operatur, vel quatenus operatur propter finem univocum of a univocal end or an end similar or equal to itself. But sometimes
+seu sibi similem vel aequalem: aliquando vero causam ef- an efficient cause surpasses a final cause in perfection, when the end is
+ficientem superare in perfectione finalem, quando finis est proximate and not ultimate. But more often and more connaturally
+30 proximus, et non ultimus, saepius vero et connaturalius finem 30R the end exceeds the agent cause in perfection, for when an agent cause
+excedere in perfectione causam agentem, nam quando causa is not perfect in the highest degree, it acts for the sake of some more
+agens non est summe perfecta, ut optimo modo operetur, excellent good in order to act in the best way.
+propter aliquod excellentius bonum operatur.
+7. Dico quarto. Si finis et efficiens comparentur in 7. I say, fourth, that if end and efficient cause are compared
+35 ratione causandi, in multis etiam habent aequalitatem, in with respect to the ratio of causing, they also have equality in many
+aliis vero se mutuo excedunt secundum proprias ac prae- 35R cases. But in other cases they mutually exceed each other according
+cisas rationes formales, simpliciter autem causa finalis cense- to proper and precise formal rationes. Strictly speaking, however, the
+tur prima ac praecipua in causando. Ut brevius agamus, to- final cause is thought to be first and foremost in causing. In order
+tam conclusionem hanc in Deo, qui suprema causa finalis et to deal with this matter briefly, I will explain this whole conclusion
+40 efficiens est, declaremus. Quamquam enim omnia quae in in the case of God, who is the supreme final cause and the supreme
+Deo sunt, prout in eo sunt, sint aeque perfecta, vel potius 40R efficient cause. For although everything that is in God is equally
+una perfectio, tamen prout a nobis varia attributa secun- perfect insofar as it is in him—or, better, they are one perfection—
+dum proprias ac praecisas rationes concipiuntur, intelligimus nevertheless, insofar as various attributes are conceived by us accord-
+unum ex suo genere esse eminentius alio, vel munus aut opus ing to proper and precise rationes, we understand one attribute to be
+45 unius, munere alterius, quomodo dicunt Theologi misericor- more eminent than another according to its genus or the function or
+diam esse maximam virtutem in Deo. Sic ergo compara- 45R work of one to be more eminent than the function of another, just as
+
+-- 4 of 26 --
+
+Suárez, DM XXVII 5
+ndo rationem causae efficientis et finalis, invenientur aequales theologians say that mercy is the greatest virtue in God.5 In the same
+primo in effectibus, quia non potest causa efficiens perfectis- way, therefore, if we compare rationes of efficient and final cause, they
+sima habere plures vel nobiliores effectus, quam possit finalis will in the first place be found equal in effects, since the most perfect
+50 causa etiam summe perfecta, et e converso: nullus enim ef- efficient cause cannot have more or more noble effects than the final
+fectus est a Deo ut efficiente, qui non sit propter eum ut ul- 50R cause can that is also perfect to the highest degree, nor the other way
+timum finem, et e contra- <col. b> rio. Immo ulterius addi around. For there is no effect that comes from God as from an effi-
+potest in hoc etiam esse aequalitatem, quod sicut omnes effec- cient cause that is not for the sake of him as for the sake of the ultimate
+tus omnium causarum efficientium sunt a primo efficienti, ita end, and the other way around.
+55 omnes effectus omnium causarum finalium sunt a supremo Indeed, it can be further be added that there is also equality in
+fine: et mutata proportione sicut omnes effectus omnium 55R this, namely, that just as all effects of all efficient causes are from the
+causarum finalium sunt in suo genere a primo efficienti, ita first efficient cause, so also all effects of all final causes are from the
+omnes effectus omnium causarum efficientium sunt in suo highest end. And, changing proportionately, just as all effects of all
+genere a supremo fine. Tertio est in hoc etiam quaedam ae- final causes are in its genus from the first efficient cause, so also all
+60 qualitas, quod utraque ex his causis ex suo genere dicit per- effects of all efficient causes are in its genus from the highest end.
+fectionem simpliciter, unde neutra includit imperfectionem, 60R Third, there is also a certain equality in that each of these causes
+ut limitationem, aut dependentiam, vel aliquid simile, et si- expresses an unqualified perfection in its genus; hence, neither in-
+cut una est connexa (ut ita dicam) cum altera in causando, ita cludes imperfection, whether limitation, dependence, or something
+etiam vicissim altera cum illa, neutra tamen dici potest pro- like that. And just as one is connected (if I may speak in this way)
+65 prie dependens ab altera, sed effectus ipsi sunt dependentes with another in causing, so also in turn the latter with the former (al-
+necessario ab utraque, seu a Deo sub utraque ratione. Et ita 65R though neither can properly be called dependent on the other; rather,
+patet prima pars assertionis. the effects themselves are necessarily dependent on both or dependent
+on God under each ratio). And so the first part of the assertion is clear.
+Efficiens in quo
+excedat finem.
+8. Secunda declaratur, quia ratio causae efficientis in hoc 8. Second, it is shown—since the ratio of efficient cause seems In what way
+efficient cause
+exceeds end.
+multum videtur excedere, quod influxus eius est maxime pro- to surpass greatly in this respect—that its influx is more proper and
+70 prius et realis per essentialem dependentiam et emanationem 70R real especially through the effect’s essential dependence on and em-
+effectus ab illa, unde efficiens propriissime dicitur dare esse anation from the efficient cause. Hence, an efficient cause is most
+effectui, et Aristoteles illud definivit esse principium unde properly said to give being to the effect. Aristotle defines it as the prin-
+incipit motus, seu productio vel factio rei. Et hinc etiam ciple ‘whence motion begins’ or whence the production or making of
+ortum habuit ut effectus, cum sit adaequatum correlativum a thing begins. And this is where it comes from that effects, since
+75 causae, per antonomasiam ab efficiendo nominetur, propter 75R they are adequate correlatives of causes, are named through antono-
+quod Stoici solam causam efficientem nomine causae dignam masia from effecting. This is the reason why the Stoics suppose that
+Seneca.
+Laertius.
+censuerunt, ut patet ex Seneca epistola 66. et Laertio in vita only efficient causes are worthy of the name ‘cause’, as is clear from
+Zenonis. Finis autem excedit primum in hoc, quod est ve- Seneca, Letter 66, and Diogenes Laërtius, Lives and Opinions of Emi- Seneca.
+Diogenes
+Laërtius.
+luti ultimus terminus in quem omnis actio efficientis dirigi- nent Philosophers, the life of Zeno in Book VII.
+80 tur, ita ut, si ita fas est loqui, dicere possimus efficiens fini de- 80R But end exceeds efficient cause first in this, namely, that it is as
+servire, et Deum ipsum sibi quodammodo ministrare, dum it were the ultimate terminus to which every action of an efficient
+5Cf. Suárez’s use of the term ‘munus’ when discussing transcendental relations, e.g., in DM 47.4.
+
+-- 5 of 26 --
+
+Suárez, DM XXVII 6
+quidquid agit, propter se operatur. Et ob hanc rationem, cause is directed in such a way that—if one may speak in this way—
+cum effectus aliquo modo sit propter suam causam (particula we can say that efficient cause serves end. God himself serves himself
+enim propter generatim potest causalitatem indicare) tamen in a certain way, while whatever he does, he does for his own sake.
+85 per antonomasiam de solo fine dicitur, esse propter quem res 85R And for this reason, although an effect is in some way on account of
+fit, et hinc etiam Socrates solam causam finalem, causam ap- (propter) its cause (for the phrase ‘on account of’ [‘propter’] generally
+Plato. pellavit apud Platonem in Phaedone. Deinde ac praecipue can indicate causality), nevertheless, through antonomasia it can be
+videtur superare finis in hoc, quod ipse est primum initium said that it belongs only to an end ‘to be that for the sake of which a
+et principium omnis actionis, quia ipsummet efficiens excitat thing comes to be’. This is why in Plato’s Phaedo Socrates designates Plato.
+90 et allicit ad efficiendum: quod, quamvis in primo efficienti 90R only the final cause a cause.
+inveniatur absque causalitate finis in ipsum efficiens, sed tan- End also seems especially to exceed in this, namely, that it itself is
+tum in <952> externam actionem eius, nihilominus secun- the first beginning and principle of every action, since it excites and
+dum eam rationem intelligimus primum motorem, vel (ut ita attracts the efficient cause to effecting. Although in the case of the
+dicam) primum procuratorem omnis causalitatis esse finem. first efficient cause it is found without any causality of the end in the
+95 Qui propterea appellari solet Prima, et Causa causarum, ut 95R efficient cause itself but the causality is only found in the cause’s ex-
+notavit Albertus lib. 2. Physicorum tract. 2. cap. 5. ubi qu- ternal action, nevertheless according to this argument we understand
+osdam alios ordines inter has causas considerat: sed quos ex- that the first motor or (if I may speak in this way) first procurator
+plicuimus, videntur esse praecipui. of every causality is an end. For this reason the end is usually called
+the ‘first cause’ or the ‘cause of causes’, as Albert the Great notes in
+100R Physics II, tract. 2, cap. 5, where he considers certain other relation-
+ships between these causes. But the ones we have explained seem to
+be especially significant.
+Causa dicitur
+analogice de
+quatuor
+generibus.
+9. Sed quaeri tandem hic potest, quod supra huc remisi- 9. Finally, one can ask here what we above left for later discus- ‘Cause’ is said
+analogically of
+the four genera.
+100 mus, an haec inaequalitas causarum tanta sit, ut analogiam in- sion: whether this inequality of the causes is so great that an analogy
+ter eas constituat in ratione causae. Ad quod breviter dicen- 105R between them is set up in the ratio of cause. In response to this one
+dum est cum communi sententia, rationem causae non esse should briefly say in accordance with the common view that the ra-
+univocam, sed analogam, primo quidem propter rationem tio of cause is not univocal but analogical. This is so, first of all, on
+supra tractatam, quod causa accidentium et substantiarum account of the reason discussed earlier: the cause of accidents is not
+105 non est univoce causa. Secundo quia ratio causae dicta de univocally a cause with the cause of substances. Second, because the
+Deo, et de materia et forma non potest esse univoca propter 110R ratio of cause is said of God and it cannot be univocal with respect to
+eamdem rationem, qua nec ratio entis aut cuiusvis alterius matter and form for the same reason on account of which the ratio of
+praedicati realis communis Deo et creaturis potest esse uni- being or of any other predicate that is real and common to both God
+voca. Quae duae rationes non solum probant rationem and creatures cannot be univocal. These two reasons not only prove
+110 causae in communi, sed etiam rationem causae efficientis (et that the ratio of cause in general is not univocal but also that the ra-
+idem est de fine) non esse univocam, sive ut communis est 115R tio of efficient cause (and likewise in the case of ends) is not univocal,
+causae efficienti accidentium et substantiae, sive ut commu- whether as it is common to the efficient cause of accidents and of sub-
+nis est primae causae et secundis, propter essentialem depen- stance or as it is common to the first cause and secondary causes on
+dentiam secundarum a prima. Quod maxime verum est, si account of the essential dependence of secondary causes on the first.
+115 comparentur in virtute causandi: nam si comparentur in ac- This is especially true if they are compared with respect to the power
+
+-- 6 of 26 --
+
+Suárez, DM XXVII 7
+tione ipsa, non est tam propria analogia, eo quod et actio ipsa 120R of causing. For if they are compared with respect to the action itself,
+quid creatum sit, et saepe unamet actio sit ab utraque causa, there is not so proper an analogy by the fact both that the action itself
+quod in superioribus tactum est. is what is created and that often one and the same action comes from
+both causes (which was touched on in previous sections).
+10. Praeterea, comparando materiam et formam inter 10. In addition, when comparing matter and form to each other,
+120 se, nulla apparet inter eas analogia in ratione causae, tamen 125R no analogy between them appears in the ratio of cause; nevertheless,
+si conferantur cum fine, videtur sane alia ratio analogiae hic if they are compared to end, it seems reasonable that another ratio of
+intercedere. Nam efficiens propriissime influit esse: materia analogy comes up here. For efficient causes most properly inflows
+autem et forma non tam proprie influunt esse, quam compo- being. Matter and form, however, do not as properly inflow being
+nunt illud per seipsas, et ideo secundum hanc rationem vide- as compose it through themselves. And therefore for this reason it
+125 tur nomen causae primo dictum de efficiente: ad materiam 130R seems that the name ‘cause’ is said in the first place of efficient causes.
+autem vel formam esse translatum per quamdam proportion- But the name is carried over to matter and form through a certain
+alitatem. Unde licet illae duae causae sint proprie partes es- proportionality. Hence, although these two causes are properly es-
+sentiales, et principia intrinseca rei naturalis, causae vero dic- sential parts and intrinsic principles of a natural thing, they seem to
+tae videntur per dictam analogiam, licet iam secundum com- be called causes through the mentioned analogy, although now the
+130 munem usum simpliciter sit illis tribuendum nomen causae. 135R name ‘cause’ is simply attributed to them through common usage.
+11. At vero comparando inter se causam <col. b> effi- 11. But when comparing efficient cause and final cause to each
+cientem et finalem, mihi quidem videtur, si nominis imposi- other, it indeed seems to me that if we pay attention to the imposition
+tionem et vim attendamus, primo et maxime dictum esse de and meaning of the name, it was said first and foremost of efficient
+causa efficiente, cuius influxus et notior est, et maxime realis, causes whose influx is both better known and especially real. And
+135 et propriissime attingens ipsum esse, quod communicat effec- 140R the being that communicates to the effect most properly belongs to
+tui. Quoad rem tamen significatam, iam dictum est proprie it. Nevertheless, with respect to the signified thing, it was already
+et aliquo modo primario convenire causae finali. Non video said that it properly and in some way primarily applies to final causes.
+autem quae sit necessitas constituendi propriam analogiam Moreover, I do not see what the necessity is in constituting a proper
+inter has duas causas modo a nobis propositas, finem scil- analogy between these two causes in the way proposed by us, namely,
+140 icet ac efficientem, si per se comparentur, et caeteris paribus 145R if end and efficient cause are compared per se and ceteris paribus on the
+ex parte effectus et secundum totam perfectionem quam un- part of the effect and according to the whole perfection which each
+aquaeque potest habere in suo ordine, quod est comparare can have in its order, which is to compare the ratio of end and of effi-
+rationem finis et efficientis prout in Deo sunt. Nam utrique cient cause as they are in God. For the ratio of cause applies properly
+convenit proprie et intrinsece ratio causae, et in ea possunt and intrinsically to each and they can be conceived in God as having
+145 concipi ut habentes aliquam convenientiam veram ac pro- 150R some true and proper agreement and they do not have an essential
+priam, et non habent inter se dependentiam essentialem in dependence between them in that ratio (although they have a connec-
+ea ratione, quamvis habeant connexionem, ut declaravimus: tion, as we showed). There is, therefore, no ratio of analogy between
+nulla est ergo ratio analogiae inter ipsas: erit ergo sub ea ra- them. There will, therefore, be a univocal name under that ratio. For
+tione nomen univocum. Nec enim repugnat nomen alioqui it is not repugnant for a name to apply analogically to multiple things
+150 analogum ad plura, univoce aliquibus convenire, ut inferius 155R but univocally to some, as we will say below when discussing the anal-
+dicemus tractando de analogia entis et accidentis. Et haec de ogy of being and accident. And this is enough for this comparison.
+hac comparatione sint satis.
+
+-- 7 of 26 --
+
+Suárez, DM XXVII 8
+SECTIO II. SECTION II.
+Utrum causae possint esse sibi invicem causae. Whether causes can be causes of each other in turn.
+Dubitandi ratio
+pro parte
+negativa.
+1. Ratio dubitandi est, quia causa, ut supra est dictum, est 1. The reason for doubting is that causes, as was said above, are prior The reason for
+doubting on
+behalf of the
+negative side.
+prior effectu et consequenter effectus posterior causa: ergo to effects and, consequently, effects are posterior to causes. There-
+5 non potest id quod est effectus, esse causa suae causae: alio- 5R fore, it cannot be that that which is an effect is the cause of its causes.
+qui vel esset simul prius et posterius, vel non omnis causa Otherwise, it would either be both prior and posterior at once or not
+esset prior suo effectu. Nec satisfaciet si quis respondeat, non every cause would be prior to its effect. Nor will it be satisfactory
+repugnare idem esse prius et posterius altero natura tantum, if someone responds that it is not repugnant for the same thing to
+et secundum diversas rationes: nam prioritas naturae, quae in be prior and posterior to another nature alone and according to dif-
+10 causa requiritur respectu effectus, non est tantum prioritas se- 10R ferent rationes. For the priority of nature that is required in a cause
+cundum unam vel alteram considerationem, sed est absoluta with respect to its effect is not merely priority according to one or
+prioritas, quae dici potest praesuppositionis, quatenus, abso- another consideration, but is absolute priority, which can be called
+lute loquendo, in causa debet praesupponi esse, ut causare priority of presupposition insofar as, absolutely speaking, being must
+possit. Unde sic concludi potest: in causa absolute supponi- be presupposed in a cause in order for it to be able to cause. Hence,
+15 tur esse ad esse effectus, nam effectus non habet esse nisi me- 15R one can conclude as follows: being is absolutely assumed in a cause
+dia causalitate, et ad causalitatem simpliciter supponitur esse for the being of the effect, for an effect does not have being except by
+in causa: ergo ad esse effectus simpliciter supponitur esse in means of causality, and for causality being is assumed without qual-
+causa: ergo causa simpliciter et omni ratione debet <953> ification in the cause. Therefore, for the being of the effect being is
+esse prior natura effectu: nam prioritas naturae non videtur assumed without qualification in the cause. Therefore, a cause must
+20 esse aliud quam quaedam prioritas praesuppositionis: ergo 20R without qualification and according to every ratio be a nature prior
+fieri non potest ut causa sit effectus suae causae. to the effect. For the priority of nature does not seem to be anything
+other than a certain priority of presupposition. Therefore, it cannot
+happen that a cause is the effect of its own cause.
+Rationes
+affirmativae
+partis.
+2. In contrarium autem est, quia Aristoteles agens de cau- 2. But the contrary is the case since Aristotle, when dealing Reasons for the
+affirmative side.	sis, illud docuit axioma, quod a caeteris Philosophis recep- 25R with the causes, teaches that axiom, which is received by the remain-
+tum est. Quapropter non tam investigamus an hoc verum sit, ing philosophers. For this reason we are not so much investigating
+25 quam quo sensu intelligendum sit: quod praestabimus melius whether this is true as in what sense it should be understood. We
+conferendo singulas causas inter se: nam in generali loquendo will accomplish this better by comparing individual causes with each
+non est necessarium neque possibile omnes causas esse sibi in- other. For speaking generally it is neither necessary not possible for
+vicem causas, sive secundum diversa genera, sive intra idem 30R all causes to be causes of each other in turn, whether they are com-
+genus conferantur. Quia imprimis non omnes causae habent pared according to the different genera or within the same genus. In
+30 causam, ut constat de prima causa efficiente et ultimo fine. the first place, after all, not all causes have a cause, as is obvious in
+Deinde, quamvis aliqua causa, efficiens verbi gratia, habeat the case of the first efficient cause and the ultimate end. Furthermore,
+causam, non tamen habet causam a se causatam, neque etiam although some cause—and efficient cause, for example—has a cause, it,
+semper habet causam materialem vel formalem. Non ergo 35R nevertheless, does not have a cause caused by itself nor does it always
+debet illud axioma universe intelligi, sed indefinite seu non have a material cause or a formal cause. That axiom, therefore, should
+
+-- 8 of 26 --
+
+Suárez, DM XXVII 9
+35 repugnanter, quia nimirum non repugnat aliquas causas esse not be understood universally, but indefinitely or not repugnantly,
+sibi invicem causas, vel certe quod in aliquibus etiam neces- because, namely, it is not repugnant for some causes to be causes of
+sarium sit, et ideo videndum superest in quibus non repugnet, each other in turn and in some cases it is even necessary. And for this
+vel necessarium sit. 40R reason what remains to be seen is in which cases it is not repugnant or
+in which cases it is necessary.
+Sensus quaestionis exponitur. The sense of the question is explained.
+3. Est autem advertendum duobus modis posse intelligi 3. It should, moreover, be noticed that there are two ways to
+causas esse sibi invicem causas: primo formaliter tantum (ut understand the claim that causes can be causes of each other in turn:
+sic dicam) seu secundum generales rationes causarum: se- first, formally alone (if I may speak in this way) or according to the
+5 cundo in particulari, et secundum easdem res causantes et 5R general rationes of causes, or, second, in particular and according to
+causatas. Prior sensus est facilis et sine difficultate, sed non the same things causing and caused. In the former sense, the matter is
+est in praesenti praecipue intentus, quia in eo solum asseritur, simple and without difficulty, but it is not what is primarily intended
+efficientem causam verbi gratia posse habere causam materi- at present, since understood in that way the claim only asserts that
+alem: et e converso causam materialem posse habere causam efficient causes, for example, can have material causes and that, con-
+10 efficientem, et sic de aliis, quod in omnibus generibus man- 10R versely, material causes can have efficient causes, and so on for the
+ifestum est, nam et materia est effecta, et multae causae ef- other causes. This is obvious for all the genera. For it is the case both
+ficientes sunt res causatae a materia, et quatenus actu causae that matter is an effect and that many efficient causes are things caused
+sunt, earum causalitas etiam causatur a materia. Neque in by matter, and, insofar, as they are actually caused, their causality is
+hoc sensu procedit difficultas supra tacta, quia non compara- also caused by matter. Nor do the difficulties mentioned earlier apply
+15 tur eadem res in ratione causae et causati, sed una res com- 15R when the claim is taken in this sense, since it is not the very same thing
+paratur ad alteram ut ad effectum suum in quodam genere that is compared in the ratio of cause and of the caused, but one thing
+causae, ad aliam vero ut ad causam suam in alio genere, quod is compared to a second thing as to its effect in a certain genus of cause
+genus causae participatur ab effectu alterius, sic autem nul- but to another thing as to its cause in another genus, which genus of
+lum est inconveniens ut aliqua causa materialis, sit posterior cause is participated in by the effect of another. In this way there is
+20 aliqua causa efficiente a qua fit, et <col. b> prior alia quam 20R no disagreeability in some material cause being posterior to some ef-
+ipsa materialiter causat. Comparari ergo debent causae in in- ficient cause by which it comes to be and being prior to another that
+dividuo, et in eisdem rebus. Rursus autem inter istasmet res materially causes it. The causes should, therefore, be compared indi-
+potest intelligi comparatio vel secundum idem, vel secundum vidually and with respect to the things themselves.
+diversa: secundum idem, ut si una sit causa esse alterius, et In turn, the comparison between the things themselves can be un-
+25 vicissim ab illa causetur quantum ad suum esse, nam cum un- 25R derstood secundum idem or secundum diversa. Secundum idem: if one
+aquaeque causa per suum esse causet, si secundum illud etiam thing is the cause of the being of another thing and in turn is caused
+causatur a suo effectu, tales res, et eaedem, et secundum idem with respect to its own being by the second thing. For when each
+erunt sibi invicem causae. Secundum diversa autem erunt, si cause causes through its own being, if with respect to that it is also
+una sit causa alterius secundum esse eius, alia vero sit causa al- caused by its effect, such things will both be the same and will be mu-
+30 terius solum secundum causalitatem ad aliquam aliam super- 30R tual causes of each other secundum idem. But they will be causes of
+additam perfectionem, quae omnia exemplis clarius patebunt each other secundum diversa if one thing is the cause of the other with
+
+-- 9 of 26 --
+
+Suárez, DM XXVII 10
+ex sequentibus. respect to its being, but the second thing is the cause of the other only
+according to the causality with respect to some other superadded per-
+fection. All this will be made clearer by the examples in the following
+35R paragraphs.
+Quomodo materia et forma sint sibi invicem causae. In what way matter and form are causes of each other in turn.
+4. Dico ergo primo. Materia et forma sunt sibi invicem 4. Therefore, I say first: matter and form are causes in turn of each
+35 causae, et aliquo modo secundum idem, non tamen omnino. other, and secundum idem in a certain way though not entirely. This
+Haec assertio primo declaratur in materia prima, et substan- assertion is first shown in the case of prime matter and with material
+tialibus formis materialibus, de quibus certum est causari a 40R substantial forms, concerning which it is certain that they are caused
+materia, et quoad esse suum, quia ex ea fiunt, et in ea sus- by matter, both with respect to their being (for they come to be from
+tentantur, et quoad suam causalitatem, quia earum informa- it and are sustained in it) and with respect to their causality (for their
+40 tio eodem modo pendet a materia. E converso vero etiam information depends in the same way on matter). But, conversely,
+forma est causa materiae in suo genere, quia illam informat et form is also the cause of matter in its genus, since it informs and ac-
+actuat, et quia sine illa informatione non potest materia nat- 45R tualizes matter and since matter cannot naturally exist without that
+uraliter esse. In quo est considerandum duo contineri in hac information. In this two things should be considered to be contained
+causalitate formae circa materiam: unum est, quod forma per- in this causality of the form with respect to matter. One is that form
+45 ficit materiam ipsam informando illam, aliud est, quod media perfects matter itself by informing it. The second is that matter pre-
+hac informatione materia suum esse retinet. Quantum ad pri- serves its own being by means of this information. With respect to
+mum forma et materia sunt sibi invicem causae, non tamen 50R the first, form and matter are causes of each other in turn, yet not se-
+secundum idem, quia illa perfectio quam forma formaliter cundum idem, since that perfection which form formally presents to
+praebet materiae, distinctum quid est ab ipso esse materiae, matter is something distinct from the being itself of matter. For it
+50 quia non est aliud ab ipsa forma seu informatione eius, unde is nothing other than the form itself or its information. Hence, un-
+sub hac ratione forma non tam est causa materiae absolute, et der this aspect, for is not so much the cause of matter absolutely and
+simpliciter, quam materiae informatae. Atque ita materia est 55R without qualification as the cause of informed matter. And in this way
+causa formae simpliciter et secundum esse eius, forma vero matter is the cause of form without qualification and with respect to
+est causa materiae solum quatenus formata est, et secundum its being, but form is the cause of matter only insofar as it is formed.
+55 hanc rationem dicimus non esse secundum idem sibi invicem For this reason we say that it is not secundum idem that matter and
+causas materiam et formam. form are causes of each other in turn.
+5. At vero secundum aliud quod habet materia per for- 60R 5. But with respect to the other thing that matter has through
+mam, possunt dici invicem causari et causare secundum idem, form, they can be said in to be caused and to cause secundum idem,
+nam materia per suum esse causat formam, et in eodem dici for matter through its own being causes form and in the same respect
+60 potest causari ab illa, quatenus il- <954> lud habere non can be said to be caused by form, insofar as the former cannot be had
+potest sine illa, nam hoc est signum dependentiae et causal- without the latter. For this is a sign of dependency and something’s
+itatis alicuius. Tamen, si vera sunt quae de his causis supra 65R causality. Nevertheless, if what said above about these causes is true,
+diximus, in hoc quasi circulo non est omnino eadem pro- it is not entirely the same property and similitude in this, as it were,
+prietas et similitudo, nam materia per suum esse directe et circle. For matter through its own being directly and per se causes the
+
+-- 10 of 26 --
+
+Suárez, DM XXVII 11
+65 per se causat ipsum esse formae, ita ut in nulla ratione de- very being of the form in such a way that the being of a form should
+beat aut possit intelligi esse formae ut quid praesuppositum not, indeed, cannot, under any ratio be understood as something pre-
+ad influxum materiae, sed ut causatum per illum. At vero 70R supposed for the influx of matter, but as something caused through
+e converso, esse materiae simpliciter concipiendum est ut matter. Conversely, however, the being of matter is without qualifi-
+praesuppositum ad esse talis formae, quia est principium ip- cation conceived as presupposed for the being of such a form, since
+70 sius influxus materialis, sine quo non fit talis forma: adeo ut it is the principle of that material influx without which such a form
+eius naturalis effectio, si secundum propriam rationem con- could not come to be; so much so that its natural effecting, if it is con-
+cipiatur, non possit ita praescindi, quin praesupponat mate- 75R ceived according to its proper ratio, cannot be divided in this way, lest
+riam, quia essentialiter est eductio de potentia materiae. Igi- it presuppose matter since it essentially is the eduction of a potency
+tur esse materiae solum est a forma pendens ut a conditione of matter. Therefore, the being of matter only depends on form as
+75 et actualitate superaddita, sine qua naturaliter esse non potest, on a superadded condition and actuality without which it cannot nat-
+quae a multis dicitur (ut supra notavi) dependentia a posteri- urally be. By many this is called (as we noted above) an a posteriori
+ori et non a priori. Ob hanc ergo causam dixi, quod licet 80R dependency and not an a priori dependency. Therefore, for this rea-
+haec mutua causalitas sit aliquo modo secundum idem, non son we said that although this mutual causality is secundum idem in
+tamen omnino, quia nimirum directe et immediate est secun- a certain way though not entirely. For, namely, directly and per se it
+80 dum diversa, consequenter vero terminatur aliquo modo ad is secundum diversa, but it is consequently terminated in some way in
+idem, quatenus ipsummet esse materiae pendet aliquo modo the same respect insofar as the very same being of matter depends in
+a forma. 85R some way on form.
+Explicatur
+assertio in
+materia prima et
+rationali anima.
+6. Et iuxta haec facile explicatur conclusio in materia, et 6. And according to these points the conclusion with respect to The assertion is
+explained with
+respect to prime
+matter and
+rational souls.
+forma substantiali subsistente, illa enim forma non causatur matter and subsisting substantial forms is easily explained. For those
+85 a materia secundum suum esse, sed tantum secundum in- forms are not caused by matter according to its own being but only
+formationem: est autem causa materiae eodem modo quo according to information. There is, moreover, a cause of matter in the
+aliae formae substantiales, et ita minor quodammodo est in 90R same way in which there is of other substantial forms and so that diffi-
+illa mutua causalitate difficultas. Inter subiectum item et ac- culty about mutual causality is in some way less applicable. Likewise,
+cidens proportionali modo intervenit illa mutua causalitas, that mutual causality comes up in an analogous way between subjects
+90 nam subiectum est causa materialis accidentis, et propriissime and accidents. For a subject is a material cause of an accident and most
+causat fieri et esse illius, quia sustentat illud: accidens vero properly causes both the coming to be and the being of the accident,
+non est proprie causa subiecti secundum esse illius, est tamen 95R since it sustains it. But an accident is not properly a cause of the sub-
+causa aliquo modo actuans et perficiens illud, quod potius est ject with respect to its being. It is, nevertheless, a cause in some way,
+esse causam formalem illius esse quod confert subiecto, quam actualizing and perfecting the subject. This is more to be a formal
+95 ipsius subiecti. Interdum vero haec causalitas redundat aliquo cause of the being that it confers on the subject than to be a formal
+modo in ipsummet subiectum, quando videlicet talis est con- cause of the subject itself. But sometimes this causality redounds in
+nexio inter subiectum et accidens ut naturaliter manere non 100R some way to the subject itself, when, namely, there is such a connec-
+possit subiectum sine tali accidente seu dispositione: et tunc tion between the subject and accident that it cannot naturally remain
+aliquo modo dici potest talis causalitas mutua secundum idem a subject without such an accident or disposition. In that case one can
+100 esse <col. b> subiecti: verumtamen illa non tam est causal- in some way say that there is such a mutual causality according to the
+itas proprie et dependentia a priori, quam conditio quaedam same subject. Nevertheless, that is not so much a proper causality and
+necessaria secundum naturalem ordinem, ut saepe dictum est. 105R a priori dependency as a kind of necessary condition according to the
+
+-- 11 of 26 --
+
+Suárez, DM XXVII 12
+natural order, as has often been said.
+Quomodo finis et efficiens sint sibi invicem causae. In what way ends and efficient causes are causes of each other in turn.
+7. Dico secundo. Finis et efficiens sunt sibi invicem causae, 7. Second, I say: end and efficient cause are causes of each other in
+non tantum secundum diversa, sed etiam secundum idem. turn not only secundum diversa but also secundum idem. This asser-
+Haec assertio quoad primam partem est Aristotelis 5. Meta- tion with respect to the first part comes from Aristotle, Metaphysics
+5 physicae cap. 2. et lib. 2. Physicorum cap. 3. Ubi non ad- 5R V, cap. 2, and Physics II, cap. 3, where he does not bring up examples
+hibet exempla huius mutuae causalitatis, nisi inter finem et of this mutual causality except between end and efficient cause. It is
+efficiens. Communiter autem exponitur secundum diversa, often, however, explained, secundum diversa: namely, that end is the
+scilicet, finem esse causam efficientis quoad causalitatem eius, cause of the efficient cause with respect to its causality but the effi-
+efficiens vero esse causam finis quoad esse illius. Ita fere cient cause is the cause of the end with respect to its being. This is
+10 D. Thomas super Aristotelem et Alensis in Metaphysicae et 10R more or less the claim made by St. Thomas regarding Aristotle and by
+Albertus 2. Physicorum tract. 2. cap. 6. sed non existimo esse Alexander of Hales in Metaphysics and by Albert the Great in Physics
+omnino excludendum, quin aliquo modo hae duae causae sint II, tract. 2, cap. 6. But I do not think that it should be entirely ex-
+sibi invicem causae etiam secundum idem, ut ex his quae dice- cluded that these two causes are in some way causes of each other in
+mus, constabit. Nunc declaratur facile sententia communis, turn even secundum idem, as will be clear from what we will say.
+15 quoad id, quod affirmat. Nam finis quem agens habet in 15R For now the common view is easily shown, with respect to that
+agendo non est causa esse illius, nam supponit in illo esse, which it affirms. For the end which an agent has when acting is not
+ut possit et agere et metaphorice moveri a fine ad agendum, the cause of the agent’s being for it presupposes being in the agent
+si capax sit talis motionis. Quod autem finis sit causa effici- so that the agent can act and be moved to acting by the end, if it is
+entis quoad causalitatem patet, quia excitat et movet efficien- capable of such motion. That the end is the cause of the efficient cause
+20 tem causam ad agendum. Quod vero e contrario finis sit ef- 20R with respect to causality is clear, since the end excites and moves the
+fectus agentis secundum suum esse, patet, quia eadem forma efficient cause to acting. But, the other way around, that the end is the
+quae movet agens ad agendum, est terminus actionis eius. Ra- effect of the agent according to its being is clear, since the same form
+tio denique a priori est, quia finis, ut causet, non requirit that moves the agent to acting is the terminus of the agent’s action.
+actualem existentiam, sed tantum esse in apprehensione: et Finally, the reason is a priori, since an end does not require actual
+25 ideo priusquam in re sit, potest movere in suo genere agens 25R existence in order to cause, but only requires being in apprehension.
+ad agendum, et rursus potest ab eo existentiam recipere per And for this reason it can in its genus move the agent to acting before
+veram efficientiam. it exists in reality and, in turn, can receive existence from the agent
+through true efficiency.
+Aliquot obiecta
+contra
+resolutionem de
+efficiente et fine.
+8. Sed obiicitur primo contra utramque partem. Primo 8. But there is, first, an objection against each part. First: since Some objections
+against the
+resolution
+concerning
+efficient causes
+and ends.
+quia finis non confert efficienti ullo modo ut sit id, unde pri- 30R an end does not confer anything to the efficient cause so that it is that
+30 mum motus proficiscitur, sed a se id habet, vel ab aliis causis from which the first motion proceeds, but has that from itself or from
+prioribus, ergo finis non est causa efficientis quoad causali- other prior causes, therefore, the end is not the cause of the efficient
+tatem. Secundo, nam alias sequitur Deum quatenus efficiens cause with respect to causality. Second: for otherwise it follows that
+est, causari a fine, quod dici nullo modo potest. Tertio e con- God insofar as he is an efficient cause is caused by an end, which can
+trario videtur, finem non solum esse causam efficientis quoad 35R in no way be said. Third: the other way around it seems that an
+
+-- 12 of 26 --
+
+Suárez, DM XXVII 13
+35 causalitatem, sed etiam quoad esse, ut patet in exemplo Aris- end cannot be the cause of an efficient cause with respect to causality
+totelis: nam laborare vel <955> ambulare est causa effectiva alone but also with respect to being, as is clear in the example from
+sanitatis, causatur autem a sanitate in genere finis: causatur Aristotle. For working or walking is the effective cause of health; it
+autem non tantum quoad causalitatem, sed etiam quoad esse: is, moreover, caused by health in the genus of ends. But it is not only
+nam ipsummet esse deambulationis, seu fieri (quod in ea idem 40R caused with respect to causality but also with respect to being. For
+40 est) est propter sanitatem. Quarto falsum etiam videtur finem the being itself of walking about or the becoming (which is the same
+esse ab efficienti quoad suum esse, nam finis operantis est ip- in this case) is for the sake of health. Fourth: it also seems to be false
+summet agens, quod non potest esse a seipso effective. that an end is from an efficient cause with respect to its being, for the
+end of the one acting is the agent itself, which cannot be effectively
+45R from itself.
+9. Propter primam obiectionem quidam in universum 9. On account of the first objection some people deny in gen-
+negant finem esse causam efficientis quoad causalitatem: immo eral that ends are causes of efficient causes with respect to causality.
+45 in omnibus causis negant esse sibi invicem causas quoad Indeed, in the case of all causes they deny that they cause each other
+causalitatem, quia nec materia habet a forma ut sustineat in turn with respect to causality, since matter does not have anything
+formam, nec forma a materia, ut informet. Sed vereor ne 50R from form in order to sustain form nor does form have anything from
+sit aequivocatio in his terminis, nam loqui possumus vel de matter in order to inform. But I am afraid that there may be equiv-
+causalitate in actu primo, vel in actu secundo. Cum ergo ocation in these terms, for we can speak either about causality in the
+50 dicitur, unam causam esse causam alterius quoad eius causal- first act or in the second act. When, therefore, it is said that one cause
+itatem, proprie ac per se est sermo de causalitate in actu se- is the cause of another with respect to its causality, the discussion is
+cundo: argumenta autem procedunt de actu primo. Sic enim 55R properly and per se about causality in the second act. The arguments,
+verum est materiam non habere a forma sustentare, id est however, only apply concerning causality in the first act. For thus it
+vim illam, quam habet ad sustentandam formam, et e con- is true that matter does not have from form so that it can sustain—
+55 trario formam non habere a materia vim quam habet ad in- that is, that power that it has for sustaining a form—and, conversely,
+formandum. Quamquam hoc posterius non sit in universum form does not have from matter the power that it has for informing.
+verum, sed in anima tantum rationali, nam aliae formae si- 60R Though this latter part is not universally true but only in the case of
+cut habent suum esse dependenter a materia, ita et omnem rational souls. For just as other forms have their being dependently
+suam vim et substantialem aptitudinem, ut per se satis con- on matter, so also they have all their power and substantial aptitude,
+60 stat. Unde si etiam e contrario dicatur materia habere suum as is sufficiently obvious per se. Hence, if it is also said the other way
+esse a forma, fatendum est ab illa etiam habere vim susten- around that matter has its being from form, it should be acknowl-
+tandi formam, nos autem non ita loquimur, quia non cense- 65R edged that it also has its power for sustaining form from form. But we
+mus proprie loquendo, habere materiam proprie suum pe- do not speak in this way, since we do not think that, properly speak-
+culiare esse a forma, sed habere illud dependenter a forma ing, matter properly has its own peculiar being from form; rather, it
+65 ut a posteriori conditione, ut saepe declaratum est. At vero has that depedently from form as from a posterior condition, as has
+quoad actualem causalitatem falsum est materiam et formam often been shown. But with respect to actual causality, it is false that
+non esse sibi invicem causas, nam et materia est in suo genere 70R matter and form are not causes of each other in turn, for even matter
+causa actualis informationis formae, quia non potest forma is in its genus an actual cause of the information of the form, since
+informare nisi materia causante materialiter ipsammet infor- form cannot inform except by the matter materially causing the in-
+70 mationem formae, et e converso materia similiter non potest formation itself of the form. And, conversely, matter likewise cannot
+
+-- 13 of 26 --
+
+Suárez, DM XXVII 14
+actualiter sustinere formam, nisi eadem forma causante in suo actually sustain form except by the same form causing in its genus
+genere ipsammet sustentationem materiae, quidquid illa sit. 75R the sustaining work itself of matter, whatever that is. Hence, in the
+Unde reipsa spectata haec mutua causalitas in causando non cases looked at this mutual causality in causing is nothing other than
+est aliud nisi mutuus concursus utriusque causae ad suas pro- a mutual concursus of each cause to their proper causalities.
+75 prias causalitates. <col. b>
+10. Sic igitur facile constat quomodo finis sit causa effi- 10. In this way, therefore, it is readily clear in what way an end
+cientis causae quoad causalitatem eius, quidquid sit de virtute is the cause of an efficient cause with respect to its causality, whatever
+causandi, de quo inferius dicam. Est ergo finis causa alliciens 80R the case may be concerning its power of causing, concerning which I
+virtutem agentis ut causet, et consequenter in suo genere in- will speak below. An end, therefore, is a cause attracting the power
+80 fluens in actualem causalitatem eius. Ex quo ulterius colligo of the agent so that it causes and consequently in its own genus gives
+etiam efficientem causam posse dici in suo genere causam finis influence into its actual causality. From this I gather further that an
+quoad actualem causalitatem. Quamvis enim virtus causandi efficient cause can also be called in its genus the cause of an end with
+finis prout antecedit in intentione non sit ab ipso efficiente, 85R respect to actual causality. For although the power of causing of the
+tamen actualis causalitas finis non potest esse sine efficientia end insofar as it precedes in intention is not from the efficient cause,
+85 agentis, ut supra demonstratum est, et ideo sicut causa effi- nevertheless, the actual causality of an end cannot be without the ef-
+ciens constituitur in actu secundo, concurrente fine propter ficiency of the agent, as was demonstrated above. And for this reason
+quem causat, et ob hanc rationem dicitur causari a fine quoad just as an efficient cause is constituted in second act by the concurring
+causalitatem suam, ita e converso causa finalis non constitu- 90R end for the sake of which it causes (and for this reason is said to be
+itur in actu secundo nisi concurrente causa efficiente in suo caused by the end with respect to its causality), so also, conversely,
+90 genere ad causalitatem eius, ergo habent in hoc mutuam in- the final cause is not constituted in second act except by the efficient
+ter se causalitatem in suis generibus, sicut materia et forma cause concurring in its genus for its causality. In this they have, then, a
+inter se. Et quoad hanc partem verum imprimis habet, quod mutual causality between each other in their genera, just as matter and
+in conclusione dixi, finem et efficiens esse sibi mutuo causas 95R form have between each other. And with respect to this part what was
+non tantum secundum diversa, sed etiam secundum idem. said in the conclusion is especially held true: end and efficient cause
+are causes for each other in turn not only secundum diversa but also
+secundum idem.
+95	Secundo. 11. Ad secundum responderi potest primo, non oportere 11. To the second objection one can respond, first, that the Second.
+conclusionem positam universe intelligi de omni fine et de 100R posited conclusion must not be understood universally of every end
+omni efficiente. Quod enim in principio notavimus propo- and every efficient cause. For what we noted at the outset—that Aris-
+sitionem Aristotelis non esse universalem de omnibus causis, totle’s proposition is not universally true of all causes—can also be
+potest ad praesentem etiam conclusionem applicari, quia, ut applied to the present conclusion. For, as we will say at once, not
+100 statim dicemus, non omne efficiens dat esse illi fini propter every efficient cause gives being to the end for the sake of which it
+quem operatur, et simili modo non omne agens movetur a 105R acted. In a similar way not every agent is moved by an end to acting
+fine ad operandum per propriam finis causalitatem. Secundo through the proper causality of an end. But, second, it is said, it is true
+vero dicitur, loquendo de Deo ut de efficiente non quoad when speaking about God as an efficient end, not with respect to the
+vim efficiendi, nec quoad internam voluntatem causandi, sed power of effecting nor with respect to the internal will for causing but
+105 quoad actualem et transeuntem causalitatem suam, verum with respect to his actual and transeunt causality, that the causality by
+esse, hanc causalitatem, qua denominatur Deus actu efficiens, 110R which God is denominated an efficient cause in act is caused by God
+
+-- 14 of 26 --
+
+Suárez, DM XXVII 15
+causari ab ipso Deo ut fine, nam haec causalitas Dei non est himself as by an end. For this causality of God is nothing other than
+aliud quam actio eius transiens ab ipso, et in creatura recepta, the action transiting from him and received in a creature, which in-
+quae vere etiam causatur ab ipsomet Deo ut a fine, ut in su- deed is also caused by God himself as by an end, as was seen in earlier
+110 perioribus visum est. Atque ita etiam in Deo verum est non sections.6 And in this way it is also true in the case of God that he is
+constitui actu agentem nisi concurrente seipso ut fine ad suam 115R not constituted an agent in act except by himself concurring as an end
+causalitatem activam, et e converso non constitui actu finem with his active causality. Conversely, he is not constituted an end in
+nisi concurrente seipso active ad suam causalitatem finalem. act except by himself concurring actively with his final causality.
+Tertio. 12. Ad tertium concedendum est id totum <956> quod 12. To the third objection one should concede everything that is Third.
+115 intendit, nam aliqua est causa efficiens quae totum suum esse intended, for there is something that is an efficient cause and has its
+habet a fine in genere causae finalis quem et propter quem 120R whole being from an end in the genus of final cause which and for the
+causat. Quod non solum Aristotelis exemplo, sed etiam aliis sake of which it causes. Aristotle’s example is not the only one; others
+ostendi potest, nam finis intellectus verbi gratia, est intel- can also be pointed out. The end of intellect, for example, is to under-
+ligere: immo in universum potentia vel agens creatum, dic- stand. Indeed, created powers or agents are generally said to be for the
+120 itur esse propter operationem: ergo in genere finis intellectus sake of activity. Intellect, therefore, in the genus of ends is caused by
+causatur ab intelligere, non solum quoad causalitatem, sed 125R understanding, not only with respect to causality but also with respect
+etiam quoad esse, nam propter intellectionem fit, et est. Et to being, for it comes to be and is for the sake of understanding.
+hinc etiam intelligitur interdum finem esse causam agentis, And from this one also understands that sometimes an end is the
+non solum quoad actualem causalitatem in actu secundo, sed cause of an agent not only with respect to actual causality in second
+125 etiam quoad virtutem causandi in actu primo, ut verbi gratia act but also with respect to the power of causing in first act, as, for
+sanitas est causa finalis rhabarbari, non tantum ut actu ex- 130R example, health is the final cause of rhubarb7 not only as actually ex-
+pellentis, vel applicati ad expellendam choleram, sed etiam pelling or as applied in order to expel jaundice but also with respect to
+quoad ipsam virtutem innatam quam habet ad illum effec- the innate power that it has for that effect. For it receives this power
+tum, nam propter hunc finem illam recepit ab auctore natu- from the author of nature for the sake of this end so that it would
+130 rae ut sanitatem causaret. Et hoc secundum a fortiori collig- cause health. And this second point is gathered a fortiori from the
+itur ex primo, ut supra in simili dicebam, nam, si ipsum esse 135R first, as I was saying in similar cases above, for, if the being itself of a
+rei quae est causa efficiens, causatur finaliter a suomet effectu, thing that is an efficient cause is final-caused by its own effect, much
+multo magis virtus effectiva ad causandum, quae consequitur more can the effective power for causing that follows from the being
+ad ipsum esse, poterit ab eodem fine causari. Atque in hoc itself be caused by that same end.
+135 etiam verificatur quod in conclusione diximus, finem et effi- And in this is also verified what we said in the conclusion: that
+ciens posse esse sibi invicem causas secundum idem, nam et 140R end and efficient cause can be causes of each other secundum idem. For
+finis in suo genere causat efficiens quoad esse eius, et efficiens the end in its genus causes the efficient cause with respect to its being
+in suo causat finem quoad suum esse reale. Et ratio est ea- and the efficient cause in its genus causes the end with respect to its
+dem quae supra tacta est, quia finis ut causet, non supponitur real being. And the reason is the same as the one mentioned above: for
+140 esse secundum esse reale, et ideo, si supponatur apprehensus in order for an end to cause it is not assumed to be according to real
+in causa efficiente aliam efficientem causam ipsiusmet finis, 145R being and so, if it is assumed apprehended in the efficient cause [and
+6DM XXIII.9.
+7Rhubarb was prescribed for purging bile.
+
+-- 15 of 26 --
+
+Suárez, DM XXVII 16
+potest finaliter illam movere, vel cum illa finaliter concurrere there is] another efficient cause of the end itself, the end can final-
+ad dandum esse illi rei, a qua postea idemmet finis secundum move the former efficient cause or final-concur with it to give being
+realem existentiam procedit, et sic domus in mente artificis, to that thing from which afterwards the same end proceeds according
+145 est causa finalis fabricandi serram verbi gratia, a qua serra do- to real existence. In this way the house in the mind of the builder is
+mus ipsa postea efficienter fit. 150R the final cause, for example, of a saw, by which saw the house itself
+afterwards efficiently comes to be.
+13. Quapropter, cum graves auctores dicunt, finem et ef- 13. For this reason, when weighty authors say that ends and ef-
+ficiens esse sibi mutuo causas secundum diversa, exponendi ficient causes are mutual causes of each other secundum diversa, they
+sunt, quod explicuerint id quod magis per se convenit his should be explained to have expounded that which more per se applies
+150 causis ac formalius ut actu causantibus, non vero quod ex- 155R to these causes and more formally as they are actually causing but
+cluserint omnem alium modum mutuae causalitatis, qui in- not to have excluded every other mode of mutual causality that can
+ter has causas haberi potest. Itaque specialiter attribuitur fini, be had between these causes. And so it is especially attributed to ends
+quod sit causa agentis quoad actualem causalitatem seu ac- that they are causes of agents with respect to actual causality of action,
+tionem, quia hoc est semper ac per se necessarium, eo quod since this is always and per se necessary by the fact that every action
+155 omnis actio <col. b> est aliquo modo propter finem: quod 160R is in some way for the sake of an end. But that they are causes of the
+vero sit causa ipsius esse agentis, non est ita per se aut neces- agents’ being is not per se and necessary in the same way, although it
+sarium, quamvis saepe ita contingat. Et quamvis agens etiam often happens that way. And, although agents also concur with the
+concurrat ad causalitatem finis, ut declaravimus, tamen hoc causality of ends, as we showed, nevertheless, this is attributed more
+magis attribuitur fini, quia ipse est primus in movendo et in- to ends, since ends are first in moving and influencing to the causal-
+160 fluendo ad causalitatem agentis, ut supra etiam declaratum 165R ity of agents, as was also shown above. Conversely, however, efficient
+est. E converso autem efficiens dicitur causare finem secun- causes are said to cause ends according to their being, since this always
+dum esse eius, quia hoc per se ac semper illi convenit, quia and per se applies to them. For they cannot act for the sake of ends
+non potest operari propter finem nisi aliquo modo efficiat ip- except by in some way effecting the ends themselves.
+sum finem.
+165 14. Hoc autem (ut ad quartam obiectionem iam respon- 14. This, moreover, in order now to respond to the fourth objec-
+deamus) intelligendum est de fine cuius, vel etiam de fine quo 170R tion, should be understood as of fines cuius or also as of fines quo or
+seu formali, qui est adeptio finis obiectivi. Nam finis cui, non formal ends, which are the attainments of objective ends.8 For a finis
+fit ab efficiente, ut recte probat illa quarta obiectio: nec etiam cui does not come to be from the efficient cause, as the fourth objec-
+finis obiectivus fit, sed obtinetur: finis autem cuius, est ter- tion rightly shows. Nor does the objective end come to be; rather, it
+170 minus intrinsecus ad quem tendit et terminatur actio agentis, is obtained. A finis cuius, however, is the intrinsic terminus to which
+et ideo per se, et secundum suum esse est effectus agentis. Et 175R the action of an agent tends and in which it is terminated. And so it
+similiter quando bonum amatur seu desideratur, non ut fiat, is per se and according to its being an effect of the agent. Similarly,
+sed ut possideatur, ipsa consecutio vel possessio finis fit ab when a good is loved or desired not so that it come to be but so that it
+ipso agente, quia tota intentio, et applicatio mediorum ad il- be possessed, that attainment or possession of the end comes to be by
+175 lam tendit, et tunc in illa serie, illa est quidam finis, cuius the agent itself, since the entire intention and application of the means
+gratia et propter quem fit operatio. 180R tends to that. And then in that series that for the sake of which and
+8On the distinction between finis cuius and finis cui, see DM XXIII.2.2–8.
+
+-- 16 of 26 --
+
+Suárez, DM XXVII 17
+on account of which the activity comes to be is indeed the end.
+Quomodo materia et finis sint sibi invicem causae. In what way matter and end are causes of each other in turn.
+15. Tertio dicendum est, finem et materiam posse mutuo sibi 15. Third, it should be said that end and matter can be mutual causes
+invicem esse causas. Probatur, quia Aristoteles ait formam of each other in turn. It is proven, for Aristotle says that form and end
+et finem coincidere in idem numero: est autem forma non coincide as one in number. But form is not only the end of generation
+5 tantum finis generationis, sed etiam ipsius materiae, quia ma- 5R but also of matter itself, since matter by its nature is for the sake of
+teria natura sua est propter formam tamquam propter finem, form as for the sake of an end. It is at the same time also for the sake
+et simul etiam est propter compositum, quia haec duo non re- of the composite, since these two are not repugnant but subordinated.
+pugnant, sed subordinata sunt. Est ergo materia effectus for- Matter is, then, an effect of the form and of the composite in the genus
+mae et compositi in genere causae finalis: sed eadem materia of final causes. But the same matter is the material cause of the form
+10 est causa materialis formae et compositi: ergo est reciproca- 10R and of the composite. There is, therefore, a reciprocation between
+tio inter has duas causas in ratione causae et causati. Quod these two causes under the ratio of cause and caused. This indeed is
+quidem generale est ex parte materiae, non vero ex parte fi- generally true on the part of matter but not on the part of ends, but
+nis, sed tunc solum, quando talis est finis ut materia constet only then when the end is such that the matter stands on or depends
+vel ab illa pendeat: omnis enim materia ordinatur ad aliquam on it. For all matter is ordered to some form or composite as to an
+15 formam vel compositum ut ad finem, et ideo in quacumque 15R end and for this reason with any matter whatever with respect to such
+materia respectu talis intercedit semper dicta causalitas mu- the mentioned mutual causality is always involved. But not every end
+tua: non autem omnis finis constat materia aut pendet ab illa, stands on matter or depends on it, as is known per se, and so that
+ut per se notum est, et ideo ex parte eius non potest esse uni- reciprocation cannot be universal on its part. Explained in this way,
+versalis illa <957> reciprocatio. Atque ita explicata hac as- no difficulty remains in this assertion and its foundation is the same
+20 sertione nulla manet in ea difficultas, et fundamentum eius 20R as what was mentioned above, since in order for an end to cause it
+est idem quod supra tactum est, quia finis ut causet, non sup- need not be assumed to preexist in reality. And so it can be a cause of
+ponit praeexistere realiter, et ideo potest esse causa suae ma- its matter, although it be caused to be in reality by that matter in its
+teriae, licet ab illa realiter causetur in suo genere. genus.
+Mutua causalitas inter formam, et finem excluditur. Mutual causality between form and end is ruled out.
+25 16. Dico quarto. Forma et finis, proprie ac per se loquendo, 25R 16. Fourth, I say: form and end, speaking properly and per se, can
+nunquam possunt esse sibi invicem causae. Loquor de forma never be causes of each other in turn. . . .
+ut exercet genus causae formalis, et ideo dixi proprie et per se
+loquendo: nam interdum contingit unam formam, quae est
+effectus alterius in genere causae finalis, esse causam eiusdem
+30 formae quae est finis, tamen nunquam est causa formalis eius,
+sed aut efficiens, aut materialis. Ut lumen gloriae est effectus
+2 15 ] 14 A.
+25 16 ] 15 A.
+
+-- 17 of 26 --
+
+Suárez, DM XXVII 18
+visionis beatificae in genere causae finalis, et est etiam causa
+eius, non formalis, sed efficiens: et intellectus etiam est effec-
+tus eiusdem visionis in genere finis, quia propter illam fit, et
+35 est causa eius, et materialis, et efficiens, formalis autem esse
+non potest. Et ratio conclusionis est, nam vel consideratur
+forma ut est finis generationis, vel ut ordinatur in aliam for-
+mam seu operationem ut in finem. Priori modo forma et finis
+incidunt in idem numero, et ideo non potest illa forma esse
+40 causa formalis illius finis, quia non potest esse causa formalis
+sui ipsius: quod secus est in causalitate finali, nam eadem
+forma ut antecedens in intentione est causa sui ipsius in exse-
+cutione secundum causalitatem finalem, quae non requirit
+praeexistentiam in re. At vero in genere formalis causae non
+45 potest forma causare seipsam, sed compositum, quia causali-
+tas eius consistit in compositione et unione ad materiam.
+17. Ut autem conclusio quoad hanc partem omni careat 17.
+difficultate, intelligenda est de forma comparata ad proprium
+effectum suum, ut est compositum: quod dico, quia si com-
+50 paretur ad ipsammet unionem vei actualem informationem,
+revera in genere finis est effectus eius, nam forma est ut in-
+formet, et propter hunc finem fit, et tamen ipsamet informa-
+tio est a forma in genere causae formalis, tamen non tam pro-
+prie est effectus eius, quam causalitas eius: si tamen ipsa etiam
+55 unio vel informatio, effectus formae vocetur in genere causae
+formalis, quoad talem effectum limitanda est posita conclu-
+sio propter <col. b> specialem connexionem quam habet
+cum ipsa forma ut exercet rationem formae. Nam sicut ef-
+ficiens est propter operationem, et ideo inter illa est mutua
+60 causalitas, nam operatio est causa finalis potentiae activae, et
+potentia est causa efficiens operationis; ita forma est propter
+informationem, et in suo genere est causa eius. At vero com-
+parando formam prout est finis generationis, ad eamdem pro-
+priam formam ut informantem, non potest intercedere dicta
+65 mutua causalitas, quia est una et eadem prorsus forma.
+18. Si autem formas duas comparemus, quarum una ad 18.
+alteram ut ad finem ordinatur, etiam non potest illa mutua
+47 17 ] 16 A.
+66 18 ] 17 A.
+
+-- 18 of 26 --
+
+Suárez, DM XXVII 19
+causalitas intercedere, quia una forma non potest esse causa
+formalis alterius, quatenus etiam forma est: si enim contin-
+70 gat unam formam alia accidentali informari, necesse est ut ea
+quae informatur, exerceat sub ea ratione causalitatem mate-
+rialem, non formalem. Scio nonnullos ita loqui, ut dicant
+actus immanentes dependere ab anima vel a potentia vitali in
+genere causae formalis, cum tamen ipsimet actus immanentes
+75 sint causae formales accidentales: et similiter dici solet pas-
+siones, vel potentias animae pendere ab illa in genere causae
+formalis, cum tamen illam informent. Sed hae locutiones
+sunt impropriae, nam neque actus neque potentiae pendeat
+a forma nisi aut materialiter aut effective: quia vero illa effici-
+80 entia est valde intrinseca, aut per resultantiam naturalem, dici
+solet secundarius effectus formae, tamen proprie et in rigore
+non pertinet ad effectum formalem.
+Excluditur mutua causalitas inter efficientem causam respectu Mutual causality between efficient causes and material and formal causes
+materialis et formalis. is ruled out.
+19. Dico quinto. Causa efficiens non potest habere mu- 19. Fifth, I say: an efficient cause cannot have mutual causality with
+tuam causalitatem cum materia vel forma, sed solum cum matter or form, but only with a final causes, as we will explain now.
+5 finali causa, ut iam explicuimus. Sensus conclusionis est, 5R . . .
+quod si aliqua causa vere ac proprie efficiat aliquam formam,
+non potest ab illa causari in genere causae formalis, et e con-
+verso, si aliqua forma formaliter constituit aliquam rem, non
+potest ab illa effective fieri. Et quoad has duas partes nulla
+10 est difficultas in conclusione posita. Et ratio est, primo quia
+causa efficiens supponitur absolute existens ad efficiendum:
+ergo non potest formaliter constitui per formam quam ef-
+ficit. Patet consequentia, quia si illa res in suo esse per formam
+constituenda est, iam forma supponitur constituta, quia iam
+15 supponitur habens esse: <958> ergo non potest formaliter
+constitui per formam a se factam. Secundo, quia forma est
+principium agendi: ergo forma quae est terminus actionis,
+non potest esse causa formalis ipsiusmet agentis: hac enim ra-
+tione Aristoteles dixit 2. Physicorum cap. 7. text. 70. formam
+20 quae fit non coincidere in idem numero cum efficiente, sed
+3 19 ] 18 A.
+
+-- 19 of 26 --
+
+Suárez, DM XXVII 20
+in idem specie. Ex his autem rationibus facile colligitur, con-
+clusionem intelligendam esse de causalitate formali quantum
+ad proprium esse ipsius causae efficientis: nam, si loquamur
+de causalitate formali quantum ad aliquod aliud esse super-
+25 additum ipsi efficienti, saepe accidere potest ut forma facta a
+causa efficiente suam causam informet, ut amor informat vol-
+untatem a qua fit, non vero informat illam quoad dandum ei
+illud esse, per quod ab ipsa causatur: unde nec informat il-
+lam ut efficiens est, sed ut subiectum et causa materialis esse
+30 potest.
+20. Simili modo intelligenda est conclusio comparando 20.
+efficientem causam ad materialem. Nam si res aliqua efficit
+aliquam materiam, non potest ab illa materialiter causari, et
+e converso, si una res materialiter causat aliam, non potest
+35 ab illa effective fieri. Et quidem, si sermo est tantum de ma-
+teria prima, est res evidentissima, quia materia prima non
+potest fieri nisi per creationem, et ideo causa eius est remotis-
+sima ab omni dependentia a materia: ergo impossibile est ut
+quidquid ex tali materia causatur, sit causa efficiens materiae,
+40 non modo eiusdem numero, verum neque ullius omnino.
+Tamen extendendo conclusionem (ut revera intelligenda est)
+ad omnem causam materialem seu subiectivam, ratio gener-
+alis est, quia causa efficiens supponitur simpliciter et abso-
+lute existens ad agendum, et ideo si indiget aliqua causa, vel
+45 causalitate materiali ut sit, talis causa supponitur ante omnem
+efficientiam eius, ac proinde non potest talis res esse causa ef-
+ficiens suae materiae. Et confirmatur, nam causa materialis
+est intrinseca si comparetur ad compositum, vel est intime
+coniuncta, si comparetur ad formam: ergo sive res quae dic-
+50 itur causa efficiens, sit compositum, sive forma, non potest
+efficere materiam vel subiectum a quo pendet. Patet conse-
+quentia, quia intrinseca rei constitutio vel unio est simpliciter
+prior quam efficientia eius: item etiam quia intrinseca consti-
+tutio non potest esse effective ab ipsamet re quae constituitur;
+55 nec intrinseca unio materialis <col. b> potest esse effective
+ab ipsa forma quae unitur: alias etiam ipsa eductio formae
+31 20 ] 19 A.
+
+-- 20 of 26 --
+
+Suárez, DM XXVII 21
+posset esse effective ab eadem forma quae educitur.
+Dispositio ultima
+non est effective a
+forma.
+21. Solent autem contra hanc partem nonnullae instan- 21.
+tiae afferri. Una est de forma et dispositione ultima; sed de
+60 hac multa dicta sunt disp. 13. de causa materiali; ubi prob-
+abilius esse ostendimus, dispositionem ultimam, quae vere
+praeparat materiam, non esse effective a forma: quae vero est
+effective a forma, non esse praeparantem materiam, nec par-
+ticipare causalitatem materialem, sed esse dispositionem or-
+65 nantem, et quasi foventem, et conferentem unionem formae
+cum materia.
+Expulsio unius
+formae an causa
+materialis
+introductionis
+alterius.
+22. Altera instantia est de introductione unius formae, et 22.
+expulsione alterius, nam haec expulsio est quasi causa materi-
+alis illius. Sed haec magis pertinet ad mutuam causalitatem
+70 inter materiam et formam quam ad praesens, nam forma
+introducta non expellit alteram effective, sed formaliter, ut
+supra visum est: si autem sit sermo de forma active intro-
+ducente aliam, respectu illius expulsio formae nullam habet
+causalitatem, sed tantum est effectus secundarius illius actio-
+75 nis. Addo etiam, expulsionem formae improprie dici causam
+materialem introductionis alterius formae, nam potius est re-
+motio cuiusdam impedimenti non tam antecedens, quam sub-
+sequens, vel concomitans, vel si aliquis est ordo vel prioritas,
+est magis secundum considerationem nostram, quam secun-
+80 dum veram causalitatem.
+Fenestrae apertio
+an habeat
+causalitatem
+respectu ingressus
+lucis.
+23. Alia instantia esse solet de apertione fenestrae, et in- 23.
+troductione lucis, quae magis videtur vulgaris, quam Philo-
+sophica, nam apertio fenestrae est remotio cuiusdam impedi-
+menti simpliciter antecedens ordine naturae, quia nullo modo
+85 est effectus introductionis lucis. Quod si fingamus fenestram
+aperiri ab externo vento impellente et introeunte, sic apertio
+quidem est effective ab aere impellente: tamen ille aer ut im-
+pellens et efficiens, nullo modo est effectus ipsius apertionis
+in genere causae materialis, quia aer impellens non efficit il-
+90 lum motum fenestrae ut introductus iam in locum eius, sed ut
+contingens, et imprimens illi impetum, quod facit prius tem-
+58 21 ] 20 A.
+67 22 ] 21 A.
+81 23 ] 22 A.
+
+-- 21 of 26 --
+
+Suárez, DM XXVII 22
+pore vel instanti, quam in locum fenestrae introduca- <959>
+tur, et quam fenestra ipsa a loco suo moveatur, et ita respectu
+illius efficientiae nulla est causalitas materialis in effectu eius.
+95 Quod si consideretur aer ut iam occupans locum fenestrae
+quae aperitur, sic non est causa effectiva apertionis, sed for-
+malis, per formalem nimirum incompossibilitatem illorum
+duorum corporum in eodem spatio. Et secundum hanc ra-
+tionem si est mutua causalitas inter apertionem fenestrae, et
+100 introductionem aeris, pertinet ad materialem et formalem,
+non ad efficientem: et idem iudicium de illa est, quod de
+introductione unius formae, et expulsione alterius. Atque
+ita in universum verum est, causam efficientem non habere
+mutuam causalitatem cum suo effectu nisi in genere finis:
+105 neque Aristoteles unquam aliam docuit. Statim vero occurret
+hic Theologis difficultas de ultima dispositione ad gratiam,
+quam illis remittimus: existimamus autem iuxta haec prin-
+cipia verum iudicium de illa ferendum esse.
+Quomodo inter causas eiusdem generis esse possit causalitas re- In what way there can be reciprocal causality between causes of the same
+ciproca. genus.
+In eodem genere
+causae simpliciter
+nullae sunt sui
+mutuo causae.
+24. Ultimo dicendum est intra idem genus causae non posse 24. Lastly, it should be said that two things cannot be causes of each No things are
+without
+qualification
+mutual causes of
+each other in the
+same genus of
+cause.
+duas res esse sibi invicem causas simpliciter et secundum other in turn without qualification and secundum idem within the
+5 idem: secundum quid autem, et secundum diversas rationes 5R same genus of cause. . . .
+veluti specificas intra idem genus causae non renugnare. Prior
+pars est sententia Aristotelis citatis locis, quam absolute etiam
+docent omnes eius interpretes; et potest inductione probari,
+nam res quae aliam efficit, non potest ab ea vicissim fieri, et
+10	Intra causam
+materialem
+probatur.
+sic de caeteris. Ratio autem in singulis potest propria reddi,
+nam materia vel non habet materialem causam, ut materia
+prima, vel si habet, ut materia secunda, non potest eadem res,
+quam ipsa componit aut recipit esse materia eius. Quia mate-
+ria comparatur ut pars, vel potentia receptiva ad suum effec-
+15 tum, et ad illum supponitur: si vero ipsa habet causam mate-
+rialem, ad illam comparatur ut totum ad partem, et genera-
+tionis seu existendi ordine illam supponit: et ideo non potest
+Intra formalem. esse talis circulus inter causas materiales. Nec vero inter for-
+3 24 ] 23 A.
+
+-- 22 of 26 --
+
+Suárez, DM XXVII 23
+males, quia forma non habet causam formalem, ut supra dice-
+20	Intra finalem. bamus. In causa etiam finali est res manifesta, quia causa fi-
+nalis ut sic non habet causam finalem: quod si illam habet
+quatenus induit aliquam rationem medii, non potest in eam-
+dem rem, quae est medium ad illam, ut in finem <col. b>
+ordinari: alioqui in eodem ordine intentionis esset prior et
+25	Intra efficientem. posterior, quod repugnat. In efficientibus est etiam manifesta
+ratio, quia res quae efficit aliam, supponitur esse, et conse-
+quenter facta, si effectione indigeat: et ideo impossibile est ut
+a suo effectu effective fiat. Quod semper intelligendum est
+(quod in finibus etiam est observandum) loquendo de actuali
+30 causalitate mutua, quae simul sit: nam loquendo tantum de
+potentia causandi, et divisim, non repugnat ut res, quae nunc
+est finis alterius, cesset ab illa causalitate, et postea ordinetur
+ad alteram ut in finem ex libertate agentis. Et similiter non
+repugnaret ut res quae nunc efficit aliam, fieret ab illa, si ordo
+35 causandi a principio fuisset mutatus, et res quae nunc fit ab
+una causa, non fieret ab illa, sed ab alia, nam tunc sine in-
+convenienti posset illa efficere eamdem rem a qua nunc facta
+est, ut supra tractavi. Nunc autem non divisim, sed coniunc-
+tim loquimur, et sic impossibile est ut res fiat ab effectu quem
+40 facit.
+25. Alia ratio generalis hic tradi solet, quia alias idem 25.
+esset causa sui ipsius, nam quod est causa causae, est causa
+causali: quod axioma tenet in causis eiusdem generis, ut
+omnes dicunt, et specialiter adnotavit Scotus in 4. dist. 49. q. 2. et
+45 in Theorematibus 22. conclus. universali. Non immerito
+autem interrogare potest aliquis, quare illa consecutio teneat
+in causis eiusdem generis, non autem diversorum. Deinde
+dubitare quis potest, quia non sequitur quod aliquid sit causa
+sui per se, sed tantum per accidens, sicut avus est causa nepo-
+50 tis, quod non videtur magnum inconveniens. Ad priorem
+partem respondeo rationem esse, quia in diversis generibus,
+hoc ipso quod mutatur causandi modus, mutatur etiam ra-
+tio essendi quae in causa supponitur ad effectum. Et conse-
+quenter id quod est causa suae causae, non est causa eius se-
+41 25 ] 24 A.
+
+-- 23 of 26 --
+
+Suárez, DM XXVII 24
+55 cundum id quod habet a sua causa, sed secundum aliud, ut
+quamvis finis sit causa sui efficientis, non est causa eius se-
+cundum esse existentiae exercitum quod ab illo habet, sed ut
+apprehensum. At vero si in eodem genere duo se mutuo ef-
+ficerent, et secundum eumdem ordinem unum supponeretur
+60 ad aliud, et e converso, quod repugnat; et unum causaret al-
+iud secundum illudmet esse quod ab illo habet, et e converso,
+et ideo virtute causaret seipsum. Unde ad alteram partem re-
+spondetur illam causam dici per accidens, quia non immedi-
+ate influit in effec- <960> tum mediatum: tamen est causa
+65 per se sui immediati effectus; in quo virtute continetur alius
+effectus, et per se ab illo manat: et ideo perinde repugnat aliq-
+uid hoc modo esse causam sui, ac si per se et immediate se
+efficeret.
+Leviores
+obiectiones
+contra praedicta
+solvuntur.
+26. Aliae obiectiones leviores fieri solent contra hanc 26.
+70 conclusionem, quia in omnibus generibus causarum videtur
+pati calumniam: in efficiente, quia duae manus si sint calidae,
+et simul se contingant, se mutuo fovent et conservant: si vero
+sint frigidae, confricatione se mutuo calefaciunt. In dispo-
+sitionibus, quae ad materialem causam pertinent, calor vere
+75 disponit ad raritatem, et raritas ad calorem. In finibus poten-
+tia est gratia operationis, et operatio propter potentiam. In
+formalibus denique, quamvis physice non inveniatur illa vi-
+cissitudo, reperitur tamen metaphysice, dum una differentia
+contrahit aliam, et vicissim potest contrahi ab illa, nam mor-
+80 tale contrahit rationale, vel intellectuale late sumptum, ut si
+homo dicatur vivens, intellectuale, mortale: et e contrario ra-
+tionale contrahit mortale.
+Manus invicem se
+fricantes qualiter
+se mutuo
+calefaciant.
+27. Respondetur tamen ad primam, duas manus, si aeque 27.
+sint calidae, non se conservare mutuo agendo, sed fortius re-
+85 sistendo contrario, aut expugnando illud. Si vero sint frigi-
+dae, non per se, se calefacere, sed per accidens medio motu:
+et tunc una non agit in aliam, quatenus calorem recipit media
+confricatione alterius, sed vi movendi ac tangendi, quam ha-
+bet: et hoc modo non est inconveniens duas res mutuo agere
+90 in seipsas, si per se agant per proprias virtutes, et non per
+69 26 ] 25 A.
+83 27 ] 26 A.
+
+-- 24 of 26 --
+
+Suárez, DM XXVII 25
+id quod ad invicem recipiant, ut stomachus calefacit vinum
+calore formali et innato, et vinum calefacit stomachum calore
+virtuali quem ex se habet: et hoc modo non repugnat duo mu-
+tuo in se efficere, id tamen non est secundum proprium esse
+95 per quod causant: et ita formaliter loqucndo, non fit causa ab
+effectu suo, quod repugnare dicimus.
+Duaene formae
+sibi mutuae
+dispositiones.
+28. Ad secundam instantiam respondetur imprimis, 28.
+causam dispositivam proprie non esse causam materialem,
+sed secundum quid, et reductive: unde illa non tam est mu-
+100 tua causalitas materialis, quam mutua quaedam concordia vel
+proportio inter duas formas in eodem subiecto existentes: in
+qua nulla est <col. b> repugnantia. Deinde dicitur, has dis-
+positiones semper esse aliquo modo diversarum rationum, ut
+in exemplo posito de calore et raritate, calor videtur esse non
+105 tantum dispositio, sed etiam aliquo modo efficiens, et tunc
+raritas non tam est dispositio praeparans, quam consequens,
+quae non habet propriam rationem causae. Et similia multa
+diximus de his causis supra disp. 13. sect. 3.
+Duo partiales
+fines sibi invicem
+sunt finales
+causae.
+29. Denique de hac dispositionum connexione intelligi 10R 29.
+110 potest posterior pars conclusionis. Sed praecipue posita est
+propter instantiam tertiam, ad quam concedimus secundum
+diversas rationes finium non repugnare ut duo sint sibi in-
+vicem fines, ut argumentum probat, tamen illud est tantum
+secundum quid, nam illi sunt quasi fines partiales, ex quibus
+115 unus integer coalescit, qui totus cadit sub unam adaequatam
+intentionem: tamen ad illam qualemcumque mutuam habi-
+tudinem necesse est ut illi fines in suo genere sint aliquo
+modo diversarum rationum. Ad quartum respondetur, hic
+nos agere de causis propriis et realibus: differentiae autem
+120 non sunt huiusmodi, sed tantum secundum rationem; et ad-
+huc illo modo differentiae non se mutuo contrahunt per se,
+sed ad summum quatenus in uno communi genere coniun-
+guntur.
+Satisfit rationi dubitandi positae in principio. A reason for doubting mentioned at the beginning is addressed.
+97 28 ] 27 A.
+109 29 ] 28 A.
+1 positae ] posita V.
+
+-- 25 of 26 --
+
+Suárez, DM XXVII 26
+30. Ultimo ex dictis manet expedita ratio dubitandi in prin- 30. Lastly, it remains to resolve from what has been said the reason
+cipio posita. Nam si quis attente consideret quae diximus, for doubting posited in the beginning.9 For if someone attentively
+nunquam duae causae ita mutuo comparantur, ut una sim- considers what we have said, no two causes are mutually compared
+5 pliciter supponat aliam in existendo, et e converso, etiam or- 5R in such a way that one without qualification assumes another in ex-
+dine naturae: nam finis ut est causa agentis, non necessario isting, and conversely, even by the order of nature. For an end, in
+supponitur existens: ut vero est effectus, supponit causam ef- order to be a cause of the agent, is not assumed necessarily existing.
+ficientem ut existentem: forma item supponit materiam, non But in order to be an effect it assumes the efficient cause as existing.
+tamen materia simpliciter supponit formam, sed eam tantum Likewise, form assumes matter, but matter does not without qualifi-
+10 requirit ut concomitantem seu consequentem ordine natu- 10R cation assume form but only requires it as something concomitant or
+rae. Atque ita facile vitatur circulus prioris et posterioris in consequent in the order of nature. And in this way the circle of prior
+existendo, etiam secundum naturae ordinem. In causando and posterior causes in existing is easily avoided, even according to the
+vero secundum diversa genera causarum nullum habet incom- order of nature. But in causing according to different genera of causes
+modum, quia vel una causalitas talis est ut non supponat exis- there is no disagreeability, since either one causality is such that it does
+15 tentiam, ut contingit in fine, vel, si existentiam requirit, non 15R not assume existence (as happens in the case of ends) or, if existence
+sunt sibi mutuo causae secundum esse simpliciter: et ita, si is required, they are not mutual causes of each other with respect to
+in una causa supponitur esse, secundum illud non est proprie being without qualification. And so, if being is assumed in the case of
+ef- <961> fectus alterius, sed secundum aliquid quod illi adi- one cause, it is not properly the effect of another with respect to that
+ungitur: sicut in forma respectu materiae, et in accidentibus being, but with respect to something that is conjoined to it; just as
+20 respectu subiecti declaravimus: et ita vitantur facile omnia 20R we showed in the case of form with respect to matter and in the case
+in- <col. b> commoda in hac mutua causarum connexione of accidents with respect to a subject. And so every disagreeability in
+et causalitate. Atque hactenus de causis entis, et de prima this mutual connection and causality of causes is easily avoided.
+principali huius operis parte dicta sint. And here ends the discussion about the causes of being and the
+first principal part of this work.
+9DM XXVII.2.1.
+2 30 ] 29 A.
+
+-- 26 of 26 --

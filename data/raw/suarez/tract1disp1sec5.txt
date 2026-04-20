@@ -1,0 +1,234 @@
+Last revision: January 14, 2011	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 1, SECT. 51
+© Sydney Penner 2011
+<10, col. b>2
+Quomodo se habeat finis ad objectum adæquatum voluntatis. How the end is related to the adequate object of the will.
+Non videri finem
+adæquatum
+objectum
+voluntatis.
+1. Decisio hujus quæstionis ex præcedenti haberi potest, et a 1. A settling of this question can be reached from the previous one. It is It does not seem
+that the end is an
+adequate object
+of the will.
+D. Thoma tangitur 1, 2, quæst. 1, art. 1 , eritque utilis ad ea quæ also touched on by St. Thomas in [ST ] IaIIæ.1.1. And it will be useful
+dicenda sunt, et ideo breviter præmittenda. Ratio autem dubi- for those things which are to be discussed and therefore should briefly
+5 tandi est, quia objectum adæquatum voluntatis est bonum: dix- 5R be presented. Moreover, the reason for doubting is that the adequate
+imus autem, non omne bonum habere causalitatem finis, sed object of the will is good. We said, moreover, that not every good has
+solum illud, quod est propter se amabile, non autem bonum the causality of an end, but only that good which is lovable for its own
+utile, ut sic. Unde Aristoteles 1, Magnor. moral., cap. 5: Bono- sake. Useful good as such, however, does not. Hence, Aristotle says
+rum, inquit, quædam sunt finis, quædam vero non: unde conclu- in Magna moralia I, cap. 5: ‘Of goods certain ones are ends but certain
+10 ditur argumentum, quia voluntatis objectum est omne id, circa 10R others not’. From which the argument is concluded: since everything
+quod voluntas versatur, non solum autem versatur circa finem, to which the will is directed is an object of the will, but it is directed not
+sed etiam circa media: ergo non est finis objectum adæquatum. only to the end but also to means, therefore the end is not the adequate
+Arguitur
+contrarium ex
+D. Thom.
+In contrarium autem est, quia divus Thomas, citato articulo object. To the contrary, however, because St. Thomas in the cited first The contrary is
+argued from
+St. Thomas.
+primo, dicit, finem esse objectum voluntatis; et videtur loqui article says that the end is the object of the will. And he seems to be
+15 de objecte adæquato, quia alias non recte concluderet volun- 15R talking about an adequate object, because otherwise he does not rightly
+tatem omnia operari secundum rationem finis, quia potentia conclude that the will does everything following the nature of an end
+operatur omnia sub ratione objecti sui: est enim hoc verum since a power does everything under the aspect of its object. For this is
+de objecto adæquato, et non de alio, et ideo comparat divus true of an adequate object and not of others. For this reason St. Thomas
+Thomas finem respectu voluntatis colori respectu visus: est compares an end with respect to the will to colour with respect to sight.
+20	Item ex Arist. autem color objectum adæquatum visus. Confirmari potest 20R Colour, moreover, is the adequate object of sight. It can be confirmed Likewise from
+Aristotle.	ex Aristotele 2, Physic., capite tertio, dicente, finem et bonum from Aristotle, Physics II, cap. 3, ‘the end and the good are the same’,
+idem esse: et 1, Ethic., capite septimo, illud esse uniuscujusque rei and from EN I, cap. 7, ‘that is the good for each thing for the sake of
+bonum, cujus gratia operatur: ergo sicut bonum, ita et finis est which it acts’. Therefore, just as good is the adequate object of the will,
+objectum adæquatum voluntatis, quia quidquid voluntas amat so also is the end, because whatever the will loves is an end or for the
+25 est finis, vel propter finem. 25R sake of an end.
+Auctorum
+varietas in
+præsenti quæst.
+2. <11> In hac re, qui affirmant, media, ut media, 2. In this matter, those who affirm that means, as means, have the The difference of
+authors on the
+present question.
+habere causalitatem finis, facile concedunt, finem esse objec- causality of an end easily concede that an end is an adequate object of
+1Latin text is from the Vivès edition; in some cases I have followed the 1628 edition. Marginal notes are as found in the 1628 edition. Most of those, though not all and not
+always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V = Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivès edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 5 --
+
+Suárez, De fine hominis disp. 1, sec. 5 2
+tum adæquatum voluntatis sub fine media comprehendendo. the will by including means under the end. But others, who deny that,
+Alii vero, qui illud negant, docent, finem esse objectum prin- teach that an end is the principal object of the will because everything
+30 cipale voluntatis, quia omnia, quæ voluntas vult, aliquo modo 30R that the will wishes is in some way ordered to the end. It is, however,
+ordinantur in finem: non tamen adæquatum, quia non quidquid not adequate, because not anything whatever that the will wishes is an
+voluntas vult, est finis. Alii autem distinctione utuntur. Con- end. Others, moreover, use a distinction. Conradus, at the cited art. 1,
+radus, ad citatum art. 1, distinguit duplex objectum voluntatis, distinguishes a two-fold object of the will: namely, per se and per acci-
+scilicet per se, et per accidens, et dicit, objectum adæquatum dens. And he says that the adequate object per se, more motive than
+35 per se, tam motivum, quam terminativum esse finem, media 35R terminative, is the end, but means are only objects per accidens. Finally,
+vero solum esse objecta per accidens. Alii denique Thomistæ others of the Thomists distinguish between motive and terminative ob-
+distinguunt de objecto motivo et terminativo, et docent, finem jects and teach that the end is an adequate motive object of the will, but
+esse adæquatum objectum motivum voluntatis: non autem ter- not an [adequate] terminative [object], because acts of the will are also
+minativum, quia voluntatis actus etiam ad media terminan- terminated at means.
+40 tur. Et hæc sententia magis ad veritatem accedit, quam alio 40R And this view comes closer to the truth, which I show in another
+modo, ita declaro. Possumus enim loqui aut de objecto for- way as follows: for we can speak either of the formal object which is the
+mali, quod est voluntati ratio operandi: aut de materiali ob- reason for the will’s acting or of the material object concerning which
+jecto, circa quod voluntas operatur, ut videre licet in exemplis the will acts, as may be seen in the examples given above in the preced-
+supra positis, sectione præcedenti, num. 5, de amore proximi ing section, n. 5, in the case of love for one’s neighbour for the sake of
+45 propter Deum, vel adorationis imaginis propter rem repræsen- 45R God or of adoration of an image for the sake of the thing represented.
+tatam: nam res, quæ amatur, vel adoratur, est divina voluntas, For the thing that is loved or adored is the divine will or the excellence
+vel excellentia præcepti, et ideo merito datur objectum formale of the precepts and for this reason the formal object is justifiably given
+in istis. in those.
+1. Assertio unde
+probetur.
+3. Dico ergo primo, rationem adæquatam operandi volun- 3. Therefore, I say, first, that the adequate reason for the will’s Whence the first
+assertion may be
+shown.
+50 tatis, atque adeo formale objectum adæquatum voluntatis esse 50R acting will—and therefore the adequate formal object of the will—is the
+finem. Hanc existimo esse mentem divi Thomæ, loco citato, end. I consider this to be the mind of St. Thomas in the cited place and
+et eam probant, quæ posteriori loco adducta sunt in ratione those things which were brought up in following place in the reason for
+dubitandi: et sequitur ex dictis in sectione præcedenti, quia doubting prove it. And it follows from what was said in the preceding
+tota causalitas finis est in ipso fine non solum respectu sui, sed section, because the complete causality of the end is in the end itself not
+55 etiam respectu mediorum: ergo solus finis est adæquata ratio 55R only with respect to itself but also with respect to the means. Therefore,
+operandi voluntatis, quia illud est voluntatis ratio operandi, the end alone is the adequate reason for the acting of the will, because
+Nota
+exceptionem.
+quod illam attrahit, seu movet ad operandum. Est autem ad- that which draws the will or moves it to action is its reason for acting.
+vertendum, sermonem esse de voluntate operandi proprie ex It should be noted, however, that the discussion is about wills acting Note the
+exception.	causalitate finis, in qua non solum exterior effectus, sed etiam properly by causality of an end in which not only the exterior effect
+60 interior actus est ex causalitate finis: nam si sit sermo de divina 60R but also the interior act is from the causality of the end. For if the
+voluntate amante Deum ipsum propter summam bonitatem, discussion were about the divine will loving God himself for the sake
+objectum ejus proprie non est finis: quia ille actus non est ex of the highest good, its object is not properly the end since that act does
+causalitate finis: tamen in hoc habet proportionem, quod est de not result from the causality of the end. Nevertheless, it is analogous in
+43 licet ] est V.
+
+-- 2 of 5 --
+
+Suárez, De fine hominis disp. 1, sec. 5 3
+re propter se bona et amabili, quamvis sine causalitate propter that it is of the thing that is good and lovable in itself, although without
+65 summam perfectionem. <col. b> 65R causality on account of the highest perfection [of God].
+Obiectio. 4. Sed objicies, quia interdum voluntas nostra operatur 4. But you will object because sometimes our will acts for the sake An objection.
+circa aliquod objectum, nec intendendo illud ut finem, nec eli- of some object, neither intending it as end nor choosing it for the sake
+gendo propter finem, sed per simplicem quamdam complacen- of an end, but willing it through a kind of simple complacency with an
+tiam volendo illud actu imperfecto, quem velleitatem vocant: imperfect act that they call a ‘velleity’. Therefore, the reason for such
+70 ergo ratio talis actus nullo modo est finis. Cujus signum etiam 70R an act is in no way an end. It is also a sign of this that such an act is also
+est, quia talis actus versatur etiam circa rem impossibilem: finis directed to an impossible thing. An end, however, since it expresses
+autem cum dicat ordinem ad esse, et ad executionem, semper order to being and to execution, is always something possible.
+Dilutio. est aliquid possibile. Respondetur hujusmodi actum semper I respond that an act of this sort is always directed to the object The resolution.
+versari circa objectum, propter aliquam bonitatem, quæ in ipso for the sake of some goodness that appears in it, either absolutely or
+75 apparet, vel absolute, vel sub aliqua conditione: et hoc modo 75R under some condition. And in this way that act is also by a causality
+etiam ille actus est ex causalitate finis, quia tale objectum per il- of an end, because such an object through that goodness moves and
+lam bonitatem movet et trahit illam voluntatem ad eliciendum draws that will to eliciting a simple affect and in this way that act is also
+simplicem affectum, et hoc modo etiam ille actus est ex causal- by causality of an end, not indeed as it expresses order to intention or
+itate finis, non quidem ut dicit ordinem ad intentionem, vel execution, concerning which the argument made works, but only as it
+80 executionem, de quo procedit argumentum factum, sed solum 80R expresses order to the effect of the will which it excites.
+ut dicit ordinem ad effectum voluntatis, quem excitat.
+2. Assertio unde
+probetur.
+5. Dico secundo, finem non esse objectum materiale 5. I say, secondly, that the end is not the adequate material object of Whence the
+second assertion
+may be shown.
+adæquatum voluntatis. Hoc probat prior ratio dubitandi in the will. The first reason for doubting posited in the beginning shows
+principio posita: quia voluntas etiam versatur circa media: nec this. For the will is also directed to means. Not only objects per accidens
+85 recte appellantur media solum objecta per accidens voluntatis, of the will are rightly called means, according to that way by which
+ad eum modum, quo substantia, verbi gratia, dicitur objectum 85R substance, for example, is called the object per accidens of sight (for a
+per accidens visus, nam potentia non attingit per proprium ac- power does not reach through a proper act of this sort a per accidens
+tum hujusmodi objectum per accidens, sed solum attingit ob- object but only reaches a per se object that is connected to a per accidens
+jectum per se, quod conjungitur objecto per accidens, quod object, which receives this denomination very remotely and extrinsi-
+90 valde remote et extrinsece accipit hanc denominationem: at cally). But, on the other hand, the will is truly and properly directed
+vero voluntas vere ac proprie versatur circa media immediate 90R to means immediately and in itself attains them through a proper act
+et in se attingendo illa per proprium actum distinctum ab illo, distinct from that by which it is directed to an end as the object which
+quo versatur circa finem ut objectum quod intendit per actum it intends through an act of election, by which it immediately wishes
+electionis, quo immediate vult et eligit ipsa media: comprehen- and chooses the means themselves. Therefore, they are comprehended
+95 duntur ergo sub objecto per se, quamvis materiali. under the per se object, although material.
+Quæstiuncula
+suborta, an
+medium simul et
+finis sint
+adæquatum
+objectum
+voluntatis.
+Scoti responsio.
+6. Sed quæret aliquis, an totum materiale objectum volun- 95R 6. But someone will ask whether the whole material object of the A small question
+that has arisen:
+whether a means
+and end at the
+same time are an
+adequate object
+of the will.
+The response of
+Scotus.
+tatis comprehendatur sub hoc disjuncto, finis vel medii: nam will is comprehended under this disjunction: end or means. For Scotus
+Scotus, in 1, distinct. 1, quæst. 3, negat, quia potest voluntas, in [Sent.] I, dist. 1, q. 3 denies [it] ‘because the will can’, he says, ‘have
+inquit, habere aliquem actum, qui nec versetur circa finem, nec some act which is directed neither to an end nor to a means’. For the
+100 circa media, quia potest voluntas esse de bono nec propter will can be of the good neither for its own sake (which regards the end)
+se, quod spectat ad finem; nec propter aliud quod pertinet 100R nor for the sake of something else (which pertains to means), but it
+
+-- 3 of 5 --
+
+Suárez, De fine hominis disp. 1, sec. 5 4
+ad media, sed abstrahere de bono ut sic, abstrahendo a bono abstracts concerning the good as such, abstracting from the good for
+propter se, vel propter aliud: hoc enim objectum apprehendi its own sake or for the sake of something else. For this object can be
+potest <12> per intellectum, qui quamlibet rationem realem apprehended through the intellect, which can abstract any real nature
+105 potest abstrahere, et est sufficiens ad movendam voluntatem: you please, and it is sufficient for moving the will. Therefore, it is also
+ergo est etiam sufficiens materia circa quam versatur actus ejus. 105R sufficient matter for its act to be directed to it. Indeed, it also follows—
+Imo etiam sequitur contra priorem assertionem, formalem ra- contra the prior assertion—that the formal objective reason for such an
+tionem objectivam talis actus non esse finem, sed aliquid ab- act is not the end but something abstract and more general than the end.
+stractum, et universalius fine. Et pro hac sententia citari solent Other nominalists (Ockham, Gabriel, Major, and others), I, dist. 1, are
+110 alii Nominales in illa distinctione prima, Ocham, Gabriel, Ma- usually cited for this view. They say that a middle act is given between
+jor et alii, qui dicunt, dari actum medium inter cæcitatem et 110R blindness and sight. But perhaps these were speaking in another sense,
+visum: sed hi fortasse alio sensu locuti sunt, ut videbimus infra as we will see below in dealing with these acts.
+agentes de his actibus.
+Vera resolutio. 7. Dicendum tamen est, omnia objecta voluntatis suffi- 7. It should, however, be said that all objects of the will are suffi- The true
+resolution.	115 cienter comprehendi sub fine et mediis intelligendo, ut dixi, ciently comprehended under the end and means by understanding, as
+nomine finis, quidquid propter suam bonitatem amatur, sive we said, by the name ‘end’ whatever is loved for the sake of its good-
+ametur actu efficaci, sive non efficaci, sive sit primario inten- 115R ness, either loved with an efficacious act or not, either with a primary
+tum, sive secundario, tanquam quid conjunctum fini primario. intention or with a secondary intention as something conjoined with a
+Probatur
+auctoritate.
+Hæc conclusio colligitur ex Aristotele 3, Ethicor., cap. 3 et 4, primary end. This conclusion is gathered from Aristole, EN III, cap. 3 It is proved by
+authority.	120 quatenus in rationibus, quibus ibi utitur distinguit fines, et me- and 4, since in the arguments which he uses here he distinguishes ends
+dia tanquam duo membra complectentia totum objectum vol- and means as two members making up the entire object of the will.
+untatis. Et eodem modo philosophatur Nyssenus sive Neme- 120R And Gregory of Nyssa or Nemesius philosophizes in the same way
+sius, lib. 5 Philosophiæ, cap. 4, et Damascenus, lib. 2, de Fide, in Philosophiæ V, cap. 4; John of Damascus in de Fide II, cap. 22; and
+cap. 22, et D. Augustinus 1, de Doct. Christian., cap. 8, ubi St. Augustine in de Doct. Christ. I, cap. 8, where he calls all goods lov-
+125 omnia bona a voluntate amabilia ad ea revocat quibus utendum able by the will ‘which are to be used or enjoyed’. The same is taken
+est, vel fruendum. Idem sumitur ex D. Thoma 1, cont. Gent., from St. Thomas, SCG I, cap. 86 and ST IaIIæ.8, where Cajetan in art. 1
+cap. 86, et 1, 2, q. 8, ubi Cajetanus, art. 1, aliique etiam 125R and also other Thomists follow this. [Also,] Gregory in 1, dub., q. 1.
+Thomistæ hoc sequuntur: Gregorius, in 1, dubion., q. 1. Pro- It is proven by reason, because every good is loved either for its Likewise by
+reason.	Item ratione. batur ratione, quia omne bonum amatur, vel propter se, vel own sake or for the sake of something else; therefore, either as end or
+130 propter aliud; ergo vel ut finis, vel ut medium: sed illa duo as means. But these two are opposed as a contradiction, because in an
+opponuntur contradictorie, quia in objecto, quod propter se object which is loved for its own sake, as such, is included a negation,
+amatur, ut sic, includitur negatio, videlicet, quod non ame- 130R namely, that it is not loved for the sake of the goodness of something
+tur propter bonitatem alterius: ergo inter illa duo non potest else. Therefore, no intermediate can be found between these two, be-
+medium inveniri, quia hoc ipso, quod medium non ordinetur cause by the very fact that a means is not ordered to another for the sake
+135 ad aliud, propter quod amatur, amabitur propter se: et ostendo of which it is loved means that it will be loved for its own sake. And
+sic, quia quidquid amatur a voluntate est bonum, honestum, I show it in this way: because whatever is loved by the will is good—
+delectabile, aut utile: sed duo priora habent rationem finis, 135R honest, pleasurable, or useful. But the former two have the nature of
+quantum est de se, quia ex se habent unde amentur: quod si an end, insofar as concerns themselves, because they have in themselves
+interdum ad aliud referantur, est illis extrinsecum, et tunc in- that for which they are loved. If sometimes they are referred to another,
+
+-- 4 of 5 --
+
+Suárez, De fine hominis disp. 1, sec. 5 5
+140 ducunt rationem medii. Tertium autem bonum, scilicet utile, it is extrinsic to them and then they introduce the nature of a means.
+propriam habet rationem medii. But the third good, namely, useful good, has the proper nature of a
+140R means.
+Euasio Scoti
+occluditur.
+8. Ad hoc respondet Scotus posse amari bonum, vel con- 8. Scotus responds to this that it is possible for the good or the Scotus’s evasion
+is blocked.	veniens, ut ab his omnibus abstrahit: sed hoc non recte dicitur, agreeable to be loved as it is abstracted from all these. But this is not
+quia bonum aut est tale per intrinsecam bonitatem aut solum rightly said, because the good either is such through intrinsic goodness
+145 per habitudinem ad extrinsecam bonitatem: priori modo ha- [or through extrinsic goodness]. In the first way it has the nature of
+bet rationem finis, posteriori vero rationem medii: non potest 145R an end, but in the latter it has the nature of a means. Moreover, one
+autem abstrahi una ratio communis utrique, quia in hujusmodi general nature cannot be abstracted from either, because in this sort
+analogia non datur ratio communis objectiva, sicut non potest of analogy a common objective nature is not given, just as it cannot be
+intelligi quod aliquis amet sanum in communi, ut abstrahit ab understood that someone loves health in general as abstracted from that
+150 eo quod formaliter intrinsece sanum est, et ab eo quod dicitur which is formally intrinsically healthy and from that which is called
+tale per habitudinem ad sanitatem: sed unusquisque amat sani- 150R such through a habitude to healthiness. But each one loves healthiness
+tatem propter seipsam: signum vero, vel instrumenta sanitatis for its own sake, but a sign or instrument of healthiness for the sake
+propter ipsam: sic igitur quando quis amat bonum in com- of it. So therefore when someone loves good in general, he really loves
+muni, revera amat illud quod est in se, et per se conveniens, that which is in itself and per se agreeable and that is the appetite for
+155 et ille est appetitus finis non in particulari, sed in communi, the end not in particular but in general. Moreover, by descending to
+descendendo autem ad particularia bona, nullum est quod ab 155R particular goods, nothing is such that it is abstracted from those two
+illis duabus rationibus abstrahat, scilicet propter se, vel propter natures, namely, for the sake of itself or for the sake of something else.
+aliud: igitur finis et media exhauriunt totum objectum volun- Therefore, an end and means exhaust the entire object of the will.
+tatis.
+144–145 aut solum per habitudinem ad extrinsecam bonitatem ] om. V.
+
+-- 5 of 5 --

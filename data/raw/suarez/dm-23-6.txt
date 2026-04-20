@@ -1,0 +1,600 @@
+Last revision: August 3, 2011	Francisco Suárez, S. J.
+DM XXIII, SECT. 61
+© Sydney Penner 2011
+<868, col. b>2
+Quae res possint causalitatem finalem exercere. What things can exercise final causality.
+1. Difficultas huius quaestionis ex duplici capite oriri potest. 1. This question’s difficulty stems from two sources. The first concerns
+Primum est de mediis, an illa possint exercere causalitatem means: whether they can exercise the causality of an end. For it seems
+finis, videtur enim ex ipsis terminis manifestum non posse obvious from the terms themselves that means cannot have the causality
+5 media habere causalitatem finis, nam sola res quae est finis, 5R of an end. Only a thing which is an end can exercise the causality of
+potest exercere causalitatem finis, sed medium est res distincta an end. But a means is something different from an end. Therefore,
+a fine: ergo non potest exercere causalitatem finis. In con- it cannot exercise the causality of an end. But the contrary position is
+trarium vero est, quia medium ut medium allicit voluntatem right, because a means insofar as it is a means entices the will to love
+ut ipsum amet: ergo in hoc exercet causalitatem finis. Et it. Therefore, in this it exercises the causality of an end. And especially
+10 maxime quia etiam ad unum medium potest aliud ordinari, 10R because it can also order one means to another. Therefore, then, that
+tunc ergo illud medium quod est prius ordine intentionis, ex- means which is prior in the order of intention exercises the causality of
+ercet causalitatem finis circa aliud, quod ad ipsum ordinatur. an end with respect to that which is ordered to it.
+2. Secunda difficultas est de privationibus aut negation- 2. The second difficulty concerns privations or negations: whether
+ibus, an sub hac propria ratione possint exercere causalitatem they can exercise the causality of an end under this proper ratio, that is,
+15 finis, id est absque errore iudicatae et existimatae, quod priva- 15R whether they can exercise the causality of an end apart from an error of
+tiones vel negationes sint, et non vera entia. Et idem quaeri judgement or estimation that they are privations or negations and not
+potest de relationibus, praesertim rationis. Et ratio difficul- true beings. And one can ask the same thing about relations, especially
+tatis est, quia hae sicut non habent veram entitatem, ita nec relations of reason. And the reason for the difficulty is that just as these
+bonitatem, et praesertim per se amabilem: ergo non habent do not have true entity, so also they do not have goodness and they es-
+20 vim et rationem proximam ad causandum finaliter. In con- 20R pecially are not lovable in themselves. Therefore, they do not have the
+trarium vero est, quia saepe per se intendimus huiusmodi pri- force and proximate ratio for final-causing. But a reason for the contrary
+vationes, et earum gratia media eligimus, ut alicuius mortem, position is that we often intend privations of this kind in themselves and
+vel aliquid simile. Similiter intendimus aliquando relationem we choose means for their sake. For example: the death of someone and
+rationis, ut humanas dignitates, aut aestimationes apud alios, other similar things. Likewise, we sometimes intend relations of reason,
+25 quae in sola relatione rationis consistunt. <869> 25R for example, human dignity or the esteem given by others, which consist
+in nothing but a relation of reason.
+1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the text against the Vivès
+edition for significant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all,
+of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the head of paragraphs.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+
+-- 1 of 15 --
+
+Suárez, DM XXIII, sect. 6 2
+Possintne media causalitatem finis exercere. Whether means can ever exercise the causality of an end.
+3. Circa priorem difficultatem sunt varii dicendi modi. Primus 3. There are various ways of speaking regarding the former difficulty.
+est media etiam ut media posse exercere causalitatem finis: in The first is that means as means can exercise the causality of an end,
+quo haec sententia contradicit aperte ultimae parti tertiae as- in which this view plainly contradicts the last part of the third asser-
+5 sertionis propositae in praecedenti sectione. Tenet vero il- 5R tion proposed in the preceding section. But Gabriel holds this view in I,
+lam Gabriel in 1. dist. 38. art. 1. ubi ex sententia Gregorii ibi dist. 38, art. 1, where according to Gregory’s view here in art. 1 he dis-
+art. 1. distinguit, finem alium esse propriissimum, alium pro- tinguishes between ends taken most properly, properly, and generally or
+prium, alium communem seu communissimum, et hoc ul- most generally. He says that means have the ratio of an end and exercise
+timo modo dicit media habere rationem finis, eiusque causali- its causality taken in the last way. Hence, he also says that that means
+10 tatem exercere. Unde etiam illud medium, quod est ultimum 10R which is last in intention and first in execution and for whose sake noth-
+in intentione, et primum in exsecutione, propter quod nul- ing else is chosen participates in the causality of the end.
+lum aliud eligitur, ait participare causalitatem finis. Funda- The foundation seems to be that every object of the will has the ratio
+mentum esse videtur, quia omne obiectum voluntatis habet and causality of an end. But means as means or that which is nothing but
+rationem et causalitatem finis, sed medium ut medium, seu a means is an object of the will. Therefore, it participates in the causality
+15 quod non est nisi medium, est obiectum voluntatis: ergo par- 15R of an end. The minor is obvious because the will truly and properly
+ticipat causalitatem finis. Minor constat, quia voluntas vere is directed to an end by loving it. That to which a power is directed is
+ac proprie versatur circa finem amando ipsum, illud autem est the proper object of that power. The major, moreover, is taken from
+proprium obiectum potentiae circa quod ipsa versatur. Maior St. Thomas, IaIIae.1.1, where he says that end is the object of the will.
+autem sumitur ex D. Thoma 1. 2. q. 1. art. 1. ubi ait finem esse Moreover, he speaks of the adequate object, both [i] because he says that
+20 obiectum voluntatis: loquitur autem de obiecto adaequato, 20R end is related to the will just as colour to sight and colour is the adequate
+tum quia dicit, ita se habere finem ad voluntatem, sicut color object of sight and because [ii] he infers from this that the will loves
+ad visum, color autem est obiectum adaequatum visus. Tum everything under the ratio of an end, since it loves everything under the
+etiam quia inde infert voluntatem amare omnia sub ratione fi- ratio of its object. This conclusion would not be good, unless end were
+nis, quia amat omnia sub ratione sui obiecti: quae consecutio the adequate object.
+25 bona non esset, nisi finis esset obiectum adaequatum. Favet 25R Aristotle also favours this view in Physics II.3, saying that ‘the end
+etiam Aristototeles 2. Physicae cap. 3. dicens finem et bonum and the good are the same’. The good, moreover, is the adequate object
+idem esse: bonum autem est obiectum adaequatum voluntatis: of the will; therefore, the end is also.
+ergo et finis.
+4. Secundus modus dicendi est, rem, quae est medium 4. A second way of speaking is that a thing which is a means can
+30 etiamsi propter se non ametur, neque amabilis sit, posse ex- exercise the causality of an end even if it is neither loved for its own sake
+ercere causalitatem finis, non tamen quatenus medium est, 30R nor lovable, though not insofar as it is a means but insofar as another
+sed quatenus propter illam aliud medium appeti potest. Itaque means can be desired for its sake. Therefore, that means which is not
+illud medium quod non est primum in exsecutione, sed in- first in execution but comes between the end and the first means is said
+tercedit inter finem et primum medium, dicitur participare to participate in the causality of the end, not insofar as it is loved for the
+35 causalitatem finis, non quatenus amatur propter finem, sed sake of the end but insofar as the other means is loved for its sake. For
+quatenus aliud medium amatur propter ipsum, quia sub ea 35R under that aspect it is that for the sake of which and consequently has
+ratione est id cuius gratia, et consequenter habet rationem the ratio of a proximate end rather than of a means.
+
+-- 2 of 15 --
+
+Suárez, DM XXIII, sect. 6 3
+finis proximi, et non medii. Illud vero, quod est primum But that which is the first means and for whose sake nothing else is
+medium, propter quod nullum aliud amatur, non partici- loved does not participate in the causality of the end. This view is held by
+40 pat causalitatem finis. Hanc sententiam tenet Aegidius in Aegidius3 in II, dist. 38, q. 2, art. 2; Gabriel in II, dist. 1, q. 5, art. 1; and
+2. dist. 38. q. 2. art. 2, Gabriel in 2. dist. 1. q. 5. <col. b> 40R Ockham in II, q. 3. And St. Thomas seems to favour it in Summa contra
+art. 1. et Ocham in 2. q. 3. et videtur favere D. Thomas gentiles III, c. 2, where he says in the fourth argument: ‘All intermediates
+3. Summae contra gentiles, c. 2, ubi in ratione quarta dicit, between the agent and the ultimate end are ends with respect to the prior
+Omnia intermedia inter agens et ultimum finem sunt fines re- ones and the active principle with respect to the subsequent ones’. And
+45 spectu priorum, et principia activa respectu sequentium, et in in Physics II, lect. 5, he says concerning the ratio of end that it is not
+2. Physicae, lect. 5. ait, de ratione finis non esse quod sit ulti- 45R that which is ultimate simpliciter but only ultimate with respect to the
+mum simpliciter, sed solum respectu praecedentis. Idem sen- preceding things. And he thinks the same in Nicomachean Ethics I, c. 7,
+tit 1. Ethicorum ad Nicomachum, c. 7. ubi Aristoteles multum where Aristotle very much favours this view, for he says that not all ends
+favet huic sententiae, dicit enim, non omnes fines esse perfec- are perfect and sought for their own sake. And in Metaphysics V and
+50 tos, et propter se expetibiles, et in 5. Metaphysicae et 2. Physi- Physics II he numbers wealth and the instruments of arts among ends,
+cae inter fines numerat instrumenta artis, et divitias, quia per 50R because they are made or acquired through other means even though
+alia media fiunt vel acquiruntur, quamvis ipsa etiam sint me- they are also themselves means to further ends. But the argument was
+dia ad ulteriores fines. Ratio vero est iam tacta, quia in illis already mentioned, because there is in these a sufficient ratio for moving
+est sufficiens ratio ad movendam voluntatem ut aliquid velit the will, so that it wishes something for its own sake. And this is enough
+55 propter ipsa: et hoc satis est ad exercendum aliquod munus to exercise some function (munus)4 of a final cause, even if they do not
+causae finalis, etiamsi non exerceant omnia. 55R exercise every function.
+Statuitur principium ad resolutionem quaestionis necessarium. The necessary principle for resolving the question is put in place.
+5. Nihilominus dicendum censeo, nullam rem posse proprie, 5. Nevertheless, I think it should be said that no thing can properly
+et (ut ita dicam) per intrinsecam denominationem exercere and (if I may speak this way) through intrinsic denomination exercise
+causalitatem finis nisi quae per se bona sit, et expetibilis. Cur the causality of an end unless is it is in itself good and desirable. I will
+5 addam illas particulas, proprie et per intrinsecam denomina- 5R explain below why I add the phrase ‘properly and through intrinsic de-
+tionem, infra declarabo. Sumo igitur hanc assertionem ex nomination’. I take this assertion, then, from Aristotle in Metaphysics II,
+Aristotele 2. Metaphysicae, cap. 2. ubi dicit, de ratione fi- c. 2, where he says that it belongs to the ratio of an end to be such that
+nis esse ut alia appetantur propter ipsum, ipsum vero non other things are desired for its sake but not itself be desired for the sake
+propter alia ubi per hanc posteriorem negationem circum- of other things. Here he indirectly gets at—through the latter negation—
+10 loquitur illam rationem, quam nos positive explicamus di- 10R that ratio which we positively explicated in saying that the end ought to
+cendo, finem debere esse per se expetibilem, per propriam be desirable in itself through the proper goodness which it has in itself.
+bonitatem, quam in se habeat. Nam non est de ratione fi- For it is not of the ratio of an end, speaking generally, not to be
+nis, generatim loquendo, ut propter aliud non appetatur, sed desired for the sake of something else, but this is proper to a wholly
+hoc est proprium finis omnino ultimi. Unde in 1. Ethico- ultimate end. Hence, in Nicomachean Ethics I, c. 7, Aristotle says that
+15 rum ad Nicomachum, cap. 7. dicit, in unaquaque serie illud 15R that is the end in each series which is desired as ultimate. That is, that
+3Aegidius of Viterbo? But did he write a commentary on book II?
+4For other uses of ‘munus’ in this sense by Suárez, see DM 47.4.10.
+
+-- 3 of 15 --
+
+Suárez, DM XXIII, sect. 6 4
+esse finem, quod appetitur ut ultimum, id est in quo sistit in which the intention for all the means that are desired for the sake of
+intentio mediorum omnium, quae propter finem appetun- the end stops is the end in each series. Likewise, in Physics II, c. 3, he
+tur. Sic etiam 2. Physicae, cap. 3. dicit, omnia media quae says that all means which are subordinated among themselves are for the
+inter se subordinata sunt, esse propter unum finem. Denique sake of one end. Finally, in Magna Moralia I, c. 2, he distinguishes: ‘Of
+20 lib. 1. Magnorum moralium, cap. 2. distinguit, Bonorum alia 20R the goods, some are ends, some are not; just as health certainly is an end
+sunt fines, alia non: quemadmodum sanitas quidem finis, atque and the cause of health in no way is an end’, where he calls the means to
+sanitatis causa neutiquam finis est, ubi sanitatis causam vo- health the cause of health.
+cat medium ad sanitatem. Et probatur ratione, nam in un- And it is shown by argument, for in each genus of cause that thing
+oquoque genere causae illa res potest causare in tali genere, can cause in that genus which has the force or formal principle consti-
+25 quae habet virtutem, seu formale principium constituens in 25R tuting in the first act the cause of that genus. But goodness is the for-
+actu primo causam talis gene- <870> ris: sed bonitas est ratio mal ratio of a final cause, constituting it in the first act sufficient for
+formalis causae finalis, constituens illam in actu primo suffi- causing. Therefore, only that thing which has goodness can be a final
+cientem ad causandum: ergo tantum res illa quae bonitatem cause through intrinsic potency or denomination. Moreover, all and
+habet, esse potest causa finalis per intrinsecam potentiam seu only those things which have goodness and agreeability in themselves
+30 denominationem, omnis autem res, et illa sola, quae in se ha- 30R with respect to the one desiring are good and desirable in themselves.
+bet bonitatem, et convenientiam respectu appetentis, est per Therefore, only things which are good and desirable in themselves can
+se bona, et appetibilis: ergo tantum res quae est per se bona, exercise the causality of an end.
+et appetibilis, potest causalitatem finis exercere.
+6. Dices, Etiam res utilis ut sic habet in se bonitatem, 6. You will say that even a useful thing as such has goodness in itself,
+35 cum in se habeat utilitatem, nam utilitas quaedam species since it has utility in itself. For utility is a certain species of goodness.
+bonitatis est. Sed contra hoc est, quod supra diximus trac- 35R But, contrary to this, we said above in discussing goodness in disp. X
+tando de bonitate disp. 10. bonum utile ut sic non esse aliq- that useful good as such is not something wholly intrinsic to the thing
+uid omnino intrinsecum rei, quae utilis censetur, nam licet which is considered useful. For although utility as only expressing some
+utilitas, ut solum dicit vim aliquam vel efficacitatem, sit aliq- power or efficacy is something in the thing which is denominated useful,
+40 uid in re quae denominatur utilis, tamen tota illa utilitas nevertheless, that entire utility is not good nor desirable as useful except
+non est bona, neque appetibilis ut utilis nisi propter boni- 40R for the sake of the goodness of an intended end and as subordinated. For
+tatem finis intenti, et ut subest. Propter quod D. Thomas this reason St. Thomas rightly says in Ia.5.6 that ‘useful things are not
+1. q. 5. art. 6. merito dixit. Utilia non esse amabilia propter se, lovable for their own sakes but only by reason of an end’. And for that
+sed solum ratione finis. Et ideo etiam bonum utile ut sic non reason also useful good as such is not considered good simpliciter nor
+45 censetur bonum simpliciter, nec per intrinsecam denomina- through intrinsic denomination, because it is not agreeable in itself but
+tionem, quia non est per se conveniens, sed solum ut substat 45R only as standing under such an end and formally, as it were, receiving
+tali fini, et ab illo quasi formaliter convenientiam accipit. agreeability from it.
+7. Secundo igitur argumentor in hunc modum, nam ea 7. Therefore, I argue secondly in this way: for that thing which
+res quae non est per se bona, non potest movere voluntatem is not good in itself cannot move the will to loving it for its own sake.
+50 ad amandum se propter se: ergo nec potest voluntatem mo- Therefore, neither can it move the will to loving other things for its sake.
+vere ad amandum alia propter ipsam: ergo nullam causali- 50R Therefore, it cannot exercise any causality of the end. This second con-
+tatem finis exercere potest. Haec secunda consequentia patet sequence is clear from what was said, for the entire causality of an end is
+ex dictis, quia tota causalitas finis in illis duobus capitibus con- contained in those two heads. But the first antecedent also seems known
+
+-- 4 of 15 --
+
+Suárez, DM XXIII, sect. 6 5
+tinetur. Primum vero antecedens etiam videtur ex terminis per se from its terms, because—since only good draws appetite to delight
+55 per se notum, quia cum solum bonum trahat appetitum ad in it—only that thing can draw appetite to love it for its own sake which
+sui dilectionem, illa tantum res potest trahere appetitum ad 55R is good according to itself and without order to another end.
+amandum se propter se, quae secundum se et sine ordine ad Hence, it was not right to assume in the argument for doubting given
+alium finem bona est. Unde non recte in ratione dubitandi in the beginning that a means as means draws the will to delight in it. It
+in principio posita sumebatur, medium ut medium trahere would be more accurate to say that the end itself draws the will to loving
+60 voluntatem ad sui dilectionem: veriusque diceretur finem ip- the means, for to will a means for the sake of an end is really nothing
+sum trahere voluntatem ad diligendum medium, nam revera 60R other than [to have] the entire reason for willing a means be the end
+nihil aliud est velle medium propter finem, nisi quod tota ra- itself. Moreover, the reason for willing is what moves and draws the
+tio volendi illud sit ipse finis: ratio autem volendi est quae will, which is why it is customarily called the will’s motive. The means,
+voluntatem movet et attrahit, et ideo etiam motivum vol- moreover, is as it were the material object, which is loved by reason of
+65 untatis appellari solet: medium autem est tamquam materi- the end.
+ale obiectum, quod <col. b> ratione finis amatur. Atque 65R And from here the prior consequence can easily be proven, because
+hinc facile probatur prior consequentia, quia quod non suf- what is not sufficient to draw the will to loving it certainly cannot draw
+ficit voluntatem trahere ad se amandum, multo minus potest the will to loving something else for its sake. But that thing which is not
+trahere voluntatem ad amandum aliud propter ipsum: sed res good in itself cannot draw the will to loving it, as we showed. Therefore,
+70 illa quae non est per se bona, non potest trahere voluntatem even less can it draw the will to loving something else for its sake.
+ad amandum se, ut ostendimus: ergo minus potest trahere 70R The major is clear [i] from that principle ‘that on account of which
+voluntatem ad amandum aliud propter ipsam. Maior patet, something is what it is is even more so’.5 And so if the means is loved
+tum ex illo principio, Propter quod unumquodque tale, et illud for the sake of an end, the end is loved even more. Therefore, the thing
+magis. Et ita si medium amatur propter finem, magis amatur which makes something else be loved for its sake must make itself be
+75 finis: ergo res quae facit aliud amari propter ipsam, oportet loved more. Therefore, conversely, what cannot draw love to itself will
+ut magis faciat amari seipsam: ergo, e converso, quae non 75R much less be able to draw love to something else for its sake. The major
+potest trahere ad amandum se, multo minus poterit trahere is also clear [ii] because love for a means for the sake of an end proceeds
+ad amandum aliud propter se. Tum etiam, quia amor medii from the love for the end. Therefore, if love for some thing as an end
+propter finem procedit ex amore finis: ergo si amor alicuius cannot be caused that thing, neither can love for another thing for the
+80 rei ut finis non potest causari ab illa re, neque amor alterius sake of such an end be final-caused by that end. That is to say, that cannot
+rei propter talem finem potest ab illo fine finaliter causari: 80R be an end, if the name ‘end’ truly signifies a final cause, as we are now
+quod est dicere, illum non posse esse finem, si nomine finis speaking of it in relation to created wills.
+vera causa finalis significetur, prout nunc de illa loquimur in
+ordine ad creatam voluntatem.
+Responsio generalis ad quaestionem propositam. A general response to the proposed question.
+5For more on this axiom, see Nunzio Signoriello, Lexicon peripateticum, alt. ed. (Naples: Officina Bibliothecae Catholicae Scriptorum, 1872), s. v. ‘Propter quod unumquodque
+tale, et illud magis’, and J. Zama Mellini, Lexicon peripateticum (Barcelona: Thomas Gorchs, 1851), s. v. ‘Propter quod unumquodque tale, et illud magis’.
+60 veriusque ] ulteriusque V.
+
+-- 5 of 15 --
+
+Suárez, DM XXIII, sect. 6 6
+8. Ex hoc principio colligitur primo generalis responsio ad 8. From this principle is gathered a first general response to the question
+quaestionem in titulo sectionis propositam, scilicet, eam rem proposed in the section’s title, namely: that thing can properly exercise
+posse proprie exercere causalitatem finalem, quae in se habet final causality which has in itself the goodness for the sake of which it is
+5 bonitatem propter quam ametur (aut vere, aut in existima- 5R loved (either truly or in estimation, which addition is understood in all
+tione, quod intelligatur adiectum in omnibus similibus lo- similar statements, lest the same thing has to be repeated).
+cutionibus, ne oporteat idem repetere). Haec conclusio est This conclusion is evident from the preceding principle and its
+evidens ex praecedenti principio et probationibus eius. Quo- proofs. Wherefore we cannot descend to particulars in designating which
+circa non possumus in particulari descendere ad designandas things which can final-cause, namely, whether God, angel, human, sub-
+10 res, quae possunt finaliter causare, nimirum an Deus, vel an- 10R stance, accident, wealth, honour, or anything else of this sort can final-
+gelus, vel homo, vel substantia, vel accidens, vel divitiae, vel cause. But in every and each case one should consider how much good-
+honor, vel aliae huiusmodi possint finaliter causare: sed in ness or agreeability the things have in themselves and if they have some-
+omnibus et singulis considerandum est quam bonitatem vel thing according to which they can be final causes. But if they have noth-
+convenientiam per se habeant, et si aliquam habuerint, secun- ing, they cannot be final causes.
+15 dum illam poterunt esse finalis causa, si vero nullam habeant, 15R Moreover, only two kinds of good are good in themselves and ac-
+non poterunt. Solum autem duplex bonum est per se et cording to themselves: pleasurable goods and honesta, of course. Under
+secundum se bonum nempe delectabile, et honestum, sub honestum is included whatever is in itself agreeable to nature. There-
+honesto comprehendendo quidquid est per se naturae con- fore whatever is of this kind will be able to exercise the causality of an
+veniens, et ideo quidquid tale fuerit, poterit sub ea ratione end under that ratio. But something not of this kind never exercises the
+20 causalitatem finis exercere, quod autem tale non est, nun- 20R causality of an end except because it is esteemed as such. In this way
+quam exercet causalitatem finis, nisi quia tale exis- <871> wealth and honour are often desired as ends even though these things—if
+timatur, et hoc modo divitiae, aut honores appetuntur saepe a right judgement is made about them—are not lovable nor agreeable in
+ut finis, quamvis illae res, si rectum de illis feratur iudi- themselves but only for the sake of something else.
+cium, non sint per sese amabiles aut convenientes, sed tantum
+25 propter aliud.
+9. Dices, Eadem ratione bonum delectabile non erit vere 9. You will say that pleasurable good will not truly be sufficient for
+sufficiens ad causandum finaliter, quia si rectum de illo fer- 25R final-causing for the same reason, since it is not lovable for its own sake
+atur iudicium, non est amabile propter se, sed propter al- but for the sake of something else if a right judgement is made about
+iud. Immo neque scientia, sanitas, et res similes poterunt ex- it. Indeed, science, health, and other similar things will not be able to
+30 ercere causalitatem finalem, quia non sunt amabiles propter exercise final causality, since they are not lovable for their own sakes but
+se, sed propter hominem. Ad priorem partem respondetur for the sake of a human being.
+negando sequelam, est enim ratio longe diversa, quia bonum 30R I respond to the first part by denying the consequence, since the
+delectabile praecisum ab omni alio fine extrinseco vere ha- argument is very different. For pleasurable good apart from every other
+bet in se unde ametur, et ideo potens est, et sufficiens de extrinsic end truly has in itself that for which it is loved and for that
+35 se ad exercendam causalitatem finis: quamvis si ab homine reason it capable and sufficient of itself for exercising the causality of an
+recta, id est honesta, ratione appetendum sit, non sit in eo end. Although if it is to be desired by a human being according to right—
+ut in fine sistendum, sed ad aliquem superiorem finem or- 35R that is, honesta—reason, he must not stop in that as in an end but must
+dinandum, quod non solum de bono delectabili, sed etiam order it to some higher end. This should be understood to be the case
+de bono conveniente naturae, seu naturali prout condistin- not only concerning pleasurable good but also concerning natural good
+
+-- 6 of 15 --
+
+Suárez, DM XXIII, sect. 6 7
+40 guitur a morali honesto, intelligendum est. Unde claritatis or good that is agreeable to nature insofar as it is contradistinguished
+gratia dici posset bonum delectabile secundum verum iudi- from moral honestum.
+cium speculativum seu physicum esse per se amabile, quod 40R Hence, for the sake of clarity it can be said that pleasurable good is
+satis est ut per se sufficiat ad exercendam causalitatem finis, et lovable in itself according to a true speculative or physical judgement.
+non tantum ex falsa aestimatione operantis, sed etiam ex pro- This is enough for it to suffice in itself for exercising the causality of
+45 pria vi quam in se habet: quamvis secundum verum iudicium an end, and not only from an agent’s false estimation but also from the
+practicum et morale, quod attenditur per conformitatem ad proper force that it has in itself, even though according to a true practical
+appetitum rectum et honestum non sit appetendum ut finis 45R and moral judgement which is attained through conformity to right and
+ab homine honeste operante. Secus vero est de aliis rebus, honestum desire it should not be desired as an end by a human being act-
+quae omni huiusmodi bonitate carent, illae enim nec secun- ing honeste. But it is otherwise concerning other things which are devoid
+50 dum iudicium practicum, nec etiam secundum speculativum of all good of this sort. For those things cannot be final causes either
+verum possunt esse finales causae, sed solum ex falsa existima- according to practical judgment nor even according to true speculative
+tione. 50R judgment, but only by a false estimation.
+10. Ad posteriorem partem respondetur negando seque- 10. I respond to the latter part by denying the sequel, for those
+lam, nam illae res vere sunt propter se amabiles, nam per se things truly are lovable for their own sakes since they are in themselves
+55 sunt naturae convenientes. Nec refert quod tantum sint am- agreeable to nature. Nor does it matter that they are only lovable to a
+abiles homini, nam hinc solum fit non esse amabiles amore human being. For from this it merely follows that it is not lovable with
+amicitiae, sed concupiscentiae, quod non impedit veram et 55R friendship love but with concupiscent love, which does not impede the
+propriam causalitatem finalem: quidquid Gabriel loco supra true and proper causality of an end, whatever Gabriel may indicate in
+citato significet. Et patet, quia tales res per bonitatem quam the place cited earlier. And this is obvious, since such things entice and
+60 in se vere habent, alliciunt, et ad se trahunt voluntatem, iuxta draw the will towards themselves according to their ways and capacities
+modum et capacitatem earum. Nam quia ipsae tales sunt, ut through the goodness which they truly have in themselves. For because
+natura sua <col. b> coaptentur homini, et sint perfectiones 60R they are themselves such that by their own nature they are suited to a
+eius, ideo licet propter se diligantur, homini tamen diligun- human being and are his perfections, therefore, even though they are
+tur: et istae duae habitudines non repugnant inter se, neque loved for their own sake, nevertheless, they are loved for a human being.
+65 comparantur ut medium ad finem, sed ut finis cuius, et finis And those two habitudes are nor repugnant to each other. They are not
+cui, qui integrant unum completum finem, ut supra vidimus. related as a means to an end but as a finis cuius and a finis cui, which are
+65R integrated as one complete end, as we saw above.6
+Resolutio de causalitate mediorum. Resolution concerning the causality of means.
+11. Secundo principaliter colligitur ex dicto principio reso- 11. Second, the resolution of the former difficulty concerning the causal-
+lutio prioris difficultatis de causalitate mediorum. Res enim ity of means is inthe first place gathered from the stated principle. For a
+quae est medium ad alium finem, potest sub aliqua alia ra- thing which is a means to some other end can be desirable in itself under
+5 tione esse per se appetibilis, ratione alicuius bonitatis, quam 5R some other ratio, by reason of some goodness which it truly has in itself
+in se vere habet etiam praecisa relatione ad illum finem, et sub even apart from its relation to that end. There is no doubt but that the
+ea ratione non est dubium quin possit res quae est medium, thing which is a means can have final causality under this ratio, since it
+6DM XXIII.2.5.
+
+-- 7 of 15 --
+
+Suárez, DM XXIII, sect. 6 8
+habere causalitatem finalem, quia non habet illam ut medium. does not have that ratio as a means. Indeed, as far as it goes, it is some-
+Immo respectu illius materiale quid, et per accidens est, quod thing material and per accidens that such a thing is a means or is loved for
+10 talis res sit medium, seu ametur propter alium finem: neque 10R the sake of another end. Nor is there any controversy about this.
+de hoc est ulla controversia. Alio ergo modo potest se habere Therefore, a thing which is a means can hold itself in another way
+res quae est medium, ita ut nullam habeat rationem per se such that it has no ratio of good in itself or at least such that it neither
+boni, vel saltem quod per illam non causet, nec propter illam causes through that ratio nor is loved for its sake, but only insofar as it is
+ametur, sed tantum quatenus utilis est: et sub hac consider- useful. And regarding this consideration it should simply be denied that
+15 atione simpliciter negari debet rem illam ut sic sufficientem 15R that thing as such is sufficient for exercising final causality. And certainly
+esse ad exercendam causalitatem finalem. Et quidem si illa if that thing is such that it is only loved for the sake of an end, the matter
+res talis sit ut solum ametur propter finem, res videtur evi- appears entirely obvious, since in that case it is loved purely as a means,
+dentissima, quia tunc amatur ut pure medium, quod omnes which all philosophers distinguish from an end as end. They rather think
+Philosophi a fine ut fine distinguunt, et potius censent per- that it pertains to the effect of an end which has the ratio of a cause. And
+20 tinere ad effectum finis, quam habere rationem causae. Et hoc 20R all those whom we adduced in the evidence for the first assertion also
+etiam confirmant omnia, quae in probatione primae assertio- confirm this. But when this thing which is a means puts on a habitude
+nis adduximus. At vero quando haec res quae est medium, to a terminus with respect to another means which is loved for its sake,
+induit habitudinem termini respectu alterius medii, quod am- it seems now to participate in some way in the nature of an end.
+atur propter ipsam, videtur iam participare aliquo modo ra-
+25 tionem finis.
+12. Et ideo maioris claritatis gratia, et ad declarandas lo- 12. And so for the sake of greater clarity and to explain the expres-
+cutiones nonnullorum gravium auctorum, possumus hic ac- 25R sions of several important authors, we can accommodate this distinction
+commodare distinctionem quam Gabriel citato loco adducit, which Gabriel makes in the cited place. For it is one thing to speak of an
+nam aliud est loqui de fine ut puram rationem termini in- end as putting on the pure ratio of a terminus but another thing to speak
+30 duit, aliud vero ut habet propriam rationem causae finalis: of it as having the proper ratio of a final cause. For here we are speaking
+hic enim de illo loquimur sub hac posteriori ratione. Et hoc of it under this latter ratio. And in this way we deny that such a means,
+modo negamus tale medium etiamsi aliud ad ipsum ordine- 30R even if something else is ordered to it, exercises true final causality prop-
+tur, exercere veram causalitatem finalem proprie loquendo, erly speaking and according to intrinsic denomination (if I may speak in
+et secundum intrinsecam denominationem, ut ita dicam. Et this way).
+35 hoc probant omnia in priori asser- <872> tione adducta, quia And by this they prove everything adduced in the prior assertion,
+medium etiam sub hac ratione consideratum, non habet in se because even a means considered under this ratio does not have in itself
+unde trahat voluntatem ad amandum se propter se, sed ipse 35R that by which it draws the will to loving it for its own sake. Rather,
+finis ad quem omnia media ordinantur, movet voluntatem ad the end itself to which all the means are ordered moves to will to lov-
+amandum omnia media, et subordinationem eorum inter se, ing all the means and to their subordination to each other, or, what is
+40 seu quod idem est, idem finis movet voluntatem ad amandum the same thing, the same end moves the will to loving one means imme-
+aliquod medium immediate propter se, aliquod vero immedi- diately for the sake of the end, but another means immediately for the
+ate propter aliud medium, mediate vero seu ultimate propter 40R sake of another means but mediately or ultimately for the sake of the
+se. Ipsa ergo bonitas finis est, quae proxime et finaliter movet, end. Therefore, the end’s goodness itself is what proximately and finally
+quamvis non semper terminet proxime et immediate rela- moves, although it does not always proximately and immediately termi-
+45 tionem seu habitudinem medii ad finem: causalitas autem nate the relation or habitude of the means to the end. Moreover, final
+
+-- 8 of 15 --
+
+Suárez, DM XXIII, sect. 6 9
+finalis in motione metaphorica consistit: haec ergo non est causality consists in metaphorical motion. This, therefore, is not in the
+in medio, etiam quatenus aliud ad ipsum ordinatur, sed est 45R means, even to the extent that something is ordered to it, but is only in
+tantum in fine. Et confirmatur ex specificatione actuum vol- the end.
+untatis, seu electionum omnium mediorum tendentium ad This is confirmed from the specification of the acts of the will or of
+50 eumdem finem nam omnes illae recipiunt speciem, et hon- the choices of all means tending to the same end. For these all receive
+estatem vel malitiam ab ipso fine, ut latius tradunt Theologi their species and honestas or wickedness from the end itself, as theolo-
+in 1. 2. q. 18. ergo signum est, licet unum medium ordine- 50R gians explain more thoroughly in IaIIae.18. Therefore, it is a sign that,
+tur ad aliud, tamen si omnia appetuntur tantum ut media, although one means is ordered to another, nevertheless, if all are desired
+solum finem propter quem omnia appetuntur, esse, qui per only as means, only the end for the sake of which they are all desired is
+55 bonitatem suam causat finaliter omnes illas electiones. something which through its goodness final-causes all those choices.
+13. At vero si de fine loquamur solum prout est termi- 13. But, on the other hand, if we speak of the end only as it is the
+nus ordinationis seu habitudinis alterius ad ipsum, sic unum 55R terminus of the ordering or habitude of something else to it, one means
+medium dicitur finis alterius quod ad ipsum ordinatur, quia is then called an end for another means that is ordered to it, since it is the
+est terminus ad quem proxime refertur. Medium enim re- terminus to which the other means is proximately referred. The remote
+60 motum ut tale est non habet convenientiam et proportionem means, indeed, as it is such, does not have agreeability and proportion
+cum fine nisi intercedente proximo medio, et ideo ad il- with the end except by the proximate means between them. And for this
+lud proxime ordinatur: ergo sub hac ratione participat tale 60R reason it is proximately ordered to that. Under this ratio, therefore, such
+medium rationem proximi finis. Atque hoc confirmant tes- a means participates in the ratio of a proximate end. And the testimony
+timonia Aristotelis et D. Thomae in favorem secundae sen- of Aristotle and St. Thomas confirms this argument adduced in favour
+65 tentiae adducta, favet etiam communis loquendi modus, ab- of the second view. The common manner of speaking also favours this.
+solute enim dicitur unum medium amari propter aliud: ex For people say without qualification that one means is loved for the sake
+quo genere locutionis colligit Aristoteles ubique rationem fi- 65R of another. Aristotle everywhere gathers the ratio of an end from this
+nis. Dices si medium participat munus et rationem finis sub sort of expression.
+ratione termini ad quem aliud medium ordinatur, cur etiam You will ask: if the means participates in the function (munus) and
+70 non participabit causalitatem finis, quae in metaphorica mo- ratio of an end under the ratio of a terminus to which another means is
+tione consistit? Videtur enim esse aequalis ratio. Maxime ordered, why will it not also participate in the causality of an end, which
+quia sicut v. g. sanitatis amor movet ad procurandam evacu- 70R consists in metaphorical motion? For the argument seems to be equal
+ationem, vel digestionem, aut aliquid simile, ita desiderium in force, especially since just as, for example, love for health moves to
+evacuationis movet ad sumendam potionem, vel ad ambulan- procuring evacuation, digestion, or something similar, so the desire for
+75 dum, aut aliud simile medium. <col. b> evacuation moves to the taking of a potion, to walking, or some similar
+means.
+14. Respondetur imprimis differentiam esse, quia prox- 75R 14. I respond in the first place that there is a difference because the
+ima ordinatio unius medii ad aliud attenditur secundum id proximate ordering of one end to another is attained in accordance with
+quod est materiale in ipsis, nimirum quatenus unum medium that which is material in them, namely, insofar as one means can be an
+potest esse causa effectiva illius effectus, et ita potest bene or- effective cause of that effect and so one means can be well ordered to
+80 dinari unum medium ad aliud, et e converso unum esse ter- another. And, conversely, one can be the proximate terminus of the or-
+minus proximus ordinationis alterius, secundum id quod in 80R dering of another according to that which is truly and really is in it and
+ipso vere et realiter est atque ita potest participare rationem so can participate in the ratio of an end as terminus. Final causality, how-
+
+-- 9 of 15 --
+
+Suárez, DM XXIII, sect. 6 10
+finis ut termini. Causalitas autem finalis formaliter provenit ever, formally comes into being from an end insofar as it is good. And
+a fine quatenus bonum est: et quia bonitas finis non partic- since the closer means does not intrinsically participate in the goodness
+85 ipatur intrinsece a medio propinquiori, etiamsi aliud ad ip- of an end even if another means is ordered to it, for this reason that
+sum ordinetur, ideo non ita participatur ab eo causalitas fi- 85R causality of the end as a ratio or habitude of a terminus does not partic-
+nis, sicut ratio vel habitudo termini. Non est autem confun- ipate in it. Moreover, the motion or natural results which are between
+denda motio, vel naturalis resultantia, quae est inter ipsos ac- those acts of the will (insofar as the will is excited from one to another)
+tus voluntatis (quatenus ex uno excitatur voluntas ad alium) should not be confused with final causality. For that causality between
+90 cum causalitate finali, nam illa causalitas inter actus potius the acts is more an effective causality than a final causality (it is either
+est effectiva, quam finalis, sive sit per propriam efficientiam 90R through proper physical efficiency or through a natural sympathy and
+physicam (sive per naturalem sympathiam, et consensionem harmony—about which [I say more] elsewhere, for it does not matter
+de quo alias, nam ad praesens non refert) ratio autem finalis at present). The ratio of final [causality], moreover, is from the object
+est ab ipso obiecto, et ideo, quamvis desiderium unius medii itself. And for that reason, although a desire for one means causes or
+95 causet vel excitet desiderium alterius, nihilominus tamen in excites desire for another means, in the genus of final causes that whole
+genere finalis causae tota illa motio provenit ab eodem fine. 95R motion still comes to be from the same end.
+15. Nisi quis tandem velit dicere, quod sicut medium 15. Unless, finally, someone wants to say that just as a means by
+ex coniunctione ad finem fit amabile et appetibile, ita fit conjunction with the end becomes lovable and desirable, so it becomes
+potens ad causandum finaliter, saltem electionem alterius able to final-cause—at least to final-cause the choice of another means for
+100 medii propter ipsum, et ita participare causalitatem finalem. its sake—and thus to participate in final causality. This is not really dif-
+Quod quidem in re non est diversum ab eo quod diximus, 100R ferent from what we said, since this can at most be attributed to a means
+nam ad summum hoc potest attribui medio per quamdam ex- through a kind of extrinsic denomination. For, just as a means does not
+trinsecam denominationem. Nam sicut medium non accipit receive some intrinsic goodness from the end by which it becomes de-
+aliquam intrinsecam bonitatem a fine, qua fiat appetibile, sed sirable but receives objective agreeability and desirability only through
+105 solum per extrinsecam denominationem, et quasi informa- extrinsic denomination and, as it were, information, so also it can partic-
+tionem accipit ab illo convenientiam et appetibilitatem obiec- 105R ipate in final causality at most through a similar extrinsic denomination.
+tivam; ita ad summum per similem denominationem extrin- In true reality, however, that whole causality comes to be from the end
+secam potest participare causalitatem finalem: re tamen vera, itself and its goodness. And for that reason I often said in earlier sec-
+tota illa causalitas provenit ab ipso fine, eiusque bonitate: et tions that only the end can exercise final causality properly and through
+110 ideo saepe dixi in superioribus, proprie, et per intrinsecam intrinsic denomination.
+denominationem solum finem exercere causalitatem finalem.
+Obiectioni
+satisfit.
+16. Dices, Ergo eo modo quo ratio finis attribuitur 110R 16. You will say that, therefore, in that way in which the ratio of an An objection is
+addressed.	mediis ad quae alia ordinantur, ita potest attribui illi medio, end is attributed to means to which other means are ordered, it can also
+quod est primum in exsecutione, et ultimum via intentionis: be attributed to that means which is first in execution and last in the way
+115 nam, licet ad illud <873> non ordinetur aliud medium ex- of intention. For even though no other extrinsic means are ordered to
+trinsecum, ordinatur tamen ad illud ipsemet actus voluntatis, it, the very act of will which is terminated in it can still be ordered to
+qui ad illud terminatur: unde etiam dici potest esse propter 115R it. Hence, it also can be said to be for the sake of that means, according
+illud, iuxta doctrinam superius traditam sect. 3. Rursus, licet to the doctrine related earlier in sect. 3.7 Again, although that means
+7DM XXIII.3.3–17.
+
+-- 10 of 15 --
+
+Suárez, DM XXIII, sect. 6 11
+illud medium per intrinsecam bonitatem non trahat volun- does not draw the will through intrinsic goodness, yet as conjoined with
+120 tatem, tamen ut coniunctum fini, sicut ab illo redditur ap- the end, just as it is rendered desirable and agreeable through extrinsic
+petibile et conveniens per extrinsecam denominationem, ita denomination by that end, so also it can be said to final-cause in the same
+per eamdem potest dici causare finaliter, non per seipsum, sed 120R way: not through it itself but through the end as through its extrinsic
+per finem tamquam per suam formam extrinsecam. Respon- form.
+detur primo, non esse magnum inconveniens hoc totum con- I respond, first, that it is not all that disagreeable to concede all of
+125 cedere, quod magis spectat ad modum loquendi quam ad rem. this, because it looks more like a matter of speaking than a matter of re-
+Quod si quis velit hoc modo sustinere opinionem Gabrielis, ality. For if someone wishes in this way to sustain the opinion of Gabriel,
+facile poterit, nam et D. Thomas 1. p. q. 6. art. 6. vocat 125R he will be able to do so easily. Even St. Thomas in Ia.5.6 calls useful good
+bonum utile ut sic, terminum proximum motionis volun- as such a proximate terminus of the will’s motion. But even so this man-
+tatis. Verumtamen modus ille loquendi, praesertim quoad ner of speaking, especially with respect to the participation of causality
+130 participationem causalitatis per extrinsecam denominationem, through extrinsic denomination, seems to me most unsuitable. For, as
+mihi videtur valde improprius, nam in rigore non movet I said above, strictly speaking it is not the means that moves [the will]
+medium, sed finis ad medium, ut supra dicebam. Tamen 130R but the end that moves [the will] to the means. Still, to the extent that it
+quantum ad habitudinem termini potest dici participari a can be said that the first means participates in the habitude to a terminus,
+primo medio quatenus est materiale obiectum in quo versatur the first means can also be called the material object to which the act of
+135 actus voluntatis, quod solum D. Thomas loco citato intendit. will is directed, which is all that St. Thomas intended to say in the cited
+Immo sub ea ratione qua dicitur actus esse propter ipsum, place. Or better, under that ratio by which the act is said to be for the
+iam non habet rationem primi medii, nam ipsemet actus subit 135R sake of the means, the means no longer has the ratio of a first means, for
+quodammodo rationem prioris medii, ut in sect. 3. declaravi. the very act itself in some way assumes a kind of ratio of a prior means,
+as I said in sect. 3.8
+Satisfit fundamentis aliarum opinionum. The basis of the other opinions is addressed.
+17. Fundamenta aliarum opinionum fere non indigent nova 17. The foundations of the other opinions hardly require a new solu-
+solutione, quia declarando veram sententiam partim soluta, tion, since they have already in part been resolved in revealing the true
+partim ad ea quae diximus confirmanda accommodata sunt. view and in part been accommodated to those things which we said in
+5 Solum ad id quod in favorem prioris sententiae obiicieba- 5R confirming the true view. It only remains to say in response to that What the will’s
+adequate object
+is.
+Quod sit
+obiectum
+adaequatum
+voluntatis.
+mus de obiecto adaequato voluntatis, dicendum est duplex which we brought up in favour of the former view regarding the ade-
+esse obiectum potentiae, materiale et formale: finis ergo non quate object of the will that the object of a power is two-fold: material
+potest dici adaequatum obiectum materiale voluntatis, quia and formal. So then, an end cannot be called the will’s adequate material
+etiam media sunt materia circa quam voluntas versatur, ut object, since means are also material to which the will is directed, as was
+10 dictum est: finis autem dici potest formale obiectum adae- 10R said. An end can, however, be called the adequate formal object, since
+quatum, quia quidquid voluntas amat, est finis, vel propter whatever the will loves is an end or for the sake of an end. And this is
+finem: et hoc intendit D. Thomas citato loco. Cum ergo dic- what St. Thomas intends in the cited place.
+itur omne obiectum voluntatis habere causalitatem finalem, Therefore, when it is said that every object of the will has final
+intelligendum est de obiecto formali, non de materiali. Et eo- causality, it should be understood as concerning the formal object and
+8DM XXIII.3.5 and 7.
+
+-- 11 of 15 --
+
+Suárez, DM XXIII, sect. 6 12
+15 dem modo intelligendum est quod Aristoteles ait, <col. b> 15R not as concerning the material object. And Aristotle should be under-
+finem et bonum idem esse: intelligit enim de bono sim- stood in the same way when he says that the end and the good are the
+pliciter, quod in se ac per se bonum est; quo sensu dixit etiam same. For he is thinking about good simpliciter, which is good in and of
+1. Ethicorum ad Nicomachum cap. 7. bonum uniuscuiusque itself. He also speaks in this sense in Nicomachean Ethics I, c. 7: the good
+rei esse, cuius gratia operatur. Et in idem redit quod alii aiunt, of each thing is that for the sake of which it acts. And what others say—
+20 finem esse adaequatum obiectum motivum voluntatis, non 20R that the end is the adequate motive object of the will but not the adequate
+autem terminativum, et causalitatem finalem proprie con- terminative object and that final causality properly suits the motive ob-
+venire obiecto motivo, non autem pure terminativo. Con- ject but not the purely terminative object—amounts to the same thing.
+Conradus. radus vero 1. 2. q. 1. art. 1. dicit finem esse adaequatum obiec- But Conrad says in IaIIae.1.1 that the end is the will’s per se adequate Conrad.
+tum per se voluntatis, medium autem esse obiectum per ac- object, but a means is a per accidens object. This amounts to the same
+25 cidens, quod in idem redit, dummodo illud per accidens non 25R thing, provided that the ‘per accidens’ is not understood in such a way
+ita intelligatur, ut existimetur voluntas non attingere ipsum that the will is considered not to reach the very means in itself. For then
+medium in se: sic enim falsum esset, media esse obiecta per it would be false that means are objects per accidens, for they are loved
+accidens, nam proprie et in se amantur; sed intelligendum properly and in themselves. But it should be understood as per accidens,
+est per accidens, id est per aliud, nempe per finem, atque hoc that is, through (per) something else (through the end, of course). In this
+30 modo solum obiectum per se voluntatis potest habere causal- 30R way only the per se object of the will can have final causality.
+itatem finalem.
+An sit actus
+aliquis voluntatis
+a fine non
+causatus.
+18. Dices, Ergo nullus est actus voluntatis qui non sit 18. You will say: therefore, there is no act of the will which does not Whether there is
+some act of the
+will not caused
+by an end.
+a causa finali, quia nullus est qui non sit ab obiecto formali result from a final cause, because there is no act which does not result
+adaequato eius: hoc autem videtur falsum, tum quia aliquis from an adequate formal object of the will. But this seems to be false,
+35 est actus in voluntate qui nec circa finem nec circa media both because there is some act in the will that is not directed at an end or
+versatur, ut Scotus, et nonnulli alii Theologi contendunt in 35R a means, as Scotus and some other theologians contend in I, dist. 1, and
+1. dist. 1. tum etiam quia simplex complacentia, vel ineffi- because simple complacency or an inefficacious desire for an impossible
+cax desiderium rei impossibilis non causatur a fine, cum nullo thing is not caused by an end since it in no way moves to an attainment
+modo moveat ad consecutionem finis. Haec obiectio petebat of an end.
+40 longam disputationem an in voluntate sit actus neuter, qui This objection demands a long disputation on whether there is in
+non sit causatus a fine: sed quia hoc non est nostri instituti, 40R the will a neutral act that is not caused by an end. But since this is not
+breviter respondetur ad argumentum concedendo sequelam, part of our plan here, I respond briefly to the argument by conceding the
+nimirum, nullum esse actum in voluntate cum ratione et ali- consequence, namely, that there is no act in the will in someone acting
+qua deliberatione operante qui non sit effectus finis, ut recte with reason and a certain measure of deliberation that is not the effect of
+45 probat ratio facta, et ex omnibus dictis in sect. 3. confirmari an end. The given argument rightly shows this and it can be confirmed
+potest. Ad priorem vero partem obiectionis negamus esse ac- 45R from all that was said in sect. 3.9
+tum in voluntate, qui non sit aliquo modo, vel circa finem, But in response to the prior part of the objection, we deny that there
+Gregorius. vel circa medium propter finem, quod late probat Gregorius is an act in the will that is not in some way either directed to an end or di-
+in 1. dist. 1. q. 1. praesertim ex Augustini 1. De doctrina chris- rected to a means for the sake of an end. This is more thoroughly shown
+50 tiana c. 8. ubi omnia bona amabilia revocat ad bona quibus by Gregory in I, dist. 1, q. 1, and especially by Augustine in De doctrina Gregory.
+9DM XXIII.3.
+
+-- 12 of 15 --
+
+Suárez, DM XXIII, sect. 6 13
+est fruendum vel utendum, id est quae sunt fines aut media. 50R christiana I, c. 8, where he classes all lovable goods under goods which
+Aristoteles. Quod etiam sentit Aristoteles 3. Ethicorum ad Nicomachum are to be enjoyed or used, that is, which are ends or means. Aristotle Aristotle.
+D. Thomas. cap. 3 et 4. et sumitur etiam ex D. Thoma 1. Summae contra also thinks this in Nicomachean Ethics III, c. 3 and 4, and it is also taken
+gentiles cap. 86. Et ratio est quia inter bonum propter se am- from St. Thomas in Summa contra gentiles I, c. 86. And the reason is that St. Thomas.
+55 abile, aut tantum propter aliud, non potest reperiri medium. no intermediate can be found between goods that are lovable for their
+Nam quod Scotus pu- <874> tavit, bonum in communi, 55R own sake and goods that are lovable only for the sake of something else.
+seu abstracte sumptum posse esse medium, verum non est, For what Scotus thought—that good in general or taken abstractly can
+quia bonum in communi non abstrahitur nisi ut per se am- be an intermediate—is not true, because good in general is not abstracted
+abile, quia aliud quod solum propter extrinsecum finem am- except as lovable in itself, because something else that is loved only for
+60 atur, non est bonum simpliciter, sed analogice, et per extrin- the sake of an extrinsic end is not a good simpliciter but analogically and
+secam denominationem, in qua non datur communis con- 60R through an extrinsic denomination. A general abstract concept is not
+ceptus abstractus, ut ex superioribus constat. Ad alteram given in this, as is clear from earlier [sections].10
+partem obiectionis respondetur, in illo actu simplici seu inef- To the second part of the objection, I respond that in that act which
+ficaci circa obiectum impossibile, non amari obiectum ipsum is simple or inefficacious and directed to an impossible object the im-
+65 impossibile per modum finis inquirendi, vel assequendi, sed possible object itself is not loved in the manner of an end to be sought
+vel amari delectationem ipsam, quae ex illo actu capitur, per 65R or attained, but either the pleasure itself which is taken from that act is
+modum finis, vel amari rationem aliquam boni, quae in illo loved in the manner of an end or some ratio of good which is represented
+obiecto impossibili repraesentatur vel absolute, vel sub con- either absolutely or under some condition in that impossible object. For
+ditione. Nam illa est quae movet voluntatem ad illum sim- that is what moves the will to that simple affect and that also is what
+70 plicem affectum, et illa etiam est quae participat causalitatem participates in the causality of an end, not indeed as far as intention or
+finis, non quidem quantum ad intentionem vel electionem, 70R election is concerned but only insofar as the simple affect is concerned.
+sed solum quantum ad simplicem affectum, hic enim etiam For this is also directed to an end.
+versatur circa finem.
+Quomodo privationes participent causalitatem finalem. In what way privations participate in final causality.
+19. Ultimo facilis plane est ex supra dictis resolutio secundae 19. Lastly, the resolution of the second difficulty posited in the begin-
+difficultatis in principio positae de obiectis negativis vel priva- ning concerning negative or privative objects is readily obvious. Some
+tivis. Ad quam aliqui respondent, bonum quod potest causare respond to this that good that can cause finally should not be taken so
+5 finaliter, non esse sumendum ita stricte ut cum vero ente 5R strictly that it is convertible with true real being but should be taken
+reali convertatur, sed latius quatenus convertitur cum ente, more widely so that it is convertible with being as it analogically also
+prout analogice comprehendit etiam privationes vel nega- comprehends privations or negations, according to what was said earlier
+tiones: iuxta superius dicta disp. 11. sect. 3. n. 3. Ut enim in disp. XI, sect. 3, n. 3.11 For as Aristotle says in Nicomachean Ethics
+dixit Aristoteles 5. Ethicorum ad Nicomachum cap. 1. Mi- V, c. 1: ‘the less bad is in a certain way good’. Privations and negations,
+10 nus malum quodammodo bonum est: privationes ergo, et 10R therefore, although they do not really bring goodness, still, insofar as
+negationes, quamvis revera non afferant bonitatem, tamen they remove some disadvantage, they are considered to have some agree-
+10Reference?
+11DM XI.3.3.
+
+-- 13 of 15 --
+
+Suárez, DM XXIII, sect. 6 14
+quatenus removet aliquod incommodum, censentur habere ability by reason of which they can final-cause. This view is true in real-
+aliquam convenientiam, ratione cuius possunt finaliter causare. ity. We can add, however, that a lack of badness does not have the power
+Quae sententia in re vera est: addere vero possumus, car- of final-causing except in virtue of some positive good. And it can rightly
+15 entiam mali non habere vim causandi finaliter nisi in vir- 15R be said that a privation is loved more as a means to obtaining a good or to
+tute alicuius positivi boni: meritoque dici posse, privationem fully enjoying a good than properly as an end. And for this reason that
+magis amari ut medium ad obtinendum bonum vel ad plene causality of an end which is in the effect of some privation is attributed
+illo fruendum, quam proprie ut finem, ideoque illam causali- more to the good by reason of which that privation is loved than to the
+tatem finis quae est in effectu alicuius privationis, magis esse privation itself. For someone who loves the absence of pain loves it for
+20 tribuendam bono, ratione cuius illa privatio amatur, quam 20R the sake of the pleasure opposed to it or, at least, for the sake of a love for
+ipsi privationi. Amat enim quis carere dolore propter delec- his nature and a state agreeable to him, which is a kind of freedom from
+tationem illi oppositam, vel certe propter amorem suae natu- pain even if the will lacks other positive goods.
+rae, et sta- <col. b> tus convenientis illi, qualis est indolentia, The only thing that seems to stand in the way of this doctrine is
+etiamsi alia voluntas positiva desit. Solum videtur huic doc- that sometimes someone can love simply not to be. This love cannot be
+25 trinae obstare, quod interdum amare potest aliquis non esse 25R caused by a love for some positive good, since simply and absolutely not
+simpliciter, qui amor non potest causari ex amore alicuius being does not leave behind any foundation for positive good. It should
+boni positivi, quia non esse simpliciter et absolute nullum be said, however, that one cannot love oneself not to be nor does this
+fundamentum positivi boni relinquit. Dicendum vero est, have the force to move an affect, except from a love for the advantage of
+etiam ipsum non esse, non posse amari, neque habere vim one’s being. For no one loves not to be except in order to avoid some
+30 movendi affectum nisi ex amore commodi ipsius esse: non 30R serious disadvantage for his being that is apprehended as more serious
+enim amat aliquis non esse, nisi ut evitet aliquod grave incom- with respect to his own nature—which he loves for its own sake—than
+modum ipsius esse, quod apprehenditur maius respectu pro- entirely to lack being. And so it happens—which is astonishing—that
+priae naturae, quam propter se diligit, quam omnino carere someone can desire not to be as a result of an excessive love for himself.
+esse. Atque ita fit (quod est mirabile) ut ex nimio amore Read St. Thomas, Ia.5.2; Hervaeus, Quodlibet VIII, q. 8; Durandus, IV,
+35 sui esse, appetere possit aliquis non esse. Lege D. Thomam 35R dist. 50, q. 2; Francis Sylvester of Ferrara, Summa contra gentiles III, c. 19;
+1. p. q. 5. art. 2. Hervaeum Quodlibet 8. q. 8. Durandum and Soncinas, Metaphysics IX, q. 16.
+in 4. dist. 50. q. 2. Ferrariensem 3. Summae contra gentiles
+cap. 19. Soncinam 9. Metaphysicae q. 16.
+Quomodo relatio participet causalitatem finis. In what way relations participate in the causality of an end.
+20. Ad aliud de relationibus, aliqui contendunt non solum 20. Concerning the issue with relations, some contend that not only real
+relationes reales, sed etiam rationis posse causalitatem finis relations but also relations of reason can exercise the causality of an end.
+exercere. Alii etiam relationibus realibus eam vim negant, Others deny that even real relations have this power, as Hervaeus does
+5 ut Hervaeus Quodlibet 2. q. 1. et satis consequenter, si tenet 5R in Quodlibet II, q. 1, and it is consequently satisfactory, if he holds that
+relationem realem nullam habere perfectionem. Et sane ex- real relations have no perfection. And certainly I think that no relation,
+istimo nullam relationem vel rationis, vel ex iis realibus quae either of reason or from those real ones that are called categorical and are
+praedicamentales dicuntur, et solum censetur esse per resul- thought to come to be merely through a foundation and a terminus, none
+tantiam ex fundamento et termino, nullam (inquam) ex his of these relations—I say—is lovable for its own sake, but only by reason
+
+-- 14 of 15 --
+
+Suárez, DM XXIII, sect. 6 15
+10 relationibus esse propter se amabilem, sed solum ratione sui 10R of its foundation or for the sake of its accord with its terminus. For
+fundamenti vel propter concomitantiam sui termini, nam qui anyone who loves fame does not love the resulting relation, but his real
+amat famam, non amat relationem resultantem, sed realem reputation, which he considers most agreeable to himself. And likewise
+existimationem sui quam censet sibi esse valde convenientem, for other cases. Hence, if no false estimation is involved, these relations
+et sic de aliis. Quare si falsa existimatio non intercedat, nun- can never exercise final causality.
+15 quam haec possunt causalitatem finalem exercere. Secus vero 15R But the case is different when it comes to transcendental relations,
+est de relationibus transcendentalibus, quae per sese habent which have their own entity through themselves or are included in the
+suas entitates, vel in conceptibus aliquarum rerum absolu- concepts of other absolute things.12 For that reason they can be good
+tarum includuntur: ideo enim per se bonae ac convenientes and agreeable in themselves—as is thought concerning the habitude of
+esse possunt, ut patet de habitudine scientiae, visus, et sim- science, vision, and similar things—and thus they can exercise this causal-
+20 ilibus, et ita possunt hanc causalitatem exercere. Omitto 20R ity. I also leave aside divine relations, which can possess this causality
+etiam relationes divinas, quae alia superiori ratione possunt by another, superior reason, especially since they essentially include the
+hanc causalitatem obtinere, maxime cum essentialiter inclu- complete goodness and perfection of the essence.
+dant totam essentiae bonitatem ac perfectionem.
+12On transcendental relations, see DM XLVII.3–4.
+
+-- 15 of 15 --

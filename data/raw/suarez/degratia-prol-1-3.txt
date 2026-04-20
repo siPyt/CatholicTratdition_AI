@@ -1,0 +1,904 @@
+Last revision: October 28, 2018	Francisco Suárez, S. J.
+DE GRATIA, PROLEGOMENON 1, CAP. 31
+© Sydney Penner 2013
+<10>2
+CAPUT III. CHAPTER III.
+Utrum recte describatur potestas libera esse, quae Whether a power that after all the prerequisites for acting
+positis omnibus praerequisitis ad agendum potest have been posited can both act and not act is rightly de-
+agere, et non agere. scribed as being free.3
+5 1. Punctum hoc tractavi in lib. 1. de Auxiliis, quia 5R 1. I treated this point in Book I of De concursu, motione et
+illius resolutionem, et declarationem, ad intelligen- auxilio Dei,4 since I think its resolution and explanation to
+dum usum libertatis, et concordiam eius cum gra- be most necessary for understanding the use of freedom
+tia censeo esse valde necessariam, et ob eamdem and its harmony with grace. For the same reason I judge
+causam iterum hic praemittendum esse iudicavi, that we should start here for a second time, since some
+10 quia nonnulli moderni, licet descriptionem, seu 10R moderns, although they do not dare simply to deny that
+propositionem illam simpliciter negare non audeant: characterization or proposition, they restrict it in various
+illam limitant variis modis, prout unicuique, ad ways as seems advantageous to each one in defending his
+proprias sententias in aliis punctis defendendas own views in other points. It is necessary, therefore, to
+commodum videtur. Has ergo limitationes hic ex- evaluate these restrictions here so that afterwards we can
+15 pendere necesse est, ut postea cum solido funda- 15R proceed from a solid foundation.
+Verbum,
+potest, in
+sensu
+composito et
+diviso
+accipitur.
+mento procedere valeamus. Ut autem intelligantur But in order to understand these restrictions, one should The word ‘can’
+is taken in a
+composed
+sense and a
+divided sense.
+limitationes, sciendum est, verbum illud, potest, in know that it is usual to take that word ‘can’ in the posited
+descriptione positum, duobus modis accipi solere, characterization in two ways, namely, in a composed sense
+scilicet in <col. b> sensu composito, vel diviso, id or in a divided sense. That is, either such that both acting
+20 est, vel ut cum illis omnibus praerequisitis stare 20R and not acting are compatible with all those prerequisites,
+simul possit, tam agere, quam non agere; vel ut or such that with those prerequisites standing the power
+1Latin text by and large follows the 1620 Lyon edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked
+the text against the Vivès edition for significant variations. I have not yet been able to check the first edition (Coimbra, 1619). For recorded variants, B =
+1620 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all, of the marginal notes from the 1620
+edition are included in the Vivès edition as italicised text at the head of paragraphs.
+My thanks to Shane Duarte, who generously commented on my translation and spared me from a number of errors and infelicities.
+2Numbers in angle brackets indicate page numbers in volume 7 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+3Merely three years after the first publication of this work, the Spanish Franciscan Jeronimo Tamarit de Tavaria summarizes the present chapter in
+the identically titled chapter in his Flores theologiae (Valencia, 1622), tom. 1, pp. 495–96.
+4The first of Suárez’s Opuscula, which can be found in vol 11 of the Vivés edition.
+
+-- 1 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 2
+stantibus illis praerequisitis potentia retineat inte- retains its complete freedom yet cannot use it for not acting
+gram libertatem suam, non tamen possit uti illa ad except with the removal of some one of the stated prerequi-
+non agendum, nisi aliquod ex dictis praerequisitis sites.
+25 auferatur.
+Prima limitatio
+aliquorum.
+2. Primus ergo modus interpretandi, vel limi- 25R 2. The first way of interpreting or restricting that charac- The first
+restriction
+[proposed] by
+some.
+tandi illam descriptionem est, ut si verbum, potest, terization, then, is (if the word ‘can’ is taken in the composed
+accipiatur in sensu composito, limitanda sit ad sense) that it should be restricted to the prerequisites on the
+praerequisita ex parte causarum secundarum, ut part of secondary causes—such as the intellect, the object,
+30 intellectus, obiecti, et phantasiae, et si quid est al- the imagination, and anything else that is similar—and it
+iud simile, non tamen extendatur ad praerequisita 30R should not be extended to the prerequisites on the part of
+ex parte Dei: tum quia praevius concursus est nec- God. This is both [i] because a previous concursus on the
+essarius ex parte Dei, et tamen illo posito non potest part of God is necessary, yet once it has been posited the will
+voluntas agere, et non agere, sed tantum agere: tum cannot both act and not act, but can only act, and also [ii]
+35 etiam quia voluntas, qua Deus vult liberum arbi- because the willing by which God wills freewill5 to operate
+trium operari, est necessaria, ut arbitrium operetur, 35R is necessary for freewill (arbitrium) to operate, and it is one
+et est ex praerequisitis, quia praecedit ipsum actum, of the prerequisites since it precedes the act itself and the
+et determinationem voluntatis creatae: et posita illa determination of the created will. Once that willing by God
+Dei voluntate, non stat voluntatem creatam liberam has been posited, it does not remain possible for the created
+40 non operari; ergo necessario ab illa descriptione ex- free will not to operate. It is necessary, therefore, to remove
+cipienda sunt praerequisita ex parte primae causae. 40R the prerequisites on the part of the first cause from that
+Alvarez.
+Ledesma.
+Ita opinatur Alvarez, disp. 115. Ledesma, art. 10. §. characterization. Alvarez thinks this in [De auxiliis gratiae Alvarez.
+Ledesma.	Sed antequam, post 7. concl. et alii. et humani arbitrii viribus] disp. 115, and Pedro de Ledesma6
+in [De divinae gratiae auxiliis] art. 10, in the section starting
+‘But before . . . ’ after the 7th conclusion, as well as others.
+Secunda
+limitatio.
+3. Secundus modus limitandi descriptionem il- 45R 3. The second way of restricting that characterization The second
+restriction.	45 lam est, ut si intelligatur de omnibus praerequisitis, is so that if it is understood to include all prerequisites or
+tam ex parte Dei, quam ex parte aliarum causarum, necessary conditions, both on the part of God and on the
+vel conditionum necessariarum, verbum, potest, ac- part of the other causes, the word ‘can’ should be taken
+cipiendum sit in sensu diviso, non in composito, in the divided sense rather than the composed sense, with
+respectu utriusque actus agendi, et non agendi, 50R respect to each act of acting and not acting, which also are
+5I take ‘liberum arbitrii’ as a technical term naming the item under dispute. The equivalent term in contemporary philosophy might be ‘freedom of
+the will’, though it has the disadvantage of already suggesting a theory as to which faculty would provide us with this freedom. I will translate ‘liberum
+arbitrii’ with ‘freewill’ as a single word and reserve ‘freedom of the will’ for ‘libertas voluntatis’ where it is clear that it is the will’s freedom that is being
+considered. A benefit to using ‘freewill’ is that it is readily read as referring to a faculty rather than an act. A disadvantage, however, is that ‘arbitrium’
+used by itself cannot be translated as ‘will’ because ‘will’ needs to be reserved for ‘voluntas’. I will translate ‘arbitrium’ with ‘choice’, even though that
+obscures the connection between ‘arbitrium’ and ‘liberum arbitrium’.
+6There are at least two other scholastics with the name ‘Ledesma’, but Pedro de Ledesma seems the likeliest one for Suárez to have in mind here.
+39 stat ] obstat B.
+
+-- 2 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 3
+50 etiam divisim, seu sigillatim sumpti. Ita ut sensus taken separately or individually. Thus the sense is that that
+sit, illam potentiam esse liberam, quae positis om- power is free which still retains in itself the power not to act
+nibus requisitis, adhuc in se retinet potestatem non once all the prerequisites are posited, even though it is not
+agendi, etiamsi stantibus illis omnibus praerequi- possible for it to not act when all those prerequisites obtain.
+sitis, cum illis coniungi non possit, ut non agat, 55R Rather, some one of those prerequisites must be removed in
+55 sed oporteat aliquod ex illis praerequisitis auferri, order for the free power to use its capacity for not acting. In
+ut potentia libera sua potestate non agendi utatur. a similar way when such a power does not act or does not
+Et simili modo quando talis potentia non agit, aut will, it retains the capacity to act, and for that reason it is
+non vult, potestatem retinet agendi, et ideo libera free, although it cannot conjoin that action or volition with
+est, non potest tamen coniungere actionem, vel voli- 60R precisely those prerequisites that concur in the case where it
+60 tionem cum solis illis praerequisitis, quae tunc con- does not will, unless something that is absent is added and
+currunt, quando non vult, nisi aliquid, quod deerat, surpasses the order of nature or of causality.
+addatur, et ordine naturae, seu causalitatis praece- The mentioned authors also approve this way of speaking,
+dat. Et hunc etiam modum dicendi approbant dicti but they reject any other sense of that characterization,
+auctores: in quolibet autem alio sensu illam de- 65R which they also say is not handed down by Aristotle, St.
+65 scriptionem reiiciunt, quam etiam dicunt non esse Thomas, the Master, or any other important doctor, but was
+ab Aristotele, D. Thoma, Magistro, vel aliquo gravi invented by Jacques Almain and other nominalists. And
+doctore traditam, sed ab Almaino, et quibus- <11> thus they easily scorn everything that we said about that
+dam Nominalibus inventam. Et ita facile omnia characterization in Book I of De concursu, motione et auxilio
+contemnunt, quae de illa descriptione in lib. 1. de 70R Dei.
+70 Auxiliis diximus.
+Prima assertio,
+vera est
+definitio
+libertatis in
+titulo posita.
+Victoria.
+4. Nihilominus iterum dicimus descriptionem 4. Nevertheless, we say again that that characterization The first
+assertion: the
+definition of
+freedom
+posited in the
+title is true.
+illam optimam esse, et a gravissimis Auctoribus tra- is best and was handed down by the most important authors,
+ditam vel eisdem, vel aequivalentibus verbis. Imo either in the same words or in equivalent words. In fact, I
+existimo, ante nuperas controversias circa auxilium think that before the appearance of the recent controversies
+75 efficax gratiae exortas, descriptionem illam fuisse 75R about the efficacious help of grace that characterization
+a Doctoribus, et in scholis communiter probatam, was commonly proved by the doctors and in the schools,
+ut affirmat Victoria Relectiones de homine veniente as Francisco de Vitoria affirms in Relectiones theologicae Vitoria.
+ad usum rationis q. 1. propos. 3. ubi etiam ipse XIII (‘On that to which one is held who is coming to the
+illam supponit, licet ad usum liberi arbitrii amplius use of reason’), q. 1, propos. 3, where he also presupposes
+80 requirat. Eamdem supponit tanquam communem 80R it, even though it is more required for the use of freewill.
+Valentia. Valentia 2. tom. disp. 8. q. 5. punct. 4. §. 4. ubi ait Gregory of Valencia supposes the same as the common view Gregory of
+Valencia.	in hoc consistere essentialiter libertatem actionis. in Commentariorum theologicorum tomi quatuor II, disp. 8. q.
+Corduba. Eamdem ponit, ut receptam sententiam Corduba 5, punct. 4, §4, where he says freedom of action consists
+in lib. 1. Quaestionarum q. 55. dub. 9. et 10. et essentially in this. Antonio de Córdoba takes this as the Córdoba.
+85	Nemesius. sumitur ex Nemesio lib. de Natura hominis cap. 85R received view in Quaestionarium theologicum libris quinque
+35. dicente, Esse autem liberum, si eisdem positis distinctum I, q. 55, dub. 9 and 10, and it is taken from
+causis in nobis esset aliquando appetere, aliquando Nemesius, On Human Nature, ch. 35, where he says: ‘but to Nemesius.
+
+-- 3 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 4
+Scotus.
+Gabriel.
+Ocham.
+Marsilius.
+Dionysius.
+Henricus.
+Hervaeus.
+Soto.
+Curielus.
+refugere, etc. Et ex Scoto 2. d. 25. q. unica in fine, be free is, if the same causes are posited in us, sometimes
+et ibi Gabriel n. 3. dub. 3. et 4. et in 1. d. 48. cap. to seek, sometimes to flee . . . ’ It is also taken from Scotus, Scotus.
+Gabriel.
+Ockham.
+Marsilius.
+Dionysius.
+Henry of
+Ghent.
+Hervaeus
+Natalis.
+Soto.
+Curiel.
+90 3. et ibi Ocham et quodlibet 1. q. 16. et Marsilius 90R II, d. 25, the end of the only question; Gabriel, II, d. 25, n.
+2. q. 16. art. 4. et Dionysius Cisterciensis 2. d. 25. 3, dub. 3 and 4, and I, d. 48, ch. 3; Ockham, I, d. 48, ch. 3,
+art. 2. concl. 2. et art. 3. concl. 4. Henricus quodli- and Quodlibet 1, q. 16; Marsilius of Inghen, II, q. 16, art. 4;
+bet 1. q. 16. Hervaeus quodlibet 1. q. 1. Soto lib. Dionysius the Cistercian,7 II, d. 25, art. 2, concl. 2, and art.
+1. de Natura et Gratia cap. 16. ubi ponit illam, ut 3, concl. 4; Henry of Ghent, Quodlibet 1, q. 16; Hervaeus
+95 receptam definitionem liberi arbitrii. Et novissime 95R Natalis, Quodlibet 1, q. 1; and Domingo de Soto, On Nature
+consentit Curielus Controversiae 2. in Epistola 2. and Grace I, ch. 16, where he assumes it as the received
+D. Petri n. 234. Denique ex Aristotele ac D. Thoma definition of freewill. And very recently Juan Alfonso Curiel
+paulo post illam comprobabimus. Ratio autem po- agrees in Controversiae in diversa loca Sacrae Scripturae II,
+tissima est, quia per illa verba optime declaratur in n. 234 of the part on 2 Pet. Finally, we will confirm it
+100 internum dominium voluntatis in actiones suas, et 100R a little later from Aristotle and St. Thomas. But by far the
+proxima potestas operandi, et non operandi, vel chief reason is that the internal control of the will over its
+operandi contrarium, quae vix potest aliis verbis actions and the proximate capacity to act and not to act or
+commodius explicari. to act contrarily is best revealed through those words. It can
+hardly be explained more helpfully through other words.
+Pronuntiata
+liberi arbitrii.
+5. Assumptum declaratur imprimis per varias 105R 5. The assumption is confirmed especially through briefly Accounts of
+freewill.	105 definitiones liberi arbitrii ab aliis traditas breviter discussing the different definitions of freewill given by others.
+discurrendo. Quinque sumi possunt ex Illustris- Five can be taken from the most illustrious Bellarmine, On
+simo Bellarmino lib. 3. de Gratia et libero arbitro et Grace and Freewill III, and he himself adds a sixth, although
+ipse addit sextam, quae tamen proprie definitiones they are not properly definitions but a kind of simple as-
+non sunt, sed quaedam sunt simplices assertiones 110R sertion of some properties of freewill. For it is of this sort
+110 aliquarum proprietatum liberi arbitrii. Tale enim [to assert] that freewill is a ‘rational willing’ or that it is a
+est, quod liberum arbitrium sit rationalis voluntas, ‘capacity for serving rectitude for the sake of rectitude itself’.
+vel quod sit potestas servandi rectitudinem propter Others in a certain way include what is defined in the def-
+ipsam rectitudinem. Aliae quodammodo involvunt inition, as when it is said that choice (arbitrium) is a ‘free
+definitum in definitione, ut cum dicitur arbitrium 115R judgement of reason’, as St. Thomas reports some philoso- St. Thomas.
+The Master.	115 esse liberum de ratione iudicium, ut ex Philosophis phers saying in ST IaIIae.17.1 ad 2, along with the Master in
+D. Thomas.
+Magister.
+refert D. Thomas <col. b> 1. 2. q. 17. art. 1. ad II, at the start of d. 25. Or it is said to be a ‘habit of the mind,
+2. cum Magistro in 2. d. 25. in principio, vel esse free of itself’,8 or to be a ‘consent of the soul on account of
+habitum animi liberum sui, vel esse consensum ob a freedom that cannot be lost’, or a ‘free power to elect or
+inamissibilem animi libertatem, vel liberam potes- 120R accept and to reject’.
+120 tatem eligendi, aut acceptandi, et respuendi. Ut For even if I disregard the other defects that can be
+7Is there a Cistercian Dionysius or does Suárez mean Denis the Carthusian, i.e., Dionysius Cartusiensis?
+8Bernard of Clairvaux, De gratia et libero arbitrio, ch. 1.
+93 quodlibet 1. ] om. V.
+
+-- 4 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 5
+enim omittam alios defectus, qui in his locution- found in these phrases if they are taken as proper defini-
+ibus, si ut propriae definitiones accipiantur, no- tions, every time the name ‘free’ or ‘freedom’ is placed in
+tari possunt; quoties nomen, liberi, vel libertatis, in the definition, the definition includes what is defined and
+definitione ponitur, definitio involvit definitum, et 125R remains just as obscure. For when freewill is put forward
+125 aeque obscura manet, quia cum liberum arbitrium to be defined, one especially desires to be shown what that
+definiendum proponitur, maxime declarari desider- word ‘free’ signifies or what that freedom is in reference to
+atur, quid significet illud, liberum, vel quid sit illa which it is denominated free. But this is not explained in
+libertas, unde liberum denominatur, hoc autem in those characterizations but rather is found in them. For
+illis descriptionibus non declaratur, sed reperitur, et 130R this reason I say that what is being defined is found in the
+130 ideo dico in illis definitum involvi. E contrario vero characterizations. But, conversely, when the Master says in The Master.
+Idem. cum Magister in 2. d. 24. dicit liberum arbitrium II, d. 24, that freewill is the ‘faculty of the will and of reason
+esse facultatem voluntatis, et rationis, qua bonum, by which good and bad are elected’, he neither adequately
+vel malum eligitur, nec adaequate explicat facul- explains that faculty (for freedom can be exercised not only
+tatem illam; quia libertas non solum in electione, 135R in election but also in other acts of the will and not only in
+135 sed etiam in aliis actibus voluntatis, nec solum electing between good and bad but also in electing between
+in electione inter bonum, et malum, sed in elec- multiple goods) nor does he reveal what it is for an election,
+tione inter plura bona exerceri potest: neque etiam consent, or volition to be free, which is what was especially
+declarat quid sit electionem, aut consensum, vel desired. Hence, St. Thomas said in ST IaIIae.1.1, not in St. Thomas.
+volitionem esse liberam, quod maxime desideratur. 140R defining but in asserting, that ‘freewill is a faculty of the will
+140	D. Thomas. Unde D. Thomas 1. 2. q. 1. art. 1. non definiendo, and of reason’, and as it were silently completing the char-
+sed asserendo dixit, liberum arbitrium esse facul- acterization, he adds that that faculty is the one ‘through
+tatem voluntatis, et rationis, et quasi tacite com- which a human being is in control of his acts’. He suggests
+plens descriptionem, addidit illam facultatem esse through this that a power’s freedom consists in its control
+per quam homo est dominus suorum actuum. Per 145R over its acts. Control, moreover, is the faculty of using and What control
+is.	145 hoc insinuans, libertatem potentiae consistere in not using or doing and not doing. For this reason, some
+Dominium
+quid sit.
+dominio sui actus. Dominium autem est facultas moderns say that freewill is the ‘faculty of the will and of
+utendi, et non utendi, seu faciendi, et non faciendi, reason for either’, that is, for doing and not doing and for
+et ideo moderni aliqui liberum arbitrium dicunt esse doing one thing or another. This indeed was truly said, and
+facultatem voluntatis, et rationis ad utrumlibet, id 150R it was selected from Aristotle, Metaphysics IX, ch. 3, text. Aristotle.
+St. Thomas.	150 est, agendum, vel non agendum, et agendum unum, 12, and elsewhere, and from St. Thomas, ST IaIIae.6.2 ad 2,
+vel alterum. Quod quidem vere dictum est, et ex IaIIae.13, and Ia.83. But as that is a proprium of freewill, it
+Aristoteles.
+D. Thomas.
+Aristotele desumptum 9. Metaphysicorum cap. 3. must be understood of a proximate power. Otherwise that
+alias text. 12. et ex D. Thoma 1. 2. q. 6. art. 2. ad 2. would not be a proprium of a formally free power. Therefore,
+et q. 13. et 1. p. q. 83. ut autem illud sit proprium 155R in order to explain this it is necessary to add the phrase
+155 liberi arbitrii, debet intelligi de potentia proxima, posited in the given characterization: ‘after all prerequisites
+alias non erit illud proprium potentiae formaliter for acting have been posited’.
+liberae; ergo ad hoc explicandum necessarium est
+addere particulam in dicta descriptione positam,
+
+-- 5 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 6
+positis omnibus praerequisitis ad agendum.
+160	Ex
+aequiparatione
+ad intellectum
+probatur.
+6. Utrumque declarare possumus intellectum 6. We can make both clear by comparing intellect and It is proven
+from a
+comparison to
+the intellect.
+cum voluntate comparando: nam etiam intellectus will. For intellect also has the capacity to act and not act,
+habet facultatem agendi, et non agendi, ut credendi, 160R to believe and not believe, or to dissent and assent, and
+et non credendi, vel etiam dissentiendi, et assen- yet it is not formally free as the will is. It is necessary,
+tiendi, et nihilominus <12> non est formaliter liber, then, to explain this difference in the definition of freewill.
+165 sicut voluntas: ergo necesse est hoc discrimen in That cannot happen without the phrase in question. For
+definitione liberi arbitrii explicare, quod sine illis we assume that freewill is neither multiple powers taken
+particulis non fit. Supponimus enim, liberum arbi- 165R separately nor a collection of powers, but is one power alone
+trium non esse plures potentias divisim sumptas, that is the controller of its acts. But to be a capacity to
+nec collectionem earum, sed unam solam, quae sit do one thing and to do its opposite or to act and not to
+170 domina suorum actuum; esse autem facultatem act applies not just to one power but to many, as was said
+agendi unum, et oppositum, vel agendi, et non about the intellect. It applies in its way even to the sensitive
+agendi, non uni tantum, sed multis potentiis con- 170R appetite, and much more to the will. Therefore, this capacity
+venit, ut dictum est de intellectu; et suo modo con- for either, taken in a general and imprecise way, does not
+venit etiam appetitui sensitivo, et multo magis vol- explain the peculiar nature (proprietas) of this unique and
+175 untati: ergo per hanc facultatem ad utrumlibet gen- simple power that is freewill, nor the proper ratio through
+eratim et indistincte sumptam non explicatur pro- which it is constituted in the ratio of a formally free power.
+prietas illius unicae, ac simplicis potentiae, quae est 175R In order to explain this [kind of power], therefore, one rightly
+liberum arbitrium, nec propria ratio, per quam in ra- adds that it is a power that has the capacity to act and not
+tione potentiae formaliter liberae constituitur. Ergo to act after all the prerequisites for acting have been posited.
+180 ad hoc explicandum merito additur, esse potentiam, For it is through this last phrase that one best explains
+quae habet facultatem agendi, et non agendi positis the intrinsic force of a free power to elicit or sustain an act
+omnibus praerequisitis ad agendum. Per hanc enim 180R through its power alone and not just as the result of the
+ultimam particulam optime explicatur vis intrinseca absence of some condition necessary for acting or for not
+liberae potentiae ad eliciendum, vel sustinendum acting.
+185 actum sola sua potestate, et non ex defectu alicuius
+conditionis necessariae ad agendum, vel non agen-
+dum.
+Sola voluntas
+potest efficere,
+et suspendere
+actum positis
+omnibus
+requisitis.
+7. Unde quia hic modus operandi soli voluntati 7. Hence, since this way of operating applies only to The will alone
+can effect and
+suspend an
+act once all
+the
+prerequisites
+have been
+posited.
+convenit, ideo illa est formaliter libera, et liberum the will, it for that reason is formally free and is freewill.
+190 arbitrium. Intellectus autem non habet hanc facul- 185R The intellect, however, does not have this intrinsic faculty
+tatem intrinsecam ita indifferentem, ut sese possit indifferent in such a way that it can determine itself to act
+determinare ad actum, vel suspendere illum, aut ad or to suspend that act or to determine itself to an opposite
+oppositum se determinare. Nam si obiecti veritas act. For if the truth of the object is evident and it is suf-
+sit evidens, et sufficienter proponatur, ex neces- ficiently proposed, the intellect gives assent by a natural
+195 sitate naturali praebet assensum; si vero non sit 190R necessity. But if it is not evident but only appears probable
+evidens, sed probabilis, vel credibilis appareat, non or credible, the intellect cannot determine itself except by
+
+-- 6 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 7
+potest sese determinare, nisi intercedente voluntate the intercession of will (as is certain in the case of Christian
+(ut in fide Christiana certum est, et idem est cum faith and the same is true with proportion in human cases).
+proportione in humana). Et tunc nunquam intellec- Even in that case no intellect, once all the prerequisites for
+200 tus, positis omnibus requisitis ad agendum, potest 195R acting have been posited, can both act and not act, since
+agere, et non agere, quia unum ex praerequisitis one of the prerequisites for acting is that it be moved by
+ad agendum est, ut moveatur a voluntate, et posita the will. By positing such a motion it cannot fail to act, but
+tali motione non potest non agere, illa autem non if it is not posited then it necessarily does not act, not so
+posita, necessario non agit, non tam ex potentia much from a power for not acting but from an inability to
+205 non agendi, quam ex impotentia agendi. Voluntas 200R act. But the will, once all the prerequisites for acting have
+autem positis omnibus requisitis ad agendum, sicut been posited, just as it can act from an internal capacity
+potest agere ex interna facultate se determinando, for determining itself without the motion of another power,
+sine motione alterius potentiae, ita ex eadem interna so also from the same internal capacity it can not act, by
+facultate potest non agere, suspendendo suum in- suspending its influence with its internal power and control.
+210 fluxum ex interna vi, et dominio, vel etiam ex eadem 205R By the same capacity, it can also do something else or do
+facultate aliud, seu contrarium agendo, si ex parte a contrary thing, if on the part of the object a sufficient
+obiecti suffi- <col. b> ciens propositio ad utrumque proposal of each option was made. Therefore, through that The phrase
+‘once all the
+prerequisites
+have been
+posited’ fills in
+the definition
+of freewill.
+Particula,
+positis
+omnibus
+requisitis,
+complet
+definitionem
+liberi arbitrii.
+facta sit. Per illam ergo particulam optime com- phrase the characterization of freewill is best filled in, not
+pletur descriptio liberi arbitrii, non excludendo, vel by excluding or rejecting the other ones, but by explaining
+215 reprobando alias, sed explicando, de qua potestate 210R of what power of acting it should be understood so that it
+agendi intelligi debeant, ut bonae sint, utique de is good. It should certainly be understood of a proximate
+potestate proxima, quae per se ad utramque partem power that through itself can turn to either option without
+flecti possit sine mutatione status, ut sic dicam, per a change in its state (if I may call it that), through which
+quam scilicet mutationem impotens ad agendum, change, namely, it is made unable to act or unable not to
+220 vel non agendum fiat. 215R act.
+Secunda
+assertio.
+Descriptio
+libertatis in
+sensu
+composito est
+intelligenda.
+8. Secundo hinc dicimus, descriptionem illam 8. Second, from this we say that that characterization The 2nd
+assertion: the
+characteriza-
+tion of freedom
+should be
+understood in
+the composed
+sense.
+in sensu composito esse intelligendam, sicut ab om- should be understood in the composed sense, just as it is
+nibus auctoribus, qui illam attigerunt, est intellecta. understood by all the authors who touch on it. This is easily
+Et probatur facile, quia positis omnibus praerequisi- proven, because that something is able not to act in the
+225 tis ad agendum, posse non agere in sensu diviso, id 220R divided sense once all the prerequisites for acting have been
+est, retinere potestatem ad non agendum, ablata ali- posited—that is, that it retain the capacity for not acting with
+qua conditione ex praerequisitis, non est proprium the removal of some condition among the prerequisites—is
+potentiae liberae, sed cuilibet naturaliter agenti con- not the proprium of a free power but applies to anything
+venit. Nam sol etiam ita illuminat, cum omnia req- acting naturally. For the sun also illuminates in that way
+230 uisita concurrunt, ut possit non illuminare, si fen- 225R with all the prerequisites concurring, so that it is able not
+estrae claudantur, et oculus videt obiectum impri- to illuminate if the windows are closed, and the eye sees
+mens speciem, et aptus est ad carendum visione, si an object that is imprinting a species but is ready to lack
+auferatur species: et intellectus ipse dum credit a that vision if the species is removed. And the intellect itself
+voluntate motus potens est ad non credendum, si that believes as long as it is moved by the will is able not
+
+-- 7 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 8
+235 voluntas aut non moveat, aut in contrarium actum 230R to believe if the will either ceases to move it or inclines it
+inclinet: non enim suam potentiam in actu primo, to some contrary act. For it does not lose its power in first
+quam innatam habet ad utrumque actum, amittit, act that it has innately for either act when it is applied to
+quando ad credendum per voluntatem applicatur: believing by the will. Therefore, once all the prerequisites
+ergo positis omnibus requisitis est potentia non cre- have been posited, the power not to believe or to dissent
+240 dendi, vel dissentiendi in sensu diviso: ergo id non 235R still exists in the divided sense. That, then, is not enough
+est satis ad potentiam formaliter liberam: vel di- for a power to be formally free. Or it must be said that the
+cendum est, intellectum esse potentiam formaliter intellect is a formally free power. But that is not true and is
+liberam, quod nec verum est, neque a dictis auc- not granted by the mentioned authors. Therefore, in order to
+toribus admittitur: ergo ut illis verbis formalis lib- explain the formal freedom of the will through those words,
+245 ertas voluntatis explicetur, necesse est, ut in sensu 240R it is necessary that they be taken in the composed sense.
+composito accipiantur.
+Probatur ex
+voluntate
+beata.
+9. Idem argumentum sumi potest ex ipsamet 9. The same argument can be taken from the will itself. It is proven
+with reference
+to the blessed
+will.
+voluntate: nam in beatitudine non libere, sed neces- For in the blessed state, the blessed do not love God freely
+sario beatus amat Deum, quia positis praerequisitis but love him necessarily, since once the prerequisites for
+250 ad illum amorem, non potest non amare in sensu that love have been posited, they cannot not love in the
+composito, et nihilominus ibi etiam retinet potes- 245R composed sense, yet here also they retain the power not
+tatem non amandi in sensu diviso: nam si visio ad to love in the divided sense. For if the vision that is a
+illum amorem requisita auferatur, poterit voluntas prerequisite for that love were removed, the will would be
+ab illo amore cessare; sicut in Paulo contigit, si in able to cease from that love (as happened in the case of Paul,
+255	Evasionis
+ventilatio.
+raptu Deum vidit. Neque refert, quod illa necessitas if he saw God when he was taken up9). Nor is it relevant that Airing an
+evasion.	aliunde proveniat, nimirum ex vi obiecti, et visio- 250R that necessity comes from a different source, namely, from
+nis, quia nihilominus sub illa manet potestas ad the force of the object or of the vision, since, nevertheless,
+non amandum in sensu diviso, et in hoc tantum the power not to love remains in the divided sense under
+<13> fit aequiparatio. Deinde voluntas in actibus that necessity, and it is only about this that a comparison
+260 indeliberatis, quales sunt etiam motus gratiae ex- is being made. In addition, the will acts from necessity
+citantis, ex necessitate, et sine libertate operatur: 255R and without freedom in undeliberated acts of the kind to
+quia positis praeviis requisitis ad illum actum, non which the motions of gratia excitans belong. For once all
+potest actum continere, cum tamen in sensu di- the previous prerequisites for that act are posited, the will
+viso possit ab illo cessare, ut constat. Quin potius cannot restrain that act, yet it can cease from it in the divided
+265	Idem in brutis
+probatur.
+etiam in brutis idem genus indifferentiae invenire- sense, as is clear. In fact, the same kind of indifference can The same is
+proven in the
+case of brute
+animals.
+tur, possunt enim sponte sua, et moveri, et qui- 260R even be found in brute animals. For they can spontaneously
+escere, et ad unam partem, et ad oppositum moveri. both move and rest, and move to one option and to the
+Aristoteles. Propter quod dixit Aristoteles 8. Physicorum text. opposite option. For this reason Aristotle said in Physics Aristotle.
+40. habere in seipsis moveri, et non moveri, et ideo VIII, text. 40, that they have it in themselves to move and
+270 quando positis omnibus requisitis aliquid appetunt, not to move. And so when all the prerequisites for desiring
+9See 1 Cor. 12:1–4.
+
+-- 8 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 9
+potestatem retinent ad cessandum ab illo appetitu, 265R something are posited, they retain the power in the divided
+et ad contrarium appetendum in sensu diviso, id sense (that is, if one of those prerequisites is removed or
+est, si aliquod ex illis praerequisitis auferatur, vel another different one is introduced) for ceasing from that
+aliud diversum adhibeatur. Et nihilominus, quia desire and for desiring something contrary. Nevertheless,
+275 positis praerequisitis ita ad unum determinantur, since once the prerequisites have been posited they are
+ut in sensu composito, id est, illis stantibus, nec 270R determined to one thing in such a way that in the composed
+aliud appetere, nec ab illo appetitu cessare valeant, sense (that is, with the prerequisites in place) they do not
+S. Thomas. ideo sine libertate operantur. Unde D. Thomas q. 24. have the power to desire something else or to cease from
+de Veritate art. 2. In brutis (ait) est quaedam simil- that desire, they operate without freedom. Hence St. Thomas St. Thomas.
+280 itudo liberi arbitrii, in quantum possunt agere, vel says in On Truth, q. 24, art. 2: ‘There is a certain semblance
+non agere unum, et idem, secundum suum iudicium, 275R of freewill in brute animals, insofar as they can, according
+[. . . ] sed quia eorum iudicium est determinatum ad to their judgement, do or not do one and the same thing
+unum, per consequens eorum appetitus, et actio ad . . . . But because their judgement is determined to one thing,
+unum determinatur. Et in solutione ad 2. et 3. dicit their appetite and action are consequently also determined
+285 esse in brutis quamdam indifferentiam actionum, to one thing.’ And in ad 2 and 3 he says that in brute animals
+quia eorum potentia motiva non magis inclinatur ex 280R there is a certain indifference in their actions, since their
+se ad unum motum, quam ad alium, et idem suo motive power is not of itself more inclined to one motion
+modo esse in appetitu eorum, et tamen non esse than another and the same is true in its way with their
+libertatem, quia posita apprehensione, et iudicio appetite. And yet they are not free, since they are determined
+290 phantasiae, ad unum determinantur. Ex quibus to one course once the apprehension and the judgement of
+verbis colligimus, necessarium esse ad libertatem, 285R imagination are posited. From these words we gather that it
+ut stante eodem iudicio cum talibus praerequisitis is necessary for freedom that while standing with the same
+tam actio, quam non actio sit in potestate agentis, judgement along with such prerequisites both the action and
+nec satis esse, quod in eo sit potestas ad agendum, non-action are in the power of the agent. It is not enough
+295 et non agendum, variato iudicio: nam hanc etiam that the power for acting and not acting be in it with changed
+potestatem habent bruta: eadem autem ratio est de 290R judgements. For brute animals also have this power. The
+caeteris praerequisitis, ut mox dicam. argument is the same, moreover, for the other prerequisites,
+as I will say shortly.
+Ratio
+convincens.
+10. Ratio denique hanc partem convincit, quia 10. Finally, reason establishes this part, since not just Establishing
+reason.	non quaelibet potestas agendi, et non agendi ad any power for acting and not acting suffices for freedom,
+300 libertatem sufficit, sed illa quae est ex interna potes- 295R but [only] that which results from an internal capacity and
+tate, et eminenti virtute, ac dominio (ut in praece- eminent power and control (as I showed in the previous
+denti capite declaravi:) at vero ita operari positis chapter). On the other hand, to operate in such a way that
+omnibus requisitis ad agendum, ut solum possit fac- once all the prerequisites for acting have been posited the
+ultas ab operatione cessare in sensu diviso, id est, faculty can only cease from operation in the divided sense—
+305 sublato aliquo ex requisitis, non est posse cessare 300R that is, by removing something from the prerequisites—is not
+ex interna potestate, et dominio actionis: ergo non to be able to cease by virtue of an internal power and control
+satis est ad libertatem. Minor <col. b> probatur, over the action. Therefore, it is not enough for freedom. The
+
+-- 9 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 10
+quia tunc non cessatur ex potestate non agendi, sed minor is proven: for in that case it would not cease in virtue
+potius ex impotentia agendi, quia nimirum nulla of a power for not acting but in virtue of an inability to act,
+310 causa agere valet, nisi positis omnibus requisitis ad 305R namely, because no cause has the strength to act without
+Confirmatio. agendum. Et confirmatur, quia alias postquam vol- all the prerequisites for acting having been posited.
+untas positis omnibus praerequisitis velle incepit, It is confirmed, for otherwise after the will begins to will Confirmation.
+non poterit sua sponte ab actuali voluntate ces- once all the prerequisites have been posited, it could not
+sare, stantibus iisdem praerequisitis, sed oportebit spontaneously cease from the actual willing as long as the
+315 aliquod illorum auferri, ut ipsa cesset; hoc autem 310R same prerequisites stand. It would be necessary that some-
+est, et contra experientiam, et contra usum liber- thing be removed from the prerequisites in order to cease
+tatis: ergo. Sequela probatur: nam eadem est ratio from that willing. But this is both contrary to experience and
+de inceptione actus, et de perseverantia in illo: imo contrary to the use of freedom. Therefore. The consequence
+aliqui existimant magis necessariam esse continua- is proven: for the reasoning is the same about the inception
+320 tionem, quam inceptionem, saltem pro brevi morula, 315R of the act as about persevering in it. In fact, some people
+quod nec verum est, nec nostra nunc refert: satis think the continuation is more necessary than the inception,
+enim est, quod aequalis ratio intercedat. Si ergo at least for brief delays. This is neither true nor relevant
+voluntas, stantibus omnibus praerequisitis ad per- for us at present. For it is enough that there be an equal
+severandum, potest sua sponte, et interna vi ab reason. If, therefore, the will once all the prerequisites for
+325 amando cessare, componendo simul illam cessa- 320R persevering have been posited can spontaneously and by
+tionem cum illis praerequisitis, eadem profecto, vel an internal power cease from loving, by bringing together at
+maiori ratione poterit non inchoare amorem, stan- the same time that cessation with those prerequisites, then
+tibus omnibus praerequisitis, negationem agendi surely there is just as much reason or more that it could
+cum eisdem praerequisitis simul componendo, vel not begin to love with all the prerequisites standing, but
+330 si hoc posterius non potest, profecto nec illud prius 325R bringing together at the same time a negation of acting with
+potest. Unde ulterius confirmatur a contrario, quia the same prerequisites. Or, if the latter is not possible, then
+si positis illis praerequisitis non relinquitur potestas certainly the former is not possible either. Hence, it is further
+non agendi in sensu composito, ergo ex potentia sic confirmed a contrario. For if with those prerequisites posited
+constituta cum omnibus praerequisitis necessario the power not to act does not remain in the composed sense,
+335 sequitur actio; ergo talis actio non est libera, cum 330R then the action necessarily follows from the power set up
+ex necessitate sequatur ad potentiam antecedenter in that way with all the prerequisites. Therefore, such an
+ad omnem usum libertatis ita dispositam, ut cum action is not free, since it follows of necessity on the power
+tali dispositione non possit actionem continere, et in that condition antecedently to any use of freedom, so that
+sine illa praeparatione non possit illam elicere. when it is in such a condition the power cannot hold back
+335R the action and without that preparation cannot elicit it.
+340	Ultima
+confirmatio ex
+absurdo
+oppositae
+sententiae.
+Capreolus.
+11. Tandem confirmatur, quia ex altera senten- 11. Finally, it is confirmed by the fact that it follows from The last
+confirmation
+from the
+absurdity of
+the opposite
+view.
+Capreolus.
+tia sequitur, voluntatem nunquam habere poten- the other view that the will never has the proximate power to
+tiam proximam agendi, et non agendi: consequens act and not to act. But the consequent is contrary to the use
+332 si ] sic B.
+
+-- 10 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 11
+est contra libertatis usum: ergo. Sequela probatur, of freedom. Therefore. The consequence is proven: as Capre-
+quia ut recte dixit Capreolus in 2. d. 28. q. 1. art. 3. 340R olus rightly said in II, d. 28, q. 1, art. 3, ad 2 and 3, against
+345 ad 2. et 3. contra quartam conclusionem, potentia the fourth conclusion, that a power in the divided sense
+in solo sensu diviso solum est potentia remota, et alone is only a remote power and that a proximate power
+potentia proxima includit omnia requisita ad actum, includes all the prerequisites for the act, as we reported from
+Potentia in
+sensu diviso
+est potentia
+remota.
+ut supra ex Scoto retulimus. Et probatur clare, Scotus above. It is clearly proven, for that which is called A power in the
+divided sense
+is a remote
+power.
+quia illa, quae dicitur potestas solum in sensu di- 345R a power only in the divided sense cannot be immediately
+350 viso, non potest immediate reduci ad actum, sed reduced to act, but it is necessary that some condition or
+oportet, ut praecedat aliqua dispositio, aut mutatio, change precede by which the power is rendered proximate,
+qua potentia reddatur proxima, acquirendo aliquid by acquiring something necessary for the act or removing
+necessarium ad actum, vel tollendo impedimentum something impeding the act. For example, a human being
+actus, ut homo carens lumine gloriae dicitur potens 350R lacking the light of glory is said to be able to see God, not
+355 ad videndum Deum, non in <14> sensu composito, in the composed sense but in the divided sense, that is, by
+sed diviso, id est, ablata illa carentia, et ideo illa the removal of that lack, and for this reason that power is
+potentia est remota: idemque in universum inveni- remote. The same thing is universally found in every act
+etur in omni actu possibili in sensu tantum diviso. that is possible only in the divided sense. If, therefore, once
+Si ergo voluntas positis omnibus praerequisitis ad 355R all the prerequisites for acting have been posited the will is
+360 agendum, potest non agere tantum in sensu diviso, able not to act only in the divided sense, it is not in this case
+non est tunc potentia proxima ad non agendum, sed a proximate power for not acting, but only a remote power.
+tantum potentia remota. Et e contrario quando non Conversely, when it does not have all the prerequisites for
+habet omnia praerequisita ad agendum, non est acting, it is not a proximate power for acting but only a re-
+potentia proxima ad agendum, sed tantum remota, 360R mote power. Therefore, it is never a proximate power for both
+365 nunquam ergo est potentia proxima ad agendum, acting and not acting, but only for one or the other. But the
+et non agendum, sed ad alterum tantum. Minor minor or the falsity of the consequent is proven, for in this
+autem, seu falsitas consequentis probatur, quia hoc way the true use of freedom is removed in the effect. For a
+modo tollitur in effectu verus usus libertatis: quia remote power is not really exercised or reduced to act except
+potestas remota revera non exercetur, nec reduci- 365R when constituted in a proximate state. For example, in order
+370 tur in actum, nisi in statu proximo constituta, ut to be black a power that has white cannot be reduced to
+potestas, quam habet album, ut sit nigrum, non re- act except the whiteness be removed. As long as that power
+ducitur in actum, nisi ablata albedine, et quamdiu is under whiteness, it cannot exercise the act of the other
+illa potentia est sub albedine, non exercet actum al- capacity. And so on for the other cases. Therefore, if the will
+terius potestatis, et sic de aliis; ergo si voluntas nun- 370R is never in proximate power to both the act of doing and the
+375 quam est in potentia proxima ad utrumque actum act of not doing, or to doing this or that, it never exercises a
+agendi, et non agendi, vel agendi hoc, aut illud, nun- free power, since it only exercises that part to which it was
+quam exercet potestatem liberam, quia solum eam proximately prepared. This is especially convincing if the
+partem exercet, ad quam proxime est praeparata. matter is considered morally. For no use of freedom is given
+346 solo ] om. V.
+
+-- 11 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 12
+Quod maxime urget, rem moraliter considerando: 375R unless when a lack of action can be imputed to the agent
+380 quia non datur usus libertatis, nisi quando oper- and conversely. But a remote power that cannot be reduced
+anti imputari potest carentia actionis, et e converso: to a proximate power through the will itself (that power in
+at vero ad hoc non satis est potentia remota, quae the divided sense is of this sort) is not sufficient for this. For
+non potest ad proximam reduci per ipsam volun- once all the prerequisites for acting that precede freedom
+tatem, qualis est illa potestas in sensu diviso: quia 380R have been posited, it is not in the power of a human being
+385 positis omnibus praerequisitis ad agendum, quae to bring those together with the lack of an action. Therefore,
+antecedunt libertatem, non est in potestate hominis it cannot be imputed to him that in that case he did not
+cum illis componere carentiam actionis: ergo non abstain from such an action. Therefore, the action itself also
+potest illi imputari, quod tunc non abstineat a tali cannot be attributed to him as free, that is, as proceeding
+actione: ergo nec actio ipsa illi potest tribui, tan- 385R from a control over acting and not acting. It is necessary,
+390 quam libera, id est, tanquam procedens ex dominio then, to understand that characterization in the composed
+agendi, et non agendi, ut ergo per illam descrip- sense in order for true freedom to be explained through it.
+tionem vera libertas explicetur, oportet, ut in sensu
+composito intelligatur.
+Tertia assertio
+subterfugia
+praecludens.
+12. Dico tertio, descriptionem intelligendam 12. I say, third: that characterization should be under- 3rd assertion,
+precluding a
+subterfuge.
+395 esse de omnibus praerequisitis sive ex parte Dei, stood to be about all the prerequisites, whether on the part
+sive ex parte aliarum causarum, et nisi ita intel- 390R of God or on the part of other causes. Unless understood in
+ligatur, non satis definiri libertatem, ut in actum that way, it is not sufficient for defining freedom, so that it
+liberum in ipso usu prodire possit. Haec assertio can advance to a free act from a use of that freedom. This
+solum ponitur propter priorem partem: nam de al- assertion is only made on account of the first part, for the
+400 tera non est controversia. Est autem iuxta mentem other part is not controversial. It is, moreover, according to
+antiquorum doctorum, qui descriptionem illam tra- 395R the mind of the venerable doctors who handed down that
+diderunt, vel ut certam supposuerunt; quia nec Dei characterization or assumed it as certain, since they do
+concursum, aut voluntatem ab illa excipiunt, sed not remove either the will or the concursus of God from it.
+pu- <col. b> tant, vel non pertinere ad illa praereq- Rather, they either think that those do not belong to those
+405 uisita, vel si aliquo modo pertinet, cum illa, et aliis, prerequisites or, if they do belong in some way, both acting
+ut antecedunt, posse componi tam agere, quam 400R and not acting taken individually can be brought together
+non agere divisim sumpta, ut videre licet in Cor- with the concursus and the other prerequisites. This may
+Corduba. duba supra, et aliis, quos ipse refert, et propterea be seen in Córdoba, cited above, and in others to whom he Córdoba.
+dicere etiam solet non posse eundem effectum esse refers. For this reason it is also customary to say that the
+410 simul evitabilem in ordine ad causam secundam, et same effect cannot be avoidable in relation to the secondary
+Caietanus.
+Waldensis.
+Occam.
+Gregorius.
+Gabriel.
+evitabilem in ordine ad primam, ut sentit Caietanus 405R cause and at the same time be avoidable in relation to the
+1. p. q. 21. art. 4. et Waldensis lib. 1. Doctrinale first cause. Cajetan thinks this in [ST ] Ia.21.4, and Thomas Cajetan.
+Netter of
+Walden.
+Ockham.
+Gregory.
+Gabriel.
+fidei cap. 28. Occam in 1. d. 38. q. 1. Gregorius q. Netter of Walden in Doctrinale antiquitatum fidei ecclesiae
+22. art. 3. Gabriel art. 2. Et propterea cum tota con- catholicae I, ch. 28, Ockham in I, d. 38, q. 1, Gregory in q.
+415 troversia versetur circa concursum, vel motionem 22, art. 3, and Gabriel in art. 2. For this reason, since the
+divinam, in illa sola limitare generalem assertionem, 410R entire controversy turns around the divine concursus or mo-
+
+-- 12 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 13
+videtur esse quaedam petitio principii, vel aperta tion, to limit the general assertion to that alone seems to be a
+destructio, ac negatio illius axiomatis. Ratione idem kind of begging of the question, or a manifest destruction or
+ostenditur, quia omnia, quae generaliter diximus negation of that axiom. The same is shown by reason, since
+420 de praerequisitis ad agendum, aeque procedunt de everything that we said generally about the prerequisites for
+omnibus, et singulis praerequisitis, sive ex parte 415R acting apply equally to each and every prerequisite—whether
+Dei, sive ex parte aliarum rerum, vel causarum on the part of God or on the part of other things or causes
+necessaria sint, et sive dicantur esse aliquid requi- that are necessary, and whether they are said to be some-
+situm in ipsa voluntate, sive in intellectu, sive in thing prerequisite in the will itself or in the intellect or in
+425 alia quacumque re, quae ipsam voluntatem moveat any other thing whatsoever that moves the will to acting, or
+ad agendum, et sive talis motio dicatur esse pro- 420R whether such a motion is said to be a proper cause effecting
+pria causa, efficiens volitionem, sive sit necessaria a volition or is a necessary condition without which such
+conditio, sine qua non stet fieri talem actum, et, an act would not be in a position to come to be and with it
+illa posita, non stet non fieri, dummodo sermo sem- having been posited the act would not be in a position not to
+430 per sit de solis, et propriis praerequisitis, id est, come to be—as long as the discussion is always about the
+ita requisitis, ut omnino praecedant aliquo modo 425R proper prerequisites alone, that is, prerequisites of such a
+causalitate, et ordine naturae in causalitate fundato kind that in some way in causality and in the order of nature
+usum liberum voluntatis: nam de concomitantibus, founded in causality they wholly precede the free use of the
+quae involvunt liberum usum, non loquimur, ut will. For we are not talking about the concomitants that
+435	Assumpti
+probatio.
+capite sequenti declarabimus. Assumptum ergo sic involve free use, as we will explain in the following chapter.
+declaratum probatur specialiter de illo requisito ex 430R Thus explained, therefore, the assumption is proven The proof of
+the
+assumption.
+parte Dei, quod a generali descriptione excipitur, et specifically with respect to the prerequisite on the part of
+vocatur motio Dei. Nam si illa motio est unum ex God that is taken out of the general characterization and is
+praerequisitis, et simpliciter necessaria, ut volun- called the motion of God. For if that motion is one of the
+440 tas operetur, et illa posita non manet in voluntate prerequisites and necessary without qualification for the will
+potestas ad non operandum, nisi in sensu diviso: 435R to operate and if once it is posited the power not to operate
+ergo, illo praerequisito posito, non est voluntas in does not remain in the will except in the divided sense, then,
+potentia proxima ad non operandum, sed tantum once that prerequisite has been posited, the will is not in
+in remota, quia oportet prius illam motionem au- proximate potency for not acting but only in remote potency,
+445 ferri ab illo, qui illam posuit: nam ipsa voluntas since it is necessary that that motion first be removed by
+non potest illam auferre, quia sicut non fuit facta 440R him who posited it. For the will itself cannot remove it, since
+ab illa, ita neque ab illa pendet, nisi ut a subiecto just as it was not made by the will, so also it does not depend
+recipiente, in cuius potestate non est duratio pas- on the will except as on a receiving subject. The duration
+sionis, sicut nec inceptio eius, ut cap. 2 probatum of a passion is not in the power of the receiving subject just
+450 est: ergo illa potentia in sensu diviso non est potes- as the passion’s inception is not in its power, as was shown
+tas ad liberum usum sufficiens, quia liber usus 445R in ch. 2. Therefore, that power in the divided sense is not
+non est nisi a potestate proxima, ut etiam probavi. a power sufficient for free use, since there is no free use
+<15> Ergo in voluntate sic mota non manet libertas except by a proximate power, as I also proved. Therefore,
+non agendi, et consequenter neque ipsum operari the freedom not to act does not remain in a will moved in
+
+-- 13 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 14
+455 liberum est. Et eadem ratione quamdiu illa motio that way, and, consequently, neither is the acting itself free.
+non datur voluntati, solum est in potentia remota, 450R For the same reason, as long as that motion is not given to
+et ex parte receptiva ad agendum, quia oportet, ut the will, the will’s power to act is only remote and on the
+prius recipiat illam motionem, quae non est in potes- receptive side. For it must first receive that motion, which
+tate eius activa, sed receptiva tantum: ergo tunc is not in its active power but only in its receptive power.
+460 non est in potestate libera non agendi, sed in ne- Therefore, then it is not in a free power to not act, but in
+cessitate, et impotentia agendi. Ergo ut salvetur 455R necessity [to not act] and in an inability to act. Therefore,
+libertas, etiam respectu divinae motionis praevia in order to save freedom even with respect to the previous
+requisitae, necessarium est, ut illa etiam posita prerequisite of divine motion, it is necessary (since it is also
+cum aliis praerequisitis, maneat potentia in sensu posited along with the other prerequisites) that the power for
+465 composito ad agendum, et non agendum. acting and not acting remain in the composed sense.
+A simili
+confirmatio.
+13. Confirmatur, et explicatur a simili de po- 460R 13. It is confirmed and explained by analogy to, for A confirmation
+by analogy.	tentia, verbi gratia, scribendi, quae est in manu; example, the power of writing that is in the hand. For it of
+illa enim de se est etiam potentia non scribendi, et itself is also the power not to write and yet is not free. For
+nihilominus libera non est, quia nec potest scribere it can neither write without an action of the will nor can
+470 sine actione voluntatis, nec posita motione volun- it in the composed sense not write when the motion of the
+tatis, potest in sensu composito non scribere, licet 465R will is posited, although remotely and in the divided sense it
+in sensu diviso, et remote possit, utique si voluntas can (at least if the will removes its motion). Therefore, in a
+motionem auferat: ergo simili modo si voluntas non similar way if the will cannot will except when moved by God
+potest velle nisi mota a Deo, et posita motione non and with that motion posited cannot compose an absence
+475 potest cum illa componere carentiam volitionis, licet of volition with that motion (although in the divided sense,
+in sensu diviso, id est, ablata motione, possit non 470R that is, with that motion removed, it could not will), it is no
+velle, non magis est potentia libera, quam potentia more a free power than the moving power that is in the hand.
+motiva, quae est in manu. Simile est de intellectu It is similar with the intellect with respect to the power of
+quoad potentiam assentiendi, et dissentiendi per assenting or dissenting through faith. For it is not formally
+480 fidem: nam in hoc non est formaliter liber, quia free in this, since it can neither assent except when moved by
+nec assentit nisi motus a voluntate, neque si ab illa 475R the will nor can it in the composed sense fail to assent when
+moveatur, potest non assentire in sensu composito, it is moved by the will, but only in the divided sense, which
+sed in diviso: quae divisio (ut sic dicam) non est in division (if I may speak in this way) is not in its active power.
+eius activa potestate. Ergo si ita comparatur volun- Therefore, if the will of a human being is related to the prior
+485 tas hominis ad motionem Dei praeviam, ut sine illa motion of God in such a way that it cannot will without that
+non possit velle, et illa posita non possit non velle 480R motion and once that motion is posited it cannot not will
+nisi in sensu diviso, qui non est in eius potestate except in the divided sense (which is not in its active power),
+activa, profecto non est magis libera voluntas, quam then surely the will is no more free than the intellect. For
+intellectus, quia non potest ipsa active tollere mo- it cannot itself actively remove the motion of God just as it
+490 tionem Dei, sicut non potest eam parere. Quid enim cannot produce it. For what difference does it make that one
+455 motio ] ratio B.
+
+-- 14 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 15
+interest, quod una motio sit a voluntate creata, et 485R motion is from a created will and another from an uncreated
+alia ab increata? profecto haec magis officit liber- will? Surely the latter blocks freedom more, since the motion
+tati; quia motio voluntatis increatae efficacior est, of an uncreated will is more efficacious, deeper, and has
+et intimior, magisque per se influens in effectum. more of a per se influx into the effect.
+495	Adversantium
+responsio.
+14. Respondent constituendo discrimen, quia 14. They respond by setting up a distinction, since the The
+adversaries’
+response.
+voluntas creata, licet sit mota a Deo, retinet in- 490R created will although it is moved by God retains the intrinsic
+trinsecam potestatem non eliciendi talem actum, si power not to elicit such an act if it wills, a power that the
+velit, quod non habet intellectus, nec alia potentia intellect and another naturally acting powers do not have.
+Impugnatur. naturaliter agens. Sed hoc <col. b> non potest sat- But this cannot be satisfactory. First, because that intrinsic It is rejected.
+500 isfacere. Primo, quia illa potestas intrinseca ad non power for not eliciting an act that is said to remain in the will
+eliciendum actum, quae dicitur manere in voluntate 495R moved by God is a power for not eliciting the act either [i] in
+mota a Deo, vel est ad non eliciendum actum in the composed sense, that is, by holding back the act without
+sensu composito, id est, sustinendo actum non ob- hindering the motion and existing simultaneously with it—
+stante motione, et illa simul stante: et in hoc sensu and the distinction is best in this sense, but then we are
+505 optimum est discrimen, tamen per illum datur no- given everything that we intended—or [ii] that power exists
+bis, quod intendimus. Vel illa potentia est tantum 500R in the divided sense only—and in that way it is surely the
+in sensu diviso, et sic eadem profecto est in poten- same in the moving power [of the hand] and in the intellect.
+tia motiva, et in intellectu, quia si motio voluntatis For if the motion of the will ceases, it is in accordance with
+cesset, ex intrinseca natura talium potentiarum est, the intrinsic nature of such powers that they do not elicit
+510 ut actum non eliciant, quia natura sua ita subor- the act, since by their nature they are subordinated to the
+dinantur voluntati quoad tales actus, ut si ab illa 505R will with respect to such acts in such a way that they do
+non applicentur, illos non eliciant, multo autem not elicit an act if they are not directed [to it] by the will.
+magis dicitur pendere voluntas hominis ab actuali But much more is the will of a human being said to depend
+applicatione, et praemotione Dei: ergo sub illa mo- on the actual application and premotion of God. Therefore,
+515 tione non magis habet potentiam intrinsecam non the will no more has an intrinsic power not to will under
+volendi, quam intellectus, vel manus sub motione 510R that motion than the intellect or hand [has such an intrinsic
+voluntatis. Unde fit, ut sicut non posita motione vol- power] under the motion of the will.
+untatis non solum potest intellectus non assentiri, The result is that just as in the case where the motion
+vel manus non moveri, sed etiam necessario non of the will is not posited the intellect not only can not as-
+520 assentit, nec movetur, ita iuxta illam sententiam sent and the hand not move but also necessarily does not
+non posita motione Dei, voluntas necessario non 515R assent and not move, so also according to that view when
+vult: ergo non vere dicitur in sensu diviso, id est, the motion of God is not posited the will necessarily does
+ablata motione, posse non operari, si velit, sed di- not will. Therefore, it is not rightly said that in the divided
+cendum est ablata motione necessario non operari. sense, that is, with the motion removed, it can not operate
+525 Nam sicut non potest componi carentia operatio- if it wished. Rather, it should be said that with the motion
+nis cum motione, ita non potest componi operatio 520R removed it necessarily does not operate. For just as the
+493 increatae ] increata B.
+
+-- 15 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 16
+Elucidatur
+similitudine.
+cum carentia motionis. Declaratur a simili, nam absence of operation cannot be composed with the motion,
+ablata cognitione non recte dicetur voluntas posse so also operation cannot be composed with the absence of
+ab intrinseco carere volitione, si velit, sed dicen- motion.
+530 dum potius est, non posse velle, et necessario non It is explained by analogy, for with the removal of cog- It is elucidated
+by similarity.	velle: sed non minus necessaria est (iuxta illam 525R nition the will is not rightly said to be able intrinsically to
+sententiam) ad volendum motio Dei, quam motio lose volition if it wills. It should be said, rather, that it is un-
+intellectus: ergo in illo sensu diviso, id est, si mo- able to will and necessarily does not will. But (according to
+tio Dei desit, non habet voluntas potestatem non that view) the motion of God is no less necessary for willing
+535 operandi, si velit, sed est in potentia necessario non than the motion of the intellect is. Therefore, in that divided
+volendi: quae (ut supra dicebam) est quaedam im- 530R sense—that is, if the motion of God is missing—the will does
+potentia volendi. Quapropter illa particula, si velit, not have the power not to act if it wills, but it is in its power
+nullo modo potest ibi locum habere, quia ablata mo- necessarily not to will, which (as I said earlier) is a kind of
+tione Dei, non potest homo velle; ergo cum dicitur, inability to will.
+540 si velit, ponitur conditio impossibilis. Aut enim illud, Therefore, that phrase ‘if it wills’ can in no way have
+si velit, intelligitur de voluntate directe per actum 535R a place here, since with the motion of God removed, the
+positivum volendi suspendere alium actum, et hoc human being cannot will. Therefore, to say ‘if it wills’ is
+dici non potest, quia neque id est necessarium ad to posit an impossible condition. For either [i] ‘if it wills’
+non agendum libere, ut est probabile, nec illud est is understood as the will directly through a positive act of
+545 possibile in illo sensu diviso, id est, ablata motione willing suspending another act—and this cannot be said,
+Dei; vel intelligitur de voluntate indirecta, et tunc 540R because it is not the case that it is necessary for freely not
+supponi debet proxima potentia volendi, quae non acting, as is probable, nor is that possible in that divided
+est sine motione <16> Dei, quia adhuc voluntas est sense, that is, with the motion of God removed—or [ii] it
+ex parte in potentia tantum receptiva: ergo tunc non is understood about the will indirectly and then one must
+550 habet locum conditio, si velit, quia non voluntarie, assume a proximate power for willing. Such a power does
+sed necessario caret voluntatis actu, quia a Deo non 545R not exist without the motion of God, since thus far the will is
+movetur. in part only a receptive power. Therefore, then, the condition
+‘if it wills’ has no place. For the act of will is absent not
+voluntarily but necessarily, since it is not moved by God.
+15. Est igitur eadem ratio de quolibet requi- 15. There is, therefore, the same argument concerning
+sito ex parte Dei, quae est de aliis causis. Nam si 550R any prerequisite on the part of God that there is concerning
+555 tale est requisitum ex parte Dei, ut cum illo non any other cause. For if the prerequisite on the part of God
+sit potentia non agendi nisi in sensu diviso, revera is such that when it is present there is no power for not
+non est potentia suspendendi volitionem per intrin- acting except in a divided sense, then there really is no
+secum dominium in illam, sed per quamdam im- power for suspending volition through an intrinsic dominion
+potentiam, quia si auferatur illud requisitum, sine 555R in it but only through a kind of impotency. For if that
+560 illo non potest velle, sicut non potest operari sine prerequisite is removed the will cannot will without it, just
+concursu Dei. Et similiter potentia illa in sensu di- as it cannot operate without the concursus of God. Likewise,
+viso, etiamsi sit respectu praemotionis necessariae that power in the divided sense, even if it is with respect to
+
+-- 16 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 17
+ex parte Dei, est tantum potentia remota, quia debet a necessary premotion on the part of God, is only a remote
+prius auferri motio Dei, ut talis potentia reducatur 560R power, because the motion of God must first be removed so
+565 in actum non volendi, et auferre illam motionem that such a power is reduced into the act of not willing, and
+non est in potestate ipsius voluntatis, quia ad il- to remove that motion is not in the power of the will itself
+lam solum passive se habet. Unde etiam hic habet since it is related to that only in a passive way.
+locum illa ratio, quod nec possit imputari homini Hence, here also is a place for that argument that the
+carentia volitionis, quando non recipit motionem 565R absence of a volition cannot be imputed to a human being
+570 Dei, quia ante motionem non est in potentia prox- when they did not receive the motion of God. For before the
+ima, et non habet in sua potestate motionem, per motion they are not in proximate potency and do not have
+quam in proxima potentia constituatur, sed solum in their power the motion through which to be placed in
+est ad illam in potentia passiva, et ita non potest proximate potency but are only in passive potency to that
+illi imputari, quod illam non habeat, et post mo- 570R motion. And thus what they do not have cannot be imputed
+575 tionem non potest voluntati moraliter tribui, quod to them. After the motion, not suspending the act or not
+actum non suspendat, vel quod suum influxum non containing its influx cannot be morally imputed to the will,
+contineat, quia posita motione non potest, et illa since once the motion is posited the will cannot [suspend
+motio ponitur sine influxu eius. Ergo ad veram lib- the act] and that motion is posited without its influx.
+ertatem salvandam sensus compositus universaliter, 575R Therefore, in order to save true freedom the composed
+580 et sine exceptione necessarius est respectu omnium, sense is universally and without exception necessary with
+quae proprie sunt praerequisita ad agendum, sive respect to everything that is properly a prerequisite for acting,
+ex parte causarum secundarum, sive ipsius Dei. whether on the part of secondary causes or on the part of
+God.
+Opposito
+fundamento fit
+satis.
+16. Ad fundamentum contrariae sententiae, 580R 16. In response to the foundation of the contrary view, The
+foundation of
+the opposing
+view is
+satisfied.
+negamus priorem partem de concursu praevio, suf- we deny the first part concerning the previous concursus.
+585 ficit enim simultaneus, qui ut in re ipsa datus non For a simultaneous one suffices, which as it is given in the
+est ex praerequisitis ad volendum, sed est con- thing itself is not among the prerequisites for willing but is a
+comitans, et cum illo involvitur usus libertatis. Ut concomitant. With that the use of freedom is involved. But
+vero est tantum in actu primo, est ex praerequisi- 585R insofar as it is only in first act, it is among the prerequisites.
+tis: verumtamen cum illo in eo statu posito, seu Nevertheless, when in that state it is posited or offered on
+590 oblato ex parte Dei, potest simul componi carentia the part of God, it can at the same time be composed with
+actus, ad quem supponitur concursus in actu primo the absence of the act for which the offered concursus in the
+oblatus. Et eodem modo dicendum est ad alteram first act is presupposed.
+partem de voluntate Dei. Concedimus enim aliquam 590R The same thing should be said about the other part
+voluntatem Dei esse praeviam ad volitionem homi- concerning the will of God. For we concede that some willing
+595 nis, et nihilominus dicimus cum illa posse simul of God is prior to the human being’s volition, and yet we say
+componi, tam non agere, quam age- <col. b> re, that at the same time not to act and to act can be composed
+quia non oportet, ut sit voluntas absoluta, quod with that willing, since it is not necessary for there to be
+talis actus fiat, et in rerum natura ponatur, ut recte 595R an absolute willing that such an act occur and be posited
+Soto. dixit Soto 1. de Natura et gratia cap. 16. sed sufficit in rerum natura, as Soto rightly says in De natura et gratia
+
+-- 17 of 18 --
+
+Suárez, De gratia, proleg. 1, cap. 3 18
+600 voluntas includens aliquam conditionem, nimirum I, ch. 16. Rather, a willing that includes some condition—
+voluntas concurrendi cum libero arbitrio hominis namely, a willing concurring with the freewill of a human
+ad hunc, vel illum actum, si ipse cooperari velit, being to this or that act if he himself wills to cooperate, which
+quod semper reIinquitur in manu, et potestate eius. 600R always remains in his hand and in his power—is sufficient.
+Unde merito graves Theologi dixerunt, licet volun- For this reason the important theologians rightly said that
+605 tas Dei ex aeternitate antecedat, nihilominus voli- although the will of God precede from eternity, nevertheless,
+tionem eius, ut determinatur ad volendum concur- its volition as it is determined to willing to concur with a
+rere cum voluntate creata ad talem actum, non esse created will to such an act is not a preceding willing but a
+voluntatem praecedentem sed concomitantem. Haec 605R concomitant one. But this concomitance seems to consist in
+autem concomitantia videtur consistere in obiecto the object of that divine will, by which it wills to concur with
+610 illius voluntatis divinae, qua vult concurrere cum a human will. For it does not will the act of the human will
+humana, quia per illam volitionem non vult actum without qualification and absolutely through that volition,
+voluntatis humanae simpliciter, et absolute, sed but wills it as coeffecting with the human will and, as it
+ut coefficiendum ab eadem voluntate humana et 610R were, under the condition ‘if the human will itself wills to
+quasi sub conditione, si voluntas ipsa humana velit cooperate’. For this reason such a willing by God cannot
+615 cooperari, et ideo talis voluntas Dei nihil operatur perform anything through itself alone nor before the created
+per se sola, neque prius, quam voluntas creata, will simultaneously brings about the effect. And thus it is
+simul efficiat, et ita facile intelligitur, quomodo illae easily understood how those two wills are simultaneously
+duae voluntates simul coniungantur ad eamdem 615R conjoined to the same action. For the divine will is prepared,
+actionem, nam voluntas divina ex aeternitate est as it were, from eternity and has its power applied to co-
+620 quasi praeparata, et habet applicatam potentiam acting with the human will. Hence, when in the temporal
+suam ad coagendum cum voluntate humana. Unde order the human will through its freedom is conjoined to the
+quando in tempore voluntas humana pro libertate divine will, they together bring about the effect.
+sua coniungitur divinae, simul efficiunt.
+600–601 includens aliquam conditionem, nimirum voluntas ] om. V.
+610 qua ] quia B.
+
+-- 18 of 18 --

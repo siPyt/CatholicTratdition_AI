@@ -1,0 +1,299 @@
+Last revision: December 20, 2010	Francisco Suárez, S. J.
+DE FINE HOMINIS DISP. 3, SECT. 21
+© Sydney Penner 2010
+<28, col. a>2
+Utrum possit homo intendere in suis operationibus duos ultimos Whether one can intend in his actions two particular ultimate ends as such.
+fines particulares tantum.
+Arguitur primo
+pro parte neg.
+1. Ratio dubii est primo, quia fieri non potest ut ejusdem effec- 1. The reason for doubting is, first, because it is not able to happen It is argued,
+firstly, for the
+negative side.
+tus dentur duæ causæ totales ejusdem rationis et ordinis: ergo that two complete causes of his reason and order are given for his ef-
+5 neque fieri potest, ut in voluntate dentur duo fines ultimi, et fects. Therefore, it also cannot happen that two ultimate ends are given
+inter se non subordinati, qui voluntatem moveant. Probatur 5R in the will, with no subordination between them, which move the will.
+consequentia, quia alias uterque finis esset causa totalis in suo The consequence is proven: because otherwise each end is the complete
+ordine: nam si essent tantum particulares, jam non essent duo, cause in accordance with its own order. For if they were such partic-
+sed ex utroque conflaretur unus finis: nos autem agimus de ulars, they would no longer be two but one end would be composed
+10 finibus totalibus, ita ut unusquisque sit sufficiens ad moven- out of each. We, however, are discussing about complete ends, so that
+Secundo. dam voluntatem. Unde argumentor secundo, quia ultimis fi- 10R each one is sufficient to move the will. From which I argue secondly, Secondly.
+nis est primum motivum voluntatis, nam est primum in inten- because an ultimate end is the first stimulus3 of the will, for it is first in
+tione: sed non potest voluntas simul, et æque primo moveri a intention. But the will cannot be moved at the same time and equally
+duobus, tum quia sicut repugnat esse duo prima principia, ita firstly by two things. [This is] both because, just as there being two first
+15 etiam duo prima motiva: tum etiam, quia motivum voluntatis principles is repugnant, so also there being two first stimuli [is repug-
+est illud, quo posito movetur voluntas, et sine quo non movere- 15R nant], and also because the stimulus of the will is that by the positing
+tur: nam, ut diximus, agimus de motivo totali: ergo repug- of which the will is moved and without which it would not be moved.
+Tertio. nat hujusmodi motiva simul multiplicari. Tertio, non potest For, as we said, we are discussing about complete stimuli.4 Therefore, it
+idem motus simul terminari ad duos terminos inter se non is repugnant to multiply motives in this way. Thirdly, the same move- Thirdly.
+20 subordinates: ergo nec motio voluntatis ad duos fines; nam ment cannot at the same time be determined by two limits that are not
+finis etiam est terminus hujus motionis, et sicut motus speci- 20R subordinated between themselves. Therefore, neither is the motion of
+ficatur a termino, ita motio voluntatis a fine, repugnat autem the will determined by two ends, for an end is also the goal of its mo-
+Quarto. simul concurrere duo specificativa ejusdem motus. Quarto, tion and just as movement is specified by a limit, so motion of the will
+fieri non potest ut ad eumdem finem simul eligantur, vel ap- [is specified] by an end. It is repugnant, however, to run together at
+25 plicentur duo media æque proxima, seu prima in executione, the same time two specifications of the same movement. Fourthly, it Fourthly.
+1Latin text is from Vivès edition. In some cases I have followed the 1628 edition, though I have not compared the two texts exhaustively. Marginal notes are as found in the
+1628 edition. Most of those, though not all and not always in the right place, are included in the Vivès edition as italicised text. For recorded variants, A = 1628 edition and V =
+Vivès edition.
+2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+3On ‘primum motivum’, see ‘motivus’ in LSTA.
+4Note that before he said de finibus totalibus rather than de motivo totali.
+
+-- 1 of 6 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 2 2
+atque inter se non subordinata, quia non potest actio agentis 25R cannot happen that two equally proximate means (or first in execution
+simul incipere a duobus: ergo neque e contrario possunt duo and not subordinated between themselves) are chosen or applied to the
+Quinto. fines simul intendi. Tandem finis ultimus negative dicitur, ad same end at the same time, because an action of an agent cannot be
+alium non ordinatur; sed omnes fines particulares ordinantur begun by two things at once. Therefore, conversely, neither can two
+30 ad finem ultimum simpliciter et universalem, quia de ratione ends be intended simultaneously. Finally, an ultimate end spoken of Fifthly.
+illius est, ut omnia in ipsum referantur: ergo non possunt dari 30R negatively is not ordered to another, but all particular ends are ordered
+duo fines ita ultimi, quin saltem uterque illorum in unum ter- to an unqualifiedly ultimate and universal end, because it is according
+tium ordinetur. to its ratio that everything is referred to it. Therefore, there cannot be
+given two ends ultimate in this way, without at least one of them being
+ordered to one third thing.
+Notatio pro
+assertionibus.
+2. Advertendum est, sermonem esse posse de duobus 35R 2. It should be noted that the discussion can be about two ends, Notes about the
+assertions.	35 finibus, <col. b> aut respectu ejusdem voluntatis, et eorum- either with respect to the same will and with respect to the same means
+dem mediorum seu ejusdem consultationis et electionis, vel or to the same deliberation and election, or with respect to same will
+tantum respectu ejusdem voluntatis eligentis, et tendentis per choosing and aiming at different ends through different means. In turn,
+diversa media ad diversos fines. Rursus, in ipsis electionibus, in the elections or acts themselves, which are performed for the sake
+seu actibus, qui propter finem fiunt: considerari potest vel ac- 40R of the end, one can consider either the interior act of the will, which
+40 tus interior voluntatis, qui proxime, et immediate fit ex mo- takes place proximately and immediately by the motion of the end or
+tione finis, vel actus exterior, seu imperatus ab illo interiori, the exterior act or the command from that interior [act] by which is
+sub quo comprehenditur omnis executio exterior mediorum comprehended every exterior execution of means and effects which are
+et effectuum, qui fiunt propter finem consequendum. performed for the sake of the end that is to be pursued.
+I. Assertio, de
+finibus ultimis
+negativa, per
+diversa media.
+Suadetur
+exemplis.
+3. Dicendum primo: Eadem voluntas intendere potest 45R 3. First, it should be said that the same will can intend different The first
+assertion
+concerning
+negative ultimate
+ends, through
+different means.
+It is suggested by
+examples.
+45 diversos fines, quorum uterque sit ultimus saltem negative, ends, of which either is ultimate at least negatively and in the same way
+atque eodem modo propter eos ultimate eligere diversa media. can ultimately choose different means on account of those [ends]. This
+Hæc conclusio videtur satis clara primo exemplis, nam potest conclusion seems sufficiently clear from the first example, for a human
+homo simul intendere sanitatem, et eligere media necessaria can at the same time intend health and choose the means necessary for
+ad illam, in ea sistendo, et simul potest intendere honorem, 50R it, in bringing it about, and can at the same time intend honour, for ex-
+50 verbi gratia, et similiter propter illum eligere media consen- ample, and likewise choose appropriate means on account of it. In the
+tanea: sicut etiam artes omnino diversæ tendunt ad diversos same way, entirely different arts also tend to different ultimate ends in
+fines ultimos in sua serie: et homo potest utriusque artis finem their series [of ends]. And a human can at the same time intend the end
+simul intendere; nec fiat vis in verbo, simul, quia ad præsen- of either art. Nor does this just happen because of the force of the term
+tem quæstionem nihil refert, quod physice, aut metaphysice 55R ‘at the same time’ (simul), because nothing in this question suggests
+55 loquendo, possit voluntas simul exercere duos actus, vel non that, speaking in the manner of physics or metaphysics, the will can or
+possit, etsi divus Thomas, prima secundæ, quæst. 12, art. 3, ad cannot at the same time execute two acts, although St. Thomas in [ST ]
+3, hanc quæstionem attingens concedit, posse simul exercere IaIIae.12.3 ad 3, touching on this question, concedes that it can at the
+duos actus, sed nihil refert, quod intelligatur de simultate meta- same time execute two acts,5 but nothing suggests that is understood
+physica, sed sufficit de simultate morali et virtuali: quomodo 60R concerning the simultaneity of metaphysics, but it suffices concerning
+5Ad tertium dicendum quod, sicut in primo dictum est, contingit simul plura intelligere, inquantum sunt aliquo modo unum.
+
+-- 2 of 6 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 2 3
+60 dicimus hominem simul intendere et scientiam, et temporale moral and virtual simultaneity. In this way we say that a human at the
+Item ratione. commodum, et non simul de utroque cogitet. Ratio vero con- same time intends both science and temporal advantage and does not
+clusionis est, quia hujusmodi duo fines non habent inter se think (cogitet) of either. But the reason for the conclusion is, because in And by reason.
+repugnantiam, quia uterque simul potest esse conveniens ho- this way the two ends are not repugnant to each other, because each can
+Argumenta in
+n. 1 hui assertioni
+nec repugnant.
+mini: ergo neque intentiones eorum inter se repugnant. Neque 65R be agreeable to a human at the same time. Therefore, neither are inten-
+65 in eos procedunt argumenta facta, quia illæ intentiones sunt tions of them repugnant to each other. Neither do the arguments that The arguments in
+n. 1 are not
+repugnant to this
+assertion.
+effectus diversi, et consequenter diversæ motiones: unde nihil were made proceed against them, because these intentions are different
+repugnat quod a diversis principiis simul procedant, et ad diver- effects and consequently different motions. Hence, nothing is repug-
+sos terminos tendant. Atque eadem est ratio de variis election- nant that proceeds at the same time from different principles and tends
+ibus, seu operationibus propter hos fines, quia etiam illæ inter 70R to different termini. And the same is the reason for various choices
+70 se non semper repugnant, et ad diversos terminos tendunt. or actions on account of these ends, because even these are not always
+repugnant to each other, and tend to different termini.
+Quorundam
+Evasio
+præcluditur.
+4. Sed dicunt alii utrumque istorum finium ordinari ad 4. But others say that each of these ends is ordered to the agent The evasion of
+certain people is
+avoided.
+ipsum operantem, et ita illum esse finem ultimum utriusque. himself and thus he is the ultimate end for each. But this, in the first
+Sed hoc imprimis non est ad rem, quia operans non est finis 75R place, is not to the point, because the agent is not the finis cuius but the
+<29> cujus gratia, sed cui; finis autem cui non tollit, quin fi- finis cui. The finis cui, moreover, does not do anything, unless the finis
+75 nis cujus sit ultimus in suo ordine, si ad aliud in eodem ordine cuius is ultimate in its order, if it is not directed towards something in
+non referatur, et hoc modo nunc agimus de fine ultimo, quan- the same order. And in this way now we are dealing with the ultimate
+doquidem etiam finis ultimus simpliciter potest appeti amanti end, seeing that the unqualifiedly ultimate end can also be desired by a
+tanquam finem cui. Deinde non est in universum verum, nam 80R lover as a finis cui. Next, it is not universally true, for a human can at
+potest homo simul intendere finem aliquem sibi acquirendum, the same time intend some end to be acquired by him and another to
+80 et alium acquirendum amico in illo sistendo tanquam in fine be acquired by a friend, stopping in him as in a finis cui.
+cui.
+Aliorum Evasio
+removetur.
+5. Alii autem dicunt, quandocumque homo intendit hu- 5. Others, however, say that whenever a human being intends two The evasion of
+others is
+removed.
+jusmodi duos fines particulares, semper eos intendere sub ra- particular ends in this way, he always intends them under the concept
+tione unius aliquo modo, ut, verbi gratia, quatenus integrant 85R of one in some way: for example, to the extent that they integrate ab-
+85 absolutam perfectionem, seu hominis commoditatem, vel aliq- solute perfection or the advantage of the agent, or something of this
+uid hujusmodi: et hoc insinuat D. Thomas, in illa quæst. 12, sort. And St. Thomas suggests this in [ST ] IaIIae.12.3 ad 2.6 I respond
+art. 3, ad 2. Respondetur, quod licet fortasse in re ipsa sem- that although perhaps in the thing itself there always intervenes some
+per intercedat aliqua convenientia, vel unitas, quæ inter hujus- agreeability or unity which can be considered between ends of this sort,
+modi fines considerari potest, non est tamen necesse ut homo 90R it is not, nevertheless, necessary that a human being formally consider
+90 formaliter consideret, et intendat hanc unitatem, sed potest ab- and intend this unity. Rather, he can absolutely will this and that good
+solute velle hoc, et illud bonum propter se amabile, non con- lovable in itself, not by bringing them together nor between them nor
+6Ad secundum dicendum quod unius motus possunt ex una parte esse plures termini, si unus ad alium ordinetur, sed duo termini ad invicem non ordinati, ex una parte, unius
+motus esse non possunt. Sed tamen considerandum est quod id quod non est unum secundum rem, potest accipi ut unum secundum rationem. Intentio autem est motus voluntatis in
+aliquid praeordinatum in ratione, sicut dictum est. Et ideo ea quae sunt plura secundum rem, possunt accipi ut unus terminus intentionis, prout sunt unum secundum rationem, vel quia
+aliqua duo concurrunt ad integrandum aliquid unum, sicut ad sanitatem concurrunt calor et frigus commensurata; vel quia aliqua duo sub uno communi continentur, quod potest esse
+intentum. Puta acquisitio vini et vestis continetur sub lucro, sicut sub quodam communi, unde nihil prohibet quin ille qui intendit lucrum, simul haec duo intendat.
+
+-- 3 of 6 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 2 4
+ferendo illa nec inter se, nec secundum aliquam rationem, in following some concept in which they agree. Hence, although one can
+qua conveniunt. Unde licet interpretative possit dici homo in- be said interpretatively to intend in individual ends an integrated ad-
+tendere in singulis finibus integrum commodum, seu bonum, 95R vantage or good, [this is] not, nevertheless, by a proper and formal
+95 non tamen proprie et formali intentione, ut latius sectione ul- intention, as [is discussed] more extensively in the last section of this
+tima hujus Disputationis. Quæ responsio applicanda etiam est disputation. This response is also applied to the last argument given
+ad ultimum argumentum supra factum, quod maxime posset above, which could especially proceed against this assertion.
+procedere contra hanc assertionem.
+2. Assertio, de
+finibus per idem
+medium.
+Sumitur ex
+D. Thoma.
+6. Dicendum secundo: Etiam potest homo ordinare simul 6. A human being can also order at the same time the same means The second
+assertion,
+concerning ends
+through the same
+means. It is taken
+from St. Thomas.
+100 eadem media ad distinctos fines particulares ultimos negative, 100R to distinct negatively ultimate particular ends that are not subordinated
+et inter se non subordinatos. Ita sumo ex D. Thoma, dicta to each other. Thus I take up from St. Thomas, in the previously men-
+quæst. 12, articulo 3, ubi optimum signum adducit, quia in eli- tioned [ST IaIIae].12.3, where the best evidence is adduced, because in
+gendis mediis, cæteris paribus, illud medium anteponitur cæ- choosing means that means is preferred to others, ceteris paribus, which
+teris, quod ad plures fines utilius esse potest: si quis enim in- can be useful for more ends.7 For if anyone intending health could
+105 tendens sanitatem possit uti medicina, quo simul capiat delec- 105R make use of medicine by which he could at the same time receive de-
+tationem, hanc eligit: intendit ergo simul sanitatem, et volup- light, he would choose this. Therefore, he intends at the same time
+tatem per idem medium, quia utramque simul potest per il- health and pleasure through the same means, because each can be estab-
+lud comparare, et non est necesse ut unam ad alteram ordinet, lished at the same time through it. And it is not necessary that one be
+Accedit ratio. cum utraque sit per se, et absque altera amabilis. Et hinc ordered to another, since either is lovable in itself and apart from the
+110 sumitur propria ratio conclusionis, nam voluntas potest simul 110R other. And from here is taken the proper reason for the conclusion, for Reason is added.
+intendere duos fines inter se non subordinatos, neque in or- the will can at the same time intend two ends which are not subordi-
+dine ad unum tertium, et idem medium potest reipsa esse utile nated to each other and are not ordered to one third thing, and the same
+ad utrumque consequendum: ergo potest voluntas propter means can in itself be useful for each end to be achieved. Therefore, the
+utrumque finem idem medium <col. b> eligere. Probatur con- will can choose the same means for the sake of each end. The conse-
+115 sequentia, quia neque ex parte voluntatis, neque ex parte ipsius 115R quence is shown, because neither on the part of the will nor on the part
+objecti, est in homine aliqua repugnantia, quia objectum sub of the object itself is there something repugnant in the human, because
+utraque ratione simul sumpta apparet convenientius et amabil- the object under each concept taken at the same time appears agreeable
+ius, et voluntas potest in utramque moveri et excitari. Quod and lovable, and the will can be moved and stimulated by each. This
+evidentius fiet, solvendo argumenta initio facta post sequentem will become more evident when the arguments made in the beginning
+120 assertionem. 120R after the following assertion are solved.
+3. Assertio. 7. Dicendum tertio, quando voluntas eligit medium propter 7. Third, it should be said, when the will chooses a means on ac- The third
+assertion.	multos fines formaliter diversos in ea ratione boni sub qua count of multiple ends formally different in that aspect of the good
+movent, et inter se non subordinatos, sed proximos respectu under which they move and not subordinated between themselves but
+electionis, tunc quamvis externum medium electum possit esse proximate with respect to being chosen, then although the external
+125	Eius probatio. unum et idem, tamen interiores actus sunt diversi. Hæc con- 125R means chosen can be one and the same, nevertheless the interior acts
+clusio potissimum probatur illa ratione, quam attigit divus are different. This conclusion is especially shown by that reason which Its proof.
+7IaIIae.12.3 co.: Si autem accipiantur duo ad invicem non ordinata, sic etiam simul homo potest plura intendere. Quod patet ex hoc, quod homo unum alteri praeeligit, quia melius
+est altero, inter alias autem conditiones quibus aliquid est melius altero, una est quod ad plura valet, unde potest aliquid praeeligi alteri, ex hoc quod ad plura valet. Et sic manifeste homo
+simul plura intendit.
+
+-- 4 of 6 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 2 5
+Thomas 1, 2, quæst. 1, articulo 3, argumento 3, quia finis dat St. Thomas mentions in [ST ] IaIIae.1.3 arg. 3,8 because the end gives
+speciem actui interiori: non potest autem idem actus æque the species to the interior act. However, it cannot constitute the same
+primo et immediate constitui in duplici specie: ergo si est du- act equally primarily and immediately into two species. Therefore, if it
+130 plex finis, et motivum proprium, non erit idem actus, sed du- 130R is a double end and proper motive, it will not be the same act, but dou-
+plex, qui ex illius motione causatur. De qua re hic plura non ble, which is caused from the motion of that. Concerning this matter
+dicam, quia latius tractanda est infra tractatu 3. I will not say more here because it is discussed more extensively below
+in the third treatise.
+Ad 1. argum. in
+num. 1.
+8. Argumenta igitur in principio facta, potissimum probant 8. Therefore, the arguments made in the beginning chiefly prove Response to the
+first argument in
+n. 1.
+hanc ultimam conclusionem, non vero procedunt contra alias. 135R this last conclusion, but do not proceed against the others. I respond to
+135 Ad primum respondetur, quando voluntas movetur a duplici the first: when the will is moved by a double end to two internal acts
+fine duobus actibus internis intentionum vel electionum, jam of intention or choice, two causalities or motions of the end are now
+ibi reperiri duas causalitates seu motiones finis, et duos prox- found there and two proximate termini or effects of them. Thus, two
+imos terminos, seu effectus earum, atque ita non dantur duæ complete causes of one effect are not given, but of more than one ef-
+Notandum. causæ totales unius effectus, sed plurium. Quin potius obiter 140R fect. In fact, rather, notice, by the way, that with respect to such acts it Notice.
+140 adnota respectu talium actuum magis repugnare dari duas is more repugnant to be given two entire final causes than two efficient
+causas totales finales, quam duas efficientes, quia licet repugnet [causes], because although it is repugnant to be given two entire effi-
+dari duas efficientes totales respectu ejusdem actionis, non cient [causes] with respect to the same action, [it is] not [repugnant]
+tamen respectu ejusdem termini, quia causa efficiens est extrin- with respect to the same terminus, because an efficient cause is extrinsic
+seca, et non specificat terminum: at vero causæ finales repug- 145R and does not specify the terminus. But final causes, on the other hand,
+145 nant tam respectu motionis, quam respectu actus, qui est veluti are not repugnant so much with respect to motion as with respect to
+terminus causalitatis voluntatis, quia dant speciem actui, et non an act, which is just as a terminus of the causality of the will, because
+potest idem actus habere duas species æque primas: at vero re- they give species to the act and the same act cannot have two species
+spectu actus, seu medii externi nulla est repugnantia, quod duo equally primarily. But with respect to the act or the external means,
+fines simul concurrant, et moveant, quia, ut supra dixi, non 150R on the other hand, there is no repugnance in two ends concurring and
+150 habent immediatum influxum in actum externum, sed in inter- moving at the same time, because, as I said above, they do not have an
+num, nec dant illi propriam speciem immediate, sed solum me- immediate influx into an external act but into an internal [act], nor do
+diate quasi per denominationem extrinsecam ab actu interno, those give proper species immediately but only mediately, as it were,
+quoniam nihil repugnat constitui in duplici specie accidentaria through extrinsic denomination from the internal act, because there is
+et extrinseca. <30> 155R nothing repugnant in its constituting a double accidental and extrinsic
+species.
+155	Instantia ex nunc
+dictis.
+9. Dices, saltem hinc necessario sequi, quod in genere 9. You may say that this at least follows: that two entire causes of An objection
+from what was
+just said.
+causæ efficientis dentur duæ causæ totales ejusdem effectus, the same effect may be given in the genus of efficient causes, because
+quia actus interior voluntatis effective movet facultates interi- the interior act of the will effectively moves the interior faculty to ex-
+ores ad actus externos: ergo si in voluntate est duplex actus, et 160R ternal acts. Therefore, if in there are two acts and each of them suffices
+uterque eorum sufficit per se ad motionem externam efficien- in itself for an efficient external motion and actually gives influx in this
+160 dam, et actu influit suo modo, jam actus externus procedit a way, the external act now proceeds from two natural commanding or
+8Praeterea, idem non potest esse nisi in una specie. Sed eundem numero actum contingit ordinari ad diversos fines. Ergo finis non dat speciem actibus humanis.
+
+-- 5 of 6 --
+
+Suárez, De Fine Hominis, disp. 3, sect. 2 6
+duplici principio naturali imperante, seu sufficiente. Respon- efficient principles. I respond, first, that those two internal acts seldom One solution.
+Una dilutio. detur primo, illos duos actus internos raro concurrere omnino concur entirely at the same time physically and in an instant, for I al-
+simul physice, et in instanti, jam enim num. 3 notavi hanc si- 165R ready noted in n. 3 that this simultaneity is with us not necessary to
+multatem non esse nobis necessariam ad ea, quæ tractamus, that which we are discussing but suffices [to be] moral. Furthermore, Another.
+165	Altera. sed sufficere moralem. Deinde, si contingat simul haberi, dici if it may happen to be had at the same time, the same thing can be
+potest, quod de aliis causis physicis responderi solet, quod licet said that is customarily said concerning other physical causes: that, al-
+utraque per se sit sufficiens, tamen quando simul æque appli- though each is sufficient in itself, nevetheless, when they are equally
+cantur, neutram agere tota virtute sua, et necessaria ad effec- 170R applied at the same time, neither acts by its complete strength and is
+Tertia. tum. Denique in hujusmodi effectu nullum aliud est incon- necessary for the effect. Finally, in an effect of this sort nothing else A third.
+170 veniens, quia hæc efficientia, qua movet voluntas inferiorem is disagreeable, because this efficiency by which the will moves some
+aliquam potentiam ad suum actum non est nisi per naturalem lower power to its act does not exist except through a natural consensus
+consensum potentiarum, qua fit, ut posito in appetitu tali actu, of powers, by which it comes about that, such an act or willing having
+seu voluntate, statim anima, in qua omnes potentiæ radican- 175R been placed in the appetite, the soul, in which all powers are rooted, is
+tur, applicetur ad operandum per aliam potentiam, quod facere applied immediately to acting through another power. This can bring
+175 potest æque bene, sive per unum, sive per plures actus feratur about equally well through one act or through more than one that the
+voluntas in tale objectum, seu actionem externam. will is brought to such an object of external action.
+Ad 2. ibid. 10. Et hinc facilius est solutio ad secundum: nihil enim 10. And from here the solution to the second argument is easier: [Response] to the
+2nd [argument
+from n. 1.]
+repugnat dari duo motiva respectu ejusdem medii, seu objecti 180R for there is nothing repugnant in giving two motives with respect to
+voliti, dummodo motiones internæ voluntatis diversæ sint. the same means or willed objects, provided that the internal motions
+180 Unde in voluntate divina, cujus actus non sumit speciem ex of the will are different. Hence, in the divine will, whose act does not
+objecto externo, non solum res potest esse volita propter du- take up the species from an external object, not only can the thing be
+plicem finem, sed etiam idem actus potest propter utramque willed on account of two ends, but the same act can also be brought to
+rationem ferri ad tale objectum, quia altiori, et eminentiori 185R such an object on account of each reason, because it comprehends ev-
+modo omnia comprehendit. Tertium etiam ex dictis est facile, erything in the most profound and eminent way. The third argument is To the 3rd.
+185	Ad 3. nam illa proportio sumpta ex moti et termino ejus, ad sum- also easily resolved from what has been said, for that proportion taken
+mum procedit respectu actus interni propter convenientiam in up from the motion and terminus of it, proceeds at most with respect
+specificatione, non vero respectu medii externi, ut dictum est. to the internal act on account of the agreeability in the specification,
+Ad 4. Ad quartum respondetur imo sæpe accidere ut duo media eli- 190R but not with respect to external means, as was said. To the fourth argu- To the 4th.
+gantur ad eumdem finem æque immediate, et sine subordina- ment, I respond that on the contrary it often happens that two means
+190 tione inter se, ut si unum non habuerit effectum, saltem aliud are chosen for the same end equally immediately and without subor-
+habeat, vel si utrumque habuerit, tanto existimantur melius. dination between them, so that if one will not have the effect, at least
+Quare si interdum aliqua duo non possunt simul eligi, solum another may, or, if either will have it, they are thought so much the
+esse potest, quia non possunt judicari simul utilia; et tunc ar- 195R better. Wherefore if sometimes some two cannot be chosen at the same
+gumentum proportionale factum non est <col. b>simile, quia time, it can only be because they cannot be judged useful at the same
+195 nos tractamus quando unum medium simul judicatur utile time. And then the argument made analogous is not similar, because
+Ad 5. ad plures fines. Ultimum argumentum solutum est in fine, we are discussing [the case] when one means is judged at the same time
+num. 5. useful for more than one end. The last argument was solved at the end To the 5th.
+200R of n. 5.
+
+-- 6 of 6 --

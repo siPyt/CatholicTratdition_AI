@@ -1,0 +1,480 @@
+Last revision: October 28, 2018	Francisco Suárez, S. J.
+DE GRATIA, PROLEGOMENON 1, CAP. 11
+© Sydney Penner 2013
+<1>2
+CAPUT I. CHAPTER I.
+De nominibus naturae, et liberi arbitrii. On the names ‘nature’ and ‘freewill’.3
+1. Quia libera natura gratiae fundamentum est, et 1. Since free nature is the foundation of grace and grace is
+gratia perfectio, et sanitas est naturae, ideo dispu- the perfection and health of nature, a discussion of grace
+5 tatio de gratia cognitionem aliquam talis naturae 5R presupposes some knowledge of such a nature. This is the
+supponit, propter quod solent gratia, et natura, seu reason why grace and nature or freewill4 are usually con-
+liberum arbitrium, non tantum in disputatione ipsa, joined not just in the same disputation but in the title of
+sed etiam in titulo totius operis coniungi, sicut Au- the whole work. Augustine, for example, wrote one book Augustine.
+Augustinus. gustinus librum unum de Natura, et gratia, et alium [entitled] On Nature and Grace and another one On Grace
+10 de Gratia, et libero arbitrio scripsit. Propter hanc 10R and Freewill. For this reason, therefore, it is necessary that
+ergo causam necessarium est in ingressu huius ma- in taking up this subject we first set out what we understand
+teriae supponere quid nomine naturae, et liberi arbi- by the names ‘nature’ and ‘freewill’. For philosophers dis-
+trii intelligamus. Nam philosophi in libris de Physico cuss nature in books examining [Aristotle’s] Physics insofar
+auditu de natura disputant, prout principium est as it is the principle of motion and rest. But at present we
+15 motus, et quietis; in praesenti vero non in ea latitu- 15R are not taking ‘nature’ that broadly but are taking it as it is
+dine sumitur, sed prout dicitur per antonomasiam said through antonomasia of intellectual or rational nature,
+de intellectuali, seu rationali natura, quae prin- which is the principle of the moral operations by which eter-
+cipium est moralium operationum, quibus aeterna nal happiness is secured or lost. Only intellectual nature is
+beatitudo comparatur, vel amittitur, ad quem finem ordered to this end through grace. For this reason, Augus-
+1Latin text by and large follows the 1620 Lyon edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked
+the text against the Vivès edition for significant variations. I have not yet been able to check the first edition (Coimbra, 1619). For recorded variants, B =
+1620 edition and V = Vivès edition. Note that the Vivès edition does not have marginal notes; many, though not all, of the marginal notes from the 1620
+edition are included in the Vivès edition as italicised text at the head of paragraphs.
+My thanks to Shane Duarte, who generously commented on my translation and spared me from a number of errors and infelicities.
+2Numbers in angle brackets indicate page numbers in volume 7 of the Vivés edition for ease of reference, given that it is the most widely used edition.
+3Merely three years after the first publication of this work, the Spanish Franciscan Jeronimo Tamarit de Tavaria copies the bulk of the present chapter
+in the identically titled chapter in his Flores theologiae (Valencia, 1622), tom. 1, pp. 491–92.
+4I take ‘liberum arbitrii’ as a technical term naming the item under dispute. The equivalent term in contemporary philosophy might be ‘freedom of
+the will’, though it has the disadvantage of already suggesting a theory as to which faculty would provide us with this freedom. I will translate ‘liberum
+arbitrii’ with ‘freewill’ as a single word and reserve ‘freedom of the will’ for ‘libertas voluntatis’ where it is clear that it is the will’s freedom that is being
+considered.
+
+-- 1 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 2
+20 sola intellectualis natura per gratiam ordinatur. 20R tine said in Against Julian IV, ch. 3, that only rational nature Augustine.
+Augustinus. Et ideo dixit Augustinus lib. IV. contra Iulianum has the capacity for grace. But he is speaking about ratio-
+cap. 3. solam rationalem naturam esse gratiae ca- nal nature insofar as it includes intellectual nature, since
+pacem. Loquitur autem de rationali prout intellec- angelic nature as well as human nature has the capacity for
+tualem complectitur, quia tam Angelica, quam hu- divine grace, since each is free.
+25 mana natura capax est divinae gratiae, quia utraque 25R ‘But grace’, as Bernard says in On Grace and Freewill,
+Bernardus. libera est. Gratiam autem (ut ait Bernardus de Gra- ‘cannot be given except by God and cannot be received except
+tia et libero arbitrio) nec dare potest nisi Deus, nec by freewill’, that is, by a free nature. For a free nature is
+capere nisi liberum arbitrium, id est, natura libera, required in order to achieve a supernatural end. But since
+illa enim indiget, ut supernaturalem finem asse- human nature both is more familiar to us than angelic na-
+30 quatur. Quia vero humana natura et nobis est 30R ture and is in need of grace under more headings and ways,
+magis familiaris, et pluribus titulis, ac modis indi- we will always make our discussion about rational nature.
+get gratia, <col. b> quam Angelica, ideo de rationali But the doctrine could easily be applied proportionately to
+natura sermonem semper faciemus, doctrina vero angelic nature. For it will not be difficult to realize where the
+facile poterit ad Angelicam cum proportione appli- basis of difference comes up and we will take care to indicate
+35 cari: nam ubi ratio diversitatis intervenerit non dif- 35R it. Moreover, we are not now talking about human nature as
+ficile intelligetur, eamque indicare curabimus. Non distinguished from the supposit nor about that more-than-
+loquimur autem nunc de natura humana prout a human state that it obtains in the divine Word through the
+supposito distinguitur, nec de statu illo plus quam hypostatic union. For the former consideration of nature is
+humano, quem in divino Verbo per hypostaticam metaphysical and in no way pertains to the present subject,
+40 unionem obtinuit: nam prior naturae speculatio 40R whereas the consideration of the latter mystery is loftier and
+metaphysica est, nihilque ad praesentem causam we have pursued it in its proper place to the extent we are
+spectat, alterius vero mysterii consideratio altior able. In the present place, then, we are considering human
+est, quam suo loco pro viribus prosecuti sumus. In nature insofar as it is capable of grace in a created person,
+praesenti ergo natura humana quatenus in persona and insofar as grace is necessary for it to operate well and
+45 creata capax est gratiae, illaque ad bene operandum, 45R attain its end.
+et ad suum finem consequendum indiget, consider-
+atur.
+2. Est autem ulterius advertendum gratiam 2. It should further be noted that grace perfects nature,
+perficere naturam, praecipue quatenus humano- especially insofar as it is the principle of human and free
+50 rum, ac liberorum actuum principium est. Unde acts. Hence, the result is that freewill and grace are so joined
+fit, ut liberum arbitrium, et gratia tam sint habi- together in disposition and function that they cannot be
+tudine, et officio coniuncta, ut non possint dis- 50R separated in discussion, as Augustine indicated well enough Augustine,
+Letter 47.	Augustinus,
+epistola 47.
+putatione seiungi, ut satis indicavit Augustinus, in saying: ‘If there is not the grace of God, how does Christ
+dicens: Si non est Dei gratia, quomodo Christus save the world? And if there is not freewill, how does he
+55 salvat mundum? Et si non est liberum arbitrium, judge the world?’ And in Hypognosticon III, ch. 11, he says:
+21 IV ] I B V.
+
+-- 2 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 3
+quomodo iudicat mundum? Et lib. 3. Hypognosti- ‘Grace without freewill does not make a human being have a
+con cap. 11. Neque gratia sine libero arbitrio facit 55R happy life and neither does freewill without grace’. Bernard Bernard.
+hominem habere beatam vitam, nec liberum arbi- says in On Grace and Freewill: ‘Take away freewill and there
+Bernardus. trium sine gratia, et Bernardus de Gratia et libero is nothing to be saved; take away grace and there is nothing
+60 arbitrio: Tolle liberum arbitrium, non erit quod sal- by which to be saved’. Hence, the primary difficulty in this
+vetur, tolle gratiam, non erit unde salvetur. Unde matter is situated in reconciling the necessity and efficacy of
+praecipua huius materiae difficultas in concilianda 60R grace with freewill. Ignorance of this concordance has been
+gratiae necessitate, ac efficacia cum libertate arbi- the root and origin of almost all the errors that have been
+trii posita est, et ignorantia huius concordiae fere made in this matter. It is necessary, therefore, first to deal
+65 omnium errorum, qui in <2> hac materia fuerunt, with what is signified by the names ‘freedom’ and ‘freewill’
+radix et origo fuit. Oportet ergo ante significationem before discussing the signification of ‘grace’.
+gratiae, quid nomine libertatis, et liberi arbitrii sig-
+nificetur praemittere.
+Hugo
+Victorinus.
+Triplex
+libertas, sed
+illa, quae est a
+necessitate,
+est propria
+libertas
+moralis.
+3. Et imprimis praemittenda est distinctio trip- 65R 3. In the first place, a distinction needs to be made Hugh of Saint
+Victor.
+Three kinds of
+freedom, but
+only freedom
+from necessity
+is proper
+moral freedom.
+70 licis libertatis, quam sic tradit Hugo Victorinus in between three kinds of freedom. Hugh of Saint Victor makes
+Summa sententiarum tract. 3. cap. 9. Est namque the distinction this way in Summa sententiarum tr. 3, ch. 9:
+(ait) triplex libertas, a necessitate, a peccato, a mis- ‘For freedom is threefold: from necessity, from sin, and from
+eria. Nos vero aliter illa membra numeramus, est suffering’. But we number the members differently, for there
+enim libertas a servitute, a coactione, et a neces- 70R is freedom from servitude, from coercion, and from necessity.
+75 sitate; ex quibus sola haec tertia est propria liber- Of these, only the third kind is the proper moral freedom
+tas moralis ad humanos actus laude, et reprehen- necessary for human acts to deserve praise and reprimand,
+sione; praemio, aut poena dignos necessaria: unde rewards and punishments. Hence, it alone deserves the
+illa sola simpliciter nomen libertatis meretur; reli- name ‘freedom’ strictly speaking.
+quae enim eatenus libertates appellantur, quatenus 75R For the others are called freedoms only insofar as they
+80 alicui necessitati opponuntur. Servitus enim quam- are opposed to some kind of necessity. For servitude brings
+dam parendi necessitatem inducit, et ideo carentia in a kind of necessity of obeying, and for this reason the
+Rom. 8. servitutis libertas appellatur Rom. 8. Liberabitur a absence of servitude is called freedom in Rom. 8[:21]: ‘[the Rom. 8.
+servitute corruptionis. Potest autem servitus esse vel creature itself] shall be freed from the servitude of corruption’.
+peccati, vel poenae: sicque carentia culpae, et remis- 80R Servitude, moreover, can be to sin or to punishment, and so
+85 sio poenae dici potest libertas quaedam a peccato, the absence of guilt and the remission of punishments can
+seu peccati servitute, iuxta illud Rom. 6. Cum servi be called a kind of freedom from sin or from servitude to sin,
+essetis peccati, liberi fuistis iustitiae: nunc autem as in Rom. 6[:20–22]: ‘For when you were servants of sin, you
+liberati a peccato, servi autem facti Deo, habetis were free of justice . . . but now having been freed from sin
+2. Cor. 3. fructum in sanctificationem. Et 2. Cor. 3. Ubi spir- 85R and having been made servants of God, you have your fruit
+90	Augustinus. itus Domini, ibi libertas. Unde etiam Augustinus unto sanctification’. And in 2 Cor. 3[:17]: ‘where the Spirit of 2 Cor. 3.
+Augustine.	4. de Civitate cap. 3. Bonus (inquit) homo, etiamsi the Lord is, there is freedom’. Hence, Augustine also said in
+86 6 ] 7 V.
+91 3 ] 2 V.
+
+-- 3 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 4
+serviat, utique homini, liber est, scilicet a peccato; The City of God IV, ch. 3: ‘the good man, even if he serves,
+malus autem etiamsi regnet, servus est, nimirum at least if he serves another man, is free’, namely, from sin;
+peccati. Et ad eumdem modum lib. 14. de Civitate 90R ‘but an evil man is a servant even if he reigns’, namely, of
+95 cap. 15. dixit, primum hominem peccando amisisse sin. And in the same way he says in The City of God XIV,
+libertatem, quam concupivit. Non enim libertatem ch. 15, that the first man by sinning lost the freedom that he
+a necessitate concupierat, nam illam a principio craved. For it was not freedom from necessity that he had
+habuit, et ita neque illam amisit, sed libertatem a craved, for he had that from the beginning and he had not
+subiectione appetiit, et hanc amisit, quia et peccati, 95R lost it. But he desired freedom from subjection and this he
+100 et poenae, et miseriae servus factus est, et contraxit lost, since he was made a servant of sin, punishment, and
+concupiscentiae inordinationem, et pugnam fomitis, suffering, and he contracted a disordering of concupiscence
+quae servitus quaedam poenalis est. Atque ad hanc and a battle of lust, which is a kind of penal servitude. Every
+significationem reducitur omnis carentia obligatio- absence of obligation or of debt—whether it arises from a law
+nis, seu debiti, sive a lege, sive a quacumque alia 100R or from any other cause—is traced back to this signification.
+105 causa proveniat: sic enim dispensatio, vel exemptio For thus a dispensation or exemption from a law is thought
+a lege, libertas quaedam censetur; unde etiam privi- to be a kind of freedom. Hence, a privilege is also usually
+legium nomine libertatis vocari solet; et cui aliquod given the name ‘freedom’, and someone for whom some debt
+debitum remittitur, liberari ab illo dicitur. Si quis is remitted is said to be freed from that debt.
+autem recte consideret, tota haec libertas supponit 105R But if someone were to consider the matter rightly, this
+110 propriam libertatem a necessitate, quia non est ca- entire freedom presupposes a proper freedom from necessity.
+pax propriae servitutis, culpae, aut poenae, prae- For only a person who is free in acting has the capacity for
+cepti, <col. b> aut obligationis, nisi persona libera proper servitude, guilt, punishment, command, or obligation.
+in agendo, ideoque sicut propria privatio supponit For this reason, just as a proper privation presupposes an
+aptitudinem, ita servitus, et obligatio supponunt 110R aptitude, so also servitude and obligation presuppose a per-
+115 personam aptam ad operandum cum indifferentia, son apt for operating with indifference and without necessity.
+et absque necessitate. Quia vero operationes a ne- But since operations free from necessity can be under the
+cessitate liberae possunt esse sub iure alterius, vel right of another or under some burden and obligation, there-
+sub aliquo onere, et obligatione, ideo cum liber- fore the necessity of servitude and of obligation can exist in
+tate a necessitate potest esse in operibus necessitas 115R works along with freedom from necessity. Or, what comes
+120 servitutis, et obligationis, seu (quod idem est) potest to the same thing, someone can be deprived through law or
+quis per legem, vel servitutem privari libertate illis servitude of the freedom that is contrary to them, and yet
+contraria, et nihilominus retinere propriam operum retain the proper freedom of works.
+libertatem.
+Coactum idem
+fere quod
+violentum.
+4. Coactum idem fere est quod violentum, 4. What is coerced is almost the same thing as what The coerced
+almost the
+same as the
+violent.
+125 utrumque enim est contra internum appetitum pati- 120R is subject to the violent, for each goes against the internal
+entis, vel operantis, sed violentum generalius dicitur appetite of the patient or of the one operating. But violent
+de quocumque motu contrario appetitui, sive elicito, is said more generally of any motion contrary to appetite,
+sive innato: coactum vero proprie dicitur, quando whether elicited or innate, whereas [a motion] is properly
+appetitui elicito, et vitali repugnat, licet interdum called coerced when it is in conflict with an elicited and vi-
+
+-- 4 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 5
+130 soleant voces illae confundi. Duo ergo ad coac- 125R tal appetite, although sometimes those terms are confused.
+tum requiruntur, scilicet, ut ex necessitate fiat, vel Two things, therefore, are required for coerced motion: that
+sustineatur, et quod sit contra internum affectum; it comes to be or be endured of necessity, and that it be
+et ita coactio est quaedam necessitas, et aliquid ul- contrary to an internal affect. And thus coercion is a kind
+Aristoteles. tra illam addit. Utrumque ex Aristotele 3. Ethicorum of necessity and adds something to it. Both are gathered
+135 cap. 1. colligitur, dicente, violentum esse, quod est 130R from Aristotle, Nicomachean Ethics III, ch. 1, where he says: Aristotle.
+ab extrinseco, passo non conferente vim, id est, re- ‘the violent is from something extrinsic, without the patient
+sistente aliquo modo, ut omnes exponunt ex eodem contributing force’, that is, without resisting in some way,
+Aristotele 2. Ethicorum ad Eudemum cap. 8. quia as everyone explains it in accordance with what the same
+si passum non resistat, motio non erit violenta, eti- Aristotle says in Eudemian Ethics II, ch. 8. For if what is
+140 amsi ab extrinseco proveniat. Coactum ergo, ut tale 135R suffered is not resisted, the motion will not be violent even
+est, non potest esse ab intrinseco, alioqui non es- if it arises from something extrinsic. The coerced, therefore,
+set contra propriam inclinationem, si autem est ab insofar as it is such cannot be from something intrinsic. Oth-
+extrinseco, eo ipso necessarium est, quia libertas erwise, it would not be contrary to one’s own inclination. But
+a necessitate non est in patiendo, sed in agendo, if it is from something extrinsic, it is by that fact necessary.
+145 ut infra probabo: ob hanc ergo causam et coactum 140R For freedom from necessity is not found in undergoing but
+includit necessarium, et quod non est a coactione in acting, as I will prove below. For this reason, therefore,
+liberum, ut tale est, non potest esse a necessitate the coerced includes necessity, and what is not free of coer-
+immune. Propter alias vero conditiones non conver- cion, insofar as it is such, cannot be exempt from necessity.
+titur coactum cum necessario, multa enim neces- But on account of other conditions the coerced is not inter-
+150 saria sunt, quae contra internum appetitum non 145R changeable with the necessary. For there are many things
+sunt, imo ex illo saepe nascuntur. Et ob eamdem ra- that are necessary that are not contrary to internal appetite.
+tionem libertas necessitatem excludens universalior In fact, necessary things often arise from internal appetite.
+est libertate soli coactioni opposita: nam omnis lib- For the same reason freedom that excludes necessity is more
+ertas a necessitate est etiam a coactione exempta, universal than freedom that is opposed to coercion alone.
+155 non vero e contrario, ut per se notum est; dilectio 150R For every freedom from necessity is also exempt from coer-
+enim Dei in patria a coactione libera est, non tamen cion, but not the other way around, as is known per se. For
+a necessitate. the love for God in the afterlife is free from coercion, yet not
+free from necessity.
+5. Libertas ergo a sola coactione tantum requirit 5. Therefore, freedom from coercion alone only requires
+carentiam violentiae, ita ut motio, quae sic libera dic- 155R the absence of violence in such a way that a motion that is
+160 itur, contra internum appetitum <3> non sit, sive called free in this way is not contrary to internal appetite,
+ex necessitate fiat, sive non. Talis autem motio, si whether or not it happens by necessity. But such a motion,
+sit voluntatis, dicenda est potius voluntaria, quam assuming it is of the will, should be called voluntary rather
+libera. Hae namque duae proprietates in actibus than free. For these two properties in acts of the will are
+voluntatis distinctae sunt, et ideo nominibus etiam 160R distinct and so they should also be distinguished by names,
+158 5 ] 6 B.
+
+-- 5 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 6
+165 sunt distinguendae, ne verborum ambiguitas dispu- lest an ambiguity in words render the discussion uncertain.
+tationem reddat incertam. Potest ergo esse actus It is possible, therefore, for an act of a human being to be
+hominis voluntarius, ac subinde a coactione liber, voluntary and thereby free from coercion that, nevertheless,
+qui tamen simpliciter liber a necessitate non sit, is strictly speaking not free of necessity. One can see this
+ut in amore, quo Deus se amat, et quo Spiritum 165R in the love by which God loves himself and by which he
+170 Sanctum producit, et quo beati diligunt Deum, et in produces the Holy Spirit and in the love with which the
+actibus indeliberatis voluntatis, et in affectibus ap- blessed love God, as well as in undeliberated acts of the will
+petitus sentientis videre licet. Ratioque satis constat and in the affects of an appetite of someone who is sensing.
+ex dictis; his adiunctis, quae de ratione voluntarii The reason is sufficiently clear from what has been said,
+Aristoteles 5.
+Ethicorum
+cap. 1.
+D. Thomas 1.2.
+q. 6. art. 1.
+Aristoteles et D. Thomas tradiderunt. Voluntarium 170R along with these additional points made by Aristotle and Aristotle, EN
+V, ch. 1.
+St. Thomas,
+ST IaIIae.6.1.
+175 enim dicitur, quod est ab interno principio cum St. Thomas about the ratio of the voluntary. For something
+cognitione, quae ratio tota potest in actu reperiri, is called voluntary that comes from an internal principle
+quamvis ex necessitate fiat, quia sola necessitas non together with cognition. That whole ratio can be found in an
+excludit cognitionem, nec conformitatem cum ap- act even though it comes to be by necessity, since necessity
+petitu innato, vel elicito. Unde etiam ortum habuit 175R alone excludes neither cognition nor conformity to an innate
+180 communis illa Theologorum doctrina, voluntati in or elicited appetite. Here, also, is the source for that doctrine
+actibus elicitis non posse vim, aut coactionem in- common among the theologians that force or coercion cannot
+ferri, etiamsi necessitatem pati possit. Nam coactio be inflicted on the will in the case of elicited acts even if it
+excludit voluntarium, illi enim directe opponitur, can suffer necessity. For coercion excludes the voluntary,
+non potest autem actus esse a voluntate, et non 180R since it is directly opposed to that, but an act cannot be
+185 esse voluntarius, quia non potest non esse a prin- from the will and not be voluntary, since it cannot fail to
+cipio intrinseco cum cognitione, nec potest simul be from an intrinsic principle together with cognition. Nor
+esse voluntarius, et coactus, quia haec duo oppo- can it simultaneously be voluntary and coerced, since these
+nuntur, et immediatam contradictionem involvunt; two are opposed and involve an immediate contradiction.
+necessitas autem non involvit illam oppositionem 185R Necessity, however, does not involve that opposition to the
+190 cum voluntario, quia necessitas ipsa potest esse vol- voluntary, since necessity itself can be voluntary or conform
+untaria, seu interno appetitui conformis, ut dictum to an internal appetite, as was said.
+est.
+Duo
+advertenda
+quoad modum
+loquendi
+necessaria ad
+intelligendos
+Patres.
+Primum.
+6. Duo autem in hoc sunt, quoad modum lo- 6. But two things should be noticed in this regarding Two things
+necessary for
+understanding
+the Fathers
+with respect to
+the way of
+speaking.
+First.
+quendi, advertenda, quoniam ad intelligendas sen- the way of speaking, since they will be necessary for under-
+195 tentias Patrum erunt necessaria. Unum est coac- 190R standing the views of the Fathers. One is that coercion is
+tionem duplicem esse, unam simpliciter, quae ab- of two kinds. One is coercion simpliciter, which imposes an
+solutam, et inevitabilem necessitatem contra inter- absolute and inevitable necessity against an internal affec-
+num affectum infert: alia secundum quid, qualis tion. The other is coercion secundum quid, which is the kind
+est, quae per poenas, vel timores fit, quae non ab- that comes from punishments and fears. They do not in-
+200 solutam necessitatem, sed secundum quid, scilicet, 195R troduce an absolute necessity but only a qualified necessity
+193 6 ] 5 B.
+
+-- 6 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 7
+ad vitandum tale incommodum, inducit. Prior ergo (secundum quid), namely, in order to avoid some disadvan-
+coactio est, quae omnino repugnat actui elicito vol- tage. The former, therefore, is the coercion that is entirely
+untatis, quia eo ipso quod est elicitus, iam non repugnant to an elicited act of the will, since the very fact
+est coactus, posterior autem coactio esse potest that it is elicited makes it not coerced. But the latter kind
+205 cum absoluta voluntate, imo et cum libertate, cum 200R of coercion is compatible with an absolute willing, in fact,
+absolutam necessitatem non inducat, et ideo licet even with freedom, since it does not introduce an absolute
+interdum coactio, aut violentia vocetur, ut patet necessity. For this reason, although it is sometimes called
+Augustinus. ex Augustino lib. 1. contra Gau- <col. b> den- coercion or violence, as is clear from Augustine, Against Gau- Augustine.
+tium cap. 25. et epistola 48. simpliciter, et abso- dentius I, ch. 25, and Letter 48, it is not, strictly speaking
+210 lute coactio non est, sed alicuius mali prohibitio, ut 205R and absolutely, coercion. Rather, it is a prohibition of [doing]
+dixit idem Augustinus lib. 2. contra litteras Petiliani some evil, as Augustine also said in Against the Letters of
+cap. 83. Petilianus II, ch. 83.
+Secundum
+quod est
+observandum.
+7. Aliud animadvertendum est, interdum volun- 7. The other thing that should be noted is that sometimes The second
+point that
+should be
+observed.
+tarium actum ita esse necessarium simpliciter, ut a voluntary act is necessary simpliciter in such a way that
+215 ipsa necessitas ab intrinseco sit, ac subinde con- 210R the necessity itself is from something intrinsic and so it is
+formis sit inclinationi, et perfectioni naturali ipsius conformed to the inclination and to the natural perfection of
+voluntatis, et tunc actus licet sit necessarius ita the will itself. In this case the act, although it is necessary,
+est voluntarius, ut nullo modo dici possit violen- is voluntary in such a way that it can in no way be called
+tus, vel coactus, quia nullo modo repugnat interno coerced or violent, since it is in no way repugnant to an
+220 appetitui, neque elicito, quia actus, ut supponitur, 215R internal appetite. It is not repugnant either to an elicited
+voluntarius est, nec innato, quia ipsa necessitas appetite because the act, as it is being imagined, is voluntary,
+non est etiam voluntati, eiusve innatae inclinationi or to an innate appetite because the necessity itself is also
+contraria, ut supponitur. Et hoc modo amor Dei not contrary to the will or to its innate inclination as it is
+in beatis est necessarius sine ullo genere coactio- being imagined. In this way the love for God in the blessed
+225 nis, aut violentiae, et affectus appetitus sentientis 220R is necessary without any kind of coercion or violence. The
+possunt in eodem ordine poni propter eamdem ra- affected appetites of someone sensing can also be placed in
+tionem. Aliquando vero actus voluntarius potest the same order for the same reason.
+esse necessarius tantum ab extrinseco efficiente, But sometimes a voluntary act can be necessary only
+seu quasi impellente, et tunc licet actus sit vol- from an extrinsic [principle] effecting or, as it were, impelling
+230 untarius, et ideo non possit dici absolute coactus, 225R [the will to act]. In this case, although the act is voluntary
+nihilominus cum necessitas ipsa non sit conformis and for that reason cannot be called absolutely coerced, nev-
+naturali conditioni, et inclinationi voluntatis, eo ertheless, since the necessity itself is not conformed to the
+quod sit tantum ab extrinseco, actus sic necessarius natural condition and inclination of the will as a result of the
+interdum solet aliquo modo violentus dici, saltem fact that the necessity is only from an extrinsic [principle],
+235 secundum quid, quia est contra modum connatu- 230R an act necessary in this way is sometimes wont to be called
+ralem, et contra quemdam innatum appetitum. Et violent in some way, at least secundum quid. For it is con-
+229 seu ] sed B.
+
+-- 7 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 8
+hoc modo necessitas immissa voluntati in actibus de trary to a connatural mode and contrary to a certain innate
+se liberis vocari solet a Patribus coactio quaedam, et appetite. And in this way the necessity put into the will in
+e converso actus simpliciter liber vocari solet sponta- the case of acts that are free of themselves is customarily
+240 neus, et voluntarius, utique perfecte, et extrinsecam 235R called a kind of coercion by the Fathers. Conversely, an act
+necessitatem interno appetitui, seu inclinationi vol- that is free simpliciter is usually called spontaneous and vol-
+untatis repugnantem excludens. untary, at any rate perfectly so, and excluding the extrinsic
+necessity repugnant to the internal appetite or inclination of
+the will.
+Liberum a
+necessitate
+dici solet et de
+facultate
+operandi
+absque
+necessitate, et
+de ipsa
+actione.
+Augustinus.
+8. Liberum ergo in praesenti vocatur, quod a 240R 8. Therefore, at present that is called free which is free Free from
+necessity is
+customarily
+said both of a
+faculty acting
+without
+necessity and
+of the action
+itself.
+Augustine.
+necessitate liberum est: dici autem solet et de facul- from necessity. Moreover, it is customarily said both of
+245 tate operandi absque necessitate, et de ipsa actione. the faculty operating apart from necessity and of the action
+Priori modo denominatur arbitrium liberum, quod itself. In the former way freewill is denominated, which
+dicitur esse facultas voluntatis, et rationis, utique is said to be a faculty of the will and of reason, at least
+ad operandum cum indifferentia, et dominio ac- 245R when operating with indifference and with dominion over
+tionis, ita ut in manu eius sit velle, aut nolle ex- the action so that it is in one’s hands either to will or not
+250 ercere, vel sustinere actionem. De quo dixit Au- to will to exercise or to undergo the action. In On the Merits
+gustinus lib. 2. de Peccatorum meritis et remissione and Forgiveness of Sins II, ch. 18, Augustine said about
+cap. 18. Esse voluntatis arbitrium, quod huc, atque this: ‘It is the decision of the will, which is freely turned
+illuc liberum flectitur, atque in eis naturalibus bonis 250R to this or to that, and has its place among those natural
+est, quibus homo bene, et male uti potest. Atque goods which a human being can use well or badly’. In this
+255 in hoc sensu de fide certum est, hominem esse sense it is certain in the faith that human beings by their
+hoc modo natura sua liberum, seu habere ali- <4> nature are free in this way or have some faculty free from
+quam facultatem a necessitate liberam in operibus necessity in their works, not only in their natural works
+suis, non solum naturalibus, sed etiam supernat- 255R but also their supernatural works. The Council of Trent Council of
+Trent.	Concilium
+Tridentinum.
+uralibus, ut aperte definit Concilium Tridentinum clearly settles this in the Sixth Session (ch. 5 and canons 5
+260 sess. 6. cap. 5. et can. 5. et 9. et Scripturis, et ra- and 9). Augustine proves it thoroughly from Scripture and
+tionibus probat late Augustinus lib. de Gratia et by arguments in On Grace and Freewill, and the moderns
+libero arbitrio, et latius moderni de hac materia even more thoroughly when writing about this subject. We
+scribentes, et nos brevius in lib. 1. de Auxilio a 260R dealt with it more briefly in the beginning of Book I of De
+principio. Praecipue vero videri possunt eruditae auxilio. But the erudite Disputations of Cardinal Bellarmine Bellarmine.
+265	Bellarmini. disputationes Cardinalis Bellarmini in tota contro- may especially be consulted in the whole controversy about
+versia de Gratia et libero arbitrio cum Praefatione. grace and freewill along with the preface.
+Unde liber
+actus
+denominetur.
+9. Hinc etiam actus, qui ab hac facultate lib- 9. Hence the act which proceeds from this free faculty Whence a free
+act is
+denominated.
+era procedit, liber denominatur: oportet autem, ut 265R is also denominated free, but it must proceed from that
+ab illa, ut indifferens est, procedat. Non enim de- faculty insofar as it is indifferent. For there is no lack of
+270 fuerunt aliqui moderni Catholici, qui negaverint ad modern Catholics who deny that indifference or the absence
+260 9 ] 6 V.
+
+-- 8 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 9
+libertatem actus esse necessariam indifferentiam, of necessity is necessary for freedom of action, but say that
+seu carentiam necessitatis, sed satis esse caren- the absence of coercion is enough. But this view was among
+tiam coactionis: sed haec sententia reprobata est 270R Michael Baius’s condemned assertions (assertions 39 and
+inter assertiones Michaelis Baii assert. 39. et 41. et 41) and will be refuted ex professo in Book III. Therefore,
+275 in lib. 3. ex professo refutabitur. Ut ergo actus in order for an act to be truly free, it is not enough that it
+sit vere liber, non satis est, quod sit voluntarius, is voluntary or not coerced, but it must also not be strictly
+seu non coactus, sed etiam ut non sit necessar- necessary, and, accordingly, it must proceed from a free
+ius simpliciter, ac proinde, ut procedat a potentia 275R power that retains its indifference and freedom and that in
+libera, ut indifferentiam, et libertatem retineat, ut its very use and exercise it be allowed to operate with its free
+280 in ipso usu, et exercitio libera, et integra potestate and undiminished power, so that it is in its hands to choose
+sua sinatur operari, ita ut in manu eius sit inter between contraries or contradictories, either to act or not to
+contraria, vel contradictoria eligere, vel operari, aut act. For in order for an act to be free it is necessary that it
+non operari. Quia ut actus sit liber, necessarium 280R proceed from a free faculty insofar as it is free. But an act
+est, ut procedat a facultate libera, ut libera est; non will not proceed from a free power insofar as it is such unless
+285 procedet autem a potentia libera, ut talis est, nisi ex- it has its faculty unencumbered with respect to either part,
+peditam habeat suam facultatem quoad utramque at least with respect to acting and to not acting. For of what
+partem, utique operandi, et non operandi. Quid advantage to the freedom of such an act is a power that has
+enim proderit ad libertatem talis actus, quod poten- 285R an innate indifference if that indifference is impeded in that
+tia innatam habeat indifferentiam, si in ipso usu use?
+290	Quae
+necessitas
+repugnet actui
+liberi arbitrii
+eiusque
+facultati:
+quaeve non.
+impediatur? Quapropter supposita distinctione data Therefore, assuming the distinction given between two Which
+necessity is
+repugnant to
+an act of
+freewill and its
+faculty and
+which one is
+not.
+de duplici necessitate, altera ab intrinseco per natu- kinds of necessity—one from an intrinsic [principle] through
+ralem determinationem potentiae ad unum; alia ab a natural determination of the power to one object, the other
+extrinseco per impulsum alicuius extrinseci agentis: 290R from an extrinsic [principle] through the impulse of some
+prior repugnat non solum actui, sed etiam facultati extrinsic agent—the former is repugnant not only to the act
+295 liberi arbitrii, et ideo fieri non potest, ut potentia but also to the faculty of freewill. Therefore, it cannot happen
+libera tali necessitati subdita sit respectu eiusdem that a power subjected to such necessity is free with respect
+obiecti, quia contradictionem involvit, ut per se no- to the same object, since that involves a contradiction, as
+tum est. Posterior autem necessitas non repugnat 295R is known per se. But the latter necessity is not repugnant
+facultati liberae, ut nunc suppono, ut paulo post to a free faculty, as I assume for now and as I will prove a
+300 probabo, repugnat autem actui libero, quia, ut talis little later, but it is repugnant to free acts. For in order for
+sit, oportet, ut procedat a potentia, ut libera, vel an act to be free, it is necessary that it proceed from a power
+quoad specificationem, vel saltem quoad exercitium, insofar as it is free, either with respect to specification or
+iuxta modum, quo actus liber fuerit, quia non habet, 300R at least with respect to exercise, according to the mode by
+quod sit liber, nisi per denominationem a suo prox- which the act will be free. For an act does not have what
+305 imo principio. At vero si actus procedat <col. b> it takes to be free except through denomination from its
+a potentia necessitatem patiente, sive per intrinse- proximate principle. On the other hand, if the act proceeds
+274 39 ] 30 V.
+
+-- 9 of 10 --
+
+Suárez, De gratia, proleg. 1, cap. 1 10
+cam necessitatem potentiae determinatae ad unum, from a power suffering necessity, either through the intrinsic
+sive per extrinsecam necessitatem immissam poten- 305R necessity of a power determined to one object or through
+tiae de se liberae, iam impeditur, et tollitur libertas an extrinsic necessity imposed on a power free of itself, the
+310 actus; ita ut liber dici non possit, nec laude, vel vitu- freedom of the act is already prevented or removed. Thus
+perio dignus, quia non procedit a potentia, ut libera the act cannot be called free and does not merit praise or
+est, nam ipsa non valet necessitatem illam auferre, blame. For it does not proceed from a power insofar as it
+vel praevenire, et ideo non potest illi imputari, quod 310R is free, since it does not prevail to remove or forestall that
+tali modo, et non alio operetur. Quam doctrinam necessity. And for this reason it cannot be held responsible
+315	Tridentinum. satis clare docuit Concilium Tridentinum loco citato, for acting in that way and not in another way. This doctrine
+et necessaria omnino est ad salvanda omnia, quae is taught clearly enough by the Council of Trent in the cited Council of
+Trent.	de humanis actionibus, earumque libertate Scrip- place. Furthermore, it is entirely necessary to preserve all
+tura docet. Ideoque censeo in hoc puncto non essse 315R the things that Scripture teaches about human actions and
+dissensionem inter Catholicos, licet in modo expli- their freedom. Therefore, I think that there is no dissension
+320 candi, et defendendi hanc libertatem possit esse about this point among Catholics, although there can be
+aliqua diversitas. some diversity in the way this freedom is explained and
+defended.
+
+-- 10 of 10 --
