@@ -21,6 +21,7 @@ interface TtsResponse {
 }
 
 type SpeechRecognitionConstructor = new () => SpeechRecognition;
+type AudioPlaybackEngine = 'browser' | 'elevenlabs';
 
 const silentAudioDataUri = 'data:audio/mp3;base64,SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU4LjI5LjEwMAAAAAAAAAAAAAAA//tQxAAAAAAAAAAAAAAAAAAAAAAASW5mbwAAAA8AAAAFAAAGbAAODg4ODhQUFBQUHBwcHBwiIiIiIigoKCgoLi4uLi40NDQ0NDs7Ozs7QUFBQUFHR0dHR05OTk5OVFRUVFRaWlpaWmBgYGBgZ2dnZ2dtbW1tbXNzc3NzeXl5eXmAgICAgIaGhoaGjIyMjIySkpKSkpmZmZmZn5+fn5+lpZWVlZWrq6urq7GxsbGxt7e3t7e9vb29vcPDw8PDycnJycnPz8/Pz9bW1tbW3Nzc3Nzi4uLi4ujq6urq7vLy8vL8/Pz8/P////////////8AAAAATGF2YzU4LjU0AAAAAAAAAAAAAAAAJAV8AAAAAAAABmw1JINLAAAAAAAAAAAAAAAAAAAA//tQxAADwAABpAAAACAAADSAAAAEtNKKqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/+xDEAAPAAAGkAAAAIAAANIAAAAQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0ND';
 const browserVoiceSupportDetected = typeof window !== 'undefined' && 'speechSynthesis' in window;
@@ -88,6 +89,7 @@ const Tab1: React.FC = () => {
   const [listeningSupported, setListeningSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [activeAudioMessageId, setActiveAudioMessageId] = useState<string | null>(null);
+  const [activeAudioEngine, setActiveAudioEngine] = useState<AudioPlaybackEngine | null>(null);
   const [copiedItemId, setCopiedItemId] = useState<string | null>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -112,6 +114,7 @@ const Tab1: React.FC = () => {
     speechUtteranceRef.current = null;
 
     setActiveAudioMessageId(null);
+    setActiveAudioEngine(null);
   }, []);
 
   const clearConversationState = useCallback((nextDraft = '') => {
@@ -333,17 +336,20 @@ const Tab1: React.FC = () => {
     utterance.pitch = 1;
     speechUtteranceRef.current = utterance;
     setActiveAudioMessageId(message.id);
+    setActiveAudioEngine('browser');
 
     await new Promise<void>((resolve, reject) => {
       utterance.onend = () => {
         speechUtteranceRef.current = null;
         setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        setActiveAudioEngine((currentEngine) => (currentEngine === 'browser' ? null : currentEngine));
         resolve();
       };
 
       utterance.onerror = () => {
         speechUtteranceRef.current = null;
         setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+        setActiveAudioEngine((currentEngine) => (currentEngine === 'browser' ? null : currentEngine));
         reject(new Error('Voice playback is unavailable right now.'));
       };
 
@@ -352,14 +358,83 @@ const Tab1: React.FC = () => {
     });
   };
 
-  const playAudioForMessage = async (message: StoredChatMessage) => {
+  const playElevenLabsAudio = async (message: StoredChatMessage, playbackRequestId: number) => {
+    const response = await fetch('/api/tts', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ text: message.content })
+    });
+
+    const payload = await parseApiResponse<TtsResponse>(response);
+    if (!response.ok || !payload.audioBase64) {
+      throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
+    }
+
+    if (payload.truncated) {
+      setError('Audio was limited to a shorter excerpt to reduce ElevenLabs usage.');
+    }
+
+    if (playbackRequestId !== audioRequestIdRef.current) {
+      return;
+    }
+
+    const contentType = payload.contentType || 'audio/mpeg';
+    const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
+    audio.volume = 1;
+    audio.setAttribute('playsinline', 'true');
+    audioRef.current = audio;
+    setActiveAudioMessageId(message.id);
+    setActiveAudioEngine('elevenlabs');
+
+    const clearPlaybackState = () => {
+      if (audioRef.current === audio) {
+        audioRef.current = null;
+      }
+      setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
+      setActiveAudioEngine((currentEngine) => (currentEngine === 'elevenlabs' ? null : currentEngine));
+    };
+
+    audio.onended = clearPlaybackState;
+    audio.onpause = clearPlaybackState;
+    audio.onerror = clearPlaybackState;
+    await audio.play();
+  };
+
+  const playBrowserAudioForMessage = async (message: StoredChatMessage) => {
     if (message.role !== 'assistant') {
       return;
     }
 
     await unlockAudioPlayback();
 
-    if (activeAudioMessageId === message.id) {
+    if (activeAudioMessageId === message.id && activeAudioEngine === 'browser') {
+      stopAudioPlayback();
+      return;
+    }
+
+    stopAudioPlayback();
+    setError('');
+
+    try {
+      await speakWithBrowserVoice(message);
+    } catch (caughtError) {
+      const rootError = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
+      setError(rootError);
+      setActiveAudioMessageId(null);
+      setActiveAudioEngine(null);
+    }
+  };
+
+  const playElevenLabsAudioForMessage = async (message: StoredChatMessage) => {
+    if (message.role !== 'assistant') {
+      return;
+    }
+
+    await unlockAudioPlayback();
+
+    if (activeAudioMessageId === message.id && activeAudioEngine === 'elevenlabs') {
       stopAudioPlayback();
       return;
     }
@@ -368,63 +443,13 @@ const Tab1: React.FC = () => {
     setError('');
     const playbackRequestId = audioRequestIdRef.current;
 
-    let browserVoiceFailure: string | null = null;
-
     try {
-      await speakWithBrowserVoice(message);
-      return;
-    } catch (browserVoiceError) {
-      browserVoiceFailure = browserVoiceError instanceof Error ? browserVoiceError.message : 'Voice playback is unavailable right now.';
-
-      if (playbackRequestId !== audioRequestIdRef.current) {
-        return;
-      }
-
-      try {
-        const response = await fetch('/api/tts', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ text: message.content })
-        });
-
-        const payload = await parseApiResponse<TtsResponse>(response);
-        if (!response.ok || !payload.audioBase64) {
-          throw new Error(formatApiError(payload, 'Voice playback is unavailable right now.'));
-        }
-
-        if (payload.truncated) {
-          setError('Audio was limited to a shorter excerpt to reduce ElevenLabs usage.');
-        }
-
-        if (playbackRequestId !== audioRequestIdRef.current) {
-          return;
-        }
-
-        const contentType = payload.contentType || 'audio/mpeg';
-        const audio = new Audio(`data:${contentType};base64,${payload.audioBase64}`);
-        audio.volume = 1;
-        audio.setAttribute('playsinline', 'true');
-        audioRef.current = audio;
-        setActiveAudioMessageId(message.id);
-
-        const clearPlaybackState = () => {
-          if (audioRef.current === audio) {
-            audioRef.current = null;
-          }
-          setActiveAudioMessageId((currentId) => (currentId === message.id ? null : currentId));
-        };
-
-        audio.onended = clearPlaybackState;
-        audio.onpause = clearPlaybackState;
-        audio.onerror = clearPlaybackState;
-        await audio.play();
-      } catch (caughtError) {
-        const rootError = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
-        setError(rootError || browserVoiceFailure || 'Voice playback failed.');
-        setActiveAudioMessageId(null);
-      }
+      await playElevenLabsAudio(message, playbackRequestId);
+    } catch (caughtError) {
+      const rootError = caughtError instanceof Error ? caughtError.message : 'Voice playback failed.';
+      setError(rootError);
+      setActiveAudioMessageId(null);
+      setActiveAudioEngine(null);
     }
   };
 
@@ -518,14 +543,24 @@ const Tab1: React.FC = () => {
                         {copiedItemId === message.id ? 'Copied' : 'Copy'}
                       </IonButton>
                       {message.role === 'assistant' ? (
-                        <IonButton
-                          className="speak-aloud-button"
-                          fill="clear"
-                          onClick={() => void playAudioForMessage(message)}
-                        >
-                          <IonIcon slot="start" icon={volumeHighOutline} />
-                          {activeAudioMessageId === message.id ? 'Stop Audio' : 'Speak Aloud'}
-                        </IonButton>
+                        <>
+                          <IonButton
+                            className="speak-aloud-button"
+                            fill="clear"
+                            onClick={() => void playBrowserAudioForMessage(message)}
+                          >
+                            <IonIcon slot="start" icon={volumeHighOutline} />
+                            {activeAudioMessageId === message.id && activeAudioEngine === 'browser' ? 'Stop Audio' : 'Speak Aloud'}
+                          </IonButton>
+                          <IonButton
+                            className="magistra-button"
+                            fill="clear"
+                            onClick={() => void playElevenLabsAudioForMessage(message)}
+                          >
+                            <IonIcon slot="start" icon={volumeHighOutline} />
+                            {activeAudioMessageId === message.id && activeAudioEngine === 'elevenlabs' ? 'Stop Magistra' : 'Magistra'}
+                          </IonButton>
+                        </>
                       ) : null}
                     </div>
                   </div>
@@ -577,8 +612,8 @@ const Tab1: React.FC = () => {
               {error ? <p className="chat-error">{error}</p> : null}
               <p className="chat-hint">
                 {listeningSupported
-                  ? `Voice input stays in the same thread as typed questions. ${browserVoiceSupportDetected ? 'Replies only play when you press Speak Aloud.' : 'Replies only play when you press Speak Aloud, and browser voice may fall back to ElevenLabs.'}`
-                  : 'Typing is always available. Replies only play when you press Speak Aloud.'}
+                  ? `Voice input stays in the same thread as typed questions. ${browserVoiceSupportDetected ? 'Use Speak Aloud for your browser voice or Magistra for the ElevenLabs voice.' : 'Use Magistra for the ElevenLabs voice.'}`
+                  : 'Typing is always available. Use Magistra for the ElevenLabs voice.'}
               </p>
             </form>
           </section>

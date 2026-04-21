@@ -381,7 +381,25 @@
 	letter-spacing: 0.01em;
 }
 
+.magistra-button {
+	--background: rgba(94, 46, 13, 0.92);
+	--background-hover: rgba(76, 35, 10, 0.96);
+	--color: #fff7ec;
+	--border-radius: 999px;
+	--min-height: 48px;
+	--padding-start: 16px;
+	--padding-end: 16px;
+	border: 1px solid rgba(94, 46, 13, 0.24);
+	font-size: 0.92rem;
+	font-weight: 800;
+	letter-spacing: 0.01em;
+}
+
 .speak-aloud-button ion-icon {
+	font-size: 1.1rem;
+}
+
+.magistra-button ion-icon {
 	font-size: 1.1rem;
 }
 
@@ -554,6 +572,12 @@
 	}
 
 	.speak-aloud-button {
+		width: 100%;
+		--min-height: 50px;
+		justify-content: center;
+	}
+
+	.magistra-button {
 		width: 100%;
 		--min-height: 50px;
 		justify-content: center;

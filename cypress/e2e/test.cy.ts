@@ -160,4 +160,39 @@ describe('Catholic Tradition AI UI', () => {
     cy.get('.chat-panel').should('not.contain.text', 'sydneypenner.ca')
     cy.get('.chat-panel').should('not.contain.text', 'New Advent')
   })
+
+  it('uses ElevenLabs when Magistra is pressed', () => {
+    cy.intercept('POST', '/api/chat', {
+      statusCode: 200,
+      body: {
+        content: 'Grace perfects nature without destroying it.',
+        mode: 'proofs',
+        model: 'test-model',
+        usage: null
+      }
+    }).as('chatReply')
+
+    cy.intercept('POST', '/api/tts', (request) => {
+      expect(request.body.text).to.eq('Grace perfects nature without destroying it.')
+
+      request.reply({
+        statusCode: 200,
+        body: {
+          audioBase64: 'SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjU4LjI5LjEwMAAAAAAAAAAAAAAA',
+          contentType: 'audio/mpeg',
+          truncated: false,
+          voiceId: 'voice-123'
+        }
+      })
+    }).as('magistraTts')
+
+    cy.visit('/tab1?mode=proofs')
+    cy.get('textarea#chat-input').type('What does grace do to nature?')
+    cy.get('form.chat-composer').submit()
+
+    cy.wait('@chatReply')
+    cy.contains('.chat-bubble-assistant', 'Grace perfects nature without destroying it.')
+    cy.get('.magistra-button').last().click({ force: true })
+    cy.wait('@magistraTts')
+  })
 })
